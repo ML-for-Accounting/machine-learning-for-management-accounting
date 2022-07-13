@@ -1,0 +1,1413 @@
+ts   
+
+UNITED STATES  
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+  Washington, D.C. 20549  
+
+FORM 10-Q  
+
+For the quarterly period ended June 30,
+2018  
+
+or  
+
+For the transition period from __________
+to __________  
+
+Commission File Number 0-29185  
+
+QS ENERGY, INC.   
+
+ (Exact name of registrant as specified in
+its charter) 
+
+Nevada   
+       52-2088326    
+
+(State or other jurisdiction of 
+         incorporation or organization)  
+     
+         (I.R.S. Employer 
+         Identification No.)   
+
+23902 FM 2978  
+
+  Tomball, TX 77375  
+
+ (Address, including zip code, of principal
+executive offices) 
+
+(805)-845-3561  
+
+ (Registrant s telephone number, including
+area code) 
+
+Securities registered pursuant to Section 12(b)
+of the Exchange Act: None. 
+
+Securities registered pursuant to Section 12(g)
+of the Exchange Act: Common Stock, $0.001 par value. 
+
+Check whether the Registrant (1) filed
+all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.  Yes   No   
+
+Indicate by check mark whether the registrant
+has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted
+and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter
+period that the registrant was required to submit and post such files). Yes   No   
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of  large accelerated filer,   accelerated filer ,  smaller reporting company ,
+and  emerging growth company  in Rule 12b-2 of the Exchange Act. (Check one) 
+
+Large accelerated filer     
+      Accelerated filer     
+
+Non-accelerated filer    
+      Smaller reporting company     
+
+Emerging growth company    
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act.   
+
+Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Exchange Act).  Yes   No   
+
+The number of shares of the Registrant s Common Stock
+outstanding as of August 13, 2018 was 251,448,515. 
+
+QS ENERGY, INC. 
+FORM 10-Q  
+
+INDEX  
+
+PART I   FINANCIAL INFORMATION   
+      3   
+ 
+       Item 1.   Unaudited Condensed Consolidated Financial Statements   
+      3   
+ 
+       Condensed Consolidated Balance Sheet   
+      3   
+ 
+       Condensed Consolidated Statement of Operations, Unaudited   
+      4   
+ 
+       Condensed Consolidated Statement of Stockholders  Deficit, Unaudited   
+      5   
+ 
+       Condensed Consolidated Statements of Cash Flows, Unaudited   
+      6   
+ 
+       Item 2.   Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      16   
+ 
+       Item 3.   Quantitative and Qualitative Disclosure about Market Risk   
+      23   
+ 
+       Item 4.   Controls and Procedures   
+      23   
+ 
+       PART II   OTHER INFORMATION   
+
+Item 1.   Legal Proceedings   
+      24   
+ 
+       Item 1A.   Risk Factors   
+      24   
+ 
+       Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds   
+      24   
+ 
+       Item 3.   Defaults Upon Senior Securities   
+      24   
+ 
+       Item 4.   Mine Safety Disclosures   
+      24   
+ 
+       Item 5.   Other Information   
+      24   
+ 
+       Item 6.   Exhibits   
+      25   
+ 
+       SIGNATURES   
+      26   
+ 
+       EXHIBITS   
+      27   
+ 
+       EXHIBIT 31.1   
+
+EXHIBIT 31.2   
+
+EXHIBIT 32   
+
+PART
+I   FINANCIAL INFORMATION   
+
+Item 1. Unaudited Condensed Consolidated
+Financial Statements  
+
+QS ENERGY, INC.  
+
+     Condensed
+Consolidated Balance Sheet   
+
+See notes to condensed consolidated financial
+statements. 
+
+QS ENERGY, INC.  
+
+     Condensed
+Consolidated Statement of Operations, Unaudited   
+
+See notes to condensed consolidated financial
+statements. 
+
+QS ENERGY, INC.  
+
+     Condensed
+Consolidated Statement of Stockholders  Deficit, Unaudited   
+
+   For
+the SIX months Ended JUNE 30, 2018   
+
+See notes to condensed consolidated financial
+statements. 
+
+QS ENERGY, INC.  
+
+     Condensed
+Consolidated Statements of Cash Flows, Unaudited   
+
+See notes to condensed consolidated financial
+statements. 
+
+QS ENERGY, INC. 
+   Notes to Condensed Consolidated Financial Statements, Unaudited   
+
+  SIX MONTHS ENDED JUNE 30, 2018 AND 2017  
+
+1.   
+       Description of Business     
+
+QS Energy, Inc. ( QS
+Energy ,  Company ) was incorporated on February 18, 1998, as a Nevada Corporation under the name Mandalay Capital
+Corporation. The Company changed its name to Save the World Air, Inc. on February 11, 1999. Effective August 11, 2015, the Company
+changed its name to QS Energy, Inc. The Company s common stock is quoted under the symbol  QSEP  on the Over-the-Counter
+Bulletin Board. More information including the Company s fact sheet, logos and media articles are available at our corporate
+website, www.qsenergy.com. 
+
+QS Energy develops
+and commercializes energy efficiency technologies that assist in meeting increasing global energy demands, improving the economics
+of oil extraction and transport, and reducing greenhouse gas emissions. The Company's intellectual properties include a portfolio
+of domestic and international patents and patents pending, a substantial portion of which have been developed in conjunction with
+and exclusively licensed from Temple University of Philadelphia, PA ( Temple ). QS Energy's primary technology is called
+Applied Oil Technology (AOT), a commercial-grade crude oil pipeline transportation flow-assurance product. Engineered specifically
+to reduce pipeline pressure loss, increase pipeline flow rate and capacity, and reduce shippers  reliance on diluents and
+drag reducing agents to meet pipeline maximum viscosity requirements, AOT is a 100% solid-state system that reduces crude oil viscosity
+by applying a high intensity electrical field to crude oil feedstock while in transit. The AOT product has transitioned from the
+research and development stage to initial production for continued testing in advance of our goal of seeking acceptance and adoption
+by the midstream pipeline marketplace. 
+
+The Company commenced,
+but has suspended for now, commercial development of a suite of products based on the direct application of an electrical current
+crude oil; a process known as Joule Heat. The Company built and tested its first Joule Heat unit in 2015. Though the test unit
+was functional, changes to the prototype configuration will be required to determine commercial effectiveness of this technology.
+In December 2015, we suspended Joule Heat development activities to focus Company resources on finalizing commercial development
+of the AOT. We plan to resume Joule Heat development in the future depending on the availability of sufficient capital and other
+resources. 
+
+Basis of Presentation  
+
+The accompanying condensed
+consolidated financial statements are unaudited. These unaudited interim condensed consolidated financial statements have been
+prepared in accordance with accounting principles generally accepted in the United States of America ( GAAP ) and applicable
+rules and regulations of the Securities and Exchange Commission ( SEC ) regarding interim financial reporting. Certain
+information and note disclosures normally included in the financial statements prepared in accordance with GAAP have been condensed
+or omitted pursuant to such rules and regulations. Accordingly, these interim condensed consolidated financial statements should
+be read in conjunction with the consolidated financial statements and notes thereto contained in the Company s Annual Report
+on Form 10-K for the fiscal year ended December 31, 2017 filed with the SEC. The condensed consolidated balance sheet as of December
+31, 2017 included herein was derived from the audited consolidated financial statements as of that date, but does not include all
+disclosures, including notes, required by GAAP. 
+
+In the opinion of management,
+the accompanying unaudited condensed consolidated financial statements contain all adjustments necessary to fairly present the
+Company's financial position and results of operations for the interim periods reflected. Except as noted, all adjustments contained
+herein are of a normal recurring nature. Results of operations for the fiscal periods presented herein are not necessarily indicative
+of fiscal year-end results. 
+
+2.   
+       Summary of Significant Accounting Policies    
+
+Consolidation Policy   
+
+The accompanying consolidated
+financial statements of QS Energy Inc. include the accounts of QS Energy Inc. (the Parent) and its wholly owned subsidiaries, QS
+Energy Pool, Inc. and STWA Asia Pte. Limited. Intercompany transactions and balances have been eliminated in consolidation. 
+
+Going Concern   
+
+The accompanying consolidated
+financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the settlement
+of liabilities and commitments in the normal course of business. As reflected in the accompanying consolidated financial statements,
+during the six-months ended June 30, 2018, the Company incurred a net loss of $1,458,000, used cash in operations of $676,000 and
+had a stockholders  deficit of $1,772,000 as of that date. These factors raise substantial doubt about the Company s
+ability to continue as a going concern. The ability of the Company to continue as a going concern is dependent upon the Company s
+ability to raise additional funds and implement its business plan. The financial statements do not include any adjustments that
+might be necessary if the Company is unable to continue as a going concern. 
+
+In addition, the Company's
+independent registered public accounting firm, in its report on the Company's December 31, 2017 financial statements, has raised
+substantial doubt about the Company's ability to continue as a going concern. 
+
+At June 30, 2018, the
+Company had cash on hand in the amount of $493,000. Management estimates that the current funds on hand will be sufficient to continue
+operations through November 2018. Management is currently seeking additional funds, primarily through the issuance of debt and
+equity securities for cash to operate our business, including without limitation the expenses it will incur in connection with
+the license agreements with Temple; costs associated with product development and commercialization of the AOT technologies; costs
+to manufacture and ship the products; costs to design and implement an effective system of internal controls and disclosure controls
+and procedures; costs of maintaining our status as a public company by filing periodic reports with the SEC and costs required
+to protect our intellectual property. In addition, as discussed below, the Company has substantial contractual commitments, including
+without limitation salaries to our executive officers pursuant to employment agreements, certain payments to a former officer and
+consulting fees, during the remainder of 2018 and beyond. 
+
+No assurance can be
+given that any future financing will be available or, if available, that it will be on terms that are satisfactory to the Company.
+Even if the Company is able to obtain additional financing, it may contain undue restrictions on our operations, in the case of
+debt financing or cause substantial dilution for our stockholders in case of equity financing. 
+
+Basic and Diluted Income
+(loss) per share   
+
+Our computation of
+earnings per share ( EPS ) includes basic and diluted EPS. Basic EPS is measured as the income (loss) available to
+common stockholders divided by the weighted average common shares outstanding for the period. Diluted income (loss) per share reflects
+the potential dilution, using the treasury stock method, that could occur if securities or other contracts to issue common stock
+were exercised or converted into common stock or resulted in the issuance of common stock that then shared in the income (loss)
+of the Company as if they had been converted at the beginning of the periods presented, or issuance date, if later. In computing
+diluted income (loss) per share, the treasury stock method assumes that outstanding options and warrants are exercised and the
+proceeds are used to purchase common stock at the average market price during the period. Options and warrants may have a dilutive
+effect under the treasury stock method only when the average market price of the common stock during the period exceeds the exercise
+price of the options and warrants. Potential common shares that have an antidilutive effect (i.e., those that increase income per
+share or decrease loss per share) are excluded from the calculation of diluted EPS. 
+
+Income (loss) per common
+share is computed by dividing net income (loss) by the weighted average number of shares of common stock outstanding during the
+respective periods. Basic and diluted (loss) per common share is the same for periods in which the Company reported an operating
+loss because all warrants and stock options outstanding are anti-dilutive. At June 30, 2018 and 2017, we excluded the outstanding
+securities summarized below, which entitle the holders thereof to acquire shares of common stock as their effect would have been
+anti-dilutive. 
+
+Estimates   
+
+The preparation of
+financial statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the
+financial statements and the reported amounts of revenues and expenses during the reporting period. Significant estimates include
+those related to accruals for potential liabilities, assumptions used in valuing equity instruments issued for financing and services
+and realization of deferred tax assets, among others. Actual results could differ from those estimates. 
+
+Revenue Recognition
+Policy   
+
+In September 2014,
+the Financial Accounting Standards Board issued Accounting Standards Update No. 2014-09 (ASU No. 2014-09) regarding revenue recognition.
+The new standard provides authoritative guidance clarifying the principles for recognizing revenue and developing a common revenue
+standard for U.S. generally accepted accounting principles. The core principle of the guidance is that an entity should recognize
+revenue to depict the transfer of promised goods and services to customers in an amount that reflects the consideration to which
+the entity expects to be entitled in the exchange for those goods or services. The ASU became effective January 1, 2018. 
+
+The Company s
+commercialization of our energy efficiency technologies that would assist in meeting increasing global energy demands, improving
+the economics of oil extraction and transport, and reducing greenhouse gas emission have not yet reached the market and therefore;
+have not generated considerable revenue. Due to the nature of the products leased by the Company and the stage of development in
+which the products reside the adoption of the new standard has had no quantitative effect on the financial statements. 
+
+Under the new guidance,
+revenue is recognized when control of promised goods or services is transferred to our customers, in an amount that reflects the
+consideration we expect to be entitled to in exchange for those leased products and ancillary services. The Company will review
+its lease transactions to identify contractual rights, performance obligations, and transaction prices, including the allocation
+of prices to separate performance obligations, if applicable. Revenue and costs of sales are recognized once products/services
+are delivered to the customer s control and performance obligations are satisfied. 
+
+Research and Development
+Costs   
+
+Costs incurred for
+research and development are expensed as incurred. Purchased materials that do not have an alternative future use are also expensed.
+Furthermore, costs incurred in the construction of prototypes with no certainty of any alternative future use and established commercial
+uses are also expensed. 
+
+For the six-month periods
+ended June 30, 2018 and 2017 research and development costs were $95,000 and $120,000, respectively. 
+
+Patent Costs   
+
+Patent costs consist
+of patent-related legal and filing fees. Due to the uncertainty associated with the successful development of our AOT and Joule
+Heat products, all patent costs are expensed as incurred. During the six-month periods ended June 30, 2018 and 2017, patent costs
+were $12,000 and $24,000, respectively, and were included as part of operating expenses in the accompanying consolidated statements
+of operations. During the three-month periods ended June 30, 2018 and 2017, patent costs were $6,000 and $7,000, respectively,
+and were included as part of operating expenses in the accompanying consolidated statements of operations. 
+
+Recent Accounting Pronouncements   
+
+In February 2016, the
+FASB issued Accounting Standards Update (ASU) No. 2016-02,  Leases . ASU 2016-02 requires a lessee to record a right of use
+asset and a corresponding lease liability on the balance sheet for all leases with terms longer than 12 months. ASU 2016-02 is
+effective for all interim and annual reporting periods beginning after December 15, 2018. Early adoption is permitted. A modified
+retrospective transition approach is required for lessees for capital and operating leases existing at, or entered into after,
+the beginning of the earliest comparative period presented in the financial statements, with certain practical expedients available.
+The Company is in the process of evaluating the impact of ASU 2016-02 on the Company s financial statements and disclosures. 
+
+In July 2017, the FASB
+issued Accounting Standards Update No. 2017-11, Earnings Per Share (Topic 260); Distinguishing Liabilities from Equity (Topic 480);
+Derivatives and Hedging (Topic 815): (Part I) Accounting for Certain Financial Instruments with Down Round Features; (Part II)
+Replacement of the Indefinite Deferral for Mandatorily Redeemable Financial Instruments of Certain Nonpublic Entities and Certain
+Mandatorily Redeemable Noncontrolling Interests with a Scope Exception ( ASU 2017-11 ). ASU 2017-11 allows companies
+to exclude a down round feature when determining whether a financial instrument (or embedded conversion feature) is considered
+indexed to the entity s own stock. As a result, financial instruments (or embedded conversion features) with down round features
+may no longer be required to be accounted for as derivative liabilities. A company will recognize the value of a down round feature
+only when it is triggered, and the strike price has been adjusted downward. For equity-classified freestanding financial instruments,
+an entity will treat the value of the effect of the down round as a dividend and a reduction of income available to common shareholders
+in computing basic earnings per share. For convertible instruments with embedded conversion features containing down round provisions,
+entities will recognize the value of the down round as a beneficial conversion discount to be amortized to earnings. ASU 2017-11
+is effective for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. Early adoption
+is permitted. The guidance in ASU 2017-11 is to be applied using a full or modified retrospective approach. The adoption of ASU
+2017-11 is not currently expected to have any impact on the Company s financial statement presentation or disclosures. 
+
+Other recent accounting
+pronouncements issued by the FASB, including its Emerging Issues Task Force, the American Institute of Certified Public Accountants,
+and the Securities and Exchange Commission did not or are not believed by management to have a material impact on the Company's
+present or future consolidated financial statement presentation or disclosures. 
+
+3.   
+       Accrued Expenses and Accounts Payables    
+
+Accrued Expenses   
+
+On April 1, 2017,
+the Company executed a Separation Agreement and release effective with the Company s former Chief Executive Officer (CEO).
+As part of the agreement, the Company agreed to pay the former CEO $580,000 in severance, payable in equal installment over 24
+months. In addition, the Company also agreed to continue paying certain expenses for the CEO for 24 months with an estimated cost
+of $44,000. As a result, the Company accrued the entire $624,000 as of March 31, 2017 which was also reported as part of operating
+expenses in the accompanying 2017 consolidated statements of operations. As of June 30, 2018 and December 31, 2017, $377,000 and
+$390,000, respectively, was due to our former CEO which was reported as part of accrued expenses and accounts payable in the accompanying
+consolidated balance sheet. The Company began deferring payments under the Separation Agreement in January 2018 and is currently
+in arrears. The former CEO has made demands for all deferred payments and has proposed an amendment to the Separation Agreement
+that contained terms and conditions that are unacceptable to the Company, and has threatened litigation to recover the deferred
+payments, future payments due under the Separation Agreement, and damages. The Company has attempted to settle this matter with
+the former CEO. This matter has not yet been resolved. 
+
+Accrued Expenses
+and Accounts Payable   Related Parties   
+
+Accrued expense  
+related parties consists of accrued salaries due to officers and fees due to members of the Board of Directors. As of June 30,
+2018, and December 31, 2017, accrued expenses and accounts payable to related parties amounted to $43,000 and $31,000, respectively. 
+
+4.   
+       Property and Equipment    
+
+At June 30, 2018 and
+December 31, 2017, property and equipment consists of the following: 
+
+Depreciation expense
+for the six-month periods ended June 30, 2018 and 2017 was $17,000 and $4,000, respectively. Depreciation expense for the three-month
+periods ended June 30, 2018 and 2017 was $9,000 and $2,000, respectively. 
+
+5.   
+       Convertible Notes     
+
+As in the prior years,
+the Company continues to issue convertible notes in exchange for cash. The notes typically do not bear any interest, however, there
+is an implied interest rate of 10% since the notes are typically issued at a 10% discount. The notes are unsecured, and usually
+mature twelve months from issuance. The notes are convertible at the option of the note holder into the Company s common
+stock at a conversion price stipulated in the conversion agreement. In addition, the note holders received warrants to purchase
+shares of common stock that are fully vested and will expire in one year from the date of issuance. 
+
+As a result, the Company
+records a note discount to account for the relative fair value of the warrants, the notes  beneficial conversion feature
+or BCF, and original issue discount of 10% (OID). The note discounts are amortized over the term of the notes or amortized in full
+upon its conversion to common stock. 
+
+At December 31, 2017,
+total outstanding notes payable amounted to $509,000, accrued penalty interest of $71,000 and unamortized note discount of $47,000,
+or a net balance of $533,000. During the six-month period ending June 30, 2018, the Company issued similar convertible promissory
+notes in the aggregate of $350,000 for cash of $318,000 or a discount of $32,000. The notes do not bear any interest, however,
+the implied interest rate used was 10% since the notes were issued at a price 10% less than its face value. The notes are unsecured,
+mature in twelve months from issuance and convertible at $0.08 per share. In addition, the Company also granted these note holders
+warrants to purchase 2,189,688 shares of the Company  common stock. The warrants are fully vested, exercisable at $0.08
+per share and will expire in one year. Upon issuance, the Company recorded a note discount of $350,000 to account for the relative
+fair value of the warrants, the notes  BCF, and OID. The note discounts are being amortized over the term of the note or
+amortized in full upon the conversion to common stock. 
+
+During the period
+ended June 30, 2018, a total of $336,000 notes payable was converted into 4,624,125 shares of common stock. In addition, note
+discount of $381,000 was amortized to interest expense, and interest of $28,000 was accrued. 
+
+As of June 30, 2018,
+total outstanding notes payable amounted to $524,000, accrued interest of $99,000 and unamortized note discount of $47,000 for
+a net balance of $576,000. In addition, a total of eight notes amounting to $454,000 reached maturity and are past due. The Company
+is currently in negotiations with the noteholders to settle the matured notes payable. 
+
+6.   
+       Research and Development    
+
+The Company constructs,
+develops and tests the AOT technologies with internal resources and through the assistance of various third-party entities. Costs
+incurred and expensed include fees such as license fees, purchase of test equipment, pipeline pumping equipment, crude oil tank
+batteries, viscometers, SCADA systems, computer equipment, payroll and other related equipment and various logistical expenses
+for the purposes of evaluating and testing the Company s AOT prototypes. 
+
+Costs incurred for
+research and development are expensed as incurred. Purchased materials that do not have an alternative future use are also expensed.
+Furthermore, costs incurred in the construction of prototypes with no certainty of any alternative future use and established commercial
+uses are also expensed. 
+
+For the six-month periods
+ended June 30, 2018 and 2017, our research and development expenses were $95,000 and $120,000 respectively. For the three-month
+periods ended June 30, 2018 and 2017, our research and development expenses were $48,000 and $56,000, respectively. 
+
+AOT Product Development
+and Testing    
+
+The Company constructs,
+develops and tests the AOT technologies with internal resources and through the assistance of various third-party entities. Costs
+incurred and expensed include fees such as testing fees, purchase of test equipment, pipeline pumping equipment, crude oil tank
+batteries, viscometers, SCADA systems, computer equipment, payroll and other related equipment and various logistical expenses
+for the purposes of evaluating and testing the Company s AOT prototypes. 
+
+During the six-month
+periods ended June 30, 2018 and 2017, the Company incurred total expenses of $1,000 and $26,000, respectively, in the manufacture,
+delivery and testing of the AOT prototype equipment. During the three-month periods ended June 30, 2018 and 2017, the Company incurred
+total expenses of $1,000 and $9,000, respectively. These expenses have been reflected as part of Research and Development expenses
+on the accompanying consolidated statements of operations. 
+
+Temple University Licensing
+Agreement   
+
+On August 1, 2011,
+the Company and Temple University ( Temple ) entered into two (2) Exclusive License Agreements (collectively, the  License
+Agreements ) relating to Temple s patent applications, patents and technical information pertaining to technology associated
+with an electric and/or magnetic field assisted fuel injector system (the  First Temple License ), and to technology
+to reduce crude oil viscosity (the  Second Temple License ). The License Agreements are exclusive and the territory
+licensed to the Company is worldwide and replace previously issued License Agreements. 
+
+Pursuant to the two
+licensing agreements, the Company agreed to pay Temple the following: (i) non-refundable license maintenance fee of $300,000;
+(ii) annual maintenance fees of $187,500; (iii) royalty fee ranging from 4% up to 7% from revenues generated from the licensing
+agreements; and (iv) 25% of all revenues generated from sub-licensees to secure or maintain the sub-license or option thereon.
+Temple also agreed to defer $37,500 of the amount due if the Company agreed to fund at least $250,000 in research or development
+of Temple s patent rights licensed to the Company. The term of the licenses commenced in August 2011 and will expire upon
+the expiration of the patents. The agreement can also be terminated by either party upon notification under terms of the licensing
+agreements or if the Company ceases the development of the patent or failure to commercialize the patent rights. 
+
+Total expenses recognized
+during each six-month period ended June 30, 2018 and 2017 pursuant to these two agreements amounted to $94,000 and $96,000, respectively.
+Total expenses recognized during each three-month period ended June 30, 2018 and 2017 pursuant to these two agreements amounted
+to $47,000 in each year. These expenses have been reflected in Research and Development expenses on the accompanying consolidated
+statements of operations. 
+
+As of December 31,
+2016, total unpaid fees due to Temple pursuant to these agreements amounted to $726,000. In July 2017, the Company and Temple amended
+the Second Temple License agreement. Pursuant to the amendment, the Company paid Temple $62,000 and Temple agreed to defer payment
+of the remaining $135,000 in unpaid licensing fee until such time the Company generates revenues totaling $835,000 from the license.
+In addition, the unpaid balance of $135,000 will accrue interest of 9% per annum. 
+
+As of June 30, 2018,
+and December 31, 2017, total unpaid fees due to Temple pursuant to these agreements amounted to $964,000 and $842,000, respectively,
+which are included as part of Accounts payable   licensing agreements in the accompanying consolidated balance sheets. With
+regards to the unpaid fees to Temple, a total of $68,000 are current, $405,000 are deferred until such time the Company achieves
+a revenue milestone of $835,000 or upon termination of the licensing agreements and the remaining $491,000 are deemed past due.
+The past due amount of $491,000 is owed pursuant to the First Temple License. The Company is currently in negotiations with Temple
+to settle or cure the past due balance. 
+
+The Company generated
+$50,000 in revenue from the viscosity reduction license during the three-month period ended March 31, 2017. This amount is not
+sufficient to be subject to additional license fees under the license agreement. No revenues were earned from the two license agreements
+during the six-month period ended June 30, 2018. 
+
+Temple University Sponsored
+Research Agreement   
+
+From March 2012 through
+August 2015, the Temple University ( Temple ) provided research services at a fixed annual cost under a Sponsored Research
+Agreement ( Research Agreement ). The Research Agreement expired in August 2015. Temple University continues to perform
+laboratory tests on an as-needed basis; expenses are incurred on a per-test basis. 
+
+As of June 30, 2018,
+and December 31, 2017, total unpaid fees due to Temple pursuant to the Research Agreement were $10,000, which are included as part
+of Accounts payable   licensing agreements in the accompanying consolidated balance sheets. As of June 30, 2018, the entire
+$10,000 is deemed past due. 
+
+7.   
+       Common Stock    
+
+During the six months ended June 30,
+2018, the Company issued 17,371,608 shares of its common stock as follows: 
+
+8.   
+       Stock Options and Warrants    
+
+The Company periodically
+issues stock options and warrants to directors, employees, and non-employees in capital raising transactions, for services and
+for financing costs. Options vest and expire according to terms established at the grant date. 
+
+Options   
+
+Options vest according
+to the terms of the specific grant and expire from 2 to 10 years from date of grant. The weighted-average, remaining contractual
+life of employee and non-employee options outstanding at June 30, 2018 was 5.4 years. Stock option activity for the period January
+1, 2018 up to June 30, 2018, was as follows: 
+
+The weighted average
+exercise prices, remaining contractual lives for options granted, exercisable, and expected to vest as of June 30, 2018 were as
+follows: 
+
+During the six-month
+period ending June 30, 2018, and pursuant to the Company s Board Compensation policy approved by the Board June 19, 2015,
+the Company granted options to purchase 2,083,335 shares of common stock to members of the Company s Board of Directors.
+The options are exercisable at $0.18 per share, vest monthly over a twelve-month period, and expire ten years from the date granted.
+Total fair value of these options at grant date was $313,000 using the Black-Scholes Option Pricing model with the following assumptions:
+life of 5 years; risk free interest rate of 1.7%; volatility of 118% and dividend yield of 0%. 
+
+During the six-month
+periods ended June 30, 2018 and 2017, the Company recognized compensation costs based on the fair value of options that vested
+of $245,000 and $535,000 respectively, which is included in Operating expenses in the Company s statement of operations.
+During the three-month periods ended June 30, 2018 and 2017, the Company recognized compensation costs based on the fair value
+of options that vested of $102,000 and $300,000 respectively, which is included in Operating expenses in the Company s statement
+of operations. 
+
+At June 30, 2018, the
+Company s closing stock price was $0.12 per share. The aggregate intrinsic value of the options outstanding at June 30, 2018
+was $520,000. Future unamortized compensation expense on the unvested outstanding options at June 30, 2018 is $209,000 to be recognized
+through May 2019. 
+
+Warrants   
+
+The following table
+summarizes certain information about the Company s stock purchase warrants activity for the period starting January 1, 2018
+up to June 30, 2018. 
+
+The weighted average
+exercise prices, remaining contractual lives for warrants granted, exercisable, and expected to vest as of June 30, 2018 were as
+follows: 
+
+In the six-month period
+ending June 30, 2018, pursuant to terms of convertible notes issued, the Company granted warrants to purchase 2,189,688 shares
+of common stock with an exercise price of $0.08 per share, vesting immediately upon grant and expiring one year from the date of
+grant (see Note 5). 
+
+During the six-month
+period ended March 31, 2018, warrants to acquire 12,217,773 shares of common stock were exercised resulting in net proceeds to
+the Company of $634,000. 
+
+At June 30, 2018, the
+aggregate intrinsic value of the warrants outstanding was $77,000. 
+
+9.   
+       Commitments and Contingencies    
+
+There is no current
+or pending litigation of any significance with the exception of the matters that have arisen under, and are being handled in, the
+normal course of business. 
+
+Issuance of Convertible Notes   
+
+From July 1 up to July
+31, 2018, the Company issued convertible notes in aggregate of $228,000 in exchange for cash of $208,000. The notes are unsecured,
+convertible into 4,565,000 shares of common stock of the Company at a conversion price of $0.05 per share and mature in one year.
+In connection with these notes, the Company also issued warrants to purchase 2,282,500 shares of common stock of the Company at
+an exercise price of $0.05 per share and expiring one year from the date of issuance. As a result, the Company will record a note
+discount of $228,000 to account for the relative fair value of the warrants, the notes  beneficial conversion feature and
+original issue discount which will be amortized as interest expense over the life of the notes. 
+
+Annual Meeting
+of Shareholders   
+
+The Board, at its meeting on August 13, 2018, set the date for the Annual Meeting of Shareholders for
+November 9, 2018, and set September 10, 2018, as the Record Date for the meeting. 
+
+Item 2. Management s Discussion
+and Analysis of Financial Condition and Results of Operations  
+
+The following discussion
+and analysis of our financial condition and results of operations should be read in conjunction with the Consolidated Financial
+Statements and supplementary data referred to in this Form 10-Q. 
+
+This discussion contains
+forward-looking statements that involve risks and uncertainties. Such statements, which include statements concerning future revenue
+sources and concentration, selling, general and administrative expenses, research and development expenses, capital resources,
+additional financings and additional losses, are subject to risks and uncertainties, including, but not limited to, those discussed
+elsewhere in this Form 10-Q, and in the  Risk Factors  section filed with the SEC on April 2, 2018, that could cause
+actual results to differ materially from those projected. Unless otherwise expressly indicated, the information set forth in this
+Form 10-Q is as of June 30, 2018, and we undertake no duty to update this information. 
+
+Overview  
+
+QS Energy, Inc. ( QS
+Energy  or  Company  or  we  or  us  or  our ) develops and commercializes
+energy efficiency technologies that assist in meeting increasing global energy demands, improving the economics of oil transport,
+and reducing greenhouse gas emissions. The Company's intellectual properties include a portfolio of domestic and international
+patents and patents pending, a substantial portion of which have been developed in conjunction with and exclusively licensed from
+Temple University of Philadelphia, PA ( Temple ). QS Energy's primary technology is called Applied Oil Technology (AOT),
+a commercial-grade crude oil pipeline transportation flow-assurance product. Engineered specifically to reduce pipeline pressure
+loss, increase pipeline flow rate and capacity, and reduce shippers  reliance on diluents and drag reducing agents to meet
+pipeline maximum viscosity requirements, AOT is a 100% solid-state system that reduces crude oil viscosity by applying a high intensity
+electrical field to crude oil while in transit. AOT technology delivers reductions in crude oil viscosity and pipeline pressure
+loss as demonstrated in independent third-party tests performed by the U.S. Department of Energy, the PetroChina Pipeline R D
+Center, and ATS RheoSystems, a division of CANNON , at full-scale test facilities in the U.S. and China, and under commercial
+operating conditions on one of North America s largest high-volume crude oil pipelines. Prior testing on a commercial crude
+oil condensate pipeline demonstrated high correlation between laboratory analysis and full-scale AOT operations under commercial
+operating conditions with onsite measurements and data collected by the pipeline operator on its supervisory control and data acquisition
+( SCADA ) system. The AOT product has transitioned from laboratory testing and ongoing research and development to
+initial production and continued testing in advance of our goal of seeking acceptance and adoption by the upstream and midstream
+pipeline marketplace. We continue to devote the bulk of our efforts to the promotion, design, testing and the commercial manufacturing
+and operations of our crude oil pipeline products in the upstream and midstream energy sector. We anticipate that these efforts
+will continue during 2018. 
+
+Our Company was incorporated
+on February 18, 1998, as a Nevada Corporation under the name Mandalay Capital Corporation. The Company changed its name to Save
+the World Air, Inc. on February 11, 1999. Effective August 11, 2015, the Company changed its name to QS Energy, Inc. The name change
+was affected through a short-form merger pursuant to Section 92A.180 of the Nevada Revised Statutes. Additionally, QS Energy Pool,
+Inc., a California corporation, was formed as a wholly-owned subsidiary of the Company on July 6, 2015 to serve as a vehicle for
+the Company to explore, review and consider acquisition opportunities. To date, QS Energy Pool has not entered into any acquisition
+transaction. The Company s common stock is quoted under the symbol  QSEP  on the Over-the-Counter Bulletin Board.
+More information including the Company s fact sheet, logos and media articles are available at our corporate website, www.qsenergy.com. 
+
+Between 2011 and 2012,
+the Company transitioned from prototype testing of its AOT technology at the U.S. Department of Energy Rocky Mountain Oilfield
+Testing Center, Midwest, Wyoming ( RMOTC ), to the design and production of full-scale commercial prototype units.
+The Company worked in a collaborative engineering environment with multiple energy industry companies to refine the AOT commercial
+design to comply with the stringent standards and qualification processes as dictated by independent engineering audit groups and
+North American industry regulatory bodies. In May 2013, the Company s first commercial prototype was completed. 
+
+In 2013, the Company
+entered into an Equipment Lease/Option to Purchase Agreement ( TransCanada Lease ) with TransCanada Keystone Pipeline,
+L.P. by its agent TC Oil Pipeline Operations, Inc. ( TransCanada ) which agreed to lease and test the effectiveness of
+the Company s AOT technology and equipment on one of TransCanada s operating pipelines. As previously reported in our
+10-K report filed with the SEC on March 16, 2015, in June 2014, the equipment was accepted by TransCanada and the lease commenced
+and the first full test of the AOT equipment on the Keystone pipeline was performed in July 2014 by Dr. Rongjia Tao of Temple University,
+with subsequent testing performed by an independent laboratory, ATS RheoSystems, a division of CANNON  ( ATS )
+in September 2014. Upon review of the July 2014 test results and preliminary report by Dr. Tao, QS Energy and TransCanada mutually
+agreed that this initial test was flawed due to, among other factors, the short-term nature of the test, the inability to isolate
+certain independent pipeline operating factors such as fluctuations in upstream pump station pressures, and limitations of the
+AOT device to produce a sufficient electric field to optimize viscosity reduction. Subsequent testing by ATS in September 2014
+demonstrated viscosity reductions of 8% to 23% depending on flow rates and crude oil types in transit. In its summary report, ATS
+concluded that i) data indicated a decrease in viscosity of crude oil flowing through the TransCanada pipeline due to AOT treatment
+of the crude oil; and ii) the power supply installed on our equipment would need to be increased to maximize reduction in viscosity
+and take full advantage of the AOT technology. While more testing is required to establish the commercial efficacy of our AOT technology,
+we are encouraged by the findings of these field tests performed under commercial operating conditions. The TransCanada Lease was
+terminated by TransCanada, effective October 15, 2014. Upon termination of the TransCanada Lease, all equipment was uninstalled,
+returned, inspected and configured for re-deployment. 
+
+On July 15, 2014, the
+Company entered into an Equipment Lease/Option to Purchase Agreement ( Kinder Morgan Lease ) with Kinder Morgan Crude
+  Condensate, LLC ( Kinder Morgan ) under which Kinder Morgan agreed to lease and test the effectiveness of the
+Company s AOT technology and equipment on one of Kinder Morgan s operating pipelines. Equipment provided under the
+Lease includes a single AOT pressure vessel with a maximum flow capacity of 5,000 gallons per minute. The equipment was delivered
+to Kinder Morgan in December 2014 and installed in March 2015. In April 2015, during pre-start testing, low electrical impedance
+was measured in the unit, indicating an electrical short. A replacement unit was installed May 2015. The second unit also presented
+with low impedance when flooded with crude condensate from Kinder Morgan s pipeline. Subsequent to design modifications,
+a remanufactured AOT unit was installed and tested at Kinder Morgan s pipeline facility in August 2015. Initial results were
+promising, with the unit operating generally as expected. However, voltage dropped as preliminary tests continued, indicating decreased
+impedance within the AOT pressure vessel. QS Energy personnel and outside consultants performed a series of troubleshooting assessments
+and determined that, despite modifications made to the AOT, conductive materials present in the crude oil condensate continued
+to be the root cause of the decreased impedance. Based on these results, QS Energy and Kinder Morgan personnel mutually agreed
+to put a hold on final acceptance of equipment under the lease and temporarily suspend in-field testing to provide time to re-test
+crude oil condensate in a laboratory setting, and thoroughly review and test selected AOT component design and fabrication. Subsequent
+analysis and testing led to changes in electrical insulation, inlet flow improvements and other component modifications. These
+design changes were implemented and tested by Industrial Screen and Maintenance (ISM), one of QS Energy's supply chain partners
+in Casper, Wyoming. Tests performed by ISM at its Wyoming facility indicated significant improvements to system impedance and efficiency
+of electric field generation. 
+
+In February 2016, the
+modified AOT equipment was installed at Kinder Morgan s facility. Pre-acceptance testing was performed in April 2016, culminating
+in more than 24 hours of continuous operations. In-field viscosity measurements and pipeline data collected during this test indicated
+the AOT equipment operated as expected, resulting in viscosity reductions equivalent to those measured under laboratory conditions.
+Supervisory Control And Data Acquisition ( SCADA ) pipeline operating data collected by Kinder Morgan during this test
+indicated a pipeline pressure drop reduction consistent with expectations. Kinder Morgan provided the Company with a number of
+additional crude oil samples which were tested in the laboratory for future test correlation and operational planning purposes.
+Based on final analysis of in-field test results, SCADA operating data and subsequent analysis of crude oil samples at Temple University,
+Kinder Morgan and QS Energy are considering moving the AOT test facility to a different, higher-volume pipeline location. The Kinder
+Morgan Lease is currently in suspension and lease payments have not yet commenced. 
+
+Southern Research Institute
+(SRI) was engaged by QS Energy in 2015 to investigate the root cause of the crude oil condensate impedance issue by replicating
+conditions experienced in the field utilizing a laboratory-scaled version of the AOT and crude oil condensate samples provided
+by Kinder Morgan. In addition, QS Energy retained an industry expert petroleum pipeline engineer to review the AOT design and suggest
+design modifications to resolve the crude oil condensate impedance issue. This engineer has studied design details, staff reports
+and forensic photographs of each relevant AOT installation and test. Based on these investigations, specific modifications were
+proposed to resolve the impedance issue, and improve the overall efficiency of the AOT device, resulting in a new value-engineered
+design of certain AOT internal components. 
+
+During the third quarter
+2016, the Company developed a new onsite testing program to demonstrate AOT viscosity reduction at prospective customer sites.
+This program utilized a fully functional laboratory-scale AOT device designed and developed by the Company and tested at the Southern
+Research Institute. Under this program, Company engineers set up a temporary lab at the customer s site to test a full range
+of crude oils. Fees charged for providing this service were dependent on scope of services, crude oil sample to be tested, and
+onsite time requirements. In the fourth quarter 2016, the Company entered a contract to provide these onsite testing services
+to a North American oil producer and pipeline operator over a one-week period in early 2017 at a fixed price of $50,000. This
+test was performed in January 2017; data analysis and final report was completed in March 2017. Test results demonstrated viscosity
+reduction under limited laboratory conditions. The test equipment was not capable of controlling temperature as required to simulate
+operating conditions. The oil producer has requested access to a full-scale pilot facility and operating data when available.
+The Company is in the process of upgrading the laboratory-scale AOT device for planned deployment in 2018 to include temperature
+control and is actively pursuing a pilot site to demonstrate AOT operations. 
+
+In 2014, the Company
+began development of a new suite of products based around the new electrical heat system which reduces oil viscosity through a
+process known as joule heat ( Joule Heat ). The Company built and tested its first Joule Heat prototype in June 2015.
+The system was operational; however, changes to the prototype configuration will be required to determine commercial effectiveness
+of this unit. In December 2015, we suspended Joule Heat development activities to focus Company resources on finalizing commercial
+development of the AOT. 
+
+In July 2017, the Company
+filed for trademark protection for the word  eDiluent  in advance of rolling out a new marketing and revenue strategy
+based on the concept of using AOT to reduce pipeline dependence upon diluent to reduce viscosity of crude oils. A primary function
+of AOT is to reduce viscosity by means of its solid-state electronics technology; in essence providing an electronic form of diluent,
+or  eDiluent . The Company plans to market and sell a value-added service under the name eDiluent, designed to be upsold
+by the Company s midstream pipeline customers in an effort to provide the Company with long-term recurring revenues. 
+
+During the third quarter
+2017, the Company built a dedicated laboratory space at its Tomball Texas facility, and now has the capability to perform onsite
+testing utilizing our laboratory-scale AOT device, among other equipment. Development of an AOT unit for use in crude oil upstream
+and gathering operations was restarted in September 2017 utilizing resources at the Tomball facility, and the Company plans to
+resume Joule Heat development in the future depending on the availability of sufficient capital and other resources. Also, during
+the third quarter 2017, the Company built an outdoor facility at its Tomball Texas facility for onsite storage of AOT inventory
+and other large equipment. The Tomball facility is owned by the Company s CEO as described in our Form 10-K filed with the
+SEC on April 2, 2018. 
+
+The Company is actively
+seeking deployments of its AOT technology intended to demonstrate and document AOT efficacy, operational benefits, and financial
+impact. Primary activities are focused on AOT demonstration and joint development projects in the United States, South America
+and Asia. These projects are designed to provide operating data and physical access to prospective customers to aid product commercialization
+and future sales. We are currently working with a U.S.-based pipeline operator on a potential development agreement under which
+we would operate an AOT midstream unit on a pipeline located in the southern United States delivering South American heavy crudes
+to inland-land refineries. We are working towards finalizing a development agreement subject to the pipeline company s engineering
+review, targeting installation and operations in the fourth quarter 2018. We are also in discussions with an exploration and production
+company regarding AOT operations on a West Coast heavy crude gathering line that relies heavily on diluent to achieve required
+viscosity. This project is designed to demonstrate AOT for upstream and trucking applications, targeting operations in late 2018. 
+
+The Company is currently
+pursuing AOT testing in several countries in South America related to upstream, midstream, barge, and tanker truck applications.
+Oil samples from multiple clients for testing at Temple University have been delivered to a shipping facility in South America,
+awaiting customs and shipping clearance. There is a vast amount of heavy oil in these countries and we believe the Ministers of
+Hydrocarbons have standing orders to increase production and transportation capacity. We continue to work with an existing client
+in Asia for an AOT installation; however, progress on this project has slowed from our original targets. A Company representative
+is scheduled to meet with our Asian client in August 2018 to assess the project. 
+
+Our expenses to date
+have been funded primarily through the sale of shares of common stock and convertible debt, as well as proceeds from the exercise
+of stock purchase warrants and options. We will need to raise substantial additional capital through 2018, and beyond, to fund
+our sales and marketing efforts, continuing research and development, and certain other expenses, until our revenue base grows
+sufficiently. 
+
+There are significant
+risks associated with our business, our Company and our stock. See  Risk Factors,  below. 
+
+Results of Operation for Six and Three-month
+periods ended June 30, 2018 and 2017  
+
+During the six-month
+period ended June 30, 2017, the Company recognized revenues of $50,000 pursuant to the completion of lease and testing agreement
+of the Company s AOT equipment. There were no such revenues in the comparable period in 2018. 
+
+Operating expenses
+were $956,000 for the six-month period ended June 30, 2018, compared to $1,838,000 for the six-month period ended June 30, 2017,
+a decrease of $882,000. This is due to decreases in non-cash expenses of $266,000 and in other expenses of $616,000. Specifically,
+the decrease in non-cash expenses is attributable to a decrease in the fair value of options granted to directors and employees
+of $290,000, offset by an increase in stock compensation expenses attributable to the fair value warrants and common stock granted
+to consultants of $11,000. The decrease in other expense is attributable mostly to a severance package expense of $624,000 with
+a former Chief Executive Officer in 2017. 
+
+Research and development
+expenses were $95,000 for the six-month period ended June 30, 2018, compared to $120,000 for the six-month period ended June 30,
+2017, a decrease of $25,000. This decrease is attributable to decreases in prototype product development costs of $22,000, and
+in product testing, research, patents and other costs of $3,000. 
+
+Other income and expense
+were $407,000 expense for the six-month period ended June 30, 2018, compared to $1,422,000 expense for the six-month period ended
+June 30, 2017, a net decrease in other expenses of $1,015,000. This decrease is attributable to a decrease in non-cash other expenses
+of $1,015,000. The decrease in non-cash other expense is due to decreases in expense attributable to interest, beneficial conversion
+factors and warrants associated with convertible notes issued in the amount of $1,023,000, offset by an increase in other non-cash
+interest of $8,000. 
+
+The Company had a net
+loss of $1,458,000, or $0.01 per share, for the six-month period ended June 30, 2018, compared to a net loss of $3,330,000, or
+$0.02 per share, for the six-month period ended June 30, 2017. 
+
+The Company had no
+revenues in the three month-periods ended June 30, 2018 and 2017. 
+
+Operating expenses
+were $462,000 for the three-month period ended June 30, 2018, compared to $580,000 for the three-month period ended June 30, 2017,
+a decrease of $118,000. This is due to a decrease in non-cash expenses of $191,000, and an increase in cash expenses of $73,000.
+Specifically, the decrease in non-cash expenses are attributable to an increase in depreciation of $7,000, offset by a decrease
+in stock compensation expenses attributable to the fair value of options granted to directors and employees of $198,000. The increase
+in cash expense is attributable to decreases in office expenses of $9,000, and legal and accounting expenses of $33,000, offset
+by increases in consulting fees of $3,000, corporate expenses of $37,000, insurance expenses of $8,000, salaries and benefits of
+$60,000, and other expenses of $7,000. 
+
+Research and development
+expenses were $48,000 for the three-month period ended June 30, 2018, compared to $56,000 for the three-month period ended June
+30, 2017, a decrease of $8,000. This decrease is attributable to decreases in prototype product development costs of $8,000. 
+
+Other income and expense
+were $248,000 expense for the three-month period ended June 30, 2018, compared to $1,210,000 expense for the three-month period
+ended June 30, 2017, a net decrease in other expenses of $962,000. This decrease is attributable to a crease in non-cash other
+expenses of $962,000. The decrease in non-cash other expense is due to decreases in expense attributable to interest, beneficial
+conversion factors and warrants associated with convertible notes issued in the amount of $1,114,000, offset by an increase in
+other non-cash interest of $12,000. 
+
+The Company had a net
+loss of $758,000, or $0.00 per share, for the three-month period ended June 30, 2018, compared to a net loss of $1,846,000, or
+$0.01 per share, for the three-month period ended June 30, 2017. 
+
+Liquidity and Capital Resources  
+
+General   
+
+As reflected in the
+accompanying condensed consolidated financial statements, the Company has not yet generated significant revenues and has incurred
+recurring net losses. We have incurred negative cash flow from operations since our inception in 1998 and a stockholders 
+deficit of $1,772,000 as of June 30, 2018. Our negative operating cash flow for the periods ended June 30, 2018 was funded primarily
+through issuance of convertible notes and the exercise of options and warrants. 
+
+The accompanying condensed
+consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and
+the settlement of liabilities and commitments in the normal course of business. As reflected in the accompanying condensed consolidated
+financial statements, the Company had a net loss of $1,458,000 and a negative cash flow from operations of $676,000 for the six-month
+period ended June 30, 2018. These factors raise substantial doubt about our ability to continue as a going concern. 
+
+In addition, the Company s
+independent registered public accounting firm, in its report on the Company s December 31, 2017 financial statements, has
+raised substantial doubt about the Company s ability to continue as a going concern. Our ability to continue as a going concern
+is dependent upon our ability to raise additional funds and implement our business plan. The consolidated financial statements
+do not include any adjustments that might be necessary if we are unable to continue as a going concern. 
+
+Summary   
+
+During the period ended
+June 30, 2018, we received cash totaling $965,000 from issuance of our convertible notes payable and exercise of warrants, and
+used cash in operations of $676,000. At June 30, 2018, we had cash on hand in the amount of $493,000. We will need additional funds
+to operate our business, including without limitation the expenses we will incur in connection with the license and research and
+development agreements with Temple University, as amended; costs associated with product development and commercialization of the
+AOT and related technologies; costs to manufacture and ship our products; costs to design and implement an effective system of
+internal controls and disclosure controls and procedures; costs of maintaining our status as a public company by filing periodic
+reports with the SEC and costs required to protect our intellectual property. In addition, as discussed above, we have substantial
+contractual commitments, including without limitation salaries to our executive officers pursuant to employment agreements, certain
+severance payments to a former officer and consulting fees, during the remainder of 2018 and beyond. 
+
+No assurance can be
+given that any future financing will be available or, if available, that it will be on terms that are satisfactory to the Company. 
+
+Licensing Fees to Temple
+University   
+
+For details of the
+licensing agreements with Temple University, see Financial Statements included in this report, Note 6 (Research and Development). 
+
+Critical Accounting Policies and Estimates  
+
+Our discussion and
+analysis of financial condition and results of operations is based upon our consolidated financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the United States of America. The preparation of these
+consolidated financial statements and related disclosures requires us to make estimates and judgments that affect the reported
+amounts of assets, liabilities, expenses, and related disclosure of contingent assets and liabilities. We evaluate, on an on-going
+basis, our estimates and judgments, including those related to the useful life of the assets. We base our estimates on historical
+experience and assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results
+may differ from these estimates. 
+
+The methods, estimates
+and judgments we use in applying our most critical accounting policies have a significant impact on the results that we report
+in our consolidated financial statements. The SEC considers an entity s most critical accounting policies to be those policies
+that are both most important to the portrayal of a company s financial condition and results of operations and those that
+require management s most difficult, subjective or complex judgments, often as a result of the need to make estimates about
+matters that are inherently uncertain at the time of estimation. For a more detailed discussion of the accounting policies of the
+Company, see Note 1 of the Notes to the Condensed Consolidated Financial Statements,  Summary of Significant Accounting Policies . 
+
+We believe the following
+critical accounting policies, among others, require significant judgments and estimates used in the preparation of our consolidated
+financial statements. 
+
+Estimates   
+
+The preparation of
+consolidated financial statements in conformity with generally accepted accounting principles requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period.
+Certain significant estimates were made in connection with preparing our consolidated financial statements as described in Note
+1 to Notes to the Condensed Consolidated Financial Statements. Actual results could differ from those estimates. 
+
+Stock-Based Compensation   
+
+The Company periodically
+issues stock options and warrants to employees and non-employees in non-capital raising transactions for services and for financing
+costs. The Company accounts for stock option and warrant grants issued and vesting to employees based on the authoritative guidance
+provided by the Financial Accounting Standards Board whereas the value of the award is measured on the date of grant and recognized
+over the vesting period. The Company accounts for stock option and warrant grants issued and vesting to non-employees in accordance
+with the authoritative guidance of the Financial Accounting Standards Board whereas the value of the stock compensation is based
+upon the measurement date as determined at either a) the date at which a performance commitment is reached, or b) at the date at
+which the necessary performance to earn the equity instruments is complete. Non-employee stock-based compensation charges generally
+are amortized over the vesting period on a straight-line basis. In certain circumstances where there are no future performance
+requirements by the non-employee, option grants are immediately vested and the total stock-based compensation charge is recorded
+in the period of the measurement date. 
+
+The fair value of the
+Company's common stock option grants is estimated using the Black-Scholes Option Pricing model, which uses certain assumptions
+related to risk-free interest rates, expected volatility, expected life of the common stock options, and future dividends. Compensation
+expense is recorded based upon the value derived from the Black-Scholes Option Pricing model, and based on actual experience. The
+assumptions used in the Black-Scholes Option Pricing model could materially affect compensation expense recorded in future periods. 
+
+Going Concern   
+
+The accompanying consolidated financial statements have been prepared on a going concern basis, which contemplates the realization
+of assets and the settlement of liabilities and commitments in the normal course of business. As reflected in the accompanying
+consolidated financial statements, during the six-months ended June 30, 2018, the Company incurred a net loss of $1,458,000, used
+cash in operations of $676,000 and had a stockholders  deficit of $1,772,000 as of that date. These factors raise substantial
+doubt about the Company s ability to continue as a going concern. The ability of the Company to continue as a going concern
+is dependent upon the Company s ability to raise additional funds and implement its business plan. The financial statements
+do not include any adjustments that might be necessary if the Company is unable to continue as a going concern. 
+
+At June 30, 2018, the
+Company had cash on hand in the amount of $493,000. Management estimates that the current funds on hand will be sufficient to continue
+operations through November 2018. Management is currently seeking additional funds, primarily through the issuance of debt and
+equity securities for cash to operate our business, including without limitation the expenses it will incur in connection with
+the license and research and development agreements with Temple; costs associated with product development and commercialization
+of the AOT and Joule Heat technologies; costs to manufacture and ship the products; costs to design and implement an effective
+system of internal controls and disclosure controls and procedures; costs of maintaining our status as a public company by filing
+periodic reports with the SEC and costs required to protect our intellectual property. In addition, as discussed below, the Company
+has substantial contractual commitments, including without limitation salaries to our executive officers pursuant to employment
+agreements, certain payments to a former officer and consulting fees, during the remainder of 2018 and beyond. 
+
+No assurance can be
+given that any future financing will be available or, if available, that it will be on terms that are satisfactory to the Company.
+Even if the Company is able to obtain additional financing, it may contain undue restrictions on our operations, in the case of
+debt financing or cause substantial dilution for our stockholders in case of equity financing. 
+
+Recent Accounting Polices   
+
+See Footnote 2 in the
+accompanying financial statements for a discussion of recent accounting policies. 
+
+Item 3. Quantitative and Qualitative
+Disclosure about Market Risk  
+
+We issue from time
+to time fixed rate discounted convertible notes. Our convertible notes and our equity securities are exposed to risk as set forth
+below, in Part II Item 1A,  Risk Factors.  Please also see Item 2, above,  Management s Discussion and
+Analysis of Financial Condition and Results of Operations.  
+
+Item 4. Controls and Procedures  
+
+1.   
+       Disclosure Controls and Procedures    
+
+The Company's management,
+with the participation of the Company's chief executive officer and chief financial officer, evaluated, as of June 30, 2018, the
+effectiveness of the Company's disclosure controls and procedures, which were designed to be effective at the reasonable assurance
+level. The term  disclosure controls and procedures,  as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange
+Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by
+a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within
+the time periods specified in the SEC's rules and forms. Disclosure controls and procedures include, without limitation, controls
+and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits
+under the Exchange Act is accumulated and communicated to the company's management, including its principal executive and principal
+financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls
+and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and
+management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based
+on the evaluation of the Company's disclosure controls and procedures as of June 30, 2018, management, the chief executive officer
+and the chief financial officer concluded that the Company's disclosure controls and procedures were effective at the reasonable
+assurance level at that date. 
+
+(a)       Changes
+in Internal Control over Financial Reporting  
+
+No change in the Company's
+internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during
+the six-month period ended June 30, 2018 that has materially affected, or is reasonably likely to materially affect, the Company's
+internal control over financial reporting. 
+
+PART
+II   OTHER INFORMATION   
+
+Item 1.  Legal Proceedings  
+
+There is no litigation
+of any significance with the exception of the matters that have arisen under, and are being handled in, the normal course of business. 
+
+Item 1A.  Risk Factors  
+
+There have been no
+material changes in the risk factors previously disclosed in Form 10-K for the period ended December 31, 2017, which we filed with
+the SEC on April 2, 2018. 
+
+Item 2. Unregistered Sales of Equity
+Securities and Use of Proceeds  
+
+Issuances   
+
+In private offerings
+exempt from registration, during the six months ended June 30, 2018, the Company issued 4,624,125 shares of its common stock upon
+the conversion of $647,000 in convertible notes at $0.05 to $0.08 per share, and issued 12,697,483 shares of its common stock upon
+the exercise of warrants and options at an exercise price of $0.05 to $0.08 per share. In connection with the issuances of the
+foregoing securities, the Company relied on the exemption from registration provided by Section 4(a)(2) of the Securities Act of
+1933, as amended, for transactions not involving a public offering. 
+
+The proceeds received
+by the Company in connection with the above issuances of shares were used for general corporate purposes. 
+
+Item 3. Defaults Upon Senior Securities  
+
+None 
+
+Item 4. Mine Safety Disclosures  
+
+None 
+
+Item 5. Other Information  
+
+None 
+
+Item 6. Exhibits  
+
+Exhibit No.   
+       
+       Description    
+
+31.1  
+       
+       Certification of Chief Executive Officer of Quarterly Report Pursuant to Rule 13(a)-15(e) or Rule 15(d)-15(e)    
+
+31.2  
+       
+       Certification of Chief Financial Officer of Quarterly Report pursuant to Rule 13(a)-15(e) or Rule 15(d)-15(e)    
+
+32  
+       
+       Certification of Chief Executive Officer and Chief Financial Officer of Quarterly Report Pursuant to 18 U.S.C.  Section 1350    
+
+101.INS  
+       
+      XBRL Instance Document   
+
+101.SCH  
+       
+      XBRL Schema Document   
+
+101.CAL  
+       
+      XBRL Calculation Linkbase Document   
+
+101.LAB  
+       
+      XBRL Label Linkbase Document   
+
+101.PRE  
+       
+      XBRL Presentation Linkbase Document   
+
+101.DEF  
+       
+      XBRL Definition Linkbase Document   
+
+SIGNATURES  
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Registrant has caused this Report to be signed on its behalf by the undersigned, hereunto
+duly authorized. 
+
+QS ENERGY, INC.    
+
+Date: August 14, 2018  
+      By:  
+      /s/ Michael McMullen  
+
+Michael McMullen  
+
+Chief Financial Officer   
+
+EXHIBITS   
+
+Exhibit No.   
+       
+       Description    
+
+31.1  
+       
+       Certification of Chief Executive Officer of Quarterly Report Pursuant to Rule 13(a)-15(e) or Rule 15(d)-15(e)    
+
+31.2  
+       
+       Certification of Chief Financial Officer of Quarterly Report pursuant to Rule 13(a)-15(e) or Rule 15(d)-15(e)    
+
+32  
+       
+       Certification of Chief Executive Officer and Chief Financial Officer of Quarterly Report Pursuant to 18 U.S.C.  Section 1350    
+
+101.INS  
+       
+      XBRL Instance Document   
+
+101.SCH  
+       
+      XBRL Schema Document   
+
+101.CAL  
+       
+      XBRL Calculation Linkbase Document   
+
+101.LAB  
+       
+      XBRL Label Linkbase Document   
+
+101.PRE  
+       
+      XBRL Presentation Linkbase Document   
+
+101.DEF  
+       
+      XBRL Definition Linkbase Document   
+
+<EX-31.1>
+ 2
+ qsenergy_ex3101.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+EXHIBIT 31.1  
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+ AND RULES 13A-14 AND 15D-14 UNDER THE SECURITIES
+EXCHANGE ACT OF 1934 
+
+I, Jason Lane,
+certify that: 
+
+1. I have reviewed
+this Quarterly Report on Form 10-Q of QS Energy, Inc.; 
+
+2. Based on my
+knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. Based on my
+knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s
+other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) or 15d-15(e) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(d)-15(f) for the registrant and have: 
+
+(a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its condensed consolidated subsidiaries, is made known
+to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s
+other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+(a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+(b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ qsenergy_ex3102.htm
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+EXHIBIT 31.2  
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+ AND RULES 13A-14 AND 15D-14 UNDER THE SECURITIES
+EXCHANGE ACT OF 1934 
+
+I, Michael McMullen, certify that: 
+
+1. I have reviewed
+this Quarterly Report on Form 10-Q of QS Energy, Inc.;  
+
+2. Based on my
+knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. Based on my
+knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s
+other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) or 15d-15(e) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(d)-15(f) for the registrant and have: 
+
+(a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its condensed consolidated subsidiaries, is made known
+to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s
+other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+(a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+(b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Date: August 14,
+    2018  
+     /s/ Michael McMullen 
+
+Michael McMullen 
+
+Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ qsenergy_ex3200.htm
+ CERTIFICATION OF PERIODIC FINANCIAL REPORT BY THE CHIEF EXECUTIVE
+
+EXHIBIT 32 
+
+CERTIFICATION OF PERIODIC FINANCIAL REPORT BY
+THE CHIEF EXECUTIVE 
+
+ OFFICER AND CHIEF FINANCIAL OFFICER 
+
+ PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+Solely for the
+purposes of complying with 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, we, the undersigned Acting Chief Executive Officer and the Chief Financial Officer of QS Energy, Inc. (the
+ Company ), hereby certify, based on our knowledge, that the Quarterly Report on Form 10-Q of the Company for the
+quarter ended June 30, 2018 (the  Report ) fully complies with the requirements of Section 13(a)
+of the Securities Exchange Act of 1934 and that the information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+Date: August 14,
+    2018  
+     /s/ Jason Lane  
+ 
+     Jason Lane  
+ 
+     Chief Executive Officer   
+
+Date: August 14,
+    2018  
+     /s/ Michael McMullen  
+ 
+     Michael McMullen  
+ 
+     Chief Financial Officer   
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ qsep-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ qsep-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ qsep-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ qsep-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ qsep-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ qsep-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

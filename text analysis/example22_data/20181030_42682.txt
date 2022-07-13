@@ -1,0 +1,723 @@
+ES   
+  SECURITIES AND EXCHANGE COMMISSION   
+  Washington, D.C. 20549   
+  FORM  10-Q        
+    For the Quarterly Period Ended September 30, 2018       
+  or       
+    For the transition period from
+                             to
+                               
+  Commission File Number   1-6747     
+  The Gorman-Rupp Company   
+  (Exact name of registrant as specified in its charter)       
+
+Ohio  
+   
+   34-0253990    
+ 
+    (State or other jurisdiction of  
+  incorporation or organization)   
+   
+    (I.R.S. Employer  
+  Identification No.)    
+
+600 South Airport Road, Mansfield, Ohio  
+   
+  44903   
+ 
+  (Address of principal executive offices)  
+   
+  (Zip Code)   
+    Registrant s telephone number, including area code
+ (419)      755-1011       Indicate by check mark whether the registrant:
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and
+(2) has been subject to such filing requirements for the past 90 days.    Yes       No     
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to
+Rule 405 of Regulation  S-T  ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such
+files).    Yes       No       Indicate by check mark whether the
+registrant is a large accelerated filer, an accelerated filer, a  non-accelerated  filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer, 
+ accelerated filer,   smaller reporting company  and  emerging growth company  in Rule  12b-2  of the Exchange Act. (Check one):  
+
+Large accelerated filer  
+
+Accelerated filer  
+
+Non-accelerated  filer  
+
+Smaller reporting company  
+
+Emerging growth company  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule  12b-2  of the
+Exchange Act).    Yes    No       There were 26,117,045 shares of common
+stock, without par value, outstanding at October 26, 2018.  
+
+The Gorman-Rupp Company   
+  Three and nine months ended September 30, 2018 and 2017       
+ 
+      2  
+
+PART I. FINAN  CIAL INFORMATION   
+  ITEM 1 FINAN  CIAL STATEMENTS (UNAUDITED)   
+  THE GORMAN-RUPP COMPANY   
+  CONSOLIDATED   STATEMENTS OF INCOME (UNAUDITED)   
+   
+    See notes to consolidated financial statements (unaudited).   
+  CONSOLIDATED STATEMENTS   OF COMPREHENSIVE INCOME (UNAUDITED)   
+   
+    See notes to consolidated financial statements (unaudited).   
+      3  
+
+THE GORMAN-RUPP COMPANY   
+  CONSOLIDATED BALA  NCE SHEETS (UNAUDITED)   
+   
+    See notes to consolidated financial statements (unaudited).   
+      4  
+
+THE GORMAN-RUPP COMPANY   
+  CONSOLIDATED STA  TEMENTS OF CASH FLOWS (UNAUDITED)   
+   
+    See notes to consolidated financial statements (unaudited).   
+      5  
+
+N  OTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)   
+   (Amounts in tables in thousands of dollars, except for per share amounts)    
+  NOTE 1 - BASIS OF PRESENTATION OF FINANCIAL STATEMENTS   
+ The accompanying unaudited consolidated financial statements have been prepared in accordance with U.S. generally accepted
+accounting principles ( U.S. GAAP ) for interim financial information and in accordance with the instructions to Form  10-Q  and do not include all of the information and footnotes required by U.S.
+GAAP for complete financial statements. The consolidated financial statements include the accounts of The Gorman-Rupp Company (the  Company  or  Gorman-Rupp ) and its wholly-owned subsidiaries. All significant intercompany
+accounts and transactions have been eliminated. In the opinion of management of the Company, all adjustments considered necessary for a fair presentation have been included. Operating results for the three and nine months ended September 30,
+2018 are not necessarily indicative of results that may be expected for the year ending December 31, 2018. For further information, refer to the consolidated financial statements and notes thereto included in the Company s Annual Report on
+Form  10-K  for the year ended December 31, 2017, from which related information herein has been derived.  
+ Certain prior year amounts have been reclassified to conform to the three and nine months ended September 30, 2018
+presentation and reflect the adoption of certain accounting standard updates. These reclassifications had no impact on the Company s previously reported net income, consolidated balance sheets, or consolidated statements of cash flows.  
+  NOTE 2 - RECENTLY ISSUED ACCOUNTING STANDARDS   
+ The Company considers the applicability and impact of all Accounting Standard Updates ( ASUs ). ASUs not listed below
+were assessed and determined either to be not applicable or are expected to have minimal impact on the Company s consolidated financial statements.  
+  Recently Adopted Accounting Standards   
+ In March 2017, the FASB issued ASU  No. 2017-07,   Compensation Retirement
+Benefits (Topic 715)   Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost,  which provides additional guidance on the presentation of net periodic pension and postretirement benefit costs
+in the income statement and on the components eligible for capitalization. The amendments in this ASU require that an employer report the service cost component of the net periodic benefit costs in the same income statement line item as other
+compensation costs arising from services rendered by employees during the period. The  non-service-cost  components of net periodic benefit costs are to be presented in the income statement separately from the
+service cost components and outside a subtotal of income from operations. The ASU also allows for the capitalization of the service cost components, when applicable (i.e., as a cost of internally-manufactured inventory or a self-constructed asset).
+The ASU is effective for fiscal years, and interim periods within those years, beginning after December 15, 2017. The Company adopted ASU  2017-07  on January 1, 2018 on a retrospective basis. As
+permitted by this ASU, previously disclosed components of postretirement net periodic benefit costs were used as an estimation basis for applying the retrospective presentation as a practical expedient. See Note 7 for further details.  
+ In May 2014, the FASB issued ASU  2014-09,   Revenue from Contracts with Customers
+(Topic 606),  which supersedes most current revenue recognition guidance, including industry-specific guidance, and requires entities to recognize revenue in a way that depicts the transfer of promised goods or services to customers in an
+amount that reflects the consideration to which the entity expects to be entitled to in exchange for those goods or services. Subsequent accounting standards updates have been issued, which amend and/or clarify the application of ASU  2014-09.  On January 1, 2018, the Company adopted Topic 606 using the modified retrospective method. See Note 3 for further details.  
+  Recently Issued Accounting Standards Not Yet Adopted   
+ In February 2018, the FASB issued ASU  No. 2018-02,   Income
+Statement Reporting Comprehensive Income (Topic 220) Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income,  which allows a reclassification from accumulated other comprehensive income to retained
+earnings for stranded tax effects resulting from the U.S. Tax Cuts and Jobs Act ( Tax Act ) signed into law in December 2017. The guidance is effective for fiscal years, and interim periods within those years, beginning after
+December 15, 2018 and early adoption is permitted. The Company currently does not expect the adoption of ASU  2018-02  will have a material impact on its consolidated financial statements.  
+      6  
+
+In February 2016, the FASB issued ASU
+ 2016-02,   Leases (Topic 842),  which requires lessees to recognize assets and liabilities on the balance sheet for the rights and obligations created by all leases with a term of more than one year.
+Accounting by lessors will remain similar to existing U.S. GAAP. Subsequent accounting standards updates have been issued, which amend and/or clarify the application of ASU  2016-02.  The guidance is effective
+for fiscal years, and interim periods within those years, beginning after December 15, 2018 and early adoption is permitted. Management has completed their initial review of the Company s lease obligations and has begun to consider the
+impacts of those adjustments based on the new standard. The Company currently does not expect the adoption of ASU  2016-02  will have a material impact on its consolidated financial statements as its future
+minimum lease commitments are not material.     NOTE 3 - REVENUE   
+  Adoption of ASU  2014-09,  Revenue from Contracts with Customers (Topic 606)   
+ On January 1, 2018, the Company adopted ASU  2014-09  using the modified
+retrospective method applied to those contracts which were not completed as of December 31, 2017. Results for reporting periods beginning after January 1, 2018 are presented under Accounting Standards Codification ( ASC )
+Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with historic accounting guidance under ASC Topic 605. After assessment of the cumulative impact of adopting ASU
+ 2014-09,  it was determined that the cumulative effect adjustment required under the new guidance was immaterial and therefore the Company did not record a retrospective adjustment to the opening balance of
+retained earnings at January 1, 2018.     Disaggregation of Revenue   
+ The following tables disaggregate total net sales by major product category and geographic location:  
+
+International sales represented approximately 37% of total net sales for both the third
+quarter of 2018 and 2017 and were made to customers in many different countries around the world.     Performance Obligations   
+ A performance obligation is a promise in a contract to transfer a distinct good or service to a customer, and is the unit of
+account in ASC Topic 606. The transaction price for a customer contract is allocated to each distinct performance obligation and recognized as revenue when, or as, the Company s performance obligation is satisfied. Substantially all of our
+customer contracts are fixed-price contracts and the majority of our customer contracts have a single performance obligation, as the promise to transfer the individual goods or services is not separately identifiable from other promises in the
+contract. For customer contracts with multiple performance obligations, the Company allocates revenue to each performance obligation based on its relative standalone selling price, which is generally determined based on standalone selling prices
+charged to customers or using expected cost plus margin.  
+      7  
+
+All of the Company s performance obligations, and associated revenue, are
+generally transferred to customers at a point in time, with the exception of certain highly customized pump products, which are transferred to the customer over time. Revenue from performance obligations transferred to the customer over time and
+recognized in the third quarter and first nine months of 2018 was $0.4 million and $1.0 million, respectively, greater than what would have been recorded prior to the adoption of ASU  2014-09.   
+ On September 30, 2018, the Company had $122.4 million of remaining performance obligations, also referred to as
+backlog. The Company expects to recognize as revenue substantially all of its remaining performance obligations within one year.  
+  Contract Balances   
+ The timing of revenue recognition, billings and cash collections results in billed accounts receivable, unbilled receivables
+(contract assets), and customer advances and deposits (contract liabilities) on the consolidated balance sheets. For certain highly customized pump products, revenue is recognized over time before the customer is invoiced, resulting in contract
+assets. Sometimes the Company receives advances or deposits from its customers before revenue is recognized, resulting in contract liabilities. These contract assets and liabilities are reported on the consolidated balance sheets as a component of
+Other Assets and Deferred Revenue and customer deposits, respectively, on a   contract-by-contract   basis at the end of each reporting period.  
+ The beginning and ending balances of the Company s contract assets and liabilities as of September 30, 2018 are as follows:  
+   
+   Revenue recognized for the nine months ended September 30, 2018 that was included in the
+contract liability balance at December 31, 2017 was $3.4 million.     NOTE 4 - INVENTORIES   
+ Inventories are stated at the lower of cost or net realizable value. The costs for approximately 71% of inventories at
+September 30, 2018 and 72% at December 31, 2017 were determined using the  last-in,   first-out  ( LIFO ) method, with the remainder determined using the
+ first-in,   first-out  (FIFO) method applied on a consistent basis. Replacement cost approximated current cost and the excess over LIFO cost was approximately
+$62.9 million and $59.7 million at September 30, 2018 and December 31, 2017, respectively. An actual valuation of inventory under the LIFO method is made at the end of each year based on the inventory levels and costs at that
+time. Interim LIFO calculations are based on management s estimate of expected  year-end  inventory levels and costs, and are subject to the final  year-end  LIFO
+inventory valuation.    Allowances for excess and obsolete inventory totaled $5.2 million and $4.9 million at
+September 30, 2018 and December 31, 2017, respectively.        The major components of net inventories are as
+follows:      
+ 
+      8  
+
+NOTE 5 - PROPERTY, PLANT AND EQUIPMENT   
+ Property, plant and equipment, net consist of the following:      
+    NOTE 6 - PRODUCT WARRANTIES   
+ A liability is established for estimated future warranty and service claims based on historical claims experience and specific product
+failures. The Company expenses warranty costs directly to cost of products sold. Changes in the Company s product warranty liability are:      
+    NOTE 7 - PENSION AND OTHER POSTRETIREMENT BENEFITS   
+ The Company sponsors a defined benefit pension plan (the  Plan ) covering certain domestic employees. Benefits are
+based on each covered employee s years of service and compensation. The Plan is funded in conformity with the funding requirements of applicable U.S. regulations. The Plan was closed to new participants effective January 1, 2008. Employees
+hired after this date, in eligible locations, participate in an enhanced 401(k) plan instead of the Plan. Employees hired prior to this date continue to accrue benefits under the Plan. The Company has contributed $4.0 million to the Plan in the
+first nine months of 2018 and does not expect to make any further contributions during the remainder of the year.  
+ Additionally, the Company sponsors defined contribution pension plans made available to all domestic and Canadian employees.
+The Company funds the cost of these benefits as incurred.    The Company also sponsors a
+ non-contributory  defined benefit postretirement health care plan that provides health benefits to certain domestic and Canadian retirees and their spouses. The Company funds the cost of these benefits as
+incurred.  
+      9  
+
+The following tables present the components of net periodic benefit costs:  
+   
+   During the three and nine months ended September 30, 2018, the Company recorded
+settlement losses relating to retirees that received  lump-sum  distributions from the Company s defined benefit pension plan totaling $0.1 million and $2.7 million, respectively. These charges
+were the result of  lump-sum  payments to retirees which exceeded the Plan s actuarial service and interest cost thresholds.  
+ The Company adopted ASU  2017-07  on January 1, 2018 on a retrospective basis as
+discussed in Note 2. Pursuant to the amendments in this ASU, the service cost component is now included in cost of products sold and selling, general and administrative expenses. The  non-service  cost
+components of net periodic benefit costs are now included in other income (expense), net in the consolidated statements of income. The Company utilized the practical expedient approach, based on amounts previously disclosed, to reclassify  non-service  components of net periodic benefit cost from cost of products sold and selling, general and administrative expenses, into other income (expense), net on the consolidated statements of income.  
+ The following table summarizes the amounts reclassified into other income (expense), net for the three and nine months ended
+September 30, 2017:      
+ 
+      10  
+
+NOTE 8 - ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)        
+ The following table summarizes reclassifications out of accumulated other comprehensive income (loss):  
+
+(a) 
+   The recognized actuarial loss is included in the computation of net periodic benefit cost. See Note 7 for
+additional details.     
+
+(b) 
+   The settlement loss is included in other income (expense), net on the consolidated statements of income.
+      The following tables summarize changes in balances for each component of accumulated other comprehensive income (loss):
+     
+    NOTE 9 - INCOME TAXES   
+ The Tax Act enacted in December 2017 reduced the federal corporate tax rate on U.S. earnings to 21% and moved from a global
+taxation regime to a modified territorial regime. The Company s lower effective income tax rate of 21.6% for the third quarter and first nine months of 2018 compared to 28.3% and 31.3% for the third quarter and first nine months of 2017,
+respectively, were due primarily to the Tax Act.    During the third quarter and first nine months of 2018, the Company
+recorded adjustments of $0.2 million and $48,000, respectively, of income tax benefit to the provisional amounts the Company recorded in the fourth quarter of 2017 regarding transitional impacts of the Tax Act. The provisional amounts are based
+on the Company s current analysis of the Tax Act. Given the significant complexity of the Tax Act and the potential for additional guidance from the U.S. Treasury, Securities and Exchange Commission or the Financial Accountings Standards Board
+related to the Tax Act, these estimates may be adjusted during the remainder of 2018. Adjustments to the provisional amounts recorded in the fourth quarter of 2017 will affect the Company s tax expense in the period that the final adjustments
+are determined, which will be no later than the fourth quarter of 2018.  
+      11  
+
+The Company is evaluating certain aspects of the Tax Act, including the deferred
+tax effects of the global intangible  low-taxed  income ( GILTI ) provision of the Tax Act. Under U.S. GAAP, the Company is allowed to make an accounting policy election to either recognize deferred
+taxes for temporary differences expected to reverse as GILTI in future years or provide for the tax expense related to GILTI resulting from those items in the year the tax is incurred. As of September 30, 2018, the Company included GILTI
+related to current-year operations in its estimated annual effective tax rate, but has not yet made a policy decision regarding whether to record deferred taxes on GILTI. The policy decision will be made no later than the fourth quarter of 2018, and
+any impact of the decision will be recorded in the period the decision is made.     NOTE 10 - SUBSEQUENT EVENTS   
+ On October 25, 2018, the Board of Directors authorized the payment of a special dividend of $2.00 per share on the common stock
+of the Company, totaling approximately $52 million, payable December 10, 2018, to shareholders of record as of November 15, 2018.      
+
+ITEM 2.  
+    MANAG  EMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS          (Amounts in tables in thousands of dollars, except for per share amounts)    
+ The following discussion and analysis of the Company s financial condition and results of operations should be read in
+conjunction with the consolidated financial statements, and notes thereto, and the other financial data included elsewhere in this Quarterly Report on Form  10-Q.  The following discussion should also be read in
+conjunction with the Company s audited consolidated financial statements, and notes thereto, and Management s Discussion and Analysis of Financial Condition and Results of Operations included in its Annual Report on Form  10-K  for the year ended December 31, 2017.     Executive Overview   
+ The following discussion of Results of Operations includes certain  non-GAAP  financial
+data and measures such as adjusted earnings before interest, taxes, depreciation and amortization and adjusted earnings per share amounts which exclude  non-cash  pension settlement charges in 2018 and 2017 and  non-cash  impairment charges relating to goodwill and other intangible assets in 2017. Management utilizes these adjusted financial data and measures to assess comparative operations against those of prior periods
+without the distortion of  non-comparable  factors. The Gorman-Rupp Company believes that these  non-GAAP  financial data and measures also will be useful to investors in
+assessing the strength of the Company s underlying operations from period to period. Provided below is a reconciliation of adjusted earnings per share amounts and adjusted earnings before interest, taxes, depreciation and amortization.  
+      12  
+
+The Gorman-Rupp Company ( we ,  our  or the  Company ) is a
+leading designer, manufacturer and international marketer of pumps and pump systems for use in diverse water, wastewater, construction, dewatering, industrial, petroleum, original equipment, agriculture, fire protection, heating, ventilating and air
+conditioning (HVAC), military and other liquid-handling applications. The Company attributes its success to long-term product quality, applications and performance combined with timely delivery and service, and continually seeks to develop
+initiatives to improve performance in these key areas.    We actively pursue growth opportunities through organic growth,
+international business expansion and acquisitions.    We regularly invest in training for our employees, in new product
+development and in modern manufacturing equipment, technology and facilities all designed to increase production efficiency and capacity and drive growth by delivering innovative solutions to our customers. We believe that the diversity of our
+markets is a major contributor to the generally stable financial growth we have produced over the past 80 plus years.    The
+Company places a strong emphasis on cash flow generation and maintaining excellent liquidity and financial flexibility. This focus has afforded us the ability to reinvest our cash resources, provide regular returns for our shareholders in the form
+of cash dividends and preserve a strong balance sheet to position us for future acquisition and product development opportunities. The Company had no bank debt as of September 30, 2018. The Company s cash position increased
+$21.7 million during the first nine months of 2018 to $101.4 million at September 30, 2018 and the Company generated $52.5 million in adjusted earnings before interest, taxes, depreciation and amortization during the same period.
+   Capital expenditures for the first nine months of 2018 were $7.6 million and consisted primarily of machinery and
+equipment. Capital expenditures for the full-year 2018 are presently planned to be in the range of  $10-$12 million  and expected to be financed through internally generated funds.  
+ Net sales for the third quarter of 2018 were $102.9 million compared to $94.0 million for the third quarter of 2017,
+an increase of 9.5% or $8.9 million. Domestic sales increased 11.0% or $6.5 million and international sales increased 7.0% or $2.4 million compared to the same period in 2017.      
+ Gross profit was $27.3 million for the third quarter of 2018, resulting in gross margin of 26.6%, compared to gross profit of
+$26.5 million and gross margin of 28.2% for the same period in 2017. The 160 basis points decrease in gross margin was largely driven by an unfavorable LIFO impact of 140 basis points. The remaining 20 basis points decrease in gross margin was
+due to a 140 basis points increase in material costs primarily as a result of inflationary pressures and tariffs, partially offset by lower overhead costs as a percent of sales of 120 basis points primarily due to leverage from increased sales
+volume.  
+      13  
+
+Selling, general and administrative expenses ( SG A ) was
+$14.2 million and 13.8% of net sales for the third quarter of 2018 compared to $14.1 million and 15.0% of net sales for the same period in 2017. SG A as a percentage of sales improved 120 basis points primarily as a result of leverage
+from increased sales volume.    Operating income was $13.1 million, resulting in operating margin of 12.8% for the
+third quarter of 2018, compared to operating income of $8.2 million and operating margin of 8.8% for the same period in 2017. The third quarter of 2017 included  non-cash  impairment charges of
+$4.1 million or 440 basis points due to decreased demand for barge pumps in the marine transportation market. Excluding the impairment charges, operating margin decreased 40 basis points due principally to an unfavorable LIFO impact.  
+ The Company s effective tax rate decreased to 21.6% for the third quarter of 2018 from 28.3% for the third quarter of
+2017, due primarily to the impact of the U.S. Tax Cuts and Jobs Act ( Tax Act ) enacted in December 2017.    Net
+income was $10.7 million for the third quarter of 2018 compared to $5.7 million in the third quarter of 2017, and earnings per share were $0.41 and $0.22 for the respective periods. Earnings per share for the third quarter of 2018 included
+an unfavorable LIFO impact of $0.04 per share. Earnings per share for the third quarter of 2017 included  non-cash  impairment charges of $0.10 per share and a  non-cash 
+pension settlement charge of $0.01 per share.    Net sales for the first nine months of 2018 were $311.3 million
+compared to $284.5 million for the first nine months of 2017, an increase of 9.4% or $26.9 million. Domestic sales increased 10.9% or $19.8 million and international sales increased 6.9% or $7.1 million compared to the same
+period in 2017.        Gross profit was $83.4 million for the first nine months of 2018, resulting
+in gross margin of 26.8%, compared to gross profit of $76.0 million and gross margin of 26.7% for the same period in 2017. The 10 basis points increase in gross margin was largely driven by leverage from increased sales volume partially offset
+by an increase in material costs primarily as a result of inflationary pressures and tariffs.    SG A was
+$43.4 million and 14.0% of net sales for the first nine months of 2018 compared to $41.8 million and 14.7% of net sales for the same period in 2017. SG A as a percentage of sales improved 70 basis points as a result of leverage from
+increased sales volume.    Operating income was $40.0 million, resulting in operating margin of 12.8% for the first
+nine months of 2018, compared to operating income of $30.1 million and operating margin of 10.6% for the same period in 2017. The first nine months of 2017 included  non-cash  impairment charges in the
+third quarter of $4.1 million or 140 basis points. Excluding the impairment charges, operating margin improved 80 basis points due principally to leverage from increased sales volume.  
+ The Company s effective tax rate decreased to 21.6% for the first nine months of 2018 from 31.3% for the first nine
+months of 2017, due primarily to the impact of the Tax Act enacted in December 2017. Excluding discrete impacts of pension plan contributions and transition tax adjustments, the effective tax rate for the first nine months of 2018 would have been
+23.2%.    Net income was $30.5 million for the first nine months of 2018 compared to $18.6 million in the first
+nine months of 2017, and earnings per share were $1.17 and $0.71 for the respective periods. The first nine months of 2018 earnings were reduced by  non-cash  pension settlement charges of $0.08 per share. The
+first nine months of 2017 earnings were reduced by  non-cash  impairment charges of $0.10 per share and  non-cash  pension settlement charges of $0.10 per share.  
+ The Company s backlog of orders was $122.4 million at September 30, 2018 compared to $111.4 million at
+September 30, 2017 and $114.0 million at December 31, 2017. The backlog at September 30, 2018 increased 9.9% as compared to September 30, 2017 driven by increased incoming orders in most of the markets the Company serves,
+most notably in the municipal, industrial and construction markets.    On October 25, 2018, the Board of Directors
+authorized the payment of a quarterly dividend of $0.135 per share on the common stock of the Company, payable December 10, 2018, to shareholders of record as of November 15, 2018. This cash dividend will represent an 8.0% increase over
+the regular dividend paid in the previous quarter. This will mark the 275th consecutive quarterly dividend paid by The Gorman-Rupp Company and the 46th consecutive year of increased dividends paid to its shareholders. The dividend yield at
+September 30, 2018 was 1.4%.  
+      14  
+
+On October 25, 2018, the Board of Directors authorized the payment of a
+special dividend of $2.00 per share on the common stock of the Company, totaling approximately $52 million, payable December 10, 2018, to shareholders of record as of November 15, 2018.  
+ The Company currently expects to continue its exceptional history of paying regular quarterly dividends and increased annual
+dividends. However, any future dividends will be reviewed individually and declared by our Board of Directors at its discretion, dependent on our assessment of the Company s financial condition and business outlook at the applicable time.  
+  Outlook     We are pleased
+with the third quarter and nine months of 2018 financial results. Incoming orders have increased 8.4% in the first nine months of 2018 as compared to the first nine months of 2017 across the majority of our markets. As material costs have continued
+to rise primarily as a result of inflationary pressures and tariffs, we remain focused on profitability and have begun to implement price increases to offset higher costs. However, increased emphasis on infrastructure improvements at both the
+federal and state levels, coupled with the impact of lower taxes, could be additional positive factors over the next several years. Our underlying fundamentals remain strong and we believe that we remain well positioned to drive long-term growth.
+Our strong balance sheet provides us with the flexibility to continue to evaluate acquisition opportunities and new product development that we expect will help add value to our operations over the longer term.  
+ The Tax Act enacted in December 2017 reduced the federal corporate tax rate on U.S. earnings to 21% and moved from a global
+taxation regime to a modified territorial regime. The Company s lower effective income tax rates of 21.6% for both the third quarter and first nine months of 2018 compared to 28.3% and 31.3% for the third quarter and first nine months of 2017,
+respectively, were due primarily to the Tax Act. Excluding discrete impacts of pension plan contributions and transition tax adjustments, the effective income tax rates for the first nine months of 2018 would have been 23.2%. The Company s
+current estimate of its full year effective income tax rate is between 22% and 24%.     Three Months Ended September 30, 2018 vs. Three Months Ended
+September 30, 2017      Net Sales       
+   Net sales for the third quarter of 2018 were $102.9 million compared to
+$94.0 million for the third quarter of 2017, an increase of 9.5% or $8.9 million. Domestic sales increased 11.0% or $6.5 million and international sales increased 7.0% or $2.4 million compared to the same period in 2017.  
+ Sales in our water markets increased 12.4% or $7.9 million in the third quarter of 2018 compared to the third quarter of
+2017. Sales in the fire protection market increased $3.7 million driven primarily by international sales. Sales in the municipal market increased $2.2 million due primarily to positive municipal economic sentiment. In addition, sales in
+the construction market increased $1.1 million, sales of repair parts increased $0.7 million and sales in the agriculture market increased $0.2 million.  
+ Sales increased 3.4% or $1.0 million in our  non-water  markets during the third
+quarter of 2018 compared to the third quarter of 2017. Sales in the petroleum and industrial markets increased a combined $1.4 million due principally to increased capital spending related to oil and gas drilling activity. These increases were
+partially offset by decreased sales in the OEM market of $0.4 million.    International sales were $37.6 million
+in the third quarter of 2018 compared to $35.2 million in the same period last year and represented 37% of total sales for the Company in both periods. International sales increased most notably in the fire protection, petroleum and
+construction markets and decreased in the industrial and OEM markets.  
+      15  
+
+Cost of Products Sold and Gross Profit   
+   
+   Gross profit was $27.3 million for the third quarter of 2018, resulting in gross margin
+of 26.6%, compared to gross profit of $26.5 million and gross margin of 28.2% for the same period in 2017. The 160 basis points decrease in gross margin was largely driven by an unfavorable LIFO impact of 140 basis points. The remaining 20
+basis points decrease in gross margin was due to a 140 basis points increase in material costs primarily as a result of inflationary pressures and tariffs, partially offset by lower overhead costs as a percent of sales of 120 basis points primarily
+due to leverage from increased sales volume.     Selling, General and Administrative Expenses (SG A)   
+   
+   SG A was $14.2 million and 13.8% of net sales for the third quarter of 2018 compared
+to $14.1 million and 15.0% of net sales for the same period in 2017. SG A as a percentage of sales improved 120 basis points primarily as a result of leverage from increased sales volume.  
+  Operating Income       
+   Operating income was $13.1 million, resulting in operating margin of 12.8% for the third
+quarter of 2018, compared to operating income of $8.2 million and operating margin of 8.8% for the same period in 2017. The third quarter of 2017 included  non-cash  impairment charges of $4.1 million
+or 440 basis points due to decreased demand for barge pumps in the marine transportation market. Excluding the impairment charges, operating margin decreased 40 basis points due principally to an unfavorable LIFO impact.  
+      16  
+
+Net Income       
+   The Company s effective tax rate decreased to 21.6% for the third quarter of 2018 from
+28.3% for the third quarter of 2017, due primarily to the impact of the Tax Act enacted in December 2017.    The increase in
+net income in the third quarter of 2018 compared to the same period in 2017 was due primarily to increased sales volume and the decrease in the effective tax rate. Net income in the third quarter of 2018 included an unfavorable LIFO impact of
+$1.1 million, net of income taxes. Net income in the third quarter of 2017 included  non-cash  impairment charges of $2.7 million, net of income taxes, and a
+ non-cash  pension settlement charge of $0.3 million, net of income taxes.  
+ Earnings per share for the third quarter of 2018 included an unfavorable LIFO impact of $0.04 per share. Earnings per share
+for the third quarter of 2017 included  non-cash  impairment charges of $0.10 per share and a  non-cash  pension settlement charge of $0.01 per share.  
+  Nine Months Ended September 30, 2018 vs. Nine Months Ended September 30, 2017   
+  Net Sales       
+   Net sales for the first nine months of 2018 were $311.3 million compared to
+$284.5 million for the first nine months of 2017, an increase of 9.4% or $26.9 million. Domestic sales increased 10.9% or $19.8 million and international sales increased 6.9% or $7.1 million compared to the same period in 2017.
+   Sales in our water markets increased 10.8% or $21.0 million in the first nine months of 2018 compared to the first
+nine months of 2017. Sales in the fire protection market increased $8.3 million due primarily to improved economic conditions domestically and sales in the construction market increased $5.2 million due primarily to increased oil and gas
+drilling activity. Sales of repair parts increased $3.4 million driven by the overall increase in sales volume and sales in the municipal market increased $3.2 million due primarily to positive municipal economic sentiment. In addition,
+sales in the agriculture market increased $0.9 million.    Sales increased 6.5% or $5.9 million in our  non-water  markets during the first nine months of 2018 compared to the first nine months of 2017. Sales in the industrial and petroleum markets increased a combined $6.7 million due principally to increased
+capital spending related to oil and gas drilling activity. These increases were partially offset by decreased sales in the OEM market of $0.8 million.  
+ International sales were $110.1 million in the first nine months of 2018 compared to $103.0 million in the same
+period last year and represented 35% and 36% of total sales for the Company in each of the two periods, respectively. International sales increased most notably in the fire protection, petroleum and repair parts markets and decreased in the OEM and
+agriculture markets.  
+      17  
+
+Cost of Products Sold and Gross Profit   
+   
+   Gross profit was $83.4 million for the first nine months of 2018, resulting in gross
+margin of 26.8%, compared to gross profit of $76.0 million and gross margin of 26.7% for the same period in 2017. The 10 basis points increase in gross margin was largely driven by leverage from increased sales volume partially offset by an
+increase in material costs primarily as a result of inflationary pressures and tariffs.     Selling, General and Administrative Expenses (SG A)
+      
+   SG A was $43.4 million and 14.0% of net sales for the first nine months of 2018
+compared to $41.8 million and 14.7% of net sales for the same period in 2017. SG A as a percentage of sales improved 70 basis points as a result of leverage from increased sales volume.  
+  Operating Income       
+   Operating income was $40.0 million, resulting in operating margin of 12.8% for the first
+nine months of 2018, compared to operating income of $30.1 million and operating margin of 10.6% for the same period in 2017. The first nine months of 2017 included  non-cash  impairment charges in the
+third quarter of $4.1 million or 140 basis points. Excluding the impairment charges, operating margin improved 80 basis points due principally to leverage from increased sales volume.  
+      18  
+
+Net Income       
+   The Company s effective tax rate decreased to 21.6% for the first nine months of 2018
+from 31.3% for the first nine months of 2017, due primarily to the impact of the Tax Act enacted in December 2017. Excluding discrete impacts of pension plan contributions and transition tax adjustments, the effective tax rate for the first nine
+months of 2018 would have been 23.2%.    The increase in net income in the first nine months of 2018 compared to the same
+period in 2017 was due primarily to increased sales volume and the decrease in the effective tax rate. Net income in the first nine months of 2018 included an unfavorable LIFO impact of $2.5 million, net of income taxes, and  non-cash  pension settlement charges of $2.1 million, net of income taxes. Net income in the first nine months of 2017 included  non-cash  impairment charges of
+$2.7 million, net of income taxes, and  non-cash  pension settlement charges of $2.6 million, net of income taxes.  
+ The first nine months of 2018 earnings were reduced by  non-cash  pension settlement
+charges of $0.08 per share. The first nine months of 2017 earnings were reduced by  non-cash  impairment charges of $0.10 per share and  non-cash  pension settlement charges
+of $0.10 per share.     Liquidity and Capital Resources   
+ Cash and cash equivalents totaled $101.4 million and there was no outstanding bank debt at September 30, 2018. The
+Company had $23.5 million available in bank lines of credit after deducting $7.5 million in outstanding letters of credit primarily related to customer orders. The Company was in compliance with its debt covenants, including limits on
+additional borrowings and maintenance of certain operating and financial ratios, at September 30, 2018 and December 31, 2017.  
+ Subsequent to September 30, 2018, the Board of Directors declared a special dividend of $2.00 per share on the common
+stock of the Company. The special dividend, totaling approximately $52 million, will be paid on December 10, 2018 to shareholders of record at the close of business on November 15, 2018.  
+ Free cash flow, a  non-GAAP  financial measure for reporting cash flow, is defined by
+the Company as adjusted earnings before interest, income taxes and depreciation and amortization, less capital expenditures and dividends. The Company believes free cash flow provides the Company and investors with an important perspective on cash
+available for investments, acquisitions and working capital requirements.  
+      19  
+
+The following table reconciles adjusted earnings before interest, income taxes and depreciation
+and amortization as reconciled above to free cash flow:      
+    Financial Cash Flow       
+   The increase in cash provided by operating activities in the first nine months of 2018
+compared to the same period last year was primarily due to increased accounts receivable and inventory driven by higher sales volume and an increase in backlog, and higher income tax payments.  
+ During the first nine months of 2018, investing activities of $3.9 million primarily consisted of $7.6 million of
+capital expenditures for machinery and equipment offset by $3.0 million of proceeds from short-term investments and $0.8 million of proceeds from the sale of property, plant and equipment. During the first nine months of 2017, investing
+activities of $7.5 million primarily consisted of $3.0 million of purchases of short-term investments and $4.8 million of capital expenditures for machinery and equipment offset by $0.3 million of proceeds from the sale of
+property, plant and equipment.    Net cash used for financing activities for the first nine months of 2018 and 2017
+primarily consisted of dividend payments of $9.8 million and $9.0 million, respectively.    The Company currently
+expects to continue its exceptional history of paying regular quarterly dividends and increased annual dividends. However, any future dividends will be reviewed individually and declared by our Board of Directors at its discretion, dependent on our
+assessment of the Company s financial condition and business outlook at the applicable time.     Critical Accounting Policies   
+ Our critical accounting policies are described in Item 7, Management s Discussion and Analysis of Financial Condition
+and Results of Operations, and in the notes to our Consolidated Financial Statements for the year ended December 31, 2017 contained in our Annual Report on Form  10-K  for the year ended December 31,
+2017. Any new accounting policies or updates to existing accounting policies as a result of new accounting pronouncements have been discussed in the notes to our consolidated financial statements in this Quarterly Report on Form  10-Q.  The application of our critical accounting policies may require management to make judgments and estimates about the amounts reflected in the Consolidated Financial Statements. Management uses historical
+experience and all available information to make these estimates and judgments, and different amounts could be reported using different assumptions and estimates.  
+      20  
+
+Safe Harbor Statement   
+ In connection with the  safe harbor  provisions of the Private Securities Litigation Reform Act of 1995, The
+Gorman-Rupp Company provides the following cautionary statement: This Form  10-Q  contains various forward-looking statements based on assumptions concerning The Gorman-Rupp Company s operations, future
+results and prospects. These forward-looking statements are based on current expectations about important economic, political, and technological factors, among others, and are subject to risks and uncertainties, which could cause the actual results
+or events to differ materially from those set forth in or implied by the forward-looking statements and related assumptions.  
+ Such factors include, but are not limited to: (1) continuation of the current and projected future business environment;
+(2) highly competitive markets; (3) availability and costs of raw materials; (4) loss of key management; (5) cyber security threats; (6) acquisition performance and integration; (7) compliance with, and costs related
+to, a variety of import and export laws and regulations; (8) environmental compliance costs and liabilities; (9) exposure to fluctuations in foreign currency exchange rates; (10) conditions in foreign countries in which we conduct
+business; (11) changes in our tax rates and exposure to additional income tax liabilities; (12) impairment in the value of intangible assets, including goodwill; (13) defined benefit pension plan settlement expense; (14) family
+ownership of common equity; and (15) risks described from time to time in our reports filed with the Securities and Exchange Commission. Except to the extent required by law, we do not undertake and specifically decline any obligation to review
+or update any forward-looking statements or to publicly announce the results of any revisions to any of such statements to reflect future events or developments or otherwise.      
+
+ITEM 3.  
+    QU  ANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+       The Company is subject to market risk associated principally with changes in foreign currency
+exchange rates. The Company s foreign currency exchange rate risk is limited primarily to the Euro, the Canadian Dollar, the South African Rand and the British Pound. The Company manages its foreign exchange risk principally through invoicing
+customers in the same currency as the source of products. The foreign currency transaction gains (losses) for the first nine months of 2018 and the first nine months of 2017 were $(0.6) million and $0.4 million, respectively, and are reported
+within other income (expense), net on the Consolidated Statements of Income.      
+
+ITEM 4.  
+      CONTROLS AND PROCEDURES      
+  Evaluation of Disclosure Controls and Procedures   
+ The Company maintains a set of disclosure controls and procedures designed to ensure that information required to be disclosed
+by the Company in reports that it files or submits under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission rules and forms. The Company s
+disclosure controls and procedures are also designed to ensure that information required to be disclosed in Company reports filed under the Securities Exchange Act of 1934 is accumulated and communicated to the Company s Management, including
+the principal executive officer and the principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.  
+ An evaluation was carried out under the supervision and with the participation of the Company s Management, including the
+principal executive officer and the principal financial officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures as of the end of the period covered by this report on Form  10-Q.  Based on that evaluation, the principal executive officer and the principal financial officer have concluded that the Company s disclosure controls and procedures were effective as of September 30,
+2018.     Changes in Internal Control Over Financial Reporting   
+ There were no changes in the Company s internal control over financial reporting that occurred during the last fiscal
+quarter that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting.  
+  PART II. OTHER   INFORMATION       
+
+IT  EM 1.  
+    LEGAL PROCEEDINGS      
+ There are no material changes from the legal proceedings previously reported in the Company s Annual Report on Form  10-K  for the fiscal year ended December 31, 2017.      
+
+IT  EM 1A.  
+    RISK FACTORS      
+ There are no material changes from the risk factors previously reported in the Company s Annual Report on Form  10-K  for the fiscal year ended December 31, 2017.  
+      21  
+
+IT  EM 6.  
+    EXHIBITS          
+
+Exhibit 31.1  
+    
+    Certification of Jeffrey S. Gorman, Chief Executive Officer, Pursuant to Section 
+302 of the Sarbanes-Oxley Act of 2002.     
+
+Exhibit 31.2  
+    
+    Certification of James C. Kerr, Chief Financial Officer, Pursuant to Section 
+302 of the Sarbanes-Oxley Act of 2002.     
+
+Exhibit 32  
+    
+    Certification pursuant to 18 U.S.C Section 1350, as adopted Pursuant to Section 
+906 of The Sarbanes-Oxley Act of 2002.     
+
+Exhibit 101  
+    
+   Financial statements from the Quarterly Report on Form  10-Q  of The Gorman-Rupp
+Company for the quarter ended September 30, 2018, formatted in eXtensible Business Reporting Language (XBRL): (i) the Consolidated Statements of Income, (ii) the Consolidated Statements of Comprehensive Income, (iii) the Consolidated
+Balance Sheets, (iv) the Consolidated Statements of Cash Flows and (v) the Notes to Consolidated Financial Statements.   
+ 
+      22  
+
+SIGNATURES   
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned thereunto duly authorized.      
+
+The Gorman-Rupp Company   
+
+(Registrant)   
+
+Date: October 30, 2018  
+
+By:  
+   
+   /s/James C. Kerr   
+
+James C. Kerr   
+
+Chief Financial Officer   
+ 
+      23  
+
+<EX-31.1>
+ 2
+ d645943dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+E  XHIBIT 31.1   
+  CERTIFICATIONS     I, Jeffrey S. Gorman, certify that:  
+
+1. 
+   I have reviewed this quarterly report on Form  10-Q  of The
+Gorman-Rupp Company;         
+
+2. 
+   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state
+a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3. 
+   Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+   The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules  13a-15(e)  and  15d-15(e))  and internal control over financial reporting (as defined in Exchange Act
+Rules  13a-15(f)  and  15d-15(f))  for the registrant and have:         
+
+a) 
+   Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is
+being prepared;         
+
+b) 
+   Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles;         
+
+c) 
+   Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in
+this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+d) 
+   Disclosed in this report any change in the registrant s internal control over financial reporting that
+occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and         
+
+5. 
+   The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+
+a) 
+   All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+
+b) 
+   Any fraud, whether or not material, that involves management or other employees who have a significant role
+in the registrant s internal control over financial reporting.         
+
+Date: October 30, 2018  
+    
+   /s/Jeffrey S. Gorman   
+
+Jeffrey S. Gorman   
+
+President and Chief Executive Officer   
+
+The Gorman-Rupp Company   
+
+(Principal Executive Officer)   
+ 
+      24  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ d645943dex312.htm
+ EX-31.2
+
+EX-31.2 
+
+E  XHIBIT 31.2   
+  CERTIFICATIONS     I, James C. Kerr, certify
+that:      
+
+1. 
+   I have reviewed this quarterly report on Form  10-Q  of The
+Gorman-Rupp Company;         
+
+2. 
+   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state
+a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3. 
+   Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+   The registrant s other certifying officer and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules  13a-15(e)  and  15d-15(e))  and internal control over financial reporting (as defined in Exchange Act
+Rules  13a-15(f)  and  15d-15(f))  for the registrant and have:         
+
+a) 
+   Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is
+being prepared;         
+
+b) 
+   Designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles;         
+
+c) 
+   Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in
+this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+d) 
+   Disclosed in this report any change in the registrant s internal control over financial reporting that
+occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and         
+
+5. 
+   The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+
+a) 
+   All significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+
+b) 
+   Any fraud, whether or not material, that involves management or other employees who have a significant role
+in the registrant s internal control over financial reporting.         
+
+Date: October 30, 2018  
+    
+   /s/James C. Kerr   
+
+James C. Kerr  
+
+Chief Financial Officer  
+
+The Gorman-Rupp Company  
+
+(Principal Financial Officer)  
+ 
+      25  
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ d645943dex32.htm
+ EX-32
+
+EX-32 
+
+EX  HIBIT 32   
+ Certification Pursuant to 18 U. S. C. Section 1350,  
+ As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002  
+ In connection with the Quarterly Report of The Gorman-Rupp Company on Form  10-Q  for
+the quarter ended September 30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), each of the undersigned officers of the Company certifies, pursuant to 18 U. S. C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to such officer s knowledge:      
+
+(1) 
+   The Report fully complies with the requirements of Section 13(a) and 15(d) of the Securities Exchange Act
+of 1934, as amended; and         
+
+(2) 
+   The information contained in the Report fairly presents, in all material respects, the financial condition and
+results of operations of the Company as of the dates and for the periods expressed in the Report.         
+
+Date: October 30, 2018  
+    
+   /s/Jeffrey S. Gorman   
+
+Jeffrey S. Gorman  
+
+President and Chief Executive Officer  
+
+(Principal Executive Officer) 
+
+/s/James C. Kerr   
+
+James C. Kerr  
+
+Chief Financial Officer  
+
+(Principal Financial Officer)  
+   The foregoing certification is being furnished solely pursuant to 18 U. S. C.
+Section 1350 and is not being filed as part of the Report or as a separate disclosure document.  
+      26  
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ grc-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ grc-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ grc-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ grc-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ grc-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ grc-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

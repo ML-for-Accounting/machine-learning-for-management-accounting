@@ -1,0 +1,1071 @@
+nts  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C.  20549 
+    
+  FORM 10-Q 
+    
+               Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+    
+  For the Quarterly Period Ended   August 3, 2018    
+    
+  o               Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+    
+  For the Transition Period from               to              
+    
+  THE TORO COMPANY 
+  (Exact name of registrant as specified in its charter) 
+
+8111 Lyndale Avenue South 
+  Bloomington, Minnesota 55420 
+  Telephone Number: (952) 888-8801 
+  (Address, including zip code, and telephone number, including area code, of registrant s principal executive offices) 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes         No    o 
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes         No    o 
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+                 Large accelerated filer   x 
+    Accelerated filer   o 
+
+Non-accelerated filer   o 
+    Smaller reporting company   o 
+      (Do not check if a smaller reporting company) 
+
+Emerging growth company   o 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   o 
+    
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes    o    No      
+    
+  The number of shares of the registrant s common stock outstanding as of   August 31, 2018   was   105,530,994  .                         
+
+Table of Contents  
+
+THE TORO COMPANY 
+  INDEX TO FORM 10-Q 
+
+Page Number 
+
+PART I.  
+     FINANCIAL INFORMATION:  
+
+Item 1.  
+     Financial Statements  
+
+Condensed Consolidated Statements of Earnings (Unaudited)  
+    3 
+
+Condensed Consolidated Statements of Comprehensive Income (Unaudited)  
+    3 
+
+Condensed Consolidated Balance Sheets (Unaudited   ) 
+    4 
+
+Condensed Consolidated Statements of Cash Flows (Unaudited)  
+    5 
+
+Notes to Condensed Consolidated Financial Statements (Unaudited)  
+    6 
+
+Item 2.  
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    21 
+
+Item 3.  
+     Quantitative and Qualitative Disclosures about Market Risk  
+    36 
+
+Item 4.  
+     Controls and Procedures  
+    37 
+
+PART II.  
+     OTHER INFORMATION:  
+
+Item 1.  
+     Legal Proceedings  
+    38 
+
+Item 1A.  
+     Risk Factors  
+    38 
+
+Item 2.  
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    40 
+
+Item 6.  
+     Exhibits  
+    41 
+
+Signatures  
+    42 
+
+2 
+
+Table of Contents  
+
+PART I.  FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+THE TORO COMPANY AND SUBSIDIARIES 
+  Condensed Consolidated Statements of Earnings (Unaudited) 
+  (Dollars and shares in thousands, except per share data) 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+
+THE TORO COMPANY AND SUBSIDIARIES 
+  Condensed Consolidated Statements of Comprehensive Income (Unaudited)  
+  (Dollars in thousands)  
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+  
+   3 
+
+Table of Contents  
+
+THE TORO COMPANY AND SUBSIDIARIES 
+  Condensed Consolidated Balance Sheets (Unaudited) 
+  (Dollars in thousands, except per share data) 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+
+4 
+
+Table of Contents  
+
+THE TORO COMPANY AND SUBSIDIARIES 
+  Condensed Consolidated Statements of Cash Flows (Unaudited) 
+  (Dollars in thousands) 
+
+See accompanying Notes to Condensed Consolidated Financial Statements. 
+
+5 
+
+Table of Contents  
+
+THE TORO COMPANY AND SUBSIDIARIES 
+  Notes to Condensed Consolidated Financial Statements (Unaudited) 
+  August 3, 2018    
+
+Note 1   Basis of Presentation 
+    
+  The accompanying unaudited Condensed Consolidated Financial Statements have been prepared in accordance with the instructions to Form 10-Q and do not include all the information and notes required by United States ("U.S.") generally accepted accounting principles ("GAAP") for complete financial statements. Unless the context indicates otherwise, the terms "company," "Toro," "we," "our," or "us" refer to The Toro Company and its consolidated subsidiaries. All intercompany accounts and transactions have been eliminated from the unaudited Condensed Consolidated Financial Statements. 
+    
+  In the opinion of management, the unaudited Condensed Consolidated Financial Statements include all adjustments, consisting primarily of recurring accruals, considered necessary for the fair presentation of the company's Consolidated Financial Position, Results of Operations, and Cash Flows for the periods presented. Since the company s business is seasonal, operating results for the   nine months ended     August 3, 2018   cannot be annualized to determine the expected results for the fiscal year ending   October 31, 2018  . 
+    
+  The company s fiscal year ends on   October 31,   and quarterly results are reported based on three-month periods that generally end on the Friday closest to the quarter end. For comparative purposes, however, the company s second and third quarters always include exactly 13 weeks of results so that the quarter end date for these two quarters is not necessarily the Friday closest to the calendar month end. 
+    
+  For further information, refer to the Consolidated Financial Statements and Notes to Consolidated Financial Statements included in the company s Annual Report on Form 10-K for the fiscal year ended   October 31, 2017  . The policies described in that report are used for preparing quarterly reports. 
+    
+  Accounting Policies 
+    
+  In preparing the Condensed Consolidated Financial Statements in conformity with U.S. GAAP, management must make decisions that impact the reported amounts of assets, liabilities, revenues, expenses, and the related disclosures, including disclosures of contingent assets and liabilities. Such decisions include the selection of the appropriate accounting principles to be applied and the assumptions on which to base accounting estimates. Estimates are used in determining, among other items, sales promotion and incentive accruals, incentive compensation accruals, income tax accruals, inventory valuation, warranty reserves, earn-out liabilities, allowance for doubtful accounts, pension and post-retirement accruals, self-insurance accruals, useful lives for tangible and definite-lived intangible assets, and future cash flows associated with impairment testing for goodwill, indefinite-lived intangible assets and other long-lived assets. These estimates and assumptions are based on management s best estimates and judgments at the time they are made. Management evaluates its estimates and assumptions on an ongoing basis using historical experience and other factors that management believes to be reasonable under the circumstances, including the current economic environment. Management adjusts such estimates and assumptions when facts and circumstances dictate. As future events and their effects cannot be determined with certainty, actual amounts could differ significantly from those estimated at the time the Condensed Consolidated Financial Statements are prepared. Changes in those estimates will be reflected in the Consolidated Financial Statements in future periods. 
+    
+  United States Tax Reform 
+    
+  On December 22, 2017, the United States enacted Public Law No. 115-97 ("Tax Act"), originally introduced as the Tax Cuts and Jobs Act, to significantly modify the Internal Revenue Code. The Tax Act reduced the U.S. federal corporate tax rate from 35.0 percent to 21.0 percent, created a territorial-type tax system with an exemption for foreign dividends, and imposed a one-time deemed repatriation tax on a U.S. company's historical undistributed earnings and profits of foreign affiliates. The tax rate change is effective January 1, 2018, resulting in a blended statutory tax rate of   23.3 percent   for the fiscal year ended October 31, 2018. Among other provisions, the Tax Act also increased expensing for certain business assets, created new taxes on certain foreign sourced earnings, adopted limitations on business interest expense deductions, repealed deductions for income attributable to domestic production activities, and added other anti-base erosion rules. The effective dates for the provisions set forth in the Tax Act vary as to when the provisions will apply to the company. 
+    
+  In response to the Tax Act, the U.S. Securities and Exchange Commission ("SEC") provided guidance by issuing Staff Accounting Bulletin No. 118 ("SAB 118"), which has since been codified by the release of Accounting Standards Update ("ASU") No. 2018-05,   Income Taxes (Topic 740): Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 118  . ASU 2018-05  
+  
+   6 
+
+     Table of Contents  
+
+allows companies to record provisional amounts during a measurement period with respect to the impacts of the Tax Act for which the accounting requirements under Accounting Standards Codification ("ASC") Topic 740 are not complete, but a reasonable estimate has been determined. The measurement period under ASU 2018-05 ends when a company has obtained, prepared, and analyzed the information that was needed in order to complete the accounting requirements under ASC Topic 740, but cannot exceed one year. 
+    
+  As of   August 3, 2018  , the company has not completed the accounting for the effects of the Tax Act. However, the company has estimated the impacts of the Tax Act in its annual effective tax rate, and has recorded provisional amounts for the remeasurement of deferred tax assets and liabilities and the deemed repatriation tax. 
+    
+  While we have recorded provisional amounts for the items expected to most significantly impact our financial statements this year, our evaluation is not complete and, accordingly, we have not yet reached a final conclusion on the overall impacts of the Tax Act. The company needs additional time to obtain, prepare, and analyze information related to the applicable provisions of the Tax Act. The actual impact of the Tax Act may differ from the provisional amounts, due to, among other things, changes in interpretations and assumptions the company has made, guidance that may be issued, and changes in the company's structure or business model. 
+
+Note 2   Acquisitions 
+    
+  L.T. Rich Products, Inc. 
+    
+  Effective March 19, 2018, during the second quarter of fiscal 2018, the company completed the acquisition of substantially all of the assets of, and assumed certain liabilities for, L.T. Rich Products, Inc., a manufacturer of professional zero-turn spreader/sprayers, aerators, and snow and ice management equipment. The addition of these products broadens and strengthens the company s Professional segment solutions for landscape contractors and grounds professionals.  
+    
+  The purchase price of this acquisition was allocated to the identifiable assets acquired and liabilities assumed based on estimates of their fair value, with the excess purchase price recorded as goodwill. As of   August 3, 2018  , the company has not yet finalized the purchase accounting for this acquisition, but expects to finalize such purchase accounting within one year from the date of acquisition. Additional purchase accounting disclosures have been omitted given the immateriality of this acquisition in relation to the company's Consolidated Financial Condition and Results of Operations. 
+    
+  Regnerbau Calw GmbH  
+    
+  Effective January 1, 2017, during the first quarter of fiscal 2017, the company completed the acquisition of all the outstanding shares of Regnerbau Calw GmbH ("Perrot"), a privately held manufacturer of professional irrigation equipment. The addition of these products broadened and strengthened the company's irrigation solutions for the sport, agricultural, and industrial markets. The acquisition was funded with existing foreign cash and cash equivalents. The purchase price of this acquisition was allocated to the identifiable assets acquired and liabilities assumed based on estimates of their fair value, with the excess purchase price recorded as goodwill. This acquisition was immaterial based on the company's Consolidated Financial Condition and Results of Operations.  
+
+7 
+
+Table of Contents  
+
+Note 3   Investment in Joint Venture 
+    
+  In fiscal 2009, the company and TCF Inventory Finance, Inc. ("TCFIF"), a subsidiary of TCF National Bank, established Red Iron Acceptance, LLC ("Red Iron"), a joint venture in the form of a Delaware limited liability company that primarily provides inventory financing to certain distributors and dealers of the company s products in the United States. On November 29, 2016, during the first quarter of fiscal 2017, the company entered into amended agreements for its Red Iron joint venture with TCFIF. As a result, the amended term of Red Iron will continue until October 31, 2024, subject to   two  -year extensions thereafter. Either the company or TCFIF may elect not to extend the amended term, or any subsequent term, by giving   one  -year written notice to the other party.  
+    
+  The company owns   45 percent   of Red Iron and TCFIF owns   55 percent   of Red Iron. The company accounts for its investment in Red Iron under the equity method of accounting. The company and TCFIF each contributed a specified amount of the estimated cash required to enable Red Iron to purchase the company s inventory financing receivables and to provide financial support for Red Iron s inventory financing programs. Red Iron borrows the remaining requisite estimated cash utilizing a   $550 million   secured revolving credit facility established under a credit agreement between Red Iron and TCFIF. The company s total investment in Red Iron as of   August 3, 2018   was   $23.0 million  . The company has not guaranteed the outstanding indebtedness of Red Iron. 
+    
+  The company has agreed to repurchase products repossessed by Red Iron and the TCFIF Canadian affiliate, up to a maximum aggregate amount of   $7.5 million   in a calendar year. Under the repurchase agreement between Red Iron and the company, Red Iron provides financing for certain dealers and distributors. These transactions are structured as an advance in the form of a payment by Red Iron to the company on behalf of a distributor or dealer with respect to invoices financed by Red Iron. These payments extinguish the obligation of the dealer or distributor to make payment to the company under the terms of the applicable invoice. 
+    
+  Under separate agreements between Red Iron and the dealers and distributors, Red Iron provides loans to the dealers and distributors for the advances paid by Red Iron to the company. The net amount of receivables financed for dealers and distributors under this arrangement for the   nine months ended     August 3, 2018   and   August 4, 2017   were   $1,525.3 million   and   $1,466.5 million  , respectively. 
+    
+  As of   July 31, 2018  , Red Iron s total assets were   $463.8 million   and total liabilities were   $412.6 million  . 
+
+Note 4   Inventories 
+    
+  Inventories are valued at the lower of cost or net realizable value, with cost determined by the last-in, first-out ("LIFO") method for a majority of the company's inventories and the first-in, first-out ("FIFO") method for all other inventories. The company establishes a reserve for excess, slow-moving, and obsolete inventory that is equal to the difference between the cost and estimated net realizable value for that inventory. These reserves are based on a review and comparison of current inventory levels to the planned production, as well as planned and historical sales of the inventory. 
+    
+  Inventories were as follows: 
+
+8 
+
+Table of Contents  
+
+Note 5   Goodwill and Other Intangible Assets 
+    
+  The changes in the net carrying amount of goodwill for the first   nine   months of fiscal   2018   were as follows: 
+
+The components of other intangible assets as of   August 3, 2018   were as follows: 
+
+The components of other intangible assets as of   October 31, 2017   were as follows: 
+
+Amortization expense for intangible assets during the   third   quarter of fiscal   2018   was   $1.8 million  , compared to   $2.5 million   for the same period last fiscal year. Amortization expense for intangible assets during the first   nine   months of fiscal   2018   was   $5.4 million  , compared to   $7.4 million   for the same period last fiscal year. Estimated amortization expense for the remainder of fiscal   2018   and succeeding fiscal years is as follows: fiscal   2018   (remainder),   $1.8 million  ; fiscal   2019  ,   $6.7 million  ; fiscal   2020  ,   $6.2 million  ; fiscal   2021  ,   $5.8 million  ; fiscal   2022  ,   $5.6 million  ; fiscal   2023  ,   $5.2 million  ; and after fiscal   2023  ,   $45.8 million  . 
+
+9 
+
+Table of Contents  
+
+Note 6   Stockholders  Equity 
+    
+  Accumulated Other Comprehensive Loss 
+    
+  Components of accumulated other comprehensive loss ("AOCL"), net of tax, are as follows: 
+
+The components and activity of AOCL for the first   nine   months of fiscal   2018   are as follows: 
+
+The components and activity of AOCL for the first   nine   months of fiscal   2017   are as follows: 
+
+For additional information on the components reclassified from AOCL to the respective line items within net earnings for the company's cash flow hedging derivative instruments, refer to Note 12,   Derivative Instruments and Hedging Activities  .  
+
+10 
+
+Table of Contents  
+
+Note 7   Stock-Based Compensation 
+    
+  The compensation costs related to stock-based awards were as follows: 
+
+During the first   nine   months of fiscal years   2018   and   2017  ,   8,388   and   11,412   shares, respectively, of fully vested unrestricted common stock awards were granted to certain members of the company's Board of Directors as a component of their compensation for their service on the Board of Directors and are recorded in selling, general and administrative expense in the Condensed Consolidated Statements of Earnings.   No   shares of fully vested unrestricted common stock awards were granted during the second or   third   quarters of fiscal years   2018   and   2017  . 
+    
+  Stock Option Awards 
+    
+  Under The Toro Company Amended and Restated 2010 Equity and Incentive Plan, as amended and restated (the "2010 plan"), stock options are granted with an exercise price equal to the closing price of the company s common stock on the date of grant, as reported by the New York Stock Exchange. Options are generally granted to executive officers, other employees, and non-employee members of the company s Board of Directors on an annual basis in the first quarter of the company s fiscal year. Options generally vest one-third each year over a   three  -year period and have a   ten  -year term. Other options granted to certain employees vest in full on the   three  -year anniversary of the date of grant and have a   ten  -year term. Compensation expense equal to the grant date fair value is generally recognized for these awards over the vesting period. Stock options granted to executive officers and other employees are subject to accelerated expensing if the option holder meets the retirement definition set forth in the 2010 plan. In that case, the fair value of the options is expensed in the fiscal year of grant because generally the option holder must be employed after the last day of the fiscal year in which the stock options are granted in order for the options to continue to vest following retirement. Similarly, if a non-employee director has served on the company s Board of Directors for   ten   full fiscal years or more, the awards vest immediately upon retirement, and therefore, the fair value of the options granted is fully expensed on the date of the grant. 
+    
+  The fair value of each stock option is estimated on the date of grant using the Black-Scholes valuation method with the assumptions noted in the table below. The expected life is a significant assumption as it determines the period for which the risk-free interest rate, stock price volatility, and dividend yield must be applied. The expected life is the average length of time in which executive officers, other employees, and non-employee directors are expected to exercise their stock options, which is primarily based on historical exercise experience. The company groups executive officers and non-employee directors for valuation purposes based on similar historical exercise behavior. Expected stock price volatilities are based on the daily movement of the company s common stock over the most recent historical period equivalent to the expected life of the option. The risk-free interest rate for periods within the contractual life of the option is based on the U.S. Treasury rate over the expected life at the time of grant. Dividend yield is estimated over the expected life based on the company s historical cash dividends paid, expected future cash dividends and dividend yield, and expected changes in the company s stock price. 
+    
+  The following table illustrates the weighted-average valuation assumptions for options granted in the following fiscal periods: 
+
+11 
+
+     Table of Contents  
+
+Performance Share Awards 
+    
+  Under the 2010 Plan, the company grants performance share awards to executive officers and other employees under which they are entitled to receive shares of the company s common stock contingent on the achievement of performance goals of the company and businesses of the company, which are generally measured over a three-year period. The number of shares of common stock a participant receives will be increased (up to   2  00 percent of target levels) or reduced (down to   zero  ) based on the level of achievement of performance goals and vest at the end of a   three  -year period. Performance share awards are generally granted on an annual basis in the first quarter of the company s fiscal year. Compensation expense is recognized for these awards on a straight-line basis over the vesting period based on the per share fair value as of the date of grant and the probability of achieving each performance goal. The per share weighted-average fair value of performance share awards granted during the first quarter of fiscal   2018   and   2017   was   $65.40   and   $54.52  , respectively.   No   performance share awards were granted during the second or third quarters of fiscal   2018   and   2017  . 
+    
+  Restricted Stock Unit Awards 
+    
+  Under the 2010 plan, restricted stock unit awards are generally granted to certain employees that are not executive officers. Occasionally, restricted stock unit awards may be granted, including to executive officers, in connection with hiring, mid-year promotions, leadership transition, or retention. Restricted stock unit awards generally vest one-third each year over a three-year period, or vest in full on the three-year anniversary of the date of grant. Such awards may have performance-based rather than time-based vesting requirements. Compensation expense equal to the grant date fair value, which is equal to the closing price of the company s common stock on the date of grant multiplied by the number of shares subject to the restricted stock unit awards, is recognized for these awards over the vesting period. The per share weighted-average fair value of restricted stock unit awards granted during the first   nine   months of fiscal   2018   and   2017   was   $63.47   and   $65.86  , respectively. 
+
+Note 8   Per Share Data 
+    
+  Reconciliations of basic and diluted weighted-average shares of common stock outstanding are as follows: 
+
+Incremental shares from options and restricted stock units are computed under the treasury stock method. Options to purchase   740,720   shares of common stock during the   third   quarter of fiscal   2018   were excluded from diluted net earnings per share because they were anti-dilutive. For the third quarter of fiscal   2017  , there were   no   options to purchase shares of common stock that were excluded from diluted earnings per share because they were anti-dilutive. Options to purchase   412,302   and   443,003   shares of common stock during the first   nine   months of fiscal   2018   and   2017  , respectively, were excluded from diluted net earnings per share because they were anti-dilutive. 
+
+12 
+
+Table of Contents  
+
+Note 9   Segment Data 
+    
+  The presentation of segment information reflects the manner in which management organizes segments for making operating decisions and assessing performance. On this basis, the company has determined it has   three   reportable business segments: Professional, Residential, and Distribution. The Distribution segment, which consists of a wholly-owned domestic distributorship, has been combined with the company s corporate activities and elimination of intersegment revenues and expenses that is shown as "Other" in the following tables due to the insignificance of the segment. 
+    
+  The following tables present the summarized financial information concerning the company s reportable segments: 
+
+The following table presents the details of the Other segment operating loss before income taxes: 
+
+13 
+
+Table of Contents  
+
+Note 10   Contingencies   Litigation 
+    
+  The company is party to litigation in the ordinary course of business. Such matters are generally subject to uncertainties and to outcomes that are not predictable with assurance and that may not be known for extended periods of time. Litigation occasionally involves claims for punitive, as well as compensatory, damages arising out of the use of the company s products. Although the company is self-insured to some extent, the company maintains insurance against certain product liability losses. The company is also subject to litigation and administrative and judicial proceedings with respect to claims involving asbestos and the discharge of hazardous substances into the environment. Some of these claims assert damages and liability for personal injury, remedial investigations or clean up and other costs and damages. The company is also typically involved in commercial disputes, employment disputes, and patent litigation cases in which it is asserting or defending against patent infringement claims. To prevent possible infringement of the company s patents by others, the company periodically reviews competitors  products. To avoid potential liability with respect to others  patents, the company regularly reviews certain patents issued by the United States Patent and Trademark Office and foreign patent offices. Management believes these activities help minimize its risk of being a defendant in patent infringement litigation. The company is currently involved in patent litigation cases, including cases by or against competitors, where it is asserting and defending against claims of patent infringement. Such cases are at varying stages in the litigation process. 
+    
+  The company records a liability in its Condensed Consolidated Financial Statements for costs related to claims, including future legal costs, settlements and judgments, where the company has assessed that a loss is probable and an amount can be reasonably estimated. If the reasonable estimate of a probable loss is a range, the company records the most probable estimate of the loss or the minimum amount when no amount within the range is a better estimate than any other amount. The company discloses a contingent liability even if the liability is not probable or the amount is not estimable, or both, if there is a reasonable possibility that a material loss may have been incurred. In the opinion of management, the amount of liability, if any, with respect to these matters, individually or in the aggregate, will not materially affect its Consolidated Results of Operations, Financial Position, or Cash Flows. 
+
+Note 11   Warranty Guarantees 
+    
+  The company s products are warranted to ensure customer confidence in design, workmanship, and overall quality. Warranty coverage is generally for specified periods of time and on select products  hours of usage, and generally covers parts, labor, and other expenses for non-maintenance repairs. Warranty coverage generally does not cover operator abuse or improper use. An authorized company distributor or dealer must perform warranty work. Distributors and dealers submit claims for warranty reimbursement and are credited for the cost of repairs, labor, and other expenses as long as the repairs meet the company's prescribed standards. Warranty expense is accrued at the time of sale based on the estimated number of products under warranty, historical average costs incurred to service warranty claims, the trend in the historical ratio of claims to sales, the historical length of time between the sale and resulting warranty claim, and other minor factors. Special warranty reserves are also accrued for major rework campaigns. Service support outside of the warranty period is provided by authorized distributors and dealers at the customer's expense. The company sells extended warranty coverage on select products for a prescribed period after the original warranty period expires. 
+    
+  The changes in accrued warranties were as follows: 
+
+14 
+
+Table of Contents  
+
+Note 12   Derivative Instruments and Hedging Activities 
+    
+  Risk Management Objective of Using Derivatives 
+    
+  The company is exposed to foreign currency exchange rate risk arising from transactions in the normal course of business, such as sales to third party customers, sales and loans to wholly owned foreign subsidiaries, foreign plant operations, and purchases from suppliers. The company s primary currency exchange rate exposures are with the Euro, the Australian dollar, the Canadian dollar, the British pound, the Mexican peso, the Japanese yen, the Chinese Renminbi, and the Romanian New Leu against the U.S. dollar, as well as the Romanian New Leu against the Euro. 
+    
+  To reduce its exposure to foreign currency exchange rate risk, the company actively manages the exposure of its foreign currency exchange rate risk by entering into various derivative instruments to hedge against such risk, authorized under company policies that place controls on these hedging activities, with counterparties that are highly rated financial institutions. The company s policy does not allow the use of derivative instruments for trading or speculative purposes. The company has also made an accounting policy election to use the portfolio exception with respect to measuring counterparty credit risk for derivative instruments, and to measure the fair value of a portfolio of financial assets and financial liabilities on the basis of the net open risk position with each counterparty. 
+    
+  The company s hedging activities primarily involve the use of forward currency contracts to hedge most foreign currency transactions, including forecasted sales and purchases denominated in foreign currencies. The company uses derivative instruments only in an attempt to limit underlying exposure from foreign currency exchange rate fluctuations and to minimize earnings and cash flow volatility associated with foreign currency exchange rate fluctuations. Decisions on whether to use such derivative instruments are primarily based on the amount of exposure to the currency involved and an assessment of the near-term market value for each currency. 
+    
+  The company recognizes all derivative instruments at fair value on the Condensed Consolidated Balance Sheets as either assets or liabilities. The accounting for changes in the fair value of a derivative instrument depends on whether it has been designated and qualifies as a cash flow hedging instrument. 
+    
+  Cash Flow Hedging Instruments 
+    
+  The company formally documents relationships between cash flow hedging instruments and the related hedged transactions, as well as its risk-management objective and strategy for undertaking cash flow hedging instruments. This process includes linking all cash flow hedging instruments to the forecasted transactions, such as sales to third parties, foreign plant operations, and purchases from suppliers. At the cash flow hedge s inception and on an ongoing basis, the company formally assesses whether the cash flow hedging instruments have been highly effective in offsetting changes in the cash flows of the hedged transactions and whether those cash flow hedging instruments may be expected to remain highly effective in future periods. 
+    
+  Changes in the fair values of the spot rate component of outstanding, highly effective cash flow hedging instruments included in the assessment of hedge effectiveness are recorded in other comprehensive income within AOCL on the Condensed Consolidated Balance Sheets and are subsequently reclassified to net earnings within the Condensed Consolidated Statements of Earnings during the same period in which the cash flows of the underlying hedged transaction affect net earnings. Changes in the fair values of hedge components excluded from the assessment of effectiveness are recognized immediately in net earnings under the mark-to-market approach. The classification of gains or losses recognized on cash flow hedging instruments and excluded components within the Condensed Consolidated Statements of Earnings is the same as that of the underlying exposure. Results of cash flow hedging instruments, and the related excluded components, of sales and foreign plant operations are recorded in net sales and cost of sales, respectively. The maximum amount of time the company hedges its exposure to the variability in future cash flows for forecasted trade sales and purchases is   two years  . Results of cash flow hedges of intercompany loans are recorded in other income, net as an offset to the remeasurement of the foreign loan balance. 
+    
+  When it is determined that a derivative instrument is not, or has ceased to be, highly effective as a cash flow hedge, the company discontinues cash flow hedge accounting prospectively. The gain or loss on the dedesignated derivative instrument remains in AOCL and is reclassified to net earnings within the same Condensed Consolidated Statements of Earnings line item as the underlying exposure when the forecasted transaction affects net earnings. When the company discontinues cash flow hedge accounting because it is no longer probable, but it is still reasonably possible that the forecasted transaction will occur by the end of the originally expected period or within an additional   two  -month period of time thereafter, the gain or loss on the derivative instrument remains in AOCL and is reclassified to net earnings within the same Condensed Consolidated Statements of Earnings line item as the underlying exposure when the forecasted transaction affects net earnings. However, if it is probable that a forecasted transaction will not occur by the end of the originally specified time period or within an additional   two  -month period of time thereafter, the  
+  
+   15 
+
+     Table of Contents  
+
+gains and losses that were in AOCL are immediately recognized in net earnings within other income, net in the Condensed Consolidated Statements of Earnings. In all situations in which cash flow hedge accounting is discontinued and the derivative instrument remains outstanding, the company carries the derivative instrument at its fair value on the Condensed Consolidated Balance Sheets, recognizing future changes in the fair value within other income, net in the Condensed Consolidated Statements of Earnings. 
+    
+  As of   August 3, 2018  , the notional amount outstanding of forward contracts designated as cash flow hedging instruments was   $243.5 million  . 
+    
+  Derivatives Not Designated as Cash Flow Hedging Instruments 
+    
+  The company also enters into foreign currency contracts that include forward currency contracts to mitigate the remeasurement of specific assets and liabilities on the Condensed Consolidated Balance Sheets. These contracts are not designated as cash flow hedging instruments. Accordingly, changes in the fair value of hedges of recorded balance sheet positions, such as cash, receivables, payables, intercompany notes, and other various contractual claims to pay or receive foreign currencies other than the functional currency, are recognized immediately in other income, net, on the Condensed Consolidated Statements of Earnings together with the transaction gain or loss from the hedged balance sheet position. 
+    
+  The following table presents the fair value and location of the company s derivative instruments on the Condensed Consolidated Balance Sheets: 
+
+The company has entered into an International Swap Dealers Association ("ISDA") Master Agreement with each counterparty that permits the net settlement of amounts owed under their respective contracts. The ISDA Master Agreement is an industry standardized contract that governs all derivative contracts entered into between the company and the respective counterparty. Under these master netting agreements, net settlement generally permits the company or the counterparty to determine the net amount payable or receivable for contracts due on the same date or in the same currency for similar types of derivative transactions. The company records the fair value of its derivative instruments at the net amount in its Condensed Consolidated Balance Sheets. 
+
+16 
+
+     Table of Contents  
+
+The following table shows the effects of the master netting arrangements on the fair value of the company s derivative contracts that are recorded in the Condensed Consolidated Balance Sheets: 
+
+The following tables present the impact and location of the amounts reclassified from AOCL into earnings on the Condensed Consolidated Statements of Earnings and the impact of derivative instruments on the Condensed Consolidated Statements of Comprehensive Income for the company's derivatives designated as cash flow hedging instruments for the   three and nine   months ended   August 3, 2018   and   August 4, 2017  : 
+
+The company recognized immaterial gains within other income, net in net earnings during the   third   quarter and first   nine   months of fiscal   2018   due to the discontinuance of cash flow hedge accounting on certain forward currency contracts designated as cash flow hedging instruments. For the   third   quarter and first   nine   months of fiscal   2017  , the company did not discontinue cash flow hedge accounting on any forward currency contracts designated as cash flow hedging instruments. As of   August 3, 2018  , the company expects to reclassify approximately   $1.6 million   of   gains   from AOCL to earnings during the next twelve months. 
+  
+   17 
+
+     Table of Contents  
+
+The following tables present the impact and location of derivative instruments on the Condensed Consolidated Statements of Earnings for the company s derivatives designated as cash flow hedging instruments and the related components excluded from effectiveness testing: 
+
+The following table presents the impact and location of derivative instruments on the Condensed Consolidated Statements of Earnings for the company s derivatives not designated as cash flow hedging instruments: 
+
+18 
+
+Table of Contents  
+
+Note 13   Fair Value Measurements 
+    
+  The company categorizes its assets and liabilities measured at fair value into one of three levels based on the assumptions (inputs) used in valuing the asset or liability. Estimates of fair value for financial assets and financial liabilities are based on the framework established in the accounting guidance for fair value measurements. The framework defines fair value, provides guidance for measuring fair value, and requires certain disclosures. The framework discusses valuation techniques such as the market approach (comparable market prices), the income approach (present value of future income or cash flows), and the cost approach (cost to replace the service capacity of an asset or replacement cost). The framework utilizes a fair value hierarchy that prioritizes the inputs to valuation techniques used to measure fair value into three broad levels. Level 1 provides the most reliable measure of fair value, while Level 3 generally requires significant management judgment. The three levels are defined as follows: 
+    
+  Level 1  : Unadjusted quoted prices in active markets for identical assets or liabilities. 
+    
+  Level 2  : Observable inputs other than Level 1 prices, such as quoted prices for similar assets or liabilities in active markets; quoted prices for identical assets or liabilities in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. 
+    
+  Level 3  : Unobservable inputs reflecting management s assumptions about the inputs used in pricing the asset or liability. 
+    
+  Recurring Fair Value Measurements 
+    
+  The company's derivative instruments consist of forward currency contracts that are measured at fair value on a recurring basis. The fair value of forward currency contracts is determined based on observable market transactions of forward currency prices and spot currency rates as of the reporting date. There were no transfers between levels for the company's recurring fair value measurements during the   three and nine   months ended   August 3, 2018   and   August 4, 2017  , or the twelve months ended   October 31, 2017  . 
+    
+  The following tables present, by level within the fair value hierarchy, the company's financial assets and liabilities that are measured at fair value on a recurring basis as of   August 3, 2018  ,   August 4, 2017  , and   October 31, 2017  , according to the valuation technique utilized to determine their fair values: 
+
+19 
+
+     Table of Contents  
+
+Nonrecurring Fair Value Measurements 
+    
+  The company measures certain assets and liabilities at fair value on a nonrecurring basis. Assets and liabilities that are measured at fair value on a nonrecurring basis include long-lived assets, goodwill, and indefinite-lived intangible assets, which would generally be recorded at fair value as the result of an impairment charge. Assets acquired and liabilities assumed as part of acquisitions are measured at fair value. 
+    
+  Other Fair Value Measurements 
+    
+  The carrying values of the company's short-term financial instruments, including cash and cash equivalents, accounts receivable, accounts payable, and short-term debt, including current maturities of long-term debt, when applicable, approximate their fair values due to their short-term nature. 
+
+Note 14   Subsequent Events 
+    
+  The company has evaluated all subsequent events and concluded that no subsequent events have occurred that would require recognition in the Condensed Consolidated Financial Statements or disclosure in the Notes to the Condensed Consolidated Financial Statements. 
+
+20 
+
+Table of Contents  
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+    
+  This Management s Discussion and Analysis of Financial Condition and Results of Operations ("MD A") is intended to provide a reader of our financial statements with a narrative from the perspective of management on our financial condition, results of operations, liquidity, and certain other factors that may affect our future results. Unless expressly stated otherwise, the comparisons presented in this MD A refer to the same period in the prior fiscal year. Our MD A is presented as follows: 
+    
+     Company Overview 
+     Results of Operations 
+     Business Segments 
+     Financial Position 
+     Non-GAAP Financial Measures 
+     Critical Accounting Policies and Estimates 
+     Forward-Looking Information 
+    
+  We have provided non-GAAP financial measures, which are not calculated or presented in accordance with accounting principles generally accepted in the United States ("GAAP"), as information supplemental and in addition to the financial measures presented in this report that are calculated and presented in accordance with GAAP. This MD A contains certain non-GAAP financial measures, consisting of adjusted net earnings, adjusted net earnings per diluted share, and an adjusted effective tax rate as measures of our operating performance. Management believes these measures may be useful in performing meaningful comparisons of past and present operating results, to understand the performance of our ongoing operations, and how management views the business. Reconciliations of adjusted non-GAAP financial measures to the most directly comparable reported GAAP financial measures are included in the section titled "Non-GAAP Financial Measures" within this MD A. These measures, however, should not be construed as an alternative to any other measure of performance determined in accordance with GAAP. 
+    
+  This MD A should be read in conjunction with the MD A included in Part II, Item 7 of our Annual Report on Form 10-K for the fiscal year ended   October 31, 2017  . This discussion contains various "Forward-Looking Statements" within the meaning of the Private Securities Litigation Reform Act of 1995 and we refer readers to the section titled "Forward-Looking Information" located at the end of Part I, Item 2 of this report for more information. 
+
+COMPANY OVERVIEW 
+    
+  The Toro Company is in the business of designing, manufacturing, and marketing professional turf maintenance equipment and services, turf irrigation systems, landscaping equipment and lighting products, snow and ice management products, agricultural irrigation systems, rental and specialty construction equipment, and residential yard and snow thrower products. We sell our products worldwide through a network of distributors, dealers, mass retailers, hardware retailers, home centers, as well as online (direct to end-users). We classify our operations into three reportable business segments: Professional, Residential, and Distribution. Our Distribution segment, which consists of our wholly owned domestic distributorship, has been combined with our corporate activities and elimination of intersegment revenues and expenses and is presented as "Other." 
+    
+  We strive to provide innovative, well-built, and dependable products supported by an extensive service network. A significant portion of our net sales has historically been, and we expect will continue to be, attributable to new and enhanced products. We define new products as those introduced in the current and previous two fiscal years. 
+
+RESULTS OF OPERATIONS 
+    
+  United States Tax Reform 
+    
+  On December 22, 2017, the United States ("U.S.") enacted Public Law No. 115-97 ("Tax Act"), originally introduced as the Tax Cuts and Jobs Act, to significantly modify the Internal Revenue Code. The Tax Act reduced the U.S. federal corporate tax rate from 35.0 percent to 21.0 percent, created a territorial-type tax system with an exemption for foreign dividends, and imposed a one-time deemed repatriation tax on a U.S. company's historical undistributed earnings and profits of foreign affiliates. The tax rate change was effective January 1, 2018, resulting in a blended statutory tax rate of 23.3 percent for the fiscal year ended October 31, 2018. Among other provisions, the Tax Act also increased expensing for certain business assets, created new taxes on certain foreign sourced earnings, adopted limitations on business interest expense deductions, repealed deductions for income attributable to domestic production activities, and added other anti-base erosion rules. The effective dates for the provisions set forth in the Tax Act vary as to when the provisions will apply to Toro. 
+
+21 
+
+     Table of Contents  
+
+In response to the Tax Act, the SEC provided guidance by issuing Staff Accounting Bulletin No. 118 ("SAB 118"), which has since been codified by the release of Accounting Standards Update ("ASU") No. 2018-05,   Income Taxes (Topic 740): Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 118  . ASU 2018-05 allows companies to record provisional amounts during a measurement period with respect to the impacts of the Tax Act for which the accounting requirements under Accounting Standards Codification ("ASC") Topic 740 are not complete, but a reasonable estimate has been determined. The measurement period under ASU 2018-05 ends when a company has obtained, prepared, and analyzed the information that was needed in order to complete the accounting requirements under ASC Topic 740, but cannot exceed one year. 
+    
+  As of   August 3, 2018  , we have not completed the accounting for the effects of the Tax Act. However, we have estimated the impacts of the Tax Act on our annual effective tax rate, and have recorded provisional amounts for the remeasurement of deferred tax assets and liabilities and the deemed repatriation tax. 
+    
+  While we have recorded provisional amounts for the items expected to most significantly impact our financial statements this year, our evaluation is not complete and, accordingly, we have not yet reached a final conclusion on the overall impacts of the Tax Act. We need additional time to obtain, prepare, and analyze information related to the applicable provisions of the Tax Act. The actual impact of the Tax Act may differ from the provisional amounts, due to, among other things, changes in interpretations and assumptions we have made, guidance that may be issued, and changes in our structure or business model. Please reference the sections below titled "Provision for Income Taxes" and "Net Earnings" within this MD A for further information regarding the impacts of the Tax Act on us for the   three and nine   month periods ended   August 3, 2018  . 
+    
+  Reconciliations of adjusted non-GAAP financial measures to the most directly comparable reported GAAP financial measures are included in the section titled "Non-GAAP Financial Measures" within this MD A. 
+    
+  Overview 
+    
+  For the   third   quarter of fiscal   2018  , our net sales increased   4.4 percent  , as compared to the   third   quarter of fiscal   2017  . Year-to-date fiscal   2018   net sales increased   3.1 percent   compared to the same period in the prior fiscal year. Professional segment net sales increased   3.0 percent   for the   third   quarter comparison, primarily due to strong retail demand and successful new product introductions for our landscape contractor zero-turn radius riding mowers, sales of new products as a result of our acquisition of L.T. Rich Products, Inc. ("L.T. Rich"), and strong channel demand for our rental and specialty construction equipment. These net sales increases were partially offset by lower shipments of our Professional snow and ice management products due to the timing of preseason orders compared to the prior fiscal year. Professional segment net sales increased   6.6 percent   for the year-to-date comparison, primarily driven by strong channel demand and a successful new product introduction for our landscape contractor zero-turn radius riding mowers, continued growth in our golf and grounds businesses, sales of new products as a result of our acquisition of L.T. Rich, strong channel demand for our rental and specialty construction equipment, increased shipments of our ag-irrigation products due to favorable weather conditions in key regions, increased sales of our Perrot-branded irrigation products, and increased shipments of our snow and ice management products. Residential segment net sales increased   9.5 percent   for the   third   quarter comparison, mainly due to strong retail demand for walk power mowers and zero-turn radius riding mowers, as well as the successful introduction of a redesigned line of our Hayter-branded walk power mowers and increased sales of our Pope-branded irrigation products. These net sales increases were partially offset by lower shipments of our snow products due mainly to the timing of preseason orders compared to the prior fiscal year. Residential segment net sales decreased   5.4 percent   for the year-to-date comparison, primarily due to fewer shipments of snow products due to below average snowfall early in the fiscal   2018   season, as well as decreased sales of zero-turn radius riding mowers and walk power mowers mainly due to unfavorable spring weather conditions. The fiscal   2018   year-to-date Residential segment decrease was partially offset by increased sales of our Pope-branded irrigation products and the successful introduction of a redesigned line of our Hayter-branded walk power mowers. 
+    
+  Changes in foreign currency exchange rates resulted in an increase of our net sales of approximately   $2.0 million   and   $15.2 million   for the   third   quarter and year-to-date periods of fiscal   2018  , respectively. 
+    
+  Net earnings for the   third   quarter of fiscal   2018   were   $79.0 million   compared to   $68.4 million   for the   third   quarter of fiscal   2017  . Adjusted net earnings for the   third   quarter of fiscal   2018   were   $73.5 million   compared to   $65.5 million   for the prior year comparative period, an increase of   12.2 percent  . Our net earnings growth for the   third   quarter of fiscal   2018   was primarily attributable to leveraging our selling, general, and administrative ("SG A") expenses over higher sales volumes, which resulted in a reduction of SG A expense as a percentage of net sales of 70 basis points for the   third   quarter comparison. Net earnings for the first   nine   months of fiscal   2018   were   $232.9 million   compared to reported net earnings of   $233.9 million   in the comparable fiscal   2017   period. This decrease was primarily due to the one-time impacts of the Tax Act during the current fiscal year period. Adjusted year-to-date fiscal   2018   net earnings were   $255.9 million   compared to adjusted net earnings of   $215.0 million   in the comparable fiscal   2017   period, an increase of   19.0 percent  . The adjusted net earnings growth for the year-to-date period of fiscal   2018   was  
+  
+   22 
+
+     Table of Contents  
+
+primarily attributable to increased sales while leveraging SG A expenses, as well as higher gross margin. Reconciliations of adjusted non-GAAP financial measures to the most directly comparable reported GAAP financial measures are included in the section titled "Non-GAAP Financial Measures" within this MD A. 
+    
+  We increased our cash dividend for the   third   quarter of fiscal   2018   by 14.3 percent to $0.20 per share compared to the $0.175 per share cash dividend paid in the   third   quarter of fiscal   2017  . 
+    
+  Inventory levels increased   $15.5 million  , or   4.4 percent  , as of the end of the   third   quarter of fiscal   2018  , primarily due to higher work in process inventory mainly driven by manufacturing supply challenges and planned production to support forecasted Professional segment sales. Accounts receivable decreased   $2.1 million  , or   0.9 percent  , primarily due to timing of sales for channels not financed with Red Iron and the impact of foreign currency exchange rates. As of the end of the   third   quarter of fiscal   2018  , field inventory levels were lower primarily due to lower Professional and Residential segment snow and ice management product inventory due to late snowfall in the second quarter of fiscal   2018  , as well as strong retail demand for Residential segment walk power mowers and zero-turn radius riding mowers throughout the key growing season. These field inventory decreases were partially offset by higher field inventory for our landscape contractor zero-turn radius riding mowers driven by strong channel demand. 
+    
+  Three-Year Employee Initiative - "Vision 2020" 
+    
+  Our current multi-year employee initiative, "Vision 2020", which began with our 2018 fiscal year, focuses on driving profitable growth with an emphasis on innovation and serving our customers, which we believe will generate further momentum for the organization. Through our Vision 2020 initiative, we have set specific goals intended to help us drive organic revenue and operating earnings growth. 
+    
+  Organic Revenue Growth 
+    
+  We intend to pursue strategic growth of our existing businesses and product categories with an organic revenue goal to achieve at least five percent or more of organic revenue growth in each of the three fiscal years of this initiative. For purposes of this goal, we define organic revenue growth as the increase in net sales, less net sales from acquisitions that occurred in the current fiscal year. 
+    
+  Operating Earnings 
+    
+  Additionally, as part of our new Vision 2020 initiative growth goals, we have set an operating earnings goal to increase operating earnings as a percentage of net sales to 15.5 percent or higher by the end of fiscal 2020. 
+    
+  Net Sales 
+    
+  Worldwide consolidated net sales for the   third   quarter of fiscal   2018   were   $655.8 million  , up   4.4 percent   compared to   $627.9 million   in the   third   quarter of fiscal   2017  . The net sales increase for the quarter comparison was primarily due to strong retail demand for Residential walk power mowers and zero-turn radius riding mowers, strong retail demand and successful new product introductions for our landscape contractor zero-turn radius riding mowers, sales of new products as a result of our acquisition of L.T. Rich, strong channel demand for our rental and specialty construction equipment, the successful introduction of a redesigned line of Hayter-branded walk power mowers, and increased sales of our Pope-branded irrigation products. These net sales increases were partially offset by lower shipments of our Professional and Residential segment snow and ice management products mainly due to the timing of preseason orders compared to the prior fiscal year. For the year-to-date period of fiscal   2018  , worldwide consolidated net sales were   $2,079.3 million  , up   3.1 percent   from the same period in the prior fiscal year. The year-to-date net sales increase was primarily due to strong channel demand and a successful new product introduction for our landscape contractor zero-turn radius riding mowers, continued growth in our golf and grounds businesses, sales of new products as a result of our acquisition of L.T. Rich, strong channel demand for our rental and specialty construction equipment, increased shipments of our ag-irrigation products due to favorable weather conditions in key regions, increased sales of our Professional snow and ice management products, and increased sales of our Perrot-branded and Pope-branded irrigation products. These net sales increases were partially offset by fewer shipments of Residential snow product due to below average snowfall early in the fiscal   2018   season, as well as decreased sales of Residential zero-turn radius riding mowers and walk power mowers due to unfavorable spring weather conditions. 
+    
+  Net sales in international markets increased by   2.2 percent   and   5.1 percent   for the   third   quarter and year-to-date periods of fiscal   2018  , respectively. The net sales increase for the quarter comparison was mainly due to increased shipments of our golf and grounds equipment, strong demand for our ag-irrigation products, increased sales of our Pope-branded irrigation products, and the successful  
+  
+   23 
+
+     Table of Contents  
+
+introduction of a redesigned line of our Hayter-branded walk power mowers. These increases were partially offset by fewer shipments of Residential segment zero-turn radius riding mowers and walk power mowers due to unfavorable weather conditions across Europe and Australia during the   third   quarter of fiscal   2018  . The net sales increase for the year-to-date period of fiscal   2018   was primarily due to strong demand for our ag-irrigation products, increased sales of our Perrot-branded and Pope-branded irrigation products, increased shipments of our Professional segment and Residential segment zero-turn radius riding mowers, strong demand for our rental and specialty construction equipment, and the successful introduction of a redesigned line of our Hayter-branded walk power mowers. Changes in foreign currency exchange rates positively impacted our international net sales by approximately   $2.0 million   and   $15.2 million   for the   third   quarter and year-to-date periods of fiscal   2018  , respectively. 
+    
+  The following table summarizes the major operating costs and other income as a percentage of net sales:   
+
+Gross Profit 
+    
+  As a percentage of net sales, gross profit for the   third   quarter of fiscal   2018   was   35.6 percent  , a decrease of   50   basis points when compared to the   third   quarter of fiscal   2017  . This decrease was primarily due to the impact of unfavorable commodity and freight costs, manufacturing supply challenges, and the negative impact of segment mix, partially offset by improved net price realization and productivity efforts. Gross profit as a percentage of net sales for the fiscal   2018   year-to-date period was   36.6 percent  , an increase of   10   basis points when compared with the prior fiscal year comparative period. The year-to-date comparison results were driven by improved net price realization, favorable foreign currency exchange rate fluctuations, and the positive impact of segment mix, partially offset by unfavorable commodity costs and manufacturing supply challenges. 
+    
+  Selling, General, and Administrative Expense 
+    
+  SG A expense increased   $1.8 million  , or   1.3 percent  , for the   third   quarter of fiscal   2018   and increased   $2.9 million  , or   0.7 percent  , for the year-to-date period of fiscal   2018  . As a percentage of net sales, SG A expense decreased   70   basis points for the   third   quarter of fiscal   2018   and decreased   50   basis points for the year-to-date period of fiscal   2018  . The decrease as a percentage of net sales for the   third   quarter comparison was primarily due to leveraging of expenses over higher sales volume, partially offset by increased engineering expense. The decrease as a percentage of net sales for the year-to-date comparison was primarily due to lower incentive compensation expense and the leveraging of expenses over higher sales volume, partially offset by increased engineering expense. 
+    
+  Interest Expense 
+    
+  Interest expense decreased by   1.6 percent   and   0.7 percent   for the   third   quarter and year-to-date periods of fiscal   2018  , respectively. 
+    
+  Other Income, Net 
+    
+  Other income, net for the   third   quarter of fiscal   2018   decreased   $0.3 million   when compared to the   third   quarter of fiscal   2017  . The decrease was primarily due to lower gains realized on foreign currency exchange rate fluctuations, partially offset by higher interest income on marketable securities and higher earnings from our equity investment in Red Iron. Other income, net was flat for the year-to-date period of fiscal   2018  , mainly due to higher interest income on marketable securities and higher earnings from our equity investment in Red Iron, partially offset by lower gains realized on foreign currency exchange rate fluctuations and costs incurred for litigation settlements. 
+  
+   24 
+
+     Table of Contents  
+
+Provision for Income Taxes 
+    
+  The effective tax rate for the   third   quarter of fiscal   2018   was   15.3 percent   compared to   22.6 percent   in the   third   quarter of   2017  . The decrease for the   third   quarter of fiscal   2018   was primarily driven by a   $9.0 million   benefit resulting from the reduction in the federal corporate tax rate from the enactment of the Tax Act on all items other than the excess tax deduction for share-based compensation and the provisional remeasurement of deferred tax assets and liabilities, which resulted in a non-cash discrete tax benefit of   $1.2 million  . Additionally, the   third   quarter decrease was driven by a   $2.1 million   year-over-year increase in the benefit of the excess tax deduction for share-based compensation, which includes a   $2.2 million   unfavorable impact on the benefit due to the reduction in the federal corporate tax rate. These decreases were partially offset by the provisional calculation of the deemed repatriation tax, which resulted in a discrete tax charge of   $0.7 million  , payable over eight years. The adjusted effective tax rate for the   third   quarter of fiscal   2018   was   21.2 percent  , compared to an adjusted effective tax rate of   25.9 percent   in the same period last year. The decrease for the   third   quarter of fiscal   2018   was driven by the benefit resulting from the reduction in the federal corporate tax rate from the enactment of the Tax Act. The adjusted effective tax rate for the   third   quarter of fiscal   2018   excludes a benefit of   $5.0 million   for the excess tax deduction for share-based compensation and a benefit of   $0.5 million   for an adjustment to the one-time charges associated with the Tax Act recorded in the first quarter of fiscal 2018. The adjusted effective tax rate for the   third   quarter of fiscal   2017   excludes a benefit of   $2.9 million   for the excess tax deduction for share-based compensation. 
+    
+  The effective tax rate for the year-to-date period of fiscal   2018   was   29.2 percent   compared to   23.6 percent   in the same period of fiscal   2017  . The effective tax rate was significantly impacted by the enactment of the Tax Act for the year-to-date period of fiscal   2018  . The increase was driven by the provisional remeasurement of deferred tax assets and liabilities, which resulted in a non-cash discrete tax charge of   $19.3 million  , and the provisional calculation of the deemed repatriation tax, which resulted in a discrete tax charge of   $13.3 million  , payable over eight years. In addition to these one-time charges resulting from the Tax Act, the increase in the effective tax rate was driven by a   $9.2 million   year-over-year decrease in the benefit of the excess tax deduction for share-based compensation, which includes a   $4.2 million   unfavorable impact on the benefit due to the reduction in the federal corporate tax rate. These increases were partially offset by a benefit of   $31.9 million   resulting from the reduction in the federal corporate tax rate on all items other than the excess tax deduction for share-based compensation. The adjusted effective tax rate for the year-to-date period of fiscal   2018   was   22.2 percent  , compared to an adjusted effective tax rate of   29.8 percent   in the same period of fiscal   2017  . The adjusted effective tax rate for fiscal   2018   excludes one-time charges associated with the Tax Act of   $32.6 million   and a benefit of   $9.6 million   for the excess tax deduction for share-based compensation. The adjusted effective tax rate for fiscal   2017   excludes the benefit of   $18.9 million   for the excess tax deduction for share-based compensation. 
+    
+  Reconciliations of adjusted non-GAAP financial measures to the most directly comparable reported GAAP financial measures are included in the section titled "Non-GAAP Financial Measures" within this MD A.  
+    
+  Net Earnings 
+    
+  Net earnings for the   third   quarter of fiscal   2018   were   $79.0 million  , or   $0.73   per diluted share, compared to   $68.4 million  , or   $0.61   per diluted share, for the   third   quarter of fiscal   2017  . The primary factors contributing to the net earnings increase for the   third   quarter comparison included increased net sales, a decrease in SG A expense as a percentage of net sales, and a lower effective tax rate. Adjusted net earnings for the   third   quarter of fiscal   2018   were   $73.5 million  , or   $0.68   per diluted share, compared to   $65.5 million  , or   $0.58   per diluted share, for the   third   quarter of fiscal   2017  , an increase of   17.2 percent   per diluted share. The   third   quarter of fiscal   2018   adjusted net earnings excludes a benefit of   $5.0 million  , or   $0.05   per diluted share, for the excess tax deduction for share-based compensation and one-time charges associated with the Tax Act of   $0.5 million  . The   third   quarter of fiscal   2017   adjusted net earnings excludes a benefit of   $2.9 million  , or   $0.03   per diluted share, for the excess tax deduction for share-based compensation. In addition, as a result of reduced shares outstanding from repurchases of our common stock,   third   quarter fiscal 2018 net earnings per diluted share and adjusted net earnings per diluted share were benefited by approximately   $0.02   per diluted share. 
+    
+  Year-to-date net earnings in fiscal   2018   were   $232.9 million  , or   $2.14   per diluted share, compared to   $233.9 million  , or   $2.10   per diluted share, in the prior year comparative period. Net earnings for the year-to-date period of fiscal   2018   were significantly impacted by the enactment of the Tax Act. As previously mentioned, the impact from the enactment of the Tax Act was driven by the provisional remeasurement of deferred tax assets and liabilities, which resulted in a non-cash discrete tax charge of   $19.3 million  , and the provisional calculation of the deemed repatriation tax, which resulted in a discrete tax charge of   $13.3 million  , payable over eight years. The unfavorable impact of these one-time charges was partially offset by a benefit of   $27.7 million   resulting from the reduction in the federal corporate tax rate. Adjusted net earnings for the year-to-date period of fiscal   2018   were   $255.9 million  , or   $2.35   per diluted share, compared to   $215.0 million  , or   $1.93   per diluted share, for the prior year comparable period, an increase of   21.8 percent   per diluted share. The year-to-date period of fiscal   2018   adjusted net earnings excludes one-time charges associated with the Tax Act of   $32.6 million  , or   $0.30   per diluted share, and a benefit of   $9.6 million  , or   $0.09   per diluted share, for the excess tax deduction for share-based compensation. The comparable period of fiscal   2017   adjusted net  
+  
+   25 
+
+     Table of Contents  
+
+earnings excludes a benefit of   $18.9 million  , or   $0.17   per diluted share, for the excess tax deduction for share-based compensation. In addition, as a result of reduced shares outstanding from repurchases of our common stock, year-to-date fiscal 2018 net earnings per diluted share and adjusted net earnings per diluted share were benefited by approximately   $0.05   per diluted share. 
+    
+  Reconciliations of adjusted non-GAAP financial measures to the most directly comparable reported GAAP financial measures are included in the section titled "Non-GAAP Financial Measures" within this MD A. 
+
+BUSINESS SEGMENTS 
+    
+  We operate in three reportable business segments: Professional, Residential, and Distribution. Our Distribution segment, which consists of our wholly-owned domestic distributorship, has been combined with our corporate activities and elimination of intersegment revenues and expenses that is shown as "Other" in the following tables. Segment earnings for our Professional and Residential segments are defined as operating earnings plus other income, net. Segment loss for "Other" includes operating earnings (loss), corporate activities, other income, net, and interest expense. 
+    
+  The following tables summarize net sales by reportable business segment: 
+
+The following tables summarize reportable business segment earnings (loss): 
+
+26 
+
+     Table of Contents  
+
+Professional Segment 
+    
+  Segment Net Sales 
+    
+  Worldwide net sales for our Professional segment increased   3.0 percent   and   6.6 percent   for the   third   quarter and year-to-date comparisons, respectively. The Professional segment net sales increase for the   third   quarter comparison of fiscal   2018   was primarily due to strong retail demand for and successful new product introductions of our landscape contractor zero-turn radius riding mowers, sales of new products as a result of our acquisition of L.T. Rich, and strong channel demand for our rental and specialty construction equipment. These net sales increases were partially offset by lower shipments of our Professional snow and ice management products due to the timing of preseason orders compared to the prior fiscal year. Professional segment net sales growth for the year-to-date period of fiscal   2018   was largely due to strong retail demand for our landscape contractor zero-turn radius riding mowers and a successful new product introduction of our diesel-powered Exmark  Lazer Z   TM   , continued growth in our golf and grounds businesses with increased shipments of our Reelmaster , Greensmaster , and Groundsmaster  series mowers, sales of new products as a result of our acquisition of L.T. Rich, strong channel demand for our Dingo  TX 1000 compact utility loader within our rental and specialty construction business, increased shipments of our ag-irrigation products due to favorable weather conditions in key regions, increased sales of our Perrot-branded irrigation products, and increased shipments of our BOSS  snow and ice management products. 
+    
+  Segment Earnings 
+    
+  Professional segment earnings for the   third   quarter of fiscal   2018   increased by   0.4 percent   compared to the   third   quarter of fiscal   2017  , but when expressed as a percentage of net sales, decreased to   20.3 percent   from   20.8 percent  . As a percentage of net sales, the Professional segment earnings decrease was primarily due to lower gross margins driven by unfavorable commodity costs and product mix, as well as higher freight costs and manufacturing supply challenges, partially offset by improved net price realization on Professional segment products and productivity improvements. Additionally, lower SG A expense as a percentage of net sales partially offset the unfavorable impact of lower Professional segment gross margins, primarily due to a decline in product liability expense from favorable claims experience and leveraging SG A expense over higher sales volume. For the year-to-date period of fiscal   2018  , Professional segment earnings increased by   7.6 percent   compared to the same period in the prior fiscal year and increased to   21.9 percent   from   21.7 percent   when expressed as a percentage of net sales for the year-to-date period comparison. As a percentage of net sales, the Professional segment earnings increase was primarily due to leveraging SG A expense over higher sales volume, as Professional segment gross margin was down slightly due to the unfavorable impact of commodity costs and manufacturing supply challenges, partially offset by improved net price realization and favorable foreign currency exchange rate fluctuations. 
+    
+  Residential Segment 
+    
+  Segment Net Sales 
+    
+  Worldwide net sales for our Residential segment for the   third   quarter and year-to-date periods of fiscal   2018   increased   9.5 percent   and decreased   5.4 percent  , respectively, compared to the prior fiscal year periods. The Residential segment net sales increase for the   third   quarter comparison was primarily driven by strong retail demand for walk power mowers and zero-turn radius riding mowers due mainly to favorable weather conditions during the key growing season, as well as the successful introduction of a redesigned line of our Hayter-branded walk power mowers and increased sales of our Pope-branded irrigation products. These net sales increases were partially offset by lower shipments of our snow products due mainly to the timing of preseason orders compared to the prior fiscal year. The Residential segment net sales decrease for the year-to-date comparison was primarily driven by fewer shipments of snow products due mainly to below average snowfall early in the fiscal   2018   season, as well as decreased sales of zero-turn radius riding mowers and walk power mowers driven by unfavorable spring weather conditions. These net sales decreases were partially offset by increased sales of our Pope-branded irrigation products and the successful introduction of a redesigned line of our Hayter-branded walk power mowers. 
+    
+  Segment Earnings 
+    
+  Residential segment earnings for the   third   quarter of fiscal   2018   increased   40.9 percent   compared to the   third   quarter of fiscal   2017  , and when expressed as a percentage of net sales, increased to   9.6 percent   from   7.5 percent  . As a percentage of net sales, the Residential segment earnings increase was due to higher gross margins driven by freight cost reduction efforts and improved net price realization, partially offset by unfavorable commodity costs and product mix. Additionally, lower SG A expense as a percentage of net sales improved Residential segment earnings, mainly due to lower direct marketing expense and leveraging SG A expense over higher sales volume, partially offset by increased warranty costs. For the year-to-date period of fiscal   2018  , Residential segment earnings decreased   7.9 percent   compared to the same period in the prior fiscal year, and when expressed as  
+  
+   27 
+
+     Table of Contents  
+
+a percentage of net sales, decreased to   11.1 percent   from   11.4 percent  . As a percentage of net sales, the Residential segment earnings decrease was primarily driven by higher SG A expense as a percentage of net sales, as gross margin was flat for the year-to-date comparison. The increase in SG A expense as a percentage of net sales was driven by higher engineering expense for new product development and higher warehousing costs mainly due to unfavorable plant-to-warehouse freight costs, partially offset by lower incentive compensation expense. 
+    
+  Other Segment 
+    
+  Segment Net Sales 
+    
+  Net sales for the Other segment include sales from our wholly owned domestic distribution company less sales from the Professional and Residential segments to the distribution company. The Other segment net sales in the   third   quarter and year-to-date periods of fiscal   2018   decreased by   $0.4 million   and   $3.0 million  , respectively, mainly due to decreased sales of our golf and grounds equipment through our wholly owned domestic distribution company. 
+    
+  Segment Loss 
+    
+  The Other segment loss increased   $0.1 million   for the   third   quarter of fiscal   2018  , primarily due to lower gains realized on foreign currency exchange rate fluctuations, partially offset by lower corporate expense. The Other segment loss decreased   $3.5 million   for the year-to-date period of fiscal   2018  , primarily due to lower incentive compensation expense, higher earnings from our equity investment in Red Iron, and higher interest income on marketable securities, partially offset by lower gains realized on foreign currency exchange rate fluctuations and costs incurred for litigation settlements. 
+
+FINANCIAL POSITION 
+    
+  Working Capital 
+    
+  Our strategy continues to place emphasis on improving asset utilization with a focus on reducing the amount of working capital in the supply chain, adjusting production plans, and maintaining or improving order replenishment and service levels to end-users. Our average net working capital as a percentage of net sales was   14.0 percent   for the twelve months ended   August 3, 2018   and   August 4, 2017  . We calculate our average net working capital as average net accounts receivable plus net inventory, less accounts payable for a twelve month period as percentage of rolling twelve month net sales. 
+    
+  Inventory levels were up   $15.5 million  , or   4.4 percent  , as of the end of the   third   quarter of fiscal   2018   compared to the end of the   third   quarter of fiscal   2017  , primarily due to higher work in process inventory mainly driven by manufacturing supply challenges and planned production to support forecasted Professional segment sales. Accounts receivable as of the end of the   third   quarter of fiscal   2018   decreased   $2.1 million  , or   0.9 percent  , compared to the end of the   third   quarter of fiscal   2017  , primarily due to timing of sales for channels not financed with Red Iron and the impact of foreign currency exchange rates. Our average days sales outstanding for receivables increased to   30.3   days, based on sales for the last twelve months ended   August 3, 2018  , compared to   30.1   days for the twelve months ended   August 4, 2017  . In addition, accounts payable increased   $17.6 million  , or   8.3 percent  , as of the end of our   third   quarter of fiscal   2018   compared to the end of the   third   quarter of fiscal   2017  , mainly due to more favorable payment terms with suppliers. 
+    
+  Cash Flow 
+    
+  Cash provided by operating activities for the first   nine   months of fiscal   2018   decreased   $17.3 million   compared to the first   nine   months of fiscal   2017  , primarily driven by changes in accrued liabilities and a lower year-over-year benefit from extending accounts payable terms with suppliers as a component of our working capital initiatives, partially offset by faster conversion of receivables to cash. Cash used in investing activities increased   $28.9 million   during the first   nine   months of fiscal   2018   compared to the first   nine   months of fiscal   2017  , primarily due to cash utilized for purchases of property, plant, and equipment, the acquisition of L.T. Rich that closed during the second quarter of fiscal   2018  , and minority investments in unconsolidated entities. Cash used in financing activities for the first   nine   months of fiscal   2018   increased   $66.4 million   compared to the first   nine   months of fiscal   2017  , mainly due to cash utilized for common stock repurchases and increased common stock dividends paid. 
+
+28 
+
+     Table of Contents  
+
+Liquidity and Capital Resources 
+    
+  Our businesses are seasonally working capital intensive and require funding for purchases of raw materials used in production, replacement parts inventory, payroll and other administrative costs, capital expenditures, establishment of new facilities, expansion and renovation of existing facilities, as well as for financing receivables from customers that are not financed with Red Iron. Our accounts receivable balances historically increase between January and April as a result of typically higher sales volumes and extended payment terms made available to our customers, and typically decrease between May and December when payments are received. We believe that the funds available through existing financing arrangements and forecasted cash flows will be sufficient to provide the necessary capital resources for our anticipated working capital needs, capital expenditures, investments, debt repayments, quarterly cash dividend payments, and common stock repurchases for at least the next twelve months. As of   August 3, 2018  , cash and short-term investments held by our foreign subsidiaries were approximately $171.4 million. 
+    
+  Seasonal cash requirements are financed from operations, cash on hand, and with borrowings under our revolving credit facility. In June 2018, we replaced our prior revolving credit facility, which was scheduled to mature in October 2019, with an unsecured senior five-year revolving credit facility that, among other things, increases our borrowing capacity to $600.0 million, from $150.0 million, and expires in June 2023. Included in our $600.0 million revolving credit facility is a $10.0 million sublimit for standby letters of credit and a $30.0 million sublimit for swingline loans. At our election, and with the approval of the named borrowers on the revolving credit facility and the election of the lenders to fund such increase, the aggregate maximum principal amount available under the facility may be increased by an amount up to $300.0 million. Funds are available under the revolving credit facility for working capital, capital expenditures, and other lawful corporate purposes, including, but not limited to, acquisitions and common stock repurchases, subject in each case to compliance with certain financial covenants described below. 
+    
+  Loans under the revolving credit facility (other than swingline loans) bear interest at a variable rate generally based on LIBOR or an alternative variable rate based on the highest of the Bank of America prime rate, the federal funds rate or a rate generally based on LIBOR, in each case subject to an additional basis point spread that is calculated based on the better of the leverage ratio (as measured quarterly and defined as the ratio of (a) total indebtedness to (b) consolidated earnings before interest and taxes plus depreciation and amortization expense) and debt rating of Toro. Swingline loans under the revolving credit facility bear interest at a rate determined by the swingline lender or an alternative variable rate based on the highest of the Bank of America prime rate, the federal funds rate or a rate generally based on LIBOR, in each case subject to an additional basis point spread that is calculated based on the better of the leverage ratio and debt rating of Toro. Interest is payable quarterly in arrears. Our debt rating for long-term unsecured senior, non-credit enhanced debt was unchanged during the third quarter of fiscal 2018 by Standard and Poor's Ratings Group at BBB and by Moody's Investors Service at Baa3. If our debt rating falls below investment grade and/or our leverage ratio rises above 1.50, the basis point spread we currently pay on outstanding debt under the revolving credit facility would increase. However, the credit commitment could not be canceled by the banks based solely on a ratings downgrade. 
+    
+  Our revolving credit facility contains standard covenants, including, without limitation, financial covenants, such as the maintenance of minimum interest coverage and maximum leverage ratios; and negative covenants, which among other things, limit disposition of assets, consolidations and mergers, restricted payments, liens, and other matters customarily restricted in such agreements. Most of these restrictions are subject to certain minimum thresholds and exceptions. Under the revolving credit facility, we are not limited in the amount for payments of cash dividends and common stock repurchases as long as, both before and after giving pro forma effect to such payments, our leverage ratio from the previous quarter compliance certificate is less than or equal to 3.5 (or, at our option (which we may exercise twice) after certain acquisitions with aggregate consideration in excess of $75.0 million, for the first four quarters following the exercise of such option, is less than or equal to 4.0), provided that immediately after giving effect of any such proposed action, no default or event of default would exist. As of   August 3, 2018  , we were not limited in the amount for payments of cash dividends and common stock repurchases. We were in compliance with all covenants related to our credit agreement for our revolving credit facility as of   August 3, 2018  , and we expect to be in compliance with all covenants during the remainder of fiscal   2018  . If we were out of compliance with any covenant required by this credit agreement following the applicable cure period, the banks could terminate their commitments unless we could negotiate a covenant waiver from the banks. In addition, our long-term senior notes, debentures, and any amounts outstanding under the revolving credit facility could become due and payable if we were unable to obtain a covenant waiver or refinance our borrowings under our credit agreement. 
+    
+  As of   August 3, 2018  , we had $91.0 million outstanding under our revolving credit facility, which is classified as long-term debt within our Consolidated Balance Sheets as we have the ability to extend the outstanding borrowings under the revolving credit facility for the full-term of the facility and we currently intend to keep the balance outstanding for at least twelve months. As of   August 4, 2017  , we had no outstanding borrowings under our revolving credit facility that was in place at that time. In addition, our domestic and non-U.S. operations maintain import letters of credit in the aggregate amount of approximately $13.9 million. As of   August 3, 2018  , we had $6.1 million of outstanding letters of credit and $516.7 million of unutilized availability under our revolving credit facility and import letter of credit agreements. Additionally, as of   August 3, 2018  , we had   $312.5 million   outstanding  
+  
+   29 
+
+     Table of Contents  
+
+in long-term debt that includes $100.0 million of 7.8 percent debentures due June 15, 2027, $123.8 million of 6.625 percent senior notes due May 1, 2037, $91.0 million outstanding under our revolving credit facility, and partially offsetting debt issuance costs and deferred charges of $2.4 million related to our outstanding long-term debt. 
+    
+  Cash Dividends 
+    
+  Our Board of Directors approved a cash dividend of $0.20 per share for the   third   quarter of fiscal   2018   that was paid on July 11, 2018. This was an increase of 14.3 percent over our cash dividend of $0.175 per share for the   third   quarter of fiscal   2017  .  
+    
+  Customer Financing Arrangements and Contractual Obligations 
+    
+  Our Red Iron joint venture with TCFIF provides inventory financing to certain distributors and dealers of our products in the U.S. that enables them to carry representative inventories of our products. Some independent international dealers continue to finance their products with a third party finance company. This third party financing company purchased $21.3 million of receivables from us during the first   nine   months of fiscal   2018  . As of   August 3, 2018  , $10.8 million of receivables financed by a third party financing company, excluding Red Iron, were outstanding. See our most recently filed Annual Report on Form 10-K for further details regarding our customer financing arrangements and contractual obligations. 
+    
+  Inflation 
+    
+  We are subject to the effects of inflation, deflation, and changing prices. In the first   nine   months of fiscal   2018  , the average cost of commodities and components purchased were higher compared to the average cost of commodities and components purchased in the first   nine   months of fiscal   2017  . We intend to continue to closely follow the cost of commodities and components that affect our product lines, and we anticipate that the average cost for some commodities and components will be higher for the remainder of fiscal   2018  , as compared to fiscal   2017  . Historically, we have mitigated, and we currently expect that we would mitigate, any commodity and component cost increases, in part, by collaborating with suppliers, reviewing alternative sourcing options, substituting materials, utilizing Lean methods, engaging in internal cost reduction efforts, and increasing prices on some of our products, all as appropriate. 
+
+30 
+
+Table of Contents  
+
+NON-GAAP FINANCIAL MEASURES 
+    
+  We have provided non-GAAP financial measures, which are not calculated or presented in accordance with GAAP, as information supplemental and in addition to the most directly comparable financial measures that are calculated and presented in accordance with GAAP. Such non-GAAP financial measures should not be considered superior to, as a substitute for, or as an alternative to, and should be considered in conjunction with, the GAAP financial measures. The non-GAAP financial measures may differ from similar measures used by other companies. 
+    
+  The following tables provide reconciliations of financial measures calculated and reported in accordance with GAAP as well as adjusted non-GAAP financial measures for the   three   and   nine   month periods ended   August 3, 2018   and   August 4, 2017  . We believe these measures may be useful in performing meaningful comparisons of past and present operating results, to understand the performance of our ongoing operations, and how management views the business. The following is a reconciliation of our net earnings, diluted earnings per share ("EPS"), and effective tax rate to our adjusted net earnings, adjusted diluted EPS, and adjusted effective tax rate: 
+
+1    
+    The actual impact of the U.S. tax reform may differ from our estimates, due to, among other things, changes in interpretations and assumptions we have made, guidance that may be issued, and changes in our structure or business model. 
+       
+            2   
+    Signed into law on December 22, 2017, the Tax Act, reduced the U.S. federal corporate tax rate from 35.0 percent to 21.0 percent, effective January 1, 2018, resulting in a blended U.S. federal statutory tax rate of 23.3 percent for the fiscal year ended October 31, 2018. This reduction in rate requires the re-measurement of our net deferred taxes as of the date of enactment, which resulted in a non-cash benefit of   $1.2 million   and a non-cash charge of   $19.3 million   during the   three   and   nine   month periods ended   August 3, 2018  , respectively. 
+       
+            3    
+    The Tax Act imposed a one-time deemed repatriation tax on our historical undistributed earnings and profits of foreign affiliates which resulted in charges of   $0.7 million   and   $13.3 million   during the   three   and   nine   month periods ended   August 3, 2018  , respectively, payable over eight years. 
+       
+            4   
+    In the first quarter of fiscal 2017, we adopted Accounting Standards Update No. 2016-09, Stock-based Compensation: Improvements to Employee Share-based Payment Accounting, which requires that any excess tax deduction for share-based compensation be immediately recorded within income tax expense. We recorded discrete tax benefits of   $5.0 million   and   $9.6 million   as excess tax deductions for share-based compensation during the   three and nine   months ended   August 3, 2018  , respectively. The Tax Act reduced the U.S. federal corporate tax rate, which reduced the tax benefit related to share-based compensation by   $2.2 million   and   $4.2 million   for the for the   three   and   nine   month periods ended   August 3, 2018  , respectively. 
+     
+   31 
+
+Table of Contents  
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+    
+  There have been no material changes to our critical accounting policies and estimates since our most recent Annual Report on Form 10-K for the fiscal year ended   October 31, 2017  . Refer to Part II, Item 7,   Management s Discussion and Analysis of Financial Condition and Results of Operations  , and Part II, Item 8, Note 1,   Summary of Significant Accounting Policies and Related Data  , within our Annual Report on Form 10-K for the fiscal year ended   October 31, 2017   for a discussion of our critical accounting policies and estimates. 
+    
+  New Accounting Pronouncements to be Adopted 
+    
+  In May 2014, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Updates ("ASU") No. 2014-09,   Revenue from Contracts with Customers  , that updates the principles for recognizing revenue. The core principle of the guidance is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled to in exchange for those goods or services. The guidance provides a five-step analysis of transactions to determine when and how revenue is recognized. The guidance also requires enhanced disclosures regarding the nature, amount, timing, and uncertainty of revenue and cash flows arising from an entity s contracts with customers. In August 2015, the FASB issued ASU No. 2015-14,   Revenue from Contracts with Customers (Topic 606)  , which deferred the effective date of this standard by one year. The guidance permits the use of either a retrospective or cumulative effect transition method. We have elected to use a cumulative effect transition method for our adoption of the amended guidance. We will adopt this guidance on November 1, 2018, as required, based on the new effective date. As of   August 3, 2018  , we have substantially completed our evaluation of the impact of the amended guidance on our current accounting policies and practices and have not identified any material differences resulting from applying the new revenue recognition requirements to our contracts with customers. The majority of our revenue arrangements generally consist of a single performance obligation to transfer promised goods or services to our customer. Additionally, as of   August 3, 2018  , we are in the process of identifying and implementing the appropriate modifications to our business processes, information systems, and internal controls. At this point in our evaluation process, the identified modifications do not represent material changes to our business processes, information systems, and internal controls. While we have not identified material differences in the amount and timing of revenue recognition related to ASU 2014-09, our evaluation of the amended guidance on our accounting policies and practices, business processes, information systems, and internal controls to support the revenue recognition and disclosure requirements is not complete and, accordingly, we have not yet reached a conclusion on the overall impacts of adopting ASU 2014-09. 
+    
+  In February 2016, the FASB issued ASU No. 2016-02,   Leases  , which, among other things, requires lessees to recognize most leases on-balance sheet. The standard requires the recognition of right-of-use assets and lease liabilities by lessees for those leases classified as operating leases under previous GAAP. The standard also requires a greater level of quantitative and qualitative disclosures regarding the nature of the entity s leasing activities than were previously required under GAAP. In January 2018, the FASB issued ASU No. 2018-01,   Leases (Topic 842):     Land Easement Practical Expedient for Transition to Topic 842  , which provides an optional transition practical expedient to not evaluate existing or expired land easements under the amended lease guidance. In July 2018, the FASB issued ASU 2018-10,   Codification Improvements to Topic 842 (Leases)  , which provides narrow amendments to clarify how to apply certain aspects of the new lease standard. Additionally, in July 2018, the FASB issued ASU No. 2018-11,   Leases (Topic 842): Targeted Improvements  , which provides an alternative transition method that permits an entity to use the effective date of ASU No. 2016-02 as the date of initial application through the recognition of a cumulative effect adjustment to the opening balance of retained earnings upon adoption. Consequently, an entity's reporting for the comparative periods presented in the financial statements in which it adopts the new lease standard will continue to be in accordance with current GAAP under ASC Topic 840,   Leases  . ASU No. 2016-02, as augmented by ASU No. 2018-01, ASU No. 2018-10, and ASU No. 2018-11 (the "amended guidance"), will become effective for us commencing in the first quarter of fiscal 2020. Entities are required to use a modified retrospective approach for all leases existing at, or entered into after, the date of initial application, with an option to use certain transition relief. Early adoption is permitted. We are currently reviewing the amended guidance, assessing our leases, and evaluating the related impact on our Consolidated Financial Statements, Notes to Consolidated Financial Statements, business processes, internal controls, and information systems. 
+    
+  In January 2017, the FASB issued ASU No. 2017-04,   Intangibles Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment  , which simplifies the accounting for goodwill impairments by eliminating step 2 from the goodwill impairment test. The amended guidance will become effective for us commencing in the first quarter of fiscal 2021. Early adoption is permitted. We are currently evaluating the impact of this new standard on our Consolidated Financial Statements. 
+    
+  In May 2017, the FASB issued ASU No. 2017-09,   Compensation Stock Compensation (Topic 718): Scope of Modification Accounting  , which provides guidance on the types of changes to the terms or conditions of share-based payment awards to which an entity would be required to apply modification accounting under Topic 718. The amended guidance will become effective for  
+  
+   32 
+
+     Table of Contents  
+
+us commencing in the first quarter of fiscal 2019. Early adoption is permitted. We are currently evaluating the impact of this new standard on our Consolidated Financial Statements. 
+    
+  In June 2018, the FASB issued ASU No. 2018-07,   Compensation - Stock Compensation (Topic 718): Improvements to Nonemployee Share-Based Payment Accounting  , which expands the scope of ASC Topic 718 to include share-based payments granted to nonemployees in exchange for goods or services used or consumed in an entity's own operations and supersedes the guidance in ASC Topic 505-50. The amended guidance will become effective for us commencing in the first quarter of fiscal 2020. Early adoption is permitted but not prior to adopting ASC Topic 606,   Revenue from Contracts with Customers  . We are currently evaluating the impact of this new standard on our Consolidated Financial Statements. 
+    
+  We believe that all other recently issued accounting pronouncements from the FASB that we have not noted above, will not have a material impact on our Consolidated Financial Statements or do not apply to our operations. 
+
+FORWARD-LOOKING INFORMATION 
+    
+  This Quarterly Report on Form 10-Q contains not only historical information, but also forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended ("Securities Act"), and Section 21E under the Securities Exchange Act of 1934, as amended ("Exchange Act"), and that are subject to the safe harbor created by those sections. In addition, we or others on our behalf may make forward-looking statements from time to time in oral presentations, including telephone conferences and/or web casts open to the public, in press releases or reports, on our web sites or otherwise. Statements that are not historical are forward-looking and reflect expectations and assumptions. Forward-looking statements are based on our current expectations of future events, and often can be identified in this report and elsewhere by using words such as "expect," "strive," "looking ahead," "outlook," "guidance," "forecast," "goal," "optimistic," "anticipate," "continue," "plan," "estimate," "project," "believe," "should," "could," "will," "would," "possible," "may," "likely," "intend," "can," "seek," "potential," "pro forma," or the negative thereof and similar expressions or future dates. Our forward-looking statements generally relate to our future performance, including our anticipated operating results, liquidity requirements, and financial condition; our business strategies and goals; and the effect of laws, rules, policies, regulations, tax reform, new accounting pronouncements, and outstanding litigation on our business and future performance. 
+    
+  Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those projected or implied. The following are some of the factors known to us that could cause our actual results to differ materially from what we have anticipated in our forward-looking statements: 
+
+Adverse economic conditions and outlook in the United States and in other countries in which we conduct business could adversely affect our net sales and earnings, which include but are not limited to recessionary conditions; slow or negative economic growth rates; the impact of U.S. federal debt, state debt and sovereign debt defaults and austerity measures by certain European countries; slow down or reductions in levels of golf course development, renovation, and improvement; golf course closures; reduced levels of home ownership, construction, and sales; home foreclosures; negative consumer confidence; reduced consumer spending levels; increased unemployment rates; prolonged high unemployment rates; higher commodity and component costs and fuel prices; inflationary or deflationary pressures; reduced credit availability or unfavorable credit terms for our distributors, dealers, and end-user customers; higher short-term, mortgage, and other interest rates; and general economic and political conditions and expectations. 
+                
+    Weather conditions, including unfavorable weather conditions exacerbated by global climate changes or otherwise, may reduce demand for some of our products and adversely affect our net sales and operating results, or may affect the timing of demand for some of our products and may adversely affect net sales and operating results in subsequent periods. 
+                
+    Fluctuations in foreign currency exchange rates have in the past affected our operating results and could continue to result in declines in our net sales and net earnings. 
+                
+    Increases in the cost, or disruption in the availability, of raw materials, components, parts and accessories containing various commodities that we purchase, such as steel, aluminum, petroleum and natural gas-based resins, linerboard, copper, lead, rubber, engines, transmissions, transaxles, hydraulics, electric motors, and other commodities and components, and increases in our other costs of doing business, such as transportation costs or increased tariffs, duties or other charges as a result of changes to U.S. or international trade policies or agreements have in the past affected our profit margins and businesses and could continue to result in declines in our profit margins and businesses. 
+                
+    Our Professional segment net sales are dependent upon certain factors, including golf course revenues and the amount of investment in golf course renovations and improvements; the level of new golf course development and golf course closures; the extent to which property owners outsource their lawn care and snow and ice removal activities; residential and commercial construction activity; continued acceptance of, and demand for, ag-irrigation solutions; the timing and occurrence of winter weather conditions; demand for our products in the rental and specialty construction markets; availability of cash or credit to Professional segment customers on acceptable terms to finance new product purchases; and the amount of government revenues, budget, and spending levels for grounds maintenance equipment. 
+     
+   33 
+
+     Table of Contents  
+
+Our Residential segment net sales are dependent upon consumers buying our products at dealers, mass retailers, and home centers, such as The Home Depot, Inc.; the amount of product placement at mass retailers and home centers; consumer confidence and spending levels; changing buying patterns of customers; and the impact of significant sales or promotional events. 
+                
+    Our financial performance, including our profit margins and net earnings, can be impacted depending on the mix of products we sell during a given period, as our Professional segment products generally have higher profit margins than our Residential segment products. Similarly, within each segment, if we experience lower sales of products that generally carry higher profit margins, our financial performance, including profit margins and net earnings, could be negatively impacted. 
+                
+    We intend to grow our business in part through acquisitions and alliances, strong customer relations, and new joint ventures and partnerships, which could be risky and harm our business, reputation, financial condition, and operating results, particularly if we are not able to successfully integrate such acquisitions and alliances, joint ventures, and partnerships. If previous or future acquisitions do not produce the expected results or integration into our operations takes more time than expected, our business could be harmed. We cannot guarantee previous or future acquisitions, alliances, joint ventures or partnerships will in fact produce any benefits. 
+                
+    Our ability to manage our inventory levels to meet our customers' demand for our products is important for our business. If we underestimate or overestimate demand for our products and do not maintain appropriate inventory levels, our net sales and/or working capital could be negatively impacted. 
+                
+    Our business and operating results are subject to the inventory management decisions of our distribution channel customers. Any adjustments in the carrying amount of inventories by our distribution channel customers may impact our inventory management and working capital goals as well as operating results. 
+                
+    Changes in the composition of, financial viability of, and/or the relationships with, our distribution channel customers could negatively impact our business and operating results. 
+                
+    We face intense competition in all of our product lines with numerous manufacturers, including from some competitors that have larger operations and financial resources than us. We may not be able to compete effectively against competitors  actions, which could harm our business and operating results. 
+                
+    A significant percentage of our consolidated net sales is generated outside of the United States, and we intend to continue to expand our international operations. Our international operations also require significant management attention and financial resources; expose us to difficulties presented by international economic, political, legal, regulatory, accounting, and business factors, including implications of withdrawal by the U.S. from, or revision to, international trade agreements, foreign trade or other policy changes between the U.S. and other countries, weakened international economic conditions, or the United Kingdom s process for exiting the European Union; and may not be successful or produce desired levels of net sales. In addition, a portion of our international net sales are financed by third parties. The termination of our agreements with these third parties, any material change to the terms of our agreements with these third parties or in the availability or terms of credit offered to our international customers by these third parties, or any delay in securing replacement credit sources, could adversely affect our sales and operating results. 
+                
+    If we are unable to continue to enhance existing products, as well as develop and market new products, that respond to customer needs and preferences and achieve market acceptance, including by incorporating new or emerging technologies that may become preferred by our customers, we may experience a decrease in demand for our products, and our net sales could be adversely affected. 
+                
+    Any disruption, including as a result of natural or man-made disasters, climate change-related events, work slowdowns, strikes, or other events, at any of our facilities or in our manufacturing or other operations, or those of our distribution channel customers or suppliers, or our inability to cost-effectively expand existing facilities, open and manage new facilities, and/or move production between manufacturing facilities could adversely affect our business and operating results. 
+                
+    Our production labor needs fluctuate throughout the year and any failure by us to hire and/or retain a production labor force to adequately staff our manufacturing operations, or by our production labor force to adequately and safely perform their jobs could adversely affect our business, operating results, and reputation. 
+                
+    Management information systems are critical to our business. If our information systems or information security practices, or those of our business partners or third party service providers, fail to adequately perform and/or protect sensitive or confidential information, or if we, our business partners, or third party service providers experience an interruption in, or breach of, the operation of such systems or practices, including by theft, loss or damage from unauthorized access, security breaches, natural or man-made disasters, cyber attacks, computer viruses, malware, phishing, denial of service attacks, power loss or other disruptive events, our business, reputation, financial condition, and operating results could be adversely affected. 
+                
+    Our reliance upon patents, trademark laws, and contractual provisions to protect our proprietary rights may not be sufficient to protect our intellectual property from others who may sell similar products. Our products may infringe the proprietary rights of others. 
+     
+   34 
+
+     Table of Contents  
+
+Our business, properties, and products are subject to governmental policies and regulations with which compliance may require us to incur expenses or modify our products or operations and non-compliance may result in harm to our reputation and/or expose us to penalties. Governmental policies and regulations may also adversely affect the demand for some of our products and our operating results. In addition, changes in laws, policies, and regulations in the U.S. or other countries in which we conduct business also may adversely affect our financial results, including as a result of, (i) taxation and tax policy changes, tax rate changes, new tax laws, new or revised tax law interpretations or guidance, including as a result of the Tax Act, (ii) changes to, or adoption of new, healthcare laws or regulations, or (iii) changes to U.S. or international policies or trade agreements that could result in additional duties or other charges on raw materials, components, parts or accessories we import. 
+                
+    Changes in accounting standards or assumptions in applying accounting policies could adversely affect our financial statements, including our financial results and financial condition. 
+                
+    Climate change legislation, regulations, or accords may adversely impact our operations. 
+                
+    Costs of complying with the various environmental laws related to our ownership and/or lease of real property, such as clean-up costs and liabilities that may be associated with certain hazardous waste disposal activities, could adversely affect our financial condition and operating results. 
+                
+    Legislative enactments could impact the competitive landscape within our markets and affect demand for our products. 
+                
+    We operate in many different jurisdictions and we could be adversely affected by violations of the U.S. Foreign Corrupt Practices Act and similar worldwide anti-corruption laws. The continued expansion of our international operations could increase the risk of violations of these laws in the future. 
+                
+    We are subject to product quality issues, product liability claims, and other litigation from time to time that could adversely affect our business, reputation, operating results, or financial condition. 
+                
+    If we are unable to retain our executive officers or other key employees, attract and retain other qualified personnel, or successfully implement executive officer, key employee or other qualified personnel transitions, we may not be able to meet strategic objectives and our business could suffer. 
+                
+    As a result of our Red Iron joint venture, we are dependent upon the joint venture to provide competitive inventory financing programs to certain distributors and dealers of our products. Any material change in the availability or terms of credit offered to our customers by the joint venture, challenges or delays in transferring new distributors and dealers from any business we might acquire to this financing platform, any termination or disruption of our joint venture relationship or any delay in securing replacement credit sources could adversely affect our net sales and operating results. 
+                
+    The terms of our credit arrangements and the indentures governing our senior notes and debentures could limit our ability to conduct our business, take advantage of business opportunities, and respond to changing business, market, and economic conditions. Additionally, we are subject to counterparty risk in our credit arrangements. If we are unable to comply with the terms of our credit arrangements and indentures, especially the financial covenants, our credit arrangements could be terminated and our senior notes, debentures, and any amounts outstanding under our revolving credit facility could become due and payable. 
+                
+    We are expanding and renovating our corporate and other facilities and could experience disruptions to our operations in connection with such efforts. 
+                
+    We may not achieve our projected financial information or other business initiatives, such as the goals of our "Vision 2020" initiative, in the time periods that we anticipate, or at all, which could have an adverse effect on our business, operating results and financial condition.  
+       
+  For more information regarding these and other uncertainties and factors that could cause our actual results to differ materially from what we have anticipated in our forward-looking statements or otherwise could materially adversely affect our business, financial condition, or operating results, see our most recently filed Annual Report on Form 10-K, Part I, Item 1A, "Risk Factors" and Part II, Item 1A, "Risk Factors" of this report. 
+    
+  All forward-looking statements included in this report are expressly qualified in their entirety by the foregoing cautionary statements. We caution readers not to place undue reliance on any forward-looking statement which speaks only as of the date made and to recognize that forward-looking statements are predictions of future results, which may not occur as anticipated. Actual results could differ materially from those anticipated in the forward-looking statements and from historical results, due to the risks and uncertainties described above, the risks described in our most recent Annual Report on Form 10-K, Part I, Item 1A, "Risk Factors" and Part II, Item 1A, "Risk Factors" of this report, as well as others that we may consider immaterial or do not anticipate at this time. The foregoing risks and uncertainties are not exclusive and further information concerning the company and our businesses, including factors that potentially could materially affect our financial results or condition, may emerge from time to time. We make no commitment to revise or update any forward-looking statements in order to reflect actual results, events or circumstances occurring or existing after the date any forward-looking statement is made, or changes in factors or assumptions affecting such forward-looking statements. We advise you, however, to consult any further disclosures we make on related subjects in our future Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and Current Reports on Form 8-K we file with or furnish to the Securities and Exchange Commission. 
+
+35 
+
+Table of Contents  
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+    
+  We are exposed to market risk stemming from changes in foreign currency exchange rates, interest rates, and commodity costs. We are also exposed to equity market risk pertaining to the trading price of our common stock. Changes in these factors could cause fluctuations in our earnings and cash flows. There have been no material changes to the market risk information regarding interest rate risk and equity market risk included in our Annual Report on Form 10-K for the fiscal year ended   October 31, 2017  . Refer below for further discussion on foreign currency exchange rate risk and commodity cost risk. 
+    
+  Additionally, refer to Part II, Item 7A,   Quantitative and Qualitative Disclosures about Market Risk  , within our most recent Annual Report on Form 10-K for the fiscal year ended   October 31, 2017   for a complete discussion of our market risk. 
+    
+  Foreign Currency Exchange Rate Risk 
+    
+  We are exposed to foreign currency exchange rate risk arising from transactions in the normal course of business, such as sales to third party customers, sales and loans to wholly owned foreign subsidiaries, foreign plant operations, and purchases from suppliers. Our primary foreign currency exchange rate exposures are with the Euro, the Australian dollar, the Canadian dollar, the British pound, the Mexican peso, the Japanese yen, the Chinese Renminbi, the Romanian New Leu against the U.S. dollar, and the Romanian New Leu against the Euro, including exposure as a result of the volatility and uncertainty that may arise as a result of the United Kingdom s process for exiting the European Union. Because our products are manufactured or sourced primarily from the United States and Mexico, a stronger U.S. dollar and Mexican peso generally have a negative impact on our results from operations, while a weaker U.S. dollar and Mexican peso generally have a positive effect. 
+    
+  To reduce our exposure to foreign currency exchange rate risk, we actively manage the exposure of our foreign currency exchange rate risk by entering into various derivative instruments to hedge against such risk, authorized under company policies that place controls on these hedging activities, with counterparties that are highly rated financial institutions. Our policy does not allow the use of derivative instruments for trading or speculative purposes. Decisions on whether to use such derivative instruments are primarily based on the amount of exposure to the currency involved and an assessment of the near-term market value for each currency. Our worldwide foreign currency exchange rate exposures are reviewed monthly. The gains and losses on our derivative instruments offset changes in values of the related exposures. Therefore, changes in the values of our derivative instruments are highly correlated with changes in the market values of underlying hedged items both at inception and over the life of the derivative instrument. 
+    
+  Changes in the fair values of the spot rate component of outstanding, highly effective cash flow hedging instruments included in the assessment of hedge effectiveness are recorded in other comprehensive income within accumulated other comprehensive loss ("AOCL") on the Condensed Consolidated Balance Sheets and are subsequently reclassified to net earnings within the Condensed Consolidated Statements of Earnings during the same period in which the cash flows of the underlying hedged transaction affect net earnings. Certain derivative instruments we hold do not meet the cash flow hedge accounting criteria or have components that are excluded from cash flow hedge accounting; therefore, changes in their fair value are recorded in the Condensed Consolidated Statements of Earnings within the same line item as that of the underlying exposure. For additional information regarding our derivative instruments, see Note 12 in our Notes to Condensed Consolidated Financial Statements under the heading "Derivative Instruments and Hedging Activities" included in Item 1 of this Quarterly Report on Form 10-Q. 
+    
+  The foreign currency exchange contracts in the table below have maturity dates in fiscal 2018 through fiscal 2021. All items are non-trading and stated in U.S. dollars. As of   August 3, 2018  , the average contracted rate, notional amount, and the gain (loss) at fair value of outstanding derivative instruments were as follows: 
+
+Our net investment in foreign subsidiaries translated into U.S. dollars is not hedged. Any changes in foreign currency exchange rates would be reflected as a foreign currency translation adjustment, a component of AOCL in stockholders  equity on the Consolidated Balance Sheets, and would not impact net earnings. 
+  
+   36 
+
+     Table of Contents  
+
+Commodity Cost Risk 
+    
+  Some raw materials used in our products are exposed to commodity cost changes. Our primary commodity cost exposures are with steel, aluminum, petroleum and natural gas-based resins, and linerboard. In addition, we are a purchaser of components and parts containing various commodities, including steel, aluminum, copper, lead, rubber, and others that are integrated into our end products. We generally purchase commodities and components based upon market prices that are established with vendors as part of the purchase process and generally attempt to obtain firm pricing from most of our suppliers for volumes consistent with planned production. Additionally, we enter into fixed-price contracts for future purchases of natural gas in the normal course of operations as a means to manage natural gas price risks. Further information regarding changing costs of commodities is presented in Item 2 of this Quarterly Report on Form 10-Q, in the section titled "Inflation." 
+
+ITEM 4.  CONTROLS AND PROCEDURES 
+    
+  We maintain disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) that are designed to provide reasonable assurance that information required to be disclosed by us in the reports we file or submit under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission s rules and forms and that such information is accumulated and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, we recognize that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and we are required to apply our judgment in evaluating the cost-benefit relationship of possible internal controls. Our management evaluated, with the participation of our Chief Executive Officer and Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the period covered in this Quarterly Report on Form 10-Q. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of the end of such period to provide reasonable assurance that information required to be disclosed in our Exchange Act reports is recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding disclosure. There was no change in our internal control over financial reporting that occurred during our   third   quarter ended   August 3, 2018   that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+37 
+
+Table of Contents  
+
+PART II.  OTHER INFORMATION 
+
+ITEM 1.  LEGAL PROCEEDINGS 
+    
+  We are a party to litigation in the ordinary course of business. Litigation occasionally involves claims for punitive, as well as compensatory, damages arising out of the use of our products. Although we are self-insured to some extent, we maintain insurance against certain product liability losses. We are also subject to litigation and administrative and judicial proceedings with respect to claims involving asbestos and the discharge of hazardous substances into the environment. Some of these claims assert damages and liability for personal injury, remedial investigations or clean-up, and other costs and damages. We are also typically involved in commercial disputes, employment disputes, and patent litigation cases in the ordinary course of business. To prevent possible infringement of our patents by others, we periodically review competitors  products. To avoid potential liability with respect to others  patents, we regularly review certain patents issued by the United States Patent and Trademark Office and foreign patent offices. We believe these activities help us minimize our risk of being a defendant in patent infringement litigation. We are currently involved in patent litigation cases, including cases by or against competitors, where we are asserting and defending against claims of patent infringement. Such cases are at varying stages in the litigation process. 
+    
+  For a description of our material legal proceedings, see Note 10 in our Notes to Condensed Consolidated Financial Statements under the heading "Contingencies - Litigation" included in Item 1 of this Quarterly Report on Form 10-Q, which is incorporated into this Part II. Item 1 by reference. 
+
+ITEM 1A.  RISK FACTORS 
+    
+  We are affected by risks specific to us as well as factors that affect all businesses operating in a global market. The significant factors known to us that could materially adversely affect our business, financial condition, or operating results or could cause our actual results to differ materially from our anticipated results or other expectations, including those expressed in any forward-looking statement made in this report, are described in our most recently filed Annual Report on Form 10-K (Item 1A. Risk Factors). There has been no material change in those risk factors, with the exception of the following risk factors which amend and supersede the equivalent risk factors previously discussed in our most recently filed Annual Report on Form 10-K: 
+    
+  Our business, properties, and products are subject to governmental policies and regulations with which compliance may require us to incur expenses, or modify our products or operations, and non-compliance may result in harm to our reputation and/or expose us to penalties. Governmental policies and regulations may also adversely affect the demand for some of our products and our operating results. 
+    
+  Our business, properties, and products are subject to numerous international, federal, state, and other governmental laws, rules, policies, and regulations relating to, among other things; climate change; emissions to air, including engine emission requirements; discharges to water; restrictions placed on water usage and water availability; product and associated packaging; use of certain chemicals; restricted substances, including "conflict minerals" disclosure rules; import and export compliance, including country of origin certification requirements; worker and product user health and safety; energy efficiency; product life-cycles; outdoor noise laws; the generation, use, handling, labeling, collection, management, storage, transportation, treatment, and disposal of hazardous substances, wastes, and other regulated materials; and the registration of certain technologies with various government agencies throughout the world and operation of those technologies within the limits imposed by those agencies, including but not limited to radio frequency, broadband or other wireless technologies and technologies within the airspace of commercial airplanes, such as unmanned aerial systems. In addition, our business is subject to numerous international, federal, state, and other governmental laws, rules, policies and regulations that may adversely affect our operating results, including, (i) taxation and tax policy changes, tax rate changes, new tax laws, or revised tax law interpretations, which individually or in combination may cause our effective tax rate to increase, (ii) healthcare laws or regulations, which may cause us to incur higher employee healthcare costs or, (iii) changes to U.S. or international trade policies or agreements that could result in additional tariffs, duties or other charges on raw materials, components, parts or accessories that we import. Although we believe that we are in substantial compliance with currently applicable laws, rules, policies and regulations, we are unable to predict the ultimate impact of adopted or future laws, rules, policies and regulations on our business, properties, or products. Any of these laws, rules, policies or regulations may cause us to incur significant expenses to achieve or maintain compliance, require us to modify our products, adversely affect the price of or demand for some of our products, and ultimately affect the way we conduct our operations. Failure to comply with any of these laws, rules, policies or regulations could result in harm to our reputation and/or could lead to fines and other penalties, including restrictions on the importation of our products into, and the sale of our products in, one or more jurisdictions until compliance is achieved. In addition, our competitors may adopt strategies with respect to compliance with any such laws, rules, policies or regulations that differ significantly from our strategies. This may have the effect of changing customer preferences and our markets in ways that we did not anticipate which may adversely affect market demand for our products and, ultimately, our net sales and financial results. 
+  
+   38 
+
+     Table of Contents  
+
+The terms of our credit arrangements and the indentures governing our senior notes and debentures could limit our ability to conduct our business, take advantage of business opportunities and respond to changing business, market, and economic conditions. Additionally, we are subject to counterparty risk in our credit arrangements. 
+    
+  Our credit arrangements and the indentures governing our 6.625 percent senior notes and 7.8 percent debentures include a number of financial and operating restrictions. For example, our credit arrangements contain financial covenants that, among other things, require us to maintain a minimum interest coverage ratio and a maximum leverage ratio. Our credit arrangements and/or indentures also contain provisions that restrict our ability, subject to specified exceptions, to, among other things: 
+
+create liens or other encumbrances on our assets; 
+                
+    dispose of assets; 
+                
+    engage in mergers or consolidations; and 
+                
+    pay dividends that are significantly higher than those currently being paid, make other distributions to our shareholders, or redeem shares of our common stock. 
+       
+  These provisions may limit our ability to conduct our business, take advantage of business opportunities, and respond to changing business, market, and economic conditions. In addition, they may place us at a competitive disadvantage relative to other companies that may be subject to fewer, if any, restrictions or may otherwise adversely affect our business. Transactions that we may view as important opportunities, such as significant acquisitions, may be subject to the consent of the lenders under our credit arrangements, which consent may be withheld or granted subject to conditions specified at the time that may affect the attractiveness or viability of the transaction. 
+    
+  Although we have in place a $600 million revolving credit facility that does not expire until June 2023, market deterioration or other factors could jeopardize the counterparty obligations of one or more of the banks participating in our revolving credit facility, which could have an adverse effect on our business if we are not able to replace such revolving credit facility or find other sources of liquidity on acceptable terms. 
+    
+  If we are unable to comply with the terms of our credit arrangements and indentures, especially the financial covenants, our credit arrangements could be terminated and our senior notes, debentures, and any amounts outstanding under our revolving credit facility could become due and payable. 
+    
+  We cannot assure that we will be able to comply with all of the terms of our credit arrangements and indentures, especially the financial covenants. Our ability to comply with such terms depends on the success of our business and our operating results. Various risks, uncertainties, and events beyond our control could affect our ability to comply with the terms of our credit arrangements and/or indentures. If we were out of compliance with any covenant required by our credit arrangements following any applicable cure periods, the banks could terminate their commitments unless we could negotiate a covenant waiver. The banks could condition such waiver on amendments to the terms of our credit arrangements that may be unfavorable to us. In addition, our 6.625 percent senior notes and 7.8 percent debentures, and any amounts outstanding under our revolving credit facility could become due and payable if we were unable to obtain a covenant waiver or refinance our debt under our credit arrangements. If our debt rating falls below investment grade and/or our leverage ratio rises above 1.50, the interest rate we currently pay on outstanding debt under our revolving credit facility would increase, which could adversely affect our operating results. 
+
+39 
+
+Table of Contents  
+
+ITEM 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+    
+  The following table sets forth information with respect to shares of our common stock purchased by the company during each of the three fiscal months in our   third   quarter ended   August 3, 2018  : 
+
+1    
+    On December 3, 2015, the company s Board of Directors authorized the repurchase of 8,000,000 shares of the company s common stock in open-market or in privately negotiated transactions. This program has no expiration date but may be terminated by the company s Board of Directors at any time. The company repurchased   583,593   shares during the period indicated above under this program and   2,545,728   shares remained available to repurchase under this program as of   August 3, 2018  . 
+       
+            2   
+    Includes   1,545   units (shares) of the company s common stock purchased in open-market transactions at an average price of   $61.34   per share on behalf of a rabbi trust formed to pay benefit obligations of the company to participants in deferred compensation plans. These   1,545   shares were not repurchased under the company s repurchase program described in footnote 1 above. 
+
+40 
+
+Table of Contents  
+
+ITEM 6.  EXHIBITS   
+
+41 
+
+Table of Contents  
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+    
+  THE TORO COMPANY 
+  (Registrant) 
+    
+                     Date: September 5, 2018 
+    By: 
+    /s/ Renee J. Peterson 
+
+Renee J. Peterson 
+
+Vice President, Treasurer and Chief Financial Officer 
+
+(duly authorized officer, principal financial officer, and principal accounting officer) 
+
+42 
+
+<EX-31.1>
+ 2
+ ttc08032018exhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  Certification pursuant to     Section 302 of the Sarbanes-Oxley Act of 2002 
+    
+  I, Richard M. Olson, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of The Toro Company; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c. 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d. 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+       
+           a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: September 5, 2018    
+    
+                 /s/ Richard M. Olson 
+      
+      Richard M. Olson 
+      
+      Chairman of the Board, President and Chief Executive Officer 
+      
+      (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ttc08032018exhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  Certification pursuant to     Section 302 of the Sarbanes-Oxley Act of 2002 
+    
+  I, Renee J. Peterson, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of The Toro Company; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c. 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d. 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+       
+           a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: September 5, 2018    
+    
+                 /s/ Renee J. Peterson 
+      
+      Renee J. Peterson 
+      
+      Vice President, Treasurer and Chief Financial Officer 
+      
+      (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ ttc08032018exhibit32.htm
+ EXHIBIT 32
+
+Exhibit 
+
+Exhibit 32 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  In connection with the Quarterly Report of The Toro Company (the  Company ) on Form 10-Q for the quarterly period ended   August 3, 2018   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), we, Richard M. Olson, Chairman of the Board, President and Chief Executive Officer of the Company, and Renee J. Peterson, Vice President, Treasurer and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to our knowledge: 
+    
+           1. 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           2. 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Richard M. Olson 
+      
+      Richard M. Olson 
+      
+      Chairman of the Board, President and Chief Executive Officer 
+      
+      Date: September 5, 2018 
+
+/s/ Renee J. Peterson 
+      
+      Renee J. Peterson 
+      
+      Vice President, Treasurer and Chief Financial Officer 
+      
+      Date: September 5, 2018 
+
+This certification accompanies the Report pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley Act of 2002, be deemed filed by the Company for purposes of Section 18 of the Securities Exchange Act of 1934, as amended. 
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ ttc-20180803.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ ttc-20180803.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ ttc-20180803_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ ttc-20180803_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ ttc-20180803_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ ttc-20180803_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

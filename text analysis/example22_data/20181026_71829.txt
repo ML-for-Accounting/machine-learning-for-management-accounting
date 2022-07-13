@@ -1,0 +1,895 @@
+ 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  Form 10-Q 
+  [X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+  For the quarterly period ended   September 30, 2018    
+  or  
+  [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+  For the transition period from __________ to __________.    
+  Commission File Number: 001-02960 
+     
+  Newpark Resources, Inc. 
+  (Exact name of registrant as specified in its charter) 
+
+(281) 362-6800 
+  (Registrant s telephone number, including area code) 
+                Not Applicable     
+
+(Former name, former address and former fiscal year, if changed since last report) 
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+  Yes                    No                       
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+  Yes                    No                       
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+  Large accelerated filer                                     Accelerated filer               
+  Non-accelerated filer                         Smaller reporting company                  
+  Emerging growth company                  
+  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.                   
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+  Yes                    No                    
+  As of   October 24, 2018  , a total of   90,807,687   shares of common stock, $0.01 par value per share, were outstanding. 
+
+NEWPARK RESOURCES, INC. 
+  INDEX TO QUARTERLY REPORT ON FORM 10-Q 
+  FOR THE   THREE AND NINE   MONTHS ENDED 
+  SEPTEMBER 30, 2018    
+
+PART I  
+     FINANCIAL INFORMATION  
+    2 
+       ITEM 1.  
+     Financial Statements  
+    2 
+        
+     Condensed Consolidated Balance Sheets  
+    2 
+        
+     Condensed Consolidated Statements of Operations  
+    3 
+        
+     Condensed Consolidated Statements of Comprehensive Income  
+    4 
+        
+     Condensed Consolidated Statements of Stockholders' Equity  
+    5 
+        
+     Condensed Consolidated Statements of Cash Flows  
+    6 
+        
+     Notes to Unaudited Condensed Consolidated Financial Statements  
+    7 
+       ITEM 2.  
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    19 
+       ITEM 3.  
+     Quantitative and Qualitative Disclosures About Market Risk  
+    33 
+       ITEM 4.  
+     Controls and Procedures  
+    33 
+       PART II  
+     OTHER INFORMATION  
+    34 
+       ITEM 1.  
+     Legal Proceedings  
+    34 
+       ITEM 1A.  
+     Risk Factors  
+    34 
+       ITEM 2.  
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    34 
+       ITEM 3.  
+     Defaults Upon Senior Securities  
+    35 
+       ITEM 4.  
+     Mine Safety Disclosures  
+    35 
+       ITEM 5.  
+     Other Information  
+    35 
+       ITEM 6.  
+     Exhibits  
+    35 
+        
+     Signatures  
+    36 
+
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS 
+  This Quarterly Report on Form 10-Q contains  forward-looking statements  within the meaning of Section 27A of the Securities Act of 1933, as amended, Section 21E of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995, as amended. We also may provide oral or written forward-looking statements in other materials we release to the public. Words such as  will,   may,   could,   would,   should,   anticipates,   believes,   estimates,   expects,   plans,   intends,  and similar expressions are intended to identify these forward-looking statements but are not the exclusive means of identifying them. These forward-looking statements reflect the current views of our management; however, various risks, uncertainties, contingencies and other factors, some of which are beyond our control, are difficult to predict and could cause our actual results, performance or achievements to differ materially from those expressed in, or implied by, these statements.  
+  We assume no obligation to update, amend or clarify publicly any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by securities laws. In light of these risks, uncertainties and assumptions, the forward-looking events discussed in this Quarterly Report on Form 10-Q might not occur. 
+  For further information regarding these and other factors, risks and uncertainties affecting us, we refer you to the risk factors set forth in Item 1A  Risk Factors  in Part I of our Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+  
+   1 
+
+PART I  
+    FINANCIAL INFORMATION 
+      
+           ITEM 1. 
+    Financial Statements 
+      
+  Newpark Resources, Inc. 
+  Condensed Consolidated Balance Sheets 
+  (Unaudited) 
+
+See Accompanying Notes to Unaudited Condensed Consolidated Financial Statements 
+
+2 
+
+Newpark Resources, Inc. 
+  Condensed Consolidated Statements of Operations 
+  (Unaudited)  
+
+See Accompanying Notes to Unaudited Condensed Consolidated Financial Statements 
+
+3 
+
+Newpark Resources, Inc. 
+  Condensed Consolidated Statements of Comprehensive Income  
+  (Unaudited) 
+
+See Accompanying Notes to Unaudited Condensed Consolidated Financial Statements 
+
+4 
+
+Newpark Resources, Inc. 
+  Condensed Consolidated Statements of Stockholders' Equity 
+  (Unaudited) 
+
+See Accompanying Notes to Unaudited Condensed Consolidated Financial Statements 
+
+5 
+
+Newpark Resources, Inc. 
+  Condensed Consolidated Statements of Cash Flows 
+  (Unaudited) 
+
+See Accompanying Notes to Unaudited Condensed Consolidated Financial Statements 
+  
+   6 
+
+NEWPARK RESOURCES, INC. 
+  NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+   
+  Note   1     Basis of Presentation and Significant Accounting Policies 
+  The accompanying unaudited condensed consolidated financial statements of Newpark Resources, Inc. and our wholly-owned subsidiaries, which we refer to as  we,   our  or  us,  have been prepared in accordance with Rule 10-01 of Regulation S-X for interim financial statements required to be filed with the Securities and Exchange Commission ( SEC ), and do not include all information and footnotes required by the accounting principles generally accepted in the United States ( U.S. GAAP ) for complete financial statements. These unaudited condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended   December 31, 2017  . Our fiscal year end is December 31, our   third   quarter represents the three-month period ended   September 30   and our   first nine months   represents the nine-month period ended   September 30  . The results of operations for the   third   quarter and   first nine months   of   2018   are not necessarily indicative of the results to be expected for the entire year. Unless otherwise noted, all currency amounts are stated in U.S. dollars. 
+  In the opinion of management, the accompanying unaudited condensed consolidated financial statements reflect all adjustments necessary to present fairly our financial position as of   September 30, 2018  , our results of operations for the   third quarter   and   first nine months   of   2018   and   2017  , and our cash flows for the   first nine months   of   2018   and   2017  . All adjustments are of a normal recurring nature. Our balance sheet at   December 31, 2017   is derived from the audited consolidated financial statements at that date. 
+  The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. For further information, see Note 1 in our Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+  New Accounting Pronouncements 
+  Standards Adopted in   2018    
+  Revenue from Contracts with Customers.   In May 2014, the Financial Accounting Standards Board ( FASB ) amended the guidance for revenue from contracts with customers. The amendments are based on the principle that revenue should be recognized to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.     We adopted this new guidance as of January 1, 2018 using the modified retrospective transition method, and recorded a net reduction of   $2.3 million   to opening retained earnings to reflect the cumulative effect of adoption for contracts not completed as of December 31, 2017. Results for reporting periods beginning after December 31, 2017 are presented under the new guidance, while prior period amounts were not adjusted and continue to be reported in accordance with previous guidance.  
+  The adoption of this new guidance primarily affected the timing of revenue recognition for drilling fluid additive products provided to customers in the delivery of an integrated fluid system in our U.S. drilling fluids business. Under previous guidance, we recognized revenue for these products upon shipment of materials and passage of title, with a reserve for estimated product returns. Under the new guidance, we recognize revenue for these products when they are utilized, which generally occurs at the time of consumption by the customer. There was no material impact on reported revenues for the   third quarter   or   first nine months   of 2018 as a result of applying the new revenue recognition guidance. 
+  The adoption of this guidance also requires additional disclosures for disaggregated revenues, which are included in Note 11. The following provides a summary of our significant accounting policies for revenue recognition under the new guidance for periods beginning after December 31, 2017. 
+  Revenue Recognition - Fluids Systems.     Revenues for drilling fluid additive products and engineering services, when provided to customers in the delivery of an integrated fluid system, are recognized as product revenues when utilized by the customer. Revenues for formulated liquid systems are recognized as product revenues when utilized or lost downhole while drilling. Revenues for equipment rentals and other services provided to customers that are ancillary to the fluid system product delivery are recognized in rental and services revenues when the services are performed. For direct sales of drilling fluid products, revenues are recognized when control passes to the customer, which is generally upon shipment of materials.  
+  Revenue Recognition - Mats and Integrated Services.   Revenues for rentals and services are generated from both fixed-price and unit-priced contracts, which are generally short-term in duration. The activities under these contracts include the installation and rental of matting systems for a period of time and services such as site planning and preparation, pit design, access road construction, environmental protection, fluids and spill storage/containment, erosion control, site restoration services and  
+  
+   7 
+
+construction and drilling waste management. Rental revenues are recognized over the rental term and services revenues are recognized when the specified services are performed. Revenues from any subsequent extensions to the rental agreements are recognized over the extension period. Revenues from the sale of mats are recognized when control passes to the customer, which is upon shipment or delivery, depending on the terms of the underlying sales contract. 
+  For both segments, the amount of revenue we recognize for products sold and services performed reflects the consideration to which we expect to be entitled in exchange for such goods or services, which generally reflects the amount we have the right to invoice based on agreed upon unit rates. While billing requirements vary, many of our customer contracts require that billings occur periodically or at the completion of specified activities, even though our performance and right to consideration occurs throughout the contract. As such, we recognize revenue as performance is completed in the amount to which we have the right to invoice. We do not disclose the value of our unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which we recognize revenue for the amount to which we have the right to invoice for products sold and services performed. 
+  Shipping and handling costs are reflected in cost of revenues, and all reimbursements by customers of shipping and handling costs are included in revenues. 
+  Accounting for Income Taxes: Intra-Entity Transfers of Assets Other Than Inventory.   In October 2016, the FASB amended the guidance related to the accounting for the income tax consequences of intra-entity transfers of assets other than inventory. The new guidance requires an entity to recognize the income tax consequences of an intra-entity transfer of an asset other than inventory when the transfer occurs, rather than the previous requirement to defer recognition of current and deferred income taxes for an intra-entity asset transfer until the asset had been sold to an outside party. This update does not change U.S. GAAP for the pre-tax effects of an intra-entity asset transfer or for an intra-entity transfer of inventory. We adopted this new guidance as of January 1, 2018 using the modified retrospective transition method, and recorded a net reduction of   $4.5 million   to opening retained earnings to reflect the cumulative effect of adoption for the current and deferred income tax consequences of an intra-entity sale of mats from the U.S. to the U.K. completed prior to 2018. 
+  The cumulative effect of the changes made to our consolidated balance sheet for the adoption of the new guidance for revenue from contracts with customers and the income tax consequences of intra-entity transfers of assets other than inventory were as follows: 
+
+Statement of Cash Flows.   In August 2016, the FASB issued new guidance that clarifies how certain cash receipts and cash payments are presented and classified in the statement of cash flows. This update provides guidance on eight specific cash flow issues. We adopted this new guidance as of January 1, 2018. The adoption of this new guidance had no impact on our historical financial statements or related disclosures. 
+  Standards Not Yet Adopted 
+  Leases.   In February 2016, the FASB amended the guidance related to the accounting for leases. The new guidance provides principles for the recognition, measurement, presentation and disclosure of leases and requires lessees to recognize both assets and liabilities arising from financing and operating leases. The classification as either a financing or operating lease will determine whether lease expense is recognized based on an effective interest method basis or on a straight-line basis over the term of the lease, respectively. This guidance is effective for us in the first quarter of 2019, and will be applied using a modified retrospective transition method through a cumulative-effect adjustment, if any, to retained earnings as of the adoption date. As part of our assessment work to date, we have formed an implementation work team, conducted an analysis of the new guidance, implemented new software, and continue to review contracts in our lease portfolio. Based on our current lease portfolio, we anticipate the new guidance will require us to reflect additional assets and liabilities on our consolidated balance sheet; however, we have not yet completed an estimation of such amount and we are still evaluating the overall impact of the new guidance on our consolidated financial statements and related disclosures.  
+  
+   8 
+
+Credit Losses.   In June 2016, the FASB issued new guidance which requires financial assets measured at amortized cost basis, including trade receivables, to be presented at the net amount expected to be collected. The new guidance requires an entity to estimate its lifetime  expected credit loss  for such assets at inception which will generally result in the earlier recognition of allowances for losses. This guidance is effective for us in the first quarter of 2020 with early adoption permitted, and will be applied using a modified retrospective transition method through a cumulative-effect adjustment, if any, to retained earnings as of the date of adoption. We are currently evaluating the impact of the new guidance on our consolidated financial statements and related disclosures. 
+   
+  Note   2     Business Combinations 
+  In November 2017, we acquired certain assets and assumed certain liabilities of Well Service Group, Inc. and Utility Access Solutions, Inc. (together,  WSG ). The purchase price for this acquisition was   $77.4 million  , net of cash acquired, which included   $45.0 million   of cash consideration and the issuance of   3,361,367   shares of our common equity valued at   $32.4 million  . The results of operations of WSG are reported within the Mats and Integrated Services segment for the periods subsequent to the date of the acquisition. 
+  The WSG transaction has been recorded using the acquisition method of accounting and accordingly, assets acquired and liabilities assumed were recorded at their estimated fair values as of the acquisition date. The acquisition resulted in the preliminary recognition of   $27.0 million   in other intangible assets consisting primarily of customer relationships, technology and tradename. All of the other intangibles are finite-lived intangible assets that are preliminarily expected to be amortized over periods of   10   to   15   years with a weighted average amortization period of approximately   13   years. The excess of the total consideration was recorded as goodwill, which is deductible for tax purposes, and includes the value of the assembled workforce. The fair values of the identifiable assets acquired and liabilities assumed were based on the company's estimates and assumptions using various market, income and cost valuation approaches, which are classified within level 3 of the fair value hierarchy.  
+  The following table summarizes the amounts recognized for the assets acquired and liabilities assumed as of the November 13, 2017 acquisition date, updated for changes to the purchase price allocation in 2018.  
+
+Results of operations and pro-forma combined results of operations for the acquired business have not been presented as the effect of this acquisition is not material to our consolidated financial statements. 
+  
+   9 
+
+Note   3     Earnings Per Share 
+  The following table presents the reconciliation of the numerator and denominator for calculating net income per share: 
+
+We excluded the following weighted-average potential shares from the calculations of diluted net income per share during the applicable periods because their inclusion would have been anti-dilutive: 
+
+The unsecured convertible senior notes due 2017 (     2017 Convertible Notes   )   were repaid upon maturity in October 2017. The 2021 Convertible Notes (as defined in Note 7) only impact the calculation of diluted net income per share in periods that the average price of our common stock, as calculated in accordance with the terms of the indenture governing the 2021 Convertible Notes, exceeds the conversion price of   $9.33   per share. We have the option to pay cash, issue shares of common stock, or any combination thereof for the aggregate amount due upon conversion of the 2021 Convertible Notes as further described in Note 7. If converted, we currently intend to settle the principal amount of the notes in cash and as a result, only the amounts payable in excess of the principal amount of the notes, if any, are assumed to be settled with shares of common stock for purposes of computing diluted net income per share. 
+  
+   10 
+
+Note 4 - Stock-Based and Other Long-Term Incentive Compensation 
+  During the second quarter of 2018, the Compensation Committee of our Board of Directors ( Compensation Committee ) approved equity-based compensation to executive officers and other key employees, consisting of   917,901   shares of restricted stock units which will primarily vest in equal installments over a three-year period.  At September 30, 2018, there remained   1,041,661   shares available for award under the 2015 Employee Equity Incentive Plan ( 2015 Plan ). In addition, during the second quarter of 2018, non-employee directors received a grant of   85,578   shares of restricted stock awards which will vest in full on the earlier of the day prior to the next annual meeting of stockholders following the grant date or the first anniversary of the grant date. The weighted average grant-date fair value was   $10.58   per share for the restricted stock units and   $10.75   per share for the restricted stock awards. 
+  Also during the second quarter of 2018, the Compensation Committee approved the issuance of cash-settled awards to certain executive officers, including   $1.3 million   of time-based cash awards and a target amount of   $1.3 million   of performance-based cash awards. The time-based cash awards vest in equal installments over a   three  -year period and the performance-based cash awards will be settled based on the relative ranking of our total shareholder return ( TSR ) as compared to the TSR of our designated peer group over a three-year period. The performance period began June 1, 2018 and ends May 31, 2021, with the ending TSR price being equal to the average closing price of our shares over the 30-calendar days ending May 31, 2021 and the cash payout for each executive ranging from   0%   to   150%   of target. The performance-based cash awards are accrued as a liability award over the performance period based on the estimated fair value. The fair value of the performance-based cash awards is remeasured each period using a Monte-Carlo valuation model with changes in fair value recognized in the consolidated statements of operations. 
+  In connection with the retirement of our Senior Vice President, General Counsel and Chief Administrative Officer on September 30, 2018, we modified certain outstanding stock-based and other incentive awards. During the third quarter of 2018, we modified the vesting conditions of outstanding unvested restricted stock units, performance-based restricted stock units, stock options, and time-based and performance-based cash awards to allow for continued vesting after his retirement date, and to extend the exercise period of all of his outstanding options from   90   days from the date of retirement to the earlier of (a)   2   years from his retirement date or (b) the original expiration date of the award. As a result of the above modifications, we recognized a charge of   $1.5 million   for the third quarter of 2018. 
+   
+  Note 5   Receivables 
+  Receivables consisted of the following: 
+
+Other receivables included   $9.6 million   and   $10.8 million   for value added, goods and service taxes related to foreign jurisdictions as of   September 30, 2018   and   December 31, 2017  , respectively. As described in Note 1, the adoption of the new revenue recognition guidance resulted in an   $8.4 million   reduction in gross trade receivables as of January 1, 2018. 
+   
+  Note 6   Inventories 
+  
+   11 
+
+Inventories consisted of the following: 
+
+Raw materials consist primarily of barite, chemicals, and other additives that are consumed in the production of our drilling fluid systems. Our blended drilling fluids components consist of base drilling fluid systems that have been either mixed internally at our mixing plants or purchased from third-party vendors. These base drilling fluid systems require raw materials to be added, as needed to meet specified customer requirements. As described in Note 1, the adoption of the new revenue recognition guidance resulted in a   $5.5 million   increase in inventories as of January 1, 2018. 
+   
+  Note 7   Financing Arrangements and Fair Value of Financial Instruments 
+  Financing arrangements consisted of the following: 
+
+2021 Convertible Notes.   In December 2016, we issued   $100.0 million   of unsecured convertible senior notes ( 2021 Convertible Notes ) that mature on December 1, 2021, unless earlier converted by the holders pursuant to the terms of the notes. The notes bear interest at a rate of   4.0%   per year, payable semiannually in arrears on June 1 and December 1 of each year.  
+  Holders may convert the notes at their option at any time prior to the close of business on the business day immediately preceding June 1, 2021, only under the following circumstances:  
+             
+    during any calendar quarter commencing after the calendar quarter ending on March 31, 2017 (and only during such calendar quarter), if the last reported sale price of our common stock for at least   20   trading days (regardless of whether consecutive) during a period of   30   consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than or equal to   130%   of the conversion price of the notes in effect on each applicable trading day; 
+                
+    during the   five   business day period after any   five   consecutive trading day period in which the trading price per   $1,000   principal amount of notes for each trading day was less than   98%   of the last reported sale price of our common stock on such date multiplied by the conversion rate on each such trading day; or 
+                
+    upon the occurrence of specified corporate events, as described in the indenture governing the notes, such as a consolidation, merger, or share exchange. 
+     On or after June 1, 2021 until the close of business on the business day immediately preceding the maturity date, holders may convert their notes at any time, regardless of whether any of the foregoing conditions have been satisfied. As of October 25, 2018, the notes were not convertible.  
+  The notes are convertible into, at our election, cash, shares of common stock, or a combination of both, subject to satisfaction of specified conditions and during specified periods, as described above. If converted, we currently intend to pay cash for the principal amount of the notes converted. The conversion rate is initially   107.1381   shares of our common stock per   $1,000    
+  
+   12 
+
+principal amount of notes (equivalent to an initial conversion price of   $9.33   per share of common stock), subject to adjustment in certain circumstances. We may not redeem the notes prior to their maturity date.  
+  In accordance with accounting guidance for convertible debt with a cash conversion option, we separately accounted for the debt and equity components of the notes in a manner that reflected our estimated nonconvertible debt borrowing rate. As of   September 30, 2018  , the carrying amount of the debt component was   $81.0 million  , which is net of the unamortized debt discount and issuance costs of   $17.1 million   and   $1.9 million  , respectively. Including the impact of the debt discount and related deferred debt issuance costs, the effective interest rate on the notes is approximately   11.3%  . 
+  Asset-Based Loan Facility.   In May 2016, we entered into an asset-based revolving credit agreement which replaced our previous credit agreement. In October 2017, we entered into an Amended and Restated Credit Agreement (as amended, the "ABL Facility") which amended and restated the prior asset-based revolving credit agreement. The ABL Facility provides financing of up to   $150.0 million   available for borrowings (inclusive of letters of credit) and can be increased up to a maximum capacity of   $225.0 million  , subject to certain conditions. As of   September 30, 2018  , our total borrowing base availability under the ABL Facility was   $150.0 million  , of which   $100.2 million   was drawn, resulting in remaining availability of   $49.8 million  . 
+  The ABL Facility terminates on October 17, 2022; however, the ABL Facility has a springing maturity date that will accelerate the maturity of the ABL Facility to September 1, 2021 if, prior to such date, the 2021 Convertible Notes have not either been repurchased, redeemed, converted or we have not provided sufficient funds to repay the 2021 Convertible Notes in full on their maturity date. For this purpose, funds may be provided in cash to an escrow agent or a combination of cash to an escrow agent and the assignment of a portion of availability under the ABL Facility. The ABL Facility requires compliance with a minimum fixed charge coverage ratio and minimum unused availability of   $25.0 million   to utilize borrowings or assignment of availability under the ABL Facility towards funding the repayment of the 2021 Convertible Notes.  
+  Borrowing availability under the ABL Facility is calculated based on eligible accounts receivable, inventory, and, subject to satisfaction of certain financial covenants as described below, composite mats included in the rental fleet, net of reserves and limits on such assets included in the borrowing base calculation. To the extent pledged by us, the borrowing base calculation shall also include the amount of eligible pledged cash. The lender may establish such reserves, in part based on appraisals of the asset base, and other limits at its discretion which could reduce the amounts otherwise available under the ABL Facility. Availability associated with eligible rental mats will also be subject to maintaining a minimum consolidated fixed charge coverage ratio and a minimum level of operating income for the Mats and Integrated Services segment.  
+  Under the terms of the ABL Facility, we may elect to borrow at a variable interest rate plus an applicable margin based on either, (1) LIBOR subject to a floor of zero or (2) a base rate equal to the highest of: (a) the federal funds rate plus 50 basis points, (b) the prime rate of Bank of America, N.A. or (c) LIBOR, subject to a floor of zero, plus 100 basis points. The applicable margin ranges from 175 to 275 basis points for LIBOR borrowings, and 75 to 175 basis points for base rate borrowings, based on the ratio of debt to consolidated EBITDA as defined in the ABL Facility. As of   September 30, 2018  , the applicable margin for borrowings under our ABL Facility was   200   basis points with respect to LIBOR borrowings and   100   basis points with respect to base rate borrowings. The weighted average interest rate for the ABL Facility was   4.4%   at   September 30, 2018  . In addition, we are required to pay a commitment fee on the unused portion of the ABL Facility ranging from 25 to 37.5 basis points, based on the ratio of debt to consolidated EBITDA, as defined in the ABL Facility. The applicable commitment fee as of   September 30, 2018   was   37.5   basis points. 
+  The ABL Facility is a senior secured obligation, secured by first liens on all of our U.S. tangible and intangible assets and a portion of the capital stock of our non-U.S. subsidiaries has also been pledged as collateral. The ABL Facility contains customary operating covenants and certain restrictions including, among other things, the incurrence of additional debt, liens, dividends, asset sales, investments, mergers, acquisitions, affiliate transactions, stock repurchases and other restricted payments. The ABL Facility also requires compliance with a fixed charge coverage ratio if availability under the ABL Facility falls below   $22.5 million  . In addition, the ABL Facility contains customary events of default, including, without limitation, a failure to make payments under the facility, acceleration of more than   $25.0 million   of other indebtedness, certain bankruptcy events and certain change of control events. 
+  Other Debt.   Our foreign subsidiaries in Italy, India, and Canada maintain local credit arrangements consisting primarily of lines of credit which are renewed on an annual basis. We utilize local financing arrangements in our foreign operations in order to provide short-term local liquidity needs. Advances under these short-term credit arrangements are typically based on a percentage of the subsidiary s accounts receivable or firm contracts with certain customers. We had   $4.0 million   and   $1.0 million  , respectively, outstanding under these arrangements at   September 30, 2018   and   December 31, 2017  . 
+  At   September 30, 2018  , we had letters of credit issued and outstanding of   $6.0 million   that are collateralized by   $6.1 million   in restricted cash. Additionally, our foreign operations had   $25.8 million   outstanding in letters of credit and other guarantees, primarily issued under a credit arrangement in Italy as well as certain letters of credit that are collateralized by   $1.5 million   in restricted cash. 
+  
+   13 
+
+Our financial instruments include cash and cash equivalents, receivables, payables and debt. We believe the carrying values of these instruments, with the exception of our 2021 Convertible Notes, approximated their fair values at   September 30, 2018   and December 31, 2017. The estimated fair value of our 2021 Convertible Notes was   $127.8 million   at   September 30, 2018   and   $127.3 million   at December 31, 2017, based on quoted market prices at these respective dates. 
+  
+   14 
+
+Note 8   Income Taxes 
+  The U.S. Tax Cuts and Jobs Act ( Tax Act ) was enacted on December 22, 2017 resulting in broad and complex changes to U.S. income tax law. The Tax Act includes a one-time transition tax in 2017 on accumulated foreign subsidiary earnings not previously subject to U.S. income tax, reduces the U.S. corporate statutory tax rate from 35% to 21% effective January 1, 2018, generally eliminates U.S. federal income tax on dividends from foreign subsidiaries, creates new tax on certain foreign-sourced earnings, makes other changes to limit certain deductions and changes rules on how certain tax credits and net operating loss carryforwards can be utilized. Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our financial statements for the year ended December 31, 2017. 
+  The following summarizes the provisional amounts for the income tax effects of the Tax Act that were recorded as of December 31, 2017 and the measurement-period adjustments related to these items recognized during the first nine months of 2018 based on additional guidance provided by regulatory bodies as well as the preparation of our 2017 U.S. federal income tax return. While we have completed our 2017 federal tax compliance filing and related assessment of the income tax effects of the Tax Act, regulatory bodies continue to provide further interpretive guidance on applying the provisions of the Tax Act, particularly related to state tax matters which could require us to make further adjustments to the provisional amounts during the fourth quarter of 2018. 
+  One-Time Transition Tax 
+  The Tax Act requires us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash and certain other net current assets and 8% on the remaining earnings. We recorded a provisional amount of   $6.9 million   in 2017 for our one-time transitional tax liability and income tax expense based on estimates of the effects of the Tax Act. In 2018, we finalized our one-time transitional tax liability in the amount of   $4.6 million   in connection with the completion of our 2017 U.S. federal income tax return and recognized a   $2.3 million   decrease to tax expense for the third quarter of 2018. 
+  Taxes on Repatriation of Foreign Earnings 
+  Prior to the Tax Act, we considered the unremitted earnings in our non-U.S. subsidiaries held directly by a U.S. parent to be indefinitely reinvested and, accordingly, had not provided any deferred income taxes. As a result of the Tax Act, we now intend to pursue repatriation of unremitted earnings in our non-U.S. subsidiaries held directly by a U.S. parent to the extent that such earnings have been included in the one-time transition tax discussed above, and subject to cash requirements to support the strategic objectives of the non-U.S. subsidiary. As such, we recorded a provisional amount of   $7.0 million   in 2017 for the estimated liability and income tax expense for any U.S. federal or state income taxes or additional foreign withholding taxes related to repatriation of such earnings. In addition, in 2017 we recognized certain foreign tax credits of   $5.5 million   in the U.S. related to the provisional accounting for taxes on repatriation of foreign earnings, however, we also recognized a full valuation allowance related to such tax assets as it is more likely than not that these assets will not be realized. In 2018, we finalized this estimated liability with no significant change to the   $7.0 million   amount provisionally recognized in 2017. Based on additional interpretive guidance by regulatory bodies, we adjusted the foreign tax credits related to the repatriation of foreign earnings to   $5.7 million   and also adjusted the related full valuation allowance. As a result, there was no significant impact of these adjustments included in income tax expense in 2018. 
+  In 2018, our income tax provision includes the estimated expense for any U.S. federal and state income taxes from the new tax on certain foreign-sourced earnings as well as any additional foreign withholding taxes related to future repatriation of current year earnings in our non-U.S. subsidiaries held directly by a U.S. parent  . 
+  Deferred Tax Effects 
+  The Tax Act reduced the U.S. corporate statutory tax rate from 35% to 21% for years after 2017. Accordingly, we remeasured our U.S. net deferred tax liabilities as of December 31, 2017 to reflect the reduced rate that will apply in future periods when those deferred taxes are settled or realized. We recognized a provisional deferred tax benefit of   $17.4 million   in 2017 to reflect the reduced U.S. tax rate on our estimated U.S. net deferred tax liabilities. Although the tax rate reduction was known, we had not completed our analysis of the effect of the Tax Act on the underlying deferred taxes for the items discussed above, and as such, the amounts recorded as of December 31, 2017 were provisional. In 2018, we revised our U.S. net deferred tax liabilities in connection with the completion of our 2017 U.S. federal income tax return and recognized a   $0.6 million   increase to tax expense for the third quarter of 2018 related to the reduced U.S. tax rate on the changes to the underlying deferred taxes. 
+  The net tax benefit recognized in 2017 related to the Tax Act was   $3.4 million  . As we revised our analysis of the Tax Act in 2018 in connection with the completion of our 2017 U.S. federal income tax return, including assessment of additional guidance  
+  
+   15 
+
+provided by regulatory bodies, we revised the cumulative net tax benefit related to the Tax Act to   $5.1 million   by recognizing an additional   $1.7 million   net tax benefit for the third quarter of 2018. 
+  The provision for income taxes was   $10.1 million   for the   first nine months   of 2018, reflecting an effective tax rate of   32%  , compared to   $6.9 million   for the   first nine months   of 2017, reflecting an effective tax rate of   68%  . The provision for income taxes for the   first nine months   of 2018 includes a   $1.7 million   net benefit related to the Tax Act as discussed above as well as a   $0.8 million   net excess tax benefit primarily related to the vesting of certain stock-based compensation awards. Although the Tax Act reduced the U.S. corporate statutory tax rate effective     January 1, 2018, our provision for income taxes in 2018 also includes the estimated expense for any U.S. federal and state income taxes from the new tax on certain foreign-sourced earnings as well as any additional foreign withholding taxes related to future repatriation of current year earnings from our non-U.S. subsidiaries. Due to the relative contribution of our domestic and foreign earnings, these taxes on certain foreign-sourced earnings and the impact of changes to deduction limitations from the Tax Act effectively offset the benefit of the lower U.S. corporate statutory tax rate in our 2018 provision for income taxes. The impact of the Tax Act on our effective tax rate in future periods will depend in large part on the relative contribution of our domestic and foreign earnings. The 2017 effective tax rate was negatively impacted by pre-tax losses in certain international jurisdictions, most notably Australia, and non-deductible expenses relative to the amount of pre-tax income.  
+  We file income tax returns in the United States and several non-U.S. jurisdictions and are subject to examination in the various jurisdictions in which we file. We are no longer subject to income tax examinations for U.S. federal and substantially all state jurisdictions for years prior to 2012 and for substantially all foreign jurisdictions for years prior to 2008. We are currently under examination by the United States federal tax authorities for tax years 2014       2016. During the second quarter of 2017, we received a Revenue Agent Report from the IRS disallowing a deduction claimed on our 2015 tax return associated with the forgiveness of certain inter-company balances due from our Brazilian subsidiary and assessing tax due of approximately   $3.9 million  . We submitted our response to the IRS in the third quarter of 2017, and had an initial tax appeals hearing in June 2018. Although the tax appeals process has not concluded, we believe our tax position is properly reported in accordance with applicable U.S. tax laws and regulations and will continue to vigorously defend our position through the tax appeals process.  
+  Following an audit in 2015, the treasury authority in Mexico issued a tax assessment (inclusive of interest and penalties) in the amount of   60 million   pesos (approximately   $3.3 million  ) to our Mexico subsidiary primarily in connection with the export of mats from Mexico which took place in 2010.  The mats that are the subject of this assessment were owned by a U.S. subsidiary and leased to our Mexico subsidiary for matting projects in the Mexican market. In 2010, we made the decision to move these mats out of Mexico to markets with higher demand. The Mexican treasury authority determined the export of the mats was the equivalent of a sale, and assessed taxes on the gross declared value of the exported mats to our Mexico subsidiary. We retained outside legal counsel and filed administrative appeals with the treasury authority, but we were notified on April 13, 2018, that the last administrative appeal had been rejected. In the second quarter of 2018, we filed an appeal in the Mexican Federal Tax Court, which required that we post a bond in the amount of the assessed taxes (plus additional interest). Although the tax appeals process has not concluded, we believe our tax position is properly reported in accordance with applicable tax laws and regulations in Mexico and intend to vigorously defend our position through the tax appeals process. 
+  We are also under examination by various tax authorities in other countries, and certain foreign jurisdictions have challenged the amounts of taxes due for certain tax periods. These audits are in various stages of completion. We fully cooperate with all audits, but defend existing positions vigorously. We evaluate the potential exposure associated with various filing positions and record a liability for uncertain tax positions as circumstances warrant. Although we believe all tax positions are reasonable and properly reported in accordance with applicable tax laws and regulations in effect during the periods involved, the final determination of tax audits and any related litigation could be materially different than that which is reflected in historical income tax provisions and accruals. 
+   
+  Note 9   Commitments and Contingencies 
+  In the ordinary course of conducting our business, we become involved in litigation and other claims from private party actions, as well as judicial and administrative proceedings involving governmental authorities at the federal, state and local levels. While the outcome of litigation or other proceedings against us cannot be predicted with certainty, management does not consider it reasonably possible that a loss resulting from such litigation or other proceedings, in excess of any amounts accrued or covered by insurance, has been incurred that is expected to have a material adverse impact on our consolidated financial statements. 
+  Escrow Claims Related to the Sale of the Environmental Services Business 
+  Under the terms of the March 2014 sale of our previous Environmental Services business to Ecoserv, LLC ( Ecoserv ),   $8.0 million   of the sales price was withheld and placed in an escrow account to satisfy claims for possible breaches of representations and warranties contained in the purchase/sale agreement. In December 2014, we received a letter from Ecoserv asserting that we had breached certain representations and warranties contained in the purchase/sale agreement, including failing to disclose operational problems and service work performed on injection/disposal wells and increased barge rental costs. The letter indicated  
+  
+   16 
+
+that Ecoserv expected the damages associated with these claims to exceed the escrow amount. In July 2015 we filed an action against Ecoserv in state district court in Harris County, Texas, seeking release of the escrow funds. Thereafter, Ecoserv filed a counterclaim seeking recovery in excess of the escrow funds based on the alleged breach of representations and covenants in the purchase/sale agreement. Ecoserv also alleged that we committed fraud in connection with the March 2014 transaction. Following commencement of the trial in December 2017, we reached a settlement agreement with Ecoserv in the first quarter of 2018, under which Ecoserv received   $22.0 million   in cash, effectively reducing the net sales price of the Environmental Services business by such amount in exchange for dismissal of the pending claims in the lawsuit, and release of any future claims related to the March 2014 transaction. As a result of the settlement, we recognized a charge to discontinued operations in the fourth quarter of 2017 for   $22.0 million   (  $17.4 million   net of tax) to reduce the previously recognized gain from the sale of the Environmental Services business. The reduction in sales price was funded in the first quarter of 2018 with a cash payment of   $14.0 million   and release of the   $8.0 million   that had been held in escrow since the March 2014 transaction. In March 2018, the lawsuit was dismissed with prejudice. Litigation expenses related to this matter were included in corporate office expenses in operating income. 
+  Kenedy, Texas Drilling Fluids Facility Fire 
+  In July 2018, a fire occurred at our Kenedy, Texas drilling fluids facility, destroying the distribution warehouse, including inventory and surrounding equipment. In addition, nearby residences and businesses were evacuated as part of the response to the fire. In order to avoid any customer service disruptions, we implemented contingency plans to supply products from alternate facilities in the area and region. During the third quarter of 2018, we received a petition filed on behalf of   23   plaintiffs seeking a total of   $1.5 million   for alleged bodily injuries and property damage claimed to have been incurred as a result of the fire and the subsequent efforts we undertook to remediate any potential smoke damage. While no trial date has been set for the matter at this time, we have been advised by our insurer that these claims are insured under our general liability insurance program. While this event and related claims are covered by our property, business interruption, and general liability insurance programs, these programs contain self-insured retentions, which remain our financial obligations. 
+  During the third quarter of 2018, we incurred fire-related costs of   $4.6 million  , which includes   $1.9 million   for inventory and property, plant and equipment,   $1.9 million   in property-related cleanup and other costs, and   $0.8 million   relating to our self-insured retention for third-party claims. Based on the provisions of our insurance policies and initial insurance claims filed, we estimated   $3.8 million   in expected insurance recoveries and recognized a charge of   $0.8 million   in other operating (income) loss, net, for the third quarter and first nine months of 2018. The insurance receivable balance included in other receivables as of September 30, 2018 was   $3.8 million  , which we expect to substantially collect by the end of 2018. As of September 30, 2018, the claims related to the fire under our property, business interruption, and general liability insurance programs have not been finalized. 
+   
+  Note 10   Supplemental Disclosures to the Statements of Cash Flows 
+  Supplemental disclosures to the statements of cash flows are presented below: 
+
+Cash, cash equivalents, and restricted cash in the consolidated statements of cash flows consisted of the following: 
+
+17 
+
+Note 11   Segment Data 
+  Summarized operating results for our reportable segments are shown in the following table (net of inter-segment transfers): 
+
+The following table presents further disaggregated revenues for the Fluids Systems segment:  
+
+The following table presents further disaggregated revenues for the Mats and Integrated Services segment:  
+
+The Mats and Integrated Services segment includes the impact of the WSG acquisition completed in November 2017. 
+  
+   18 
+
+ITEM 2. 
+    Management     s Discussion and Analysis of Financial Condition and Results of Operations 
+     The following discussion of our financial condition, results of operations, liquidity and capital resources should be read together with our unaudited condensed consolidated financial statements and notes to unaudited condensed consolidated financial statements contained in this Quarterly Report as well as our Annual Report on Form 10-K for the year ended   December 31, 2017  . Our   third quarter   represents the three-month period ended   September 30   and our   first nine months   represents the   nine  -month period ended   September 30  . Unless otherwise noted, all currency amounts are stated in U.S. dollars. 
+   
+  Overview 
+  We are a geographically diversified supplier providing products, rentals, and services primarily to the oil and gas exploration and production ( E P ) industry. We operate our business through two reportable segments: Fluids Systems and Mats and Integrated Services. In addition to the E P industry, our Mats and Integrated Services segment serves a variety of industries, including the electrical transmission   distribution, pipeline, solar, petrochemical, and construction industries.  
+  Our operating results depend, to a large extent, on oil and gas drilling activity levels in the markets we serve, and particularly for the Fluids Systems segment, the nature of the drilling operations (including the depth and whether the wells are drilled vertically or horizontally), which governs the revenue potential of each well. Drilling activity levels, in turn, depend on a variety of factors, including oil and gas commodity pricing, inventory levels, product demand and regulatory restrictions. Oil and gas prices and activity are cyclical and volatile. This market volatility has a significant impact on our operating results. 
+  While our revenue potential is driven by a number of factors including those described above, rig count data remains the most widely accepted indicator of drilling activity. Average North American rig count data for the   third quarter   and   first nine months   of 2018 as compared to the same periods of 2017 is as follows: 
+
+_______________________________________________________ 
+  Source: Baker Hughes, a GE Company 
+  The Canadian rig count reflects the normal seasonality for this market, with the highest rig count levels generally observed in the first quarter of each year, prior to Spring break-up. Outside of North America, drilling activity is generally more stable as drilling activity in many countries is based on longer-term economic projections and multi-year drilling programs, which tends to reduce the impact of short-term changes in commodity prices on overall drilling activity. Although drilling activity in certain of our international markets (including Brazil and Australia) has declined in recent years, as a whole, our international activities have remained relatively stable, primarily driven by key contracts with national oil companies. While our international contracts vary in revenue potential and duration, certain international contracts are scheduled to conclude in 2018, including those with Sonatrach, Petrobras, and Kuwait Oil Company, as described below. Our future revenue levels in international markets are largely dependent on our ability to maintain existing market share upon contract renewals which may be subject to a competitive bid process and can be impacted by our customers  procurement strategies and allocation of contract awards. 
+  
+   19 
+
+Segment Overview 
+  Our Fluids Systems segment, which generated   77%   of consolidated revenues for the   first nine months   of 2018, provides customized fluids solutions to E P customers globally, operating through four geographic regions: North America, Europe, the Middle East and Africa ( EMEA ), Latin America, and Asia Pacific. International expansion, including the penetration of international and national oil companies, is a key element of our Fluids Systems strategy, which in recent years has helped to stabilize revenues as North American oil and gas exploration activities have fluctuated significantly. Our significant international contracts with recent developments include: 
+             
+    In Kuwait, we provide drilling fluids and related services for land operations under a multi-year contract with Kuwait Oil Company ( KOC ). Work under this contract began in the second half of 2014 and is expected to be completed by the end of 2018. KOC has recently initiated a new tender process for a multi-year period to provide drilling fluids and related services for land operations. We submitted our tender proposal in the third quarter of 2018 and awards are anticipated to be finalized by the end of 2018, although there are no assurances that we will receive a new contract. 
+                
+    In Algeria, we provide drilling fluids and related services to Sonatrach under Lot 1 and Lot 3 of a three-year contract awarded in 2015 ( 2015 Contract ). Work under this contract began in the second quarter of 2015 and is expected to be completed in the fourth quarter of 2018. During the first quarter of 2018, Sonatrach initiated a new tender ( 2018 Tender ), for a three-year term succeeding the 2015 Contract. For the 2018 Tender, Sonatrach adopted a change in its procurement process, limiting the number of Lots that could be awarded to major service providers. We were awarded a new contract pursuant to the 2018 Tender. As a consequence of the change in the procurement process, the new award under the 2018 Tender will result in lower revenues from Sonatrach. Based upon the new contract award, we expect that revenue from Sonatrach under the 2018 Tender will be approximately $125 million over the three-year term, which would result in a reduction of approximately $25 million per year as compared to the recent activity levels. The impact of the new contract is expected to begin in the fourth quarter of 2018, as work transitions from the 2015 Contract to the contract awarded under the 2018 Tender. 
+                
+    In Australia, we provide drilling fluids and related services under a contract with Baker Hughes, a GE Company ( Baker Hughes ) as part of its integrated service offering in support of the Greater Enfield project in offshore Western Australia. Work under this contract began in the first quarter of 2018. 
+                
+    In Brazil, we provide drilling fluids and related services under a multi-year contract with Petrobras for both onshore and offshore locations. Work under this contract began in the first half of 2009 and is scheduled to conclude in December 2018. In the second quarter of 2018, we submitted our proposal for Petrobras  recent tender, covering fluids products and services for a three-year term. Petrobras has delayed any award of a new three-year contract pending further internal review, but has announced a shorter six-month contract award to another supplier. Consequently, we recognized charges of $1.1 million in Brazil during the third quarter of 2018 primarily related to severance costs associated with our planned workforce reductions in the fourth quarter of 2018 in connection with the scheduled completion of the current contract with Petrobras. For the third quarter and first nine months of 2018, our Brazilian subsidiary generated revenues of $5.5 million and $18.7 million, respectively, and an operating loss of $1.2 million and $1.3 million, respectively, substantially all of which related to the Petrobras contract. 
+     In addition to our international expansion efforts, we are also expanding our presence in North America, capitalizing on our capabilities, infrastructure, and strong market position in North American land drilling fluids markets to expand our drilling fluids presence within the deepwater Gulf of Mexico, as well as our presence in adjacent product offerings, including completion fluids and stimulation chemicals. To support this effort, we are incurring start-up costs, including costs associated with additional personnel and facility-related expenses, as well as making additional capital investments.  
+  Our Mats and Integrated Services segment, which generated   23%   of consolidated revenues for the   first nine months   of 2018, provides composite mat rentals utilized for temporary worksite access, along with site construction and related site services to customers in various markets including oil and gas exploration and production, electrical transmission   distribution, pipeline, solar, petrochemical and construction across North America and Europe. We also sell composite mats to customers outside of the U.S. and to domestic customers outside of the E P market. Following our efforts in recent years to diversify our customer base, Mats and Integrated Services segment revenues from non-E P markets represented approximately half of our segment revenues for the   first nine months   of 2018.  
+  In November 2017, we acquired certain assets and assumed certain liabilities of Well Service Group, Inc. and Utility Access Solutions, Inc. (together,  WSG ) for approximately   $77 million  . Since 2012, WSG has been a strategic logistics and installation service provider for our Mats and Integrated Services segment, offering a variety of complementary services to our composite matting systems, including access road construction, site planning and preparation, environmental protection, fluids and spill storage/containment, erosion control, and site restoration services. The completion of the WSG acquisition expanded our service offering as well as our geographic footprint across the Northeast, Midwest, Rockies, and West Texas regions of the U.S.  
+  
+   20 
+
+WSG contributed approximately   $55 million   of revenues to the Mats and Integrated Services segment for the   first nine months   of 2018. 
+   
+  Third   Quarter of   2018   Compared to   Third   Quarter of   2017 
+  Consolidated Results of Operations 
+  Summarized results of operations for the   third   quarter of   2018   compared to the   third   quarter of   2017   are as follows: 
+
+Revenues 
+  Revenues   increase  d   17%   to   $235.3 million   for the   third quarter   of   2018  , compared to   $201.7 million   for the   third quarter   of   2017  . This   $33.7 million     increase   includes a   $31.2 million   (  22%  )   increase   in revenues in North America, comprised of a   $12.9 million     increase   in our Fluids Systems segment and   $18.4 million     increase   in the Mats and Integrated Services segment. Revenues from our international operations   increase  d by   $2.4 million   (  4%  ), primarily reflecting an increase from our Asia Pacific region partially offset by a decrease from our Latin America region. Additional information regarding the change in revenues is provided within the operating segment results below. 
+  Cost of revenues 
+  Cost of revenues   increase  d   18%   to   $194.7 million   for the   third quarter   of   2018  , compared to   $164.6 million   for the   third quarter   of   2017  . The   18%   increase in cost of revenues was primarily driven by the   17%     increase   in revenues as well as costs associated with our North American market expansion efforts. In addition, we recognized charges of $1.1 million in Brazil during the third quarter of 2018 primarily related to severance costs associated with our planned workforce reductions in the fourth quarter of 2018 in connection with the scheduled completion of the current contract with Petrobras. Additional information regarding the change in cost of revenues is provided within the operating segment results below.   
+  Selling, general and administrative expenses 
+  Selling, general and administrative expenses   increase  d   $2.6 million   (  9%  ) to   $29.8 million   for the   third quarter   of   2018  , compared to   $27.3 million   for the   third quarter   of   2017  . The   increase   in expenses includes a corporate office charge of $1.8 million in the third quarter of 2018 associated with the retirement and transition of our Senior Vice President, General Counsel and Chief Administrative Officer, primarily reflecting the impact of modifications to certain outstanding stock-based and other incentive awards. In addition, expenses increased in the Mats and Integrated Services segment, including costs attributable to the WSG acquisition. Selling, general and administrative expenses as a percentage of revenues decreased to 13% for the   third quarter   of   2018   from 14% for the   third quarter   of   2017  . 
+  Other operating (income) loss, net 
+  In July 2018, a fire occurred at our Kenedy, Texas drilling fluids facility, destroying the distribution warehouse, including inventory and surrounding equipment. In addition, nearby residences and businesses were evacuated as part of the response to the fire. In order to avoid any customer service disruptions, we implemented contingency plans to supply products from alternate facilities in the area and region. While this event and related claims are covered by our property, business interruption, and general liability insurance programs, these programs contain self-insured retentions, which remain our financial obligations. 
+  
+   21 
+
+Based on the provisions of our insurance policies and initial insurance claims filed, we recognized a charge of   $0.8 million   in other operating (income) loss, net, for the third quarter of 2018. As of September 30, 2018, the claims related to the fire under our property, business interruption, and general liability insurance programs have not been finalized. 
+  Foreign currency exchange 
+  Foreign currency exchange was a   $0.1 million     gain   for the   third quarter   of   2018   compared to a   $0.2 million     loss   for the   third quarter   of   2017  , and reflects the impact of currency translation on assets and liabilities (including intercompany balances) that are denominated in currencies other than functional currencies.  
+  Interest expense, net 
+  Interest expense was   $3.7 million   for the   third quarter   of   2018   compared to   $3.6 million   for the   third quarter   of   2017  . Interest expense in each of the   third quarter   of 2018 and 2017 includes   $1.4 million   in noncash amortization of original issue discount and debt issuance costs.  
+  Provision for income taxes 
+  The provision for income taxes was   $2.8 million   for the   third quarter   of 2018, reflecting an effective tax rate of 44%, compared to $3.5 million for the   third quarter   of 2017, reflecting an effective tax rate of 57%. The provision for income taxes for the third quarter of 2018 includes a   $0.6 million   net benefit primarily related to finalizing our 2017 income tax returns in the U.S. and certain foreign tax jurisdictions, including a   $1.7 million   net benefit related to our revisions to the income tax effects of the Tax Act as discussed below.  
+  Although the Tax Act reduced the U.S. corporate statutory tax rate from 35% to 21% effective January 1, 2018, our provision for income taxes in 2018 also includes the estimated expense for any U.S. federal and state income taxes from the new tax on certain foreign-sourced earnings as well as any additional foreign withholding taxes related to future repatriation of current year earnings from our non-U.S. subsidiaries. Due to the relative contribution of our domestic and foreign earnings, these taxes on certain foreign-sourced earnings and the impact of changes to deduction limitations from the Tax Act effectively offset the benefit of the lower U.S. corporate statutory tax rate in our 2018 provision for income taxes. The 2017 effective tax rate was negatively impacted by pre-tax losses in certain international jurisdictions, most notably Australia, and non-deductible expenses relative to the amount of pre-tax income. 
+  The Tax Act enacted in December 2017 resulted in broad and complex changes to U.S. income tax law. The Tax Act includes a one-time transition tax in 2017 on accumulated foreign subsidiary earnings not previously subject to U.S. income tax, reduces the U.S. corporate statutory tax rate from 35% to 21% effective January 1, 2018, generally eliminates U.S. federal income tax on dividends from foreign subsidiaries, creates new tax on certain foreign-sourced earnings, makes other changes to limit certain deductions and changes rules on how certain tax credits and net operating loss carryforwards can be utilized. 
+  Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, we made reasonable estimates of the effects and recorded provisional amounts in our 2017 financial statements. Based on additional guidance provided by regulatory bodies and the preparation of our 2017 U.S. federal income tax return in 2018, we recognized a   $1.7 million   net tax benefit in the third quarter of 2018 to reflect measurement-period adjustments to the provisional amounts recognized in 2017 for the income tax effects of the Tax Act.  
+  Operating Segment Results 
+  Summarized financial information for our reportable segments is shown in the following table (net of inter-segment transfers): 
+  
+   22 
+
+23 
+
+Fluids Systems 
+  Revenues 
+  Total revenues for this segment consisted of the following: 
+
+North American revenues   increase  d   12%   to   $124.0 million   for the   third quarter   of   2018   compared to   $111.1 million   for the   third quarter   of   2017  . This   increase   was primarily attributable to the   9%     increase   in North American average rig count along with market share gains in the North American land market as compared to the prior year. 
+  Internationally, revenues   increase  d   2%   to   $57.0 million   for the   third quarter   of   2018   compared to   $55.6 million   for the   third quarter   of 2017. This increase was primarily attributable to a $3.0 million increase in Australia related to the Baker Hughes Greater Enfield project, as well as increased activity in Albania and Kuwait, partially offset by lower activity in Algeria, Italy, and Brazil. 
+  Operating Income 
+  The Fluids Systems segment generated operating   income   of   $8.3 million   for the   third quarter   of   2018   compared to   $7.9 million   for the   third quarter   of   2017  . The improvement in operating results includes a   $0.2 million   improvement from North American operations, reflecting the incremental income generated from the   $12.9 million     increase   in revenues discussed above, partially offset by an increase in operating expenses. Operating expenses for the third quarter of 2018 include   $0.8 million   of charges associated with the Kenedy, Texas facility fire discussed above, as well as increased start-up costs associated with our product line expansion into stimulation chemicals and completion fluids, including $0.6 million of non-capitalizable expenses related to the upgrade and conversion of a drilling fluids facility into a completion fluids facility. Operating income from international operations increased by   $0.2 million  , primarily related to the increase in revenues described above, substantially offset by a $1.1 million charge in Brazil primarily related to severance costs associated with our planned workforce reductions in the fourth quarter of 2018 in connection with the scheduled completion of the current contract with Petrobras. 
+  As discussed above, our contract with Petrobras in Brazil is scheduled to conclude in December 2018. Petrobras has delayed any award of a new three-year contract pending further internal review, but has announced a shorter six-month contract award to another supplier. The profitability of our business in Brazil remains highly dependent on increasing levels of drilling activity by Petrobras or other E P customers. In the absence of a new contract award from Petrobras or an increase in longer-term drilling activity with other E P customers, we may incur additional charges related to cost reduction efforts, or potential asset impairments, which may negatively impact our future operating results. 
+  
+   24 
+
+Mats and Integrated Services 
+  Revenues 
+  Total revenues for this segment consisted of the following: 
+
+Service revenues for the   third quarter   of   2018     increase  d   $16.3 million   compared to the   third quarter   of   2017   with substantially all of this   increase   attributable to the WSG acquisition completed in November 2017.     Rental revenues for the   third quarter   of 2018 increased   $5.2 million   compared to the   third quarter   of 2017, primarily attributable to increases in pressure pumping applications as well as the impact of our continuing efforts to expand into non-E P rental markets. 
+  Product sales revenues were   $11.5 million   for the   third quarter   of   2018   compared to   $13.5 million   for the   third quarter   of   2017  . Revenues from product sales have typically fluctuated based on the timing of mat orders from customers. 
+  Operating Income 
+  Segment operating income   increase  d by   $2.0 million   to   $12.9 million   for the   third quarter   of   2018   compared to   $10.9 million   for the   third quarter   of   2017  , attributable to increases in revenues as described above.  
+  Operating results for the   third quarter   of 2018 include approximately   $19 million   of revenues associated with the WSG acquisition completed in November 2017. The acquired business is predominately focused on site services, as opposed to product sales and rentals, which has shifted the sales mix toward service revenues in 2018, as compared to 2017. While the incremental service revenues provide a positive impact to segment operating income, this shift in revenue mix, along with depreciation and amortization expense related to the purchase accounting allocation, reduce the overall segment operating margin in 2018 as compared to 2017. See Note 2 for further discussion of the WSG acquisition. 
+  Corporate Office 
+  Corporate office expenses   increase  d   $2.2 million   to   $11.2 million   for the   third quarter   of   2018   compared to   $9.0 million   for the   third quarter   of   2017  . This increase was driven by $1.8 million in charges associated with the retirement and transition of our Senior Vice President, General Counsel and Chief Administrative Officer, primarily reflecting the impact of modifications to certain outstanding stock-based and other incentive awards. 
+  
+   25 
+
+First Nine Months   of   2018   Compared to   First Nine Months   of   2017    
+  Consolidated Results of Operations 
+  Summarized results of operations for the   first nine months   of   2018   compared to the   first nine months   of   2017   are as follows: 
+
+Revenues 
+  Revenues   increase  d   29%   to   $698.9 million   for the   first nine months   of   2018  , compared to   $543.4 million   for the   first nine months   of   2017  . This   $155.5 million     increase   includes a   $131.9 million   (  35%  )   increase   in revenues in North America, comprised of a   $63.1 million     increase   in our Fluids Systems segment and   $68.8 million     increase   in the Mats and Integrated Services segment. Revenues from our international operations   increase  d by   $23.6 million   (  14%  ), primarily driven by increases in our EMEA and Asia Pacific regions partially offset by a decrease in our Latin America region. Additional information regarding the change in revenues is provided within the operating segment results below. 
+  Cost of revenues 
+  Cost of revenues increased   29%   to   $569.7 million   for the   first nine months   of   2018  , compared to   $442.6 million   for the   first nine months   of   2017  . The   29%   increase in cost of revenues was primarily driven by the   29%   increase in revenues as well as costs associated with our North American market expansion efforts. In addition, we recognized charges of $1.1 million in Brazil during the third quarter of 2018 primarily related to severance costs associated with our planned workforce reductions in the fourth quarter of 2018 in connection with the scheduled completion of the current contract with Petrobras. Additional information regarding the change in cost of revenues is provided within the operating segment results below.       
+  Selling, general and administrative expenses 
+  Selling, general and administrative expenses   increase  d   $6.2 million   (  8%  ) to   $85.5 million   for the   first nine months   of   2018  , compared to   $79.3 million   for the   first nine months   of   2017  . The increase in expenses was primarily driven by an increase in the Mats and Integrated Services segment, including costs attributable to the WSG acquisition. In addition, the first nine months of 2018 includes a corporate office charge of $1.8 million associated with the retirement and transition of our Senior Vice President, General Counsel and Chief Administrative Officer, primarily reflecting the impact of modifications to certain outstanding stock-based and other incentive awards. Selling, general and administrative expenses as a percentage of revenues decreased to 12% for the   first nine months   of 2018 from 15% for the   first nine months   of 2017  . 
+  Other operating (income) loss, net 
+  Other operating (income) loss, net for the first nine months of 2018 includes the   $0.8 million   charge recognized in the third quarter of 2018 associated with the Kenedy, Texas drilling fluids facility fire as discussed above. 
+  Foreign currency exchange 
+  Foreign currency exchange was a   $0.6 million     loss   for the   first nine months   of   2018   compared to a   $1.1 million     loss   for the   first nine months   of   2017  , and reflects the impact of currency translation on assets and liabilities (including intercompany balances) that are denominated in currencies other than functional currencies.  
+  
+   26 
+
+Interest expense, net 
+  Interest expense was   $10.7 million   for the   first nine months   of   2018   compared to   $10.2 million   for the   first nine months   of   2017  . Interest expense in each of the   first nine months   of 2018 and 2017 includes   $4.1 million   in noncash amortization of original issue discount and debt issuance costs.  
+  Provision for income taxes 
+  The provision for income taxes was   $10.1 million   for the   first nine months   of 2018, reflecting an effective tax rate of 32%, compared to   $6.9 million   for the   first nine months   of 2017, reflecting an effective tax rate of 68%. The provision for income taxes for the   first nine months   of 2018 includes a   $1.7 million   net benefit related to the Tax Act as discussed above as well as a   $0.8 million   net excess tax benefit primarily related to the vesting of certain stock-based compensation awards during the period. The 2017 effective tax rate was negatively impacted by pre-tax losses in certain international jurisdictions, most notably Australia, and non-deductible expenses relative to the amount of pre-tax income. 
+  Operating Segment Results 
+  Summarized financial information for our reportable segments is shown in the following table (net of inter-segment transfers): 
+
+27 
+
+Fluids Systems 
+  Revenues 
+  Total revenues for this segment consisted of the following: 
+
+North American revenues   increase  d   22%   to   $355.1 million   for the   first nine months   of   2018   compared to   $292.0 million   for the   first nine months   of   2017  . This   increase   was primarily attributable to the   14%     increase   in North American average rig count along with market share gains in both the North American land markets and the offshore Gulf of Mexico market, along with an increase in customer spending per well in the   first nine months   of 2018, as compared to the prior year. 
+  Internationally, revenues   increase  d   13%   to   $183.0 million   for the   first nine months   of   2018   compared to   $161.4 million   for the   first nine months   of 2017. This increase was primarily attributable to a $16.8 million improvement in Romania, as higher oil prices resulted in an increase in drilling activity, along with an $8.5 million increase in Australia related to the Baker Hughes Greater Enfield project, as well as increased activity in Kuwait and Albania, partially offset by lower activity in Italy, Algeria, and Brazil. 
+  Operating Income 
+  The Fluids Systems segment generated operating   income   of   $32.1 million   for the   first nine months   of   2018   compared to operating   income   of   $20.1 million   for the   first nine months   of   2017  . The improvement in operating results includes a   $9.5 million   improvement from North American operations, reflecting the incremental income generated from the   $63.1 million     increase   in revenues discussed above, partially offset by an increase in operating expenses. Operating expenses for the first nine months of 2018 include   $0.8 million   of charges associated with the Kenedy, Texas facility fire discussed above, as well as increased start-up costs associated with our product line expansion into stimulation chemicals and completion fluids, including $0.6 million of non-capitalizable expenses related to the upgrade and conversion of a drilling fluids facility into a completion fluids facility. Operating income from international operations increased by   $2.4 million  , primarily related to the increase in revenues described above, partially offset by a $1.1 million charge in Brazil primarily related to severance costs associated with our planned workforce reductions, as discussed above. 
+  Mats and Integrated Services 
+  Revenues 
+  Total revenues for this segment consisted of the following: 
+
+Service revenues for the   first nine months   of   2018     increase  d   $47.7 million   compared to the   first nine months   of   2017   with substantially all of this   increase   attributable to the WSG acquisition completed in November 2017. Rental revenues for the  
+  
+   28 
+
+first nine months   of 2018 increased   $14.6 million   compared to   first nine months   of 2017 primarily attributable to increases in pressure pumping applications as well as the impact of our continuing efforts to expand into non-E P rental markets. 
+  Product sales revenues were   $32.4 million   for the   first nine months   of   2018   compared to   $23.8 million   for the   first nine months   of   2017  . Revenues from product sales have typically fluctuated based on the timing of mat orders from customers, however, the improvement in 2018 is primarily attributable to our continued efforts to expand our sales into non-E P markets. 
+  Operating Income 
+  Segment operating income   increase  d by   $11.1 million   to   $39.9 million   for the   first nine months   of   2018   compared to   $28.8 million   for the   first nine months   of   2017  , attributable to increases in revenues as described above.  
+  Operating results for the   first nine months   of 2018 include approximately   $55 million   of revenues associated with the WSG acquisition completed in November 2017. The acquired business is predominately focused on site services, as opposed to product sales and rentals, which has shifted the sales mix toward service revenues in 2018, as compared to 2017. While the incremental service revenues provide a positive impact to segment operating income, this shift in revenue mix, along with depreciation and amortization expense related to the purchase accounting allocation, reduce the overall segment operating margin in 2018 as compared to 2017. See Note 2 for further discussion of the acquisition. 
+  Corporate Office 
+  Corporate office expenses   increase  d   $1.6 million   to   $28.9 million   for the   first nine months   of   2018   compared to   $27.3 million   for the   first nine months   of   2017  . This increase was driven by $1.8 million in charges associated with the retirement and transition of our Senior Vice President, General Counsel and Chief Administrative Officer, primarily reflecting the impact of modifications to certain outstanding stock-based and other incentive awards. In addition, lower spending related to legal matters and strategic planning efforts were partially offset by an increase in personnel costs. 
+  
+   29 
+
+Liquidity and Capital Resources 
+  Net cash   provided by   operating activities was   $20.1 million   for the   first nine months   of   2018   compared to   $15.8 million   for the   first nine months   of   2017  . The   first nine months   of 2017 included the receipt of a $37.2 million tax refund received in the second quarter of 2017. Excluding this amount, net cash provided by operating activities increased by $41.5 million in the   first nine months   of 2018 compared to the   first nine months   of 2017 due to an improvement in operating results and decreases in the growth of working capital. During the   first nine months   of 2018, net income adjusted for non-cash items provided cash of   $68.6 million  , while changes in working capital   use  d   $48.5 million   of cash. 
+  Net cash   used in   investing activities was   $45.6 million   for the   first nine months   of 2018, including capital expenditures of   $32.8 million   and the   $14 million   payment to refund a portion of the net sales price of the Environmental Services business (see Note 9 for further discussion). Capital expenditures during the   first nine months   of 2018 included   $19.9 million   for the Mats and Integrated Services segment, including $13.7 million of investments in the mat rental fleet, and   $10.8 million   for the Fluids Systems segment. 
+  Net cash   provided by   financing activities was   $23.7 million   for the   first nine months   of 2018. We borrowed a net   $18.6 million   on our ABL Facility (as defined below) during the   first nine months   of 2018 primarily to fund investing activities as described above. 
+  As of   September 30, 2018  , we had cash on hand of   $52.2 million  , substantially all of which resides within our international subsidiaries, including $14.3 million of our total cash balance in Algeria. As a result of the Tax Act as previously described, in the third quarter of 2018, we began repatriating excess cash from certain of our international subsidiaries and we intend to further pursue repatriation of available cash in these international subsidiaries subject to cash requirements to support the strategic objectives of these international subsidiaries. We anticipate that future working capital requirements for our operations will fluctuate directionally with revenues. In addition, we expect total 2018 capital expenditures to be approximately   $40 million  . Availability under our ABL Facility also provides additional liquidity as discussed further below. Total availability under the ABL Facility will fluctuate directionally based on the level of eligible accounts receivable, inventory, and, subject to satisfaction of certain financial covenants as described below, composite mats included in the rental fleet. We expect our available cash on-hand, cash generated by operations and remaining availability under our ABL Facility to be adequate to fund current operations during the next 12 months.  
+  Our capitalization is as follows: 
+
+2021 Convertible Notes.   In December 2016, we issued   $100.0 million   of unsecured convertible senior notes ( 2021 Convertible Notes ) that mature on December 1, 2021, unless earlier converted by the holders pursuant to the terms of the notes. The notes bear interest at a rate of   4.0%   per year, payable semiannually in arrears on June 1 and December 1 of each year.  
+  Holders may convert the notes at their option at any time prior to the close of business on the business day immediately preceding June 1, 2021, only under the following circumstances:  
+             
+    during any calendar quarter commencing after the calendar quarter ending on March 31, 2017 (and only during such calendar quarter), if the last reported sale price of our common stock for at least   20   trading days (regardless of whether consecutive) during a period of   30   consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than or equal to   130%   of the conversion price of the notes in effect on each applicable trading day; 
+     
+   30 
+
+during the   five   business day period after any   five   consecutive trading day period in which the trading price per   $1,000   principal amount of notes for each trading day was less than   98%   of the last reported sale price of our common stock on such date multiplied by the conversion rate on each such trading day; or 
+                
+    upon the occurrence of specified corporate events, as described in the indenture governing the notes, such as a consolidation, merger, or share exchange. 
+     On or after June 1, 2021 until the close of business on the business day immediately preceding the maturity date, holders may convert their notes at any time, regardless of whether any of the foregoing conditions have been satisfied. As of October 25, 2018, the notes were not convertible.  
+  The notes are convertible into, at our election, cash, shares of common stock, or a combination of both, subject to satisfaction of specified conditions and during specified periods, as described above. If converted, we currently intend to pay cash for the principal amount of the notes converted. The conversion rate is initially   107.1381   shares of our common stock per   $1,000   principal amount of notes (equivalent to an initial conversion price of   $9.33   per share of common stock), subject to adjustment in certain circumstances. We may not redeem the notes prior to their maturity date.  
+  Asset-Based Loan Facility.   In May 2016, we entered into an asset-based revolving credit agreement which replaced our previous credit agreement. In October 2017, we entered into an Amended and Restated Credit Agreement (as amended, the  ABL Facility ) which amended and restated the prior asset-based revolving credit agreement. The ABL Facility provides financing of up to   $150.0 million   available for borrowings (inclusive of letters of credit) and can be increased up to a maximum capacity of $225.0 million, subject to certain conditions.  As of   September 30, 2018  , our total borrowing base availability under the ABL Facility was   $150.0 million  , of which   $100.2 million   was drawn, resulting in remaining availability of   $49.8 million  . 
+  The ABL Facility terminates on October 17, 2022; however, the ABL Facility has a springing maturity date that will accelerate the maturity of the ABL Facility to September 1, 2021 if, prior to such date, the 2021 Convertible Notes have not either been repurchased, redeemed, converted or we have not provided sufficient funds to repay the 2021 Convertible Notes in full on their maturity date. For this purpose, funds may be provided in cash to an escrow agent or a combination of cash to an escrow agent and the assignment of a portion of availability under the ABL Facility. The ABL Facility requires compliance with a minimum fixed charge coverage ratio and minimum unused availability of $25.0 million to utilize borrowings or assignment of availability under the ABL Facility towards funding the repayment of the 2021 Convertible Notes.  
+  Borrowing availability under the ABL Facility is calculated based on eligible accounts receivable, inventory, and, subject to satisfaction of certain financial covenants as described below, composite mats included in the rental fleet, net of reserves and limits on such assets included in the borrowing base calculation. To the extent pledged by us, the borrowing base calculation shall also include the amount of eligible pledged cash. The lender may establish such reserves, in part based on appraisals of the asset base, and other limits at its discretion which could reduce the amounts otherwise available under the ABL Facility. Availability associated with eligible rental mats will also be subject to maintaining a minimum consolidated fixed charge coverage ratio and a minimum level of operating income for the Mats and Integrated Services segment.  
+  Under the terms of the ABL Facility, we may elect to borrow at a variable interest rate plus an applicable margin based on either, (1) LIBOR subject to a floor of zero or (2) a base rate equal to the highest of: (a) the federal funds rate plus 50 basis points, (b) the prime rate of Bank of America, N.A. or (c) LIBOR, subject to a floor of zero, plus 100 basis points. The applicable margin ranges from 175 to 275 basis points for LIBOR borrowings, and 75 to 175 basis points for base rate borrowings, based on the ratio of debt to consolidated EBITDA as defined in the ABL Facility. As of   September 30, 2018  , the applicable margin for borrowings under our ABL Facility was   200   basis points with respect to LIBOR borrowings and   100   basis points with respect to base rate borrowings. The weighted average interest rate for the ABL Facility was   4.4%   at   September 30, 2018  . In addition, we are required to pay a commitment fee on the unused portion of the ABL Facility ranging from 25 to 37.5 basis points, based on the ratio of debt to consolidated EBITDA, as defined in the ABL Facility. The applicable commitment fee as of   September 30, 2018   was   37.5   basis points. 
+  The ABL Facility is a senior secured obligation, secured by first liens on all of our U.S. tangible and intangible assets and a portion of the capital stock of our non-U.S. subsidiaries has also been pledged as collateral. The ABL Facility contains customary operating covenants and certain restrictions including, among other things, the incurrence of additional debt, liens, dividends, asset sales, investments, mergers, acquisitions, affiliate transactions, stock repurchases and other restricted payments. The ABL Facility also requires compliance with a fixed charge coverage ratio if availability under the ABL Facility falls below $22.5 million. In addition, the ABL Facility contains customary events of default, including, without limitation, a failure to make payments under the facility, acceleration of more than $25.0 million of other indebtedness, certain bankruptcy events and certain change of control events. 
+  Other Debt.   Our foreign subsidiaries in Italy, India, and Canada maintain local credit arrangements consisting primarily of lines of credit which are renewed on an annual basis. We utilize local financing arrangements in our foreign operations in order to provide short-term local liquidity needs. Advances under these short-term credit arrangements are typically based on a percentage  
+  
+   31 
+
+of the subsidiary s accounts receivable or firm contracts with certain customers. We had   $4.0   million and $1.0 million, respectively, outstanding under these arrangements at   September 30, 2018   and   December 31, 2017  . 
+  At   September 30, 2018  , we had letters of credit issued and outstanding of   $6.0 million   that are collateralized by   $6.1 million   in restricted cash. Additionally, our foreign operations had   $25.8 million   outstanding in letters of credit and other guarantees, primarily issued under a credit arrangement in Italy as well as certain letters of credit that are collateralized by   $1.5 million   in restricted cash.  
+   
+  Critical Accounting Estimates and Policies 
+  Our consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States of America, which requires us to make assumptions, estimates and judgments that affect the amounts and disclosures reported. Significant estimates used in preparing our condensed consolidated financial statements include the following: allowances for doubtful accounts, reserves for self-insured retention under insurance programs, estimated performance and values associated with employee incentive programs, fair values used for impairments of long-lived assets, including goodwill and other intangibles, the provisional accounting for the Tax Act, and valuation allowances for deferred tax assets. Our estimates are based on historical experience and on our future expectations that we believe to be reasonable. The combination of these factors forms the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from our current estimates and those differences may be material. 
+  For additional discussion of our critical accounting estimates and policies, see  Management's Discussion and Analysis of Financial Condition and Results of Operations  included in our Annual Report on Form 10-K for the year ended December 31, 2017. Except as set forth below, our critical accounting estimates and policies have not materially changed since December 31, 2017. 
+  In May 2014, the FASB amended the guidance for revenue from contracts with customers. We adopted this new guidance as of January 1, 2018 using the modified retrospective transition method. The adoption of this new guidance primarily affected the timing of revenue recognition for drilling fluid additive products provided to customers in the delivery of an integrated fluid system in our U.S. drilling fluids business. Under previous guidance, we recognized revenue for these products upon shipment of materials and passage of title, with a reserve for estimated product returns. Under the new guidance, we recognize revenue for these products when they are utilized, which generally occurs at the time of consumption by the customer. See Note 1 for additional information. 
+  
+   32 
+
+ITEM 3. 
+    Quantitative and Qualitative Disclosures About Market Risk 
+     We are exposed to market risk from changes in interest rates and changes in foreign currency rates. A discussion of our primary market risk exposure in financial instruments is presented below. 
+  Interest Rate Risk 
+  At   September 30, 2018  , we had total principal amounts outstanding under financing arrangements of   $207.4 million  , including $100.0 million of borrowings under our 2021 Convertible Notes which bear interest at a fixed rate of 4.0% and   $100.2 million   of borrowings under our ABL Facility. Borrowings under our ABL Facility are subject to a variable interest rate as determined by the ABL Facility. The weighted average interest rate at   September 30, 2018   for the ABL Facility was   4.4%  . Based on the balance of variable rate debt at   September 30, 2018  , a 100 basis-point increase in short-term interest rates would have increased annual pre-tax interest expense by $1.0 million.  
+  Foreign Currency 
+  Our principal foreign operations are conducted in certain areas of EMEA, Latin America, Asia Pacific, and Canada. We have foreign currency exchange risks associated with these operations, which are conducted principally in the foreign currency of the jurisdictions in which we operate including European euros, Algerian dinar, Romanian new leu, Canadian dollars, Australian dollars, British pounds and Brazilian reais. Historically, we have not used off-balance sheet financial hedging instruments to manage foreign currency risks when we enter into a transaction denominated in a currency other than our local currencies. 
+   
+           ITEM 4. 
+    Controls and Procedures 
+     Evaluation of Disclosure Controls and Procedures 
+  Based on their evaluation of our disclosure controls and procedures as of the end of the period covered by this report, our Chief Executive Officer and Chief Financial Officer concluded that the disclosure controls and procedures were effective as of   September 30, 2018  , the end of the period covered by this quarterly report. 
+  Changes in Internal Control Over Financial Reporting 
+  There were no changes in internal control over financial reporting during the quarter ended   September 30, 2018   that materially affected, or were reasonably likely to materially affect, our internal control over financial reporting. 
+  
+   33 
+
+PART II     OTHER INFORMATION 
+   
+           ITEM 1. 
+    Legal Proceedings 
+     Escrow Claims Related to the Sale of the Environmental Services Business 
+  Newpark Resources, Inc. v. Ecoserv, LLC.   On July 13, 2015, we filed a declaratory action in the District Court in Harris County, Texas (80   th    Judicial District) seeking release of $8.0 million of funds placed in escrow by Ecoserv, LLC ( Ecoserv ) in connection with its purchase of our Environmental Services business. Ecoserv filed a counterclaim asserting that we breached certain representations and covenants contained in the purchase/sale agreement including, among other things, the condition of certain assets. In addition, Ecoserv has alleged that Newpark committed fraud in connection with the March 2014 transaction. 
+  Under the terms of the March 2014 sale of the Environmental Services business to Ecoserv, $8.0 million of the sales price was withheld and placed in an escrow account to satisfy claims for possible breaches of representations and warranties contained in the purchase/sale agreement. In December 2014, we received a letter from Ecoserv asserting that we had breached certain representations and warranties contained in the purchase/sale agreement, including failing to disclose operational problems and service work performed on injection/disposal wells and increased barge rental costs. The letter indicated that Ecoserv expected the damages associated with these claims to exceed the escrow amount. In July 2015, we filed the action against Ecoserv referenced above. Thereafter, Ecoserv filed a counterclaim seeking recovery in excess of the escrow funds based on the alleged breach of representations and covenants in the purchase/sale agreement. Ecoserv also alleged that we committed fraud in connection with the March 2014 transaction. Following commencement of the trial in December 2017, we reached a settlement agreement with Ecoserv in the first quarter of 2018, under which Ecoserv received $22.0 million in cash, effectively reducing the net sales price of the Environmental Services business by such amount in exchange for dismissal of the pending claims in the lawsuit, and release of any future claims related to the March 2014 transaction. As a result of the settlement, we recognized a charge to discontinued operations in the fourth quarter of 2017 for $22.0 million ($17.4 million net of tax) to reduce the previously recognized gain from the sale of the Environmental Services business. The reduction in sales price was funded in the first quarter of 2018 with a cash payment of $14.0 million and release of the $8.0 million that had been held in escrow since the March 2014 transaction. In March 2018, the lawsuit was dismissed with prejudice. Litigation expenses related to this matter were included in corporate office expenses in operating income. 
+   
+           ITEM 1A. 
+    Risk Factors 
+     There have been no material changes during the period ended   September 30, 2018   in our  Risk Factors  as discussed in Item 1A to our Annual Report on Form 10 K for the year ended   December 31, 2017  . 
+   
+           ITEM 2. 
+    Unregistered Sales of Equity Securities and Use of Proceeds 
+              a) 
+    Not applicable 
+              b) 
+    Not applicable 
+              c) 
+    The following table details our repurchases of shares of our common stock, for the three months ended   September 30, 2018  : 
+
+(1)    During the three months ended   September 30, 2018  , we purchased an aggregate of   70,894   shares surrendered in lieu of taxes under vesting of restricted shares. 
+  Our Board of Directors has approved a repurchase program that authorizes us to purchase up to $100.0 million of our outstanding shares of common stock in the open market or as otherwise determined by management, subject to certain limitations under the ABL Facility and other factors. The repurchase program has no specific term. Repurchases are expected to be funded from operating cash flows and available cash on hand. As part of the share repurchase program, our management has been authorized to establish trading plans under Rule 10b5-1 of the Securities Exchange Act of 1934. There were no share repurchases under the program during the   first nine months   of 2018 or 2017. As of   September 30, 2018  , there was $33.5 million of authorization remaining under the program.  
+  
+   34 
+
+We have not paid any dividends during the three most recent fiscal years or any subsequent interim period, and we do not intend to pay any cash dividends in the foreseeable future. In addition, our ABL Facility contains covenants which limit the payment of dividends on our common stock. 
+   
+           ITEM 3. 
+    Defaults Upon Senior Securities 
+     Not applicable. 
+   
+           ITEM 4. 
+    Mine Safety Disclosures 
+     The information concerning mine safety violations and other regulatory matters required by section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 104 of Regulation S-K is included in Exhibit 95.1 of this Quarterly Report on Form 10-Q, which is incorporated by reference. 
+   
+           ITEM 5. 
+    Other Information 
+     None. 
+   
+           ITEM 6. 
+    Exhibits 
+     The exhibits listed are filed as part of, or incorporated by reference into, this Quarterly Report on Form 10-Q. 
+
+Management compensation plan or agreement 
+  *    Filed herewith 
+  **    Furnished herewith 
+
+35 
+
+NEWPARK RESOURCES, INC. 
+  SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+    
+  Date:   October 26, 2018    
+     
+                 NEWPARK RESOURCES, INC. 
+      (Registrant) 
+
+By: 
+    /s/ Paul L. Howes 
+        
+    Paul L. Howes 
+  President and Chief Executive Officer 
+  (Principal Executive Officer) 
+
+By: 
+    /s/ Gregg S. Piontek 
+        
+    Gregg S. Piontek 
+  Senior Vice President and Chief Financial Officer 
+  (Principal Financial Officer) 
+
+By: 
+    /s/ Douglas L. White 
+        
+    Douglas L. White 
+  Vice President, Corporate Controller and Chief Accounting Officer 
+  (Principal Accounting Officer) 
+
+36 
+
+<EX-31.1>
+ 2
+ a2018q310qexhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+EXHIBIT 31.1 
+    
+  Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+    
+  I, Paul L. Howes, certify that: 
+    
+           1.  
+    I have reviewed this quarterly report on Form 10-Q of Newpark Resources, Inc.; 
+              2.  
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3.  
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4.  
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a)  
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b)  
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c)  
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d)  
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5.  
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting to the registrant s auditors and the audit committee of the registrant s boards of directors (or persons performing the equivalent functions): 
+              (a)  
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b)  
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     Date:   October 26, 2018    
+               /s/ Paul L. Howes 
+      Paul L. Howes 
+      President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a2018q310qexhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+EXHIBIT 31.2 
+    
+  Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+    
+  I, Gregg S. Piontek, certify that: 
+    
+           1.  
+    I have reviewed this quarterly report on Form 10-Q of Newpark Resources, Inc.; 
+              2.  
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3.  
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4.  
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a)  
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b)  
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c)  
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d)  
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5.  
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s boards of directors (or persons performing the equivalent functions): 
+              (a)  
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b)  
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+     Date:   October 26, 2018    
+               /s/ Gregg S. Piontek 
+      Gregg S. Piontek 
+      Senior Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a2018q310qexhibit321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+EXHIBIT 32.1 
+    
+  Certification 
+  Pursuant to 18 U.S.C. Section 1350 
+  As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+    
+  In connection with the Quarterly Report on Form 10-Q for the period ended   September 30, 2018  , of Newpark Resources, Inc. (the  Company ), as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Paul L. Howes, President and Chief Executive Officer (Principal Executive Officer) of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date:   October 26, 2018    
+               /s/ Paul L. Howes                                                                   
+      Paul L. Howes 
+      President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a2018q310qexhibit322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+EXHIBIT 32.2 
+    
+  Certification 
+  Pursuant to 18 U.S.C. Section 1350 
+  As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+    
+  In connection with the Quarterly Report on Form 10-Q for the period ended   September 30, 2018  , of Newpark Resources, Inc. (the  Company ), as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Gregg S. Piontek, Senior Vice President and Chief Financial Officer (Principal Financial Officer) of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date:   October 26, 2018    
+               /s/ Gregg S. Piontek                                                          
+      Gregg S. Piontek 
+      Senior Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-95.1>
+ 6
+ a2018q310qexhibit951.htm
+ EXHIBIT 95.1
+
+Exhibit 
+
+EXHIBIT 95.1 
+    
+  Under the Dodd-Frank Wall Street Reform and Consumer Protection Act (the  Dodd-Frank Act ), each operator of a coal or other mine is required to include certain mine safety results in its periodic reports filed with the Securities and Exchange Commission ( SEC ).  Our subsidiary, Excalibar Minerals LLC ( Excalibar ), engages in the processing of barite ore and is subject to the jurisdiction of the Mine Safety and Health Administration ( MSHA ).  For that reason, we are providing below the required mine safety data for the four specialized barite and calcium carbonate grinding facilities operated by Excalibar that are subject to the regulation by MSHA under the Federal Mine Safety and Health Act of 1977 (the  Mine Act ).  
+  As required by the reporting requirements regarding mine safety in Section 1503 of the Dodd-Frank Act and the SEC s final rules promulgated thereunder, the table below presents the following information for the three months ended   September 30, 2018   for each of the specialized facilities operated by our subsidiary:  
+           (a) 
+    The total number of Mine Act Section 104 significant and substantial citations received, which are for alleged violations of a mining safety standard or regulation where there exists a reasonable likelihood that the hazard could result in an injury or illness of a reasonably serious nature; 
+              (b) 
+    The total number of Mine Act Section 104(b) orders received, which are for an alleged failure to totally abate the subject matter of a Mine Act Section 104(a) citation within the period specified in the citation; 
+              (c) 
+    The total number of Mine Act Section 104(d) citations and orders received, which are for an alleged unwarrantable failure to comply with a mining safety standard or regulation; 
+              (d) 
+    The total number of flagrant violations under Section 110(b)(2) of the Mine Act received; 
+              (e) 
+    The total number of imminent danger orders issued under Section 107(a) of the Mine Act; 
+              (f) 
+    The total dollar value of proposed assessments from MSHA under the Mine Act; 
+              (g) 
+    The total number of mining-related fatalities; 
+              (h) 
+    Mine Act Section 104(e) written notices for an alleged pattern of violations of mandatory health or safety standards that are of such nature as could have significantly and substantially contributed to the cause and effect of a coal mine health or safety hazard, or the potential to have such a pattern; and 
+              (i) 
+    The total number of pending legal actions before the Federal Mine Safety and Health Review Commission as required by Section 1503(a)(3) of the Dodd-Frank Act. The number of legal actions pending as of   September 30, 2018   that are: 
+        contests of citations and orders referenced in Subpart B of 29 CFR Part 2700: 0 
+     contests of proposed penalties referenced in Subpart C of 29 CFR Part 2700: 0 
+     complaints for compensation referenced in Subpart D of 29 CFR Part 2700: 0 
+     complaints of discharge, discrimination or interference referenced in Subpart E of 29 CFR Part 2700: 0 
+     applications of temporary relief reference in Subpart F of 29 CFR Part 2700: 0 
+     appeals of judges' decisions or orders to the Federal Mine Safety and Health Review Commission referenced     in Subpart H of 29 CFR Part 2700: 0 
+
+For the Three Months Ended   September 30, 2018 
+    
+                                                             Mine or Operating Name/MSHA Identification Number 
+    (A) 
+  Section 
+  104 S S 
+  Citations 
+  (#) 
+      
+    (B) 
+  Section 
+  104(b) 
+  Orders 
+  (#) 
+      
+    (C) 
+  Section 
+  104(d) 
+  Citations 
+  and 
+  Orders 
+  (#) 
+      
+    (D) 
+  Section 
+  110(b)(2) 
+  Violations 
+  (#) 
+      
+    (E) 
+  Section 
+  107(a) 
+  Orders 
+  (#) 
+      
+    (F) 
+  Total Dollar 
+  Value of MSHA 
+  Assessments Proposed 
+  (#) 
+      
+    (G) 
+  Total 
+  Number 
+  of Mining 
+  Related 
+  Fatalities 
+  (#) 
+      
+    (H) 
+  Received Notice of Pattern of Violations Under Section 104(e) 
+  (yes/no) 
+      
+    (H) 
+  Received Notice of Potential to Have Pattern Under Section 104(e) 
+  (yes/no) 
+      
+    (I) 
+  Legal 
+  Actions Pending as of Last Day of Period 
+  (#) 
+      
+    (I) 
+  Legal Actions Initiated During Period 
+  (#) 
+      
+    (I) 
+  Legal Actions Resolved During Period 
+  (#) 
+      Houston Plant / 41-04449 
+    1 
+
+$151.00 
+
+No 
+      
+    No 
+
+Dyersburg Plant / 40-03183 
+
+No 
+      
+    No 
+
+New Iberia Plant / 16-01302 
+
+No 
+      
+    No 
+
+Corpus Christi Plant / 
+  41-04002 
+
+No 
+      
+    No 
+
+In evaluating the above information regarding mine safety and health, investors should take into account factors such as (i) the number of citations and orders will vary depending on the size of the coal mine or facility, (ii) the number of citations issued will vary from inspector-to-inspector and mine-to-mine, and (iii) citations and orders can be contested and appealed, and in that process, may be reduced in severity and amount, and are sometimes dismissed. 
+
+</EX-95.1>
+
+<EX-101.INS>
+ 7
+ nr-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ nr-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ nr-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ nr-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ nr-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ nr-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

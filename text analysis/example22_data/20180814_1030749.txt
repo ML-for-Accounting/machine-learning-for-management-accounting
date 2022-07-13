@@ -1,0 +1,1179 @@
+ 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION  
+
+ WASHINGTON, D.C. 20549 
+
+FORM 10-Q                
+
+Quarterly Report Pursuant to Section 13 or 15(d) 
+
+ of the Securities Exchange Act of 1934 
+
+For the quarterly period ended  June 30  ,   201  8  
+
+GULFMARK OFFSHORE, INC.   
+
+ (Exact name of registrant as specified in its charter) 
+
+Delaware  
+
+ (State or other jurisdiction of incorporation) 
+
+001-33607  
+
+ (Commission file number) 
+
+76-0526032  
+
+ (I.R.S. Employer Identification No.) 
+
+(713) 963-9522  
+
+ (Registrant s telephone number, including area code) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. 
+
+YES   
+
+NO   
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+
+YES   
+
+NO   
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer       Accelerated filer   
+
+Non-accelerated filer   (Do not check if a smaller reporting company) 
+
+Smaller reporting company   Emerging growth company   
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+YES   
+
+NO   
+
+Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Sections 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. 
+
+YES   
+
+NO   
+
+Number of shares of Common Stock, $0.01 par value, outstanding as of August 13, 2018: 7,535,705 
+
+2
+
+GulfMark Offshore, Inc.  
+
+        Index  
+
+Page 
+
+			 Number 
+
+Part I. 
+
+Financial Information 
+
+Item 1 
+
+Financial Statements 
+
+7 
+
+Unaudited Condensed Consolidated Balance Sheets 
+
+7 
+
+Unaudited Condensed Consolidated Statements of Operations 
+
+8 
+
+Unaudited Condensed Consolidated Statements of Comprehensive Loss 
+
+9 
+
+Unaudited Condensed Consolidated Statement of Stockholders  Equity 
+
+10 
+
+Unaudited Condensed Consolidated Statements of Cash Flows 
+
+11 
+
+Notes to Unaudited Condensed Consolidated Financial Statements 
+
+12 
+
+Item 2 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+22 
+
+Item 3 
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+34 
+
+Item 4 
+
+Controls and Procedures 
+
+34 
+
+Part II. 
+
+Other Information 
+
+Item 1A 
+
+Risk Factors 
+
+34 
+
+Item 6 
+
+Exhibits 
+
+37 
+
+Signatures 
+
+38 
+
+3
+
+Cautionary Note Regarding     Forward-Looking Statements   
+
+This Quarterly Report on Form 10-Q contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical fact are, or may be deemed to be, forward-looking statements. Forward-looking statements include, without limitation, any statement that may project, indicate or imply future results, events, performance or achievements, and may contain or be identified by the words  expect,   intend,   plan,   predict,   anticipate,   estimate,   believe,   foresee,   should,   could,   would,   may,   might,   will,   project,   forecast,   budget  and similar expressions. In addition, any statement concerning future financial performance (including, without limitation, future revenues, earnings or growth rates), ongoing business strategies or prospects, and possible actions taken by or against us, which may be provided by management, are also forward-looking statements as so defined. Statements made by us in this report that contain forward-looking statements may include, but are not limited to, information concerning our possible or assumed future results of operations and statements about the following subjects: 
+
+the proposed Tidewater Merger (as hereinafter defined), including the expected timing and completion of the Tidewater Merger;  
+
+the effects of our Chapter 11 Case (as hereinafter defined) on our operations, including our relationships with employees, regulatory authorities, customers, suppliers, banks, insurance companies and other third parties, and agreements  
+
+the effects of our Chapter 11 Case on our company and on the interests of various constituents, including holders of our common stock and debt instruments; 
+
+our ability to access the public capital markets  
+
+our ability to continue as a going concern in the long term  
+
+the potential adverse effects of our Chapter 11 Case on our liquidity, results of operations, or business prospects  
+
+our ability to execute our business plan  
+
+the cost, availability and access to capital and financial markets  
+
+tax planning; 
+
+market conditions and the effect of such conditions on our future results of operations; 
+
+demand for marine supply and transportation services; 
+
+supply of vessels and companies providing services; 
+
+future capital expenditures and budgets for capital and other expenditures; 
+
+sources and uses of and requirements for financial resources; 
+
+market outlook; 
+
+operations outside the United States; 
+
+contractual obligations; 
+
+cash flows and contract backlog; 
+
+timing and cost of completion of vessel upgrades, construction projects and other capital projects; 
+
+asset impairments and impairment evaluations; 
+
+assets held for sale; 
+
+business strategy; 
+
+growth opportunities; 
+
+competitive position; 
+
+expected financial position; 
+
+4
+
+interest rate and foreign exchange risk; 
+
+debt levels and the impact of changes in the credit markets and credit ratings for our debt; 
+
+timing and duration of required regulatory inspections for our vessels; 
+
+plans and objectives of management; 
+
+effective date and performance of contracts; 
+
+outcomes of legal proceedings; 
+
+compliance with applicable laws; 
+
+declaration and payment of dividends; and 
+
+availability, limits and adequacy of insurance or indemnification. 
+
+These types of statements are based on current expectations about future events and inherently are subject to a variety of assumptions, risks and uncertainties, many of which are beyond our control, which could cause actual results to differ materially from those expected, projected or expressed in forward-looking statements. It should be understood that it is not possible to predict or identify all risks, uncertainties and assumptions. Factors that could impact these areas and our overall business and financial performance and cause actual results to differ from these forward-looking statements include, but are not limited to, assumptions, risks and uncertainties associated with: 
+
+the risk factors discussed in Part I, Item 1A  Risk Factors  included in our Annual Report on Form 10-K for the year ended December 31, 2017 and in Part II, Item 1A  Risk Factors  in this report; 
+
+the occurrence of any event, change or other circumstances that could give rise to the termination of the Merger Agreement (as hereinafter defined)  
+
+the risk that our stockholders may not adopt the Merger Agreement  
+
+the risk that the necessary regulatory approvals, if any, for the proposed Tidewater Merger may not be obtained or may be obtained subject to conditions that are not anticipated  
+
+risks that any of the closing conditions to the proposed Tidewater Merger may not be satisfied in a timely manner  
+
+risks related to disruption of management time from ongoing business operations due to the proposed Tidewater Merger  
+
+risks related to our incurrence of transaction and related costs in connection with the proposed Tidewater Merger, which may be greater than we anticipate; 
+
+failure to realize the benefits expected from the proposed Tidewater Merger  
+
+the effect of the announcement of the proposed Tidewater Merger on our ability to retain customers and retain key personnel and maintain relationships with suppliers  
+
+the effect of the announcement of the proposed Tidewater Merger on the trading prices of our securities and on our operating results and business generally  
+
+potential litigation in connection with the proposed Tidewater Merger  
+
+operational risk; 
+
+volatility in oil and natural gas prices or significant and sustained or additional declines in oil and natural gas prices; 
+
+sustained weakening of demand for our services; 
+
+general economic and business conditions; 
+
+the business opportunities that may be presented to and pursued or rejected by us; 
+
+insufficient access to sources of liquidity; 
+
+5
+
+changes in law or regulations including, without limitation, changes in tax laws; 
+
+fewer than anticipated deepwater and ultra-deepwater drilling units operating in the Gulf of Mexico, the North Sea, offshore Southeast Asia or in other regions in which we operate; 
+
+unanticipated difficulty in effectively competing in or operating in international markets; 
+
+the level of fleet additions by us and our competitors that could result in overcapacity in the markets in which we compete; 
+
+advances in exploration and development technology; 
+
+dependence on the oil and natural gas industry; 
+
+drydocking delays or cost overruns on construction projects or insolvency of shipbuilders; 
+
+inability to accurately predict vessel utilization levels and day rates; 
+
+lack of shipyard or equipment availability; 
+
+unanticipated customer suspensions, cancellations, rate reductions or non-renewals; 
+
+uncertainty caused by the ability of customers to cancel some long-term contracts for convenience; 
+
+further reductions in capital expenditure budgets by customers; 
+
+ongoing capital expenditure requirements; 
+
+uncertainties surrounding deepwater permitting and exploration and development activities; 
+
+risks relating to our compliance with the Jones Act with respect to the U.S. citizenship requirements, and risks relating to the repeal, amendment or administrative weakening of the Jones Act or changes in the interpretation of the Jones Act; 
+
+uncertainties surrounding environmental and government regulations that could result in reduced exploration and production activities or that could increase our operations costs and operating requirements; 
+
+catastrophic or adverse sea or weather conditions; 
+
+risks of foreign operations, risk of war, sabotage, piracy, cyber-attack or terrorism; 
+
+public health threats; 
+
+disagreements with our joint venture partners; 
+
+assumptions concerning competition; 
+
+risks relating to leverage, including potential difficulty in maintaining compliance with covenants in our material debt or other obligations; 
+
+risks of currency fluctuations; and 
+
+the shortage of or the inability to attract and retain qualified personnel. 
+
+These statements are based on certain assumptions and analyses made by us in light of our experience and perception of historical trends, current conditions, expected future developments and other factors we believe are appropriate under the circumstances. There can be no assurance that we have accurately identified and properly weighed all of the factors that affect market conditions and demand for our vessels, that the information upon which we have relied is accurate or complete, that our analysis of the market and demand for our vessels is correct or that the strategy based on such analysis will be successful. 
+
+The risks and uncertainties included here are not exhaustive. Other sections of this report and our other filings with the Securities and Exchange Commission, or SEC, include additional factors that could adversely affect our business, results of operations and financial performance. Given these risks and uncertainties, investors should not place undue reliance on forward-looking statements. Forward-looking statements included in this report are based only on information currently available to us and speak only as of the date of this report. We expressly disclaim any obligation or undertaking to release publicly any updates or revisions to any forward-looking statement to reflect any change in our expectations or beliefs with regard to the statement or any change in events, conditions or circumstances on which any forward-looking statement is based. In addition, in certain places in this report, we may refer to reports published by third parties that purport to describe trends or developments in energy production and drilling and exploration activity. While we believe that each of these reports is reliable, we have not independently verified the information included in such reports. We specifically disclaim any responsibility for the accuracy and completeness of such information and undertake no obligation to update such information. 
+
+6
+
+PART I. FINANCIAL INFORMATION  
+
+ITEM 1. FINANCIAL STATEMENTS  
+
+GULFMARK OFFSHORE, INC. AND SUBSIDIARIES  
+
+UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS  
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+7
+
+GULFMARK OFFSHORE, INC. AND SUBSIDIARIES  
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS   
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+8
+
+GULFMARK OFFSHORE, INC. AND SUBSIDIARIES  
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS  
+
+(In thousands)  
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+9
+
+GULFMARK OFFSHORE, INC. AND SUBSIDIARIES  
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDERS  EQUITY  
+
+For the Six Months Ended June 30, 2018  
+
+(In thousands)  
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+10
+
+GULFMARK OFFSHORE, INC. AND SUBSIDIARIES  
+
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS  
+
+(In thousands)  
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+11
+
+GULFMARK OFFSHORE, INC. AND SUBSIDIARIES  
+
+  NOTES TO   UNAUDITED   CONDENSED CONSOLIDATED   
+
+  FINANCIAL STATEMENTS  
+
+(1)   
+
+GENERAL INFORMATION  
+
+Organization and Nature of Operations  
+
+The condensed consolidated financial statements of GulfMark Offshore, Inc. and its subsidiaries included herein have been prepared by us without audit, pursuant to the rules and regulations of the Securities and Exchange Commission, or SEC. Unless otherwise indicated, references to  we ,  us ,  our  and the  Company  refer collectively to GulfMark Offshore, Inc. and its subsidiaries. Certain information relating to our organization and footnote disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP, has been condensed or omitted in this Quarterly Report on Form 10-Q pursuant to such rules and regulations. However, we believe that the disclosures herein are adequate to make the information presented not misleading. The consolidated balance sheet as of December 31, 2017 has been derived from the audited financial statements at that date but does not include all of the information and footnotes required by U.S. GAAP for complete financial statements. It is recommended that these financial statements be read in conjunction with our consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2017. 
+
+In the opinion of management, all adjustments, which include reclassification and normal recurring adjustments, necessary to present fairly the unaudited condensed consolidated financial statements for the periods indicated, have been made. All significant intercompany accounts have been eliminated. Certain reclassifications of previously reported information may be made to conform to current year presentation. 
+
+We provide marine support and transportation services to companies involved in the offshore exploration and production of oil and natural gas. Our vessels transport drilling materials, supplies and personnel to offshore facilities, and also move and position drilling structures. The majority of our operations are conducted in the North Sea, offshore Southeast Asia and the Americas. We also operate our vessels in other regions to meet our customers  requirements. 
+
+On May 17, 2017, GulfMark Offshore, Inc. filed a voluntary petition, or the Chapter 11 Case, under chapter 11 of title 11 of the United States Code in the United States Bankruptcy Court for the District of Delaware, or the Bankruptcy Court. On October 4, 2017, the Bankruptcy Court entered an order approving our Amended Chapter 11 Plan of Reorganization, as confirmed, or the Plan. On November 14, 2017, or the Effective Date, the Plan became effective pursuant to its terms and we emerged from the Chapter 11 Case. 
+
+12
+
+On the Effective Date, we adopted and applied the relevant guidance with respect to the accounting and financial reporting for entities that have emerged from bankruptcy proceedings, or Fresh Start Accounting, in connection with our emergence from bankruptcy. Upon emergence from the Chapter 11 Case, we qualified for and adopted Fresh Start Accounting in accordance with the provisions set forth in Financial Accounting Standards Board, or FASB, Accounting Standards Codification, or ASC, No. 852,  Reorganizations  as (i) holders of existing shares of the Predecessor (as defined below) immediately before the Effective Date received less than 50 percent of the voting shares of the Successor (as defined below) entity and (ii) the reorganization value of the Successor was less than its post-petition liabilities and estimated allowed claims immediately before the Effective Date. Under Fresh Start Accounting, our balance sheet on the date of emergence reflects all of our assets and liabilities at their fair values. Our emergence and the adoption of Fresh Start Accounting resulted in a new reporting entity, or the Successor, for financial reporting purposes. To facilitate our discussion and analysis of our vessels, financial condition and results of operations herein, we refer to the reorganized company as the Successor for periods subsequent to November 14, 2017 and the Predecessor for periods prior to November 15, 2017. In addition, we adopted new accounting policies related to drydock expenditures and depreciation of our long-lived assets. As a result, our consolidated financial statements and the accompanying notes thereto after November 14, 2017 are not comparable to our consolidated financial statements and the accompanying notes thereto prior to November 15, 2017. Our presentations herein include a  black line  division to delineate and reinforce this lack of comparability. The effects of the Plan and the application of Fresh Start Accounting were reflected in the consolidated balance sheet as of November 14, 2017, and the related adjustments thereto were recorded in the consolidated statement of operations for the Predecessor period ended November 14, 2017. 
+
+On July 15, 2018, GulfMark Offshore, Inc. entered into an Agreement and Plan of Merger, or the Merger Agreement, with Tidewater Inc., or Tidewater. As provided in the Merger Agreement, a to-be-formed wholly-owned subsidiary corporation of Tidewater will merge with and into GulfMark Offshore, Inc., resulting in GulfMark Offshore, Inc. becoming a wholly-owned subsidiary of Tidewater, or the First Merger. Immediately thereafter, Tidewater will cause GulfMark Offshore, Inc. to merge into a to-be-formed wholly-owned subsidiary limited liability company, or NewCo, with NewCo continuing as a wholly-owned subsidiary of Tidewater, or the Second Merger and, together with the First Merger, the Tidewater Merger. The Tidewater Merger is subject to approval by the stockholders of both entities and certain other conditions and, if approved, is expected to close in the fourth quarter of 2018, subject to possible extension under circumstances described in the Merger Agreement. See Note 8. 
+
+Revenue Recognition   
+
+We adopted ASC 606,  Revenue from Contracts with Customers,  or ASC 606, as of January 1, 2018. We applied ASC 606 retrospectively after the Effective Date of our emergence from bankruptcy on November 14, 2017 using the following practical expedients allowed by the standard: 
+
+For reporting periods prior to January 1, 2018, we did not disclose the transaction price allocated to any remaining performance obligations related to open contracts as of December 31, 2017 or our expected timing on revenue recognition. 
+
+The adoption of ASC 606 primarily resulted in an immaterial change in the classification of reimbursable expenses we incurred on behalf of our customers. Prior to the adoption of ASC 606 the reimbursable revenues recognized and expenses incurred on behalf of our customers were classified on a gross basis in the statement of operations. After adopting ASC 606 only the fee that we earn is recorded as revenue. 
+
+13
+
+Revenue is measured based on the consideration specified in a contract with a customer. Our charter hire contracts contain a single performance obligation. We generate revenue by providing a specific vessel along with a crew that both operates and maintains the vessel contracted by the customer and supports the offshore activities of the customer. In exchange we receive a daily contractual charter rate. Currently, contractual charter terms range from several days to five years. We recognize revenue over time as the customer simultaneously receives and consumes the benefits of the offshore marine support services we provide. Generally, our right to consideration from our customers corresponds directly with the value to the customer of our performance to date for substantially all our revenues. Accordingly, we usually recognize revenue as invoiced for vessel charter services. Payments for services rendered do not have a financing component as they are typically due from the customer within 30 to 45 days from the invoice date. 
+
+Taxes assessed by a governmental authority related to specific revenue producing transactions and collected by us from customers are excluded from revenue. We operate our business in three segments (see Note 7): the North Sea, Southeast Asia and the Americas. Revenue in each of these segments is provided below. 
+
+In the North Sea, we manage three vessels for third-party owners and receive a fee for providing support services ranging from chartering assistance to full operational management. These managed vessels only provide a small direct financial contribution and are included in the North Sea revenues under management fees and reimbursables. 
+
+Costs of obtaining contracts   -  We expense the incremental costs of obtaining contracts when incurred if the amortization period of the assets that we otherwise would have recognized is one year or less. The incremental costs of obtaining charter hire contracts that have greater than a one-year term are deferred and amortized over the term of the related charter hire contract. As of June 30, 2018, we have not deferred any incremental costs of obtaining contracts. 
+
+Costs of fulfilling contracts          We immediately expense the cost of fulfilling contracts unless these costs: (i) relate directly to an existing contract; (ii) generate or enhance resources that will be used to satisfy performance obligations in the future; and (iii) are expected to be recovered. As of June 30, 2018, we have not deferred any contract fulfillment costs. 
+
+14
+
+Contract assets and liabilities   -  We occasionally receive an upfront fee (mobilization fee) to cover the costs associated with moving the vessel and crew to the operating location and its return. These fees are recorded as a contract liability and amortized over the term of the related contract. We received $61,000 in upfront fees during the three- and six-month periods ended June 30, 2018 which were amortized over the term of the related contract. 
+
+Cash Flow   Statement  
+
+In November 2016, the FASB issued Accounting Standards Update, or ASU, 2016-18,  Statement of Cash Flows (Topic 230):  Restricted Cash.   ASU 2016-18 requires that a statement of cash flows explain the change during the period in the combined total of cash, cash equivalents, and amounts generally described as restricted cash or restricted cash equivalents.  Under the new standard, cash, cash equivalents, restricted cash and restricted cash equivalents are combined and the beginning-of-period and end-of-period combined totals are reconciled on the statement of cash flows.  We adopted ASU 2016-18 as of January 1, 2018 and applied it retrospectively to the periods presented in our condensed consolidated statements of cash flows.  Our December 31, 2017 condensed consolidated balance sheet included restricted cash of $3.5 million under  Deferred costs and other assets  related primarily to cash-backed performance bonds associated with two vessels operating in our Americas segment. These performance bonds were released during the first quarter of 2018 and there is no restricted cash on our condensed consolidated balance sheet as of June 30, 2018. In addition, there were no restricted cash balances on our condensed consolidated balance sheets at the beginning or at the end of the six-month period ended June 30, 2017. The adoption of ASU 2016-18 resulted in a $3.5 million increase in net cash used in operating activities for the six months ended June 30, 2018. 
+
+Earnings Per Share  
+
+Basic Earnings Per Share, or EPS, is computed by dividing net income (loss) by the weighted average number of shares of our common stock, par value $0.01 per share, or Common Stock, outstanding during the period. Diluted EPS is computed using the treasury stock method for Common Stock equivalents. 
+
+(  2  )   
+
+VESSEL ACQUISITIONS AND DISPOSITIONS  
+
+Interest is capitalized in connection with the construction of vessels. During the six months ended June 30, 2017, the Predecessor capitalized $0.1 million of interest. We had no vessels under construction during the three- and six-month periods ended June 30, 2018. 
+
+During the first quarter of 2017, the Predecessor took delivery of a vessel built in Norway and paid a final installment on delivery of 195.0 million Norwegian Kroner, or NOK (approximately $23.1 million). In March 2017, the Predecessor sold two fast supply vessels and recorded combined losses on sales of assets of $5.3 million. We had no vessel additions or dispositions during the six months ended June 30, 2018 and had no vessels under construction at June 30, 2018. 
+
+15
+
+Our debt at June 30, 2018 and December 31, 2017 consisted of the following: 
+
+The following is a summary of scheduled debt maturities by year: 
+
+Term Loan and Revolving Credit Facilities  
+
+On November 14, 2017, GulfMark Rederi AS, or Rederi, a subsidiary of GulfMark Offshore, Inc., entered into an agreement, or the Credit Facility Agreement, with DNB Bank ASA, New York Branch, as agent, DNB Capital LLC as revolving and swingline lender, and certain funds managed by Hayfin Capital Management LLP as term lenders, providing for two credit facilities: a senior secured revolving credit facility, or the Revolving Credit Facility, and a senior secured term loan facility, or the Term Loan Facility (or, together, the Facilities). The Revolving Credit Facility provides $25.0 million of borrowing capacity, including $12.5 million for swingline loans and $5.0 million for letters of credit. The Term Loan Facility provides a $100.0 million term loan, which was funded in full on November 14, 2017. Borrowings under the Revolving Credit Facility may be denominated in U.S. Dollars, NOK, British Pounds Sterling and Euros. Both Facilities mature on November 14, 2022. 
+
+Our costs incurred to negotiate and close the Credit Facility Agreement totaled $9.8 million. These costs are deferred and amortized into interest expense in our consolidated statements of operations. We attributed $7.8 million of the debt issuance costs to the Term Loan Facility. These costs are amortized into interest expense using the effective interest method. The unamortized cost, which totaled $6.8 million at June 30, 2018 and $7.6 million at December 31, 2017, is presented in our consolidated balance sheets and in the debt table above as an offset to our Term Loan Facility borrowing. We attributed $2.0 million of the debt issuance costs to the Revolving Credit Facility. These costs are amortized into interest expense using the straight-line method over the term of the agreement. The unamortized cost, which totaled $1.8 million at June 30, 2018 and $1.7 million at December 31, 2017, is presented in our consolidated balance sheets in  Deferred costs and other assets.  
+
+16
+
+Borrowings under the Facilities accrue interest on U.S. Dollar borrowings at our option using either (i) the adjusted U.S. prime rate plus 5.25% or (ii) the LIBOR Rate plus 6.25%. NOK loans substitute LIBOR with an adjusted Norwegian offered quotation rate for deposits in NOK and Euro loans substitute LIBOR with an adjusted euro interbank offered rate administered by the European Money Markets Institute. 
+
+At June 30, 2018, we had $100.0 million in borrowings outstanding under the Term Loan Facility and no loans outstanding under the Revolving Credit Facility. At June 30, 2018, we had an aggregate of $1.6 million of letters of credit outstanding and $23.4 million of unused borrowing capacity under the Revolving Credit Facility. At June 30, 2018, our weighted average interest rate on borrowings under the Term Loan Facility was 8.59%. 
+
+Repayment of borrowings under the Facilities is guaranteed by GulfMark Offshore, Inc. and each of its significant subsidiaries (or, collectively with Rederi, the Obligors), and is secured by a lien on 27 collateral vessels, or the Collateral Vessels, and substantially all other assets of the Obligors. Commitments under the Revolving Credit Facility will be reduced beginning on November 14, 2020 in semiannual increments of approximately $3.1 million until maturity. The Term Loan Facility is payable in semiannual installments beginning on November 14, 2020 and based on a five-year level principal payment schedule, payable semiannually.  
+
+Term Loan Facility prepayments prior to November 14, 2019 are subject to a make-whole premium based on the present value of interest otherwise payable from the prepayment date forward. Prepayments on or after November 14, 2019 and prior to November 14, 2020 are subject to a 2% premium. Mandatory prepayments, other than those triggered by a casualty event, are subject to prepayment premiums. Mandatory prepayments are required upon the occurrence of certain events including, but not limited to, a change of control or the sale or total loss of a Collateral Vessel. Prepayments of the Revolving Credit Facility are not materially restricted or penalized.  
+
+The Credit Facility Agreement was evaluated for embedded derivatives that must be bifurcated and separately accounted for as freestanding derivatives. The nature of any embedded features must be analyzed to determine whether each feature requires bifurcation by both (1) meeting the definition of a derivative and (2) not being considered clearly and closely related to the host contract. We have identified three features in the Credit Facility Agreement that are considered embedded derivatives. There is a contingent interest feature related to default interest, a breakage costs potential not related to prepayments, and certain potential contingent payments related to increased costs caused by changes in law. We determined that the value of these features are de minimis at the inception of the agreement and as of June 30, 2018. We do not foresee events that would require a value adjustment in our consolidated financial statements. We will continue to assess the likelihood of triggering events and to the extent they are determined to be material, these features will be bifurcated from the debt instrument and subsequently marked to fair value in our consolidated statements of operations. 
+
+The Credit Facility Agreement contains financial covenants that require that we maintain: (i) minimum liquidity of $30.0 million, including $15.0 million in cash, (ii) a leverage ratio (total debt to 12 months EBITDA) of not more than 5.0 to 1.0, tested quarterly beginning December 31, 2020, (iii) a total debt to capital ratio, tested quarterly, not to exceed 0.45 to 1.0, and (iv) a collateral to commitment coverage ratio of at least 2.50 to 1.0. The Credit Facility Agreement contains a number of restrictions that limit our ability to, among other things, sell Collateral Vessels, borrow money, make investments, incur additional liens on assets, buy or sell assets, merge, or pay dividends and contains a number of potential events of default related to our business, financial condition and vessel operations. Collateral Vessel operations are also subject to a variety of restrictive provisions. Proceeds from borrowings under the Credit Facility Agreement may not be used to acquire vessels or finance business acquisitions generally. At June 30, 2018, we were in compliance with all of the financial covenants under the Credit Facility Agreement. 
+
+17
+
+(  4  )   
+
+INCOME TAXES   
+
+Our estimated annual effective tax rate, adjusted for discrete tax items, is applied to interim periods  pretax income (loss). Our estimated annual effective tax rate includes the recognition of a valuation allowance on our deferred tax assets. The total tax benefit for the first six months of 2018 was $0.7 million. 
+
+On December 22, 2017, the statute originally named the Tax Cuts and Jobs Act, or the 2017 Tax Act, was signed into law making significant changes to the Internal Revenue Code, including reducing the corporate tax rate from 35% to 21%, establishing a dividends received deduction for dividends paid by foreign subsidiaries to U.S. subsidiaries, eliminating or limiting certain deductions (interest, domestic production activities and executive compensation), imposing a mandatory tax on previously unrepatriated earnings accumulated offshore since 1986 and establishing global minimum income tax and base erosion tax provisions related to offshore activities and affiliated party payments. As a result of the tax reform, we recorded a provisional deferred tax benefit at December 31, 2017 of $15.2 million in connection with the one-time transition tax on foreign earnings and profits and the remeasurement of certain deferred tax assets and liabilities. In accordance with current SEC guidance we will report the impact of final provisional amounts in the reporting period in which the accounting is completed, which will not exceed one year from the date of enactment of the tax reform. 
+
+As of June 30, 2018, we have not completed the accounting for any of the tax effects of the tax reform described above and there have been no material changes to our estimated amounts. Accordingly, there has been no change to the provisional amounts previously recorded and there is no impact to the June 30, 2018 effective tax rate for such provisional amounts. 
+
+(  5  )   
+
+COMMITMENTS AND CONTINGENCIES  
+
+We execute letters of credit, performance bonds and other guarantees in the normal course of business that ensure our performance or payments to third parties. The aggregate notional value of these instruments was $1.6 million as of June 30, 2018 and $3.2 million as of December 31, 2017. In the past, no significant claims have been made against these financial instruments. We believe the likelihood of demand for payment under these instruments is remote and expect no material cash outlays to occur from these instruments. 
+
+We have contingent liabilities and future claims for which we have made estimates of the amount of the eventual cost to liquidate these liabilities or claims. These liabilities and claims may involve threatened or actual litigation where damages have not been specifically quantified but we have made an assessment of our exposure and recorded a provision in our accounts for the expected loss. We intend to defend these matters vigorously; however, litigation is inherently unpredictable, and the ultimate outcome or effect of such lawsuits and actions cannot be predicted with certainty. As a result, there can be no assurance as to the ultimate outcome of these lawsuits. Any claims against us, whether meritorious or not, could cause us to incur costs and expenses, require significant amounts of management time and result in the diversion of significant operations resources. Other claims or liabilities, including those related to taxes in foreign jurisdictions, may be estimated based on our experience in these matters and, where appropriate, the advice of outside counsel or other outside experts. Upon the ultimate resolution of the uncertainties surrounding our estimates of contingent liabilities and future claims, our future reported financial results will be impacted by the difference, if any, between our estimates and the actual amounts paid to settle the liabilities. In addition to estimates related to litigation and tax liabilities, other examples of liabilities requiring estimates of future exposure include contingencies arising out of acquisitions and divestitures. We determine our contingent liabilities based on the most recent information available to us at the time of such determination regarding the nature of the exposure. Such exposures may change from period to period based upon updated relevant facts and circumstances, which can cause the estimates to change. In the recent past, our estimates for contingent liabilities have been sufficient to cover the actual amount of our exposure. We do not believe that the outcome of these matters will have a material adverse effect on our business, financial condition, or results of operations. 
+
+18
+
+(  6  )   
+
+NEW ACCOUNTING PRONOUNCEMENTS  
+
+In   February 2016, the FASB issued ASU 2016-02,  Leases  to increase transparency and comparability among organizations by recognizing all leases on the balance sheet and disclosing key information about leasing arrangements. In January 2018, the FASB issued a Proposed ASU to provide targeted improvements to ASU 2016-02, which (i) provides for a new transition method whereby companies may elect to adopt ASU 2016-02 prospectively in the period of adoption and (ii) provides lessors with a practical expedient not to separate non-lease and lease components. The main difference between current accounting standards and ASU   2016-02 is the recognition of assets and liabilities by lessees for those leases classified as operating leases under current accounting standards. While we are continuing to assess all potential impacts of these standards, we expect the measurement and recording of our revenues related to the offshore marine support and transportation services to remain substantially unchanged. However, the actual revenue recognition treatment required under the new standard   may be dependent on contract-specific terms and may vary in some instances. With respect to leases where we are the lessee, we expect to recognize right of use assets and lease liabilities for these leases. The new standard is effective for fiscal years beginning after December 15, 2018. We intend to adopt the new lease standard on January 1, 2019. 
+
+In August 2016, the FASB issued ASU 2016-15,  Statement of Cash Flows Classification of Certain Cash Receipts and Cash Payments.  The objective of the new standard is to eliminate diversity in practice related to the classification of certain cash receipts and payments by adding or clarifying guidance on eight classification issues related to the statement of cash flows. This standard is effective for annual and interim periods in fiscal years beginning after December 15, 2017. The adoption of this standard on January 1, 2018 did not have a material effect on our financial condition or results of operations. The standard was applied retrospectively to all periods presented. 
+
+In October 2016, the FASB issued ASU 2016-16,  Income Taxes, Intra-Entity Transfers of Assets Other Than Inventory.  This standard requires recognition of tax consequences in the period in which a transfer takes place, with the exception of inventory transfers. There will be an immediate effect on earnings if the tax rates in the tax jurisdictions of the selling entity and buying entity are different. The adoption of this standard on January 1, 2018 did not have a material effect on our financial condition or results of operations. 
+
+In January 2017, the FASB issued ASU 2017-01,  Business Combinations - Clarifying the Definition of a Business  to clarify the definition of a business with the objective of adding guidance to assist entities with evaluating whether transactions should be accounted for as acquisitions (or disposals) of assets or businesses. The definition of a business affects many areas of accounting including acquisitions, disposals, goodwill and consolidation. The adoption of this standard on January 1, 2018 did not have a material effect on our financial condition or results of operations. 
+
+In March 2017, the FASB issued ASU 2017-07,  Compensation-Retirement Benefits,  to improve statement of operations presentation of the components of the net periodic pension cost related to defined benefit plans. The adoption of this standard on January 1, 2018 did not have a material effect on our financial condition or results of operations. 
+
+19
+
+(  7  )     
+
+OPERATING SEGMENT INFORMATION  
+
+We operate three segments: the North Sea, Southeast Asia and the Americas, each of which is considered a reportable segment under FASB ASC 280,  Segment Reporting.  Our management evaluates segment performance primarily based on operating income. Cash and debt are managed centrally. Because the regions do not manage those items, the gains and losses on foreign currency remeasurements associated with these items are excluded from operating income. Our management considers segment operating income to be a good indicator of each segment s operating performance from its continuing operations, as it represents the results of the ownership interest in operations without regard to financing methods or capital structures. Each operating segment s operating income (loss) is summarized in the following table. 
+
+20
+
+(8)   
+
+SUBSEQUENT EVENT  
+
+On July 15, 2018, GulfMark Offshore, Inc. entered into the Merger Agreement with Tidewater whereby GulfMark Offshore, Inc. will become a wholly-owned subsidiary of Tidewater. Upon consummation of the Tidewater Merger, each issued and outstanding share of our Common Stock, other than any shares held in treasury, will be converted into the right to receive 1.100, or the Exchange Ratio, shares of Tidewater common stock, par value $0.001 per share, or Tidewater Common Stock. At the effective time of the Tidewater Merger, each of our outstanding warrants, or the GulfMark Warrants, will be converted automatically into a warrant representing a right to acquire Tidewater Common Stock, subject to Jones Act limitations on the foreign ownership of Tidewater, except that the number of shares of Tidewater Common Stock subject to such GulfMark Warrant will be adjusted to reflect the Exchange Ratio as provided in the Merger Agreement. The consummation of the Tidewater Merger is subject to, among other things, the adoption of the Merger Agreement by our stockholders and the approval of the share issuance by the stockholders of Tidewater and, if approved, the Tidewater Merger is expected to close in the fourth quarter of 2018, subject to possible extension under circumstances described in the Merger Agreement. 
+
+The Merger Agreement provides that we and Tidewater may mutually agree to terminate the Merger Agreement before completion and that one party may be required to pay a termination fee to the other party ($35 million by Tidewater to us or $13 million by us to Tidewater) under certain circumstances. 
+
+21
+
+ITEM 2.       MANAGEMENT S DISCU  SSION AND ANALYSIS OF FINANCIAL   CONDITION AND RESULTS OF OPERATIONS  
+
+The following discussion should be read in conjunction with our unaudited condensed consolidated financial statements (including the notes thereto) and Item 1A,  Risk Factors  included elsewhere in this report and our audited consolidated financial statements and the notes thereto, Item 7,  Management s Discussion and Analysis of Financial Condition and Results of Operations  and Item 1A,  Risk Factors  included in our Annual Report on Form 10-K for the year ended December 31, 2017. Unless otherwise indicated, references to  we,   us,   our  and the  Company  refer collectively to GulfMark Offshore, Inc., a Delaware corporation, and its subsidiaries. 
+
+On May 17, 2017, GulfMark Offshore, Inc. filed a voluntary petition, or the Chapter 11 Case, under chapter 11 of title 11 of the United States Code, or the Bankruptcy Code, in the United States Bankruptcy Court for the District of Delaware, or the Bankruptcy Court. On October 4, 2017, the Bankruptcy Court entered an order, or the Confirmation Order, approving our Amended Chapter 11 Plan of Reorganization, as confirmed, or the Plan. On November 14, 2017, or the Effective Date, the Plan became effective pursuant to its terms and we emerged from the Chapter 11 Case. 
+
+Recent Developments   
+
+On July 15, 2018, GulfMark Offshore, Inc. entered into an Agreement and Plan of Merger, or the Merger Agreement, with Tidewater Inc., or Tidewater. As provided in, and subject to the terms and conditions of, the Merger Agreement, GulfMark Offshore, Inc. will become a wholly-owned subsidiary of Tidewater, or the Tidewater Merger. The Tidewater Merger is expected to close in the fourth quarter of 2018, subject to possible extension under circumstances described in the Merger Agreement. 
+
+Upon consummation of the Tidewater Merger, each issued and outstanding share of our common stock, par value $0.01 per share, or Common Stock, other than any shares held in treasury, will be converted into the right to receive 1.100, or the Exchange Ratio, shares of Tidewater common stock, par value $0.001 per share, or Tidewater Common Stock. At the effective time of the Tidewater Merger, each of our outstanding warrants, or the GulfMark Warrants, will be converted automatically into a warrant representing a right to acquire Tidewater Common Stock, subject to Jones Act limitations on the foreign ownership of Tidewater, except that the number of shares of Tidewater Common Stock subject to such GulfMark Warrant will be adjusted to reflect the Exchange Ratio as provided in the Merger Agreement. In addition, all of our restricted stock units that are outstanding as of the effective time of the Tidewater Merger, or the GulfMark Rollover RSUs, will be converted automatically into a substantially similar award for Tidewater Common Stock, with the number of shares of Tidewater Common Stock subject to such GulfMark Rollover RSUs being adjusted in accordance with the Exchange Ratio. 
+
+The consummation of the Tidewater Merger and the other transactions contemplated by the Merger Agreement, which we refer to collectively as the Transactions, is subject to the satisfaction or waiver of certain customary conditions including, among things, the adoption of the Merger Agreement by our stockholders and the approval of the share issuance by the stockholders of Tidewater. The Merger Agreement provides that we and Tidewater may mutually agree to terminate the Merger Agreement before completing the Transactions and further provides that one party may be required to pay a termination fee to the other party ($35 million by Tidewater to us or $13 million by us to Tidewater) if the Transactions are not consummated under certain circumstances. See Item 1A,  Risk Factors  in Part II of this report. 
+
+22
+
+General  
+
+We provide marine support and transportation services to companies involved in the offshore exploration and production of oil and natural gas. Our vessels transport drilling materials, supplies and personnel to offshore facilities, and also move and position drilling structures. A substantial portion of our operations is international. Our fleet has grown in both size and capability, from 11 vessels in 1990 to our present number of 69 vessels, through strategic acquisitions and the new construction of technologically advanced vessels, partially offset by dispositions of certain older, less profitable vessels. As of August 13, 2018, our fleet included 66 owned vessels, 34 of which were stacked, and three managed vessels, none of which were stacked. 
+
+Our results of operations are affected primarily by day rates, fleet utilization and the number and type of vessels in our fleet. Utilization and day rates, in turn, are influenced principally by the demand for vessel services from the offshore exploration and production sectors of the oil and natural gas industry. The supply of vessels to meet this fluctuating demand is related directly to the perception of future activity in both the drilling and production phases of the oil and natural gas industry as well as the availability of capital to build new vessels to meet the changing market requirements. As discussed below, the decline in the price of oil since 2014 has materially and negatively impacted our results of operations. 
+
+We also provide management services to other vessel owners for a fee. Management fees are included in revenue. These vessels are excluded for purposes of calculating fleet rates per day worked and utilization in the applicable periods. 
+
+The operations of our fleet may be subject to seasonal factors. Operations in the North Sea are often at their highest levels from April to August and at their lowest levels from October through February. Operations in our other areas, although involving some seasonal factors, tend to remain more consistent throughout the year. Activity in the U.S. Gulf of Mexico may be slower during the hurricane season from June through November, although following a hurricane, activity may increase as there may be a greater demand for vessel services as repair and remediation activities take place. 
+
+Our operating costs are primarily a function of fleet configuration. The most significant direct operating cost is wages paid to vessel crews, followed by repairs and maintenance. Generally, fluctuations in vessel utilization have little effect on direct operating costs in the short term and, as a result, direct operating costs as a percentage of revenue may vary substantially due to changes in day rates and utilization. 
+
+In addition to direct operating costs, we incur fixed charges related to the depreciation of our fleet, modifications designed to ensure compliance with applicable regulations and maintaining certifications for our vessels with various international classification societies. The demands of the market, the expiration of existing contracts, the commencement of new contracts, seasonal factors and customer preferences can influence the timing of drydocks to some extent. As a result of the current market downturn, we have taken some vessels out of service (also referred to as stacking) and deferred a number of drydocks as part of our cost cutting initiatives. The deferred drydocks will eventually be required to be performed prior to returning the vessels to active service. 
+
+23
+
+O  il Price Impact  
+
+Our business is directly impacted by the level of activity in worldwide offshore oil and natural gas exploration, development and production, which in turn is influenced by trends in oil and natural gas prices. In addition, oil and natural gas prices are affected by a host of geopolitical and economic forces, including the fundamental principles of supply and demand. In particular, the oil price is significantly influenced by actions of the Organization of Petroleum Exporting Countries, or OPEC. Beginning in late 2014, the oil and gas industry experienced a significant decline in the price of oil that continued into early 2016 with the oil price dipping to less than $30 per barrel and causing an industry-wide downturn. Prices have gradually recovered since early 2016 to recent levels of approximately $70 per barrel as of the date of this report, although prices are subject to significant uncertainty and have continued to fluctuate below such level. The downturn significantly impacted the operational plans for oil companies, resulting in reduced expenditures for exploration and production activities, and consequently has adversely affected the drilling and support service sector and has materially and adversely affected our results of operations and our financial position. 
+
+Markets  
+
+North Sea . We continue to expect significant activity in the North Sea region during the remainder of 2018. We also expect the continued focus on operator savings and oversupply of offshore supply vessels, or OSVs, to adversely impact vessel day rates. Although cost efficiencies are currently a priority of operators, we believe the North Sea region remains viable long-term with several large field developments in the United Kingdom and Norwegian sectors forecasted by industry analysts, along with decommissioning work and projects in the renewables sector. We expect these factors, combined with an upturn in drilling in remote northerly areas such as the Barents Sea, Kara Sea and offshore Greenland, to drive demand in the North Sea region in the coming years, although we can provide no assurance as to when these developments may occur. 
+
+Southeast Asia . The Southeast Asia resource basin consists predominantly of shallow water mature fields where production drilling is expected to continue throughout 2018. It is apparent that operators, both national oil companies and independent operators, are experiencing significant pressure to reduce their costs in light of depressed oil prices and as a result their capital expenditure budgets may continue to fall. As of the date of this report, we generally expect exploration drilling activities to remain at current levels throughout 2018 in the Southeast Asian markets, resulting in a continuation of current market conditions for anchor handling, towing and support vessels, or AHTSs, although further declines in commodity prices or reductions of operators  capital budgets would result in additional downward pressure on drilling activities in this region, and therefore on market conditions for AHTSs. 
+
+Americas .   During 2017 and the first half of 2018, we continued to experience pressure on our utilization and day rates in the Americas in all areas in which we operate. We do not expect the market in the Americas operating segment to recover to any great extent in 2018, but we do expect increased activity compared to 2017 levels. In December 2013, Mexico s Congress approved a constitutional reform to allow private investment in Mexico s energy sector which effectively ended the state controlled (Petr leos Mexicanos) 75-year monopoly on oil and natural gas extraction and production. We anticipate Mexico to be a growing market for expanded deepwater activity when market conditions improve. We plan to continue to actively pursue opportunities in the area as they arise. 
+
+24
+
+Critical Accounting Policies   
+
+There have been no changes to the critical accounting policies used in our reporting of results of operations and financial position. For a discussion of our critical accounting policies see  Management s Discussion and Analysis of Financial Condition and Results of Operations   Critical Accounting Policies and Estimates  in our Annual Report on Form 10-K for the year ended December 31, 2017. 
+
+Results of Operations   
+
+The table below sets forth, by region, the average day rates and utilization for our vessels and the average number of vessels owned or chartered during the periods indicated. This fleet generates substantially all of our revenues and operating income or loss. We use the information that follows to evaluate the performance of our business. 
+
+(a) 
+
+Includes owned and managed vessels. 
+
+(b) 
+
+Revenues for vessels in the North Sea based fleet are primarily earned in British Pounds Sterling (GBP), Norwegian Kroner (NOK) and Euros, and have been converted to U.S. Dollars (US$) at the average exchange rate for the period. See  - Currency Fluctuations and Inflation  below for exchange rates. 
+
+(c) 
+
+Average rate per day worked is defined as total charter revenues divided by number of days worked. Overall utilization rate is defined as the total number of days worked divided by total number of days of availability in the period. 
+
+(d) 
+
+Average number of vessels is calculated based on the aggregate number of vessel days available during each period divided by the number of calendar days in such period. Includes owned vessels only and is adjusted for vessel additions and dispositions occurring during each period. 
+
+25
+
+C    omparison of the Three Months Ended     June 30    , 201    8     (Successor)     with the Three Months Ended     June 30    ,     201    7     (Predecessor)   
+
+For the Successor three months ended June 30, 2018, we had a net loss of $13.6 million, or $1.36 per diluted share, on revenues of $26.5 million. During the Predecessor three months ended June 30, 2017, we had a net loss of $40.5 million, or $1.58 per diluted share, on revenues of $24.6 million. 
+
+Our revenues for the quarter ended June 30, 2018 increased $1.8 million, or 7.4%, compared to the quarter ended June 30, 2017, mainly due to increased revenue in our North Sea and Americas regions. Average day rates increased from $8,697 during the second quarter of 2017 to $9,621 during the second quarter of 2018, resulting in a $2.0 million increase in revenue. The weakness of the U.S. Dollar was responsible for a further revenue increase of $0.9 million. Partially offsetting these increases was a decrease in utilization from 45.8% in the quarter ended June 30, 2017 to 45.3% in the quarter ended June 30, 2018, which caused a decrease in revenue of $1.1 million. 
+
+We had an operating loss of $9.6 million for the three months ended June 30, 2018, compared to a $30.7 million operating loss during the same period of 2017. Drydock expense decreased $1.7 million and depreciation and amortization expense decreased $4.6 million in the second quarter of 2018 compared to the second quarter of 2017. Both of these decreases are attributable to changes in accounting policies related to our adoption of the relevant guidance with respect to the accounting and financial reporting for entities that have emerged from bankruptcy proceedings, or Fresh Start Accounting. General and administrative expenses decreased $1.6 million in the second quarter of 2018 compared to the same period in 2017 largely due to a decrease in compensation-related expenses and bad debt expense during the 2018 quarter. In addition, during the second quarter of 2017 we recorded $11.9 million of pre-petition restructuring charges related to our bankruptcy filing and restructuring. Partially offsetting these decreases was an increase in direct operating expenses of $0.6 million, mainly due to an increase in wages during the second quarter of 2018. During the 2018 second quarter, we recognized a gain on sale of asset of $0.2 million related to the sale of vessel spare parts. 
+
+North Sea  
+
+North Sea revenue increased $1.9 million, or 12.8%, for the Successor quarter ended June 30, 2018, compared to the Predecessor quarter ended June 30, 2017. Day rates increased from $10,052 in the second quarter of 2017 to $12,574 in the second quarter of 2018, increasing revenue by $1.6 million. Capacity changes increased revenue by $1.1 million as two vessels were transferred in from the Americas region. In addition, weakness in the U.S. Dollar caused an increase in revenue of $0.8 million. Partially offsetting these increases was a decrease in utilization from 64.3% in the second quarter of 2017 to 54.0% in the second quarter of 2018, decreasing revenue by $1.6 million. Operating loss decreased from $4.6 million during the quarter ended June 30, 2017 to $1.8 million for the same period in 2018. For the second quarter of 2018 drydock expense decreased $1.5 million and depreciation and amortization expense decreased $0.5 million due mainly to changes in accounting policies related to Fresh Start Accounting. In addition, general and administrative expenses decreased by $0.2 million. Partially offsetting these decreases was an increase in direct operating expenses of $1.8 million mainly related to the larger fleet size in the region during the 2018 quarter. In the 2017 quarter we recorded $0.2 million of pre-petition restructuring charges related to the bankruptcy filing, while in the 2018 quarter we recorded $0.2 million gain on the sale of vessel spare parts. 
+
+26
+
+Southeast Asia  
+
+Revenue in Southeast Asia decreased $0.5 million, or 22.0%, for the Successor quarter ended June 30, 2018 compared to the Predecessor quarter ended June 30, 2017. Utilization decreased from 41.8% in the second quarter of 2017 to 38.0% in the second quarter of 2018, resulting in a decrease of $0.2 million in revenue. In addition, day rates decreased from $5,456 in the second quarter of 2017 to $4,798 in the second quarter of 2018, causing a $0.3 million decrease in revenue. We had an operating loss of $2.8 million during the second quarter of 2017 compared to a loss of $1.7 million during the second quarter of 2018. Partially offsetting these decreases in revenue was a decrease of $0.7 million in direct operating expenses resulting from lower utilization during the second quarter of 2018. In addition, general and administrative expenses decreased $0.5 million due mainly to a decrease in compensation-related expenses, while depreciation and amortization expense decreased $0.4 million mainly due to the change in accounting policies related to Fresh Start Accounting. 
+
+Americas  
+
+Revenue in the Americas increased $0.4 million, or 4.9%, in the Successor second quarter of 2018 compared to the Predecessor second quarter of 2017. Day rates decreased from $7,868 during the second quarter of 2017 to $7,471 during the second quarter of 2018 and capacity decreased $2.6 million due to the transfer of two vessels to the North Sea region at the beginning of 2018. Partially offsetting these decreases was an increase in utilization from 32.1% in the second quarter of 2017 to 39.6% in the second quarter of 2018, which increased revenue by $2.6 million. We recorded an operating loss of $1.9 million during the second quarter of 2018 compared to an operating loss of $6.5 million during the second quarter of 2017. The region experienced a decrease in direct operating expenses of $0.5 million, due largely to the decrease in fleet size as a result of the mobilization of two vessels out of the region and continued cost cutting measures. In addition, general and administrative expenses decreased $0.3 million mainly as a result of decreases in compensation-related expenses. Drydock expense decreased $0.1 million and depreciation and amortization expense decreased $3.2 million due to the change in accounting policies related to Fresh Start Accounting and the decrease in fleet size in the region. 
+
+Other  
+
+Other expense decreased by $5.9 million, from $11.0 million in the Predecessor second quarter of 2017 to $5.1 million during the Successor second quarter of 2018. The change is due to lower interest expense related to our restructured debt subsequent to our emergence from bankruptcy. In addition, during the second quarter of 2017 we recorded a $5.1 million reorganization item charge related to the bankruptcy, while only recording $0.1 million during the same 2018 period. Foreign currency loss was $0.2 million during the second quarter of 2017 and $2.2 million during the second quarter of 2018. 
+
+Tax Rate  
+
+Our effective tax rate for the Successor second quarter of 2018 was a benefit of 7.8%, compared to a benefit of 2.7% for the Predecessor second quarter of 2017. The change in the effective tax rate from the prior year quarter was primarily attributable to a change in the taxable mix of earnings between our higher and lower tax jurisdictions, recognition of a valuation allowance on certain of our deferred tax assets and the effect of the lower tax rate in the U.S. due to the statute originally named the Tax Cuts and Jobs Act which was passed at the end of 2017. 
+
+27
+
+Comparison of the Six Months Ended June 30    , 201    8 (Successor)     with the     Six     Months Ended     June 30    ,     2017 (Predecessor)   
+
+For the Successor six months ended June 30, 2018, we had a net loss of $28.8 million, or $2.88 per diluted share, on revenues of $50.8 million. During the Predecessor six months ended June 30, 2017, we had a net loss of $165.4 million, or $6.50 per diluted share, on revenues of $49.0 million. 
+
+Our revenues for the six months ended June 30, 2018 increased $1.8 million, or 3.7%, compared to the six months ended June 30, 2017. Average day rates increased from $8,819 during the six-month period ended June 30, 2017 to $9,171 during the same period in 2018 and utilization increased from 44.9% in the first half of 2017 to 45.8% in the first half of 2018. However, due to the change in the contract mix during the periods, revenue decreased $1.0 million. The weakness of the U.S. Dollar was responsible for a revenue increase of $2.6 million, while the full six-month effect of the addition of a new build vessel during the first quarter of 2017 contributed an additional $0.2 million to revenue. Our average fleet size decreased slightly due to the sale of two vessels during the first quarter of 2017. The sold vessels were stacked before they were sold and as a result there was no revenue effect related to the sale. 
+
+We had an operating loss of $23.1 million for the six months ended June 30, 2018, compared to a $62.7 million operating loss during the same period of 2017. Drydock expense decreased $4.6 million and depreciation and amortization expense decreased $9.2 million from the six months ended June 30, 2017 to the six months ended June 30, 2018. Both of these decreases were attributable to changes in accounting policies related to our adoption of Fresh Start Accounting. General and administrative expenses decreased $4.2 million due largely to a decrease in compensation-related expenses and bad debt expense during the 2018 period. During the first six months of 2017, we recorded $17.8 million of pre-petition restructuring charges related to our bankruptcy filing and restructuring. Partially offsetting these decreases was an increase in direct operating expenses of $3.4 million, mainly due to an increase in wage related expenses in the North Sea region during the 2018 period and the impact from mobilization of vessels between operating regions during the first quarter of 2018. During the first six months of 2017, we recognized a loss on sale of asset of $5.2 million mainly related to the sale of two vessels, while during the same 2018 period we recognized a gain on sale of assets of $0.2 million. 
+
+North Sea  
+
+North Sea revenue increased $3.3 million, or 11.5%, for the Successor six months ended June 30, 2018, compared to the Predecessor six months ended June 30, 2017. Day rates increased from $10,234 in the first six months of 2017 to $11,796 in the 2018 period, resulting in an increase of $0.2 million. Utilization decreased from 61.8% in the first six months of 2017 to 55.4% in the 2018 period, decreasing revenue by $1.3 million. U.S. Dollar weakness increased revenue by $2.4 million. Capacity changes increased revenue by $2.0 million mainly due to the transfer of two vessels back to the North Sea region from the Americas region at the beginning of 2018 and the full six-month effect of a new-build vessel delivered during the first quarter of 2017. Operating loss decreased from $10.9 million during the six months ended June 30, 2017 to $7.5 million in the same period of 2018. For the first six months of 2018, drydock expense decreased $4.4 million and depreciation and amortization expense decreased $1.0 million due mainly to changes in accounting policies related to Fresh Start Accounting. General and administrative expenses decreased $0.1 million from the 2017 period to the current year period. Partially offsetting these decreases was an increase in direct operating expenses of $5.8 million, mainly related to the larger fleet size in the region due to the mobilization of two vessels from the Americas and a deductible charge relating to a vessel equipment insurance claim. In the 2017 period we incurred $0.2 million of pre-petition restructuring charges related to our bankruptcy filing and restructuring and during the 2018 period we recognized a gain on sale of asset of $0.2 million related to the sale of vessel spare parts. 
+
+28
+
+Southeast Asia  
+
+Revenue in Southeast Asia decreased $1.7 million, or 32.1%, for the Successor six months ended June 30, 2018 compared to the Predecessor six months ended June 30, 2017. Day rates decreased from $5,442 in the first six months of 2017 to $4,752 in the first six months of 2018, causing $0.8 million of the decrease in revenue. In addition, utilization decreased from 49.9% in the six months ended June 30, 2017 to 41.8% in the same 2018 period, resulting in a decrease in revenue of $0.9 million. Operating loss for the first six months of 2018 was $3.3 million compared to $4.5 million for the first six months of 2017. Partially offsetting the decrease in revenue was a decrease of $1.3 million in direct operating expenses resulting from lower utilization during the first six months of 2018. General and administrative expenses decreased $0.7 million due mainly to a decrease in compensation-related and bad debt expenses, while depreciation and amortization expense decreased $0.8 million mainly due to the change in accounting policy related to Fresh Start Accounting. 
+
+Americas  
+
+Revenue in the Americas increased $0.2 million, or 1.3%, in the Successor six months ended June 30, 2018 compared to the Predecessor six months ended June 30, 2017. Although day rates decreased from $8,308 during the first six months of 2017 to $7,297 during the first six months of 2018, revenue increased by $0.8 million mainly due to the contract mix within the region. Capacity changes decreased revenue by $5.5 million due to the transfer of two vessels from the Americas region into the North Sea region at the beginning of 2018. Partially offsetting these decreases was an increase in utilization, from 30.2% in the first six months of 2017 to 38.3% in the first six months of 2018, which increased revenue by $4.9 million. We recorded an operating loss of $4.5 million during the first six months of 2018 compared to an operating loss of $19.2 million during the first six months of 2017. Direct operating expenses decreased $1.0 million from the six months ended June 30, 2017, due largely to the decrease in fleet size as a result of the mobilization of two vessels out of the region and continued cost cutting measures. In addition, general and administrative expenses decreased $1.5 million mainly as a result of decreases in compensation-related expenses and bad debt expense. Depreciation and amortization expense decreased $6.5 million and drydock expense decreased $0.2 million due to the change in accounting policies related to Fresh Start Accounting and the decrease in fleet size in the region. During the 2017 period we recognized a loss on sale of two vessels of $5.3 million. 
+
+Other  
+
+Other expense decreased $23.2 million, from $29.6 million in the Predecessor first six months of 2017 to $6.4 million during the Successor first six months of 2018. The change was due mainly to $9.7 million of expense related to the write off of debt issuance costs associated with our revolving credit facilities and former senior notes during the first quarter of 2017 and lower interest expense related to our restructured debt subsequent to our emergence from bankruptcy. In the first six months of 2017 we recorded a $5.1 million reorganization item charge related to the bankruptcy, compared to $0.4 million recorded during the 2018 period. 
+
+29
+
+Tax Rate  
+
+Our effective tax rate for the Successor six months ended June 30, 2018 was a benefit of 2.2%, compared to an expense of 79.2% for the Predecessor six months ended June 30, 2017. The change in the effective tax rate from the prior year was primarily attributable to a change in the taxable mix of earnings between our higher and lower tax jurisdictions, recognition of a valuation allowance in 2017 on certain of our deferred tax assets and the effect of the lower tax rate in the U.S. due to the statute originally named the Tax Cuts and Jobs Act which was passed at the end of 2017. 
+
+Liquidity, Capital Resources and Financial Condition    
+
+On May 17, 2017, GulfMark Offshore, Inc. filed the Chapter 11 Case under the Bankruptcy Code in the Bankruptcy Court, and on October 4, 2017, the Bankruptcy Court entered the Confirmation Order approving the Plan. On the Effective Date, November 14, 2017, the Plan became effective pursuant to its terms and we emerged from the Chapter 11 Case. 
+
+Our liquidity requirements are generally associated with our need to service debt, fund working capital, maintain our fleet, and, when market conditions are favorable, finance the construction of new vessels and acquire or improve equipment or vessels. Bank financing proceeds from the issuance of debt and equity, and internally generated funds have historically provided funding for these activities. Internally generated funds are directly related to fleet activity and vessel day rates, which are generally dependent upon the demand for our vessels which is ultimately determined primarily by the supply and demand for offshore drilling for crude oil and natural gas. 
+
+Our business is directly impacted by the level of activity in worldwide offshore oil and natural gas exploration, development and production, which in turn is influenced by trends in oil and natural gas prices. In addition, oil and natural gas prices are affected by a host of geopolitical and economic forces, including the fundamental principles of supply and demand. In particular, the oil price is significantly influenced by actions of OPEC. Beginning in late 2014, the oil and gas industry experienced a significant decline in the price of oil that continued into early 2016 with the oil price dipping to less than $30 per barrel and causing an industry-wide downturn. Prices have gradually recovered since early 2016 to recent levels of approximately $70 per barrel as of the date of this report, although prices are subject to significant uncertainty and have continued to fluctuate below such level. The downturn significantly impacted the operational plans for oil companies, resulting in reduced expenditures for exploration and production activities, and consequently has adversely affected the drilling and support service sector and has materially and adversely affected our results of operations and our financial position. 
+
+We filed bankruptcy in 2017 when current and expected operating cash flows had reached a level that could not maintain our operations and service our debt. In the months immediately following the beginning of the industry downturn in late 2014, we prioritized cash cost reductions by, among other measures, reducing office staff and mariners, reducing compensation to remaining staff and mariners, and stacking vessels, including eliminating crews for stacked vessels and deferring required drydocks. We were successful in significantly reducing our cost structure with direct operating expenses dropping by over 65% from 2014 to 2017 and general and administrative costs decreasing by over 40%. However, our revenues declined in the same comparative period by approximately 80%. In the bankruptcy, our focus was to reduce our debt and infuse additional capital. Significant achievements in the bankruptcy were the elimination of almost $450 million of long term debt (plus accrued interest), a complete restructuring of our bank financing and the inflow of $125 million in cash for new equity. We expect operating cash flows to continue to be marginal in the near term. Upon emerging from bankruptcy, we had $100 million in long-term debt outstanding with the capacity to borrow an additional $25 million under our Revolving Credit Facility described below. See     Resources and Liquidity .  At June 30, 2018, we had approximately $45.0 million in cash on hand and $23.4 million in borrowing capacity under our Revolving Credit Facility and, under the agreement governing our $100 million Term Loan Facility and our $25 million Revolving Credit Facility (both discussed below), repayment provisions and some of the restrictive financial covenants do not become fully effective until 2020. Our future results will depend on our ability to maintain a low-cost structure and the level to which the industry recovers. We believe we have sufficient cash on hand plus borrowing capacity under our Revolving Credit Facility to supplement our operations to enable us to continue to fund our operations and to service our existing debt. 
+
+30
+
+On July 15, 2018, GulfMark Offshore, Inc. entered into the Merger Agreement with Tidewater, whereby GulfMark Offshore, Inc. will become a wholly-owned subsidiary of Tidewater. The Tidewater Merger is subject to approval by the stockholders of both entities and certain other conditions and, if approved, is expected to close in the fourth quarter of 2018, subject to possible extension under circumstances described in the Merger Agreement. See   Recent Developments  and Item 1A,  Risk Factors  in Part II of this report. 
+
+Cash and Working Capital  
+
+At June 30, 2018, our cash on hand totaled $45.0 million and net working capital was $55.9 million. 
+
+Operating Activities  
+
+Net cash used in operating activities for the Successor six-month period ended June 30, 2018 was $23.1 million. Net cash used in operating activities for the Predecessor six-month period ended June 30, 2017 was $42.5 million. The difference was due primarily to improved operating results partially offset by negative changes in working capital. 
+
+Investing Activities  
+
+Net cash used in investing activities for the Successor six-month period ended June 30, 2018 was $0.1 million. Net cash used in investing activities for the Predecessor six-month period ended June 30, 2017 was $21.6 million. The decrease in cash used in investing activities was primarily related to the decreased activity in our new build program during the 2018 period. 
+
+Financing Activities  
+
+Net cash used by financing activities for the Successor six-month period ended June 30, 2018 was $0.2 million, while net cash provided by financing activities for the Predecessor six-month period ended June 30, 2017 was $69.1 million. The decrease in cash provided by financing activities during the current year period was primarily due to the decrease in proceeds from borrowings under our revolving loan facilities at the time, partially offset by repayment of borrowings and payment for debt issuance cost. 
+
+31
+
+Resources and Liquidity  
+
+On November 14, 2017, GulfMark Rederi AS, a subsidiary of GulfMark Offshore, Inc., entered into an agreement, or the Credit Facility Agreement, with DNB Bank ASA, New York Branch, as agent, DNB Capital LLC as revolving and swingline lender, and certain funds managed by Hayfin Capital Management LLP as term lenders, providing for two credit facilities: a senior secured revolving credit facility, or the Revolving Credit Facility, and a senior secured term loan facility, or the Term Loan Facility (or, together, the Facilities). The Revolving Credit Facility provides $25.0 million of borrowing capacity, including $12.5 million for swingline loans and $5.0 million for letters of credit. The Term Loan Facility provides a $100.0 million term loan, which was funded in full on November 14, 2017. Borrowings under the Revolving Credit Facility may be denominated in U.S. Dollars, NOK, GBP and Euros. Both Facilities mature on November 14, 2022. The Credit Facility Agreement contains a number of restrictions that limit our ability to, among other things, sell collateral vessels, borrow money, make investments, incur additional liens on assets, buy or sell assets, merge, or pay dividends. 
+
+At June 30, 2018, we had $100.0 million in borrowings outstanding under the Term Loan Facility and no loans outstanding under the Revolving Credit Facility. At June 30, 2018, we had an aggregate of $1.6 million of letters of credit outstanding under the Revolving Credit Facility and $23.4 million of unused borrowing capacity under the Revolving Credit Facility. See Note 3 to our unaudited condensed consolidated financial statements included in Item 1 of Part I of this report. 
+
+We may, from time to time, issue debt or equity securities, or a combination thereof, subject to the limitations pursuant to our Credit Facility Agreement and other contractual obligations, to finance capital expenditures, the acquisition of assets and businesses or for general corporate purposes. Our ability to access the capital markets by issuing debt or equity securities will be dependent on our results of operations, our current financial condition, current credit ratings, current market conditions and other factors beyond our control. 
+
+Off-Balance Sheet Arrangements   
+
+At June 30, 2018 and December 31, 2017, we had no off-balance sheet debt or other arrangements required to be disclosed in this report. 
+
+Currency Fluctuations and Inflation   
+
+A majority of our operations are international; therefore, we are exposed to currency fluctuations and exchange rate risks. In areas where currency risks are potentially high, we normally accept only a small percentage of charter hire in local currency, with the remainder paid in U.S. Dollars. Operating costs are substantially denominated in the same currency as charter hire in order to reduce the risk of currency fluctuations. Charters for vessels in our North Sea fleet are denominated in British Pounds Sterling (GBP), Norwegian Kroner (NOK) or Euros (EUR). The North Sea fleet generated 63.7% and 63.5% of our total consolidated revenue for the three- and six-month periods ended June 30, 2018, respectively. Charters in our Americas fleet can be denominated in Brazilian Reais (BRL) and charters in our Southeast Asia fleet can be denominated in Singapore Dollars (SGD). 
+
+32
+
+For the three- and six-month periods ended June 30, 2018 and 2017, the exchange rates of GBP, NOK, EUR, BRL and SGD against the U.S. Dollar averaged as follows: 
+
+A substantial portion of our outstanding debt is denominated in U.S. Dollars, but a substantial portion of our revenue is generated in currencies other than the U.S. Dollar. We have evaluated these conditions and have determined that it is not in our best interest to use any financial instruments to hedge this exposure under present conditions. Our strategy is in part based on a number of factors including the following: 
+
+the cost of using hedging instruments in relation to the risks of currency fluctuations; 
+
+the propensity for adjustments in these foreign currency denominated vessel day rates over time to compensate for changes in the purchasing power of these currencies as measured in U.S. Dollars; 
+
+the level of U.S. Dollar-denominated borrowings available to us, if any; and 
+
+the conditions in our U.S. Dollar-generating regional markets. 
+
+One or more of these factors may change and, in response, we may use financial instruments to hedge risks of currency fluctuations. We may from time to time hedge known liabilities denominated in foreign currencies to reduce the effects of exchange rate fluctuations on our financial results. We do not use foreign currency forward contracts for trading or speculative purposes. 
+
+Reflected in the accompanying unaudited condensed consolidated balance sheet at June 30, 2018, is $0.8 million in accumulated other comprehensive income, or accumulated OCI, primarily relating to the change in exchange rates at June 30, 2018 in comparison with the exchange rates when we invested capital in these markets. Changes in accumulated OCI are non-cash items that are primarily attributable to investments in vessels and U.S. Dollar-based capitalization between our parent company and our foreign subsidiaries. The current year activity reflects the changes in the U.S. Dollar compared to the functional currencies of our major operating subsidiaries, particularly in the U.K. and Norway. 
+
+To date, general inflationary trends have not had a material effect on our operating revenues or expenses. 
+
+33
+
+ITEM 3.          QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+There were no material changes in the three months ended June 30, 2018 to the market risk disclosures contained in Item 7A in our Annual Report on Form 10-K for the year ended December 31, 2017. 
+
+ITEM 4.          CONTROLS AND PROCEDURES  
+
+We maintain disclosure controls and procedures that are designed to provide reasonable assurance that information required to be disclosed in our reports under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to management, including our Principal Executive Officer and Principal Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. Our management, with the participation of our Principal Executive Officer and Principal Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report on Form 10-Q. Our Principal Executive Officer and Principal Financial Officer have concluded that, as of the end of the period covered by this Quarterly Report on Form 10-Q, our disclosure controls and procedures were effective at the reasonable assurance level. 
+
+There were no changes in our internal control over financial reporting identified in connection with such evaluation that occurred during the quarter ended June 30, 2018 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II. OTHER INFORMATION  
+
+ITEM 1A.          RISK FACTORS  
+
+The risk factors set forth below are updates to certain risk factors previously disclosed in Part I, Item 1A,  Risk Factors  in our Annual Report on Form 10-K for the year ended December 31, 2017. 
+
+The proposed acquisition of GulfMark Offshore, Inc. by Tidewater may cause         disruption in our business.   
+
+On July 15, 2018, GulfMark Offshore, Inc. entered into the Merger Agreement with Tidewater, pursuant to which GulfMark Offshore, Inc. will become a wholly-owned subsidiary of Tidewater. The Merger Agreement generally requires us to operate our business in the ordinary course pending consummation of the proposed Tidewater Merger and restricts us, without Tidewater s consent, from taking certain specified actions until the Tidewater Merger is completed. These restrictions may affect our ability to execute our business strategies and attain our financial and other goals and may impact our financial condition, results of operations and cash flows. 
+
+In connection with the pending Tidewater Merger, our current and prospective employees may experience uncertainty about their future roles with the combined company following the Tidewater Merger. Employee retention and recruitment may be challenging before the completion of the Tidewater Merger, as employees and prospective employees may experience uncertainty about their future roles with the combined company. If, despite our retention and recruiting efforts, key employees depart or prospective key employees fail to accept employment with us because of issues relating to the uncertainty and difficulty of integration or a desire not to remain with the combined company, our financial results could be adversely affected. 
+
+34
+
+The proposed Tidewater Merger could also cause disruptions to our business or business relationships, which could have an adverse impact on our results of operations. Parties with which we have business relationships may experience uncertainty as to the future of such relationships and may delay or defer certain business decisions, seek alternative relationships with third parties or seek to alter their present business relationships with us. Parties with whom we otherwise may have sought to establish business relationships may seek alternative relationships with third parties. 
+
+The pursuit of the Tidewater Merger and the preparation for the integration may place a significant burden on management and internal resources. The diversion of management s attention away from day-to-day business concerns could adversely affect our financial results. 
+
+We could also be subject to litigation related to the proposed Tidewater Merger, which could result in significant costs and expenses. In addition to potential litigation-related expenses, we have incurred and will continue to incur other significant costs, expenses and fees for professional services and other transaction costs in connection with the proposed Tidewater Merger, and many of these fees and costs are payable regardless of whether or not the proposed Tidewater Merger is consummated. 
+
+Failure to complete the proposed Tidewater Merger in a timely manner or at all could negatively impact the market price of our Common Stock, as well as our future business and our financial condition, results of operations and cash flows.   
+
+The Tidewater Merger is expected to close in the fourth quarter of 2018, subject to possible extension under circumstances described in the Merger Agreement, but we cannot be certain when or if the conditions for the proposed Tidewater Merger will be satisfied or (if permissible under applicable law) waived. The Tidewater Merger cannot be completed until the conditions to closing are satisfied or (if permissible under applicable law) waived, including, among others, the adoption of the Merger Agreement by the holders of our Common Stock, the approval of the share issuance by the stockholders of Tidewater and the receipt of required antitrust and other regulatory approvals, if any. In the event that the Tidewater Merger is not completed for any reason, the holders of our Common Stock will not receive any payment for their shares of our Common Stock in connection with the proposed Tidewater Merger. Instead, we will remain an independent public company and holders of our Common Stock will continue to own their shares of the Common Stock. 
+
+Additionally, if the Tidewater Merger is not consummated in a timely manner or at all, our ongoing business may be adversely affected, including as follows: 
+
+we may experience negative reactions from financial markets and our Common Stock price could decline  
+
+we may experience negative reactions from employees, customers, suppliers or other third parties; 
+
+management s focus would have been diverted from pursuing other opportunities that could have been beneficial to us  and 
+
+the costs of pursuing the Tidewater Merger may be higher than anticipated. 
+
+35
+
+If the proposed Tidewater Merger is not completed, there can be no assurance that these risks will not materialize and will not materially adversely affect our Common Stock price, business, financial condition, results of operations or cash flows. 
+
+We and Tidewater may be unable to obtain the approvals required to complete the proposed Tidewater Merger.   
+
+The consummation of the proposed Tidewater Merger is subject to the satisfaction or waiver of certain closing conditions, including the adoption of the Merger Agreement by our stockholders, the approval of the share issuance by the stockholders of Tidewater and receipt of required antitrust and other regulatory approvals, if any. If GulfMark Offshore, Inc. and Tidewater are unable to obtain these approvals, they may be unable to consummate the proposed Tidewater Merger. As a result, there can be no assurance that the various closing conditions will be satisfied and the proposed Tidewater Merger will be completed or that any required conditions will not materially adversely affect the combined company following the consummation of the Tidewater Merger or will not result in the abandonment or delay of the proposed Tidewater Merger. 
+
+The Merger Agreement contains provisions that could discourage a potential competing acquirer of GulfMark Offshore Inc.   
+
+The Merger Agreement contains provisions that, subject to limited exceptions, restrict our ability to solicit, initiate, or knowingly encourage or facilitate third-party acquisition proposals for a competing transaction. In addition, before our board of directors withdraws, qualifies or modifies its recommendation of the proposed Tidewater Merger or terminates the Merger Agreement to enter into a third-party acquisition proposal, Tidewater generally has an opportunity to offer to modify the terms of the proposed Tidewater Merger. In some circumstances, upon termination of the Merger Agreement, we will be required to pay a termination fee of $13 million. 
+
+These provisions could discourage a potential third-party acquirer that might have an interest in acquiring all or a significant portion of GulfMark Offshore, Inc. from considering or proposing that acquisition, even if it were prepared to pay consideration with a higher per share cash or market value than the market value proposed to be received or realized in the Tidewater Merger, or might otherwise result in a potential third-party acquirer proposing to pay a lower price to our stockholders than it might otherwise have proposed to pay because of the added expense of the termination fee that may become payable in certain circumstances. 
+
+If the Merger Agreement is terminated and we decide to seek another business combination, we may not be able to negotiate or consummate a transaction with another party on terms comparable to, or better than, the terms of the Merger Agreement. 
+
+36
+
+ITEM 6.     EXHIBITS  
+
+* The documents formatted in XBRL (Extensible Business Reporting Language) and attached as Exhibit 101 to this report are deemed not filed or part of a registration statement or prospectus for purposes of sections 11 or 12 of the Securities Act, are deemed not filed for purposes of section 18 of the Exchange Act, and otherwise, not subject to liability under these sections. 
+
+37
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+GulfMark Offshore, Inc. 
+
+By: 
+
+/s/ Samuel R. Rubio  
+
+Samuel R. Rubio 
+
+Senior Vice President and 
+
+			 Chief Financial Officer 
+
+Date: August 14, 2018 
+
+38 
+
+<EX-10.6>
+ 2
+ ex_121111.htm
+ EXHIBIT 10.6
+
+ex_121111.htm 
+
+Exhibit 10.6   
+
+April 26, 2018 
+
+Samuel Rubio 
+
+ 2207 Taylor Marie Trail 
+
+ Katy, TX 77494 
+
+Re:    2018 Performance Bonus   
+
+Dear Sam: 
+
+In recognition of your continuing key role at GulfMark Offshore, Inc. (the   Company  ), you shall be entitled to a performance bonus upon the terms and conditions set forth in this letter agreement (this   Agreement  ), effective April 26, 2018 (the   Effective Date  ). Please refer to Appendix A for certain defined terms used herein. 
+
+1. 
+
+Performance Bonus . You shall be entitled to a performance bonus of up to $275,000.00 (the   Performance Bonus  ), payable according to the terms outlined below, subject to your continued employment through March 31, 2019 (the   Vesting Date  ) subject to certain exceptions as provided in Sections 2 and 4 of this Agreement. 
+
+Payment of the Performance Bonus is separate from, and in addition to, your regular salary and benefits and therefore, this Agreement is not subject to the terms and conditions contained in any employment contract, offer letter or other employment communication or policy. 
+
+2. 
+
+Performance Criteria . The Company has the key objectives in 2018 of (a) reducing General   Administrative expenses to below $25.5 million per year and (b) to achieving a cash flow positive run rate by the end of the year. The Compensation Committee will evaluate the Company s performance for 2018 and make an assessment as to the percentage of the Performance Bonus that will be paid. This assessment is at the full and complete discretion of the Compensation Committee, except that if there is a Change of Control before the Vesting Date, 100% of the Performance Bonus will be deemed earned. 
+
+3. 
+
+Payment Schedule . The Performance Bonus will be paid to you in   one   cash installment payment equal to one hundred percent (100%) of the amount of the earned Performance Bonus (less all required tax withholdings). The Payment will be paid to you as soon as administratively practicable after the Vesting Date, as soon as administratively practicable after a termination without Cause, or on the date of the Change of Control in the event of a Change of Control. 
+
+The payments hereunder shall not be taken into account for purposes of any other compensation or benefit program of the Company or any of its subsidiaries. 
+
+4. 
+
+Termination without Cause . If your employment with the Company or any of its subsidiaries is terminated without Cause prior to the Vesting Date, you shall be entitled to 100% of your Performance Bonus. 
+
+5. 
+
+Release of Claims . Your Performance Bonus shall be contingent on your executing and not revoking an agreement, in a standard form provided by the Company, granting a full release of all actual and potential claims you have or may have against the Company or its affiliates. Such release will provide for a fixed review period and 7-day revocation period, as set forth in the release form. 
+
+6. 
+
+409A . The payments and benefits under this Agreement are intended to be exempt from Section 409A of the Internal Revenue Code of 1986, as amended, and the regulations and guidance promulgated thereunder (collectively   Section 409A  ) and, accordingly, to the maximum extent permitted, this Agreement shall be interpreted to be exempt from Section 409A. 
+
+7. 
+
+Assignment . You may not assign your rights under this Agreement except upon your death. The Company may assign its obligations hereunder to any successor (including any acquirer of substantially all of the assets of the Company). 
+
+8. 
+
+Entire Agreement . This Agreement sets forth the entire understanding of the Company and you regarding the subject matter hereof and supersedes all prior agreements, understandings and inducements, whether express or implied, oral or written;  provided, however , this Agreement does not impact, alter, modify, amend or otherwise supersede any of the rights or obligations of either party under any employment agreement or arrangement, or any existing severance agreements in place between you and the Company or any of its subsidiaries. No modification or amendment of this Agreement shall be effective without a prior written agreement signed by you and the Company. 
+
+9. 
+
+Notices . All notices, approvals and other communications required or permitted to be given under this Agreement shall be in writing and shall be validly served or given if delivered in person, electronically (with read receipt acknowledgment), mailed by first class mail (registered or certified, return receipt requested), or overnight air courier with proof of delivery (i) if to the Company, at its principal corporate offices addressed to the attention of General Counsel, and (ii) if to you, at your home address as such address may appear on the records of the Company or any of its subsidiaries, or to such other address as such party may hereafter specify in written notice to the other party. 
+
+10. 
+
+Confidentiality . You hereby agree, to the maximum extent permitted by law, to, and cause your affiliates and representatives to, keep confidential the existence and the terms of this Agreement;  provided, however , that (i) you may disclose the terms of this Agreement to your financial or legal advisers who reasonably need to have access to such information to provide services to you, provided that you have made such advisors aware of the confidential nature of such information prior to disclosure, and (ii) you may disclose the terms of this Agreement if required to do so by any applicable legal requirement so long as reasonable prior notice of such required disclosure is given to the Company. 
+
+11. 
+
+Governing Law;    WAIVER OF JURY TRIAL  . To the maximum extent permitted by law, this Agreement is governed by and to be construed in accordance with the laws of the State of Texas, without regard to conflicts of laws principles thereof. The parties to this Agreement each hereby irrevocably submits to the non-exclusive jurisdiction of Texas or federal court sitting in Harris County in any action or proceeding arising out of or relating to this Agreement, and all such parties hereby irrevocably agree that all claims in respect of such action or proceeding may be heard and determined in Texas or federal court and hereby irrevocably waive, to the fullest extent that they may legally do so, the defense of an inconvenient forum to the maintenance of such action or proceeding.  EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT.  
+
+12. 
+
+Tax . Amounts payable under this Agreement shall be subject to withholding for federal, state, local or foreign taxes (including, but not limited to, any social security contributions) as shall be required to be withheld pursuant to any applicable law or regulation. 
+
+13. 
+
+Waiver . Failure by either party to exercise, or any delay in exercising, any right or remedy provided under this Agreement or by law shall not constitute a waiver of that or any other right or remedy, nor shall it prevent or restrict any further exercise of that or any other right or remedy. 
+
+14. 
+
+Severability . In case any provision in this Agreement shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby. 
+
+15. 
+
+Counterpart Originals . This Agreement may be executed in two or more counterparts, and by the different parties in separate counterparts, each of which when executed shall be deemed to be an original but all of which taken together shall constitute one and the same agreement. Delivery of an executed counterpart of a signature page to this Agreement electronically (including portable document format (pdf.)) or by facsimile shall be as effective as delivery of a manually executed counterpart of this Agreement. 
+
+To accept this Agreement, please sign where indicated below, and return the entire document no later than April 30, 2018. 
+
+Sincerely 
+
+GULFMARK OFFSHORE, INC. 
+
+/s/  Quintin V Kneen                                                
+
+ By: Quintin V Kneen 
+
+ Title: President   CEO 
+
+ACCEPTED AND AGREED AS OF THE 
+
+ EFFECTIVE DATE: 
+
+/s/  Samuel R. Rubio                                     
+
+ By: 
+
+APPENDIX A  
+
+Definitions. For purposes of this Agreement, the following terms shall have the meanings set forth below: 
+
+Cause   shall have the meaning ascribed to such term in your employment agreement with the Company or any of its subsidiaries as in effect on the date hereof, or if you are not subject to an employment agreement or  Cause  is not defined therein, then  Cause  shall mean, (i) your indictment of a felony; (ii) your fraudulent or grossly negligent conduct in connection with your employment duties or responsibilities; (iii) willful misconduct; (iv) your contravention, in any material respect, of specific lawful directions related to a material duty or responsibility which is directed to be undertaken from the person to whom you report; (v) any acts by you which constitute embezzlement, misappropriation or breach of fiduciary duty resulting or intending to result in your personal gain or enrichment at the expense of the Company or any of its subsidiaries; (vi) your failure to comply with ongoing confidentiality, non-solicitation and/or non-competition obligations between you and the Company or any of its subsidiaries; or (vii) your continued failure to comply with a material policy of the Company or any of its subsidiaries after receiving notice of failure to comply from the person to whom you report. 
+
+Change of Control   means the occurrence of one or more of the following events following the Effective Date: 
+
+(i)      Any  person  within the meaning of those terms as used in Section 13(d) of the Exchange Act, other than an affiliate of the Company or a Permitted Holder, shall become the beneficial owner, by way of merger, consolidation, recapitalization, reorganization or otherwise, of 50% or more of the combined voting power of the equity interests in the Company; 
+
+(ii)     The Company s shareholders approve, in one or a series of transactions, a plan of complete liquidation of the Company; or 
+
+(iii)    The sale or other disposition by the Company of all or substantially all of its assets in one or more transactions other than (x) to an affiliate of the Company or a Permitted Holder or (y) in connection with a spinoff or similar corporate transaction. 
+
+Notwithstanding the foregoing, if a Change of Control constitutes a payment event with respect to a payment that would be deemed to constitute non-qualified deferred compensation subject to section 409A of the Code, then, to the extent required to avoid the imposition of additional taxes under Section 409A of the Code, the transaction or event described in paragraph (i), (ii) or (iii) above, with respect to such deferred compensation, shall only constitute a Qualified Liquidity Event for purposes of the payment timing of such deferred compensation if such transaction also constitutes a  change in control event,  as defined in Treasury Regulation  1.409A-3(i)(5). 
+
+Compensation Committee   means the Compensation Committee of the Board of Directors of the Company. 
+
+Permitted Holder   means any of Canyon Capital Advisors LLC; Captain Q, LLC; Raging Capital Management, LLC; or their respective affiliates. 
+
+Remainder of this page intentionally left blank.  
+
+</EX-10.6>
+
+<EX-31.1>
+ 3
+ ex_121095.htm
+ EXHIBIT 31.1
+
+ex_121095.htm 
+
+Exhibit 31.1  
+
+CERTIFICATION PURSUANT TO EXCHANGE ACT RULES 13a-14(a),  
+
+  AS ADOPTED PURSUANT TO SECTION 302   
+
+  OF THE SARBANES-OXLEY ACT OF 2002  
+
+I, Quintin V. Kneen, certify that: 
+
+1.     I have reviewed this quarterly report on Form 10-Q for the quarter ended June 30, 2018 of GulfMark Offshore, Inc.; 
+
+2.     Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3.     Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4.     The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.     The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: August 14, 2018 
+
+By:  
+
+/s/ Quintin V. Kneen 
+
+Quintin V. Kneen 
+
+			 President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ ex_121096.htm
+ EXHIBIT 31.2
+
+ex_121096.htm 
+
+Exhibit 31.2  
+
+CERTIFICATION PURSUANT TO EXCHANGE ACT RULES 13a-14(a),  
+
+  AS ADOPTED PURSUANT TO SECTION 302   
+
+  OF THE SARBANES-OXLEY ACT OF 2002  
+
+I, Samuel R. Rubio, certify that: 
+
+1.     I have reviewed this quarterly report on Form 10-Q for the quarter ended June 30, 2018, of GulfMark Offshore, Inc.; 
+
+2.     Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3.     Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4.     The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.     The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: August 14, 2018 
+
+By:  
+
+/s/ Samuel R. Rubio 
+
+Samuel R. Rubio  
+
+			 Senior Vice President 
+
+			 and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ ex_121097.htm
+ EXHIBIT 32.1
+
+ex_121097.htm 
+
+Exhibit 32.1  
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER UNDER SECTION 906  
+
+  OF THE SARBANES-OXLEY ACT OF 2002, 18 U.S.C   1350  
+
+In connection with the Quarterly Report of GulfMark Offshore, Inc. (the  Company ) on Form 10-Q for the quarter ended June 30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Quintin V. Kneen, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge: 
+
+(1)     The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(2)     The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: August 14, 2018 
+
+By:   
+
+/s/ Quintin V. Kneen 
+
+Quintin V. Kneen 
+
+			 President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ ex_121098.htm
+ EXHIBIT 32.2
+
+ex_121098.htm 
+
+Exhibit 32.2  
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER UNDER SECTION 906  
+
+  OF THE SARBANES-OXLEY ACT OF 2002, 18 U.S.C.   1350  
+
+In connection with the Quarterly Report of GulfMark Offshore, Inc. (the  Company ) on Form 10-Q for the quarter ended June 30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Samuel R. Rubio, Executive Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge: 
+
+(1)     The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(2)     The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: August 14, 2018 
+
+By:   
+
+/s/ Samuel R. Rubio 
+
+Samuel R. Rubio 
+
+			 Senior Vice President 
+
+			 and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ glf-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ glf-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ glf-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ glf-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ glf-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ glf-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

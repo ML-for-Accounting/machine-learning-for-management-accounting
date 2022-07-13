@@ -1,0 +1,2778 @@
+ED
+STATES   
+
+   SECURITIES
+AND EXCHANGE COMMISSION   
+
+   Washington,
+D.C. 20549   
+
+FORM
+10-Q   
+
+(Mark
+One)  
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For
+the quarterly period ended June 30, 2018  
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For
+the transition period from __________ to __________  
+
+COMMISSION
+FILE NUMBER: 001-34591   
+
+SHARING
+ECONOMY INTERNATIONAL INC.    
+
+  (Exact
+name of Registrant as specified in its charter)  
+
+NEVADA  
+         
+      90-0648920   
+ 
+       (State
+    or other jurisdiction of 
+    incorporation of organization)  
+         
+      (I.R.S.
+    Employer 
+    Identification No.)   
+
+No.
+9 Yanyu Middle Road   
+
+   Qianzhou
+Village, Huishan District, Wuxi City   
+
+    Jiangsu
+Province, China 214181    
+
+  (Address
+of principal executive offices)  
+
+(86)
+51083397559    
+
+  (Registrant s
+telephone number, including area code)  
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes   No    
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes   No    
+
+Indicate
+by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer, 
+ smaller reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act. (Check one):  
+
+Large
+    accelerated filer  
+         
+      Accelerated
+    filer  
+
+Non-accelerated
+    filer   
+         
+      Smaller reporting
+    company  
+
+Emerging growth
+    company  
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   No    
+
+Indicate
+the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 7,380,816
+shares of common stock are issued and outstanding as of August 10, 2018.  
+
+SHARING
+ECONOMY INTERNATIONAL INC. AND SUBSIDIARIES   
+
+   FORM
+10-Q   
+
+   June
+30, 2018   
+
+TABLE
+OF CONTENTS   
+
+Page No.   
+
+PART
+    I. - FINANCIAL INFORMATION   
+
+Item
+    1.  
+      Financial
+    Statements  
+      1   
+
+Condensed
+    Consolidated Balance Sheets as of June 30, 2018 (Unaudited) and December 31, 2017  
+      1   
+
+Condensed
+    Consolidated Statements of Operations and Comprehensive Gain (Loss) for the Three and Six Months Ended June 30, 2018 and 2017
+    (Unaudited)  
+      2   
+
+Condensed
+    Consolidated Statements of Cash Flows for the Six Months Ended June 30, 2018 and 2017 (Unaudited)  
+      3   
+
+Notes
+    to Unaudited Condensed Consolidated Financial Statements  
+      4   
+ 
+      Item
+    2.  
+      Management s
+    Discussion and Analysis of Financial Condition and Results of Operations  
+      25   
+ 
+      Item
+    3.  
+      Quantitative
+    and Qualitative Disclosures About Market Risk  
+      37   
+ 
+      Item 4.  
+      Controls
+    and Procedures  
+      37   
+
+PART
+    II - OTHER INFORMATION   
+
+Item
+    5.  
+      Exhibits  
+       38   
+
+FORWARD
+LOOKING STATEMENTS   
+
+This
+report contains forward-looking statements regarding our business, financial condition, results of operations and prospects. Words
+such as  expects,   anticipates,   intends,   plans,   believes, 
+ seeks,   estimates  and similar expressions or variations of such words are intended to identify forward-looking
+statements, but are not deemed to represent an all-inclusive means of identifying forward-looking statements as denoted in this
+report. Additionally, statements concerning future matters are forward-looking statements.  
+
+Although
+forward-looking statements in this report reflect the good faith judgment of our management, such statements can only be based
+on facts and factors currently known by us. Consequently, forward-looking statements are inherently subject to risks and uncertainties
+and actual results and outcomes may differ materially from the results and outcomes discussed in or anticipated by the forward-looking
+statements. Factors that could cause or contribute to such differences in results and outcomes include, without limitation, those
+specifically addressed under the headings  Risks Factors  and  Management s Discussion and Analysis of
+Financial Condition and Results of Operations  in our annual report on Form 10-K, in  Management s Discussion
+and Analysis of Financial Condition and Results of Operations  in this Form 10-Q and information contained in other reports
+that we file with the SEC. You are urged not to place undue reliance on these forward-looking statements, which speak only as
+of the date of this report.  
+
+We
+file reports with the SEC. The SEC maintains a website (www.sec.gov) that contains reports, proxy and information statements,
+and other information regarding issuers that file electronically with the SEC, including us. You can also read and copy any materials
+we file with the SEC at the SEC s Public Reference Room at 100 F Street, NE, Washington, DC 20549. You can obtain additional
+information about the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330 FREE. Our SEC filings are available
+through our website at http://www.seii.com/investor-relations/sec-filings.  
+
+We
+undertake no obligation to revise or update any forward-looking statements in order to reflect any event or circumstance that
+may arise after the date of this report, except as required by law. Readers are urged to carefully review and consider the various
+disclosures made throughout the entirety of this quarterly report, which are designed to advise interested parties of the risks
+and factors that may affect our business, financial condition, results of operations and prospects.  
+
+PART
+1 - FINANCIAL INFORMATION   
+
+ITEM
+    1.   
+       FINANCIAL
+    STATEMENTS    
+
+SHARING ECONOMY INTERNATIONAL
+INC. AND SUBSIDIARIES 
+
+ CONDENSED CONSOLIDATED
+BALANCE SHEETS 
+
+See notes to unaudited
+condensed consolidated financial statements. 
+
+SHARING ECONOMY INTERNATIONAL
+INC. AND SUBSIDIARIES 
+
+ CONDENSED CONSOLIDATED
+STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+
+ (Unaudited) 
+
+See notes to unaudited
+condensed consolidated financial statements. 
+
+SHARING ECONOMY INTERNATIONAL INC. AND
+SUBSIDIARIES 
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+ (Unaudited) 
+
+See notes to unaudited condensed consolidated
+financial statements. 
+
+NOTE
+1    DESCRIPTION OF BUSINESS AND ORGANIZATION   
+
+Sharing
+Economy International Inc. (the  Company ) was incorporated in Delaware on June 24, 1987 under the name of Malex,
+Inc. On December 18, 2007, the Company s corporate name was changed to China Wind Systems, Inc. and on June 13, 2011, the
+Company changed its corporate name to Cleantech Solutions International, Inc. On August 7, 2012, the Company was converted into
+a Nevada corporation. On January 8, 2018, the Company changed its corporate name to Sharing Economy International Inc.   
+
+Through
+its affiliated companies, the Company manufactures and sells textile dyeing and finishing machines. The Company is the sole owner
+of Fulland Limited ( Fulland ), a Cayman Island limited liability company, which was organized on May 9, 2007. Fulland
+owns 100% of the capital stock of Green Power Environment Technology (Shanghai) Co., Ltd. ( Green Power ) and, until
+December 30, 2016, Fulland owned 100% of Wuxi Fulland Wind Energy Equipment Co., Ltd. ( Fulland Wind ). Green Power
+is and Fulland Wind was a wholly foreign-owned enterprise ( WFOE ) organized under the laws of the People s
+Republic of China ( PRC  or  China ). Green Power is a party to a series of contractual arrangements,
+as fully described below, dated October 12, 2007 with Wuxi Huayang Heavy Industries, Co., Ltd. ( Heavy Industries ),
+formerly known as Wuxi Huayang Electrical Power Equipment Co., Ltd., and Wuxi Huayang Dyeing Machinery Co., Ltd. ( Dyeing ),
+both of which are limited liability companies organized under the laws of, and based in, the PRC. Heavy Industries and Dyeing
+are sometimes collectively referred to as the  Huayang Companies.   
+
+Fulland
+was organized by the owners of the Huayang Companies as a special purpose vehicle for purposes of raising capital in accordance
+with requirements of the PRC State Administration of Foreign Exchange ( SAFE ). On May 31, 2007, SAFE issued an official
+notice known as Hui Zong Fa [2007] No. 106 ( Circular 106 ), which requires the owners of any Chinese company to obtain
+SAFE s approval before establishing any offshore holding company structure for foreign financing as well as subsequent acquisition
+matters in China. Accordingly, the owners of the Huayang Companies, Mr. Jianhua Wu and his wife, Ms. Lihua Tang, submitted their
+application to SAFE in early September 2007. On October 11, 2007, SAFE approved their application, permitting these Chinese citizens
+to establish Fulland as a special purpose vehicle for any foreign ownership and capital raising activities by the Huayang Companies.  
+
+Dyeing,
+which was formed on August 17, 1995, produces and sells a variety of high and low temperature dyeing and finishing machinery for
+the textile industry. The Company refers to this segment as the dyeing and finishing equipment segment. On December 26, 2016,
+Dyeing and an unrelated individual formed Wuxi Shengxin New Energy Engineering Co., Ltd. ( Shengxin ), a limited liability
+company organized under the laws of the PRC in which Dyeing has a 30% equity interest and the unrelated third party holds a 70%
+interest, pursuant to an agreement dated December 23, 2016. Shengxin intends to develop, construct and maintain photovoltaic power
+generation projects, known as solar farms, in China, mainly in the provinces of GuiZhou and YunNan. However, given the decrease
+in the Chinese government subsidies for utility scale solar projects in 2017 as well as the high cost of solar components, Shengxin
+has not been able to locate any project. At December 31, 2017, Shengxin has not yet commenced operations.  
+
+Fulland
+Wind was formed on August 27, 2008. In 2009, the Company began to produce and sell forged products through Fulland Wind. Through
+Fulland Wind, the Company manufactured and sold forged products, including wind products such as shafts, rolled rings, gear rims,
+gearboxes, bearings and other components and finished products and assemblies for the wind power and other industries, including
+large-scale equipment used in the manufacturing process for the various industries. The Company referred to this segment of its
+business as the forged rolled rings and related components segment. On December 30, 2016, Fulland sold the stock of Fulland Wind
+and accordingly, the forged rolled rings and related components business is reflected as a discontinued operation for all periods
+presented (See Note 3).  
+
+Beginning
+in February 2015, Heavy Industries began to produce equipment for the petroleum and chemical industries. The Company referred
+to this segment of its business as the petroleum and chemical equipment segment. Because of a significant decline in revenues
+from this segment, the Company determined it would not continue to operate in this segment and accordingly, the petroleum and
+chemical equipment segment is reflected as discontinued operations for all periods presented (See Note 3). As a result of the
+discontinuation of the forged rolled rings and the petroleum and chemical equipment business, the Company s business primarily
+consists of the dyeing and finishing equipment business as its primary continuing operations since December 31, 2016.  
+
+The
+Company s latest business initiatives are focused on targeting the technology and global sharing economy markets, by developing
+online platforms and rental business partnerships that will drive the global development of sharing through economical rental
+business models. In connection with the new business initiatives, recently, the Company formed or acquired the following subsidiaries:  
+
+Vantage
+    Ultimate Limited ( Vantage ), a company incorporated under the laws of British Virgin Islands on February 1, 2017
+    and is wholly-owned by the Company.   
+
+Sharing
+    Economy Investment Limited ( Sharing Economy ), a company incorporated under the laws of British Virgin Islands
+    on May 18, 2017 and is wholly-owned by Vantage.   
+
+EC
+    Advertising Limited ( EC Advertising ), a company incorporated under the laws of Hong Kong on March 17, 2017 and
+    is a wholly-owned by Sharing Economy.   
+
+EC
+    Rental Limited ( EC Rental ), a company incorporated under the laws of British Virgin Islands on May 22, 2017
+    and is wholly-owned by Vantage.   
+
+EC
+    Assets Management Limited ( EC Assets ), a company incorporated under the laws of British Virgin Islands on May
+    22, 2017 and is wholly-owned by Vantage.   
+
+EC
+    (Fly Car) Limited, a company incorporated under the laws of British Virgin Islands on May 22, 2017 and is a wholly-owned by
+    Sharing Economy.   
+
+Global
+    Bike Share (Mobile App) Limited, a company incorporated under the laws of British Virgin Islands on May 23, 2017 and is a
+    wholly-owned by Sharing Economy.   
+
+EC
+    Power (Global) Technology Limited ( EC Power ), a company incorporated under the laws of British Virgin Islands
+    on May 26, 2017 and is wholly-owned by EC Rental.   
+
+ECPower
+    (HK) Company Limited, a company incorporated under the laws of Hong Kong on June 23, 2017 and is wholly-owned by EC Power.   
+
+EC
+    Manpower Limited, a company incorporated under the laws of Hong Kong on July 3, 2017 and is wholly-owned by Vantage.   
+
+EC
+    Technology   Innovations Limited ( EC Technology ), a company incorporated under the laws of British Virgin
+    Islands on September 1, 2017 and is wholly-owned by Vantage.   
+
+Inspirit
+    Studio Limited ( Inspirit Studios ), a company incorporated under the laws of Hong Kong on August 24, 2015, and
+    51% of its shareholding was acquired by EC Technology on December 8, 2017.   
+
+EC
+    Creative Limited ( EC Creative ), a company incorporated under the laws of British Virgin Islands on January 9,
+    2018 and is wholly-owned by Vantage.   
+
+3D
+    Discovery Co. Limited ( 3D Discovery ), a company incorporated under the laws of Hong Kong on February 24, 2015,
+    and 60% of its shareholdings was acquired by EC Technology on January 19, 2018.   
+
+Sharing
+    Film International Limited, a company incorporated under the laws of Hong Kong on January 22, 2018 and is a wholly-owned by
+    EC Creative.   
+
+AnyWorkspace
+    Limited ( AnyWorkspace ), a company incorporated under the laws of Hong Kong on November 12, 2015, and 80% of
+    its shareholding was acquired by Sharing Economy on January 30, 2018.   
+
+Reverse
+split; change in authorized common stock   
+
+On
+February 24, 2017, the Company filed a certificate of change which effected a one-for-four reverse split, which became effective
+in the marketplace on March 20, 2017, and a reduction in the Company s authorized common stock from 50,000,000 shares to
+12,500,000 shares. These consolidated financial statements have been retroactively restated to reflect this reverse split.  
+
+Going
+concern   
+
+These
+consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and
+the settlement of liabilities and commitments in the normal course of business. As reflected in the accompanying consolidated
+financial statements, the Company had a net loss of approximately $6,023,000 and $10,889,000 for the three and six months ended
+June 30, 2018. The net cash used in operations was approximately $423,000 for the six months ended June 30, 2018. Additionally,
+during the three and six months ended June 30, 2018, revenues, substantially all of which are derived from the manufacture and
+sales of textile dyeing and finishing equipment, decreased by 30.8% and 38.6% as compared to the three and six months ended June
+30, 2017, respectively. Management believes that these matters raise substantial doubt about the Company s ability to continue
+as a going concern. Management cannot provide assurance that the Company will ultimately achieve profitable operations or become
+cash flow positive or raise additional debt and/or equity capital. Management believes that its capital resources are not currently
+adequate to continue operating and maintaining its business strategy for twelve months from the date of this report.  
+
+The
+Company may seek to raise capital through additional debt and/or equity financings to fund its operations in the future. Although
+the Company has historically raised capital from sales of equity, from convertible debt and from bank loans, there is no assurance
+that it will be able to continue to do so. If the Company is unable to raise additional capital or secure additional lending in
+the near future, management expects that the Company will need to curtail or cease operations. The accompanying consolidated financial
+statements do not include any adjustments related to the recoverability and or classification of recorded asset amounts and or
+classification of liabilities that might be necessary should the Company be unable to continue as a going concern.  
+
+Basis
+of presentation   
+
+In
+the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation
+have been included. Operating results for the three and six months ended June 30, 2018 are not necessarily indicative of the results
+that may be expected for the year ending December 31, 2018. The unaudited condensed consolidated financial statements should be
+read in conjunction with the audited consolidated financial statements as of and for the year ended December 31, 2017 and footnotes
+thereto included in the Company s Annual Report on Form 10-K filed with the SEC on April 11, 2018. The consolidated balance
+sheet as of December 31, 2017 contained herein has been derived from the audited consolidated financial statements as of December
+31, 2017, but does not include all disclosures required by the generally accepted accounting principles in the U.S. ( U.S.
+GAAP ).  
+
+Principles
+of Consolidation   
+
+The
+Company s unaudited condensed consolidated financial statements include the financial statements of its wholly-owned and
+majority owned subsidiaries, as well as the financial statements of the Huayang Companies, including Dyeing, which conducts the
+Company s continuing operations, and Heavy Industries, which operated discontinued operations. All significant intercompany
+accounts and transactions have been eliminated in consolidation.  
+
+On
+December 30, 2016, the Company sold and transferred its 100% interest in Fulland Wind to an unrelated party and discontinued
+the Company s forged rolled rings and related components business. Additionally, the Company s management decided
+to discontinue its petroleum and chemical equipment segment due to significant declines in revenues and the loss of its major
+customer. As such, forged rolled rings and related components segment s and petroleum and chemical segment s assets
+and liabilities have been classified on the consolidated balance sheets as assets and liabilities of discontinued operations as
+of June 30, 2018 and December 31, 2017. The operating results of the forged rolled rings and related components and petroleum
+and chemical segments have been classified as discontinued operations in our consolidated statements of operations for all years
+presented. Unless otherwise indicated, all disclosures and amounts in the notes to the consolidated financial statements are related
+to the Company s continuing operations.  
+
+Pursuant
+to Accounting Standards Codification ( ASC ) Topic 810, the Huayang Companies are considered variable interest entities
+( VIE ), and the Company is the primary beneficiary. The Company s relationships with the Huayang Companies
+and their shareholders are governed by a series of contractual arrangements between Green Power, the Company s wholly foreign-owned
+enterprise in the PRC, and each of the Huayang Companies, which are the operating companies of the Company in the PRC. Under PRC
+laws, each of Green Power, Dyeing and Heavy Industries is an independent legal entity and none of them is exposed to liabilities
+incurred by the other parties. The contractual arrangements constitute valid and binding obligations of the parties of such agreements.
+Each of the contractual arrangements and the rights and obligations of the parties thereto are enforceable and valid in accordance
+with the laws of the PRC. On October 12, 2007, the Company entered into the following contractual arrangements with each of Dyeing
+and Heavy Industries:  
+
+Consulting
+Services Agreement.  Pursuant to the exclusive consulting services agreements between Green Power and the Huayang Companies,
+Green Power has the exclusive right to provide to the Huayang Companies general business operation services, including advice
+and strategic planning, as well as consulting services related to the technological research and development of dyeing and finishing
+machines, electrical equipment and related components (the  Services ). Under this agreement, Green Power owns the
+intellectual property rights developed or discovered through research and development, in the course of providing the Services,
+or derived from the provision of the Services. The Huayang Companies shall pay a quarterly consulting service fees in Renminbi
+( RMB ) to Fulland that is equal to all of the Huayang Companies  profits for such quarter. To date, no such
+payments have been made and all profits were reinvested in the Company s operations.  
+
+Operating
+Agreement.  Pursuant to the operating agreement among Green Power, the Huayang Companies and all shareholders of the Huayang
+Companies, Green Power provides guidance and instructions on the Huayang Companies  daily operations, financial management
+and employment issues. The Huayang Companies  shareholders must designate the candidates recommended by Green Power as their
+representatives on the boards of directors of each of the Huayang Companies. Green Power has the right to appoint senior executives
+of the Huayang Companies. In addition, Green Power agrees to guarantee the Huayang Companies  performance under any agreements
+or arrangements relating to the Huayang Companies  business arrangements with any third party. The Huayang Companies, in
+return, agree to pledge their accounts receivable and all of their assets to Green Power. Moreover, each of the Huayang Companies
+agrees that, without the prior consent of Green Power, it will not engage in any transactions that could materially affect its
+assets, liabilities, rights or operations, including, without limitation, incurrence or assumption of any indebtedness, sale or
+purchase of any assets or rights, incurrence of any encumbrance on any of their assets or intellectual property rights in favor
+of a third party or transfer of any agreements relating to their business operation to any third party. The term of this agreement,
+as amended on November 1, 2008, is 20 years from October 12, 2007 and may be extended only upon Green Power s written confirmation
+prior to the expiration of the agreement, with the extended term to be mutually agreed upon by the parties.  
+
+Equity
+Pledge Agreement.   Under the equity pledge agreement between the Huayang Companies  shareholders and Green Power,
+the Huayang Companies  shareholders pledged all of their equity interests in the Huayang Companies to Green Power to guarantee
+the Huayang Companies  performance of their respective obligations under the consulting services agreement. If the Huayang
+Companies or the Huayang Companies  shareholders breach their respective contractual obligations, Green Power, as pledgee,
+will be entitled to certain rights, including the right to sell the pledged equity interests. The Huayang Companies  shareholders
+also agreed that, upon occurrence of any event of default, Green Power shall be granted an exclusive, irrevocable power of attorney
+to take actions in the place and stead of the Huayang Companies  shareholders to carry out the security provisions of the
+equity pledge agreement and take any action and execute any instrument that Green Power may deem necessary or advisable to accomplish
+the purposes of the equity pledge agreement. The Huayang Companies  shareholders agreed not to dispose of the pledged equity
+interests or take any actions that would prejudice Green Power s interest. The equity pledge agreement will expire two years
+after the Huayang Companies  obligations under the consulting services agreements have been fulfilled.  
+
+Option
+Agreement.    Under the option agreement between the Huayang Companies  shareholders and Green Power, the Huayang
+Companies  shareholders irrevocably granted Green Power or its designated person an exclusive option to purchase, to the
+extent permitted under PRC law, all or part of the equity interests in the Huayang Companies for the cost of the initial contributions
+to the registered capital or the minimum amount of consideration permitted by applicable PRC law. Green Power or its designated
+person has sole discretion to decide when to exercise the option, whether in part or in full. The term of this agreement, as amended
+on November 1, 2008, is 20 years from October 12, 2007 and may be extended prior to its expiration by written agreement of the
+parties.  
+
+Pursuant
+to ASC Topic 810 and related subtopics related to the consolidation of variable interest entities, the accounts of the Huayang
+Companies are consolidated in the accompanying financial statements. As VIEs, the Huayang Companies  sales are included
+in the Company s total sales, its income from operations is consolidated with the Company s, and the Company s
+net income includes all of the Huayang Companies net income. The Company does not record non-controlling interest on these VIE s
+and, accordingly, did not subtract any net income in calculating the net income of the VIEs that is attributable to the Company.
+Because of the contractual arrangements, the Company has a pecuniary interest in the Huayang Companies that requires consolidation
+of the Company s and the Huayang Companies  financial statements.  
+
+There
+are substantial uncertainties regarding the interpretation, application and enforcement of PRC laws and regulations, including
+but not limited to the laws and regulations governing the Company s business or the enforcement and performance of its contractual
+arrangements. These contractual arrangements may not be as effective in providing the Company with control over the VIEs as direct
+ownership. Due to its VIE structure, the Company has to rely on contractual rights to effect control and management of the VIEs,
+which exposes it to the risk of potential breach of contract by the shareholders of the VIEs for a number of reasons. For example,
+their interests as shareholders of the VIEs and the interests of the Company may have conflict and the Company may fail to resolve
+such conflicts; the shareholders may believe that breaching the contracts will lead to greater economic benefit for them; or the
+shareholders may otherwise act in bad faith. If any of the foregoing were to happen, the Company may have to rely on legal or
+arbitral proceedings to enforce its contractual rights, including specific performance or injunctive relief, and claiming damages.
+Such arbitral and legal proceedings may cost substantial financial and other resources, and result in a disruption of its business,
+and the Company cannot assure that the outcome will be in its favor. In addition, as all of these contractual arrangements are
+governed by PRC law and provide for the resolution of disputes through either arbitration or litigation in the PRC, they would
+be interpreted in accordance with PRC law and any disputes would be resolved in accordance with PRC legal procedures. The legal
+environment in the PRC is not as developed as in other jurisdictions, such as the United States. As a result, uncertainties in
+the PRC legal system could further limit the Company s ability to enforce these contractual arrangements. Furthermore, these
+contracts may not be enforceable in China if PRC government authorities or courts take a view that such contracts contravene PRC
+laws and regulations or are otherwise not enforceable for public policy reasons. In the events that the Company is unable to enforce
+any of these agreements, the Company would not be able to exert effective control over the affected VIEs and consequently, the
+results of operations, assets and liabilities of the affected VIEs and their subsidiaries would not be included in the Company s
+consolidated financial statements. If such were the case, the Company s cash flows, financial position and operating performance
+would be materially adversely affected.  
+
+The
+Company s agreements with respect to its consolidated VIEs are approved and in place. The Company s management believes that such
+agreements are enforceable and considers it a remote possibility that PRC regulatory authorities with jurisdiction over the Company s
+operations and contractual relationships would find the agreements to be unenforceable under existing laws.  
+
+The
+carrying amount of the VIE s assets and liabilities are included in the accompanying consolidated financial statements of
+the Company and are summarized as follows:   
+
+*
+Intercompany payables are eliminated in consolidation.  
+
+Use
+of estimates   
+
+The
+preparation of the unaudited condensed consolidated financial statements in conformity with accounting principles generally accepted
+in the U.S. requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues,
+expenses, and the related disclosures at the date of the financial statements and during the reporting period. Actual results
+could materially differ from these estimates. Significant estimates in the three and six months ended June 30, 2018 and 2017 include
+the allowance for doubtful accounts on accounts and other receivables, the allowance for obsolete inventory, the useful life of
+property and equipment and intangible assets, assumptions used in assessing impairment of long-term assets and valuation of deferred
+tax assets, the fair value of equity method investment, the fair value of assets held for sale, accruals for taxes due, and the
+value of stock-based compensation.  
+
+Cash
+and cash equivalents   
+
+For
+purposes of the consolidated statements of cash flows, the Company considers all highly liquid instruments purchased with a maturity
+of three months or less and money market accounts to be cash equivalents. The Company maintains with various financial institutions
+mainly in the PRC, Hong Kong and the U.S. At June 30, 2018 and December 31, 2017, cash balances held in PRC and Hong Kong banks
+of $2,141,492 and $952,663, respectively, are uninsured.  
+
+Fair
+value of financial instruments   
+
+The
+Company adopted the guidance of ASC Topic 820 for fair value measurements which clarifies the definition of fair value, prescribes
+methods for measuring fair value, and establishes a fair value hierarchy to classify the inputs used in measuring fair value as
+follows:  
+
+Level
+1 - Inputs are unadjusted quoted prices in active markets for identical assets or liabilities available at the measurement date.  
+
+Level
+2 - Inputs are unadjusted quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar
+assets and liabilities in markets that are not active, inputs other than quoted prices that are observable, and inputs derived
+from or corroborated by observable market data.  
+
+Level
+3 - Inputs are unobservable inputs which reflect the reporting entity s own assumptions on what assumptions the market participants
+would use in pricing the asset or liability based on the best available information. The Company did not measure these assets
+at fair value at June 30, 2018 and December 31, 2017.  
+
+The
+carrying amounts reported in the consolidated balance sheets for cash and cash equivalents, restricted cash, notes receivable,
+accounts receivable, inventories, advances to suppliers, deferred tax assets, receivable from sale of subsidiary, prepaid expenses
+and other, short-term bank loans, bank acceptance notes payable, note payable, accounts payable, accrued liabilities, advances
+from customers, amount due to a related party, VAT and service taxes payable and income taxes payable approximate their fair market
+value based on the short-term maturity of these instruments .  
+
+ASC
+Topic 825-10  Financial Instruments  allows entities to voluntarily choose to measure certain financial assets and
+liabilities at fair value (fair value option). The fair value option may be elected on an instrument-by-instrument basis and is
+irrevocable, unless a new election date occurs. If the fair value option is elected for an instrument, unrealized gains and losses
+for that instrument should be reported in earnings at each subsequent reporting date. The Company did not elect to apply the fair
+value option to any outstanding instruments.  
+
+Concentrations
+of credit risk   
+
+The
+Company s operations are carried out in the PRC and Hong Kong. Accordingly, the Company s business, financial condition
+and results of operations may be influenced by the political, economic and legal environment in the PRC and Hong Kong, and by
+the general state of the economies in the PRC and Hong Kong. The Company s operations in the PRC are subject to specific
+considerations and significant risks not typically associated with companies in North America. The Company s results may
+be adversely affected by changes in governmental policies with respect to laws and regulations, anti-inflationary measures, currency
+conversion and remittance abroad, and rates and methods of taxation, among other things.  
+
+Financial
+instruments which potentially subject the Company to concentrations of credit risk consist principally of cash and trade accounts
+receivable. Substantially all of the Company s cash is maintained with state-owned banks within the PRC and Hong Kong, and
+none of these deposits are covered by insurance. The Company has not experienced any losses in such accounts and believes it is
+not exposed to any risks on its cash in bank accounts. A significant portion of the Company s sales are credit sales which
+are primarily to customers whose ability to pay is dependent upon the industry economics prevailing in these areas; however, concentrations
+of credit risk with respect to trade accounts receivables is limited due to generally short payment terms. The Company also performs
+ongoing credit evaluations of its customers to help further reduce credit risk.  
+
+At
+June 30, 2018 and December 31, 2017, the Company s cash balances by geographic area were as follows:  
+
+Restricted
+cash   
+
+Restricted
+cash mainly consists of cash deposits held by various banks to secure bank acceptance notes payable. The Company s restricted
+cash totaled $94,659 and $272,991 at June 30, 2018 and December 31, 2017, respectively.  
+
+Notes
+receivable   
+
+Notes
+receivable represents trade accounts receivable due from customers where the customers  bank has guaranteed the payment
+of the receivable. This amount is non-interest bearing and is normally paid within three and six months. Historically, the Company
+has experienced no losses on notes receivable. The Company s notes receivable totaled $84,276 and $461,292 at June 30, 2018
+and December 31, 2017, respectively.   
+
+Accounts
+receivable   
+
+Accounts
+receivable are presented net of an allowance for doubtful accounts. The Company maintains allowances for doubtful accounts for
+estimated losses. The Company reviews the accounts receivable on a periodic basis and makes general and specific allowances when
+there is doubt as to the collectability of individual balances. In evaluating the collectability of individual receivable balances,
+the Company considers many factors, including the age of the balance, a customer s historical payment history, its current
+credit-worthiness and current economic trends. Accounts are written off after exhaustive efforts at collection. At June 30, 2018
+and December 31, 2017, the Company has established, based on a review of its outstanding balances, an allowance for doubtful accounts
+in the amounts of $9,244,965 and $8,115,876, respectively.   
+
+Inventories   
+
+Inventories,
+consisting of raw materials, work in process and finished goods related to the Company s products are stated at the lower
+of cost or market utilizing the weighted average method. A reserve is established when management determines that certain inventories
+may not be saleable. If inventory costs exceed expected market value due to obsolescence or quantities in excess of expected demand,
+the Company will record reserves for the difference between the cost and the market value. These reserves are recorded based on
+estimates. The Company recorded an inventory reserve of $310,193 and $313,930 at June 30, 2018 and December 31, 2017, respectively.  
+
+Advances
+to suppliers   
+
+Advances
+to suppliers represent the cash paid in advance for the purchase of raw material from suppliers. The advance payments are intended
+to ensure preferential pricing and delivery. The amounts advanced under such arrangements totaled $939,852 and $2,023,779 at June
+30, 2018 and December 31, 2017, respectively.  
+
+Property
+and equipment   
+
+Property
+and equipment are carried at cost and are depreciated on a straight-line basis over the estimated useful lives of the assets.
+The cost of repairs and maintenance is expensed as incurred; major replacements and improvements are capitalized. When assets
+are retired or disposed of, the cost and accumulated depreciation are removed from the accounts, and any resulting gains or losses
+are included in the statements of operations in the year of disposition. The Company examines the possibility of decreases in
+the value of fixed assets when events or changes in circumstances reflect the fact that their recorded value may not be recoverable.  
+
+Equity
+method investment   
+
+Investments
+in which the Company has the ability to exercise significant influence, but do not control, are accounted for under the equity
+method of accounting and are included in the long-term assets on the consolidated balance sheets. Under this method of accounting,
+the Company s share of the net earnings or losses of the investee is presented below the income tax line on the consolidated
+statements of operations. The Company evaluates its equity method investment whenever events or changes in circumstance indicate
+that the carrying amounts of such investment may be impaired. If a decline in the value of an equity method investment is determined
+to be other than temporary, a loss is recorded in the current period. (See Note 6).  
+
+Impairment
+of long-lived assets   
+
+In
+accordance with ASC Topic 360, the Company reviews long-lived assets for impairment whenever events or changes in circumstances
+indicate that the carrying amount of the assets may not be fully recoverable, or at least annually. The Company recognizes an
+impairment loss when the sum of expected undiscounted future cash flows is less than the carrying amount of the asset. The amount
+of impairment is measured as the difference between the asset s estimated fair value and its book value. During the
+six months ended June 30, 2018 and 2017, the Company did not record any impairment charges.  
+
+Advances
+from customers    
+
+Advances
+from customers at June 30, 2018 and December 31, 2017 amounted to $2,371,390 and $2,454,375, respectively, and consist of prepayments
+from customers for merchandise that had not yet been shipped. The Company will recognize the deposits as revenue when customers
+take delivery of the goods and title to the assets is transferred to customers in accordance with the Company s revenue
+recognition policy.  
+
+Revenue
+recognition   
+
+In
+May 2014, FASB issued an update Accounting Standards Update ( ASU ) ( ASU 2014-09 ) establishing Accounting
+Standards Codification ( ASC ) Topic 606,  Revenue from Contracts with Customers  ( ASC 606 ). ASU
+2014-09, as amended by subsequent ASUs on the topic, establishes a single comprehensive model for entities to use in accounting
+for revenue arising from contracts with customers and supersedes most of the existing revenue recognition guidance. This standard,
+which is effective for interim and annual reporting periods in fiscal years that begin after December 15, 2017, requires an entity
+to recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration
+to which the entity expects to be entitled in exchange for those goods or services and also requires certain additional disclosures.
+The Company adopted this standard in 2018 using the modified retrospective approach, which requires applying the new standard
+to all existing contracts not yet completed as of the effective date and recording a cumulative-effect adjustment to retained
+earnings as of the beginning of the fiscal year of adoption. Based on an evaluation of the impact ASU 2014-09 will have on the
+Company s sources of revenue, the Company has concluded that ASU 2014-09 did not have a material impact on the process for,
+timing of, and presentation and disclosure of revenue recognition from customers.  
+
+The
+Company recognizes revenues from the sale of equipment upon shipment and transfer of title. The other elements may include installation
+and, generally, a one-year warranty. Equipment installation revenue is valued based on estimated service person hours to complete
+installation and is recognized when the labor has been completed and the equipment has been accepted by the customer, which is
+generally within a couple days of the delivery of the equipment. Warranty revenue is valued based on estimated service person
+hours to complete a service and generally is recognized over the contract period.   
+
+All
+other product sales with customer specific acceptance provisions are recognized upon customer acceptance and the delivery of the
+parts or service. Revenues related to spare part sales are recognized upon shipment or delivery based on the trade terms.  
+
+The
+Company recognizes revenue from the rental of batteries when earned.  
+
+Income
+taxes   
+
+The
+Company is governed by the Income Tax Law of the PRC, Inland Revenue Ordinance of Hong Kong and the U.S. Internal Revenue Code
+of 1986, as amended. The Company accounts for income taxes using the asset/liability method prescribed by ASC 740,  Accounting
+for Income Taxes.  Under this method, deferred tax assets and liabilities are determined based on the difference between
+the financial reporting and tax bases of assets and liabilities using enacted tax rates that will be in effect in the period in
+which the differences are expected to reverse. The Company records a valuation allowance to offset deferred tax assets if, based
+on the weight of available evidence, it is more-likely-than-not that some portion, or all, of the deferred tax assets will not
+be realized. The effect on deferred taxes of a change in tax rates is recognized as income or loss in the period that includes
+the enactment date.  
+
+On
+December 22, 2017, The United States signed into law the Tax Cuts and Jobs Act (the  Act ), a tax reform bill which,
+among other items, reduces the current federal income tax rate in the United States to 21% from 34%. The rate reduction is effective
+January 1, 2018, and is permanent.  
+
+The
+Act has caused the Company s deferred income taxes to be revalued. As changes in tax laws or rates are enacted, deferred
+tax assets and liabilities are adjusted through income tax expense. Pursuant to the guidance within SEC Staff Accounting Bulletin
+No. 118 ( SAB 118 ), as of December 31, 2017, the Company recognized the provisional effects of the enactment of the
+Act for which measurement could be reasonably estimated. Since the Company has provided a full valuation allowance against its
+deferred tax assets, the revaluation of the deferred tax assets did not have a material impact on any period presented. The ultimate
+impact of the Act may differ from these estimates due to the Company s continued analysis or further regulatory guidance
+that may be issued as a result of the Act.  
+
+The
+Company applied the provisions of ASC 740-10-50,  Accounting for Uncertainty in Income Taxes,  which provides clarification
+related to the process associated with accounting for uncertain tax positions recognized in the Company s financial statements.
+Audit periods remain open for review until the statute of limitations has passed. The completion of review or the expiration of
+the statute of limitations for a given audit period could result in an adjustment to the Company s liability for income
+taxes. Any such adjustment could be material to the Company s results of operations for any given quarterly or annual period
+based, in part, upon the results of operations for the given period. As of June 30, 2018 and 2017, the Company had no uncertain
+tax positions, and will continue to evaluate for uncertain positions in the future.  
+
+Stock-based
+compensation   
+
+Stock-based
+compensation is accounted for based on the requirements of the Share-Based Payment topic of ASC Topic 718, which requires recognition
+in the financial statements of the cost of employee and director services received in exchange for an award of equity instruments
+over the vesting period or immediately if fully vested and non-forfeitable. The Financial Accounting Standards Board ( FASB )
+also requires measurement of the cost of employee and director services received in exchange for an award based on the grant-date
+fair value of the award.  
+
+Pursuant
+to ASC Topic 505-50, for share-based payments to consultants and other third-parties, compensation expense is determined at the
+ measurement date.  The expense is recognized over the vesting period of the award or on issuance if fully-vested
+and non-forfeitable. Until the measurement date is reached, the total amount of compensation expense remains uncertain. The Company
+records compensation expense based on the fair value of the award at the reporting date. The awards to consultants and other third-parties
+are then revalued, or the total compensation is recalculated, based on the then current fair value, at each subsequent reporting
+date.  
+
+Shipping
+costs   
+
+Shipping
+costs are included in selling expenses, general and administrative and totaled $5,705 and $30,653 for the three months ended June
+30, 2018 and 2017, respectively. Shipping costs totaled $22,569 and $59,232 for the six months ended June 30, 2018 and 2017, respectively.  
+
+Employee
+benefits   
+
+The
+Company s operations and employees are all located in the PRC and Hong Kong. The Company makes mandatory contributions to
+the PRC and Hong Kong governments  health, retirement benefit and unemployment funds in accordance with the relevant Chinese
+social security laws and law of Mandatory Provident Fund in Hong Kong. The costs of these payments are charged to the same accounts
+as the related salary costs in the same period as the related salary costs incurred. Employee benefit costs totaled $53,547 and
+$39,789 for the three months ended June 30, 2018 and 2017, respectively. Employee benefit costs totaled $125,050 and $74,706 for
+the six months ended June 30, 2018 and 2017, respectively.  
+
+Research
+and development   
+
+Research
+and development costs are expensed as incurred. The costs primarily consist of raw materials and salaries incurred for the development
+and improvement of the Company s dyeing and finishing machine product line. Research and development costs totaled
+$124,981 and $111,053 for the three months ended June 30, 2018 and 2017, respectively. Research and development costs totaled
+$238,428 and $217,130 for the six months ended June 30, 2018 and 2017, respectively.   
+
+Foreign
+currency translation   
+
+The
+reporting currency of the Company is the U.S. dollar. The functional currency of the parent company is the U.S. dollar and the
+functional currency of the Company s operating subsidiaries is the Chinese Renminbi ( RMB ) or Hong Kong dollars
+( HKD ). For the subsidiaries and affiliates, whose functional currencies are the RMB or HKD, results of operations
+and cash flows are translated at average exchange rates during the period, assets and liabilities are translated at the unified
+exchange rate at the end of the period, and equity is translated at historical exchange rates. As a result, amounts relating to
+assets and liabilities reported on the statements of cash flows may not necessarily agree with the changes in the corresponding
+balances on the balance sheets. Translation adjustments resulting from the process of translating the local currency financial
+statements into U.S. dollars are included in determining comprehensive loss. The cumulative translation adjustment and effect
+of exchange rate changes on cash for the six months ended June 30, 2018 and 2017 was $(100,418) and $96,103, respectively. Transactions
+denominated in foreign currencies are translated into the functional currency at the exchange rates prevailing on the transaction
+dates. Assets and liabilities denominated in foreign currencies are translated into the functional currency at the exchange rates
+prevailing at the balance sheet date with any transaction gains and losses that arise from exchange rate fluctuations on transactions
+denominated in a currency other than the functional currency are included in the results of operations as incurred.  
+
+All
+of the Company s revenue transactions are transacted in the functional currency of the operating subsidiaries and affiliates.
+The Company did not enter into any material transaction in foreign currencies. Transaction gains or losses have not had, and are
+not expected to have, a material effect on the results of operations of the Company.  
+
+For
+operating subsidiaries and VIE s located in the People s Republic of China ( PRC ), asset and liability
+accounts at June 30, 2018 and December 31, 2017 were translated at 6.6195 RMB to $1.00 and at 6.5075 to $1.00, respectively, which
+were the exchange rates on the balance sheet dates. For operating subsidiaries in Hong Kong, asset and liability accounts at June
+30, 2018 and December 31, 2017 were translated at 7.8463 HKD and 7.8128 HKD to $1.00, respectively, which were the exchange rates
+on the balance sheet date. For operating subsidiaries and VIE s located in the PRC, the average translation rates applied
+to the statements of operations for the six months ended June 30, 2018 and 2017 were 6.3701 RMB and 6.8748 RMB to $1.00, respectively.
+For operating subsidiaries located in Hong Kong, the average translation rates applied to the statements of operations for the
+six months ended June 30, 2018 was 7.8 HKD to $1.00. The Company did not have operations in Hong Kong during the 2017 periods.
+Cash flows from the Company s operations are calculated based upon the local currencies using the average translation rate.  
+
+Loss
+per share of common stock   
+
+ASC
+Topic 260  Earnings per Share,  requires presentation of both basic and diluted earnings per share ( EPS )
+with a reconciliation of the numerator and denominator of the basic EPS computation to the numerator and denominator of the diluted
+EPS computation. Basic EPS excludes dilution. Diluted EPS reflects the potential dilution that could occur if securities or other
+contracts to issue common stock were exercised or converted into common stock or resulted in the issuance of common stock that
+then shared in the earnings of the entity.  
+
+Basic
+net loss per share is computed by dividing net loss available to common stockholders by the weighted average number of shares
+of common stock outstanding during the period. Diluted net loss per share is computed by dividing net loss by the weighted average
+number of shares of common stock, common stock equivalents and potentially dilutive securities outstanding during each period.
+The Company did not have any common stock equivalents or potentially dilutive common stock outstanding during the three and six
+months ended June 30, 2018 and 2017. In a period in which the Company has a net loss, all potentially dilutive securities are
+excluded from the computation of diluted shares outstanding as they would have had an anti-dilutive impact.  
+
+The
+following table presents a reconciliation of basic and diluted net loss per share:  
+
+Noncontrolling
+interest   
+
+The
+Company accounts for noncontrolling interest in accordance with ASC Topic 810-10-45, which requires the Company to present noncontrolling
+interests as a separate component of total shareholders  equity on the consolidated balance sheets and the consolidated
+net income/(loss) attributable to the its noncontrolling interest be clearly identified and presented on the face of the consolidated
+statements of operations and comprehensive (loss).  
+
+Comprehensive
+(loss) income   
+
+Comprehensive
+loss (income) is comprised of net loss and all changes to the statements of stockholders  equity, except those due to investments
+by stockholders, changes in paid-in capital and distributions to stockholders. For the Company, comprehensive (loss) income for
+the three and six months ended June 30, 2018 and 2017 included net loss and unrealized (loss) gain from foreign currency translation
+adjustments.   
+
+Reclassification   
+
+Certain
+reclassifications have been made in prior year s consolidated financial statements to conform to the current year s
+financial presentation. The reclassifications have no effect on previously reported net income (loss) and related to the reclassification
+of discontinued operations.  
+
+Reverse
+stock split   
+
+The
+Company effected a one-for-four reverse stock split of its common stock on March 20, 2017. All share and per share information
+has been retroactively adjusted to reflect this reverse stock split.  
+
+Recent
+accounting pronouncements   
+
+In
+August 2016, the FASB issued ASU 2016-15 which addresses eight cash flow classification issues, eliminating the diversity in practice.
+This ASU is effective for annual and interim reporting periods beginning after December 15, 2017, with early adoption permitted.
+The retrospective transition method, requiring adjustment to all comparative periods presented, is required unless it is impracticable
+for some of the amendments, in which case those amendments would be prospectively applied as of the earliest date practicable.
+The adoption of ASU did not have a material impact on the Company s consolidated financial statements.  
+
+In
+November 2016, the FASB issued ASU 2016-18, Statement of Cash Flows (Topic 230) Restricted Cash. The new guidance requires that
+the reconciliation of the beginning-of-period and end-of-period amounts shown in the statements of cash flows include restricted
+cash and restricted cash equivalents. If restricted cash is presented separately from cash and cash equivalents on the balance
+sheet, companies will be required to reconcile the amounts presented on the statement of cash flows to the amounts on the balance
+sheet. Companies will also need to disclose information about the nature of the restrictions. The standard permits the use of
+either the retrospective or cumulative effect transition method. This update will become effective for the Company for fiscal
+years beginning after December 15, 2017, and interim periods within those fiscal years, with early adoption permitted. The adoption
+of ASU did not have a material impact on the Company s consolidated financial statements. 
+ 
+In January 2017, the FASB issued ASU No. 2017-01, Business Combinations (Topic 805): Clarifying the Definition of a Business,
+in an effort to clarify the definition of a business with the objective of adding guidance to assist entities with evaluating
+whether transactions should be accounted for as acquisitions (or disposals) of assets or businesses. The amendments of this ASU
+are effective for fiscal years beginning after December 15, 2017, and interim periods within those fiscal years. The adoption
+of this guidance did not have any impact on the Company s financial statements.  
+
+In
+May 2017, the FASB issued ASU 2017-09,  Compensation Stock Compensation  (Topic 718): Scope of Modification Accounting,
+or ASU 2017-09. ASC 2017-09 provides guidance about which changes to the terms or conditions of a share-based payment award require
+an entity to apply modification accounting in Topic 718. The guidance is effective for annual periods beginning after December 15,
+2017, with early adoption permitted, including adoption in any interim period for which financial statements have not yet been
+issued. The adoption of ASU did not have a material impact on the Company s consolidated financial statements.  
+
+In
+July 2017, the FASB issued ASU 2017-11,  Accounting for Certain Financial Instruments with Down Round Features , or ASU 2017-11,
+which updates the guidance related to the classification analysis of certain equity-linked financial instruments (or embedded
+features) with down round features. Under ASU 2017-11, a down round feature no longer precludes equity classification when assessing
+whether the instrument is indexed to an entity s own stock. As a result, a freestanding equity-linked financial instrument
+(or embedded conversion option) no longer would be accounted for as a derivative liability at fair value as a result of the existence
+of a down round feature. For freestanding equity classified financial instruments, the amendments require entities that present
+earnings per share (EPS) in accordance with Topic 260 to recognize the effect of the down round feature when it is triggered.
+That effect is treated as a dividend and as a reduction of income available to common shareholders in basic EPS. ASU 2017-11 is
+effective for public entities for all annual and interim periods beginning after December 15, 2019. Early adoption is permitted.
+We are currently evaluating the impact that the adoption of ASU 2017-11 will have on our consolidated financial statements.  
+
+On
+December 22, 2017 the SEC staff issued Staff Accounting Bulletin 118 (SAB 118), which provides guidance on accounting
+for the tax effects of the Tax Cuts and Jobs Act (the TCJA).  SAB 118 provides a measurement period that should not
+extend beyond one year from the enactment date for companies to complete the accounting under ASC 740. In accordance with
+SAB 118, a company must reflect the income tax effects of those aspects of the TCJA for which the accounting under ASC 740
+is complete. To the extent that a company s accounting for certain income tax effects of the TCJA is incomplete but
+for which they are able to determine a reasonable estimate, it must record a provisional amount in the financial statements. Provisional
+treatment is proper in light of anticipated additional guidance from various taxing authorities, the SEC, the FASB, and even the
+Joint Committee on Taxation. If a company cannot determine a provisional amount to be included in the financial statements,
+it should continue to apply ASC 740 on the basis of the provisions of the tax laws that were in effect immediately before the
+enactment of the TCJA. The Company has applied this guidance to its financial statements.  
+
+Other
+accounting standards that have been issued or proposed by FASB that do not require adoption until a future date are not expected
+to have a material impact on the consolidated financial statements upon adoption. The Company does not discuss recent pronouncements
+that are not anticipated to have an impact on or are unrelated to its consolidated financial condition, results of operations,
+cash flows or disclosures.  
+
+NOTE
+2    ACQUISITIONS   
+
+On
+January 19, 2018 (the  Closing Date ), the Company completed the acquisition of 60% of the issued and outstanding
+capital stock of 3D Discovery Co. Limited ( 3D Discovery ), a company incorporation in Hong Kong, from its shareholders
+pursuant to the terms and conditions of a Sale and Purchase Agreement entered into among the Company and the 3D Discovery Stockholders
+on the Closing Date (the  Acquisition Agreement ). 3D Discovery is a digital marketing services provider which provides
+various solution such as 3D scanning and modeling, website and mobile app development, video production, and graphic design to
+its clients. Apart from its existing business, 3D Discovery plans to develop a mobile app which allows users to create an interactive
+virtual tour of a physical space by using a mobile phone camera. In connection with the acquisition, the Company issued 68,610
+unregistered shares of its common stock valued at $442,535, based on the acquisition-date fair value of our common stock of $6.45
+per share based on the quoted market price of the Company s common stock on the Closing date.  
+
+On
+January 30, 2018 (the  Closing Date ), the Company completed the acquisition of 80% of the issued and outstanding
+capital stock of AnyWorkspace Limited ( AnyWorkspace ), a company incorporation in Hong Kong, from its shareholders
+pursuant to the terms and conditions of a Sale and Purchase Agreement entered into among the Company and the AnyWorkspace Stockholders
+on the Closing Date (the  Acquisition Agreement ). AnyWorkspace develops an online, real-time marketplace that connects
+workspace providers with clients who need temporary office and meeting spaces. In connection with the acquisition, the Company
+issued 106,464 unregistered shares of its common stock valued at $534,449, based on the acquisition-date fair value of our common
+stock of $5.02 per share based on the quoted market price of the Company s common stock on the Closing date.  
+
+The
+fair value of the assets acquired and liabilities assumed were based on management estimates of the fair values on closing date
+of each respective acquisition. Based upon the purchase price allocations, the following table summarizes the estimated fair value
+of the assets acquired and liabilities assumed at the date of each acquisition:  
+
+The
+assets acquired and liabilities assumed are recorded at their estimated fair value on the acquisition date with subsequent changes
+recognized in earnings or loss. These estimates are inherently uncertain and are subject to refinement. Management develops estimates
+based on assumptions as a part of the purchase price allocation process to value the assets acquired and liabilities assumed as
+of the business combination date. As a result, during the purchase price measurement period, which may be up to one year from
+the business acquisition date, the Company may record adjustments to the assets acquired and liabilities assumed, with the corresponding
+offset to goodwill. After the purchase price measurement period, the Company will record adjustments to assets acquired or liabilities
+assumed in operating expenses in the period in which the adjustments were determined.  
+
+The
+purchase price exceeded the fair value of the net assets acquired by approximately $53,201, which was initially recorded as goodwill.
+Goodwill assigned represents the amount of consideration transferred in excess of the fair value assigned to identifiable assets
+acquired and liabilities assumed. ASC 350-30-35-4 requires that goodwill be tested for impairment on an annual basis and between
+annual tests when circumstances indicate that the recoverability of the carrying amount of goodwill may be in doubt. Application
+of the goodwill impairment test requires judgment, including the identification of reporting units, assigning assets and liabilities
+to reporting units, assigning goodwill to reporting units, and determining the fair value. Significant judgments required to estimate
+the fair value of reporting units include estimating future cash flows, determining appropriate discount rates and other assumptions.  
+
+NOTE
+3    DISCONTINUED OPERATIONS   
+
+Pursuant
+to an agreement dated December 23, 2016, the Company, through its wholly-owned subsidiary Fulland, sold the stock of Fulland Wind
+to a third party for a sales price of RMB 48 million (approximately $6.9 million). The Company s forging and related
+components business was conducted through Fulland Wind. The purchase price is payable in three installments. The Company received
+the first installment of RMB 14,400,000 (approximately $2.1 million) on December 28, 2016, and received the second installment
+of RMB14,400,000 (approximately $2.1 million) on April 10, 2017. The Company delivered Fulland Wind s business license,
+seals, books and records, business contracts and personnel roster to the third party buyer on December 30, 2016, effectively the
+sale date. If the equity transfer registration formalities are completed within one year without any third party claims on the
+equity transfer, a final payment of RMB 19,200,000 (approximately $2.7 million) was due 25 working days after the expiration of
+such period.   
+
+Pursuant
+to extension agreement dated December 31, 2017, the Company agreed the above third party buyer could paid off the final payment
+of RMB 19,200,000 (approximately $2.7 million) by December 31, 2018. As a result of the sale, the forged rolled rings and related
+components business is treated as a discontinued operation.  
+
+Additionally,
+in December 2016, the Company s management decided to discontinue its petroleum and chemical equipment segment due to significant
+decline in revenues and the loss of its major customers. Accordingly, the petroleum and chemical equipment segment business is
+treated as a discontinued operation.  
+
+Pursuant
+to ASC Topic 205-20, Presentation of Financial Statements - Discontinued Operations, the business of the forging and related components
+segment and petroleum and chemical equipment segment are considered discontinued operations because: (a) the operations and cash
+flows of the forging and related components segment and petroleum and chemical equipment segment were eliminated from the Company s
+operations; and (b) the Company has no interest in the divested operations.  
+
+The
+results of operations from Fulland Wind and petroleum and chemical equipment segment for the three and six months ended June 30,
+2018 and 2017 have been classified to the loss from discontinued operations line on the accompanying unaudited condensed consolidated
+statements of operations and comprehensive loss presented herein.  
+
+Contemporaneously
+with the sale of the Fulland Wind stock, pursuant to an agreement dated December 23, 2016, Heavy Industry entered into a lease
+with Wang Jiahong for a factory building owned by Heavy Industry at an annual rental of RMB680,566 (approximately $98,000). The
+lease had a ten-year term, commencing January 1, 2017. During 2017, the Company received RMB324,078 (approximately $49,800) in
+lease payments from the tenant. During the fourth quarter of 2017, Wang Jiahong orally terminated the above lease agreement and
+the Company is no longer received rental income.  
+
+The
+assets and liabilities classified as discontinued operations in the Company s consolidated financial statements as
+of June 30, 2018 and December 31, 2017, and for the three and six months ended June 30, 2018 and 2017 is set forth below.    
+
+The
+summarized operating result of discontinued operations included in the Company s unaudited condensed consolidated statements
+of operations is as follows:  
+
+NOTE
+4    ACCOUNTS RECEIVABLE   
+
+At
+June 30, 2018 and December 31, 2017, accounts receivable consisted of the following:  
+
+The
+Company reviews the accounts receivable on a periodic basis and makes general and specific allowances when there is doubt as to
+the collectability of individual balances.  
+
+NOTE
+5    INVENTORIES   
+
+At
+June 30, 2018 and December 31, 2017, inventories consisted of the following:  
+
+The
+Company establishes a reserve to mark down its inventories for estimated unmarketable inventories equal to the difference between
+the cost of inventories and the estimated net realizable value based on assumptions about the usability of the inventories, future
+demand and market conditions. For the six months ended June 30, 2018 and 2017, the Company did not increase its reserve for obsolete
+inventory.  
+
+NOTE
+6    EQUITY METHOD INVESTMENT   
+
+On
+December 26, 2016, Dyeing and Xue Miao, an unrelated individual, formed Shengxin pursuant to an agreement dated December 23, 2016.
+The agreement sets forth general terms relating to the proposed business, but does not set forth specific funding obligations
+for either party. Dyeing has agreed to invest RMB 60,000,000 (approximately $9,543,000) and had invested RMB 59.8 million (approximately
+$9,511,000 at June 30, 2018), for which it received a 30% interest, and Mr. Xue has a commitment to invest RMB 140,000,000 (approximately
+$22.3 million), of which Mr. Xue has contributed RMB 60,000,000 (approximately $9.5 million), for which Mr. Xue received a 70%
+interest in Shengxin. Shengxin s registered capital is RMB 200 million (approximately $31.8 million). Mr. Xue has advised
+Dyeing that he anticipates that he will fund the remaining RMB 80,000,000 (approximately $12.7 million) of his commitment during
+2018. Since Mr. Xue did not make this payment by the end of 2017, Dyeing has the right to amend the contract, and both parties
+may adjust each side s equity interest to reflect the amount of capital each side has actually invested. As of June 30,
+2018, no changes have been made to such contract.  
+
+Shengxin
+intends to develop, construct and maintain photovoltaic power generation projects, known as solar farms, in China, mainly in the
+provinces of GuiZhou and YunNan. As of June 30, 2018, Shengxin had not yet commenced any material operations.  
+
+The
+solar farm industry is China is subject to significant government regulation. In order to construct and operate solar farms in
+China, it is necessary to obtain a permit for a specific location, to obtain leasehold rights to a significant amount of contiguous
+land parcels in provinces where there is significant sunlight for most of the year to support a solar farm and to have an agreement
+to connect with the local grid. The development of solar farms requires significant funding, which, if financing is not available,
+would have to be provided by Dyeing and Mr. Xue. There are no agreements relating to the funding obligations of either Dyeing
+or Mr. Xue with respect to any specific project. Shengxin anticipates that to the extent that it obtains permits for solar farms,
+it will form a new subsidiary for the sole purpose of obtaining the permit for a specific location and constructing the solar
+farm at that location. The nature of the parties  respective investments and the respective equity interest in any solar
+farm project will be determined on a case-by-case basis.  
+
+To
+the extent that Mr. Xue develops the project, he may receive an equity interest in the project greater than the percentage of
+his equity investment, with the specific amount being subject to mutual agreement of the parties.  
+
+The
+Company s investment in Shengxin is subject to a high degree of risk. The Company cannot give any assurance that Shengxin
+will be able to obtain any permits, raise any required funding, develop and operate or sell any solar farms or operate profitably
+or that Dyeing will have the resources to provide any funds that may be required in order to fund any solar farm projects for
+which Shengxin may obtain permits. There may be a significant delay between the time funds are advanced for any project and the
+realization of revenue or cash flow from any project.  
+
+For the three months ended June 30, 2018
+and 2017, the Company s share of Shengxin s net loss were $73,433 and $24,456, respectively. For the six months ended
+June 30, 2018 and 2017, the Company s share of Shengxin s net loss were $145,845 and $42,811, respectively. At June
+30, 2018, Shengxin s assets consisted of cash, advances to supplier and fixed assets of approximately $549,000, $16.6 million
+and $15,000, respectively, and had no liabilities. At December 31, 2017, Shengxin s assets consisted of cash, advances to
+supplier and fixed assets of approximately $17.3 million and $615,000 and $5,000, respectively, and had no liabilities. 
+
+NOTE
+7    PROPERTY AND EQUIPMENT   
+
+At
+June 30, 2018 and December 31, 2017, property and equipment consisted of the following:  
+
+For the three months ended June 30, 2018
+and 2017, depreciation expense amounted to $1,049,914 and $971,112, respectively, of which $704,169 and $701,763, respectively,
+was included in cost of revenues, and the remainder was included in operating expenses. For the six months ended June 30, 2018
+and 2017, depreciation expense amounted to $2,101,654 and $1,939,302, respectively, of which $1,512,906 and $1,401,588, respectively,
+was included in cost of revenues, and the remainder was included in operating expenses. 
+
+NOTE
+8    INTANGIBLE ASSETS   
+
+At
+June 30, 2018 and December 31, 2017, intangible assets consisted of the following:  
+
+Amortization
+of intangible assets attributable to future periods is as follows:  
+
+There
+is no private ownership of land in China. Land is owned by the government and the government grants land use rights for specified
+terms. The Company s land use rights have terms of 45 and 50 years and expire on January 1, 2053 and October 30, 2053. The
+Company amortizes the land use rights over the term of the respective land use right.  
+
+In
+August 2016, the Company purchased a patent technology use right, value at RMB16,000,000, for a ten-year term from a third
+party. This patent covers ozone-ultrasonic textile dyeing equipment. The Company amortizes the exclusive patent use right over
+a term of ten years.  
+
+In
+January 2018, in connection the acquisition of 3D Discovery and AnyWorkspace, the Company acquired their technologies valued
+at $754,495 and $682,411 respectively. The technology of 3D Discovery covers a 3D virtual tour solution for the property
+industry. The technology of AnyWorkspace covers management software for an online, real-time marketplace that connects
+workspace providers with clients who need temporary office and meeting spaces. Additionally. during the six months ended
+June 30, 2018, Inspirit Studio developed its sharing economy mobile platform, namely BuddiGo, and capitalized costs amounting
+to $88,983. The BuddiGo application was launched in June 2018. The Company amortizes these technologies over a term of five
+years.  
+
+For
+the three months ended June 30, 2018 and 2017, amortization of intangible assets amounted to $101,714 and $79,829, respectively.
+For the six months ended June 30, 2018 and 2017, amortization of intangible assets amounted to $200,196 and $159,360, respectively.  
+
+NOTE
+9    SHORT-TERM BANK LOANS   
+
+Short-term
+bank loans represent amounts due to various banks that are due within one year. These loans can be renewed with these banks upon
+maturities. At June 30, 2018 and December 31, 2017, short-term bank loans consisted of the following:   
+
+Interest
+related to the short-term bank loans, which was $92,362 and $35,176 for the three months ended June 30, 2018 and 2017, and $122,814
+and $74,866 for the six months ended June 30, 2018 and 2017, respectively, is included in interest expense on the accompanying
+unaudited condensed consolidated statements of operations and comprehensive loss.  
+
+NOTE
+10    BANK ACCEPTANCE NOTES PAYABLE   
+
+Bank
+acceptance notes payable represent amounts due to banks which are collateralized. All bank acceptance notes payable are secured
+by the Company s restricted cash which are deposits with various lenders. At June 30, 2018 and December 31, 2017, the Company s
+bank acceptance notes payables consisted of the following:  
+
+NOTE
+11    CONVERTIBLE NOTE PAYABLE   
+
+On
+October 9, 2017, the Company entered into a Note Purchase Agreement (the  NPA ) with Chong Ou Holdings Group Company
+Limited, a BVI company (the  Investor ) pursuant to which the Investor purchased a note for $670,000, bearing two
+percent (2%) interest per annum (the  Note ). The Note automatically converts into shares of common stock of the Company
+at a conversion price equal to $3.35 per share on January 8, 2018. The Company shall have the option, in its sole and absolute
+discretion, to repay the Outstanding Amount in full on or before the Conversion Date. On January 8, 2018, the Note was converted
+into 200,100 shares of common stock.  
+
+Securities
+purchase agreement and related convertible note and warrants   
+
+On
+May 2, 2018, pursuant to a securities purchase agreement, the Company closed a private placement of securities with Iliad Research
+and Trading, L.P. (the  Investor ) pursuant to which the Investor purchased a Convertible Promissory Note (the  Note )
+in the original principal amount of $900,000, convertible into shares of common stock of the Company (the  Common Stock ),
+upon the terms and subject to the limitations and conditions set forth in the Note, and a two year Warrant to purchase 134,328
+shares of Common Stock at an exercise price of $7.18 per share (the  Warrant ). In connection with the Note, the Company
+paid an original issue discount of $150,000 and paid issuance costs of $45,018 which will be reflected as a debt discount and
+amortized over the Note term. The Note bears interest at 10% per annum, is unsecured, and is due on the date that is fifteen months
+from May 2, 2018. The warrants shall expire on the last calendar day of the month in which the second anniversary of the Issue
+Date occurs.  
+
+If
+the Company exercises its right to prepay this Note, the Company shall make payment to Investor of an amount in cash equal to
+125% multiplied by the then Outstanding Balance of this Note.  
+
+The
+Investor has the right at any time after May 2, 2018 until the Outstanding Balance has been paid in full to convert (each instance
+of conversion is referred to herein as a ( Lender Conversion ) all or any part of the Outstanding Balance into shares
+( Lender Conversion Shares ) of fully paid and non-assessable common stock, $0.001 par value per share ( Common
+Stock ), of the Company as per the following conversion formula:  
+
+the
+    number of Lender Conversion Shares equals the amount being converted (the  Conversion Amount ) divided by the
+    Lender Conversion Price (as defined below). All Investor Conversions shall be cashless and not require further payment from
+    the Investor. Subject to adjustment as set forth in this Note, the price at which Investor has the right to convert all or
+    any portion of the Outstanding Balance into Common Stock is $6.70 per share of Common Stock (the  Lender Conversion
+    Price ).   
+
+Beginning
+on the date that is six months after May 2, 2018, (the  Redemption Start Date ), Investor shall have the right, exercisable
+at any time in its sole and absolute discretion, to redeem all or any portion of the Note (such amount, the  Redemption
+Amount ) by providing the Company with a redemption notice, and each date on which Lender delivers a redemption notice.
+Payments of each Redemption Amount may be made (a) in cash, or (b) by converting such Redemption Amount into shares of Common
+Stock ( Redemption Conversion Shares , and together with the Lender Conversion Shares, the  Conversion Shares )
+(each, a  Redemption Conversion ) per the following formula: the number of Redemption Conversion Shares equals the
+portion of the applicable Redemption Amount being converted divided by the Redemption Conversion Price (as defined below), or
+(c) by any combination of the foregoing. Notwithstanding the foregoing, Borrower will not be entitled to elect a Redemption Conversion
+with respect to any portion of any applicable Redemption Amount and shall be required to pay the entire amount of such Redemption
+Amount in cash within thirty days, if (a) on the applicable Redemption Date there is an Equity Conditions Failure as defined in
+the Note, and such failure is not waived in writing by the Investor; or (b) the Redemption Conversion Price is below the Conversion
+Price Floor and the Company does not agree to waive the Conversion Price Floor. The Investor agrees to redeem at least the Minimum
+Redemption Amount in each thirty-day period following the Redemption Start Date. The Investor also agrees not to redeem more than
+the Minimum Redemption Amount in any thirty-day period following the Redemption Start Date in which the Redemption Conversion
+Price is less than the Conversion Floor Price.  
+
+Subject
+to the adjustments set forth herein, the conversion price for each Redemption Conversion (the  Redemption Conversion Price )
+shall be the lesser of (a) the Lender Conversion Price, and (b) the Market Price;  provided, however , in no event shall
+the Redemption Conversion Price be less than $2.00 per share ( Conversion Price Floor ).  
+
+This
+debt instrument includes embedded components including a put option. The Company evaluated these embedded components to determine
+whether they are embedded derivatives within the scope of ASC 815 that should be separately carried at fair value. ASC 815-15-25-1
+provides guidance on when an embedded component should be separated from its host instrument and accounted for separately as a
+derivative. Based on this analysis, the Company believes that the put option is clearly and closely related to the debt instrument
+and does not meet the definition of a derivative. Accordingly, in connection with this note, the Company recorded a debt discount
+for (a) the original issue discount of $150,000 (b) the relative fair value of the warrants issued of $152,490 and (c) legal fees
+and other fees paid in connection with the note aggregating $45,018. There is no beneficial conversion feature on this Note. The
+debt discount shall be accreted on a straight line basis over the term of this Note. For the three and six months ended June 30,
+2018, amortization of debt discount amounted to $46,334 and $46,334, respectively. At June 30, 2018 and December 31, 2017, convertible
+debt consisted of the following:  
+
+NOTE
+12    RELATED PARTY TRANSACTIONS   
+
+License
+Agreement with ECrent Capital Holdings Limited   
+
+On
+June 11, 2017, the Company entered into an Exclusivity Agreement (the  Exclusivity Agreement ) with ECrent Capital
+Holdings Limited ( ECrent ) the terms of which became effective on the same day. Pursuant to the Exclusivity Agreement,
+the Company and ECrent agreed to engage in exclusive discussions regarding a potential acquisition by the Company of ECrent and/or
+any of its subsidiaries or otherwise all or part of ECrent s business and potential business cooperation between the two
+companies (collectively, the  Potential Transactions ) for a period of three months commencing from the date of the
+Exclusivity Agreement (the  Exclusive Period ). Ms. Deborah Yuen, an affiliate of YSK 1860 Co., Limited, which is
+a major shareholder of the Company, controls ECrent. ECrent agreed that, during the Exclusive Period, neither ECrent nor its
+agents, representatives or advisors will contact, solicit, discuss or negotiate with any third party with respect to any transaction
+relating to a transfer or pledge of securities of ECrent and/or its subsidiaries, a sale of ECrent s business, a business
+cooperation or any other matters that may adversely affect the Potential Transactions or the parties  discussion related
+thereto. The exclusivity period has been further extended to a period of 18 months commencing from June 20, 2018 pursuant to three
+amendment agreements dated September 11, 2017, January 23, 2018 and June 20, 2018.  
+
+On
+May 8, 2018 and amended on May 24, 2018, Sharing Economy entered into a License Agreement (the  Agreement ) with ECrent.
+In accordance with the terms of the Amendment, ECrent shall grant the Company an exclusive license to utilize certain software
+and trademarks in order to develop, launch, operate, commercialize, and maintain an online website platform in Taiwan, Thailand,
+India, Indonesia, Singapore, Malaysia, Philippines, Vietnam, Cambodia, Japan, and Korea until June 30, 2019. In consideration
+for the license, the Company granted ECrent 250,000 shares of common stock (the  Consideration Shares ), at an issue
+price of $1,040,000, or $4.16 per share, (based on the quoted market price of the Company s common stock on the amended
+Agreement date of May 24, 2018). Pursuant to the terms of the Agreement, ECrent shall provide a guarantee on revenue and profit
+of US$10,000,000 and US$1,940,000, respectively. The Consideration Shares shall be reduced on a pro rata basis if there is a shortfall
+in the guaranteed revenue and/or profit. In connection with this agreement, during the three and six months ended June 30, 2018,
+the Company recorded license fee expense of $65,000 which is included in cost of sales, and at June 30, 2018, recorded a prepaid
+license fee   related party of $975,000 which will be amortized over the remaining license period.  
+
+Due
+to related parties   
+
+Provisional
+Agreement with EC Assets Management Limited   
+
+On
+June 21, 2018, EC Assets and Golden Value Finance Limited, entered into a Provisional Agreement for purchase and sale of the entire
+issued share capital of Future Ocean Limited, the owner of House No. 74 Cedar Drive (also known as House B31) the Redhill Peninsula
+Site D No. 18 Pak Pat Shan Road Hong Kong (the  Property ). Pursuant to the agreement, EC Assets has agreed to purchase
+Future Ocean Limited for HKD96 million. The parties intend to negotiate in good faith to enter into a formal agreement for the
+purchase and sale of the Property on or before July 31, 2018. The closing is anticipated to occur on or before December 13, 2018.
+There is no guarantee that the transaction will be consummated. In connection with this procurement, Ms. Deborah Yuen lent the
+Company HKD5 million (approximately $641,025) with non-interest bearing and due on demand.  
+
+YSK
+1860 Co., Limited    
+
+From
+time to time, during 2017 and 2018, the Company receive advances from YSK 1860 Co., Limited, who is the major shareholder of
+the Company for working capital purposes. These advances are non-interest bearing and are payable on demand. At June 30, 2018
+and December 31, 2017, amounts due to YSK 1860 Co., Limited amounted to $580,977 and $347,589, respectively.  
+
+NOTE
+13    STOCKHOLDERS  EQUITY   
+
+Common
+stock issued for services   
+
+During
+the six months ended June 30, 2018, the Company has issued 249,070 shares as bonus to certain directors and employees for performance
+targets to be achieved for the year in 2018, and the Company has also issued 5,060 shares as salary and staff benefits. These
+shares were valued at the fair market value on the entitlement or grant date using the reported closing share price on the date
+of entitlement or grant. During the six months ended June 30, 2018, the Company recorded stock-based compensation expense of $878,325 and prepaid expenses of $2,782 which will be amortized over the remaining service period.    
+
+During
+the six months ended June 30, 2018, pursuant to consulting agreements, the Company issued an aggregate of 2,560,291 shares of
+common stock to 80 consultants for the services rendered and to be rendered. These shares were valued at the fair market value
+on the grant date using the reported closing share price on the date of grant. As of June 30, 2018, in connection with the issuance
+of the shares to consultants, the Company recorded prepaid expenses of $8,430,678 which is being amortized over the respective
+service period.  
+
+Additionally,
+the Company issued/will issue an additional 2,326,562 share of common stock to 46 consultants as follows: 2,030,730 shares between
+July 2018 and December 2018; 295,832 shares during year 2019, provided that these agreements are not terminated prior to the issuance
+of such shares. The initial fair value of these shares was valued at the fair market value on the grant or contract date using
+the reported closing share price on the date of contract or grant. The Company will recognize stock-based professional fees over
+the period during which the services are rendered by such consultant. At the end of each financial reporting period prior to issuance
+of these shares, the fair value of these shares is remeasured using the then-current fair value of the Company s common
+stock.   As of June 30, 2018, there was $6,754,862
+of unvested stock-based consulting fees to be recognized over the remaining service periods.      
+
+For
+the six months ended June 30, 2018, in connection with the above share issuances and the amortization of prepaid stock-based consulting
+fees from shares issued in 2017, the Company recorded stock-based consulting fees of $4,711,594.  
+
+For
+part of the consultancy agreements, if, on the first date when the restrictive legend on the certificate of each lot of the shares
+issued to the Consultant pursuant these agreements are removed and such lot of shares becomes freely tradeable in the NASDAQ Capital
+Market without restriction, the closing price of the shares drops below the issue price, the Company will compensate the Consultants
+for the drop in value of such lot of shares, which will be calculated by multiplying the number of Shares by the difference between
+the closing price and the issue price ( Shortfall ). The total maximum number of shares issued for the Shortfall of
+these consultancy agreements shall not exceed 286,606 Shares.  
+
+Additionally,
+pursuant to a two-year consulting agreement between the Company s wholly-owned subsidiary, EC Advertising and an individual,
+the Company shall, within one month from the date of this Agreement (October 9, 2017), issue such number of ordinary shares of
+EC Advertising to the Consultant (or his nominee) so that he (or his nominee) will hold 15% of EC Advertising issued share capital
+as enlarged by the share issue pursuant to this agreement. Additionally, within one month after the Consultant achieves all the
+performance targets as outlined in the agreement, EC Advertising shall issue, or shall cause its major shareholder to transfer,
+such number of EC Advertising s ordinary shares to the Consultant (or its nominee) so that he (and his nominee) will, together
+with the 15% issued share capital discussed above, hold a total of 49% of EC Advertising s issued share capital as enlarged
+by the share issue or after the transfer (as the case may be). Performance targets include the achievement by the Company of total
+revenue of $10,000,000 and profit after tax of $4,000,000 during the term of the agreement.    
+ 
+ Common stock sold for cash   
+
+In
+March 2018, pursuant to a stock purchase agreement, the Company sold 69,676 shares of common stock to an investor at a purchase
+price of $3.68 per share for net cash proceeds a total of $256,410. The Company did not engage a placement agent with respect
+to these sales.  
+
+Common
+stock issued debt conversion   
+
+In
+January 2018, the Company issued 200,100 shares of its common stock upon conversion of debt (see Note 11).  
+
+Common
+stock issued in connection with acquisitions   
+
+On
+January 19, 2018 (the  Closing Date ), the Company completed the acquisition of 60% of the issued and outstanding
+capital stock of 3D Discovery from its shareholders pursuant to the terms and conditions of a Sale and Purchase Agreement entered
+into among the Company and the 3D Discovery Stockholders on the Closing Date. In connection with the acquisition, the Company
+issued 68,610 unregistered shares of its common stock valued at $442,535, based on the acquisition-date fair value of our common
+stock of $6.45 per share based on the quoted market price of the Company s common stock on the Closing date (See Note 2).   
+
+On
+January 30, 2018 (the  Closing Date ), the Company completed the acquisition of 80% of the issued and outstanding
+capital stock of AnyWorkspace from its shareholders pursuant to the terms and conditions of a Sale and Purchase Agreement entered
+into among the Company and the AnyWorkspace Stockholders on the Closing Date. In connection with the acquisition, the Company
+issued 106,464 unregistered shares of its common stock valued at $534,449, based on the acquisition-date fair value of our common
+stock of $5.02 per share based on the quoted market price of the Company s common stock on the Closing date (See Note 2).  
+
+On
+June 26, 2018, pursuant to the sub-licensing agreement entered between the Company and a related party, Ecrent Capital Holdings
+Limited, the Company issued 250,000 unregistered shares of its common stock valued at $1,040,000, or $4.16 per share, based on
+the quoted market price of the Company s common stock on the amended Agreement date of May 24, 2018. In connection with this agreement,
+during the three and six months ended June 30, 2018, the Company recorded license fee expense of $65,000 which is included in
+cost of sales, and at June 30, 2018, recorded a prepaid license fee   related party of $975,000 which will be amortized
+over the remaining license period (see Note 12).  
+
+NOTE
+14    STATUTORY RESERVE   
+
+The
+Company is required to make appropriations to statutory reserve, based on after-tax net income determined in accordance with generally
+accepted accounting principles of the PRC (the  PRC GAAP ). Appropriation to the statutory reserve should be at least
+10% of the after tax net income determined in accordance with the PRC GAAP until the reserve is equal to 50% of the entities 
+registered capital or members  equity. The profit arrived at must be set off against any accumulated losses sustained by
+the Company in prior years, before allocation is made to the statutory reserve. Appropriation to the statutory reserve must be
+made before distribution of dividends to shareholders. The appropriation is required until the statutory reserve reaches 50% of
+the registered capital. This statutory reserve is not distributable in the form of cash dividends. As of June 30, 2018 and December
+31, 2017, the Company appropriated the required 50% of its registered capital to statutory reserve for Dyeing and Heavy Industries.
+Accordingly, no additional statutory reserve for Dyeing and Heavy Industries are required for the period ended June 30, 2018.
+Green Power had loss since its establishment. No appropriation to statutory reserves for it was required as it incurred recurring
+net loss.  
+
+NOTE
+15    SEGMENT INFORMATION   
+
+During
+the three and six months ended June 30, 2017, the Company operated in one reportable business segments, the manufacture of textile
+dyeing and finishing equipment segment. During the three and six months ended June 30, 2018, the Company operated in two reportable
+business segments - (1) the manufacture of textile dyeing and finishing equipment segment, and (2) the Sharing Economy Segment
+which targets the technology and global sharing economy markets, by developing online platforms and rental business partnerships
+that will drive the global development of sharing through economical rental business models. The Company s reportable segments
+were strategic business units that offered different products. They were managed separately based on the fundamental differences
+in their operations and locations. During the 2017 period, all of the Company s operations were conducted in the PRC. The
+Sharing Economy Segment is based in Hong Kong.  
+
+Information
+with respect to these reportable business segments for the three and six months ended June 30, 2018 and 2017 was as follows:  
+
+(a)  
+      The
+    Company does not allocate any general and administrative expense of its U.S. activities to its reportable segments, because
+    these activities are managed at a corporate level.   
+
+(b)  
+      Represents
+    amount of net tangible assets not in use and to be used by for new segment being developed.   
+
+NOTE
+16    CONCENTRATIONS   
+
+Customers   
+
+Two
+customers accounted for approximately 40% (28% and 12%) of the Company s revenues for the six months ended June 30, 2018
+and one customer accounted for approximately 12% of the Company s revenues for the six months ended June 30, 2017.  
+
+No
+customer accounted for 10% of the Company s total outstanding accounts receivable at June 30, 2018 and December 31, 2017.  
+
+Suppliers   
+
+The
+following table sets forth information as to each supplier that accounted for 10% or more of the Company s inventories purchases
+for the six months ended June 30, 2018 and 2017.  
+
+*
+Less than 10%.  
+
+One
+supplier accounted for approximately 12% of the Company s total outstanding accounts payable at June 30, 2018. One supplier
+accounted for approximately 15% of the Company s total outstanding accounts payable at December 31, 2017.  
+
+NOTE
+17   COMMITMENT AND CONTINGENCIES   
+
+Equity
+investment commitment   
+
+On
+December 26, 2016, Dyeing made an equity investment with one unrelated company in Shengxin, a newly-formed entity which plans
+to develop, construct and maintain photovoltaic power generation projects in China. Shengxin s total registered capital
+is RMB 200 million (approximately $31.8 million). Dyeing has agreed to invest RMB 60,000,000 (approximately $9,543,000) for a
+30% equity interest and had invested RMB 59,800,000 (approximately $9,511,000) as of June 30, 2018. Mr. Xue has a commitment to
+invest RMB 140,000,000 (approximately $22.3 million) for a 70% interest. Mr. Xue contributed RMB 60,000,000 (approximately $9.5
+million), and he advised Dyeing that he anticipates that he will fund the balance of his commitment during 2018. Since Mr. Xue
+did not make this payment by the end of 2017, Dyeing has the right to amend the contract, and both parties may adjust each sides 
+equity interest to reflect the amount of capital each side has actually invested. As of the date of this report, the contract
+had not been amended. As of June 30, 2018, Shengxin had minimal operations. For the three months ended June 30, 2018 and 2017,
+the Company recorded a loss on equity method investment of $73,433 and $24,456, respectively. For the six months ended June 30,
+2018 and 2017, the Company s share of Shengxin s net loss were $145,845 and $42,811, respectively.   
+
+Litigation   
+
+On
+or about November 14, 2017, a complaint was filed in the United States District Court for the Eastern District of New York, captioned   Morris
+Ackerman v. Cleantech Solutions International, Inc.   The complaint alleged that the Company s proxy
+statement, which included a proposal to amend the Company s long-term incentive plan to provide for the grant of incentive
+and non-qualified options and stock grants to employees and others, did not comply with the disclosure requirements for proxy
+statements.  The parties reached a confidential settlement on or about December 20, 2017, and the plaintiff voluntarily dismissed
+the action with prejudice on or about January 2, 2018. In connection with this settlement, the Company paid $50,000.  
+
+On
+February 2, 2018, the law firm of Ellenoff Grossman   Schole LLP ( EGS ) filed a complaint against the Company
+along with a number of companies and individuals in an effort to recover their legal fees in connection with services provided
+to the other defendants. The lawsuit contends that the Company is the alter ego or successor in interest of those other defendants.
+Pursuant to the stipulation of discontinuance dated April 30, 2018, the EGS claim is discontinued without prejudices and without
+costs as to the Company only.  
+
+From
+time to time the Company may become a party to litigation in the normal course of business. Management believes that there are
+no current legal matters that would have a material effect on the Company s financial position or results of operations.  
+
+Transfer
+agreement   
+
+On
+August 4, 2017, the Company s wholly-owned subsidiary, EC Power (Global) Technology Limited ( EC Power ), entered
+into a Transfer Agreement (the  Transfer Agreement ) with ECoin Global Limited ( ECoin ), to purchase
+ECoin Redemption Codes (the  Codes ) produced by ECoin for total future consideration of $20,000,000 (the  Transfer
+Consideration ). In accordance with the Agreement, EC Power will market the Codes, which contain a value that enables subscribers
+to upload certain number of items onto ECrent s website for rental. The Codes have a validity period of four years, and
+will not expire until August 3, 2021 (the  Expiry Date ). The Transfer Consideration will be paid by EC Power to ECoin
+in installments, with each installment payable not later than thirty days after the end of December 31 in each calendar year.  
+
+Each
+installment will represent an amount equal to 50% of the net sale proceeds of the Codes sold during each calendar year. The aggregate
+of installments shall not exceed the Transfer Consideration. Any balance outstanding of the Transfer Consideration at the Expiry
+Date will be paid and discharged by the issuance and delivery to ECoin of common stock of the Company in accordance with the terms
+of the Agreement. The number of shares to be issued or delivered shall be an amount equal to (i) the balance due; divided by (ii)
+the VWAP of the shares for the period of twenty trading days immediately preceding the Expiry Date, provided always that in no
+circumstances shall shares be issued or delivered hereunder to the ECoin in excess of 19% of the issued and outstanding ordinary
+Shares of the Company. As of the date of this report, EC Power has not taken possession of any redemption codes and as of June
+30, 2018, EC Power has not sold any redemption codes.  
+
+Lease
+agreement   
+
+On
+June 29, 2018, the Company s wholly-owned subsidiary, Sharing Film International Limited, entered into a tenancy agreement
+for approximately 24,000 square feet in Shaw Studios, which is owned by Shaw Movie City Hong Kong Limited ( Shaw Movie City ).
+The initial lease term will be for one year, commencing November 1, 2018. The Company will issue new shares to Shaw Movie City
+to pay the up-front amounts due for rent, management fee and deposit on the spaces. The Company plans to utilize these spaces
+to explore and develop its film and media production and post-production business and to develop a sharing environment for the
+film and media production industry.  
+
+The
+rent of the Premises is HK$591,664 (approximately $76,000) per month, that is HK$7,099,970 per annum (approximately $910,000)
+for the Term. The entire sum of HK$7,099,970 (approximately $910,000) shall be payable in advance on the Handover Date without
+any deduction or set-off by such means and in such manner. Additionally, the Company shall pay a management fee as follows:  
+
+(i)   
+      HK$47,207 (approximately
+    $6,000) per month by cash in Hong Kong currency, payable in advance of each calendar month (commencing from the month of August
+    2018) for the Management Fee of office A;    
+ 
+      (ii)   
+      HK$2,994 (approximately
+    $384) per month by cash in Hong Kong currency, payable in advance of each calendar month (commencing from the month of August
+    2018) for the Management Fee of flat roof;    
+ 
+      (iii)   
+      HK$571,061 (approximately
+    $73,000) being 6 months  Management Fee for office B (and balcony B) and office C (and balcony C) payable in advance
+    by way of Allotted Shares for Payment, as defined below, in the manner pursuant to the agreement ;  and    
+ 
+      (iv)   
+      HK$95,177 (approximately
+    $12,000) per month by cash in Hong Kong currency, payable in advance of each calendar month (commencing from the month of
+    February 2019) for the Management Fee of office B (and balcony B) and office C (and balcony C).    
+
+Additionally,
+the Company is required to pay a security deposit in the amount of HK$3,137,502 (approximately $402,000) payable as follows: 1)
+HK$1,637,502 (approximately $210,000) by check and 2) HK$1,500,000 (approximately $192,000) by means of delivering to the Landlord
+the Company s the SEII new common shares issued and allotted to and in the name of the Landlord s nominee, at the Issue
+Price Per Allotted Share for Deposit, as defined below, provided that in no event shall the number of the Company s common
+shares to be issued to the Landlord s Nominee pursuant to this Agreement will exceed 19.9% of the issued and outstanding
+shares of the Company s common stock based on the total issued and outstanding shares of the Company s common stock
+on the date of this Agreement.  
+
+The
+issue price per Allotted Share for Payment is to be set and determined based on a 5-days closing average of the Company before
+the Shares Issued Date less 10% thereof ( Issue Price Per Allotted Share for Payment ). The issue price per Allotted
+Share for Deposit is to be set and determined based on a 5-days closing average of the Company before the Shares Issued Date (hereinafter
+called  Issue Price Per Allotted Share for Deposit ).  
+
+NOTE
+18    RESTRICTED NET ASSETS   
+
+Regulations
+in the PRC permit payments of dividends by the Company s PRC subsidiary and VIEs only out of their retained earnings, if
+any, as determined in accordance with PRC accounting standards and regulations. Subject to certain cumulative limit, a statutory
+reserve fund requires annual appropriations of at least 10% of after-tax profit, if any, of the relevant PRC VIEs and subsidiary.
+Heavy Industries and Dyeing had reached the cumulative limit as of December 31, 2017. The statutory reserve funds are not distributable
+as cash dividends. As a result of these PRC laws and regulations, the Company s PRC VIEs and its PRC subsidiary are restricted
+in their abilities to transfer a portion of their net assets to the Company. Foreign exchange and other regulations in PRC may
+further restrict the Company s PRC VIEs and its subsidiary from transferring funds to the Company in the form of loans and/or
+advances.  
+
+As
+of June 30, 2018 and December 31, 2017 and 2016, substantially all of the Company s net assets are attributable to the PRC
+VIEs and its subsidiary located in the PRC. Accordingly, the Company s restricted net assets at June 30, 2018 and December
+31, 2017 were approximately $45,618,000 and $50,873,000, respectively.  
+
+NOTE
+19    SUBSEQUENT EVENTS    
+
+Shares
+issued or to be issued for services   
+
+From
+July 1, 2018 to August 10, 2018, the Company or its subsidiaries signed the consultancy service agreements with 8 consultants
+respectively. Each consultancy period was around eleven to twelve months. the Company agreed to pay these consultants $1,056,020
+to be paid by the issuance of an aggregate of 299,101 shares as follows: 255,496 shares during the period between Jul 2018
+  December 2018; 43,605 shares during Year 2019.  
+
+The
+initial log of shares for each service agreements was valued at the fair market value on the grant date using the reported closing
+share price on the date of grant. Total number of the initial log of shares for these serviced agreements is 222,525. Total value
+of the initial log of share is $767,527. In connection with the issuance of these shares, the Company shall record stock-based
+professional fees of $767,527 over the service period.  
+
+Additionally,
+pursuant to this consulting agreement, the Company will issue an additional 76,576 shares of common stock to these consultants, provided
+that these Agreement are not terminated prior to date of the issuance of these shares. The initial fair value of these shares
+was valued at the fair market value on the contract date using the reported closing share price on the date of grant. The Company
+will recognize stock-based professional fees over the period during which the services are rendered by such consultant. At the
+end of each financial reporting period prior to issuance of these shares, the fair value of these shares is remeasured using the
+then-current fair value of the Company s common stock.  
+
+Shares issued for bonus to directors and employees   
+
+On
+August 1, 2018, the Company issued 177,000 shares as bonus to certain directors and employees for performance targets to be achieved
+for the second half of the year in 2018.  
+
+Shares
+issued for donation   
+
+On July 10, 2018, the Company issued 58,000 shares as
+donation to Ng Hong Man Educational Foundation Limited. The Foundation would use the funds raised from the donation to support
+and promote the delivery of education and the operation of the Foundation, to set up a co-working facility and community for training
+the low skill people, and to coordinate with schools and education institutes to support and promote the education of sharing
+economy to the teenage groups.  
+
+Shares issued in connection with Tenancy Agreement for office complex of Shaw Movie City  
+
+Sharing Film
+International Limited ( Sharing Film ), a wholly owned subsidiary of the Company, entered into a tenancy agreement
+with Shaw Movie City Hong Kong Limited ( Landlord ). The Landlord let and Sharing Film took one level of office complex
+of Shaw Movie City for one year commencing from 1 November 2018 renewable on a yearly basis, at an annual rental of HK$7,099,970
+and a monthly management fee of HK$145,378. On July 24, 2018, the Company issued 311,357 shares as the payment for the annual
+rental and part of the management fee for the one year tenure and 54,777 shares as the payment of part of the tenancy deposit. 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+Overview  
+
+Historically,
+our primary operations involved the design, manufacture and distribution of a line of proprietary high and low temperature dyeing
+and finishing machinery to the textile industry. Our products feature a high degree of both automation and mechanical-electrical
+integration. Our products are used in dyeing yarns such as pure cotton, cotton-polyester, terylene, polyester wool, poly-acrylic
+fiber, nylon, cotton ramie, and wool yarn. We are continuing to seek to utilize our expertise in manufacturing precision products
+to meet demand in new and existing end markets. 
+
+We design and
+produce airflow dyeing machines, which use air instead of water. Water is used in the traditional dyeing process. We believe that
+our air-flow technology, which is designed to enable users to meet the stricter environmental standards, results in reduced input
+costs, fewer wrinkles, less damage to the textile, and reduced emissions. Historically, the Chinese government s mandate
+to phase out older machinery in China s textile industry that does not meet the new environmental standards has benefitted
+us. However, in recent years, challenging economic conditions, increases in raw materials prices and the Chinese government s
+more aggressive stance toward shutting down factories, including textile manufacturers, that are not compliant with emission standards,
+have adversely impacted our dyeing and finishing businesses. 
+
+Currently, we
+focus on investing in research and development to improve our competitive position. In August 2016, we purchased the technology
+use right for a patent that covers ozone-ultrasonic textile dyeing equipment. We have utilized this new patent technology to develop
+prototypes of next generation dyeing and finishing equipment that we believe will appeal to textile manufacturers in Southeast
+Asia who are more likely to purchase modern equipment than our current customer base in China. We are working to develop relationships
+with local distributors in countries such as Cambodia and Vietnam to support our sales efforts in these markets. Our key finishing
+products include our after-treatment compacting machine used in the final finishing of knitted material, such as cotton, which
+is designed to improve the softness, reduce shrinkage and ensure better dimensional stability, and a garment washing machine for
+denim, which is made of stainless steel and can be customized for use by Chinese jeans manufacturers. We are also diversifying
+our manufacturing operations to target other industries outside of the textile industry and plan to roll out a mobile phone cover
+production line later this year. We expect our revenue from dyeing and finishing equipment segment will remain at or about its
+current quarterly level in the near future, although declines are possible. 
+
+On December 26, 2016, Dyeing and Xue Miao,
+an unrelated individual, formed Shengxin, in which Dyeing has a 30% equity interest and the unrelated third party holds a 70% interest,
+pursuant to an agreement dated December 23, 2016. Shengxin intends to develop, construct and maintain photovoltaic power generation
+projects, known as solar farms, in China, mainly in the provinces of GuiZhou and YunNan. In April 2018, Shengxin secured and invested
+in a large solar PV project in GuiZhou province. Shengxin paid RMB40.0 million for the project rights and also engaged a local
+contractor to proceed with building the project. However, on June 1, 2018, the Chinese government halted installation of new
+solar farms for the remainder of the year and reduced subsidies for projects already under construction. At this time, it is unclear
+how long these policies will remain in effect or how aggressively the Chinese government will enforce them. Shortly after the policies
+were announced, the banks that had previously agreed to finance this project backed out and the project is currently on hold until
+we are able to find another bank to supply financing or identify a buyer for the project. Should the project resume construction,
+we will have the priority to supply components and equipment such as: solar racking and mounting systems for the projects under
+the same conditions as the other vendors. 
+
+At June 30, 2018 our investment in Shengxin
+amounted to RMB58.0 million. Our investment in Shengxin is subject to a high degree of risk. We cannot give any assurance that
+Shengxin will be able to obtain any permits, raise any required funding, develop and operate or sell any solar farms or operate
+profitably or that Dyeing will have the resources to provide any funds that may be required in order to fund any solar farm projects
+for which Shengxin may obtain permits. There may be a significant delay between the time funds are advanced for any project and
+the realization of revenue or cash flow from any project. 
+
+Through December 30, 2016, we operated
+in the forged rolled rings and related components segment, in which we manufactured and sold precision forged rolled rings, shafts,
+flanges, and other forged components for the energy industry including wind power and other industries, On December 30, 2016, we
+sold the stock in Fulland Wind, the subsidiary that operated our forged rolled rings and related components business, to a non-affiliated
+third party, as a result of which the forged rolled rings and related components business is reflected as a discontinued operations
+for all periods presented. 
+
+Additionally, during 2016, we operated
+a petroleum and chemical equipment segment, in which we manufactured and sold petroleum and chemical equipment. Because of a significant
+decline in revenues from this segment, we determined that we would not continue to operate in this segment and accordingly, the
+petroleum and chemical equipment segment is reflected as discontinued operations for all periods presented. 
+
+Recently, difficult
+economic conditions, limited availability of credit in China and the looming trade war with the US presented numerous challenges
+for our business. As a result, we experienced softer demand for our low-emission airflow dyeing machines as many of our potential
+customers already upgraded to newer models and we believe that much of our remaining potential customer base does not have the
+ability to make significant capital expenditures at this time. As a result, if we are to sell our products to the smaller textile
+manufacturers, it may be necessary for us to design and market a cheaper machine that meets the Chinese government requirements
+or reduce prices which would impact both revenues and gross margin. 
+
+Our ability to
+expand our operations and increase our revenue is largely affected by the PRC government s policy on such matters as the
+availability of credit, which affects all of our operations, and its policies relating to the textile industry, environment issues
+and alternative energy as well as the competitiveness of Chinese textile manufacturers at a time when consumers are looking for
+lower prices and manufacturers are looking to produce in a country that has lower labor costs than China, all of which affects
+the market for our dyeing and finishing equipment. Our business is also affected by general economic conditions and we cannot
+assure you that we will be able to increase our revenues in the near future, if at all. For example, potential tariffs levied
+on Chinese textile manufacturers by the US would have a negative impact on our customers and limit their ability to purchase equipment
+from us. Because of the nature of our products, our customers  projections of future economic conditions are an integral
+part of their decisions as to whether to purchase capital equipment at this time or defer such purchases until a future date. 
+
+Recent developments  
+
+Inspirit Studio Limited  
+
+During the period, BuddiGo, the sharing
+economy mobile platform developed by Inspirit Studio Limited ( Inspirit Studio ), officially launched its service to
+the local market in Hong Kong. Since the BuddiGo application has been launched, more than 3,200 partners became our buddies and
+more than 134,000 clients felt satisfied with its services. BuddiGo offers a wide range of errand services. Currently, about 80
+percent of the orders received are for on-demand urgent delivery of items such as documents, flowers and cakes. Food delivery services
+are also available. 
+
+In the third quarter of 2018, BuddiGo enhanced
+its team with the addition of two new sales and marketing professionals as well as a new designer. The enlarged workforce will
+help support BuddiGo s heightened marketing activities that will occur beginning in late August and are expected to result
+in significant business growth in the latter half of 2018. BuddiGo is currently working with multiple agencies on the upcoming
+marketing campaign which mainly focuses on promoting BuddiGo via online channels to increase reach and drive registration and conversion
+for both buy-side and sell-side users. Our goal is to connect with the community and deliver localized content featuring BuddiGo s
+core features and advantages. During the third quarter of 2018, we expect to register over 1,000 new users. In late 2018, BuddiGo
+will conduct promotional programs via multiple online channels including broadcast branding videos with local  key opinion
+leaders  ( KOLs ) who will help promote our services to target audiences. We anticipate between 50 to 100 transactions
+per day once the general public is more aware of our services. 
+
+In order to ensure the effective and efficient
+utilization of the mobile platform by its clients, BuddiGo will continuously review its operations and resolve technical problems
+as soon as reasonably practicable. 
+
+AnyWorkspace Limited  
+
+During the period, AnyWorkspace Limited
+( AnyWorkspace ) focused on actively enlarging its exposure to the general public. Website traffic from new users rose
+71% in the second quarter of 2018 compared to the first quarter of 2018. In addition, AnyWorkspace began exploring the commercial
+markets for available coworking spaces in India and anticipates that it will be able to broaden the space provider base and attract
+more users in this region in the coming quarter. We are currently revamping AnyWorkspace s corporate website, www.anyworkspace.com.
+We expected the site to be completed in the third quarter of 2018 and anticipate significant growth in website traffic. 
+
+Moreover, AnyWorkspace began offering advertising
+service packages to space providers in June 2018 which we expect to enhance advertising revenue in the third quarter of 2018. We
+are currently building a healthy pipeline of more than 100 prospective space providers, and about 20% of which have expressed interest
+in taking up the advertising package. Anyworkspace plans to launch its revamped website in the third quarter which is expected
+to attract more advertising revenue. The new website will charge space providers for listing and advertising on AnyWorkspace.com
+and is optimized to create relevant content based on keywords, as well as promoting and advertising paid workspaces to attract
+targeted users and increase conversation rates. In anticipation of its forthcoming expansion in Southeast Asia, AnyWorkspace is
+proactively recruiting talent for offices in Hong Kong and Singapore. We expect the enlarged sales force and support team will
+help ramp up its client base and boost revenue in the second half of 2018. 
+
+3D Discovery Co. Limited  
+
+3D Discovery Co. Limited ( 3D Discovery )
+successfully completed a number of projects during the period. First, its  3D Virtual Tours in Hong Kong  generated
+about 174,000 impressions during the period and the year-to-date accumulated number of impressions produced amounted to 324,000.
+In addition, 3D Discovery partnered with Midland Realty, one of the largest real estate agencies in Hong Kong, to establish the
+ Creation 200 3D Virtual Tours.  The 3D virtual tour creation mobile application, Autocap, is under development. Autocap
+is a mobile application which allows users to create a virtual tour of a physical space on their own without the help of a specialized
+360 camera. Instead, upon registration and download of the Autocap app, users will be sent a motorized mount that attaches to their
+smartphone and enables them to capture locations and produce 360 panoramic images with their smartphone. Users will be charged
+processing and/or hosting fees a tour is published. 3D Discovery plans on launching the iOS version by the end of the third quarter
+of 2018. Autocap will be rolled out in stages, with the first phase focusing on Australia, Indonesia and Japan, respectively. Additionally,
+the  big data  generated from the shots and images will be valuable to the analysis of users  behavior and preferences.
+3D Discovery is also actively pursuing the website and mobile application development business with its clients, which has the
+potential to be another major source of revenue in future. 
+
+EC Advertising Limited  
+
+Following the acquisition of BuddiGo, AnyWorkspace
+and 3D Discovery by the Company during the period between late 2017 and the first half year of 2018, EC Advertising Limited ( EC
+Advertising ) has been developing opportunities for these three platforms to attract advertisers. 
+
+During the period, we conducted a feasibility
+study of the advertising business in Mainland China. We concluded that it would be of the greatest benefit for us to set up a wholly-owned
+subsidiary in Xiamen, Fujian Province of Mainland China and expand our advertising business in this region. We are still in the
+process of establishing this subsidiary and anticipate it will start generating revenue in the third quarter of 2018. In order
+to maximize our exposure to the potential clients in Mainland China, we are developing a strategic media plan which will cover
+major cities in Mainland China such as Beijing, Shanghai, Guangzhou and Shenzhen. Major banks, real estate developers and consumer
+products manufacturers and retailers are our target clients. More importantly, our presence in Mainland China can facilitate the
+rollout of franchise programs of our business units, which is one of the revenue drivers for the Company. 
+
+ECrent Platform Business  
+
+In May 2018, Sharing Economy Investment
+Limited ( SEIL ), a wholly-owned subsidiary of SEII, entered into a License Agreement with ECrent Capital Holdings
+Limited ( ECrent ), regarding the grant of an exclusive and sublicensable license from ECrent to SEII to utilize certain
+software and trademarks in order to develop, launch, operate, commercialize, and maintain an online website platform in Taiwan,
+Thailand, India, Indonesia, Singapore, Malaysia, Philippines, Vietnam, Cambodia, Japan, and Korea until June 30, 2019. In consideration,
+SEII issued to ECrent 250,000 shares of common stock ( Consideration Shares ) at an issue price of $4.16 per share
+(based on the quoted market price of the Company s common stock on the amended Agreement date   of May 24, 2018 ) .
+Pursuant to the terms of the agreement, ECrent shall provide a guarantee on revenue and gross profit of US$10,000,000 and US$1,940,000,
+respectively. The Consideration Shares shall be reduced on a pro rata basis if there is a shortfall in the guaranteed revenue
+and/or profit. The Company expects to relaunch the ECrent website platform in India during the second half of 2018, with Malaysia,
+Singapore and other countries to follow. 
+
+In June 2018, SEIL has entered into a license
+agreement with ECrent regarding the grant of an exclusive and sublicensable license from ECrent to SEIL to utilize certain software
+and trademarks in order to develop, launch, operate, commercialize, and maintain an online website platform in North Korea. The
+License Agreement will be valid until December 31, 2023. In return, SEIL shall pay ECrent a maximum amount of US$1,000,000 upon
+satisfying the condition precedent that the gross profit generated from the corresponding business arrangement in North Korea exceeds
+the license fee payment, which will be determined at the expiration of the license agreement on December 31, 2023. 
+
+Film and Media Production Business  
+
+In June 2018, SEII s wholly-owned
+subsidiary, EC Creative Limited ( EC Creative ), signed an exclusivity agreement with Jidam Co., Ltd. ( Jidam ),
+regarding the potential acquisition by EC Creative of not less than 51% of the issued share capital of Jidam and further business
+cooperation agreements between EC Creative and Jidam. Simultaneously, SEII s wholly-owned subsidiary, Sharing Film International
+Limited ( Sharing Film ), will lease workspaces totaling about 24,000 square feet in Shaw Studios, which is currently
+owned by Shaw Movie City Hong Kong Limited ( Shaw Movie City ). The initial lease term will be for one year, commencing
+November 1st, 2018. SEII will issue new shares to Shaw Movie City to pay the up-front amounts due for rent, management fees and
+the deposit on the spaces. SEII plans to utilize these spaces to explore and develop its film and media production and post-production
+business and to develop a sharing environment for the film and media production industry. 
+
+Inventory and
+Raw Materials  
+
+A major element of our cost of revenues
+is raw materials, principally steel as well as other metals. These metals are subject to price fluctuations, and recently these
+fluctuations have been significant. In times of increasing prices, we need to try to establish the price at which we purchase raw
+materials in order to avoid increases in costs which we cannot recoup through increases in sales prices. Similarly, in times of
+decreasing prices, we may have purchased metals at prices which are high in terms of the price at which we can sell our products,
+which also can impair our margins. Four major suppliers provided approximately 61% of our purchases of inventories for the six
+months ended June 30, 2018. Three major suppliers provided 49% of our purchases of inventories for the six months ended June 30,
+2017. 
+
+Critical Accounting Policies and Estimates  
+
+Our discussion
+and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have
+been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these consolidated
+financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues
+and expenses, and related disclosure of contingent assets and liabilities. We continually evaluate our estimates, including those
+related to bad debts, inventories, recovery of long-lived assets, income taxes, the fair value of equity method investment, the
+fair value of assets held for sale and the valuation of equity transactions. 
+
+We base our estimates
+on historical experience and on various other assumptions that we believed to be reasonable under the circumstances, the results
+of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent
+from other sources. Any future changes to these estimates and assumptions could cause a material change to our reported amounts
+of revenues, expenses, assets and liabilities. Actual results may differ from these estimates under different assumptions or conditions.
+We believe the following critical accounting policies affect our more significant judgments and estimates used in the preparation
+of the consolidated financial statements. 
+
+Variable Interest Entities  
+
+Pursuant to ASC
+Topic 810 and related subtopics related to the consolidation of variable interest entities, we are required to include in our consolidated
+financial statements the financial statements of variable interest entities ( VIEs ). The accounting standards require
+a VIE to be consolidated by a company if that company is subject to a majority of the risk of loss for the VIE or is entitled to
+receive a majority of the VIE s residual returns. VIEs are those entities in which we, through contractual arrangements,
+bear the risk of, and enjoy the rewards normally associated with ownership of the entity, and therefore we are the primary beneficiary
+of the entity. 
+
+Dyeing is considered
+a VIE, and we are the primary beneficiary. On November 13, 2007, we entered into agreements with the Dyeing pursuant to which we
+shall receive 100% of Dyeing s net income. In accordance with these agreements, Dyeing shall pay consulting fees equal to
+100% of its net income to our wholly-owned subsidiary, Green Power, and Green Power shall supply the technology and administrative
+services needed to service Dyeing. 
+
+The accounts of
+the Dyeing are consolidated in the accompanying financial statements. As a VIE, Dyeing s sales are included in our total
+sales, its income from operations is consolidated with ours, and our net income includes all of the Huayang Companies  net
+income, and their assets and liabilities are included in our consolidated balance sheets. The VIEs do not have any non-controlling
+interest and, accordingly, we did not subtract any net income in calculating the net income attributable to us. Because of the
+contractual arrangements, we have pecuniary interest in Dyeing that require consolidation of the Dyeing s financial statements
+with our financial statements. 
+
+Accounts Receivable  
+
+We have a policy
+of reserving for uncollectible accounts based on our best estimate of the amount of probable credit losses in our existing accounts
+receivable. We periodically review our accounts receivable to determine whether an allowance is necessary based on an analysis
+of past due accounts and other factors that may indicate that the realization of an account may be in doubt. Account balances deemed
+to be uncollectible are charged to the allowance after all means of collection have been exhausted and the potential for recovery
+is considered remote. 
+
+As a basis for
+estimating the likelihood of collection has been established, we consider a number of factors when determining reserves for uncollectable
+accounts. We believe that we use a reasonably reliable methodology to estimate the collectability of our accounts receivable. We
+review our allowances for doubtful accounts on at least a quarterly basis. We also consider whether the historical economic conditions
+are comparable to current economic conditions. If the financial condition of our customers or other parties that we have business
+relations with were to deteriorate, resulting in an impairment of their ability to make payments, additional allowances may be
+required. 
+
+Inventories  
+
+Inventories, consisting
+of raw materials, work-in-process and finished goods, are stated at the lower of cost or net realizable value utilizing the weighted
+average method. An allowance is established when management determines that certain inventories may not be saleable. If inventory
+costs exceed expected market value due to obsolescence or quantities in excess of expected demand, we will record additional reserves
+for the difference between the cost and the market value. These reserves are recorded based on estimates. We review inventory quantities
+on hand and on order and record, on a quarterly basis, a provision for excess and obsolete inventory, if necessary. If the results
+of the review determine that a write-down is necessary, we recognize a loss in the period in which the loss is identified, whether
+or not the inventory is retained. Our inventory reserves establish a new cost basis for inventory and are not reversed until we
+sell or dispose of the related inventory. Such provisions are established based on historical usage, adjusted for known changes
+in demands for such products, or the estimated forecast of product demand and production requirements. 
+
+Advances to Suppliers  
+
+Advances to suppliers
+represent the advance payments for the purchase of raw material from suppliers. The advance payments are intended to ensure preferential
+pricing and delivery. 
+
+Property and Equipment  
+
+Property and equipment are stated at cost
+less accumulated depreciation. Depreciation is computed using straight-line method over the estimated useful lives of the assets.
+The estimated useful lives of the assets are as follows: 
+
+Useful Life      
+ 
+     Building and building improvements    
+         5   20 Years      
+ 
+     Manufacturing equipment    
+         5   10 Years      
+ 
+     Office equipment and furniture    
+         5 Years      
+ 
+     Vehicles    
+         5 Years      
+
+The cost of repairs
+and maintenance is expensed as incurred; major replacements and improvements are capitalized. When assets are retired or disposed
+of, the cost and accumulated depreciation are removed from the accounts, and any resulting gains or losses are included in the
+statements of income and comprehensive income in the year of disposition. 
+
+We examine the
+possibility of decreases in the value of fixed assets when events or changes in circumstances reflect the fact that their recorded
+value may not be recoverable. We recognize an impairment loss when the sum of expected undiscounted future cash flows is less than
+the carrying amount of the asset. The amount of impairment is measured as the difference between the asset s estimated fair
+value and its book value. 
+
+Land Use Rights  
+
+There is no private
+ownership of land in the PRC. All land in the PRC is owned by the government and cannot be sold to any individual or company. The
+government grants a land use right that permits the holder of the land use right to use the land for a specified period. Our land
+use rights were granted with a term of 45 or 50 years. Any transfer of the land use right requires government approval. We have
+recorded as an intangible asset the costs paid to acquire a land use right. The land use rights are amortized on the straight-line
+method over the land use right terms. 
+
+Patent Use
+Rights  
+
+In August 2016,
+we purchased a patent technology use right for a ten-year term from a third party. The patent covers ozone-ultrasonic textile
+dyeing equipment. We amortize the exclusive patent use right over the term of the patent. 
+
+Intangible
+Assets  
+
+In January 2018,
+in connection the acquisition of 3D Discovery and AnyWorkspace, the Company acquired their technologies. The technology of 3D Discovery
+covers a 3D virtual tour solution for the property industry and the technology of AnyWorkspace covers management software for an
+online, real-time marketplace that connects workspace providers with clients who need temporary office and meeting spaces.  
+
+During the period,
+the sharing economy mobile platform, namely BuddiGo, developed by Inspirit Studio was capitalized. The BuddiGo application has
+been launched since June 2018. 
+
+The Company amortizes
+these technologies over a term of five years.   
+
+Revenue Recognition  
+
+In May 2014, FASB issued an update Accounting
+Standards Update ( ASU ) ( ASU 2014-09 ) establishing Accounting Standards Codification ( ASC )
+Topic 606,  Revenue from Contracts with Customers  ( ASC 606 ). ASU 2014-09, as amended by subsequent ASUs on
+the topic, establishes a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers
+and supersedes most of the existing revenue recognition guidance. This standard, which is effective for interim and annual reporting
+periods in fiscal years that begin after December 15, 2017, requires an entity to recognize revenue to depict the transfer of promised
+goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange
+for those goods or services and also requires certain additional disclosures. We adopted this standard in 2018 using the modified
+retrospective approach, which requires applying the new standard to all existing contracts not yet completed as of the effective
+date and recording a cumulative-effect adjustment to retained earnings as of the beginning of the fiscal year of adoption. Based
+on an evaluation of the impact ASU 2014-09 will have on our sources of revenue, we concluded that ASU 2014-09 did not have a material
+impact on the process for, timing of, and presentation and disclosure of revenue recognition from customers. 
+
+We recognize revenues from the sale of
+equipment upon shipment and transfer of title. The other elements may include installation and, generally, a one-year warranty.
+Equipment installation revenue is valued based on estimated service person hours to complete installation and is recognized when
+the labor has been completed and the equipment has been accepted by the customer, which is generally within a couple days of the
+delivery of the equipment. Warranty revenue is valued based on estimated service person hours to complete a service and generally
+is recognized over the contract period.  
+
+All other product sales with customer specific
+acceptance provisions are recognized upon customer acceptance and the delivery of the parts or service. Revenues related to spare
+part sales are recognized upon shipment or delivery based on the trade terms. 
+
+We recognize revenue from the rental of
+batteries when earned. 
+
+Income Taxes  
+
+We are governed
+by the Income Tax Law of the PRC, Inland Revenue Ordinance of Hong Kong and the U.S. Internal Revenue Code of 1986, as amended.
+We account for income taxes using the asset/liability method prescribed by ASC 740,  Accounting for Income Taxes. 
+Under this method, deferred tax assets and liabilities are determined based on the difference between the financial reporting and
+tax bases of assets and liabilities using enacted tax rates that will be in effect in the period in which the differences are expected
+to reverse. The Company records a valuation allowance to offset deferred tax assets if, based on the weight of available evidence,
+it is more-likely-than-not that some portion, or all, of the deferred tax assets will not be realized. The effect on deferred taxes
+of a change in tax rates is recognized as income or loss in the period that includes the enactment date. 
+
+Deferred tax is
+accounted for using the balance sheet liability method in respect of temporary differences arising from differences between the
+carrying amount of assets and liabilities in the financial statements and the corresponding tax basis used in the computation of
+assessable tax profit. In principle, deferred tax liabilities are recognized for all taxable temporary differences, and deferred
+tax assets are recognized to the extent that it is probably that taxable profit will be available against which deductible temporary
+differences can be utilized. 
+
+Deferred tax is
+calculated using tax rates that are expected to apply to the period when the asset is realized or the liability is settled. Deferred
+tax is charged or credited in the income statement, except when it is related to items credited or charged directly to equity,
+in which case the deferred tax is charged to equity. Deferred tax assets and liabilities are offset when they related to income
+taxes levied by the same taxation authority and we intend to settle its current tax assets and liabilities on a net basis. 
+
+On December 22, 2017, the United States
+signed into law the Tax Cuts and Jobs Act (the  Act ), a tax reform bill which, among other items, reduces the current
+federal income tax rate to 21% from 34%. The rate reduction is effective January 1, 2018, and is permanent. 
+
+The Act has caused the Company s
+deferred income taxes to be revalued. As changes in tax laws or rates are enacted, deferred tax assets and liabilities are adjusted
+through income tax expense. Pursuant to the guidance within SEC Staff Accounting Bulletin No. 118 ( SAB 118 ), as of
+December 31, 2017, the Company recognized the provisional effects of the enactment of the Act for which measurement could be reasonably
+estimated. Since the Company has provided a full valuation allowance against its deferred tax assets, the revaluation of the deferred
+tax assets did not have a material impact on any period presented. The ultimate impact of the Act may differ from these estimates
+due to the Company s continued analysis or further regulatory guidance that may be issued as a result of the Act. 
+
+Stock-based Compensation  
+
+Stock-based compensation is accounted for
+based on the requirements of the Share-Based Payment topic of ASC 718 which requires recognition in the financial statements of
+the cost of employee and director services received in exchange for an award of equity instruments over the vesting period or immediately
+if the award is non-forfeitable. The Accounting Standards Codification also requires measurement of the cost of employee and director
+services received in exchange for an award based on the grant-date fair value of the award. 
+
+Pursuant to ASC Topic 505-50, for share-based
+payments to consultants and other third-parties, compensation expense is determined at the  measurement date.  The
+expense is recognized over the period of services or the vesting period, whichever is applicable. Until the measurement date is
+reached, the total amount of compensation expense remains uncertain. We record compensation expense based on the fair value of
+the award at the reporting date. The awards to consultants and other third-parties are then revalued, or the total compensation
+is recalculated based on the then current fair value, at each subsequent reporting date. 
+
+Currency Exchange Rates  
+
+Our functional
+currency is the U.S. dollar, and the functional currency of our operating subsidiaries and VIEs is the RMB and Hong Kong Dollar.
+Substantially all of our sales are denominated in RMB. As a result, changes in the relative values of U.S. dollars and RMB affect
+our reported levels of revenues and profitability as the results of our operations are translated into U.S. dollars for reporting
+purposes. In particular, fluctuations in currency exchange rates could have a significant impact on our financial stability due
+to a mismatch among various foreign currency-denominated sales and costs. Fluctuations in exchange rates between the U.S. dollar
+and RMB affect our gross and net profit margins and could result in foreign exchange and operating losses. 
+
+Our exposure to
+foreign exchange risk primarily relates to currency gains or losses resulting from timing differences between signing of sales
+contracts and settling of these contracts. Furthermore, we translate monetary assets and liabilities denominated in other currencies
+into RMB, the functional currency of our operating subsidiary. Our results of operations and cash flow are translated at average
+exchange rates during the period, and assets and liabilities are translated at the unified exchange rate at the end of the period.
+Translation adjustments resulting from this process are included in accumulated other comprehensive income in our statement of
+shareholders  equity. We have not used any forward contracts, currency options or borrowings to hedge our exposure to foreign
+currency exchange risk. We cannot predict the impact of future exchange rate fluctuations on our results of operations and may
+incur net foreign currency losses in the future. 
+
+Our financial
+statements are expressed in U.S. dollars, which is the functional currency of our parent company. The functional currency of our
+operating subsidiaries and affiliates is RMB and the Hong Kong dollar. To the extent we hold assets denominated in U.S. dollars,
+any appreciation of the RMB or HKD against the U.S. dollar could result in a charge in our statement of operations and a reduction
+in the value of our U.S. dollar denominated assets. On the other hand, a decline in the value of RMB or HKD against the U.S. dollar
+could reduce the U.S. dollar equivalent amounts of our financial results. 
+
+Recent Accounting Pronouncements      
+
+In August 2016, the FASB issued Accounting
+Standards Update ( ASU ) 2016-15 which addresses eight cash flow classification issues, eliminating the diversity in
+practice. This ASU is effective for annual and interim reporting periods beginning after December 15, 2017, with early adoption
+permitted. The retrospective transition method, requiring adjustment to all comparative periods presented, is required unless it
+is impracticable for some of the amendments, in which case those amendments would be prospectively applied as of the earliest date
+practicable. The adoption of ASU did not have a material impact on the Company s consolidated financial statements. 
+
+In January 2017,
+the FASB issued ASU No. 2017-01, Business Combinations (Topic 805): Clarifying the Definition of a Business, in an effort
+to clarify the definition of a business with the objective of adding guidance to assist entities with evaluating whether transactions
+should be accounted for as acquisitions (or disposals) of assets or businesses. The amendments of this ASU are effective for fiscal
+years beginning after December 15, 2017, and interim periods within those fiscal years. The adoption of this guidance did
+not have a material impact on our financial statements. 
+
+In May 2017, the FASB issued ASU 2017-09,
+ Compensation Stock Compensation  (Topic 718): Scope of Modification Accounting, or ASU 2017-09. ASC 2017-09 provides
+guidance about which changes to the terms or conditions of a share-based payment award require an entity to apply modification
+accounting in Topic 718. The guidance is effective for annual periods beginning after December 15, 2017, with early adoption
+permitted, including adoption in any interim period for which financial statements have not yet been issued. The adoption of ASU
+did not have a material impact on our consolidated financial statements. 
+
+In July 2017, the FASB issued ASU 2017-11,
+ Accounting for Certain Financial Instruments with Down Round Features , or ASU 2017-11, which updates the guidance related
+to the classification analysis of certain equity-linked financial instruments (or embedded features) with down round features.
+Under ASU 2017-11, a down round feature no longer precludes equity classification when assessing whether the instrument is indexed
+to an entity s own stock. As a result, a freestanding equity-linked financial instrument (or embedded conversion option)
+no longer would be accounted for as a derivative liability at fair value as a result of the existence of a down round feature.
+For freestanding equity classified financial instruments, the amendments require entities that present earnings per share (EPS)
+in accordance with Topic 260 to recognize the effect of the down round feature when it is triggered. That effect is treated as
+a dividend and as a reduction of income available to common shareholders in basic EPS. ASU 2017-11 is effective for public entities
+for all annual and interim periods beginning after December 15, 2019. Early adoption is permitted. We are currently evaluating
+the impact that the adoption of ASU 2017-11 will have on our consolidated financial statements. 
+
+On December 22, 2017 the SEC staff issued
+Staff Accounting Bulletin 118 (SAB 118), which provides guidance on accounting for the tax effects of the Tax Cuts and
+Jobs Act (the TCJA).  SAB 118 provides a measurement period that should not extend beyond one year from the enactment
+date for companies to complete the accounting under ASC 740. In accordance with SAB 118, a company must reflect the income
+tax effects of those aspects of the TCJA for which the accounting under ASC 740 is complete. To the extent that a company s
+accounting for certain income tax effects of the TCJA is incomplete but for which they are able to determine a reasonable
+estimate, it must record a provisional amount in the financial statements. Provisional treatment is proper in light of anticipated
+additional guidance from various taxing authorities, the SEC, the FASB, and even the Joint Committee on Taxation. If a company
+cannot determine a provisional amount to be included in the financial statements, it should continue to apply ASC 740 on the basis
+of the provisions of the tax laws that were in effect immediately before the enactment of the TCJA. We have applied this guidance
+to our financial statements. 
+
+Other accounting standards that have been
+issued or proposed by FASB that do not require adoption until a future date are not expected to have a material impact on the
+consolidated financial statements upon adoption. We do not discuss recent pronouncements that are not anticipated to have an impact
+on or are unrelated to our consolidated financial condition, results of operations, cash flows or disclosures. 
+
+RESULTS OF OPERATIONS  
+
+The following table sets forth the results
+of our operations for the three and six months ended June 30, 2018 and 2017 indicated as a percentage of revenues (dollars in thousands): 
+
+Revenues.   For the three months
+ended June 30, 2018, revenues from the sale of dyeing and finishing equipment decreased by $1,090,000, or 29.4%, as compared to
+the three months ended June 30, 2017. For the six months ended June 30, 2018, revenues from the sale of dyeing and finishing equipment
+decreased by $3,314,000, or 39.6%, as compared to the six months ended June 30, 2017. We experienced an anticipated slowdown in
+sales of our low-emission airflow dyeing machines as many customers had replaced older dyeing equipment with our low-emission airflow
+dyeing machine, and we believe that orders for new low-emission airflow dyeing machines have slowed down in 2018 and 2017 because
+the remaining potential customer base included many companies that did not have the ability to make the significant capital expenditures
+necessary to upgrade their equipment. Additionally, the textile industry in China has been facing significant headwinds recently.
+Difficult economic conditions, a continuing decline in oil prices and limited availability of credit in China, presented numerous
+challenges for our dyeing machine business. Additionally, apparel factories and other factories have been shut down throughout
+the last year by China s environmental bureau, which has been cutting electricity and gas supply to determine compliance
+with China s environmental laws. Accordingly, our revenues decreased in the 2018 period as compared to the 2017 period. We
+expect that our revenues from dyeing and finishing equipment segment will remain at or about its  current level in the near
+future, although declines are possible. 
+
+During the three and six months ended June
+30, 2018, we recognized revenues from our sharing economy business of $52,174 and $83,195 compared to $0 for the three and six
+months ended June 30, 2017, respectively. 
+
+Cost of revenues.   Cost of
+revenues includes the cost of raw materials, labor, depreciation and other fixed and variable overhead costs. For the three months
+ended June 30, 2018, cost of revenues was $3,289,000 as compared to $3,269,000 for the three months ended June 30, 2017, an increase
+of $21,000, or 0.6%. For the six months ended June 30, 2018, cost of revenues was $6,217,000 as compared to $7,341,000 for the
+six months ended June 30, 2017, a decrease of $1,123,000, or 15.3%. 
+
+Gross profit (loss) and gross margin.  
+Our gross loss was approximately $(720,000) for the three months ended June 30, 2018 as compared to gross profit of $443,000 for
+the three months ended June 30, 2017, representing gross margins of (28.0)% and 11.9%, respectively, a decrease period over period.
+Our gross loss was approximately $(1,079,000) for the six months ended June 30, 2018 as compared to gross profit of $1,029,000
+for the six months ended June 30, 2017, representing gross margins of (21.0)% and 12.3%, respectively, a decrease period over period.
+The decrease in our gross margin for the three and six months ended June 30, 2018 was primarily attributed to the reduced scale
+of operations resulting from lower revenues, which is reflected in the allocation of fixed costs, mainly consisting of depreciation,
+to cost of revenues, and an increase in labor and raw material costs. We expect that our gross margin from dyeing and finishing
+equipment segment will remain at its current levels although a decrease is possible as we try to market our equipment to the smaller
+textile manufactures. 
+
+Operating expenses.   For the
+three months ended June 30, 2018, operating expenses were $5,143,000 as compared to $941,000 for the three months ended June 30,
+2017, an increase of $4,203,000, or 446.8%. For the six months ended June 30, 2018, operating expenses were $9,565,000 as compared
+to $1,623,000 for the six months ended June 30, 2017, an increase of $7,942,000, or 489.4%. Changes in operating expenses consisted
+of the following: 
+
+Depreciation .  Depreciation
+was $1,050,000 and $971,000 for the three months ended June 30, 2018 and 2017, respectively. Depreciation was $2,102,000 and $1,939,000
+for the six months ended June 30, 2018 and 2017, respectively. Depreciation for the three and six months ended June 30, 2018 and
+2017 was included in the following categories (dollars in thousands): 
+
+Selling, general and administrative
+expenses.   Selling, general and administrative expenses totaled $4,675,000 and $7,422,000 for the three and six months
+ended June 30, 2018, as compared to $560,000 and $868,000 for the three and six months ended June 30, 2017, an increase of $4,114,000,
+or 734.4% and $6,554,000, or 755.2%, respectively. Selling, general and administrative expenses for the three and six months ended
+June 30, 2018 and 2017 consisted of the following (dollars in thousands): 
+
+Research and development expenses . 
+Research and development expenses were $125,000 and $238,000 for the three and six months ended June 30, 2018, as compared to $111,000
+and $217,000 for the three and six months ended June 30, 2017, an increase of $14,000 and $21,000, or 12.5% and 9.8%, respectively. 
+
+Bad debt expense .  Bad debt
+expense was $(2,000) and $1,316,000 for the three and six months ended June 30, 2018, as compared to $0 for the three and six months
+ended June 30, 2017, a decrease of $2,000 and an increase of $1,316,000, respectively. Based on our periodic review of accounts
+receivable balances, we adjusted the allowance for doubtful accounts after considering management s evaluation of the collectability
+of individual receivable balances, including the analysis of subsequent collections, the customers  collection history, the
+write off of uncollectible receivables against the existing reserve, and recent economic events. 
+
+Loss from operations.   As
+a result of the factors described above, for the three and six months ended June 30, 2018, loss from operations amounted to $5,863,000
+and $10,644,000, as compared to $498,000 and $594,000 for the three and six months ended June 30, 2017, respectively. 
+
+Other income (expense) .  Other
+income (expense) includes interest income, interest expense, foreign currency transaction gain (loss), loss on equity method investment,
+and other income. For the three and six months ended June 30, 2018, total other expense, net, amounted to $160,000 and $262,000,
+as compared to $24,000 and $63,000 for the three and six months ended June 30, 2017, an increase of $136,000 and $199,000, or 575.3%
+and 317.4%, respectively. The increase in other expense, net, was primarily attributable to losses incurred in the three and six
+months ended June 30, 2018 related to our equity method investment of $54,000. 
+
+Income tax
+provision .   Income tax expense was $0 for the three and six months ended June 30, 2018, as compared to $0 and $11,000
+for the six months ended June 30, 2017, a decrease of $11,000, respectively. 
+
+Loss from continuing operations.  
+As a result of the foregoing, our loss from continuing operations was $6,023,000, or $(1.65) per share (basic and diluted), for
+the three months ended June 30, 2018, as compared with loss from continuing operations of $521,000, or $(0.30) per share (basic
+and diluted), for the three months ended June 30, 2017, a change of $5,501,000, or 1,055.0%. Our loss from continuing operations
+was $10,906,000, or $(2.98) per share (basic and diluted), for the six months ended June 30, 2018, as compared with loss from continuing
+operations of $668,000, or $(0.46) per share (basic and diluted), for the six months ended June 30, 2017, a change of $10,238,000,
+or 1,532.9%. 
+
+Gain (loss) from discontinued operations,
+net of income taxes.   Our loss from discontinued operations was $28, or $(0.00) per share (basic and diluted), for the three
+months ended June 30, 2018, as compared with a loss from discontinued operations of $0, or $(0.00) per share (basic and diluted),
+for the three months ended June 30, 2017, a change of $28. Our gain from discontinued operations was $17,000, or $0.00 per share
+(basic and diluted), for the six months ended June 30, 2018, as compared with a loss from discontinued operations of $0, or $(0.00)
+per share (basic and diluted), for the six months ended June 30, 2017, a change of $17,000. 
+
+The summarized operating result of discontinued
+operations included our consolidated statements of operations is as follows: 
+
+Net loss.   As a result of
+the foregoing, our net loss was $6,023,000, or $(1.65) per share (basic and diluted), for the three months ended June 30, 2018,
+as compared to a net loss $521,000, or $(0.30) per share (basic and diluted), for the three months ended June 30, 2017, a change
+of $5,501,000, or 1,055.0%. Our net loss was $10,889,000, or $(2.98) per share (basic and diluted), for the six months ended June
+30, 2018, as compared to a net loss $668,000, or $(0.46) per share (basic and diluted), for the six months ended June 30, 2017,
+a change of $10,221,000, or 1,530.4%. 
+
+Foreign currency translation loss.  
+The functional currency of our subsidiaries and variable interest entities operating in the PRC is the Chinese Yuan or Renminbi
+( RMB ). The financial statements of our subsidiaries are translated to U.S. dollars using period end rates of exchange
+for assets and liabilities, and average rates of exchange (for the period) for revenues, costs, and expenses. Net gains and losses
+resulting from foreign exchange transactions are included in the consolidated statements of operations. As a result of foreign
+currency translations, which are a non-cash adjustment, we reported a foreign currency translation loss of $2,952,000 and $902,000
+for the three and six months ended June 30, 2018, as compared to a foreign currency translation gain of $1,087,000 and $1,584,000
+for the three and six months ended June 30, 2017, respectively. This non-cash loss had the effect of increasing our reported comprehensive
+loss. 
+
+Comprehensive loss.   As a
+result of our foreign currency translation loss, we had comprehensive loss for the three months ended June 30, 2018 of $8,975,000,
+compared to comprehensive gain of $566,000 for the three months ended June 30, 2017. We had comprehensive loss for the six months
+ended June 30, 2018 of $11,792,000, compared to comprehensive gain of $916,000 for the six months ended June 30, 2017. 
+
+Liquidity and Capital Resources  
+
+Liquidity is the ability of a company to
+generate funds to support its current and future operations, satisfy its obligations and otherwise operate on an ongoing basis.
+At June 30, 2018 and December 31, 2017, we had cash balances of $2,164,000 and $1,019,000, respectively. These funds are located
+in financial institutions located as follows (dollars in thousands): 
+
+The following table sets forth a summary of changes in our working
+capital from December 31, 2017 to June 30, 2018 (dollars in thousands): 
+
+Our working capital increased by $5,795,000
+to $19,334,000 at June 30, 2018 from $13,539,000 at December 31, 2017. This increase in working capital is primarily attributable
+to: 
+
+Offset by: 
+
+Because the exchange
+rate conversion is different for the consolidated balance sheets and the consolidated statements of cash flows, the changes in
+assets and liabilities reflected on the consolidated statements of cash flows are not necessarily identical with the comparable
+changes reflected on the consolidated balance sheets. 
+
+Net cash flow
+used in operating activities was $423,000 for the six months ended June 30, 2018 as compared to net cash flow provided by operating
+activities of $1,610,000 for the six months ended June 30, 2017, a change of $2,033,000. 
+
+Net cash flow used in investing activities
+was $71,000 for the six months ended June 30, 2018 as compared to net cash flow provided by investing activities of $2,081,000
+for the six months ended June 30, 2017. For the six months ended June 30, 2018, net cash flow used in purchase of property and
+equipment of $73,000, offset by cash received from the purchase subsidiary operations of approximately $2,000. For the six months
+ended June 30, 2017, net cash flow provided by investing activities of $2,081,000, which reflects the purchase of property and
+equipment of $14,000 and proceeds received from sale of subsidiary in cash of $2,095,000. 
+
+Net cash flow
+provided by financing activities was $1,561,000 for the six months ended June 30, 2018 as compared to net cash flow used in financing
+activities of $11,000 for the six months ended June 30, 2017. During the six months ended June 30, 2018, we received proceeds from
+convertible note of $900,000 and deducted offering costs paid by $195,000, we also received proceeds form bank loan of $706,000,
+advanced from related party of $874,000 and received proceeds from sale of common stock of $256,000, offset by repayments for bank
+loan of $706,000 and payments for the decrease in bank acceptance notes payable of $275,000. During the six months ended June 30,
+2017, we received proceeds from sale of common stock of $860,000 and proceeds from related party advances of $132,000, offset by
+repayment of bank loans of $727,000. 
+
+We have historically
+funded our capital expenditures through cash flow provided by operations and bank loans. We intend to fund the cost with cash flow
+from our operations and by obtaining financing mainly from local banking institutions with which we have done business in the past.
+We believe that the relationships with local banks are in good standing and we have not encountered difficulties in obtaining needed
+borrowings from local banks.   
+
+Contractual Obligations and Off-Balance
+Sheet Arrangements  
+
+Contractual Obligations   
+
+We have certain fixed contractual obligations
+and commitments that include future estimated payments. Changes in our business needs, cancellation provisions, changing interest
+rates, and other factors may result in actual payments differing from the estimates. We cannot provide certainty regarding the
+timing and amounts of payments. We have presented below a summary of the most significant assumptions used in our determination
+of amounts presented in the tables, in order to assist in the review of this information within the context of our consolidated
+financial position, results of operations, and cash flows. The following tables summarize our contractual obligations as of June
+30, 2018 (dollars in thousands), and the effect these obligations are expected to have on our liquidity and cash flows in future
+periods. 
+
+(1)  
+      Bank loans consisted of short term bank loans. Historically, we have refinanced these bank loans for an additional term of six months to one year and we expect to continue to refinance these loans upon expiration.   
+
+Off-balance Sheet Arrangements   
+
+We have not entered into any other financial
+guarantees or other commitments to guarantee the payment obligations of any third parties. We have not entered into any derivative
+contracts that are indexed to our shares and classified as shareholder s equity or that are not reflected in our consolidated
+financial statements. Furthermore, we do not have any retained or contingent interest in assets transferred to an unconsolidated
+entity that serves as credit, liquidity or market risk support to such entity. We do not have any variable interest in any unconsolidated
+entity that provides financing, liquidity, market risk or credit support to us or engages in leasing, hedging or research and development
+services with us. 
+
+Foreign Currency Exchange Rate Risk   
+
+We produce and sell almost all of our products
+in China. Thus, most of our revenues and operating results may be impacted by exchange rate fluctuations between RMB and US dollars.
+For the six months ended June 30, 2018 and 2017, we had unrealized foreign currency translation loss of approximately $902,000
+and unrealized foreign currency translation gain of approximately $1,584,000, respectively, because of changes in the exchange
+rate. 
+
+Inflation   
+
+The effect of inflation on our revenue
+and operating results was not significant. 
+
+ITEM 3. 
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+Not required for
+smaller reporting companies. 
+
+ITEM 4.  CONTROLS
+AND PROCEDURES  
+
+Disclosure
+Controls and Procedures   
+
+As required by
+Rule 13a-15 under the Exchange Act, our management, including Jianhua Wu, our chief executive officer, and Wanfen Xu, our chief
+financial officer, evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of June
+30, 2018. 
+
+Disclosure controls and procedures refer
+to controls and other procedures designed to ensure that information required to be disclosed in the reports we file or submit
+under the Securities Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules
+and forms of the SEC and that such information is accumulated and communicated to our management, including our chief executive
+officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and
+evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed
+and operated, can provide only reasonable assurance of achieving the desired control objectives, and management is required to
+apply its judgment in evaluating and implementing possible controls and procedures. 
+
+Management conducted its evaluation of
+disclosure controls and procedures under the supervision of our chief executive officer and our chief financial officer. Based
+on that evaluation, Mr. Wu and Ms. Xu concluded that, because our internal controls over financial reporting are not effective,
+as described below, our disclosure controls and procedures were not effective as of June 30, 2018. 
+
+Management s Report on Internal
+Control over Financial Reporting   
+
+Our management is responsible for establishing
+and maintaining adequate internal control over financial reporting as defined in Rules 13a-15(f) and 15d-15(f) under the Securities
+Exchange Act. Our management is also required to assess and report on the effectiveness of our internal control over financial
+reporting in accordance with Section 404 of the Sarbanes-Oxley Act of 2002 ( Section 404 ). As reported in our Form
+10-K for the year ended December 31, 2017, management assessed the effectiveness of our internal control over financial reporting
+as of December 31, 2017 and, during our assessment, management identified significant deficiencies related to (i) the U.S. GAAP
+expertise of our internal accounting staff and recently elected chief financial officer, (ii) our internal audit functions and
+(iii) a lack of segregation of duties within accounting functions. Although management believes that these deficiencies do not
+amount to a material weakness, our internal controls over financial reporting were not effective at December 31, 2017. 
+
+We currently have no plans to expand our
+company-wide Enterprise Resource Planning ( ERP ) system during the remainder of 2018. We have not implemented further
+ERP modules to manage inventory and to expand existing ERP systems to other areas of our factory. Due to our working capital requirements
+and the lack of local professionals with the necessary experience to implement the ERP system, we postponed the hiring of professional
+staff. We have found that engaging professionals who are based outside of Wuxi is very costly. We have not been able to find qualified
+personnel in the Wuxi area. 
+
+Due to our size
+and nature, segregation of all conflicting duties may not always be possible and may not be economically feasible. As a result,
+we have not been able to take steps to improve our internal controls over financial reporting during the three and six months ended
+June 30, 2018. However, to the extent possible, we will implement procedures to assure that the initiation of transactions, the
+custody of assets and the recording of transactions will be performed by separate individuals. 
+
+A material weakness (within the meaning
+of PCAOB Auditing Standard No. 5) is a deficiency, or a combination of deficiencies, in internal control over financial reporting,
+such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not
+be prevented or detected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal
+control over financial reporting that is less severe than a material weakness, yet important enough to merit attention by those
+responsible for oversight of the company s financial reporting. 
+
+In light of this significant deficiency,
+we performed additional analyses and procedures in order to conclude that our consolidated financial statements for the three and
+six months ended June 30, 2018 included in this quarterly report on Form 10-Q were fairly stated in accordance with the U.S. GAAP.
+Accordingly, management believes that despite our material weaknesses, our consolidated financial statements for the three and
+six months ended June 30, 2018 are fairly stated, in all material respects, in accordance with the U.S. GAAP. 
+
+Changes in Internal Controls over
+Financial Reporting   
+
+There were no changes (including corrective
+actions with regard to significant deficiencies or material weaknesses) in our internal controls over financial reporting that
+occurred during the period covered by this report that has materially affected, or is reasonably likely to materially affect,
+our internal control over financial reporting.  
+
+PART II - OTHER
+INFORMATION  
+
+ITEM 5. EXHIBITS  
+
+*  Filed herein 
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+SHARING ECONOMY INTERNATIONAL INC.   
+
+Date: August 10, 2018  
+      By:  
+      /s/ Jianhua Wu   
+
+Jianhua Wu, Chief Executive Officer and   
+
+Principal Executive Officer   
+
+Date: August 10, 2018  
+      By:  
+      /s/ Wanfen Xu   
+
+Wanfen Xu, Chief Financial Officer and   
+
+Principal Accounting Officer   
+
+39 
+
+<EX-31.1>
+ 2
+ f10q0618ex31-1_sharingeco.htm
+ CERTIFICATION
+
+Exhibit
+31.1   
+
+CERTIFICATION
+OF PRINCIPAL EXECUTIVE OFFICER   
+
+   PURSUANT
+TO SECTION 302 OF THE   
+
+   SARBANES-OXLEY
+ACT OF 2002   
+
+I,
+Jianhua Wu, certify that:  
+
+1. I
+have reviewed this quarterly report on Form 10-Q of Sharing Economy International Inc.;  
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3. Based
+on my knowledge, the financial statements, and other financial information included in this quarterly report, fairly present in
+all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report;  
+
+4.
+  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure
+controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+a)  
+      designed
+    such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+    to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to
+    us by others within those entities, particularly during the period in which this quarterly report is being prepared;   
+
+b)  
+      designed
+    such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+    our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+    statements for external purposes in accordance with generally accepted accounting principles;   
+
+c)  
+      evaluated
+    the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+    about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+    on such evaluation;   
+
+d)  
+      disclosed
+    in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;   
+
+5. The
+registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or
+persons performing the equivalent function):  
+
+a)  
+      all
+    significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting
+    which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial
+    information; and   
+
+b)  
+      any
+    fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+    internal controls over financial reporting.   
+
+Dated:
+    August 10, 2018  
+      By:  
+      /s/
+    Jianhua Wu   
+
+Jianhua
+                                         Wu  
+          Chief
+        Executive Officer 
+        (Principal Executive Officer)    
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ f10q0618ex31-2_sharingeco.htm
+ CERTIFICATION
+
+Exhibit
+31.2   
+
+CERTIFICATION
+OF PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER   
+
+   PURSUANT
+TO SECTION 302 OF THE   
+
+   SARBANES-OXLEY
+ACT OF 2002   
+
+I,
+Wanfen Xu, certify that:  
+
+1. I
+have reviewed this quarterly report on Form 10-Q of Sharing Economy International Inc.;  
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3. Based
+on my knowledge, the financial statements, and other financial information included in this quarterly report, fairly present in
+all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report;  
+
+4.
+  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure
+controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting
+(as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+a)  
+      designed
+    such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+    to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to
+    us by others within those entities, particularly during the period in which this quarterly report is being prepared;   
+
+b)  
+      designed
+    such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+    our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+    statements for external purposes in accordance with generally accepted accounting principles;   
+
+c)  
+      evaluated
+    the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+    about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+    on such evaluation;   
+
+d)  
+      disclosed
+    in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;   
+
+5. The
+registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons
+performing the equivalent function):  
+
+a)  
+      all
+    significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting
+    which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial
+    information; and   
+
+b)  
+      any
+    fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+    internal controls over financial reporting.   
+
+Dated: 
+    August 10, 2018  
+      By:  
+      /s/
+    Wanfen Xu   
+
+Wanfen
+                                         Xu  
+          Chief
+        Financial Officer 
+        (Principal Accounting Officer)    
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ f10q0618ex32-1_sharingeco.htm
+ CERTIFICATION
+
+Exhibit
+32.1   
+
+CERTIFICATION
+PURSUANT TO   
+
+   18
+U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+connection with the Quarterly Report of Sharing Economy International Inc. (the  Company ) on Form 10-Q for the period
+ended June 30, 2018 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), Jianhua
+Wu, chief executive officer of the Company, and Wanfen Xu, chief financial officer of the Company, certify, pursuant to 18 U.S.C.
+section 1350 of the Sarbanes-Oxley Act of 2002, that:  
+
+(1)  
+      The
+    Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and   
+
+(2)  
+      The
+    information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+    of the Company.   
+
+Date:
+    August 10, 2018  
+      By:  
+      /s/ Jianhua
+    Wu   
+
+Jianhua
+                                         Wu  
+          Chief
+        Executive Officer    
+
+(Principal
+    Executive Officer)    
+
+Date:
+    August 10, 2018  
+      By:  
+      /s/ Wanfen
+    Xu   
+
+Wanfen
+                                         Xu  
+          Chief
+        Financial Officer  
+          (Principal
+        Accounting Officer)    
+
+A
+signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise
+adopting the signature that appears in typed form within the electronic version of this written statement has been provided to
+the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ cwzn-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ cwzn-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ cwzn-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ cwzn-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ cwzn-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ cwzn-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

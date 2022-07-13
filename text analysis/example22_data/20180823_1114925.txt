@@ -1,0 +1,3029 @@
+ts   
+
+UNITED STATES SECURITIES AND EXCHANGE
+COMMISSION  
+
+  WASHINGTON, D.C. 20549  
+
+FORM 10-K  
+
+(Mark One)  
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the fiscal year ended June 30, 2018  
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the transition period from ________
+to ________  
+
+Commission File Number 1-16027  
+
+LANTRONIX, INC.  
+
+  (Exact name of registrant as specified
+in its charter)  
+
+Delaware    
+        33-0362767     
+ 
+       (State or other jurisdiction of incorporation or organization)   
+       (I.R.S. Employer Identification No.)    
+
+7535 Irvine Center Drive, Suite 100,
+Irvine, California 92618  
+
+  (Address of principal executive offices)  
+
+(949) 453-3990  
+
+  (Registrant s telephone number,
+including area code)  
+
+Securities registered pursuant to Section
+12(b) of the Act:  
+
+Title of each class    
+        Name of each exchange on which registered     
+ 
+       Common Stock, $0.0001 par value   
+       The NASDAQ Stock Market LLC    
+
+Securities registered pursuant to Section
+12(g) of the Act: None.  
+
+Indicate by check mark if the registrant
+is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes       No       
+
+Indicate by check mark if the registrant
+is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes       No       
+
+Indicate by check mark whether the registrant:
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes       No       
+
+Indicate by check mark whether the registrant
+has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted
+and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter
+period that the registrant was required to submit and post such files). Yes       No       
+
+Indicate by check mark if disclosure of
+delinquent filers pursuant to Item 405 of Regulation S-K (  229.405 of this chapter) is not contained herein, and will
+not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference
+in Part III of this Form 10-K or any amendment to this Form 10-K.       
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of  large accelerated filer,   accelerated filer ,  smaller reporting company ,
+and  emerging growth company  in Rule 12b-2 of the Exchange Act. (Check one) 
+
+Large accelerated filer        
+      Accelerated filer        
+      Non-accelerated filer        
+      Smaller reporting company         
+
+Emerging growth company         
+
+If an emerging growth company, indicate by
+check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.       
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act). Yes       No       
+
+The aggregate market value of the registrant s
+common stock held by non-affiliates based upon the closing sales price of the common stock as reported by the NASDAQ Capital Market
+on December 29, 2017, the last trading day of the registrant s second fiscal quarter, was approximately $16,789,000. The
+determination of affiliate status for this purpose shall not be a conclusive determination for any other purpose. 
+
+As of August 17, 2018, there were 18,944,698
+shares of the registrant s common stock outstanding. 
+
+DOCUMENTS INCORPORATED BY REFERENCE  
+
+Portions of the registrant's definitive Proxy
+Statement on Schedule 14A relating to the registrant's 2018 annual meeting of stockholders, which will be filed with the Securities
+and Exchange Commission within 120 days after the end of the fiscal year covered by this Annual Report on Form 10-K, are incorporated
+by reference into Part III of this Annual Report on Form 10-K. With the exception of the portions of the Proxy Statement specifically
+incorporated herein by reference, the Proxy Statement and related proxy solicitation materials are not deemed to be filed as part
+of this Annual Report on Form 10-K. 
+
+LANTRONIX, INC.  
+
+  ANNUAL REPORT ON FORM 10-K  
+
+  For the Fiscal Year Ended June 30, 2018  
+
+TABLE OF CONTENTS  
+
+Page    
+ 
+        PART I     
+
+Cautionary Note Regarding Forward-Looking Statements   
+      ii   
+
+Item 1.  
+       Business   
+      1   
+
+Item 1A.  
+       Risk Factors   
+     6  
+
+Item 1B.  
+       Unresolved Staff Comments   
+      17   
+
+Item 2.  
+       Properties   
+      17   
+
+Item 3.  
+       Legal Proceedings   
+      17   
+
+Item 4.  
+       Mine Safety Disclosures   
+      17   
+
+PART II     
+
+Item 5.  
+       Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities   
+      18   
+
+Item 6.  
+       Selected Financial Data*   
+      18   
+
+Item 7.  
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      18   
+
+Item 7A.  
+       Quantitative and Qualitative Disclosures About Market Risk *   
+      28   
+
+Item 8.  
+       Financial Statements and Supplementary Data   
+      28   
+
+Item 9.  
+       Changes in and Disagreements with Accountants on Accounting and Financial Disclosure   
+      29   
+
+Item 9A.  
+       Controls and Procedures   
+      29   
+
+Item 9B.  
+       Other Information   
+      29   
+
+PART III     
+
+Item 10.  
+       Directors, Executive Officers and Corporate Governance   
+      30   
+
+Item 11.  
+       Executive Compensation   
+      30   
+
+Item 12.  
+       Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters   
+      30   
+
+Item 13.  
+       Certain Relationships and Related Transactions and Director Independence   
+     30  
+
+Item 14.  
+       Principal Accountant Fees and Services   
+      30   
+
+PART IV     
+
+Item 15.  
+       Consolidated Financial Statements and Exhibits   
+      31   
+
+* Not required for a  smaller reporting company.  
+
+i       
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING
+STATEMENTS  
+
+This Annual Report on Form 10-K for the fiscal year ended June
+30, 2018, or this Report, contains forward-looking statements within the meaning of the federal securities laws, which statements
+are subject to substantial risks and uncertainties. These forward-looking statements are intended to qualify for the safe harbor
+from liability established by the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical
+fact included in this Report, or incorporated by reference into this Report, are forward-looking statements. Throughout this Report,
+we have attempted to identify forward-looking statements by using words such as  may,   believe,   will, 
+ could,   project,   anticipate,   expect,   estimate,   should, 
+ continue,   potential,   plan,   forecasts,   goal,   seek, 
+ intend,  other forms of these words or similar words or expressions or the negative thereof. In particular, this Report
+contains forward-looking statements relating to, among other things: 
+
+predictions about our earnings, revenues, margins, expenses or other financial matters;    
+
+forecasts of our financial condition, results of operations, liquidity position, or working capital requirements;   
+
+the impact of changes to our share-based awards and any related changes to our share-based compensation expenses;   
+
+the impact of future offerings and sales of our debt or equity securities;   
+
+the impact of changes in our relationship with our customers;   
+
+plans or expectations with respect to our product development activities, business strategies or restructuring and expansion activities;    
+
+demand and growth of the market for our products or for the products of our competitors;    
+
+the impact of pending litigation, including outcomes of such litigation;   
+
+the impact of our response to and implementation of recent accounting pronouncements and changes in tax laws on our consolidated financial statements and the related disclosures;   
+
+unexpected changes in regulatory requirements, taxes, trade laws and tariffs;   
+
+our ability to comply with certain financial obligations in our loan agreement;   
+
+sufficiency of our internal controls and procedures;   
+
+expectations and results related to our plans to realign and reallocate our personnel and other resources;
+and   
+
+assumptions or estimates underlying any of the foregoing.   
+
+We have based our forward-looking statements on
+management s current expectations and projections about trends affecting our business and industry and other future
+events. Although we do not make forward-looking statements unless we believe we have a reasonable basis for doing so, we
+cannot guarantee their accuracy. Forward-looking statements are subject to substantial risks and uncertainties that could
+cause our future business, financial condition, results of operations or performance to differ materially from our historical
+results or those expressed or implied in any forward-looking statement contained in this Report. Some of the risks and
+uncertainties that may cause actual results to differ from those expressed or implied in the forward-looking statements are
+described in  Risk Factors  included in Part I, Item 1A of this Report, as well as in our other public filings
+with the Securities and Exchange Commission, or the SEC. In addition, actual results may differ as a result of additional
+risks and uncertainties of which we are currently unaware or which we do not currently view as material to our business. 
+
+You should read this Report in its
+entirety, together with the documents that we file as exhibits to this Report and the documents that we incorporate by reference
+into this Report, with the understanding that our future results may be materially different from what we currently expect. The
+forward-looking statements we make speak only as of the date on which they are made. We expressly disclaim any intent or obligation
+to update any forward-looking statements after the date hereof to conform such statements to actual results or to changes in our
+opinions or expectations, except as required by applicable law or the rules of The Nasdaq Stock Market, LLC. If we do update or
+correct any forward-looking statements, investors should not conclude that we will make additional updates or corrections. 
+
+We qualify all of our forward-looking
+statements by these cautionary statements. 
+
+ii       
+
+PART I  
+
+ITEM 1.   
+         BUSINESS    
+
+Overview  
+
+Lantronix, Inc., which we refer to herein as the Company, Lantronix,
+we, our, or us, is a global provider of secure data access and management solutions for Internet of Things, or IoT, assets. Our
+mission is to be the leading supplier of IoT solutions that enable companies to simplify the creation, deployment, and management
+of IoT projects while providing secure access to data for applications and people. 
+
+With more than 25 years of experience in creating
+information technology, or IT, management and machine to machine, or M2M, technologies, Lantronix is an innovator in enabling
+our customers to build new business models and realize the possibilities of the IoT. Our connectivity solutions are deployed
+inside millions of machines and data centers serving a wide range of industries, including medical, security, industrial,
+transportation, retail, financial, environmental and government. 
+
+We were incorporated in California in 1989 and reincorporated
+in Delaware in 2000. 
+
+References in this Report to  fiscal 2018  refer
+to the fiscal year ended June 30, 2018 and references to  fiscal 2017  refer to the fiscal year ended June 30, 2017.  
+
+Our Strategy  
+
+Today, more and more companies are seeking to connect their
+machines and electronic devices to the Internet, to manage them remotely, and to create new business models. The growth in the
+IoT market is being driven by the growing importance of data, and the rapidly falling cost of sensors, connectivity, computing
+and storage. While the promise of IoT is great, many companies find designing and deploying an IoT project to be complex, costly
+and time-consuming. 
+
+Our strategy is to leverage our networking and software development
+expertise to develop technologies that make it easier for our customers to participate in the IoT. We are primarily focused on
+the following market transitions: 
+
+the increasing role of wireless networks for IoT communication;    
+
+the desire to remotely access, monitor and manage machines and IT infrastructure assets; and   
+
+the increasing importance of security in IoT deployments.    
+
+We are addressing the IoT market opportunity and the transitions
+above with a combination of hardware and software solutions that will combine our portfolio of robust and secure networking technologies
+with new advanced data access, management, and security features for industrial IoT assets. Our offerings are designed to help
+companies to simplify and speed their IoT deployments, reduce complexity and development costs associated with web-scale application
+development and assist them in creating value-added business models. 
+
+We have continued to dedicate significant engineering resources
+to our MACH10    management software platform and ready-to-use applications that are intended to address the markets 
+need for cloud-based centralized management of IoT and IT assets. During the past fiscal year, we introduced a number of ready-to-use
+applications as well as software-as-a-service, or SaaS, offerings for both IoT and IT product lines, including Lantronix Gateway
+Central, MACH10 Global Device Manager, and ConsoleFlow TM . Lantronix Gateway Central is a cloud-based SaaS offering
+that allows device manufacturers, system integrators and end users to remotely monitor and manage deployed Lantronix IoT Gateways
+(which are further described below). MACH10 Global Device Manager is a ready-to-use industrial IoT application that enables device
+manufacturers to integrate IoT device lifecycle management for remote monitoring and management for their connected devices. ConsoleFlow
+is a centralized IT infrastructure management and monitoring software optimized for out-of-band networks, designed to provide
+network resilience and ensure connectivity even when primary connections fail   and especially in data centers and at remote
+sites where network availability is essential to business continuity. These software offerings are in the early stages of evaluation
+and did not generate revenue during fiscal 2018. 
+
+Products and Solutions  
+
+We organize our products and solutions into three product lines:
+IoT, IT Management and Other. 
+
+IoT  
+
+Our IoT products typically connect to one or more existing machines,
+or are built into new industrial devices to provide network connectivity. Our products are designed to enhance the value and utility
+of machines by making the data from the machines available to users, systems and processes or by controlling their properties and
+features over the network. 
+
+Our IoT products currently consist of IoT Gateways and IoT Building
+Blocks. IoT Gateways are designed to provide secure connectivity and the ability to add integrated device management and advanced
+data access features. IoT Building Blocks provide basic secure machine connectivity and unmanaged data access. 
+
+Our IoT products may be embedded into new designs or attached
+to existing machines. Our IoT products include wired and wireless connections that enhance the value and utility of modern electronic
+systems and equipment by providing secure network connectivity, application hosting, protocol conversion, secure access for distributed
+IoT deployments and many other functions. Many of the products are offered with software tools intended to further accelerate our
+customer s time-to-market and increase their value add. 
+
+Most of our IoT products are pre-certified in a number of countries
+thereby significantly reducing our original equipment manufacturer, or OEM, customers  regulatory certification costs and
+accelerating their time to market. 
+
+The following product families are included in our IoT product
+line: EDS, EDS-MD, PremierWave    EN, PremierWave    XC, SGX   , UDS, WiPort   ,
+xDirect   , xPico   , xPico    Wi-Fi, xPress   , XPort   , MACH10   
+Global Device Manager and Lantronix Gateway Central. 
+
+IT Management  
+
+Today, organizations are managing an ever-increasing number
+of devices and data on enterprise networks where 24/7 reliability is mission critical. Out-of-band management is a technique that
+uses a dedicated management network to access critical network devices to ensure management connectivity (including the ability
+to determine the status of any network component) independent of the status of other in-band network components. Remote out-of-band
+access allows organizations to effectively manage their enterprise IT resources and at the same time, optimize their IT support
+resources. Our vSLM , a virtualized central management software solution, simplifies secure administration of our IT management
+products and the equipment attached to them through a standard web browser. 
+
+Our IT Management product line includes console management,
+power management, and keyboard-video-mouse (commonly referred to as a KVM) products that provide remote access to IT and networking
+infrastructure deployed in test labs, data centers, branch offices and server rooms. 
+
+The following product families are included in our IT Management
+product line: SLB   , SLC    8000, Spider   , ConsoleFlow and vSLM . 
+
+Other  
+
+We categorize products that are non-focus or end-of-life as
+Other. Our Other product line includes non-focus products such as the xPrintServer   . In addition, this product line
+includes end-of-life versions of our MatchPort   , SLC   , SLP   , xPress Pro, xSenso   ,
+PremierWave    XN, and WiBox product families. 
+
+Net Revenue by Product Line  
+
+We have one operating and reportable business segment. A summary
+of our net revenue by product line is found in  Management s Discussion and Analysis of Financial Condition and Results
+of Operations  included in Part II, Item 7 of this Report, which is incorporated herein by reference. A discussion of factors
+potentially affecting our net revenue and other operating results is set forth in  Risk Factors  included in Part I,
+Item 1A of this Report, which is incorporated herein by reference. 
+
+Sales Cycle  
+
+Our embedded IoT solutions are typically used by OEMs, original
+design manufacturers, or ODMs, and contract manufacturers. OEMs design and sell products under their own brand that are either
+manufactured by the OEM in-house or by third-party contract manufacturers. ODMs design and manufacture products for third parties,
+which then sell those products under the third parties  brands. The design cycles using our embedded solutions typically
+range from nine to 24 months and can generate revenue for the entire life-cycle of an end user s product. 
+
+Our IT Management product line and external IoT solutions
+are typically sold to end users through value added resellers, or VARs, systems integrators, distributors, online retailers
+and, to a lesser extent, OEMs. The design cycles for our IT Management products generally range from three to 18 months and
+are often project-based. 
+
+Sales Channels  
+
+Distributors  
+
+A majority of our sales are made through distributors. Distributors
+resell our products to a wide variety of resellers and end customers including OEMs, ODMs, VARs, systems integrators, consumers,
+online retailers, IT resellers, corporate customers and government entities. 
+
+Resellers  
+
+Our products are sold by industry-specific system integrators
+and VARs, who often obtain our products from our distributors. Additionally, our products are sold by direct market resellers such
+as CDW, ProVantage, and Amazon.com. 
+
+Direct Sales  
+
+We sell many products directly to larger OEMs and end users.
+We also maintain an ecommerce site for direct sales. 
+
+Sales and Marketing  
+
+We sell our products primarily through an internal sales force,
+which includes regional sales managers, inside sales personnel and field applications engineers in major regions throughout the
+world. This team manages our relationships with our partners and end users, identifies and develops new sales opportunities and
+increases penetration at existing accounts. We implement marketing programs, tools and services, including displaying our products
+at industry-specific events, to generate sales leads and increase demand for our products. 
+
+Manufacturing  
+
+Our manufacturing operations are primarily conducted through
+third-party contract manufacturers. We utilize  AsteelFlash Group and Hana Microelectronics,
+both  primarily located in China, as our contract manufacturers for most of our products.  In
+addition, we use eSilicon Corporation to manage Taiwan Semiconductor Manufacturing Company, Ltd., a third-party foundry located
+in Taiwan, which manufactures our large-scale integration chips.  We manufacture certain products with final assembly in
+the U.S. to meet trade compliance requirements. 
+
+Our contract manufacturers source raw materials, components
+and integrated circuits, in accordance with our specifications and forecasts, and perform printed circuit board assembly,
+final assembly, functional testing and quality control. Our products are manufactured and tested to our specifications with standard
+and custom components. Many of these components are available from multiple vendors. However, we have several single-sourced supplier
+relationships, either because alternative sources are not available or because the relationship is advantageous to us. 
+
+Research and Development  
+
+Our research and development efforts are focused on the development
+of hardware and software technology to differentiate our products and enhance our competitive position in the markets we serve.
+Product research and development is primarily performed in-house and supplemented with outsourced resources. 
+
+The following table presents our research and development expenses: 
+
+Competition  
+
+Our industry is highly competitive and characterized by rapid
+technological advances and evolving industry standards. The market can be affected significantly by new product introductions and
+marketing activities of industry participants. We believe that we compete for customers based on product features, software capabilities,
+company reputation, brand recognition, technical support, relationships with partners, quality, reliability, product development
+capabilities, price and availability. A discussion of factors potentially affecting our ability to compete in the markets in which
+we operate is set forth in  Risk Factors  included in Part I, Item 1A of this Report, which is incorporated herein
+by reference. 
+
+Intellectual Property Rights  
+
+We believe that a considerable portion of our value resides
+in our intellectual property. We have developed proprietary methodologies, tools, processes and software in connection with delivering
+our products and services. We protect our intellectual property through a combination of patents, copyrights, trademarks, trade
+secrets, licenses, non-disclosure agreements and contractual provisions. We enter into a non-disclosure and confidentiality agreement
+with each of our employees, consultants and third parties that have access to our proprietary technology. Pursuant to assignment
+of inventions agreements, all of our employees and consultants assign to us all intellectual property rights for the relevant inventions
+created in connection with such person s employment or contract with us. We currently hold U.S. and international patents
+covering various aspects of our products, with additional patent applications pending. 
+
+U.S. and Foreign Government Regulation  
+
+Many of our products are subject to certain mandatory regulatory
+approvals in the regions in which our products are deployed. In particular, wireless products must be approved by the relevant
+government authority prior to these products being offered for sale. In addition,  certain
+jurisdictions have regulations requiring products to use environmentally friendly components.  Some of our products employ
+security technology, which is subject to various U.S. export restrictions. 
+
+Employees  
+
+As of July 31, 2018, we had 147 full time employees, none of
+whom is represented by a labor union. We have not experienced any labor problems resulting in a work stoppage and believe we have
+good relationships with our employees. 
+
+Customer and Geographic Concentrations  
+
+We conduct our business globally and manage our sales teams
+by three geographic regions: the Americas; Europe, Middle East, and Africa, or EMEA; and Asia Pacific Japan. A discussion of sales
+to our significant customers and related parties, sales within geographic regions as a percentage of net revenue and sales to significant
+countries as a percentage of net revenue is set forth in Note 9 of Notes to Consolidated Financial Statements included in Part
+II, Item 8 of this Report, which is incorporated herein by reference. A discussion of factors potentially affecting our customer
+and geographic concentrations is set forth in  Risk Factors  included in Part I, Item 1A of this Report, which is
+incorporated herein by reference. 
+
+Available Information  
+
+Our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q,
+Current Reports on Form 8-K, Proxy Statements on Schedule 14A and other reports and information that we file or furnish pursuant
+to the Securities Exchange Act of 1934, as amended, or the Exchange Act, are available free of charge on our website at www.lantronix.com
+as soon as reasonably practicable after filing or furnishing such reports with the SEC. The public may read and copy any materials
+we file with the SEC at the SEC s Public Reference Room at 100 F Street, NE, Washington, DC 20549. The public may obtain
+information on the operation of the Public Reference Room by calling 1-800-SEC-0330. The SEC also maintains a website at www.sec.gov
+that contains reports, proxy and information statements, and other information regarding issuers that file electronically. Our
+audit committee charter, corporate governance and nominating committee charter, and compensation committee charter are also posted
+on our website at www.lantronix.com under  Investor Relations.  The contents of our website are not incorporated by
+reference into this Report. References to our website address in this Report are inactive textual references only. 
+
+Executive Officers of the Registrant  
+
+Executive officers serve at the discretion of our board of directors.
+There are no family relationships between any of our directors or executive officers. The following table presents the names, ages,
+and positions held by our executive officers: 
+
+Name   
+       
+       Age   
+       
+       Position    
+ 
+      Jeffrey W. Benck  
+       
+      53  
+       
+      President and Chief Executive Officer   
+ 
+      Jeremy R. Whitaker  
+       
+      47  
+       
+      Chief Financial Officer   
+ 
+      Daryl R. Miller  
+       
+      57  
+       
+      Vice President of Engineering  (Retiring effective September 7, 2018)    
+ 
+      Kevin M. Yoder  
+       
+      54  
+       
+      Vice President of Worldwide Sales   
+
+JEFFREY W. BENCK has served as our President, Chief Executive
+Officer and as a member of our board of directors since December 2015. Mr. Benck served as president and chief executive officer
+of Emulex Corporation, a global supplier of advanced networking, monitoring and management solutions, from July 2013 until Emulex
+was acquired by Avago Technologies in May 2015. He joined Emulex in May 2008 as executive vice president and chief operating officer
+and was subsequently appointed to president and chief operating officer in August 2010. Prior to joining Emulex, Mr. Benck was
+president and chief operating officer of QLogic Corporation, a supplier of storage networking solutions. Prior to that, he spent
+18 years at IBM Corporation where he held a variety of executive leadership roles, including serving as vice president of xSeries,
+BladeCenter and Retail Store Solutions development. Mr. Benck holds a Bachelor of Science degree in mechanical engineering from
+Rochester Institute of Technology and a Master of Science degree in management of technology from University of Miami. 
+
+JEREMY R. WHITAKER has served as our Chief Financial Officer
+since September 2011. Mr. Whitaker returned to Lantronix after serving as vice president, corporate controller at Mindspeed from
+January 2011 to September 2011. Mr. Whitaker previously served as our Vice President of Finance and Accounting from September 2010
+to January 2011, where he was responsible for managing all worldwide finance and accounting functions. Mr. Whitaker also served
+as our Senior Director of Finance and Accounting from February 2006 to September 2010 and our Director of Finance and Accounting
+from August 2005 to February 2006. Prior to August 2005, Mr. Whitaker held vice president and director level finance and accounting
+positions with two publicly-traded companies and worked in the assurance practice at Ernst   Young LLP for six years. Mr. Whitaker
+holds a Bachelor of Arts in business administration with a concentration in accounting from the California State University at
+Fullerton and a Master of Science degree in accountancy from the University of Notre Dame s Mendoza College of Business. 
+
+DARYL R. MILLER joined Lantronix in January 2000 and has served
+as our Vice President of Engineering since March 2008. Mr. Miller served as our Interim Vice President of Engineering from October
+2007 to March 2008. Prior to this, Mr. Miller served in Director and Senior Director positions within our engineering department.
+Prior to joining Lantronix, Mr. Miller spent 14 years at Tektronix and held several positions within the microprocessor development
+and computer graphics/networking divisions, and as worldwide director of service and support for Network Computing Devices (commonly
+referred to as NCD). Mr. Miller holds a Bachelor of Science degree with honors in business information systems and Master of Business
+Administration from the University of California, Irvine, where he graduated Dean s Scholar and Beta Gamma Sigma. In August
+2018, Mr. Miller notified us that he would retire from his position as Vice President of Engineering, effective as of September
+7, 2018, at which time his employment with us will cease. 
+
+KEVIN M. YODER has served as our Vice President of Worldwide
+Sales since March 2016. Prior to joining Lantronix, Mr. Yoder served as vice president of sales for the Americas region at Avago
+Technologies (now Broadcom Limited), where he was responsible for driving more than $1.3 billion in annual revenues. Prior to joining
+Avago, Mr. Yoder was vice president of worldwide sales for XMOS, a start-up semiconductor company. Prior to that, he held sales
+leadership positions at Analog Devices, Texas Instruments, and CoWare. Mr. Yoder holds a Bachelor of Science degree in electrical
+engineering from Notre Dame University. 
+
+ITEM 1A.   
+         RISK FACTORS    
+
+We operate in a rapidly changing environment that involves
+numerous risks and uncertainties. Before deciding to purchase, hold or sell our common stock, you should carefully consider the
+risks described in this section, as well as other information contained in this Report and in our other filings with the SEC. This
+section should be read in conjunction with the consolidated financial statements and accompanying notes thereto included in Item
+8 of this Report, and  Management s Discussion and Analysis of Financial Condition and Results of Operations 
+included in Item 7 of this Report. If any of these risks or uncertainties actually occurs, our business, financial condition, results
+of operations or prospects could be materially harmed. In that event, the market price for our common stock could decline and you
+could lose all or part of your investment. In addition, risks and uncertainties not presently known to us or that we currently
+deem immaterial may also adversely affect our business.  
+
+Certain of our products
+are sold into mature markets, which could limit our ability to continue to generate revenue from these products. Our ability to
+sustain and grow our business depends on our ability to develop, market, and sell new products.    
+
+Certain of our products
+are sold into mature markets that are characterized by a trend of declining demand. As the overall market for these products decreases
+due to the adoption of new technologies, we expect that our revenues from these products will continue to decline. As a result,
+our future prospects will depend on our ability to develop and successfully market new products that address new and growing markets.
+Our failure to develop new products or failure to achieve widespread customer acceptance of such new products could cause us to
+lose market share and cause our revenues to decline. There can be no assurance that we will not experience difficulties that could
+delay or prevent the successful development, introduction, marketing and sale of new products or product enhancements. Factors
+that could cause delays include regulatory and/or industry approvals, product design cycle and failure to identify products or
+features that customers demand. In addition, the introduction and sale of new products often involves a significant technical evaluation,
+and we often face delays because of our customers  internal procedures for evaluating, approving and deploying new technologies.
+For these and other reasons, the sales cycle associated with new products is typically lengthy, often lasting six to 24 months
+and sometimes longer. Therefore, there can be no assurance that our introduction or announcement of new product offerings will
+achieve any significant or sustainable degree of market acceptance or result in increased revenue in the near term.  
+
+Our new software
+offerings represent a new product line for us and are subject to the risks faced by a new business.    
+
+During the fiscal
+year ended June 30, 2018, we continued to dedicate significant engineering resources to our management software platform,
+applications, and software-as-a-service, or SaaS, offerings, including MACH10   , Global Device Manager,
+Lantronix Gateway Central, and ConsoleFlow TM . Our management has limited experience in this marketplace. These
+product and service offerings will be subject to significant additional risks that are not necessarily related to our
+hardware products. Our ability to succeed with these offerings will depend in large part on our ability to provide customers
+with software products and services that offer features and functionality that address the needs of particular businesses. We
+may face challenges and delays in the development of this product line as the marketplace for products and services evolves
+to meet the needs and desires of customers. We cannot provide assurances that we will be successful in operating and growing
+this product line.  
+
+In light of these risks
+and uncertainties, we may not be able to establish or maintain market share for our software and SaaS offerings. As we develop
+new product lines, we must adapt to market conditions that are unfamiliar to us, such as competitors and distribution channels
+that are different from those we have known in the past. We have and will encounter competition from other solutions providers,
+many of whom may have more significant resources than us with which to compete. There can be no assurance that we will recover
+our investments in this new product line, that we will receive meaningful revenue from or realize a profit from this new product
+line or that diverting our management s attention to this new product line will not have a material adverse effect on our
+existing business, and in turn on our results of operations, financial condition and prospects.  
+
+We may experience
+significant fluctuation in our revenue because the timing of large orders placed by some of our customers is often project-based.    
+
+Our operating results
+fluctuate because we often receive large orders from customers that coincide with the timing of the customer s project. Sales
+of our products and services may be delayed if customers delay approval or commencement of projects due to budgetary constraints,
+internal acceptance review procedures, timing of budget cycles or timing of competitive evaluation processes. In addition, sometimes
+our customers make significant one-time hardware purchases for projects which are not repeated. We sell primarily on a purchase
+order basis rather than pursuant to long-term contracts, and we expect fluctuations in our revenues as a result of one-time project-based
+purchases to continue in the future. In addition, our sales may be subject to significant fluctuations based on the acceleration,
+delay or cancellation of customer projects, or our failure to complete one or a series of significant potential sales. Because
+a significant portion of our operating expenses are fixed, even a single order can have a disproportionate effect on our quarterly
+revenues and operating results.  As a result of the factors discussed above, and due to the complexities of the industry
+in which we operate, it is difficult for us to forecast demand for our current or future products with any degree of certainty,
+which means it is difficult for us to forecast our sales. If our quarterly or annual operating results fall below the expectations
+of investors or securities analysts, the price of our common stock could decline substantially. 
+
+The lengthy sales
+cycle for our products and services, along with delays in customer completion of projects, make the timing of our revenues difficult
+to predict.     
+
+We have a lengthy sales
+cycle for many of our products that generally extends between six and 24 months and sometimes longer due to a lengthy customer
+evaluation and approval process. The length of this process can be affected by factors over which we have little or no control,
+including the customer s budgetary constraints, timing of the customer s budget cycles, and concerns by the customer
+about the introduction of new products by us or by our competitors. As a result, sales cycles for customer orders vary substantially
+among different customers. The lengthy sales cycle is one of the factors that has caused and may continue to cause our revenues
+and operating results to vary significantly from quarter to quarter. In addition, we may incur substantial expenses and devote
+significant management effort and expense to develop potential relationships that do not result in agreements or revenues, which
+may prevent us from pursuing other opportunities. Accordingly, excessive delays in sales could be material and adversely affect
+our business, financial condition or results of operations.  
+
+The nature of our
+products, customer base and sales channels causes us to lack visibility into future demand for our products, which makes it difficult
+for us to predict our revenues or operating results.    
+
+We use forecasts based
+on anticipated product orders to manage our manufacturing and inventory levels and other aspects of our business. However, several
+factors contribute to a lack of visibility with respect to future orders, including:  
+
+the lengthy and unpredictable sales cycle for our products that can extend from six to 24 months or longer;   
+
+the project-driven nature of many of our customers  requirements;   
+
+the fact that we primarily sell our products indirectly through distributors;    
+
+the uncertainty of the extent and timing of market acceptance of our new products;   
+
+the need to obtain industry certifications or regulatory approval for our products;   
+
+the lack of long-term contracts with our customers;   
+
+the diversity of our product lines and geographic scope of our product distribution;    
+
+the fact that we have some customers who make single, non-recurring purchases; and   
+
+the fact that a large number of our customers typically purchase in small quantities.   
+
+This lack of visibility
+impacts our ability to forecast our inventory requirements. If we overestimate our customers  future requirements for products,
+we may have excess inventory, which would increase our costs and potentially require us to write-off inventory that becomes obsolete.
+Additionally, if we underestimate our customers  future requirements, we may have inadequate inventory, which could interrupt
+and delay delivery of our products to our customers, harm our reputation, and cause our revenues to decline. If any of these events
+occur, they could prevent us from achieving or sustaining profitability and the value of our common stock may decline.  
+
+We have a history
+of losses.    
+
+We have historically incurred
+net losses. There can be no assurance that we will generate net profits in future periods. Further, there can be no assurance
+that we will be cash flow positive in future periods. In the event that we fail to achieve profitability in future periods,
+the value of our common stock may decline. In addition, if we are unable to achieve or maintain positive cash flows, we would
+be required to seek additional funding, which may not be available on favorable terms, if at all.  
+
+Delays in qualifying product revisions of existing products
+for certain of our customers could result in the delay or loss of sales to those customers, which could negatively impact
+our business and financial results.    
+
+Our industry is characterized by intense competition, rapidly
+evolving technology and continually changing customer preferences and requirements. As a result, we frequently develop and introduce
+new versions of our existing products, which we refer to as revisions. 
+
+Prior to purchasing our products, some of our customers require
+that products undergo a qualification process, which may involve testing of the products in the customer s system. A subsequent
+revision to a product s hardware or firmware, changes in the manufacturing process or our selection of a new supplier may
+require a new qualification process, which may result in delays in sales to customers, loss of sales, or us holding excess or obsolete
+inventory. 
+
+After products are qualified, it can take additional time before
+the customer commences volume production of components or devices that incorporate our products. If we are unsuccessful or delayed
+in qualifying any new or revised products with a customer, such failure or delay would preclude or delay sales of such products
+to the customer, and could negatively impact our financial results. In addition, new revisions to our products could cause our
+customers to alter the timing of their purchases, by either accelerating or delaying purchases, which could result in fluctuations
+of our net revenue from quarter to quarter. 
+
+Delays in deliveries
+or quality control problems with our component suppliers could damage our reputation and could cause our net revenue to decline
+and harm our results of operations.    
+
+We and our contract manufacturers
+are responsible for procuring raw materials for our products. Our products incorporate some components and technologies that are
+only available from single or limited sources of supply.  Depending on a limited number of suppliers exposes us to risks,
+including limited control over pricing, availability, quality and delivery schedules. Moreover, due to the limited amount of our
+sales, we may not be able to convince suppliers to continue to make components available to us unless there is demand for such
+components from their other customers. If any one or more of our suppliers cease to provide us with sufficient quantities of components
+in a timely manner or on terms acceptable to us, we would have to seek alternative sources of supply and we may have difficulty
+identifying additional or replacement suppliers for some of our components. 
+
+We may experience
+constraints in the supply of certain materials and components that could affect our operating results.    
+
+Some of our integrated
+circuits are only available from a single source and in some cases, are no longer being manufactured. From time to time, integrated
+circuits, and potentially other components used in our products, will be phased out of production by the manufacturer. When this
+happens, we attempt to purchase sufficient inventory to meet our needs until a substitute component can be incorporated into our
+products. Nonetheless, we may be unable to purchase sufficient components to meet our demands, or we may incorrectly forecast our
+demands, and purchase too many or too few components. In addition, our products use components that have been subject to market
+shortages and substantial price fluctuations in the past. From time to time, we have been unable to meet customer orders because
+we were unable to purchase necessary components for our products. We do not have long-term supply arrangements with most of our
+vendors to obtain necessary components or technology for our products and instead purchase components on a purchase order basis.
+If we are unable to purchase components from these suppliers, our product shipments could be prevented or delayed, which could
+result in a loss of sales. If we are unable to meet existing orders or to enter into new orders because of a shortage in components,
+we will likely lose net revenue, risk losing customers and risk harm to our reputation in the marketplace, which could adversely
+affect our business, financial condition or results of operations.  
+
+We outsource substantially
+all of our manufacturing to contract manufacturers in Asia. If our contract manufacturers are unable or unwilling to manufacture
+our products at the quality and quantity we request, our business could be harmed.    
+
+We use contract manufacturers
+based in Asia to manufacture substantially all of our products. Generally, we do not have guaranteed supply agreements with our
+contract manufacturers or suppliers. If any of these subcontractors or suppliers were to cease doing business with us, we might
+not be able to obtain alternative sources in a timely or cost-effective manner. Our reliance on third-party manufacturers, especially
+in a country outside of the U.S., exposes us to a number of significant risks, including:  
+
+reduced control over delivery schedules, quality assurance, manufacturing yields and production costs;   
+
+lack of guaranteed production capacity or product supply;   
+
+reliance on these manufacturers to maintain competitive manufacturing technologies;   
+
+unexpected changes in regulatory requirements, taxes, trade laws and tariffs;   
+
+reduced protection for intellectual property rights in some countries;   
+
+differing labor regulations;   
+
+disruptions to the business, financial stability or operations, including due to strikes, labor disputes or other disruptions to the workforce, of these manufacturers;   
+
+compliance with a wide variety of complex regulatory requirements;   
+
+fluctuations in currency exchange rates;   
+
+changes in a country s or region s political or economic conditions;   
+
+effects of terrorist attacks abroad;   
+
+greater difficulty in staffing and managing foreign operations; and   
+
+increased financial accounting and reporting burdens and complexities.   
+
+Any problems that we may
+encounter with the delivery, quality or cost of our products from our contract manufacturers or suppliers could cause us to lose
+net revenue, damage our customer relationships and harm our reputation in the marketplace, each of which could materially and adversely
+affect our business, financial condition or results of operations.   
+
+From time to time, we
+may transition the manufacturing of certain products from one contract manufacturer to another. When we do this, we may incur substantial
+expenses, risk material delays or encounter other unexpected issues.   
+
+We depend on distributors
+for a majority of our sales and to complete order fulfillment.    
+
+We depend on the resale of products through distributor accounts
+for a substantial majority of our worldwide net revenue. In addition, sales through our top five distributors accounted for approximately
+51% of our net revenue in fiscal 2018. A significant reduction of effort by one or more distributors to sell our products or a
+material change in our relationship with one or more distributors may reduce our access to certain end customers and adversely
+affect our ability to sell our products. Furthermore, if a key distributor materially defaults on a contract or otherwise fails
+to perform, our business and financial results would suffer. 
+
+In addition, the financial health of our distributors and our
+continuing relationships with them are important to our success. Our business could be harmed if the financial health of these
+distributors impairs their performance and we are unable to secure alternate distributors. 
+
+Our ability to sustain
+and grow our business depends in part on the success of our distributors and resellers.    
+
+A substantial part of our revenues is generated through sales
+by distributors and resellers. To the extent they are unsuccessful in selling our products or if we are unable to obtain and retain
+a sufficient number of high-quality distributors and resellers, our operating results could be materially and adversely affected.
+In addition, our distributors and resellers may devote more resources to marketing, selling and supporting products and services
+that are competitive with ours, than to our products. They also may have incentives to promote our competitors' products over our
+products, particularly for our competitors with larger volumes of orders, more diverse product offerings and a longer relationship
+with our distributors and resellers. In these cases, one or more of our important distributors or resellers may stop selling our
+products completely or may significantly decrease the volume of products they sell on our behalf. This sales structure also could
+subject us to lawsuits, potential liability and reputational harm if, for example, any of our distributors or resellers misrepresents
+the functionality of our products or services to customers, violates laws or our corporate policies. If we fail to effectively
+manage our existing or future distributors and resellers effectively, our business and operating results could be materially and
+adversely affected. 
+
+Changes to the average
+selling prices of our products could affect our net revenue and gross margins and adversely affect results of operations.    
+
+In the past, we have experienced
+reductions in the average selling prices and gross margins of our products. We expect competition to continue to increase, and
+we anticipate this could result in additional downward pressure on our pricing. Our average selling prices for our products might
+also decline as a result of other reasons, including promotional programs introduced by us or our competitors and customers who
+negotiate price concessions. To the extent we are able to increase prices, we may experience a decline in sales volumes if customers
+decide to purchase competitive products. If any of these were to occur, our gross margins could decline and we might not be able
+to reduce the cost to manufacture our products to keep up with the decline in prices.  
+
+If we are unable
+to sell our inventory in a timely manner, it could become obsolete, which could require us to write-down or write off obsolete
+inventory, which could harm our operating results.    
+
+At any time, competitive
+products may be introduced with more attractive features or at lower prices than ours. If this occurs, and for other reasons, we
+may not be able to accurately forecast demand for our products and our inventory levels may increase. There is a risk that we may
+be unable to sell our inventory in a timely manner to avoid it becoming obsolete. If we are required to substantially discount
+our inventory or are unable to sell our inventory in a timely manner, we would be required to increase our inventory reserves or
+write off obsolete inventory and our operating results could be substantially harmed.  
+
+Our failure to compete
+successfully in our highly competitive market could result in reduced prices and loss of market share.    
+
+The market in which we operate is intensely competitive, subject
+to rapid technological advances and highly sensitive to evolving industry standards. The market can also be affected significantly
+by new product and technology introductions and marketing and pricing activities of industry participants. Our products compete
+directly with products produced by a number of our competitors. Many of our competitors and potential competitors have greater
+financial and human resources for marketing and product development, more experience conducting research and development activities,
+greater experience obtaining regulatory approval for new products, larger distribution and customer networks, more established
+relationships with contract manufacturers and suppliers, and more established reputations and name recognition. For these and other
+reasons, we may not be able to compete successfully against our current or potential future competitors. In addition, the amount
+of competition we face in the marketplace may change and grow as the market for IoT and M2M networking solutions grows and new
+companies enter the marketplace. Present and future competitors may be able to identify new markets, adapt new technologies, develop
+and commercialize products more quickly and gain market acceptance of products with greater success. As a result of these competitive
+factors, we may fail to meet our business objectives and our business, financial condition and operating results could be materially
+and adversely affected. 
+
+Our products may
+contain undetected software or hardware errors or defects that could lead to an increase in our costs, reduce our net revenue or
+damage our reputation.    
+
+We currently offer warranties
+ranging from one to five years on each of our products. Our products could contain undetected software or hardware errors or defects.
+If there is a product failure, we might have to replace all affected products, or we might have to refund the purchase price for
+the units. Regardless of the amount of testing we undertake, some errors might be discovered only after a product has been installed
+and used by customers. Any errors discovered after commercial release could result in financial losses and claims against us. Significant
+product warranty claims against us could harm our business, reputation and financial results and cause the market price of our
+common stock to decline.  
+
+Our inability to
+obtain appropriate industry certifications or approvals from governmental regulatory bodies could impede our ability to grow revenues
+in our wireless products.    
+
+The sale of our wireless
+products in certain geographical markets is sometimes dependent on the ability to gain certifications and/or approvals by
+certain governmental bodies. In addition, many of our products are certified as meeting various industry quality and/or compatibility
+standards.  Failure to obtain these certifications or approvals, or delays in receiving such certification or approvals, could
+impact our ability to compete effectively or at all in these markets and could have an adverse impact on our revenues.  
+
+If software that
+we incorporate into our products were to become unavailable or no longer available on commercially reasonable terms, it could adversely
+affect sales of our products, which could disrupt our business and harm our financial results.    
+
+Certain of our products
+contain software developed and maintained by third-party software vendors or which are available through the  open source 
+software community. We also expect that we may incorporate software from third-party vendors and open source software in our future
+products. Our business would be disrupted if this software, or functional equivalents of this software, were either no longer available
+to us or no longer offered to us on commercially reasonable terms. In either case, we would be required to either redesign our
+products to function with alternate third-party software or open source software, or develop these components ourselves, which
+would result in increased costs and could result in delays in our product shipments. Furthermore, we might be forced to limit the
+features available in our current or future product offerings.  
+
+We face risks associated
+with our international operations that could impair our ability to grow our revenues abroad as well as our overall financial condition.    
+
+We believe that our future
+growth is dependent in part upon our ability to increase sales in international markets. These sales are subject to a variety of
+risks, including geopolitical events, fluctuations in currency exchange rates, tariffs, import restrictions and other trade barriers,
+unexpected changes in regulatory requirements, longer accounts receivable payment cycles, potentially adverse tax consequences,
+and export license requirements. In addition, we are subject to the risks inherent in conducting business internationally, including
+political and economic instability and unexpected changes in diplomatic and trade relationships. In many markets where we operate,
+business and cultural norms are different than those in the U.S., and practices that may violate laws and regulations applicable
+to us such as the Foreign Corrupt Practices Act, or FCPA, unfortunately are more commonplace. Although we have implemented policies
+and procedures with the intention of ensuring compliance with these laws and regulations, our employees, contractors and agents,
+as well as distributors and resellers involved in our international sales, may take actions in violation of our policies. Many
+of our vendors and strategic business allies also have international operations and are subject to the risks described above. Even
+if we are able to successfully manage the risks of international operations, our business may be adversely affected if one or more
+of our business partners are not able to successfully manage these risks. There can be no assurance that one or more of these factors
+will not have a material adverse effect on our business strategy and financial condition.  
+
+Rising
+concern regarding international tariffs could materially and adversely affect our business and results of operations.    
+
+The current
+political landscape has introduced significant uncertainty with respect to future trade regulations and existing international
+trade agreements, as shown by the recent U.S.-initiated renegotiation of the North America Free Trade Agreement, and Brexit in
+Europe. This uncertainty includes the possibility of imposing tariffs or penalties on products manufactured outside the US, including
+the March 22, 2018 announcement of the US government s institution of a 25% tariff on a range of products from China and
+the potential for increased trade barriers between the UK and the European Union. The institution of trade tariffs both globally
+and between the U.S. and China specifically, carries the risk of negatively affecting the overall economic conditions of both China
+and the U.S., which could have a negative impact on us, as we have significant contract manufacturing operations in China.  
+
+We cannot predict
+whether, and to what extent, there may be changes to international trade agreements or whether quotas, duties, tariffs, exchange
+controls or other restrictions on our products will be changed or imposed. If we are unable to source our products from the countries
+where we wish to purchase them, either because of such regulatory changes or for any other reason, or if the cost of doing so increases,
+it could have a material adverse effect on our business, financial condition and results of operations. Furthermore, imposition
+of tariffs may result in local sourcing initiatives, or other developments that make it more difficult to sell our products in
+foreign countries, which would negatively impact our business and operating results.  
+
+Our failure to comply
+effectively with regulatory laws pertaining to our foreign operations could have a material adverse effect on our revenues and
+profitability.    
+
+We are required to comply
+with U.S. government export regulations in the sale of our products to foreign customers, including requirements to properly classify
+and screen our products against a denied parties list prior to shipment. We are also required to comply with the provisions of
+the FCPA and all other anti-corruption laws, such as the UK Anti-Bribery Act, of all other countries in which we do business, directly
+or indirectly, including compliance with the anti-bribery prohibitions and the accounting and recordkeeping requirements of these
+laws. Violations of the FCPA or other similar laws could trigger sanctions, including ineligibility for U.S. government insurance
+and financing, as well as large fines. Failure to comply with the aforementioned regulations could also affect our decision to
+sell our products in international jurisdictions, which could have a material adverse effect on our revenues and profitability.  
+
+Our failure to comply
+effectively with the requirements of applicable environmental legislation and regulation could have a material adverse effect on
+our revenues and profitability.    
+
+Certain states and countries
+have passed regulations relating to chemical substances in electronic products and requiring electronic products to use environmentally
+friendly components. For example, the European Union has the Waste Electrical and Electronic Equipment Directive, the Restrictions
+of Hazardous Substances Directive, and the Regulation on Registration, Evaluation, Authorization and Restriction of Chemicals.
+In the future, China and other countries including the U.S. are expected to adopt further environmental compliance programs. In
+order to comply with these regulations, we may need to redesign our products to use different components, which may be more expensive,
+if they are available at all. If we fail to comply with these regulations, we may not be able to sell our products in jurisdictions
+where these regulations apply, which could have a material adverse effect on our revenues and profitability.  
+
+Foreign currency
+exchange rates may adversely affect our results.    
+
+We are exposed to market risk primarily related to foreign currencies
+and interest rates. In particular, we are exposed to changes in the value of the U.S. dollar versus the local currency in which
+our products are sold and our services are purchased, including devaluation and revaluation of local currencies. Accordingly, fluctuations
+in foreign currency rates could adversely affect our revenues. 
+
+In particular, the uncertainty with respect to the ability of
+certain European countries to continue to service their sovereign debt obligations and the related European financial restructuring
+efforts may cause the value of the Euro and other European currencies to fluctuate.  If  the
+value of European currencies, including the Euro, deteriorates, thus reducing the purchasing power of European customers,
+our sales could be adversely affected .  
+
+Current or future
+litigation could adversely affect us.    
+
+We are subject to a wide
+range of claims and lawsuits in the course of our business. Any lawsuit may involve complex questions of fact and law and may require
+the expenditure of significant funds and the diversion of other resources. The results of litigation are inherently uncertain,
+and adverse outcomes are possible.  
+
+In particular, litigation
+regarding intellectual property rights occurs frequently in our industry. The results of litigation are inherently uncertain, and
+adverse outcomes are possible. Adverse outcomes may have a material adverse effect on our business, financial condition or results
+of operations.  
+
+There is a risk that other
+third parties could claim that our products, or our customers  products, infringe on their intellectual property rights or
+that we have misappropriated their intellectual property. In addition, software, business processes and other property rights in
+our industry might be increasingly subject to third-party infringement claims as the number of competitors grows and the functionality
+of products in different industry segments overlaps. Other parties might currently have, or might eventually be issued, patents
+that pertain to the proprietary rights we use. Any of these third parties might make a claim of infringement against us. The results
+of litigation are inherently uncertain, and adverse outcomes are possible.  
+
+Responding to any infringement
+claim, regardless of its validity, could:  
+
+be time-consuming, costly and/or result in litigation;   
+
+divert management s time and attention from developing our business;   
+
+require us to pay monetary damages, including treble damages if we are held to have willfully infringed;   
+
+require us to enter into royalty and licensing agreements that we would not normally find acceptable;   
+
+require us to stop selling or to redesign certain of our products; or   
+
+require us to satisfy indemnification obligations to our customers.   
+
+If any of these occur,
+our business, financial condition or results of operations could be adversely affected.  
+
+We may not be able
+to adequately protect or enforce our intellectual property rights, which could harm our competitive position or require us to incur
+significant expenses to enforce our rights.    
+
+We rely primarily on a
+combination of laws, such as patent, copyright, trademark and trade secret laws, and contractual restrictions, such as confidentiality
+agreements and licenses, to establish and protect our proprietary rights. Despite any precautions that we have taken:  
+
+laws and contractual restrictions might not be sufficient to prevent misappropriation of our technology or deter others from developing similar technologies;   
+
+other companies might claim intellectual property rights based upon prior use that negatively impacts our ability to enforce our trademarks and patents;   
+
+policing unauthorized use of our patented technology and trademarks is difficult, expensive and time-consuming, and we might be unable to determine the extent of this unauthorized use.   
+
+Also, the laws of some
+of the countries in which we market and manufacture our products offer little or no effective protection of our proprietary technology.
+Reverse engineering, unauthorized copying or other misappropriation of our proprietary technology could enable third parties to
+benefit from our technology without paying us for it. Consequently, we may be unable to prevent our proprietary technology from
+being exploited by others in the U.S. or abroad, which could require costly efforts to protect our technology. Policing the unauthorized
+use of our technology, trademarks and other proprietary rights is expensive, difficult and, in some cases, impracticable. Litigation
+may be necessary in the future to enforce or defend our intellectual property rights, to protect our trade secrets or to determine
+the validity and scope of the proprietary rights of others. Such litigation could result in substantial costs and diversion of
+management resources, either of which could harm our business. Accordingly, despite our efforts, we may not be able to prevent
+third parties from infringing upon or misappropriating our intellectual property, which may harm our business, financial condition
+and results of operations.  
+
+The impact of natural disasters could negatively impact
+our supply chain and customers resulting in an adverse impact to our revenues and profitability.   
+
+Certain of our components and other materials used in producing
+our products are from regions susceptible to natural disasters. A natural disaster could damage equipment and inventory at our
+suppliers  facilities, adversely affecting our supply chain. If we are unable to obtain these materials, we could experience
+a disruption to our supply chain that would hinder our ability to produce our products in a timely manner, or cause us to seek
+other sources of supply, which may be more costly or which we may not be able to procure on a timely basis. In addition, our customers
+may not follow their normal purchasing patterns or temporarily cease purchasing from us due to impacts to their businesses in the
+region, creating unexpected fluctuations or decreases in our revenues and profitability. Natural disasters in other parts of the
+world on which our operations are reliant also could have material adverse impacts on our business. 
+
+Business interruptions
+could adversely affect our business.    
+
+Our operations and those
+of our suppliers are vulnerable to interruption by fire, earthquake, power loss, telecommunications failure, cyber security breaches,
+IT systems failure, terrorist attacks and other events beyond our control. A substantial portion of our facilities, including our
+corporate headquarters and other critical business operations, are located near major earthquake faults and, therefore, may be
+more susceptible to damage if an earthquake occurs. We do not carry earthquake insurance for direct earthquake-related losses.
+If a business interruption occurs, our business could be materially and adversely affected.  
+
+If our products become subject to cyber security breaches,
+or if public perception is that they are vulnerable to cyber-attacks, our reputation and business could suffer.   
+
+We could be subject to liability or our reputation could be
+harmed if technologies integrated into our products fail to prevent cyber-attacks, or if our partners or customers fail to safeguard
+the systems with security policies that conform to industry best practices. In addition, any cyber-attack or security breach that
+affects a competitor s products could lead to the negative perception that our solutions are or could be subject to similar
+attacks or breaches. 
+
+Cyber security breaches and other disruptions could compromise
+our information and expose us to liability, which could cause our business and reputation to suffer.   
+
+In the ordinary course of our business, we collect and store
+sensitive data, including intellectual property, our proprietary business information and that of our customers, suppliers and
+business partners, and personally identifiable information of our employees, on our networks and third-party cloud software providers.
+The secure processing, maintenance and transmission of this information is critical to our operations. Despite our security measures,
+our information technology and infrastructure may be vulnerable to attacks by hackers or breached due to employee error, malfeasance
+or other disruptions. Any such breach could compromise our networks and the information stored there could be accessed, publicly
+disclosed, lost or stolen. Any such access, disclosure or other loss of information could result in legal claims or proceedings,
+disrupt our operations, damage our reputation, and cause a loss of confidence in our products and services, which could adversely
+affect our business. 
+
+Some of our new software offerings may be subject to various
+cybersecurity risks, which are particularly acute in the cloud-based technologies operated by us and other third parties that form
+a part of our solutions.    
+
+In connection with certain implementations of our management
+software platform, applications, SaaS offerings, including MACH10, Global Device Manager, Lantronix Gateway Central, and ConsoleFlow,
+we expect to store, convey and potentially process data produced by devices. This data may include confidential or proprietary
+information, intellectual property or personally identifiable information of our customers or other third parties with whom they
+do business. It is important for us to maintain solutions and related infrastructure that are perceived by our customers and other
+parties with whom we do business to provide a reasonable level of reliability and security. Despite available security measures
+and other precautions, the infrastructure and transmission methods used by our products and services may be vulnerable to interception,
+attack or other disruptive problems. 
+
+If a cyberattack or other security incident were to allow unauthorized
+access to or modification of our customers  data or our own data, whether due to a failure with our systems or related systems
+operated by third parties, we could suffer damage to our brand and reputation. The costs we would incur to address and fix these
+incidents could significantly increase our expenses. These types of security incidents could also lead to lawsuits, regulatory
+investigations and increased legal liability, including in some cases contractual costs related to customer notification and fraud
+monitoring. Further, as regulatory focus on privacy and data security issues continues to increase and worldwide laws and regulations
+concerning the protection of information become more complex, the potential risks and costs of compliance to our business will
+intensify. 
+
+Acquisitions, strategic
+partnerships, joint ventures or investments may impair our capital and equity resources, divert our management s attention
+or otherwise negatively impact our operating results.    
+
+We may pursue acquisitions,
+strategic partnerships and joint ventures that we believe would allow us to complement our growth strategy, increase market share
+in our current markets and expand into adjacent markets, broaden our technology and intellectual property and strengthen our relationships
+with distributors, OEMs and ODMs. Any future acquisition, partnership, joint venture or investment may require that we pay significant
+cash, issue equity or incur substantial debt. Acquisitions, partnerships or joint ventures may also result in the loss of key personnel
+and the dilution of existing stockholders to the extent we are required to issue equity securities. In addition, acquisitions,
+partnerships or joint ventures require significant managerial attention, which may be diverted from our other operations. These
+capital, equity and managerial commitments may impair the operation of our business. Furthermore, acquired businesses may not be
+effectively integrated, may be unable to maintain key pre-acquisition business relationships, may not result in an increase in
+revenues or earnings or the delivery of new products, may contribute to increased fixed costs, and may expose us to unanticipated
+liabilities. If any of these occur, we may fail to meet our business objectives and our business, financial condition and operating
+results could be materially and adversely affected.   
+
+If we are unable
+to attract, retain or motivate key senior management and technical personnel, it could seriously harm our business.    
+
+Our financial performance
+depends substantially on the performance of our executive officers and of key engineers, marketing and sales employees. We are
+particularly dependent upon our technical personnel, due to the specialized technical nature of our business. If we were to lose
+the services of our executive officers or any of our key personnel and were not able to find replacements in a timely manner, our
+business could be disrupted, other key personnel might decide to leave, and we might incur increased operating expenses associated
+with finding and compensating replacements.  
+
+We may experience
+difficulties associated with utilizing third-party logistics providers.    
+
+A majority of our physical
+inventory management process, as well as the shipping and receiving of our inventory, is performed by third-party logistics providers
+in Los Angeles, California and Hong Kong. There is a possibility that these third-party logistics providers will not perform as
+expected and we could experience delays in our ability to ship, receive, and process the related data in a timely manner. This
+could adversely affect our financial position, results of operations, cash flows and the market price of our common stock.  
+
+Relying on third-party
+logistics providers could increase the risk of the following: failing to receive accurate and timely inventory data, theft or poor
+physical security of our inventory, inventory damage, ineffective internal controls over inventory processes or other similar business
+risks out of our immediate control.  
+
+We may need additional capital and it may not be available
+on acceptable terms, or at all.    
+
+To remain competitive,
+we must continue to make significant investments to operate our business and develop our products.  Our future capital requirements
+will depend on many factors, including the timing and amount of our net revenue, research and development expenditures, expenses
+associated with any strategic partnerships or acquisitions and infrastructure investments, and expenses related to litigation,
+each of which could negatively affect our ability to generate additional cash from operations. If cash generated from operations
+is insufficient to satisfy our working capital requirements, we may need to raise additional capital.  Looking
+ahead at long-term needs, we may need to raise additional funds for a number of purposes, including:  
+
+to fund working capital requirements;   
+
+to update, enhance or expand the range of products we offer;   
+
+to increase our sales and marketing activities; or   
+
+to respond to competitive pressures or perceived opportunities, such as investment, acquisition and international expansion activities.   
+
+We may seek additional capital from public or private offerings
+of our capital stock, borrowings under our existing or future credit lines or other sources. If we issue equity or debt securities
+to raise additional funds, our existing stockholders may experience dilution, and the new equity or debt securities may have rights,
+preferences and privileges senior to those of our existing stockholders. In addition, if we raise additional funds through collaborations,
+licensing, joint ventures, or other similar arrangements, it may be necessary to relinquish valuable rights to our potential future
+products or proprietary technologies, or grant licenses on terms that are not favorable to us. There can be no assurance that we
+will be able to raise any such capital on terms acceptable to us, if at all. If we are unable to secure such additional financing,
+we may not be able to develop or enhance our products, take advantage of future opportunities, respond to competition or continue
+to operate our business. 
+
+The terms of our amended credit facility may restrict
+our financial and operational flexibility and, in certain cases, our ability to operate.   
+
+The terms of our amended credit facility restrict, among other
+things, our ability to incur additional indebtedness; pay dividends or make certain other restricted payments; consummate certain
+asset sales; enter into certain transactions with affiliates; merge or consolidate with other persons; or sell, assign, transfer,
+lease, convey or otherwise dispose of all or substantially all of our assets. Further, we are currently and may in the future be
+required to maintain specified financial ratios, including pursuant to a Minimum Tangible Net Worth covenant and satisfy certain
+financial conditions. Our ability to meet those financial ratios and tests can be affected by events beyond our control, and there
+can be no assurance that we will meet those tests. Pursuant to our amended credit agreement and the related loan and security agreement,
+we have pledged substantially all of our assets to our lender, Silicon Valley Bank. 
+
+Our quarterly operating
+results may fluctuate, which could cause the market price of our common stock to decline.    
+
+We have experienced, and
+expect to continue to experience, significant fluctuations in net revenue, expenses and operating results from quarter to quarter.
+We therefore believe that quarter to quarter comparisons of our operating results are not a good indication of our future performance,
+and you should not rely on them to predict our future operating or financial performance or the future performance of the market
+price of our common stock. A high percentage of our operating expenses are relatively fixed and are based on our forecast of future
+revenue. If we were to experience an unexpected reduction in net revenue in a quarter, we would likely be unable to adjust our
+short-term expenditures significantly. If this were to occur, our operating results for that fiscal quarter would be harmed. In
+addition, if our operating results in future fiscal quarters were to fall below the expectations of equity analysts and investors,
+the market price of our common stock would likely fall.  
+
+The market price of our common stock may be volatile based
+on a number of factors, many of which are not under our control.   
+
+The market price of our common stock
+has been highly volatile. The market price of our common stock could be subject to wide fluctuations in response to a variety of
+factors, many of which are out of our control, including:   
+
+adverse changes in domestic or global economic conditions;   
+
+new products or services offered by our competitors;   
+
+our completion of or failure to complete significant one-time sales of our products;   
+
+actual or anticipated variations in quarterly operating results;   
+
+changes in financial estimates by securities analysts;   
+
+announcements of technological innovations;   
+
+our announcement of significant acquisitions, strategic partnerships,
+        joint ventures or capital commitments; 
+         conditions or trends in the industry;   
+
+additions or departures of key personnel;   
+
+increased competition from industry consolidation;   
+
+mergers and acquisitions; and   
+
+sales of common stock by our stockholders or us or repurchases of common stock by us.   
+
+In addition, the Nasdaq Capital Market often experiences price
+and volume fluctuations. These fluctuations often have been unrelated or disproportionate to the operating performance of companies
+listed on the Nasdaq Capital Market. 
+
+ITEM 1B.   
+         UNRESOLVED STAFF COMMENTS    
+
+None. 
+
+ITEM 2.   
+         PROPERTIES    
+
+We lease approximately 27,000 square feet for our corporate
+headquarters in Irvine, California. Our corporate headquarters includes sales, marketing, research and development, operations
+and administrative functions. Our lease agreement for our corporate headquarters expires in November 2020. In addition, we lease
+space for (i) a sales office in Shanghai, China and (ii) our engineering and design center in Hyderabad, India. 
+
+We believe our existing facilities are adequate to meet our
+needs. If additional space is needed in the future, we believe that suitable space will be available on commercially reasonable
+terms. 
+
+ITEM 3.   
+         LEGAL PROCEEDINGS    
+
+From time to time we are involved in various legal and government
+proceedings incidental to our business. These proceedings are in various procedural stages. Although the results of such legal
+proceedings and claims cannot be predicted with certainty, we believe we are not currently a party to any legal proceedings which,
+if determined adversely to us, would, individually or taken together, have a material adverse effect on our business, operating
+results, financial condition or cash flows. However, the outcome of legal proceedings is inherently uncertain, and if unfavorable
+outcomes were to occur, there is a possibility that they could, individually or in the aggregate, have a materially adverse effect
+on our financial position, operating results or liquidity.  
+
+ITEM 4.   
+         MINE SAFETY DISCLOSURES    
+
+None.  
+
+PART II  
+
+ITEM 5.   
+         MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES    
+
+Price Range of Common Stock  
+
+Our common stock is traded on the Nasdaq Capital Market under
+the symbol  LTRX.  The number of holders of record of our common stock as of August 17, 2018 was approximately 21. The
+following table presents, for the periods indicated, the high and low sales prices for our common stock: 
+
+Dividend Policy  
+
+We have never declared or paid cash dividends on our common
+stock. We do not anticipate paying any cash dividends on our common stock in the foreseeable future, and we intend to retain any
+future earnings for use in the expansion of our business and for general corporate purposes. Any future decision to declare or
+pay dividends will be made by our board of directors in its sole discretion and will depend upon our financial condition, operating
+results, capital requirements and other factors that our board of directors deems appropriate at the time of its decision. 
+
+Issuer Repurchases  
+
+We did not repurchase any shares of our common stock during
+fiscal 2018. 
+
+ITEM 6.   
+         SELECTED FINANCIAL DATA    
+
+Not required for a  smaller reporting company.  
+
+ITEM 7.   
+         MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS    
+
+You should read the following discussion and analysis in
+conjunction with our consolidated financial statements and the accompanying notes thereto included in Part II, Item 8 of this Report.
+This discussion and analysis contains forward-looking statements that are based on our management s current beliefs and assumptions,
+which statements are subject to substantial risks and uncertainties. Our actual results may differ materially from those expressed
+or implied by these forward-looking statements as a result of many factors, including those discussed in  Risk Factors 
+included in Part I, Item 1A of this Report. Please also see  Cautionary Note Regarding Forward Looking Statements 
+at the beginning of this Report.  
+
+Overview  
+
+Lantronix, Inc., which we refer to herein as the Company, Lantronix,
+we, our, or us, is a global provider of secure data access and management solutions for Internet of Things, or IoT, assets. Our
+mission is to be the leading supplier of IoT solutions that enable companies to simplify the creation, deployment, and management
+of IoT projects while providing secure access to data for applications and people. 
+
+We conduct our business globally and manage our sales teams
+by three geographic regions: the Americas; Europe, Middle East, and Africa, or EMEA; and Asia Pacific Japan. 
+
+References to  fiscal 2018  refer to the fiscal
+year ended June 30, 2018 and references to  fiscal 2017  refer to the fiscal year ended June 30, 2017. 
+
+Products and Solutions  
+
+We organize our products and solutions into three product lines:
+IoT, IT Management and Other. Refer to  Products and Solutions  included in Part I, Item 1 of this Report, which
+is incorporated herein by reference, for further discussion.   
+
+Recent Developments  
+
+During the quarter ending September 30, 2018, we initiated a
+plan to realign certain personnel resources to better fit our current business needs. In connection with this plan, for the quarter
+ending September 30, 2018, we estimate incurring  charges ranging from approximately $250,000 to $300,000, primarily consisting
+of severance-related costs. 
+
+Recent Accounting Pronouncements  
+
+Refer to Note 1 of Notes to Consolidated Financial Statements
+included in Part II, Item 8 of this Report, which is incorporated herein by reference, for a discussion of recent accounting pronouncements. 
+
+Critical Accounting Policies and Estimates  
+
+The preparation of financial statements and related disclosures
+in accordance with U.S. generally accepted accounting principles requires us to make judgments, estimates and assumptions that
+affect the reported amounts of assets and liabilities at the date of the financial statements and the reported amounts of net
+revenue and expenses during the reporting period. We regularly evaluate our estimates and assumptions related revenue recognition,
+sales returns and allowances, allowance for doubtful accounts, inventory valuation, warranty reserves, valuation of deferred income
+taxes, goodwill valuation, share-based compensation, litigation and other contingencies. We base our estimates and assumptions
+on historical experience and on various other factors that we believe to be reasonable under the circumstances, the results of
+which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from
+other sources. To the extent there are material differences between our estimates and the actual results, our future results of
+operations will be affected. 
+
+We believe the following critical accounting policies require
+us to make significant judgments and estimates in the preparation of our consolidated financial statements: 
+
+Revenue Recognition  
+
+We recognize revenue when all of the following criteria are
+met: persuasive evidence of an arrangement exists; delivery has occurred or services have been rendered; our price to the buyer
+is fixed or determinable; and collectability is reasonably assured. 
+
+Establishing accruals for product returns and pricing adjustments
+requires the use of judgment and estimates that impact the amount and timing of revenue recognition. When product revenue is recognized,
+we establish an estimated allowance for future product returns based primarily on historical returns experience. We also record
+reductions of revenue for pricing adjustments, such as competitive pricing programs and rebates, in the same period that the related
+revenue is recognized, based on approved pricing adjustments and historical experience. Actual product returns or pricing adjustments
+that differ from our estimates could result in increases or decreases to our net revenue. 
+
+A significant portion of our sales are made to distributors
+under agreements which contain  limited rights to return unsold products and price adjustment provisions. Given these provisions,
+we have concluded the price to these distributors is not fixed and determinable at the time we deliver products to them. Accordingly,
+revenue and the related cost of revenue from sales to these distributors is not recognized until the distributor resells the product.
+These distributors provide us with periodic data regarding product, price, quantity and customers when products are shipped to
+their customers, as well as quantities of our products that they still have in stock. 
+
+From time to time, we may enter into arrangements with customers
+that provide for multiple deliverables that generally include the sale of products, professional engineering services and other
+product qualification or certification services, which we refer to collectively as deliverables. Pursuant to the applicable accounting
+guidance, when multiple deliverables in an arrangement are separated into different units of accounting, the arrangement consideration
+is allocated to the identified separate units that have stand-alone value at the inception of the contract based on a relative
+selling price hierarchy. We determine the relative selling price for a deliverable based on its vendor-specific objective evidence
+of selling price, or VSOE, if available, third-party evidence, or TPE, if VSOE is not available, and our best estimate of selling
+price, or BESP, if neither VSOE nor TPE is available. Determining the BESP for a deliverable requires significant judgment and
+consideration of various factors including market conditions, items contemplated during negotiation of customer arrangements,
+as well as internally-developed pricing models. Significant judgment is also required in determining whether an arrangement includes
+multiple elements, and if so, whether VSOE or TPE of fair value exists for those elements. We recognize the relative fair value
+of the deliverables as they are delivered assuming all other revenue recognition criteria are met. In any period, a portion of
+revenue may be recorded as unearned due to elements of an arrangement that are undelivered. Changes to the elements in an arrangement,
+the ability to identify VSOE, TPE or BESP for those elements, and the fair value of the respective elements could materially impact
+the amounts of earned and unearned revenue we record. 
+
+Allowance for Doubtful Accounts  
+
+We maintain an allowance for doubtful accounts for estimated
+losses resulting from the inability of our customers to make required payments. Our evaluation of the collectability of customer
+accounts receivable is based on various factors. In cases where we are aware of circumstances that may impair a specific customer s
+ability to meet its financial obligations subsequent to the original sale, we will record an allowance against amounts due based
+on those particular circumstances. For all other customers, we estimate an allowance for doubtful accounts based on the length
+of time the receivables are past due, our bad debt collection experience and general industry conditions. If a major customer s
+credit-worthiness deteriorates, or our customers  actual defaults exceed our estimates, our financial results could be impacted. 
+
+Inventory Valuation  
+
+We value inventories at the lower of cost (on a first-in, first-out
+basis) or net realizable value, whereby we make estimates regarding the market value of our inventories, including an assessment
+of excess and obsolete inventories. We determine excess and obsolete inventories based on an estimate of the future sales demand
+for our products within a specified time horizon, which is generally 12 months. The estimates we use for demand are also used for
+near-term capacity planning and inventory purchasing. In addition, specific reserves are recorded to cover risks for end-of-life
+products, inventory located at our contract manufacturers, deferred inventory in our sales channel and warranty replacement stock.
+If actual product demand or market conditions are less favorable than our estimates, additional inventory write-downs could be
+required, which would increase our cost of revenue and reduce our gross margins. 
+
+Warranty Reserve  
+
+The standard warranty periods we provide for our products typically
+range from one to five years. We establish reserves for estimated product warranty costs at the time revenue is recognized based
+upon our historical warranty experience, and for any known or anticipated product warranty issues. Our warranty obligations are
+impacted by a number of factors, including historical warranty costs, actual product failure rates, service delivery costs, and
+the use of materials. If our actual results are different from our assumptions, increases or decreases to warranty reserves could
+be required, which could impact our cost of revenue and gross margins. 
+
+Valuation of Deferred Income Taxes  
+
+We have recorded a valuation allowance to reduce our net deferred
+tax assets to zero, primarily due to historical net operating losses, or NOLs, and uncertainty of generating future taxable income.
+We consider estimated future taxable income and ongoing prudent and feasible tax planning strategies in assessing the need for
+a valuation allowance. If we determine that it is more likely than not that we will realize a deferred tax asset that currently
+has a valuation allowance, we would be required to reverse the valuation allowance, which would be reflected as an income tax benefit
+in our consolidated statements of operations at that time. 
+
+Goodwill Impairment Testing  
+
+We evaluate goodwill for impairment on an annual basis in our
+fourth fiscal quarter or more frequently if we believe indicators of impairment exist that would more likely than not reduce the
+fair value of our single reporting unit below its carrying amount. 
+
+We begin our evaluation of goodwill for impairment by assessing
+qualitative factors to determine whether it is more likely than not that the fair value of our single reporting unit is less than
+its carrying value. Based on that qualitative assessment, if we conclude that it is more likely than not that the fair value of
+our single reporting unit is less than its carrying value, we conduct a quantitative goodwill impairment test, which involves comparing
+the estimated fair value of our single reporting unit with its carrying value, including goodwill. We estimate the fair value of
+our single reporting unit using a combination of the income and market approach. If the carrying value of the reporting unit exceeds
+its estimated fair value, we recognize an impairment loss for the difference. 
+
+Significant management judgment is required in estimating the
+reporting unit s fair value and in the creation of the forecasts of future operating results that are used in the discounted
+cash flow method of valuation, including (i) estimation of future cash flows, which is dependent on internal forecasts, (ii) estimation
+of the long-term rate of growth of our business, (iii) estimation of the period during which cash flows will be generated and (iv)
+the determination of our weighted-average cost of capital, which is a factor in determining the discount rate. Our estimate of
+the reporting unit s fair value would also generally include the consideration of a control premium, which is the amount
+that a buyer is willing to pay over the current market price of a company as indicated by the traded price per share (i.e., market
+capitalization) to acquire a controlling interest. If our actual financial results are not consistent with our assumptions and
+judgments used in estimating the fair value of our reporting unit, we may be exposed to goodwill impairment losses. 
+
+During the fourth quarter of fiscal 2018, we made a qualitative
+assessment of whether goodwill impairment existed. Since our assessment of the qualitative factors did not result in a determination
+that it was more likely than not that the fair value of our single reporting unit is less than its carrying value, we were not
+required to perform the quantitative goodwill impairment test. As of June 30, 2018, the carrying value was $23,813,000 while our
+market capitalization was $53,699,000. We concluded that no goodwill impairment existed as of June 30, 2018. 
+
+Share-Based Compensation  
+
+We record share-based compensation in our consolidated
+statements of operations as an expense, based on the estimated grant date fair value of our share-based awards, with such
+fair values amortized to expense over the requisite service period. Our share-based awards are currently comprised of
+restricted stock units, stock options, and common stock purchase rights granted under our 2013 Employee Stock Purchase Plan,
+or our ESPP. 
+
+The fair value of our restricted stock units is based on the
+closing market price of our common stock on the grant date. 
+
+The fair value of our stock options and common stock purchase
+rights is generally estimated on the grant date using the Black-Scholes-Merton, or BSM, option-pricing formula. While utilizing
+the BSM model meets established requirements, the estimated fair values generated by the model may not be indicative of the actual
+fair values of our share-based awards as the model does not consider certain factors important to those awards to employees, such
+as continued employment and periodic vesting requirements as well as limited transferability. The determination of the fair value
+of share-based awards utilizing the BSM model is affected by our stock price and various assumptions, including the expected term,
+expected volatility, risk-free interest rate and expected dividend yields. The expected term of our stock options is generally
+estimated using the simplified method, as permitted by guidance issued by the Securities and Exchange Commission, or SEC. We use
+the simplified method because we believe we are unable to rely on our limited historical exercise data or alternative information
+as a reasonable basis upon which to estimate the expected term of such options. The expected volatility is based on the historical
+volatility of our stock price. The risk-free interest rate assumption is based on the U.S. Treasury interest rates appropriate
+for the expected term of our stock options and common stock purchase rights. 
+
+If factors change and we employ different assumptions, share-based
+compensation expense may differ significantly from what we have recorded in the past. If there are any modifications or cancellations
+of the underlying unvested share-based awards, we may be required to accelerate, increase or cancel any remaining unearned share-based
+compensation expense. If these events were to occur, it could increase or decrease our share-based compensation expense, which
+would impact our operating expenses and gross margins. 
+
+Results of Operations - Fiscal Years Ended June 30, 2018
+and 2017  
+
+Summary   
+
+For fiscal 2018, our net revenue increased by approximately
+$850,000, or 1.9%, as compared to fiscal 2017. Our net income for fiscal 2018 was $680,000, as compared to a net loss of $277,000
+for fiscal 2017, which was driven primarily by a $1,788,000, or 7.6%, increase in gross profit, partially offset by a $801,000,
+or 3.4%, increase in operating expenses. 
+
+Net Revenue    
+
+The following tables present our net revenue
+by product lines and by geographic region: 
+
+IoT  
+
+Net revenue from our IoT product line increased in fiscal 2018
+as we experienced growth in unit sales in a variety of our product families in different geographic regions including (i) XPort
+in the Americas, EMEA and APJ regions, (ii) SGX, one of our newer products, in the Americas and EMEA regions (iii) XPort Pro in
+the Americas region and (iv) xPico in the Americas region and, to a lesser extent, the EMEA region. These increases were partially
+offset by decreased unit sales in our (i) Premierwave XC in the Americas region and (ii)  WiPort product
+families across all regions. 
+
+IT Management  
+
+Net revenue from our IT Management product line increased in
+fiscal 2018 primarily due to growth in unit sales of our SLB product family driven by deployments of this product to two large
+customers in the Americas region. 
+
+Other  
+
+Net revenue from our Other product line decreased in fiscal
+2018 due to (i) a decrease in net revenue from our xPrintServer, for which we experienced a large customer deployment in the prior
+year and (ii) the expected overall ongoing decline of end-of-life products within this product line. During fiscal 2018 management
+made the decision to discontinue the production of the PremierWave XN product family. As a result, we have reclassified the net
+revenues from this product family for both fiscal 2018 and fiscal 2017 from the IoT product line to the Other product line in
+the table above. 
+
+Gross Profit   
+
+Gross profit represents net revenue less cost of revenue. Cost
+of revenue consists of the cost of raw material components, subcontract labor assembly by contract manufacturers, manufacturing
+overhead, inventory reserves for excess and obsolete products or raw materials, warranty costs, royalties and share-based compensation. 
+
+The following table presents our gross
+profit: 
+
+Gross profit as a percentage of net revenue (referred to as
+ gross margin ) for fiscal 2018 improved compared to fiscal 2017 primarily due to a combination of improved pricing,
+product mix and cost reductions, as well as lower charges for excess and obsolete inventories. 
+
+Selling, General and Administrative   
+
+Selling, general and administrative expenses consisted of personnel-related
+expenses including salaries and commissions, share-based compensation, facility expenses, information technology, advertising and
+marketing expenses and professional legal and accounting fees. 
+
+The following table presents our selling, general and administrative
+expenses: 
+
+Selling, general and administrative expenses increased in fiscal
+2018 primarily due to (i) higher headcount-related expenses, as we added personnel to our sales and marketing teams and (ii) higher
+share-based compensation expenses, primarily attributable to stock awards being granted with a higher estimated fair value as a
+result of an increase in the market value of our stock price, along with increased participation in our ESPP. 
+
+For fiscal 2018, the  Other  line item in the table
+above includes a bad debt charge of $134,000 related to recent financial difficulties of one of our long-time customers which was
+unable to fully repay its account receivable to us. 
+
+From July 2017 through September 2017, we realigned certain
+personnel resources throughout our organization, primarily to optimize our operations and engineering efforts. These activities
+resulted in total net charges of approximately $506,000, which consisted primarily of severance costs, and to a lesser extent,
+termination costs related to our facility lease in Hong Kong. Of the total charges, approximately $154,000 was classified within
+selling, general and administrative expenses for the year ended June 30, 2018. 
+
+For fiscal 2017, we initiated personnel changes to our European
+sales team. The related expenses totaled $246,000 and consisted primarily of severance costs, and to a lesser extent, a facility
+lease termination cost. 
+
+Research and Development   
+
+Research and development expenses consisted of personnel-related
+expenses and share-based compensation, as well as payments to third-party vendors for research and development activities, and
+product certification costs. 
+
+The following table presents our research and development expenses: 
+
+Research and development expenses increased in fiscal 2018 primarily
+due to higher personnel-related expenses, driven by the severance and related charges discussed above, of which $314,000 was classified
+within research and development expenses for the year ended June 30, 2018. The overall increase in research and development expenses
+in fiscal 2018 was partially offset by a decrease in product certification costs primarily due to higher costs incurred during
+fiscal 2017 related to the development of certain WiFi products. During the current year we also benefited from the reversal of
+certain previously estimated accrued charges, included in the  Other  line item in the table above, for which we have
+determined no remaining liability exists. 
+
+Other Income (Expense), Net   
+
+Other income (expense), net, is comprised primarily of foreign
+currency remeasurement and transaction adjustments related to our foreign subsidiaries whose functional currency is the U.S. dollar. 
+
+Provision for Income Taxes   
+
+The following table presents our provision for income taxes: 
+
+The following table presents our effective tax rate based upon
+our provision for income taxes: 
+
+We utilize the liability method of accounting for income taxes.
+The difference between our effective tax rate and the federal statutory rate resulted primarily from the effect of our domestic
+losses recorded without a tax benefit, as well as the effect of foreign earnings taxed at rates differing from the federal statutory
+rate. 
+
+We record net deferred tax assets to the extent we believe these
+assets are more likely than not to be realized. As a result of our cumulative losses and uncertainty of generating future taxable
+income, we provided a full valuation allowance against our net deferred tax assets for fiscal 2018 and fiscal 2017. 
+
+Due to the  change of ownership  provision of the
+Tax Reform Act of 1986, utilization of our NOL carryforwards and tax credit carryforwards may be subject to an annual limitation
+against taxable income in future periods. Due to the annual limitation, a portion of these carryforwards may expire before ultimately
+becoming available to reduce future income tax liabilities. The following table presents our NOLs: 
+
+For federal income tax purposes, our NOL carryovers generated
+for tax years beginning before July 1, 2018 will begin to expire in the fiscal year ending June 30, 2021. For state income tax
+purposes, our NOLs began to expire in the fiscal year ended June 30, 2013. At June 30, 2018, our fiscal years ended June 30, 2014
+through 2018 remain open to examination by the federal taxing jurisdiction and our fiscal years ended June 30, 2013 through 2018
+remain open to examination by the state taxing jurisdictions. However, we have NOLs beginning in the fiscal year ended June 30,
+2001 which would cause the statute of limitations to remain open for the year in which the NOL was incurred. Pursuant to the Tax
+Cuts and Jobs Act enacted by the U.S. federal government in December 2017, for federal income tax purposes, NOL carryovers generated
+for our tax years beginning after June 30, 2018 can be carried forward indefinitely but will be subject to a taxable income limitation. 
+
+Liquidity and Capital Resources  
+
+Liquidity   
+
+The following table presents our working capital and cash and
+cash equivalents: 
+
+Our principal sources of cash and liquidity include our existing
+cash and cash equivalents, borrowings and amounts available under our revolving line of credit and cash generated from operations.
+We believe that these sources will be sufficient to fund our current requirements for working capital, capital expenditures and
+other financial commitments for at least the next 12 months. We anticipate that the primary factors affecting our cash and liquidity
+are net revenue, working capital requirements and capital expenditures. 
+
+Management defines cash and cash equivalents as highly liquid
+deposits with original maturities of 90 days or less when purchased. We maintain cash and cash equivalents balances at certain
+financial institutions in excess of amounts insured by federal agencies. Management does not believe this concentration subjects
+us to any unusual financial risk beyond the normal risk associated with commercial banking relationships. We frequently monitor
+the third-party depository institutions that hold our cash and cash equivalents. Our emphasis is primarily on safety of principal
+and secondarily on maximizing yield on those funds. 
+
+Our future working capital requirements will depend on many
+factors, including the timing and amount of our net revenue; our product mix and the resulting gross margins; research and development
+expenses; selling, general and administrative expenses; and expenses associated with any strategic partnerships, acquisitions or
+infrastructure investments. 
+
+From time to time, we may seek additional capital from public
+or private offerings of our capital stock, borrowings under our existing or future credit lines or other sources. We currently
+have a Form S-3 shelf registration statement on file with the SEC. If we issue equity or debt securities to raise additional funds,
+our existing stockholders may experience dilution, and the new equity or debt securities may have rights, preferences and privileges
+senior to those of our existing stockholders. There can be no assurance that we will be able to raise any such capital on terms
+acceptable to us, if at all. 
+
+As of June 30, 2018, approximately $266,000 of our cash was
+held in foreign subsidiary bank accounts. This cash is unrestricted with regard to foreign liquidity needs; however, our ability
+to utilize a portion of this cash to satisfy liquidity needs outside of such foreign locations may be subject to approval by the
+relevant foreign subsidiary s board of directors. 
+
+Bank Line of Credit   
+
+We are party to a Loan and Security Agreement, or Loan Agreement,
+with Silicon Valley Bank, or SVB, which provides a $4,000,000 revolving line of credit, based on qualified accounts receivable.
+The Loan Agreement has a maturity date of September 30, 2018. We are currently discussing renewal options with SVB for the Loan
+Agreement. 
+
+The Loan Agreement provides for an interest rate per annum equal
+to the greater of the prime rate plus 0.75% or 4.25%, provided that we maintain a monthly quick ratio of 1.0 to 1.0 or greater.
+The quick ratio measures our ability to use our cash and cash equivalents maintained at SVB to extinguish or retire our current
+liabilities immediately. If this ratio is not met, the interest rate will become the greater of the prime rate plus 1.25% or 4.25%.
+At June 30, 2018, we met the quick ratio requirement. 
+
+The Loan Agreement also includes a covenant requiring us to
+maintain a certain Minimum Tangible Net Worth, or Minimum TNW, currently required to be approximately $6,681,000. The Minimum TNW
+is subject to adjustment upward to the extent we raise additional equity or debt financing or achieve net income in future periods.
+Our Actual Tangible Net Worth, or Actual TNW, is calculated as total stockholders  equity, less goodwill. 
+
+The following table presents the Minimum
+TNW compared to our Actual TNW: 
+
+The following table presents certain information with respect
+to the Loan Agreement: 
+
+Our outstanding letters of credit at June 30, 2018 and 2017
+were used as security deposits. 
+
+Cash Flows   
+
+The following table presents the major components of the consolidated
+statements of cash flows: 
+
+Operating Activities  
+
+Net cash provided by operating activities decreased in fiscal
+2018 largely due to the impact of changes in certain operating assets and liabilities, as detailed below. 
+
+Inventory increased by $1,480,000, or 21.3%, as compared to
+June 30, 2017, partially driven by the acquisition of certain materials and components for which we anticipate supply constraints
+in the future. Accounts receivable increased by approximately $812,000, or 23.7%, as compared to June 30, 2017 primarily due to
+the timing of our sales and collections. The impact of these decreases on operating cash flows was partially offset by (i) net
+income of $680,000 in fiscal 2018 as compared to a net loss of $277,000 in fiscal 2017 and (ii) an increase in accounts payable
+of $1,225,000, or 45.1%, compared to June 30, 2017, which was driven primarily by the increase in inventories described above. 
+
+Investing Activities  
+
+Net cash used in investing activities in fiscal 2018 was related
+to capital expenditures for the purchase of property and equipment, primarily related to tooling and test equipment. Net cash used
+in investing activities in fiscal 2017 related to the purchase of property and equipment, primarily related to tooling, test equipment
+and other hardware and equipment for our software development lab in India. 
+
+Financing Activities  
+
+Net cash provided by financing activities during fiscal 2018
+and fiscal 2017 resulted primarily from cash we received from the issuance of common stock to employees for (i) stock option exercises
+and (ii) ESPP purchases. This was partially offset by payments for (i) withholding taxes related to the vesting of restricted stock
+units and (ii) capital leases. 
+
+Off-Balance Sheet Arrangements  
+
+As of June 30, 2018, we did not have any relationships with
+unconsolidated organizations or financial partnerships, including structured finance or special purpose entities, that have been
+established for the purpose of facilitating off-balance sheet arrangements or for other purposes. 
+
+ITEM 7A.   
+         QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK    
+
+Not required for a  smaller reporting company.  
+
+ITEM 8.   
+         FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA    
+
+All financial statements required by this Item 8, including
+the report of our independent registered public accounting firm, are included in Part IV, Item 15 of this Report, as set forth
+beginning on page F-1 of this Report, and are incorporated by reference into this Item 8. 
+
+ITEM 9.   
+         CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE    
+
+None. 
+
+ITEM 9A.   
+         CONTROLS AND PROCEDURES    
+
+(a) Evaluation of Disclosure Controls and Procedures  
+
+Our management, with the participation of our Chief
+Executive Officer and our Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as
+of June 30, 2018. The term  disclosure controls and procedures,  as defined in Rules 13a-15(e) and 15d-15(e)
+under the Securities Exchange Act of 1934, as amended, or the Exchange Act, means controls and other procedures of a company
+that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits
+under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC rules and
+forms. Based on the evaluation of our disclosure controls and procedures as of June 30, 2018, our Chief Executive Officer and
+Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were effective. 
+
+(b) Management s Report on Internal Control over Financial
+Reporting  
+
+Our management is responsible for establishing and maintaining
+adequate  internal control over financial reporting,  as defined in Rule 13a-15(f) under the Exchange Act. Our management
+conducted an assessment of the effectiveness of our internal control over financial reporting as of June 30, 2018 based on the
+criteria set forth in the  Internal Control-Integrated Framework  (2013) issued by the Committee of Sponsoring Organizations
+of the Treadway Commission. Based on the assessment, our management has concluded that our internal control over financial reporting
+was effective as of June 30, 2018. 
+
+This Report does not include an attestation report of our independent
+registered public accounting firm regarding internal control over financial reporting. Management s report was not subject
+to attestation by our independent registered public accounting firm pursuant to the rules of the SEC that permit us to provide
+only management s report in this Report because we are a  smaller reporting company.  
+
+(c) Changes in Internal Controls over Financial Reporting  
+
+There were no changes in our internal control over financial
+reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred
+during the quarter ended June 30, 2018 that materially affected, or are reasonably likely to materially affect, our internal control
+over financial reporting. 
+
+(d) Inherent Limitation on Effectiveness of Controls  
+
+A control system, no matter how well conceived and operated,
+can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of
+a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative
+to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance
+that all control issues and instances of fraud, if any, within our Company have been detected. These inherent limitations include
+the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake.
+Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management
+override of the controls. The design of any system of controls is also based in part upon certain assumptions about the likelihood
+of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential
+future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with
+policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due
+to error or fraud may occur and not be detected. 
+
+ITEM 9B.   
+         OTHER INFORMATION    
+
+None. 
+
+PART III  
+
+Portions of our definitive Proxy Statement on Schedule 14A relating
+to our 2018 annual meeting of stockholders, which will be filed with the SEC within 120 days after the end of the fiscal year covered
+by this Report, are incorporated by reference into Part III of this Report, as indicated below. 
+
+ITEM 10.   
+         DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE    
+
+The names of our executive officers and their ages, titles and
+biographies as of the date hereof are set forth in Item 1 in the section entitled  Executive Officers of the Registrant 
+in Part I, Item 1 of this Report, which is incorporated herein by reference. 
+
+The other information required by this Item is incorporated
+by reference to our Proxy Statement on Schedule 14A relating to our 2018 annual meeting of stockholders.  
+
+ITEM 11.   
+         EXECUTIVE COMPENSATION    
+
+The information required by this Item is incorporated by reference
+to our Proxy Statement on Schedule 14A relating to our 2018 annual meeting of stockholders.  
+
+ITEM 12.   
+         SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS    
+
+The information required by this Item is incorporated by reference
+to our Proxy Statement on Schedule 14A relating to our 2018 annual meeting of stockholders.  
+
+ITEM 13.   
+         CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE    
+
+The information required by this Item is incorporated by reference
+to our Proxy Statement on Schedule 14A relating to our 2018 annual meeting of stockholders.  
+
+ITEM 14.   
+         PRINCIPAL ACCOUNTANT FEES AND SERVICES    
+
+The information required by this Item is incorporated by reference
+to our Proxy Statement on Schedule 14A relating to our 2018 annual meeting of stockholders. 
+
+PART IV  
+
+ITEM 15.   
+         CONSOLIDATED FINANCIAL STATEMENTS AND EXHIBITS    
+
+1.  Consolidated
+Financial Statements  
+
+The following consolidated financial statements and related
+Report of Independent Registered Public Accounting Firm are filed as part of this Report. 
+
+2.  Exhibits  
+
+The exhibits listed on the accompanying Index to Exhibits immediately
+following the consolidated financial statements are filed as part of, and incorporated by reference into, this Report. 
+
+SIGNATURES  
+
+Pursuant to the requirements of Section
+13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this Report to be signed on its
+behalf by the undersigned, thereunto duly authorized. 
+
+LANTRONIX, INC.   
+
+By:  
+      /s/ JEFFREY BENCK  
+
+Jeffrey Benck  
+
+President, Chief Executive Officer and Director  
+
+Date: August 23, 2018  
+       
+      (Principal Executive Officer)  
+
+POWER OF ATTORNEY  
+
+KNOW ALL PERSONS BY THESE PRESENTS, that
+each individual whose signature appears below hereby constitutes and appoints Jeffrey Benck and Jeremy Whitaker, and each or either
+of them, acting individually, as his or her true and lawful attorney-in-fact and agent, with full power of substitution and resubstitution
+for him or her and in his or her name, place and stead, in any and all capacities, to sign any and all amendments to this Report,
+and to file the same, with all exhibits thereto and other documents in connection therewith, with the SEC, granting unto said attorney-in-fact
+and agent, and each of them, full power and authority to do and perform each and every act and thing requisite and necessary to
+be done in connection therewith, as fully for all intents and purposes as he or she might or could do in person, hereby ratifying
+and confirming all that said attorney-in-fact and agent, or any of them, or their or his or her substitutes, may lawfully do or
+cause to be done by virtue hereof. 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, as amended, this Report has been signed below by the following persons on behalf of the registrant and in
+the capacities and on the dates indicated: 
+
+Signature  
+       
+      Title  
+       
+      Date   
+
+/s/ JEFFREY BENCK  
+       
+      President, Chief Executive Officer and Director  
+       
+      August 23, 2018   
+ 
+      Jeffrey Benck  
+       
+      (Principal Executive Officer)   
+
+/s/ JEREMY WHITAKER  
+       
+      Chief Financial Officer   
+       
+      August 23, 2018   
+ 
+      Jeremy Whitaker  
+       
+      (Principal Financial and Accounting Officer)  
+
+/s/ BERNHARD BRUSCHA  
+       
+      Chairman of the Board  
+       
+      August 23, 2018   
+ 
+      Bernhard Bruscha  
+
+/s/ BRUCE EDWARDS  
+       
+      Director  
+       
+      August 23, 2018   
+ 
+      Bruce Edwards  
+
+/s/ PAUL FOLINO  
+       
+      Director  
+       
+      August 23, 2018   
+ 
+      Paul Folino  
+
+/s/ MARTIN HALE  
+       
+      Director  
+       
+      August 23, 2018   
+ 
+      Martin Hale  
+
+/s/ HOSHI PRINTER  
+       
+      Director  
+       
+      August 23, 2018   
+ 
+      Hoshi Printer  
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC
+ACCOUNTING FIRM  
+
+To the Stockholders and Board of Directors 
+
+ Lantronix, Inc. 
+
+Opinion on the Financial Statements  
+
+ We have audited the accompanying consolidated balance sheets
+of Lantronix, Inc. and its subsidiaries (the Company) as of June 30, 2018 and 2017, the related consolidated statements of operations,
+stockholders  equity and cash flows for the years then ended, and the related notes to the consolidated financial statements
+(collectively, the financial statements). In our opinion, the financial statements present fairly, in all material respects, the
+financial position of the Company as of June 30, 2018 and 2017, and the results of its operations and its cash flows for the years
+then ended, in conformity with accounting principles generally accepted in the United States of America. 
+
+Basis for Opinion  
+
+ These financial statements are the responsibility of the Company s
+management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are
+a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required
+to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and
+regulations of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance with the standards of
+the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged
+to perform, an audit of its internal control over financial reporting. As part of our audits we are required to obtain an understanding
+of internal control over financial reporting but not for the purpose of expressing an opinion on the effectiveness of the Company's
+internal control over financial reporting. Accordingly, we express no such opinion. 
+
+Our audits included performing procedures to assess the risks
+of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to
+those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as
+well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis
+for our opinion. 
+
+/s/ Squar Milner LLP 
+
+We have served as the Company s auditor since 2011. 
+
+Newport Beach, California 
+
+ August 23, 2018  
+
+LANTRONIX, INC.  
+
+    CONSOLIDATED BALANCE SHEETS  
+
+  (In thousands, except share and par value
+data)  
+
+See accompanying notes. 
+
+LANTRONIX, INC.  
+
+    CONSOLIDATED STATEMENTS OF OPERATIONS  
+
+  (In thousands, except per share data)  
+
+See accompanying notes. 
+
+LANTRONIX, INC.  
+
+    CONSOLIDATED STATEMENTS OF STOCKHOLDERS 
+EQUITY  
+
+  (In thousands)  
+
+See accompanying notes. 
+
+LANTRONIX, INC.  
+
+    CONSOLIDATED STATEMENTS OF CASH FLOWS  
+
+  (In thousands)  
+
+See accompanying notes. 
+
+LANTRONIX, INC.  
+
+    NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  JUNE 30, 2018  
+
+1.           Summary
+of Significant Accounting Policies  
+
+The Company  
+
+Lantronix, Inc. (referred to in these notes to consolidated
+financial statements as  Lantronix ,  we,   our,  or  us ), is a global provider
+of secure data access and management solutions for Internet of Things ( IoT ) assets. Our mission is to be the leading
+supplier of IoT solutions that enable companies to simplify the creation, deployment, and management of IoT projects while providing
+secure access to data for applications and people. 
+
+We were incorporated in California in 1989 and re-incorporated
+in Delaware in 2000. 
+
+Basis of Presentation  
+
+The consolidated financial statements include the accounts of
+Lantronix and our wholly-owned subsidiaries. All significant intercompany transactions and balances have been eliminated in consolidation.
+At June 30, 2018, approximately $3,591,000 of our tangible assets were located outside of the United States ( U.S. ),
+a large portion of which was comprised of inventory held at (i) our third-party logistics provider in Hong Kong and (ii) our contract
+manufacturers in China. 
+
+Use of Estimates  
+
+The preparation of financial statements in conformity with U.S.
+generally accepted accounting principles ( U.S. GAAP ) requires management to make estimates and assumptions that affect
+the amounts reported in the consolidated financial statements and accompanying notes. The industry in which we operate is characterized
+by rapid technological change. As a result, estimates made in preparing the consolidated financial statements include the allowance
+for doubtful accounts, sales returns and allowances, inventory valuation, goodwill valuation, deferred income tax asset valuation
+allowances, share-based compensation and warranty reserves. To the extent there are material differences between our estimates
+and actual results, future results of operations will be affected. 
+
+Reclassifications  
+
+Certain reclassifications have been made to the prior fiscal
+year financial information to conform to the current fiscal year presentation. 
+
+Revenue Recognition  
+
+We recognize revenue when all of the following criteria are
+met: persuasive evidence of an arrangement exists; delivery has occurred or services have been rendered; the price to the buyer
+is fixed or determinable; and collectability is reasonably assured. 
+
+For each of the fiscal years ended June 30, 2018 and 2017, over
+99% of our net revenue came from sales of hardware products. Our remaining net revenues in each of these years was primarily attributable
+to professional engineering services and extended warranty services. We sell extended warranty services which extend the warranty
+period for an additional one to three years, depending upon the product. Warranty net revenue is deferred and recognized ratably
+over the warranty service period. 
+
+When product revenue is recognized, we establish an estimated
+allowance for future product returns based on historical returns experience. We also record reductions of revenue for pricing adjustments,
+such as competitive pricing programs and rebates, in the same period that the related revenue is recognized, based on approved
+pricing adjustments and historical experience. Actual product returns or pricing adjustments that differ from our estimates could
+result in increases or decreases to our net revenue. 
+
+A significant portion of our sales are made to
+distributors under agreements which contain limited rights to return unsold products and price adjustment provisions. Given
+these provisions, we have concluded the price to these distributors is not fixed and determinable at the time we deliver
+products to them. Accordingly, revenue and the related cost of revenue from sales to these distributors is not recognized
+until the distributor resells the product. In addition, when the deferred revenue attributable to any distributor exceeds
+their receivable balance due to Lantronix at the balance sheet date, such excess is reclassified from net accounts receivable
+to a customer deposit and refunds liability, which is included in other current liabilities on the accompanying consolidated
+balance sheets. 
+
+Multiple-Element Arrangements  
+
+From time to time, we may enter into arrangements with customers
+that provide for multiple deliverables that generally include the sale of products, professional engineering services and other
+product qualification or certification services (collectively, the  deliverables ). Pursuant to the applicable accounting
+guidance, when multiple deliverables in an arrangement are separated into different units of accounting, the arrangement consideration
+is allocated to the identified separate units that have stand-alone value at the inception of the contract based on a relative
+selling price hierarchy. We determine the relative selling price for a deliverable based on its vendor-specific objective evidence
+of selling price ( VSOE ), if available, third-party evidence ( TPE ), if VSOE is not available, and our
+best estimate of selling price, if neither VSOE nor TPE is available. We recognize the relative fair value of the deliverables
+as they are delivered assuming all other revenue recognition criteria are met. 
+
+Accounts Receivable and Allowance for Doubtful Accounts  
+
+Accounts receivable are stated at the amount we expect to collect,
+which is net of an allowance for doubtful accounts for estimated losses resulting from the inability of our customers to make required
+payments. Our evaluation of the collectability of customer accounts receivable is based on various factors, including the length
+of time the receivables are past due, our history of bad debts and general industry conditions. Accounts that are deemed uncollectible
+are written off against the allowance for doubtful accounts. 
+
+Concentration of Credit Risk  
+
+Our accounts receivable are primarily derived from revenue earned
+from customers located throughout North America, Europe and Asia. We perform periodic credit evaluations of our customers 
+financial condition and maintain allowances for potential credit losses. Credit losses have historically been within our expectations.
+We generally do not require collateral or other security from our customers. 
+
+Fair Value of Financial Instruments  
+
+Our financial instruments consist primarily of cash and cash
+equivalents, accounts receivable, contract manufacturers  receivable, accounts payable, and accrued liabilities. The fair
+value of a financial instrument is the amount that would be received in an asset sale or paid to transfer a liability in an orderly
+transaction between unaffiliated market participants. Assets and liabilities measured at fair value are categorized based on whether
+or not the inputs are observable in the market and the degree to which the inputs are observable. The categorization of financial
+instruments within the valuation hierarchy is based upon the lowest level of input that is significant to the fair value measurement.
+The hierarchy is prioritized into three levels (with Level 3 being the lowest) defined as follows: 
+
+Level 1:      Inputs
+are based on quoted market prices for identical assets and liabilities in active markets at the measurement date. 
+
+Level 2:      Inputs
+include quoted prices for similar assets or liabilities in active markets and/or quoted prices for identical or similar assets
+or liabilities in markets that are not active near the measurement date. 
+
+Level 3:      Inputs
+include management s best estimate of what market participants would use in pricing the asset or liability at the measurement
+date. The inputs are unobservable in the market and significant to the instrument s valuation. 
+
+The hierarchy noted above requires us to minimize the use of
+unobservable inputs and to use observable market data, if available, when determining fair value. We do not have any assets or
+liabilities that were measured at fair value on a recurring basis, and during the fiscal years ended June 30, 2018 and 2017 we
+did not have any assets or liabilities that were measured at fair value on a non-recurring basis. 
+
+We believe all of our financial instruments  recorded
+values approximate their current fair values because of the nature and short duration of these instruments. 
+
+Foreign Currency Remeasurement  
+
+The functional currency for all our foreign subsidiaries is
+currently the U.S. dollar. Non-monetary and monetary foreign currency assets and liabilities are valued in U.S. dollars at historical
+and end-of-period exchange rates, respectively. Exchange gains and losses from foreign currency transactions and remeasurements
+are recognized in the consolidated statements of operations. Translation adjustments for foreign subsidiaries whose functional
+currencies were previously their respective local currencies are suspended in accumulated other comprehensive income. 
+
+Accumulated Other Comprehensive Income  
+
+Accumulated other comprehensive income is composed of accumulated
+translation adjustments as of June 30, 2018 and 2017. We did not have any other comprehensive income or losses during the fiscal
+years ended June 30, 2018 or 2017. 
+
+Cash and Cash Equivalents  
+
+Cash and cash equivalents consist of cash and short-term investments,
+with original maturities of 90 days or less. 
+
+Inventories  
+
+Inventories are stated at the lower of cost (on a first-in,
+first-out basis) or net realizable value. We provide reserves for excess and obsolete inventories determined primarily based upon
+estimates of future demand for our products. Shipping and handling costs are classified as a component of cost of revenue in the
+consolidated statements of operations. 
+
+Inventory Sale and Purchase Transactions with Contract Manufacturers  
+
+Under certain circumstances, we sell raw materials to our contract
+manufacturers and subsequently repurchase finished goods from the contract manufacturers which contain such raw materials. Net
+sales of raw materials to the contract manufacturers are recorded on the consolidated balance sheets as contract manufacturers 
+receivables, and are eliminated from net revenue as we intend to repurchase the raw materials from the contract manufacturers in
+the form of finished goods. 
+
+We have contractual arrangements with certain of our contract
+manufacturers that require us to purchase unused inventory that the contract manufacturer has purchased to fulfill our forecasted
+manufacturing demand. To the extent that inventory on-hand at one or more of these contract manufacturers exceeds our contractually
+reported forecasts, we record the amount we may be required to purchase as part of other current liabilities and inventories on
+the consolidated balance sheets. 
+
+Property and Equipment  
+
+Property and equipment are carried at cost. Depreciation is
+provided using the straight-line method over the assets  estimated useful lives, generally ranging from three to five years.
+Depreciation and amortization of leasehold improvements are computed using the shorter of the remaining lease term or five years.
+Major renewals and betterments are capitalized, while replacements, maintenance and repairs, which do not improve or extend the
+estimated useful lives of the respective assets, are expensed as incurred. 
+
+Capitalized Internal Use Software Costs  
+
+We capitalize the costs of computer software developed or obtained
+for internal use. Capitalized computer software costs consist of purchased software licenses and implementation costs. Capitalized
+software costs are amortized on a straight-line basis over a period of three to five years. 
+
+Goodwill   
+
+Goodwill is recorded as the difference, if any, between the
+aggregate consideration paid for an acquisition and the fair value of the acquired net tangible and intangible assets acquired.
+We evaluate goodwill for impairment on an annual basis in our fiscal fourth quarter or more frequently if we believe indicators
+of impairment exist that would more likely than not reduce the fair value of our single reporting unit below its carrying amount.
+We begin by assessing qualitative factors to determine whether it is more likely than not that the fair value of our single reporting
+unit is less than its carrying value. Based on that qualitative assessment, if we conclude that it is more likely than not that
+the fair value of our single reporting unit is less than its carrying value, we conduct a quantitative goodwill impairment test,
+which involves comparing the estimated fair value of our single reporting unit with its carrying value, including goodwill. We
+estimate the fair value of our single reporting unit using a combination of the income and market approach. If the carrying value
+of the reporting unit exceeds its estimated fair value, we recognize an impairment loss for the difference. 
+
+During the fourth quarter of the fiscal year ended June 30,
+2018, we made a qualitative assessment of whether goodwill impairment existed and did not determine that it was more likely that
+not that the fair value of our single reporting unit was less than its carrying amount. 
+
+Income Taxes  
+
+Income taxes are computed under the liability method. This method
+requires the recognition of deferred tax assets and liabilities for temporary differences between the financial reporting basis
+and the tax basis of our assets and liabilities. The impact on deferred taxes of changes in tax rates and laws, if any, are applied
+to the years during which temporary differences are expected to be settled and are reflected in the consolidated financial statements
+in the period of enactment. A valuation allowance is recorded when it is more likely than not that some of the deferred tax assets
+will not be realized. 
+
+Financial statement effects of a tax position are initially
+recognized when it is more likely than not, based on the technical merits, that the position will be sustained upon examination
+by a taxing authority. A tax position that meets the more-likely-than-not recognition threshold is initially and subsequently measured
+as the largest amount of tax benefit that meets the more-likely-than-not threshold of being realized upon ultimate settlement with
+a taxing authority. We recognize potential accrued interest and penalties related to unrecognized tax benefits as income tax expense. 
+
+Share-Based Compensation  
+
+We account for share-based compensation by expensing the estimated
+grant date fair value of our shared-based awards ratably over the requisite service period. We recognize the impact of forfeitures
+on our share-based compensation expense as such forfeitures occur.  
+
+Net Income (Loss) Per Share  
+
+Basic net income (loss) per share is calculated by dividing
+net income (loss) by the weighted-average number of common shares outstanding during the fiscal year. Diluted net income (loss)
+per share is calculated by adjusting the weighted-average number of common shares outstanding, assuming any dilutive effects of
+outstanding share-based awards using the treasury stock method. 
+
+Research and Development Costs  
+
+Costs incurred in the research and development of new products
+and enhancements to existing products are expensed as incurred. Development costs of computer software to be sold, leased or otherwise
+marketed are subject to capitalization beginning when a product s technological feasibility has been established and ending
+when a product is available for general release to customers. In most instances, we believe our current process for developing
+products is essentially completed concurrently with the establishment of technological feasibility and thus, software development
+costs have been expensed as incurred. 
+
+Warranty  
+
+The standard warranty periods we provide for our products typically
+range from one to five years. We establish reserves for estimated product warranty costs at the time revenue is recognized based
+upon our historical warranty experience, and for any known or anticipated product warranty issues. 
+
+Advertising Expenses  
+
+Advertising expenses are recorded in the period incurred and
+totaled $213,000 and $108,000 for the fiscal years ended June 30, 2018 and 2017, respectively. 
+
+Segment Information  
+
+We have one operating and reportable business segment. 
+
+Recent Accounting Pronouncements  
+
+Shared-Based Compensation  
+
+In June 2018, the Financial Accounting Standards Board ( FASB )
+issued an accounting standard that expands the scope of existing share-based compensation guidance for employees. The new standard
+will include share-based payment transactions for acquiring goods and services from nonemployees, whereby share-based payments
+to nonemployees will be measured and recorded at the fair value of the equity instruments that an entity is obligated to issue
+on the grant date. The standard will be effective for us beginning July 1, 2019, with early adoption permitted. Entities are required
+to adopt the standard using a modified retrospective approach with a cumulative adjustment to opening retained earnings in the
+year of adoption for the remeasurement of liability-classified awards that have not been settled by the date of adoption and equity-classified
+awards for which a measurement date has not been established. We are currently evaluating the date we intend to adopt this guidance
+and currently do not anticipate that the adoption of this guidance will have a material impact on our consolidated financial statements. 
+
+Leases  
+
+In February 2016, FASB issued an accounting standard that revises
+lease accounting guidance. Most prominent among the changes in the standard is the recognition of right-of-use ( ROU )
+assets and lease liabilities by lessees for those leases classified as operating leases under the existing guidance. The standard
+requires entities to recognize and measure leases existing at, or entered into after, the beginning of the earliest comparative
+period presented using a modified retrospective approach, with certain practical expedients available. In July 2018, FASB issued
+a practical expedient that would allow entities the option to apply the provisions of the new lease guidance at the effective date
+of adoption without adjusting the comparative periods presented. 
+
+The standard will be effective for Lantronix in the fiscal year
+beginning July 1, 2019, with early adoption permitted. While we are continuing to assess the potential impacts of this standard,
+we currently expect the most significant impact on our financial statements will be the recognition of ROU assets and lease liabilities
+for our operating leases. We have not yet determined which practical expedients we intend to utilize in connection with adopting
+the new standard, nor have we determined any quantitative impacts on our financial statements. 
+
+Revenue from Contracts with Customers  
+
+In May 2014, FASB issued an accounting standard which superseded
+previous revenue recognition guidance under U.S. GAAP. The standard is a comprehensive revenue recognition model that requires
+a company to recognize revenue to depict the transfer of goods or services to a customer at an amount that reflects the consideration
+it expects to receive in exchange for those goods or services. In doing so, among other things, companies will generally need to
+use more judgment and make more estimates than under the previous guidance. 
+
+The standard permits two methods of adoption: (i) retrospectively
+to each prior reporting period presented (the full retrospective method), or (ii) retrospectively with the cumulative effect of
+initially applying the standard recognized at the date of initial application (the modified retrospective transition method). The standard is effective for annual reporting periods beginning after December 15, 2017, including interim
+periods within that reporting period. We
+will adopt the standard in the fiscal year beginning July 1, 2018 using the modified retrospective transition method, with the
+cumulative effect recognized in our accumulated deficit at the date of adoption. 
+
+We believe the most significant impact of adopting
+the standard relates to the timing of when revenue is recognized for sales made to distributors under agreements which
+contain limited rights to return unsold products and price adjustment provisions. Under the previous revenue guidance, we
+have historically concluded that the price to these distributors is not fixed and determinable at the time we deliver
+products to them, and thus revenue from sales to these distributors has not historically been recognized until the
+distributor resells the product. By contrast, under the new standard, we will recognize revenue when we transfer control to
+the distributor rather than deferring recognition until the distributor resells the products. In addition, we will establish
+appropriate accruals for the variable consideration aspect of sales to distributors, estimated primarily based on historical
+experience, including estimates for returns and price adjustments. Further, given certain requirements in the new standard
+regarding the presentation of estimated return assets and refund liabilities, we expect the adoption will result in an
+increase in our accounts receivable, net and a decrease in our inventories, net. We currently expect to record a decrease to
+the opening balance of accumulated deficit between $500,000 and $700,000 as a result of adopting the new standard. 
+
+2.           Supplemental
+Financial Information  
+
+Inventories  
+
+The following table presents details of
+our inventories: 
+
+Property and Equipment  
+
+The following table presents details of
+property and equipment: 
+
+The following table presents details of
+property and equipment recorded in connection with capital lease obligations: 
+
+The depreciation and amortization of property and equipment
+recorded in connection with capital lease obligations is included within depreciation and amortization expense recorded in the
+applicable functional line items on our consolidated statements of operations. 
+
+Warranty Reserve  
+
+The following table presents details of
+our warranty reserve: 
+
+Other Liabilities  
+
+The following table presents details of
+our other liabilities: 
+
+Computation of Net Income (Loss) per
+Share  
+
+The following table presents the computation of net income (loss)
+per share: 
+
+The following table presents the common stock equivalents excluded
+from the diluted net loss per share calculation because they were anti-dilutive for the periods presented. These excluded common
+stock equivalents could be dilutive in the future. 
+
+Severance and Related Charges  
+
+Fiscal Year Ended June 30, 2018  
+
+From July 2017 through September 2017, we realigned certain
+personnel resources throughout our organization, primarily to optimize our operations and engineering efforts. These activities
+resulted in total charges of approximately $506,000 and consisted primarily of severance costs, and to a lesser extent, termination
+costs related to our facility lease in Hong Kong. These charges are included in the applicable functional line items within the
+accompanying consolidated statement of operations for the fiscal year ended June 30, 2018. As of June 30, 2018, we have no remaining
+liabilities related to these activities. 
+
+Fiscal Year Ended June 30, 2017  
+
+In January 2017, we initiated personnel changes to our European
+sales team. These activities resulted in total charges of $246,000 and consisted primarily of severance costs, and to a lesser
+extent, a facility lease termination cost. These charges are included in the applicable functional line items within the accompanying
+consolidated statement of operations for the fiscal year ended June 30, 2017.  
+
+Supplemental Cash Flow Information  
+
+The following table presents non-cash investing and financing
+transactions excluded from the consolidated statements of cash flows: 
+
+3.           Bank
+Line of Credit   
+
+We are party to a Loan and Security Agreement (as amended, the
+ Loan Agreement ) with Silicon Valley Bank ( SVB ), which provides a $4,000,000 revolving line of credit,
+based on qualified accounts receivable. The Loan Agreement has a maturity date of September 30, 2018. 
+
+The Loan Agreement provides for an interest rate per annum equal
+to the greater of the prime rate plus 0.75% or 4.25%, provided that we maintain a monthly quick ratio of 1.0 to 1.0 or greater.
+The quick ratio measures our ability to use our cash and cash equivalents maintained at SVB to extinguish or retire our current
+liabilities immediately. If this ratio is not met, the interest rate will become the greater of the prime rate plus 1.25% or 4.25%.
+At June 30, 2018, we met the quick ratio requirement. 
+
+The Loan Agreement also includes a covenant requiring us to
+maintain a certain Minimum Tangible Net Worth ( Minimum TNW ), currently required to be approximately $6,681,000. The
+Minimum TNW is subject to adjustment upward to the extent we raise additional equity or debt financing or achieve net income in
+future periods. Our Actual Tangible Net Worth ( Actual TNW ) is calculated as total stockholders  equity, less
+goodwill. 
+
+The following table presents the Minimum
+TNW compared to our Actual TNW: 
+
+The following table presents certain information with respect
+to the Loan Agreement: 
+
+Our outstanding letters of credit at June
+30, 2018 and 2017 were used as security deposits. 
+
+4.           Stockholders 
+Equity  
+
+Stock Incentive Plans  
+
+We have stock incentive plans in effect under which non-qualified
+and incentive stock options to purchase shares of Lantronix common stock ( stock options ) have been granted to employees,
+non-employees and board members. In addition, we have previously granted restricted common stock awards ( non-vested shares )
+to employees and board members under these plans. Our current stock incentive program is governed by our Amended and Restated 2010
+Stock Incentive Plan (as amended, the  2010 SIP ). Shares reserved for issuance under the 2010 SIP include rollover
+shares, which are any shares subject to equity compensation awards granted under our previous stock plan that expire or otherwise
+terminate without having been exercised in full or that are forfeited or repurchased by us by virtue of their failure to vest.
+A maximum of 2,100,000 of such shares are eligible for rollover. The 2010 SIP authorizes awards of stock options (both non-qualified
+and incentive), stock appreciation rights, non-vested shares, restricted stock units ( RSUs ) and performance shares.
+New shares are issued to satisfy stock option exercises and share issuances. As of June 30, 2018, approximately 1,378,000 shares
+remain available for issuance under the 2010 SIP. We have also granted stock options and RSUs under individual inducement award
+agreements. 
+
+The Compensation Committee of our board of directors determines
+eligibility, vesting schedules and exercise prices for stock options and shares granted under the plans. Stock options are generally
+granted with an exercise price equal to the market price of our common stock on the grant date. Stock options generally have a
+contractual term of seven to ten years. Share-based awards generally vest and become exercisable over a one to four-year service
+period. As of June 30, 2018, no stock appreciation rights, non-vested shares, or performance shares were outstanding. No income
+tax benefit was realized from activity in the share-based plans during the fiscal years ended June 30, 2018 and 2017. 
+
+Stock Option Awards  
+
+The fair value of each stock option grant is estimated on
+the grant date using the Black-Scholes-Merton option-pricing formula. Expected volatilities are based on the historical
+volatility of our stock price. The expected term of stock options granted is estimated using the simplified method, as
+permitted by guidance issued by the Securities and Exchange Commission. We use the simplified method because we believe we
+are unable to rely on our limited historical exercise data or alternative information as a reasonable basis upon which to
+estimate the expected term of such options. The risk-free interest rate assumption is based on the U.S. Treasury interest
+rates appropriate for the expected term of our stock options. 
+
+The following weighted-average assumptions were used to estimate
+the fair value of all of our stock option grants: 
+
+The following table presents a summary of activity for all
+of our stock options: 
+
+The following table presents a summary of grant date fair
+value and intrinsic value information for all of our stock options: 
+
+Restricted Stock Units  
+
+The fair value of our RSUs is based on the closing market price
+of our common stock on the grant date. 
+
+The following table presents a summary of activity with respect
+to our RSUs during the fiscal year ended June 30, 2018: 
+
+Employee Stock Purchase Plan  
+
+We have a 2013 Employee Stock Purchase Plan (the  ESPP ),
+under which 1,300,000 shares of our common stock were initially reserved for future issuance. The ESPP is intended to provide employees
+with an opportunity to purchase our common stock through accumulated payroll deductions. Each of our employees (including officers)
+is eligible to participate in the ESPP, subject to certain limitations, as defined in the ESPP. 
+
+The ESPP is implemented by consecutive, overlapping offering
+periods lasting 24 months (an  Offering Period ), with a new Offering Period commencing on the first trading day on
+or after May 16 and November 16 of each year. Common stock may be purchased under the ESPP every six months (a  Purchase
+Period ), at a price not less than 85% of the lesser of the fair market value of our common stock on (i) the first trading
+day of each Offering Period or (ii) the last trading day of each Purchase Period. To the extent the fair market value of our common
+stock on the enrollment date of a new Offering Period is lower than the fair market value of our common stock on the enrollment
+date of the immediately preceding Offering Period, then all participants in the immediately preceding Offering Period will be automatically
+withdrawn from such Offering Period immediately after the exercise of their options on the exercise date immediately preceding
+the new Offering Period and automatically re-enrolled in the new Offering Period as of the first day thereof. Generally, a participant
+in the ESPP may withdraw from an Offering Period at any time without affecting his or her eligibility to participate in future
+Offering Periods and may increase or decrease the rate of his or her payroll deductions during an Offering Period. 
+
+For purposes of measuring share-based compensation expense and
+calculating net income (loss) per share, we account for common stock purchase rights granted under the ESPP in the same manner
+as our other shared-based awards. 
+
+The per share fair value of stock purchase rights granted under
+the ESPP was estimated using the following weighted-average assumptions: 
+
+The following table presents a summary of activity under our ESPP during the fiscal year ended June 30, 2018: 
+
+Share-Based Compensation Expense  
+
+The following table presents a summary of share-based compensation
+expense included in each applicable functional line item on our consolidated statements of operations: 
+
+The following table presents a summary of the remaining unrecognized
+share-based compensation expense related to our outstanding share-based awards as of June 30, 2018: 
+
+If there are any modifications or cancellations of the underlying
+unvested share-based awards, we may be required to accelerate, increase or cancel remaining unearned share-based compensation expense.
+Future share-based compensation expense and unearned share-based compensation expense will increase to the extent that we grant
+additional share-based awards. 
+
+5.            401(k)
+Plan  
+
+We have a savings plan (the  Plan ) which is qualified
+under Section 401(k) of the Internal Revenue Code. Eligible employees may elect to make contributions to the Plan through salary
+deferrals up to 100% of their base pay, subject to limitations. We made approximately $150,000 and $136,000 in matching contributions
+to participants in the Plan during the fiscal years ended June 30, 2018 and 2017, respectively. 
+
+In addition, we may make discretionary profit sharing contributions,
+subject to limitations. During the fiscal years ended June 30, 2018 and 2017, we made no such contributions to the Plan. 
+
+6.            Litigation  
+
+From time to time, we are subject to legal proceedings and claims
+in the ordinary course of business. We are currently not aware of any such legal proceedings or claims that we believe will have,
+individually or in the aggregate, a material adverse effect on our business, prospects, financial position, operating results or
+cash flows. 
+
+7.            Income
+Taxes  
+
+The provision for income taxes consists
+of the following components: 
+
+The following table presents U.S. and foreign income (loss)
+before income taxes: 
+
+The tax effects of temporary differences
+that give rise to deferred tax assets and liabilities are as follows: 
+
+We have recorded a valuation allowance against our net deferred
+tax assets, due to uncertainties surrounding the realization of the deferred tax assets. 
+
+The following table presents a reconciliation of the provision
+for income taxes to taxes computed at the U.S. federal statutory rate: 
+
+Due to the  change of ownership  provision of the
+Tax Reform Act of 1986, utilization of our net operating loss ( NOL ) carryforwards and tax credit carryforwards may
+be subject to an annual limitation against taxable income in future periods. Due to the annual limitation, a portion of these carryforwards
+may expire before ultimately becoming available to reduce future income tax liabilities. The following table presents our NOLs: 
+
+For federal income tax purposes, our NOL carryovers generated
+for tax years beginning before July 1, 2018 will begin to expire in the fiscal year ending June 30, 2021. For state income tax
+purposes, our NOLs began to expire in the fiscal year ended June 30, 2013. Pursuant to the Tax Cuts and Jobs Act (the  2017
+Act ) enacted by the U.S. federal government in December 2017, discussed further below, for federal income tax purposes,
+NOL carryovers generated for our tax years beginning after June 30, 2018 can be carried forward indefinitely, but will be subject
+to a taxable income limitation. 
+
+We continue to assert that our foreign earnings are indefinitely reinvested in our overseas operations
+and as such, deferred income taxes were not provided on undistributed earnings of certain foreign subsidiaries. However, given
+the passage of the 2017 Act, we may re-evaluate our position. 
+
+Tax Cuts and Jobs Act  
+
+The 2017 Act changes existing U.S. tax law to, among other things
+(i) lower U.S. corporate tax rates and implement a territorial tax system, (ii) generally reduce a company s ability to utilize
+accumulated NOLs and (iii) require the calculation of a one-time transition tax on certain previously unrepatriated foreign earnings
+and profits ( E P ) as part of the transition to the new territorial tax system. In addition, the 2017 Act impacts
+a company s estimates of its deferred tax assets and liabilities. Since we have a June 30 fiscal year-end, the lower U.S.
+corporate tax rate is phased in, resulting in a blended rate of approximately 28% for our fiscal year ended June 30, 2018, and
+a statutory rate of 21% for our fiscal years thereafter. 
+
+Pursuant to U.S. GAAP, changes in tax rates and tax laws are
+accounted for in the period of enactment, and the resulting effects are recorded as discrete components of the provision for income
+taxes related to continuing operations in the same period. We have evaluated the impact of the 2017 Act on our consolidated financial
+statements for the fiscal year ended June 30, 2018. In doing so, we estimated a one-time transition tax liability with respect
+to our calculated unrepatriated foreign E P of approximately $63,000. We have offset this liability by utilizing our existing
+NOLs, resulting in no net effect to our provision for income taxes for the fiscal year ended June 30, 2018. Additionally, we have
+recorded a decrease in our net deferred tax assets of approximately $12,850,000, with a corresponding offset to our estimated full
+valuation allowance against our net deferred tax assets, resulting in no net effect on our provision for income taxes. 
+
+Unrecognized Tax Benefits  
+
+The following table summarizes our liability for uncertain tax
+positions for the fiscal year ended June 30, 2018 (in thousands): 
+
+At June 30, 2018, we had $6,600,000 of gross unrecognized tax
+benefits. Of the total unrecognized tax benefits at June 30, 2018, $6,600,000 was recorded as a reduction to deferred tax
+assets, which caused a corresponding reduction in our valuation allowance of $6,600,000. To the extent such portion of unrecognized
+tax benefits is recognized at a time such valuation allowance no longer exists, the recognition would reduce the effective tax
+rate. Our continuing practice is to recognize interest and penalties related to income tax matters in income tax expense. During
+the fiscal years ended June 30, 2018 and 2017 we recorded an immaterial expense for interest and penalties related to income tax
+matters in the provision for income taxes. At June 30, 2018, we had approximately $200,000 of accrued interest and penalties related
+to uncertain tax positions. 
+
+At June 30, 2018, our fiscal years ended June 30, 2014 through
+2018 remain open to examination by the federal taxing jurisdiction and our fiscal years ended June 30, 2013 through 2018 remain
+open to examination by the state taxing jurisdictions. However, we have NOLs beginning in the fiscal year ended June 30, 2001
+which would cause the statute of limitations to remain open for the year in which the NOL was incurred. Our fiscal years ended
+June 30, 2011 through 2018 remain open to examination by foreign taxing authorities. We do not anticipate that the amount of unrecognized
+tax benefits as of June 30, 2018 will significantly increase or decrease within the next 12 months. 
+
+8.           Commitments
+and Contingencies  
+
+Leases  
+
+We lease office equipment and office and warehouse facilities
+under non-cancelable capital and operating leases. 
+
+We currently lease approximately 27,000 square feet of office
+space for our corporate headquarters in Irvine, California. The lease for this facility commenced in July 2015, is for a term of
+65 months and provides for annual rent increases. The lease agreement provided for a tenant improvement allowance from the landlord
+of up to $243,000 for tenant improvements and other qualified expenses for which the landlord paid for approximately $190,000 in tenant improvements, and reimbursed Lantronix
+for the remaining $53,000. 
+
+The following schedule presents minimum lease payments for all
+non-cancelable operating and capital leases as of June 30, 2018: 
+
+The following table presents rent expense: 
+
+9.           Significant
+Geographic, Customer and Supplier Information  
+
+The following table presents our sales within geographic regions
+as a percentage of net revenue, which is based on the  bill-to  location of our customers: 
+
+The following table presents sales to significant countries
+as a percentage of net revenue, which is based on the  bill-to  location of our customers: 
+
+Customers  
+
+The following table presents sales to our significant customers
+as a percentage of net revenue: 
+
+(2)  
+      All top five customers are distributors, who are part of our product
+    distribution system.   
+
+No other customer represented more than 10% of our annual net
+revenue during these fiscal years. 
+
+Related Party Transactions  
+
+We had no net revenue from related parties for the fiscal years
+ended June 30, 2018 and 2017. 
+
+Suppliers  
+
+We do not own or operate a manufacturing facility. All of our
+products are manufactured by third-party contract manufacturers and foundries located primarily in Asia. We have several single-sourced
+supplier relationships, either because alternative sources are not available or because the relationship is advantageous to us.
+If these suppliers are unable to provide a timely and reliable supply of components, we could experience manufacturing delays that
+could adversely affect our consolidated results of operations. 
+
+10.           Subsequent
+Event  
+
+During the quarter ending September 30, 2018, we initiated
+a plan to realign certain personnel resources to better fit our current business needs. In connection with this plan, for the
+quarter ending September 30, 2018, we estimate incurring charges ranging from approximately $250,000 to $300,000, primarily
+consisting of severance-related costs. 
+
+INDEX TO EXHIBITS   
+
+__________ 
+
+*  
+       
+      Indicates management contract or compensatory plan, contract or arrangement.   
+ 
+      **  
+       
+      Furnished, not filed.   
+
+<EX-21.1>
+ 2
+ lantronix_10k-ex2101.htm
+ SUBSIDIARIES OF REGISTRANT
+
+Exhibit 21.1  
+
+Subsidiaries of Registrant  
+
+Subsidiary    
+        Jurisdiction of Formation      
+ 
+      Lantronix International AG   
+      Switzerland   
+ 
+      Lantronix Europe GmbH   
+      Germany   
+ 
+      Lantronix India Private Limited  
+      India   
+ 
+      Lantronix Holding Company  
+      Delaware, USA   
+
+Subsidiaries of Lantronix International
+AG  
+
+Subsidiary    
+        Jurisdiction of Formation      
+ 
+      Lantronix Netherlands B.V.   
+      Netherlands   
+ 
+      Lantronix Hong Kong Limited   
+      Hong Kong   
+ 
+      Lantronix Japan K.K.   
+      Japan   
+ 
+      Lantronix UK Ltd.   
+      United Kingdom   
+ 
+      Lantronix Australia Pty. Ltd.   
+      Australia   
+
+</EX-21.1>
+
+<EX-23.1>
+ 3
+ lantronix_10k-ex2301.htm
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Exhibit 23.1  
+
+Consent of Independent Registered Public
+Accounting Firm  
+
+We consent to the incorporation by reference
+in Registration Statements (Nos. 333-45182, 333-54870, 333-63000, 333-72322, 333-85230, 333-85238, 333-103395, 333-116726, 333-121000,
+333-129282, 333-137301, 333-147406, 333-159291, 333-164881, 333-172117, 333-188490 and 333-210982) on Form S-8 and (Nos. 333-179574,
+333-200187, 333-215090 and 333-217497) on Form S-3 of Lantronix, Inc. of our report dated August 23, 2018, relating to the consolidated
+financial statements of Lantronix, Inc., appearing in this Annual Report on Form 10-K of Lantronix, Inc. for the year ended June
+30, 2018.  
+
+/s/ Squar Milner LLP                              
+
+Newport Beach, California 
+
+ August 23, 2018 
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ lantronix_10k-ex3101.htm
+ CERTIFICATION
+
+Exhibit 31.1  
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE
+OFFICER  
+
+  PURSUANT TO   
+
+  SECTION 302 OF THE SARBANES-OXLEY ACT
+OF 2002  
+
+I, Jeffrey Benck, certify that: 
+
+1.  
+      I have reviewed this annual report on Form 10-K of Lantronix, Inc.;   
+
+2.  
+      Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;   
+
+3.  
+      Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+
+4.  
+      The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a)  
+      Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+
+(d)  
+      Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and   
+
+5.  
+      The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function):   
+
+(a)  
+      All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and   
+
+(b)  
+      Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+
+Date:   
+      August 23, 2018  
+      /s/ JEFFREY BENCK   
+
+Jeffrey Benck 
+         President, Chief Executive Officer and Director 
+          (Principal Executive Officer)    
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ lantronix_10k-ex3102.htm
+ CERTIFICATION
+
+Exhibit 31.2  
+
+CERTIFICATION OF PRINCIPAL FINANCIAL
+OFFICER  
+
+  PURSUANT TO  
+
+  SECTION 302 OF THE SARBANES-OXLEY ACT
+OF 2002  
+
+I, Jeremy Whitaker, certify that: 
+
+1.  
+      I have reviewed this annual report on Form 10-K of Lantronix, Inc.;   
+
+2.  
+      Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;   
+
+3.  
+      Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+
+4.  
+      The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a)  
+      Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+
+(d)  
+      Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and   
+
+5.  
+      The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent function):   
+
+(a)  
+      All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and   
+
+(b)  
+      Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+
+Date:   
+      August 23, 2018  
+      /s/ JEREMY WHITAKER   
+
+Jeremy Whitaker 
+         Chief Financial Officer 
+          (Principal Financial and Accounting Officer)    
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ lantronix_10k-ex3201.htm
+ CERTIFICATION
+
+Exhibit 32.1  
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+AND CHIEF FINANCIAL OFFICER  
+
+  PURSUANT TO  
+
+  18 U.S.C. SECTION 1350,  
+
+  AS ADOPTED PURSUANT TO  
+
+  SECTION 906 OF THE SARBANES-OXLEY ACT
+OF 2002  
+
+The following certifications are being furnished
+solely to accompany the Annual Report on Form 10-K for the year ended June 30, 2018 (the  Report ) pursuant to U.S.C.
+Section 1350, and pursuant to SEC Release No. 33-8238 are being  furnished  to the SEC rather than  filed 
+either as part of the Report or as a separate disclosure statement, and are not to be incorporated by reference into the Report
+or any other filing of Lantronix, Inc. (the  Company ), whether made before or after the date hereof, regardless of
+any general incorporation language in such filing. The following certifications shall not be deemed  filed  for purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to liability under that section. 
+
+Certification of the Chief Executive Officer  
+
+Pursuant to 18 U.S.C. Section 1350, as created
+by Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of the Company hereby certifies, to such officer s
+knowledge, that: 
+
+(i) the Report fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(ii) the information contained in the Report
+fairly presents, in all material respects, the financial condition and results operations of the Company as of, and for, the periods
+presented in such Report. 
+
+Date:   
+      August 23, 2018  
+      By:   
+       /s/ JEFFREY BENCK    
+
+Name: Jeffrey Benck 
+         Title: President, Chief Executive Officer and Director 
+          (Principal Executive Officer)    
+
+Certification of the Chief Financial Officer  
+
+Pursuant to 18 U.S.C. Section 1350, as created
+by Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of the Company hereby certifies, to such officer s
+knowledge, that: 
+
+(i) the Report fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(ii) the information contained in the Report
+fairly presents, in all material respects, the financial condition and results operations of the Company as of, and for, the periods
+presented in such Report. 
+
+Date:   
+      August 23, 2018  
+      By:   
+       /s/ JEREMY WHITAKER    
+
+Name: Jeremy Whitaker 
+         Title: Chief Financial Officer 
+          (Principal Financial and Accounting Officer)    
+
+</EX-32.1>
+
+<EX-101.INS>
+ 8
+ ltrx-20170630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ ltrx-20170630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ ltrx-20170630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ ltrx-20170630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ ltrx-20170630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ ltrx-20170630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

@@ -1,0 +1,896 @@
+ntents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  FORM 10-Q    
+  x   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+  For the quarterly period ended     September 30, 2018    
+  or 
+      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+  For the transition period from _____________ to _____________ 
+  Commission File Number:    0-1402 
+     
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  (Exact name of registrant as specified in its charter) 
+
+Not applicable 
+      (Former name, former address and former fiscal year, if changed since last report) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.                                                            Yes   x    No   o 
+    
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+  Yes   x    No   o 
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See the definitions of  large accelerated filer ,  accelerated filer ,  small reporting company , and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+                   Large accelerated filer   x 
+      
+    Accelerated filer   o 
+      Non-accelerated filer     o    
+      
+    Smaller reporting company   o 
+
+Emerging growth company   o 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   o 
+    
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+  Yes   o    No   x 
+    
+  The number of shares outstanding of the registrant s common shares as of   September 30, 2018   was   64,445,633  . 
+  
+   1 
+
+TABLE OF CONTENTS 
+    
+                    PART I. FINANCIAL INFORMATION  
+    3 
+       Item 1. Financial Statements  
+    3 
+       CONSOLIDATED STATEMENTS OF INCOME (UNAUDITED)  
+    3 
+       CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) (UNAUDITED)  
+    4 
+       CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)  
+    5 
+       CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)  
+    6 
+       NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS  
+    7 
+       Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    23 
+       Item 3. Quantitative and Qualitative Disclosures About Market Risk  
+    33 
+       Item 4. Controls and Procedures  
+    33 
+
+PART II. OTHER INFORMATION  
+    34 
+       Item 1. Legal Proceedings  
+    34 
+       Item 1A. Risk Factors  
+    34 
+       Item 2. Unregistered Sales of Equity Securities and Use of Proceeds  
+    34 
+       Item 4. Mine Safety Disclosures  
+    35 
+       Item 6. Exhibits  
+    35 
+       Signatures  
+    36 
+       EX-31.1  
+     Certification of the Chairman, President and Chief Executive Officer (Principal Executive Officer) pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934.  
+      
+       EX-31.2  
+     Certification of the Executive Vice President, Chief Financial Officer and Treasurer (Principal Financial Officer) pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934.  
+      
+       EX-32.1  
+     Certification of the Chairman, President and Chief Executive Officer (Principal Executive Officer) and Executive Vice President, Chief Financial Officer and Treasurer (Principal Financial Officer) pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.  
+      
+      EX-101 
+    Instance Document 
+      
+      EX-101 
+    Schema Document 
+      
+      EX-101 
+    Calculation Linkbase Document 
+      
+      EX-101 
+    Label Linkbase Document 
+      
+      EX-101 
+    Presentation Linkbase Document 
+      
+      EX-101 
+    Definition Linkbase Document 
+
+2 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+LINCOLN ELECTRIC HOLDINGS, INC. 
+  CONSOLIDATED STATEMENTS OF INCOME 
+  (UNAUDITED) 
+  (In thousands, except per share amounts) 
+
+See notes to these consolidated financial statements. 
+  
+   3 
+
+Table of Contents  
+
+LINCOLN ELECTRIC HOLDINGS, INC. 
+  CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+  (UNAUDITED) 
+  (In thousands) 
+
+See notes to these consolidated financial statements. 
+  
+   4 
+
+Table of Contents  
+
+LINCOLN ELECTRIC HOLDINGS, INC. 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (In thousands) 
+
+See notes to these consolidated financial statements. 
+  
+   5 
+
+Table of Contents  
+
+LINCOLN ELECTRIC HOLDINGS, INC. 
+  CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (UNAUDITED) 
+  (In thousands)   
+
+  See notes to these consolidated financial statements. 
+  
+   6 
+
+Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS 
+  Dollars in thousands, except per share amounts 
+
+NOTE 1   SIGNIFICANT ACCOUNTING POLICIES 
+  Principles of Consolidation 
+  As used in this report, the term  Company,  except as otherwise indicated by the context, means Lincoln Electric Holdings, Inc. and its wholly-owned and majority-owned subsidiaries for which it has a controlling interest.   
+  The consolidated financial statements include the accounts of all legal entities in which the Company holds a controlling interest.  The Company is also considered to have a controlling interest in a variable interest entity ( VIE ) if the Company determines it is the primary beneficiary of the VIE.  Investments in legal entities in which the Company does not own a majority interest but has the ability to exercise significant influence over operating and financial policies are accounted for using the equity method.  
+  The accompanying unaudited consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States ( GAAP ) for interim financial information and with the instructions to Form 10-Q and Article 10 of Regulation S-X.  Accordingly, these unaudited consolidated financial statements do not include all of the information and notes required by GAAP for complete financial statements.  However, in the opinion of management, these unaudited consolidated financial statements contain all the adjustments (consisting of normal recurring accruals) considered necessary to present fairly the financial position, results of operations and cash flows for the interim periods.  Operating results for the   nine months ended     September 30, 2018   are not necessarily indicative of the results to be expected for the year ending December 31,   2018  . 
+  The accompanying Consolidated Balance Sheet at   December 31, 2017   has been derived from the audited financial statements at that date, but does not include all of the information and notes required by GAAP for complete financial statements.  For further information, refer to the consolidated financial statements and notes thereto included in the Company s Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+  Certain reclassifications have been made to the prior year financial statements to conform to current year classifications.  
+  New Accounting Pronouncements:  
+  This section provides a description of new accounting pronouncements ("Accounting Standard Update" or "ASU") issued by the Financial Accounting Standards Board ("FASB") that are applicable to the Company. 
+  The following ASUs were adopted as of January 1, 2018 and did not have a significant financial impact on the Company's consolidated financial statements unless otherwise described within the table below: 
+                 Standard 
+    Description 
+      ASU No. 2017-12,   Derivatives and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging Activities  , issued August 2017. 
+    ASU 2017-12 provides updated guidance to more closely align hedge accounting with a company's risk management strategy, to simplify the application of hedge accounting and to better portray the economic results of hedging instruments in the financial statements.  The Company early adopted the ASU on January 1, 2018. 
+
+7 
+
+     Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+Standard 
+    Description 
+      ASU No. 2017-07,   Compensation - Retirement Benefits (Topic 715): Improving the Presentation of Net Period Pension Cost and Net Periodic Postretirement Benefit Cost  , issued March 2017. 
+    ASU 2017-07 requires an entity to report the service cost component of the net periodic benefit cost in the same income statement line item as other employee compensation costs.  The other components of the net periodic benefit cost are required to be presented in the income statement separately from the service cost component and outside of any subtotal of operating income.  Additionally, only the service cost component will be eligible for capitalization in assets.  The impact of the adoption resulted in the reclassification of the other components of net periodic benefit cost from Cost of goods sold and Selling, general   administrative expenses to Other income (expense).  The reclassification resulted in an increase in Operating income of $2,570 as a result of a decrease in Pension settlement charges of $5,283, partially offset by increases in Cost of goods sold of $1,635 and Selling, general   administrative expenses of $1,078 for the three months ended September 30, 2017.  The reclassification resulted in a decrease in Operating income of $1,578 as a result of a decrease in Pension settlement charges of $5,283, partially offset by increases in Cost of goods sold of $4,005 and Selling, general   administrative expenses of $2,856 for the nine months ended September 30, 2017.  Refer to Note 12 to the consolidated financial statements for details. 
+      ASU No. 2017-01,   Business Combinations (Topic 805): Clarifying the Definition of a Business,   issued January 2017. 
+    ASU 2017-01 provides updated guidance for evaluating whether certain transactions should be accounted for as an acquisition (or disposal) of an asset or a business. 
+      ASU No. 2016-18,   Statement of Cash Flows(Topic 230): Restricted Cash,   issued November 2016.  
+    ASU 2016-18 requires amounts generally described as restricted cash and restricted cash equivalents be included with cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown on the statement of cash flows.  
+      ASU No. 2016-16  , Income Taxes (Topic 740): Intra-Entity Transfers of Assets Other Than Inventory,   issued October 2016.  
+    ASU 2016-16 requires an entity to recognize the income tax consequences of an intra-entity transfer of an asset other than inventory when the transfer occurs. 
+      ASU 2016-15,   Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments,   issued August 2016.  
+    ASU 2016-15 reduces existing diversity in practice by addressing eight specific cash flow issues related to how certain cash receipts and cash payments are presented and classified in the statement of cash flows. 
+      ASU 2014-09,   Revenue from Contracts with Customers (Topic 606)   issued May 2014     and     ASU 2015-14,   Revenue from Contracts with Customers (Topic 606): Deferral of the Effective Date  , issued August 2015.   
+    ASU 2014-09 requires an entity to recognize revenue in a manner that depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services.  The standard also specifies the accounting of some costs to obtain or fulfill a contract with a customer and expands the disclosure requirements around contracts with customers.  ASU 2015-14 deferred the effective date of ASU 2014-09 to annual reporting periods beginning after December 15, 2017, and interim periods within those fiscal years.  The Company adopted ASU 2014-09 as of January 1, 2018 using the modified retrospective transition method applied to those contracts that were not completed as of that date.  The adoption did not have a material impact on the consolidated financial statements.  Refer to Note 2 to the consolidated financial statements for further details. 
+
+8 
+
+     Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+The Company is currently evaluating the impact on its financial statements of the following ASUs:                 Standard 
+    Description 
+      ASU No. 2018-14,   Compensation - Retirement Benefits - Defined Benefit Plans - General (Subtopic 715-20),   issued August 2018. 
+    ASU 2018-14 modifies disclosure requirements for employers that sponsor defined benefit pension or other postretirement plans.  The ASU also requires an entity to disclose the weighted-average interest crediting rates for cash balance plans and to explain the reasons for significant gains and losses related to changes in the benefit obligation.  The ASU is effective January 1, 2020 and early adoption is permitted. 
+      ASU No. 2018-13,   Fair Value Measurement (Topic 944)  , issued August 2018. 
+    ASU 2018-13 eliminates, amends and adds disclosure requirements related to fair value measurements.  The ASU impacts various elements of fair value disclosure, including but not limited to, changes in unrealized gains or losses, significant unobservable inputs and measurement uncertainty.  The ASU is effective January 1, 2020 and early adoption is permitted. 
+      ASU No. 2018-02,   Income Statement - Reporting Comprehensive Income (Topic 220)  , issued February 2018. 
+    ASU 2018-02 allows a reclassification from accumulated other comprehensive income to retained earnings for stranded tax effects resulting from the U.S. Tax Act (as defined within Note 14 to the consolidated financial statements). The ASU only applies to the income tax effects of the U.S. Tax Act, all other existing guidance remains the same.  The ASU is effective January 1, 2019, early adoption is permitted and the ASU should be applied retrospectively to each period impacted by the U.S. Tax Act. 
+      ASU No. 2016-02,   Leases (Topic 842)  , issued February 2016 and ASU 2018-10,   Codification Improvements to Topic 842, Leases  , issued July 2018. 
+    ASU 2016-02 aims to increase transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and requiring disclosure of key information about leasing agreements.  ASU 2018-10 provides narrow amendments to clarify how to apply certain aspects of the new lease standard.  Entities are required to recognize and measure leases at the beginning of the earliest period presented using a modified retrospective approach.  The modified retrospective approach includes a number of optional practical expedients that entities may elect to apply.  The ASU is effective January 1, 2019 and early adoption is permitted. 
+  The Company has established a cross-functional team to implement the ASU and is in the process of gathering data on all leases and designing a new system solution.  The Company is also evaluating its processes and internal controls to meet the ASU s accounting, reporting and disclosure requirements. While the Company has not yet completed its evaluation of the ASU s impact, the Company expects to recognize a right of use asset and a corresponding liability on the Consolidated Balance Sheets related to substantially all operating lease arrangements.  The Company plans to adopt the package of practical expedients for all leases commenced before January 1, 2019. 
+
+9 
+
+Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+NOTE 2   REVENUE RECOGNITION 
+  Adoption of ASU 2014-09,  Revenue from Contracts with Customers (Topic 606)" 
+  On January 1, 2018, the Company adopted ASU 2014-09 ( Topic 606 ) using the modified retrospective method applied to those contracts which were not completed as of January 1, 2018.  Results for reporting periods beginning after January 1, 2018 are presented under Topic 606, while prior period amounts are not adjusted and continue to be reported in accordance with the Company's historic accounting.  The cumulative impact of adopting Topic 606 as of January 1, 2018 did not have a material impact to the consolidated financial statements.  The Company does not expect the impact of the adoption of Topic 606 to be material to the consolidated financial statements on an ongoing basis.  
+  Revenue Recognition 
+  Revenue is recognized when obligations under the terms of a contract are satisfied and control is transferred to the customer.  Revenue is measured as the amount of consideration the Company expects to be entitled to in exchange for goods or services.  The Company recognizes any discounts, credits, returns, rebates and incentive programs based on reasonable estimates as a reduction of sales to arrive at Net sales at the same time the related revenue is recorded. Taxes collected by the Company, including sales tax and value add tax, are excluded from Net sales. The Company recognizes freight billed as a component of Net sales and shipping costs as a component of Cost of goods sold when control transfers to the customer.  Sales commissions are expensed when incurred because the amortization period is generally one year or less.  These costs are recorded within Selling, general and administrative expenses in the Company's Consolidated Statements of Income. 
+  The Company s payment terms vary by the type and location of the customer and the products or services offered. The Company does not offer any payment terms that would meet the requirements for consideration as a financing component under Topic 606.    
+  The following table presents the Company's Net sales disaggregated by product line: 
+
+Consumable sales consist of electrodes, fluxes, specialty welding consumables and brazing and soldering alloys.  Equipment sales consist of arc welding power sources, welding accessories, fabrication, plasma cutters, wire feeding systems, robotic welding packages, integrated automation systems, fume extraction equipment, CNC plasma and oxy-fuel cutting systems and regulators and torches used in oxy-fuel welding, cutting and brazing.  Consumable and Equipment products are sold within each of the Company s operating segments. 
+  Substantially all of the Company's sales arrangements are short-term in nature involving a single performance obligation.  The Company recognizes revenue when control of the product is transferred to the customer based upon shipping terms. 
+  Within the Equipment product line, there are certain customer contracts related to automation products that may include multiple performance obligations. For such arrangements, the Company allocates revenue to each performance obligation based on its relative standalone selling price. The Company generally determines the standalone selling price based on the prices charged to customers or using expected cost plus margin.  In addition, for certain customized automation deliverables within the Equipment product line, there are contracts accounted for over time.  Under this method, revenue recognition is primarily based upon the ratio of costs incurred to date compared with estimated total costs to complete. The cumulative impact of revisions to total estimated costs is reflected in the period of the change, including anticipated losses.  Less than   10%   of the Company's Net sales are recognized over time. 
+  At   September 30, 2018  , the Company recorded   $18,302   related to advance customer payments and   $15,095   related to billings in excess of revenue recognized.  These contract liabilities are included in Other current liabilities in the Condensed Consolidated Balance Sheets.  At January 1, 2018, the balances related to advance customer payments and billings in excess of revenue recognized were   $19,683   and   $11,132  , respectively.  Substantially all of the Company s contract liabilities are recognized within twelve months based on contract duration.  The Company records an asset for contracts where it has recognized revenue, but has not yet invoiced the customer for goods or services.  At   September 30, 2018   and January 1, 2018,   $33,429   and   $22,229  , respectively, related to these future customer receivables was included in Other current assets in the Condensed Consolidated Balance Sheets.  Contract asset amounts are expected to be billed within the next twelve months. 
+  
+   10 
+
+Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+NOTE 3   EARNINGS PER SHARE 
+  The following table sets forth the computation of basic and diluted earnings per share: 
+
+For the   three months ended September 30, 2018   and   2017  , common shares subject to equity-based awards of   346,168   and   182,615  , respectively, were excluded from the computation of diluted earnings per share because the effect of their exercise would be anti-dilutive. For the   nine months ended September 30, 2018   and   2017  , common shares subject to equity-based awards of   317,528   and   807,763  , respectively, were excluded from the computation of diluted earnings per share because the effect of their exercise would be anti-dilutive.  
+
+NOTE 4   ACQUISITIONS 
+  On July 31, 2017, the Company completed its acquisition of Air Liquide Welding, a subsidiary of Air Liquide.  The agreed upon purchase price was   $135,123  , which was adjusted for certain debt like obligations, for a net purchase price of   $61,953  , net of cash acquired.  The primary debt like obligations were pension liabilities.  The acquisition was accounted for as a business combination.  The funding of the cash portion of the purchase price and acquisition costs was provided for with available cash. 
+  The complementary business enhanced the Company s global specialty consumables portfolio and extended its channel reach for equipment systems and cutting, soldering and brazing solutions in Europe.  The acquisition also offers European customers more comprehensive welding solutions, greater technical application expertise and improved service levels. 
+  The fair value of the net assets acquired exceeded the purchase consideration, resulting in a bargain purchase gain at acquisition, which was included in Bargain purchase gain in the Company s Consolidated Statements of Income for the nine months ended September 30, 2017.  The Company believes that the bargain purchase gain was primarily the result of the divestiture by Air Liquide of the welding business, which was outside Air Liquide s core business, as part of an overall repositioning of its core business.  The Company anticipates future integration initiatives are necessary in order to achieve commercial and operational synergies. 
+
+11 
+
+     Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+The following table summarizes the purchase price allocation for the Air Liquide Welding acquisition: 
+
+(1)  
+    A portion of inventories acquired were sold in the third quarter of 2017 resulting in a   $2,314   increase in Cost of goods sold for the amortization of step up in the value of acquired inventories.   
+              (2) 
+    Property, plant and equipment acquired includes a number of manufacturing and distribution sites, including the related facilities, land and leased sites, and machinery and equipment for use in manufacturing operations. 
+              (3)  
+    $7,099   of the intangible asset balance was assigned to a trade name expected to have an indefinite life.  Of the remaining amount,   $1,183   was assigned to a finite-lived trade name (  10   year weighted average useful life) and   $3,433   was assigned to other intangible assets (  9   year weighted average life).         
+              (4)  
+    Consists primarily of other accrued liabilities. 
+     (5)   Reflects a receivable from seller for an agreed upon purchase price adjustment.  The payment of $  10,983   was received in the first quarter of 2018. 
+  (6)   An adjustment of $  1,935   was recorded to the Bargain purchase gain in the fourth quarter of 2017. 
+  In the three and   nine months ended     September 30, 2018  , the Company recognized   $970   and   $3,665  , respectively, in acquisition transaction and integration costs related to the acquisition of Air Liquide Welding.  In the three and   nine months ended     September 30, 2017  , the Company recognized   $3,273   and   $11,386  , respectively, in acquisition transaction and integration costs related to the acquisition of Air Liquide Welding. Such costs were expensed as incurred and are included in Selling, general   administrative expenses in the Company's Consolidated Statements of Income.   
+  Pro forma information related to this acquisition has not been presented because the impact on the Company s Consolidated Statements of Income is not material. Acquired companies are included in the Company's consolidated financial statements as of the date of acquisition.  
+
+NOTE 5   SEGMENT INFORMATION 
+  The Company's business units are aligned into   three   operating segments.  The operating segments consist of Americas Welding, International Welding and The Harris Products Group.  The Americas Welding segment includes welding operations in North and South America.  The International Welding segment includes welding operations in Europe, Africa, Asia and Australia.  The Harris Products Group includes the Company s global cutting, soldering and brazing businesses as well as its retail business in the United States.  
+  Segment performance is measured and resources are allocated based on a number of factors, the primary profit measure being adjusted earnings before interest and income taxes ( Adjusted EBIT ).  EBIT is defined as Operating income plus Other income (expense).  EBIT is adjusted for special items as determined by management such as the impact of rationalization activities, certain asset impairment charges and gains or losses on disposals of assets. 
+  
+   12 
+
+     Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+Financial information for the reportable segments follows:  
+
+13 
+
+     Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+(1) 
+    In the three months ended September 30, 2018, special items reflect pension settlement charges of   $4,232   in Americas Welding, rationalization and asset impairment charges of   $2,636   in International Welding and transaction and integration costs of   $970   in Corporate / Eliminations related to the Air Liquide Welding acquisition as discussed in Note 4 to the consolidated financial statements.  In the   nine months ended September 30, 2018  , special items reflect pension settlement charges of   $4,990   in Americas Welding, rationalization and asset impairment charges of   $24,353   in International Welding and transaction and integration costs of   $3,665   in Corporate / Eliminations related to the Air Liquide Welding acquisition as discussed in Note 4 to the consolidated financial statements.   
+              (2) 
+    In the three and   nine months ended September 30, 2017  , special items reflect pension settlement charges of   $5,283   in Americas Welding, amortization of step up in value of acquired inventories of   $2,314   in International Welding and transaction and integration costs of   $3,273   and   $11,386  , respectively, offset by a bargain purchase gain of   $51,585   in Corporate / Eliminations related to the Air Liquide Welding acquisition as discussed in Note 4 to the consolidated financial statements.  
+      
+  NOTE 6   RATIONALIZATION AND ASSET IMPAIRMENTS 
+  The Company recorded rationalization and asset impairment net charges of   $24,353   in the   nine months ended September 30, 2018  .  The 2018 charges are primarily related to employee severance, asset impairments and gains or losses on the disposal of assets.  A description of the Company's restructuring plans and the related costs is as follows: 
+  During 2018, the Company initiated rationalization plans within International Welding. The plans include headcount restructuring and the consolidation of manufacturing operations to better align the cost structures with economic conditions and operating needs.  At   September 30, 2018  , liabilities of   $9,331   were recognized in Other current liabilities in the Company's Condensed Consolidated Balance Sheet. 
+  During 2017, the Company initiated rationalization plans within International Welding. The plans include headcount restructuring and the consolidation of manufacturing operations to better align the cost structures with economic conditions and operating needs.  Liabilities related to these plans were substantially paid at September 30, 2018. 
+  The Company believes the rationalization actions will positively impact future results of operations and will not have a material effect on liquidity and sources and uses of capital.  The Company continues to evaluate its cost structure and additional rationalization actions may result in charges in future periods.  The following table summarizes the activity related to the rationalization liabilities in the International Welding segment:  
+
+14 
+
+Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+NOTE 7   EQUITY 
+  Changes in equity for the   nine months ended     September 30, 2018   are as follows: 
+
+(1) 
+    The Company's total common shares authorized to be repurchased under the current repurchase program is   55 million   shares.  As of   September 30, 2018  , there remained   7.1 million   common shares available for repurchase under this program.  The repurchased common shares remain in treasury and have not been retired.  
+      
+  The following tables set forth the total changes in accumulated other comprehensive income (loss) ("AOCI") by component, net of taxes, for the   three months ended September 30, 2018   and   2017  :  
+
+15 
+
+     Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+(2) 
+    This AOCI component is included in the computation of net periodic pension costs (net of tax of $  1,278   and $  2,170   during the   three months ended September 30, 2018   and   2017  , respectively).  See Note 12 to the consolidated financial statements for additional details. 
+              (3) 
+    The Other comprehensive income (loss) before reclassifications excludes $  (61)   and $  31   attributable to Non-controlling interests in the   three months ended September 30, 2018   and   2017  , respectively.  
+
+The following tables set forth the total changes in AOCI by component, net of taxes, for the   nine months ended September 30, 2018   and   2017  :  
+
+(2) 
+    The AOCI component is included in the computation of net periodic pension costs (net of tax of   $1,927   and   $2,532   during the   nine months ended September 30, 2018   and   2017  , respectively).  See Note 12 to the consolidated financial statements for additional details. 
+              (3) 
+    The Other comprehensive income (loss) before reclassifications excludes   $(92)   and   $79   attributable to Non-controlling interests in the   nine months ended September 30, 2018   and   2017  , respectively.  
+
+16 
+
+Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+NOTE 8   INVENTORIES 
+  Inventories in the Condensed Consolidated Balance Sheet is comprised of the following components: 
+
+At   September 30, 2018   and   December 31, 2017  , approximately   37%   and   32%   of total inventories were valued using the last-in, first out ("LIFO") method, respectively. The excess of current cost over LIFO cost was   $78,312   at   September 30, 2018   and   $68,641   at   December 31, 2017  .  
+
+NOTE 9   CONTINGENCIES 
+  The Company, like other manufacturers, is subject from time to time to a variety of civil and administrative proceedings arising in the ordinary course of business.  Such claims and litigation include, without limitation, product liability claims, regulatory claims, employment-related claims and health, safety and environmental claims, some of which relate to cases alleging asbestos induced illnesses.  The claimants in the asbestos cases seek compensatory and punitive damages, in most cases for unspecified amounts.  The Company believes it has meritorious defenses to these claims and intends to contest such suits vigorously. 
+  The Company accrues its best estimate of the probable costs, after a review of the facts with management and counsel and taking into account past experience.  For claims or litigation that are material, if an unfavorable outcome is determined to be reasonably possible and the amount of loss can be reasonably estimated, or if an unfavorable outcome is determined to be probable and the amount of loss cannot be reasonably estimated, disclosure would be provided.  Many of the current cases are in differing procedural stages and information on the circumstances of each claimant, which forms the basis for judgments as to the validity or ultimate disposition of such actions, varies greatly.  Therefore, in many situations a range of possible losses cannot be made.  Reserves are adjusted as facts and circumstances change and related management assessments of the underlying merits and the likelihood of outcomes change.  Moreover, reserves only cover identified and/or asserted claims.  Future claims could, therefore, give rise to increases to such reserves. 
+  Based on the Company's historical experience in litigating product liability claims, including a significant number of dismissals, summary judgments and defense verdicts in many cases and immaterial settlement amounts, as well as the Company's current assessment of the underlying merits of the claims and applicable insurance, the Company believes resolution of these claims and proceedings, individually or in the aggregate, will not have a material effect on the Company's consolidated financial statements. 
+
+NOTE 10   PRODUCT WARRANTY COSTS 
+  The changes in the carrying amount of product warranty accruals are as follows: 
+
+(1)  At September 30, 2017, Foreign currency translation and other adjustments includes   $2,114   in an acquired liability related to the Air Liquide Welding acquisition as discussed in Note 4 to the consolidated financial statements. 
+
+17 
+
+Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+NOTE 11           DEBT 
+  Revolving Credit Agreement 
+  The Company has a line of credit totaling   $400,000   through the Amended and Restated Credit Agreement (the  Credit Agreement ).  The Credit Agreement has a   five  -year term and may be increased, subject to certain conditions, by an additional amount up to   $100,000  .  The interest rate on borrowings is based on either the London Inter-Bank Offered Rate ("LIBOR") or the prime rate, plus a spread based on the Company s leverage ratio, at the Company s election.  The Company amended and restated the Credit Agreement on   June 30, 2017  , extending the maturity of the line of credit to   June 30, 2022  .  The Credit Agreement contains customary affirmative, negative and financial covenants for credit facilities of this type, including limitations on the Company and its subsidiaries with respect to liens, investments, distributions, mergers and acquisitions, dispositions of assets, transactions with affiliates and a fixed charges coverage ratio and total leverage ratio.    As of September 30, 2018, the Company was in compliance with all of its covenants   and had no outstanding borrowings under the Credit Agreement.  
+  Senior Unsecured Notes 
+  On   April 1, 2015   and   October 20, 2016  , the Company entered into separate Note Purchase Agreements pursuant to which it issued senior unsecured notes (the "Notes") through a private placement.  The 2015 Notes and 2016 Notes each have an aggregate principal amount of   $350,000  , comprised of four different series ranging from   $50,000   to   $100,000  , with maturity dates ranging from   August 20, 2025   through   April 1, 2045  , and interest rates ranging from   2.75%   and   4.02%  .  Interest on the Notes is paid semi-annually.  The Company's total weighted average effective interest rate and weighted average initial tenure of the Notes is   3.3%   and   18   years, respectively.  The proceeds of the Notes were used for general corporate purposes.  The Notes contain certain affirmative and negative covenants.    As of September 30, 2018, the Company was in compliance with all of its debt covenants   relating to the Notes. 
+
+NOTE 12           RETIREMENT AND POSTRETIREMENT BENEFIT PLANS 
+  The components of total pension cost were as follows: 
+
+(1)  Pension settlement charges resulting from lump sum pension payments in the three and nine months ended September 30, 2018 and 2017. 
+  The defined benefit plan components of Total pension cost, other than service cost, are included Other income (expense) in the Company's Consolidated Statements of Income. 
+
+18 
+
+Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+NOTE 13           OTHER INCOME (EXPENSE) 
+  The components of Other income (expense) were as follows: 
+
+(1)  Other components of net periodic pension (cost) income include pension settlement charges in the three and nine months ended September 30, 2018 of   $4,232   and   $4,990  , respectively, and charges of   $5,283   in the three and nine months ended September 30, 2017.  Refer to Note 12 to the consolidated financial statements for details. 
+   
+  NOTE 14   INCOME TAXES 
+  The Company recognized   $73,991   of tax expense on pretax income of   $274,205  , resulting in an effective income tax rate of   27.0%   for the   nine months ended September 30, 2018  .  The effective income tax rate was   23.7%   for the   nine months ended September 30, 2017  . 
+  The U.S. Tax Cuts and Jobs Act (the  U.S. Tax Act ) was enacted on December 22, 2017.  The SEC staff issued Staff Accounting Bulletin No. 118 ("SAB 118"), which provides for a one-year measurement period and provides guidance for the application of ASC Topic 740,   Income Taxes  .  The Company recognized the income tax effects of the U.S. Tax Act to the extent applicable for 2017, the year of enactment.  The provisional expense recognized in 2017 primarily related to taxes on the Company s unremitted foreign earnings, partially offset by the re-measurement of deferred tax assets and liabilities.  The amounts recorded in 2017 were based on reasonable estimates at that time. 
+  In the first quarter of 2018, the Department of Treasury and Internal Revenue Service issued Treasury Notice 2018-13.  Notice 2018-13 requires the use of the spot exchange rate, instead of the average annual exchange rate, to value unremitted foreign earnings as of December 31, 2017.  Based on this new guidance, in the first quarter of 2018 the Company increased the amount recorded in 2017 related to taxes on unremitted foreign earnings by   $2,500  . The Company recorded an additional adjustment of   $2,394   in the third quarter of 2018 primarily due to higher foreign earnings.  The Company continues to gather additional information and will complete the accounting within the prescribed measurement period. 
+  The increase in the effective tax rate for the   nine months ended     September 30, 2018  , as compared with the same period in 2017, was primarily due to the nontaxable bargain purchase gain recorded in the third quarter of 2017 in connection with the Air Liquide Welding acquisition, 2018 rationalization charges in regions with low or no tax benefit and 2018 adjustments and incremental tax expense related to the U.S. Tax Act.  The 2018 incremental tax expense is the result of the Global Intangible Low-Taxed Income ( GILTI ) provisions of the U.S. Tax Act, partially offset by the Foreign-Derived Intangible Income ( FDII ) provisions.  The amount recorded is based on a reasonable estimate as of   September 30, 2018  .  The Company has not determined its accounting policy with respect to GILTI and has therefore included the 2018 estimate as a period cost and included as part of the estimated annual effective tax rate.  The Company is continuing to gather additional information to complete its analysis within the prescribed measurement period.  The Company is also continuing to analyze applicability of the Base Erosion Anti-Abuse Tax ("BEAT") and the interest expense limitation during the prescribed period.  
+  As of   September 30, 2018  , the Company had   $15,683   of unrecognized tax benefits.  If recognized, approximately   $12,075   would be reflected as a component of income tax expense. 
+  The Company files income tax returns in the U.S. and various state, local and foreign jurisdictions.  With few exceptions, the Company is no longer subject to U.S. federal, state and local or non-U.S. income tax examinations by tax authorities for years before 2014.  The Company is currently subject to U.S., various state and non-U.S. income tax audits.   
+  Unrecognized tax benefits are reviewed on an ongoing basis and are adjusted for changing facts and circumstances, including progress of tax audits and closing of statutes of limitations.  Based on information currently available, management believes that additional audit activity could be completed and/or statutes of limitations may close relating to existing unrecognized tax benefits.  It is reasonably possible there could be a reduction of   $2,000   in previously unrecognized tax benefits by the end of the   third quarter     2019  . 
+  
+   19 
+
+Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+NOTE 15   DERIVATIVES 
+  The Company uses derivative instruments to manage exposures to currency exchange rates, interest rates and commodity prices arising in the normal course of business.  Both at inception and on an ongoing basis, the derivative instruments that qualify for hedge accounting are assessed as to their effectiveness, when applicable.    Hedge ineffectiveness was immaterial in the nine months ended September 30, 2018 and 2017. 
+  The Company is subject to the credit risk of the counterparties to derivative instruments.  Counterparties include a number of major banks and financial institutions.  None of the concentrations of risk with any individual counterparty was considered significant at   September 30, 2018  .  The Company does not expect any counterparties to fail to meet their obligations. 
+  Cash Flow Hedges 
+  Certain foreign currency forward contracts were qualified and designated as cash flow hedges.  The dollar equivalent gross notional amount of these short-term contracts was   $52,450   at   September 30, 2018   and   $35,489   at   December 31, 2017  .  
+  Fair Value Hedges 
+  Certain interest rate swap agreements were qualified and designated as fair value hedges.  At   September 30, 2018  , the Company had interest rate swap agreements outstanding that effectively convert notional amounts of   $125,000   of debt from a fixed interest rate to a variable interest rate based on three-month LIBOR plus a spread of between   0.5%   and   1.8%  .  The variable rates reset every three months, at which time payment or receipt of interest will be settled.   
+  Net Investment Hedges 
+  From time to time, the Company executes foreign currency forward contracts that qualify and are designated as net investment hedges.  No such contracts were outstanding at   September 30, 2018   and   December 31, 2017  . 
+  Derivatives Not Designated as Hedging Instruments 
+  The Company has certain foreign exchange forward contracts that are not designated as hedges.  These derivatives are held as economic hedges of certain balance sheet exposures.  The dollar equivalent gross notional amount of these contracts was   $334,722   at   September 30, 2018   and   $340,884   at   December 31, 2017  .   
+  Fair values of derivative instruments in the Company s Condensed Consolidated Balance Sheets follow: 
+
+The effects of undesignated derivative instruments on the Company s Consolidated Statements of Income consisted of the following: 
+
+20 
+
+     Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+The effects of designated hedges on AOCI and the Company s Consolidated Statements of Income consisted of the following: 
+
+The Company expects a   gain   of   $392   related to existing contracts to be reclassified from AOCI, net of tax, to earnings over the next   12 months   as the hedged transactions are realized.  
+
+NOTE 16 - FAIR VALUE 
+  The following table provides a summary of assets and liabilities as of   September 30, 2018  , measured at fair value on a recurring basis: 
+
+21 
+
+     Table of Contents  
+  LINCOLN ELECTRIC HOLDINGS, INC. 
+  NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+  Dollars in thousands, except per share amounts 
+
+The following table provides a summary of assets and liabilities as of   December 31, 2017  , measured at fair value on a recurring basis: 
+
+During the   nine months ended September 30, 2018  , there were no transfers between Levels 1, 2 or 3.   
+  The Company s derivative contracts are valued at fair value using the market approach.  The Company measures the fair value of foreign exchange contracts, net investment contracts and interest rate swap agreements using Level 2 inputs based on observable spot and forward rates in active markets.   
+  The Company measures the fair value of marketable securities using Level 2 inputs based on quoted market prices for similar assets in active markets. 
+  In connection with acquisitions, the Company recorded contingent consideration liabilities, which will be paid based upon actual financial results of the acquired entity for specified future periods.  The fair value of the contingent considerations are a Level 3 valuation and fair valued using either a probability weighted discounted cash flow analysis or an option pricing model. 
+  The deferred compensation liability is the Company s obligation under its executive deferred compensation plan.  The Company measures the fair value of the liability using the market values of the participants  underlying investment fund elections. 
+  The fair value of Cash and cash equivalents, Accounts receivable, Short-term debt excluding the current portion of long-term debt and Trade accounts payable approximated book value due to the short-term nature of these instruments at both   September 30, 2018   and   December 31, 2017  .  The fair value of long-term debt at   September 30, 2018   and   December 31, 2017  , including the current portion, was approximately   $631,600   and   $687,428  , respectively, which was determined using available market information and methodologies requiring judgment.  The carrying value of this debt at such dates was   $698,578   and   $704,247  , respectively.  Since considerable judgment is required in interpreting market information, the fair value of the debt is not necessarily the amount that could be realized in a current market exchange. 
+  
+   22 
+
+Table of Contents  
+
+ITEM 2.  MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Dollars in thousands, except per share amounts  ) 
+  This Management s Discussion and Analysis of Financial Condition and Results of Operations should be read together with the Company s unaudited consolidated financial statements and other financial information included elsewhere in this Quarterly Report on Form 10-Q. 
+   
+  General 
+  The Company is the world s largest designer and manufacturer of arc welding and cutting products, manufacturing a broad line of arc welding equipment, consumable welding products and other welding and cutting products.  Welding products include arc welding power sources, CNC and plasma cutters, wire feeding systems, robotic welding packages, integrated automation systems, fume extraction equipment, consumable electrodes, fluxes and welding accessories and specialty welding consumables and fabrication.  The Company's product offering also includes oxy-fuel cutting systems and regulators and torches used in oxy-fuel welding, cutting and brazing.  In addition, the Company has a leading global position in the brazing and soldering alloys market. 
+  The Company s products are sold in both domestic and international markets.  In the Americas, products are sold principally through industrial distributors, retailers and directly to users of welding products.  Outside of the Americas, the Company has an international sales organization comprised of Company employees and agents who sell products from the Company s various manufacturing sites to distributors and product users.  
+  The Company's business units are aligned into   three   operating segments.  The operating segments consist of Americas Welding, International Welding and The Harris Products Group.  The Americas Welding segment includes welding operations in North and South America.  The International Welding segment includes welding operations in Europe, Africa, Asia and Australia.  The Harris Products Group includes the Company s global cutting, soldering and brazing businesses as well as its retail business in the United States. 
+  The U.S. Tax Cuts and Jobs Act (the "U.S. Tax Act") was enacted on December 22, 2017.  The U.S. Tax Act represents major tax reform legislation that, among other provisions, reduces the U.S. corporate tax rate.  The SEC staff issued Staff Accounting Bulletin No. 118 ("SAB 118"), which provides for a one-year measurement period and provides guidance for the application of ASC Topic 740,   Income Taxes  .  In accordance with SAB 118, the Company recognized the income tax effects of U.S. Tax Act to the extent applicable for 2017, the year of enactment.  The Company's financial results reflect provisional amounts for the impact of the U.S. Tax Act for which accounting analysis under ASC Topic 740 is ongoing.  Refer to Note 14 to the consolidated financial statements for further information on the financial statement impact of the U.S. Tax Act.  
+
+23 
+
+Table of Contents  
+
+Results of Operations 
+  The following table shows the Company's results of operations:    
+
+24 
+
+     Table of Contents  
+
+Net Sales: 
+  The following tables summarize the impact of volume, acquisitions, price and foreign currency exchange rates on Net sales for the three and   nine months ended September 30, 2018   on a consolidated basis: 
+
+Net sales increased in the three and   nine months ended September 30, 2018   primarily as a result of acquisitions and stronger organic sales.  The increase in Net sales from acquisitions was driven by the acquisition of Air Liquide Welding within Americas Welding and International Welding.  
+  Gross Profit:   
+  Gross profit for the three and   nine months ended September 30, 2018   increased, as a percent of sales, compared to the prior year due to price management and segment mix.  The three and nine months ended September 30, 2018 includes a last-in, first-out ("LIFO") charge of $3,498 and $9,671, respectively, as compared to with a LIFO charge of $2,196 and $5,855, respectively, in the three and nine months ended September 30, 2017. 
+  Selling, General   Administrative ("SG A") Expenses: 
+  The increase in SG A expenses for the three and nine months ended September, 2018 as compared to   September 30, 2017   is due to higher expense from acquisitions and higher compensation costs, partially offset by lower acquisition transaction and integration costs. 
+  Rationalization and Asset Impairment Charges: 
+  The Company recorded net charges of $2,636, $2,575 after-tax, and $24,353, $20,807 after-tax, in the three and   nine months ended     September 30, 2018  , respectively, primarily related to severance, asset impairments and gains or losses on the disposal of assets. 
+  Bargain Purchase Gain: 
+  In the three and nine months ended September 30, 2017, the Company recorded a bargain purchase gain of $51,585 related to the Air Liquide Welding acquisition.  See Note 4 to the consolidated financial statements for additional information. 
+  Interest Expense, Net: 
+  The decrease in Interest expense, net for the three and   nine months ended September 30, 2018   as compared to   September 30, 2017   was due to higher interest income on marketable securities in 2018. 
+  Other Income (Expense): 
+  The decrease in Other income (expense) for the three months ended September 30, 2018 as compared to September 30, 2017 was due to lower equity earnings in affiliates and higher net periodic pension cost. 
+  The decrease in Other income (expense) for the nine months ended September 30, 2018 as compared to September 30, 2017 was due to higher net periodic pension cost, partially offset by higher equity earnings in affiliates. 
+  Income Taxes: 
+  The effective tax rate was higher for the three and   nine months ended September 30, 2018   as compared to   September 30, 2017   primarily due to the nontaxable bargain purchase gain recorded in the third quarter of 2017 in connection with the Air Liquide  
+  
+   25 
+
+     Table of Contents  
+
+Welding acquisition, 2018 rationalization charges in regions with low or no tax benefits and 2018 adjustments related to the U.S. Tax Act. The increase was offset by the U.S. Tax Act s reduction of the U.S. corporate income tax rate. 
+  Net Income: 
+  Net income for the three and   nine months ended September 30, 2018   decreased as compared to the prior year periods primarily due to the bargain purchase gain in 2017 and higher SG A costs in 2018 partially offset by stronger organic sales. 
+   
+  Segment Results 
+  Net Sales:    The tables below summarize the impact of volume, acquisitions, price and foreign currency exchange rates on Net sales for the three and   nine months ended September 30, 2018  : 
+
+(1)  Increase for Americas Welding due to improving demand in a broad range of end markets.  Decrease for International Welding due to repositioning of the Company's channel strategy in the European market and restructuring activities.  
+  (2)  Increase due to the acquisition of Air Liquide Welding within Americas Welding and International Welding.  Refer to Note 4 to the consolidated financial statements for details. 
+  (3)  Increase for Americas Welding and International Welding segments due to increased product pricing as a result of higher input costs. 
+
+(1)  Increase for Americas Welding due to improving demand in a broad range of end markets.  Decrease for International Welding due to repositioning of the Company's channel strategy in the European market and restructuring activities.  Increase for The Harris Products Group driven primarily by demand in the retail sector. 
+  (2)  Increase due to the acquisition of Air Liquide Welding within Americas Welding and International Welding.  Refer to Note 4 to the consolidated financial statements for details. 
+  (3)  Increase for Americas Welding and International Welding segments due to increased product pricing as a result of higher input costs. 
+  
+   26 
+
+     Table of Contents  
+
+Adjusted Earnings Before Interest and Income Taxes:     
+  Segment performance is measured and resources are allocated based on a number of factors, the primary profit measure being Adjusted EBIT.  EBIT is defined as Operating income plus Other income (expense).  EBIT is adjusted for special items as determined by management such as the impact of rationalization activities, certain asset impairment charges and gains or losses on disposals of assets. 
+  The following table presents Adjusted EBIT by segment: 
+
+(3) 
+    Decrease for the three months ended September 30, 2018 as compared to September 30, 2017 driven by lower demand in certain end markets and decreased commodity pricing. 
+               (5) 
+    The three months ended September 30, 2018 excludes rationalization charges of $2,636 related to severance, asset impairments and gains or losses on the disposal of assets.  The three months ended September 30, 2017 excludes amortization of step up in value of acquired inventories of $2,314 related to the Air Liquide Welding acquisition as discussed in Note 4 to the consolidated financial statements.   
+     
+   27 
+
+     Table of Contents  
+
+(7) 
+    See non-GAAP Financial Measures for a reconciliation of Net income as reported and Adjusted EBIT. 
+     The following table presents Adjusted EBIT by segment for the   nine months ended     September 30, 2018  : 
+
+(2) 
+    Decrease for the   nine months ended September 30, 2018   as compared to   September 30, 2017   driven by lower Net sales volumes and the impact of the Air Liquide Welding acquisition. 
+               (4) 
+    The   nine months ended September 30, 2018   excludes rationalization charges of $24,353 related to severance, asset impairments and gains or losses on the disposal of assets.  The nine months ended September 30, 2017 excludes amortization of step up in value of acquired inventories of $2,314 related to the Air Liquide Welding acquisition as discussed in Note 4 to the consolidated financial statements.   
+      
+   28 
+
+     Table of Contents  
+
+(6) 
+    See non-GAAP Financial Measures for a reconciliation of Net income as reported and Adjusted EBIT. 
+
+Non-GAAP Financial Measures 
+  The Company reviews Adjusted operating income, Adjusted EBIT, Adjusted net income, Adjusted diluted earnings per share and Return on invested capital, all non-GAAP financial measures, in assessing and evaluating the Company's underlying operating performance.  These non-GAAP financial measures exclude the impact of special items on the Company's reported financial results.  Non-GAAP financial measures should be read in conjunction with the generally accepted accounting principles in the United States ("GAAP") financial measures, as non-GAAP financial measures are a supplement to, and not a replacement for, GAAP financial measures.  
+   
+  The following table presents the reconciliation of both Net income as reported to Adjusted operating income and Adjusted     EBIT as well as Diluted earnings per share as reported to Adjusted diluted earnings per share: 
+
+(1)  C  harges primarily related to severance, asset impairments and gains or losses on the disposal of assets as discussed in Note 6 to the consolidated financial statements. 
+  (2)  Costs and a bargain purchase gain related to the Air Liquide Welding acquisition as discussed in Note 4 to the consolidated financial statements. 
+  (3)    P  ension settlement charges related to lump sum pension payments as discussed in Note 12 to the consolidated financial statements. 
+  
+   29 
+
+     Table of Contents  
+
+(4)  Includes the net tax impact of Special items recorded during the respective periods, including the net impact of the U.S. Tax act of $2,323 and $4,823 in the three and nine months ended September 30, 2018, respectively. 
+  The tax effect of Special items impacting pre-tax income was calculated as the pre-tax amount multiplied by the applicable tax rate.  The applicable tax rates reflect the taxable jurisdiction and nature of each Special item. 
+   
+  Liquidity and Capital Resources 
+  The Company s cash flow from operations can be cyclical.  Operational cash flow is a key driver of liquidity, providing cash and access to capital markets.  In assessing liquidity, the Company reviews working capital measurements to define areas for improvement.  Management anticipates the Company will be able to satisfy cash requirements for its ongoing businesses for the foreseeable future primarily with cash generated by operations, existing cash balances, borrowings under its existing credit facilities and raising debt in capital markets. 
+  The Company continues to expand globally and periodically looks at transactions that would involve significant investments.  The Company can fund its global expansion plans with operational cash flow, but a significant acquisition may require access to capital markets, in particular, the long-term debt market, as well as the syndicated bank loan market.  The Company s financing strategy is to fund itself at the lowest after-tax cost of funding.  Where possible, the Company utilizes operational cash flows and raises capital in the most efficient market, usually the United States, and then lends funds to the specific subsidiary that requires funding.  If additional acquisitions providing appropriate financial benefits become available, additional expenditures may be made. 
+  The following table reflects changes in key cash flow measures:  
+
+(1)  Cash provided by operating activities decreased for the   nine months ended September 30, 2018  , compared with the   nine months ended September 30, 2017   primarily due to changes in cash flows from operating working capital. 
+  (2)  Cash provided by investing activities increased for the   nine months ended September 30, 2018  , compared with the   nine months ended September 30, 2017   predominantly due to the proceeds from marketable securities in 2018.  The Company currently anticipates capital expenditures of $60,000 to $70,000 in   2018  .  Anticipated capital expenditures include investments for capital maintenance to improve operational effectiveness.  Management critically evaluates all proposed capital expenditures and expects each project to increase efficiency, reduce costs, promote business growth or improve the overall safety and environmental conditions of the Company s facilities. 
+  (3)  Cash used by financing activities   increased   in the   nine months ended September 30, 2018  , compared with the   nine months ended September 30, 2017   due to higher purchases of common shares for treasury. 
+  (4)  Cash and cash equivalents   increased     21.9%  , or   $71,499  , to   $398,200   during the   nine months ended September 30, 2018  , from   $326,701   as of   December 31, 2017  .  This   increase   was predominantly due to cash provided by operating activities and proceeds from marketable securities partially offset by purchases of common shares for treasury and cash dividends paid to shareholders.      The   increase   in Cash and cash equivalents during the   nine months ended September 30, 2018   compares to a   decrease   of   21.0%   during the   nine months ended September 30, 2017  .  The decrease in 2017 was primarily due to cash used for the acquisition of businesses, the purchase of marketable securities and cash dividends paid to shareholders, partially offset by cash provided by operating activities.  At   September 30, 2018  , $360,015 of Cash and cash equivalents was held by international subsidiaries. 
+
+30 
+
+     Table of Contents  
+
+The Company's total debt remained consistent as compared to   December 31, 2017  .  Total debt to total invested capital decreased to   43.0%   at   September 30, 2018   from   43.1%   at   December 31, 2017  . 
+  In October 2018, the Company paid a cash dividend of   $0.39   per share, or   $25,134  , to shareholders of record as of September 28, 2018. 
+  Working Capital Ratios 
+
+(1)  Average operating working capital to net sales is defined as the sum of Accounts receivable and Inventories less Trade accounts payable as of period end divided by annualized rolling three months of Net sales. 
+  
+   31 
+
+Table of Contents  
+
+Return on Invested Capital 
+  The Company reviews return on invested capital ("ROIC") in assessing and evaluating the Company's underlying operating performance.  ROIC is a non-GAAP financial measure that the Company believes is a meaningful metric to investors in evaluating the Company s financial performance and may be different than the method used by other companies to calculate ROIC.  ROIC is defined as rolling 12 months of Adjusted net income excluding tax-effected interest income and expense divided by invested capital.  Invested capital is defined as total debt, which includes Short-term debt and Long-term debt, less current portions, plus Total equity. 
+  ROIC for the twelve months ended   September 30, 2018   and   2017   were as follows: 
+
+(1) 
+    Includes the net tax impact of Special items recorded during the respective periods, including the net impact of the U.S. Tax act of $33,439 in the twelve months ended September 30, 2018. 
+     The tax effect of Special items impacting pre-tax income was calculated as the pre-tax amount multiplied by the applicable tax rate.  The applicable tax rates reflect the taxable jurisdiction and nature of each Special item. 
+
+New Accounting Pronouncements 
+  Refer to Note 1 to the consolidated financial statements for a discussion of new accounting pronouncements. 
+
+Acquisitions 
+  Refer to Note 4 to the consolidated financial statements for a discussion of the Company's recent acquisitions. 
+
+Debt 
+  The Company has a line of credit totaling   $400,000   through the Amended and Restated Credit Agreement (the  Credit Agreement ).  The Credit Agreement has a   five  -year term and may be increased, subject to certain conditions, by an additional amount up to   $100,000  .  The interest rate on borrowings is based on either the London Inter-Bank Offered Rate ("LIBOR") or the prime rate, plus a spread based on the Company s leverage ratio, at the Company s election.  The Company amended and restated the Credit Agreement on   June 30, 2017  , extending the maturity of the line of credit to   June 30, 2022  .  The Credit Agreement contains customary affirmative, negative and financial covenants for credit facilities of this type, including  
+  
+   32 
+
+     Table of Contents  
+
+limitations on the Company and its subsidiaries with respect to liens, investments, distributions, mergers and acquisitions, dispositions of assets, transactions with affiliates and a fixed charges coverage ratio and total leverage ratio.    As of September 30, 2018, the Company was in compliance with all of its covenants   and had no outstanding borrowings under the Credit Agreement.  
+  Senior Unsecured Notes 
+  On   April 1, 2015   and   October 20, 2016  , the Company entered into separate Note Purchase Agreements pursuant to which it issued senior unsecured notes (the "Notes") through a private placement.  The 2015 Notes and 2016 Notes each have an aggregate principal amount of $350,000, comprised of four different series ranging from   $50,000   to   $100,000  , with maturity dates ranging from   August 20, 2025   through   April 1, 2045  , and interest rates ranging from   2.75%   and   4.02%  .  Interest on the Notes is paid semi-annually.  The Company's total weighted average effective interest rate and weighted average initial tenure of the Notes is   3.3%   and   18   years, respectively.  The proceeds of the Notes were used for general corporate purposes.  The Notes contain certain affirmative and negative covenants.    As of September 30, 2018, the Company was in compliance with all of its debt covenants   relating to the Notes. 
+
+Forward-looking Statements 
+  The Company s expectations and beliefs concerning the future contained in this report are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.  These statements reflect management s current expectations and involve a number of risks and uncertainties.  Forward-looking statements generally can be identified by the use of words such as  may,   will,   expect,   intend,   estimate,   anticipate,   believe,   forecast,   guidance  or words of similar meaning.  Actual results may differ materially from such statements due to a variety of factors that could adversely affect the Company s operating results.  The factors include, but are not limited to: general economic and market conditions; the effectiveness of operating initiatives; completion of planned divestitures; interest rates; disruptions, uncertainty or volatility in the credit markets that may limit our access to capital; currency exchange rates and devaluations; adverse outcome of pending or potential litigation; actual costs of the Company s rationalization plans; possible acquisitions, including the Company s ability to successfully integrate the Air Liquide Welding business acquisition; market risks and price fluctuations related to the purchase of commodities and energy; global regulatory complexity; the effects of changes in tax law; tariff rates in the countries where the Company conducts business; and the possible effects of events beyond our control, such as political unrest, acts of terror and natural disasters, on the Company or its customers, suppliers and the economy in general.  For additional discussion, see  Item 1A. Risk Factors  in the Company s Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+  There have been no material changes in the Company s exposure to market risk since   December 31, 2017  .  See  Item 7A.  Quantitative and Qualitative Disclosures About Market Risk  in the Company s Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+
+ITEM 4.  CONTROLS AND PROCEDURES 
+  Evaluation of Disclosure Controls and Procedures 
+  The Company carried out an evaluation under the supervision and with the participation of the Company s management, including the Company s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures as of the end of the period covered by this Quarterly Report on Form 10-Q.  Based on that evaluation, the Company s management, including the Chief Executive Officer and Chief Financial Officer, concluded that the Company s disclosure controls and procedures were effective as of   September 30, 2018  . 
+  Changes in Internal Control Over Financial Reporting 
+  Beginning January 1, 2018, the Company implemented ASU 2014-09,    Revenue from Contracts with Customers (Topic 606)   .  Although the new revenue standard is expected to have an immaterial impact on the consolidated financial statements on an ongoing basis, the Company implemented changes to processes related to revenue recognition and associated control activities. 
+  There have been no other changes in the Company s internal control over financial reporting during the quarter ended   September 30, 2018   that materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+33 
+
+Table of Contents  
+
+PART II.  OTHER INFORMATION 
+   
+  ITEM 1.  LEGAL PROCEEDINGS 
+  The Company is subject, from time to time, to a variety of civil and administrative proceedings arising out of its normal operations, including, without limitation, product liability claims, regulatory claims and health, safety and environmental claims.  Among such proceedings are the cases described below. 
+  As of   September 30, 2018  , the Company was a co-defendant in cases alleging asbestos-induced illness involving claims by approximately   3,469   plaintiffs, which is a net   decrease   of   38   claims from those previously reported.  In each instance, the Company is one of a large number of defendants.  The asbestos claimants seek compensatory and punitive damages, in most cases for unspecified sums.  Since January 1, 1995, the Company has been a co-defendant in other similar cases that have been resolved as follows:   54,922   of those claims were dismissed,   23   were tried to defense verdicts,   7   were tried to plaintiff verdicts (which were reversed or resolved after appeal),   1   was resolved by agreement for an immaterial amount and   794   were decided in favor of the Company following summary judgment motions. 
+
+ITEM 1A. RISK FACTORS 
+  In addition to the other information set forth in this report, the reader should carefully consider the factors discussed in  Item 1A. Risk Factors  in the Company s Annual Report on Form 10-K for the year ended   December 31, 2017  , which could materially affect the Company s business, financial condition or future results. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+  Issuer purchases of its common shares during the   third quarter   of   2018   were as follows: 
+
+_______________________________________________________________________________ 
+           (1) 
+    The above share repurchases include the surrender of the Company's common shares in connection with the vesting of restricted awards.  
+              (2) 
+    On April 20, 2016, the Company announced that the Board of Directors authorized a new share repurchase program, which increased the total number of the Company's common shares authorized to be repurchased to   55 million   shares.  Total shares purchased through the share repurchase programs were   47.9 million   shares at a total cost of   $1.8 billion   for a weighted average cost of   $37.62   per share through   September 30, 2018  . 
+
+34 
+
+Table of Contents  
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+  Not applicable. 
+
+ITEM 6.  EXHIBITS 
+  (a) Exhibits 
+                    31.1  
+      
+    Certification of the Chairman, President and Chief Executive Officer (Principal Executive Officer) pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934. 
+       31.2  
+      
+    Certification of the Executive Vice President, Chief Financial Officer and Treasurer (Principal Financial Officer) pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934. 
+       32.1  
+      
+    Certification of the Chairman, President and Chief Executive Officer (Principal Executive Officer) and Executive Vice President, Chief Financial Officer and Treasurer (Principal Financial Officer) pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+      
+    XBRL Instance Document 
+      101.SCH 
+      
+    XBRL Taxonomy Extension Schema Document 
+      101.CAL 
+      
+    XBRL Taxonomy Extension Calculation Linkbase Document 
+      101.LAB 
+      
+    XBRL Taxonomy Extension Label Linkbase Document 
+      101.PRE 
+      
+    XBRL Taxonomy Extension Presentation Linkbase Document 
+      101.DEF 
+      
+    XBRL Taxonomy Extension Definition Linkbase Document 
+
+35 
+
+Table of Contents  
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+LINCOLN ELECTRIC HOLDINGS, INC. 
+
+/s/ Geoffrey P. Allman 
+
+Geoffrey P. Allman 
+
+Senior Vice President, Corporate Controller 
+
+(principal accounting officer) 
+
+October 26, 2018 
+
+36 
+
+<EX-31.1>
+ 2
+ exhibit311q32018.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  CERTIFICATION 
+  I, Christopher L. Mapes, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Lincoln Electric Holdings, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                   Date: October 26, 2018 
+
+/s/ Christopher L. Mapes 
+
+Christopher L. Mapes 
+  Chairman, President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit312q32018.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATION 
+  I, Vincent K. Petrella, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Lincoln Electric Holdings, Inc.; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                   Date: October 26, 2018 
+
+/s/ Vincent K. Petrella 
+
+Vincent K. Petrella 
+  Executive Vice President, Chief Financial 
+  Officer and Treasurer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit321q32018.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+    
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  In connection with the Quarterly Report on Form 10-Q of Lincoln Electric Holdings, Inc. (the "Company") for the   three months ended September 30, 2018  , as filed with the Securities and Exchange Commission (the "Report"), each of the undersigned officers of the Company certifies, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that, to such officer's knowledge: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of the dates and for the periods expressed in the Report. 
+       
+                   Date: October 26, 2018 
+
+/s/ Christopher L. Mapes 
+
+Christopher L. Mapes 
+  Chairman, President and Chief Executive Officer 
+
+/s/ Vincent K. Petrella 
+
+Vincent K. Petrella 
+  Executive Vice President, Chief Financial 
+  Officer and Treasurer 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ leco-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ leco-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ leco-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ leco-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ leco-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ leco-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,845 @@
+TES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-Q 
+    
+  Quarterly Report Pursuant to Section 13 or 15 (d) of the 
+  Securities Exchange Act of 1934 
+    
+  For the quarterly period ended   September 28, 2018 
+    
+  Commission File Number:    001-09249 
+    
+                  GRACO INC. 
+      (Exact name of registrant as specified in its charter)      
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+                             
+    Yes 
+    X 
+      
+    No 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+                             
+    Yes 
+    X 
+      
+    No 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+                             Large accelerated filer 
+    X 
+    Accelerated filer 
+      
+    Non-accelerated filer 
+      
+    Smaller reporting company 
+      
+      Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ___ 
+    
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+                             
+    Yes 
+
+No 
+    X 
+
+166,437,000   shares of the Registrant s Common Stock, $1.00 par value, were outstanding as of   October 18, 2018  . 
+
+TABLE OF CONTENTS    
+
+Page 
+      PART I  -  FINANCIAL INFORMATION 
+
+Item 1. 
+      
+     Financial Statements  
+
+Consolidated Statements of Earnings  
+    3 
+
+Consolidated Statements of Comprehensive Income  
+    3 
+
+Consolidated Balance Sheets  
+    4 
+
+Consolidated Statements of Cash Flows  
+    5 
+
+Consolidated Statements of Shareholders' Equity  
+    6 
+
+Notes to Consolidated Financial Statements  
+    7 
+
+Item 2. 
+      
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    16 
+
+Item 3. 
+      
+     Quantitative and Qualitative Disclosures About Market Risk  
+    21 
+
+Item 4. 
+      
+     Controls and Procedures  
+    21 
+
+PART II  -  OTHER INFORMATION 
+
+Item 1A. 
+      
+     Risk Factors  
+    22 
+
+Item 2. 
+      
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    22 
+
+Item 6. 
+      
+     Exhibits  
+    23 
+
+SIGNATURES  
+
+EXHIBITS 
+
+2 
+
+Table of Contents  
+
+PART I     Item 1. 
+   
+  GRACO INC. AND SUBSIDIARIES 
+  CONSOLIDATED STATEMENTS OF EARNINGS 
+  (Unaudited) (In thousands except per share amounts) 
+
+See notes to consolidated financial statements. 
+
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+  (Unaudited) (In thousands) 
+
+See notes to consolidated financial statements. 
+  
+   3 
+
+Table of Contents  
+
+GRACO INC. AND SUBSIDIARIES 
+  CONSOLIDATED BALANCE SHEETS 
+  (Unaudited) (In thousands)   
+
+  See notes to consolidated financial statements. 
+  
+   4 
+
+Table of Contents  
+
+GRACO INC. AND SUBSIDIARIES 
+  CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (Unaudited) (In thousands)   
+
+  See notes to consolidated financial statements. 
+  
+   5 
+
+Table of Contents  
+
+GRACO INC. AND SUBSIDIARIES 
+  CONSOLIDATED STATEMENTS OF SHAREHOLDERS  EQUITY 
+  (Unaudited) (In thousands) 
+
+See notes to consolidated financial statements. 
+  
+   6 
+
+Table of Contents  
+
+GRACO INC. AND SUBSIDIARIES 
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+  (Unaudited) 
+   
+  1.  Basis of Presentation 
+    
+  The consolidated balance sheet of Graco Inc. and Subsidiaries (the  Company ) as of   September 28, 2018   and the related statements of earnings and comprehensive income for the   three and nine   months ended   September 28, 2018   and   September 29, 2017  , and cash flows for the   nine months   ended   September 28, 2018   and   September 29, 2017   have been prepared by the Company and have not been audited. 
+    
+  In the opinion of management, these consolidated financial statements reflect all adjustments (consisting of only normal recurring adjustments) necessary to present fairly the financial position of the Company as of   September 28, 2018  , and the results of operations and cash flows for all periods presented. Certain prior year disclosures have been revised to conform to current year reporting. 
+    
+  Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted. Therefore, these statements should be read in conjunction with the financial statements and notes thereto included in the Company s   2017   Annual Report on Form 10-K. 
+    
+  The results of operations for interim periods are not necessarily indicative of results that will be realized for the full fiscal year. 
+
+2.  Revenue Recognition 
+    
+  Adoption of New Accounting Standard 
+    
+  In May 2014, the Financial Accounting Standards Board (FASB) issued a final standard on revenue from contracts with customers, contained in Accounting Standards Codification Topic 606 ( ASC 606 ). The new standard sets forth a single comprehensive model for recognizing and reporting revenue.  ASC 606 was effective for the Company as of December 30, 2017, the beginning of our fiscal year 2018. The Company adopted the new accounting standard using the modified retrospective transition approach. Application of the transition requirements had no material impact on operations or beginning retained earnings.  
+    
+  We record revenue under ASC 606 at a single point in time, when control is transferred to the customer, which is consistent with past practice. Under ASC 606, rights of return are recorded as a refund liability and a recovery asset is established for the value of product expected to be returned. We previously classified rights of return, net of amounts expected to be recovered, as an allowance reducing accounts receivable. We reclassified prior period balance sheet amounts to conform to ASC 606 requirements. This resulted in an increase in accounts receivable of   $9.7 million  , a recovery asset of   $1.7 million   included in other current assets and   $11.4 million   of refund liability included in other current liabilities as of   December 29, 2017  .  
+    
+  Accounting Policy 
+    
+  Revenue is recognized upon the satisfaction of performance obligations, which occurs when control of the good or service transfers to the customer. This is generally on the date of shipment; however certain sales have terms requiring recognition when received by the customer. In cases where there are specific customer acceptance provisions, revenue is recognized at the later of customer acceptance or shipment (subject to shipping terms). Payment terms are established based on the type of product, distributor capabilities and competitive market conditions. We generally determine standalone selling prices based on the prices charged to customers for all material performance obligations.  
+    
+  Variable consideration is accounted for as a price adjustment (sales adjustment). Following are examples of variable consideration that affect the Company's reported revenue. Early payment discounts are provided to certain customers and within certain regions. Rights of return are typically contractually limited, amounts are estimable, and the Company records provisions for anticipated returns at the time revenue is recognized. This includes promotions when, from time to time, the Company may promote the sale of new products by agreeing to accept returns of superseded products. Trade promotions are offered to distributors and end users through various programs, generally with terms of one year or less. Such promotions include rebates based on annual purchases and sales growth, coupons and reimbursement for competitive products. Payment of incentives may take the form of cash, trade credit, promotional merchandise or  
+  
+   7 
+
+     Table of Contents  
+
+free product. Rebates are accrued based on the program rates and progress toward the probability weighted estimate of annual sales amount and sales growth. 
+    
+  Additional promotions include cooperative advertising arrangements. Under cooperative advertising arrangements, the Company reimburses the distributor for a portion of its advertising costs related to the Company s products; estimated costs are accrued at the time of sale and classified as selling, marketing and distribution expense. The estimated costs related to coupon programs are accrued at the time of sale and classified as selling, marketing and distribution expense or cost of products sold, depending on the type of incentive offered. The considerations payable to customers are deemed as broad based and are not recorded against net sales.  
+    
+  Shipping and handling costs incurred for the delivery of goods to customers are included in cost of goods sold. Amounts billed to customers for shipping and handling are included in net sales. 
+    
+  Deferred Revenues 
+    
+  We defer revenue when cash payments are received or due in advance of our performance, including amounts which are refundable. This is also the case for services associated with certain product sales. The balance in the deferred revenue and customer advances was   $45.1 million   as of   September 28, 2018   and   $22.6 million   as of   December 29, 2017  . The increase from year-end 2017 includes   $21.6 million   related to a business acquired in 2018. Net sales for the year to date included   $21.8 million   that was in deferred revenue and customer advances as of December 29, 2017. 
+    
+  Our payment terms vary by the type and location of our customer and the products or services offered. The term between invoicing and when payment is due is not significant. For certain products or services and customer types, we require payment before the products or services are delivered to the customer  . 
+    
+  Practical Expedients and Exemptions 
+    
+  We have made an accounting policy election to account for shipping and handling activities that occur after control of the related good transfers as fulfillment activities instead of assessing such activities as performance obligations. 
+    
+  We have made an accounting policy election to exclude from the transaction price all sales taxes related to revenue producing transactions collected from the customer for a governmental authority. 
+    
+  We apply the new revenue standard requirements to a portfolio of contracts (or performance obligations) with similar characteristics for transactions where it is expected that the effects on the financial statements of applying the revenue recognition guidance to the portfolio would not differ materially from applying this guidance to the individual contracts (or performance obligations) within that portfolio  . 
+    
+  We have made an accounting policy election to not assess whether promised goods or services are performance obligations if they are immaterial in the context of the contract with the customer.  If the revenue related to a performance obligation that includes goods or services that are immaterial in the context of the contract is recognized before those immaterial goods or services are transferred to the customer, then the related costs to transfer those goods or services are accrued. 
+    
+  We generally expense incremental costs of obtaining a contract when incurred because the amortization period would be less than one year. These costs primarily relate to sales commissions and are recorded in selling, marketing and distribution expense.   
+    
+  We disclose disaggregated revenues by reporting segment and geography in accordance with the revenue standard. See    Note 7    Segment Information.  
+  
+   8 
+
+     Table of Contents  
+
+3.  Earnings per Share 
+    
+  The following table sets forth the computation of basic and diluted earnings per share (in thousands, except per share amounts): 
+
+Stock options to purchase   435,000   and   18,000   shares were not included in the   September 28, 2018   and   September 29, 2017   computations of diluted earnings per share, respectively, because they would have been anti-dilutive. 
+
+4.  Share-Based Awards 
+    
+  Options on common shares granted and outstanding, as well as the weighted average exercise price, are shown below (in thousands, except exercise prices): 
+
+The Company recognized year-to-date share-based compensation of   $22.0 million   in   2018   and   $19.2 million   in   2017  . As of   September 28, 2018  , there was   $10.5 million   of unrecognized compensation cost related to unvested options, expected to be recognized over a weighted average period of   2.1   years. 
+    
+  The fair value of each option grant is estimated on the date of grant using the Black-Scholes option-pricing model with the following weighted average assumptions and results: 
+
+9 
+
+     Table of Contents  
+
+Under the Company s Employee Stock Purchase Plan, the Company issued   480,000   shares in   2018   and   500,000   shares in   2017  . The fair value of the employees  purchase rights under this Plan was estimated on the date of grant. The benefit of the   15 percent     discount from the lesser of the fair market value per common share on the first day and the last day of the plan year was added to the fair value of the employees  purchase rights determined using the Black-Scholes option-pricing model with the following assumptions and results: 
+
+5.  Retirement Benefits 
+    
+  The components of net periodic benefit cost for retirement benefit plans were as follows (in thousands): 
+
+In March 2017, the FASB issued a final standard that changes the presentation of net periodic benefit cost related to defined benefit plans. The Company adopted the standard effective for the first quarter of 2018, and the Company has applied the change retrospectively to all periods presented. Under the new standard, net periodic benefit costs are disaggregated between service costs presented as operating expenses and other components of pension costs presented as non-operating expenses.  The Company previously charged service costs to segment operations and included other components of pension cost in unallocated corporate operating expenses. Under the new standard, unallocated corporate operating expenses decreased, operating earnings increased and other expense increased by the amount of non-service components of pension cost, including the amount of changes in cash surrender value of insurance contracts used to fund certain non-qualified pension and deferred compensation arrangements. There was no impact on reported net earnings or earnings per share. The retrospective application of the new standard resulted in increases of   $1.8 million   and   $5.1 million   to previously reported operating earnings and other non-operating expense for the quarter and year to date ended   September 29, 2017  , respectively. 
+    
+  In the third quarter of 2018, the Company made a   $40 million   voluntary contribution to one of its U.S. qualified defined benefit plans.                                                                                                                             
+  
+   10 
+
+Table of Contents  
+
+6.  Shareholders  Equity 
+    
+  Changes in components of accumulated other comprehensive income (loss), net of tax were (in thousands): 
+
+Amounts related to pension and postretirement medical adjustments are reclassified to non-service components of pension cost that are included within other non-operating expenses.  
+    
+  In February 2018, FASB issued a new standard related to reclassification of certain tax effects from accumulated other comprehensive income (AOCI). We early-adopted the new standard in the first quarter of 2018. We elected to reclassify   $15.5 million   from accumulated other comprehensive income to retained earnings, representing the amount of "stranded" tax effects resulting from the change in the U.S. federal tax rate and the consequent revaluation of deferred tax assets related to pension and postretirement medical expense.  
+    
+  On April 30, 2018, the Company repurchased   0.7 million   shares of its common stock for   $28.2 million   from the President and Chief Executive Officer of the Company. The   $43.33   per share purchase price represented a discount of   3 percent   from the closing price of the Company s stock immediately prior to the date of the transaction. The repurchase is expected to be accretive to earnings per share and yield a rate of return to remaining shareholders that will exceed the Company s equity cost of capital. The Company used available cash balances and borrowings under its revolving line of credit to fund the repurchase. 
+  
+   11 
+
+Table of Contents  
+
+7. 
+    Segment Information 
+       
+  The Company has   three   reportable segments: Industrial, Process and Contractor. Sales and operating earnings by segment were as follows (in thousands):  
+
+Assets by segment were as follows (in thousands):  
+
+Geographic information follows (in thousands): 
+
+12 
+
+Table of Contents  
+
+8.  Inventories 
+    
+  Major components of inventories were as follows (in thousands): 
+
+9.  Intangible Assets 
+    
+  Components of other intangible assets were (dollars in thousands):   
+
+Amortization of intangibles for the quarter was   $3.8 million   in   2018   and   $3.8 million   in   2017   and for the year to date was   $11.8 million   in 2018 and   $11.0 million   in 2017. Estimated annual amortization expense based on the current carrying amount of other intangible assets is as follows (in thousands):   
+
+Changes in the carrying amount of goodwill for each reportable segment were (in thousands):  
+
+The Company completed business acquisitions in 2018 that were not material to the consolidated financial statements. 
+
+13 
+
+Table of Contents  
+
+10. 
+    Other Current Liabilities 
+     Components of other current liabilities were (in thousands):   
+
+The Company previously managed certain self-insured loss exposures through a wholly-owned captive insurance subsidiary. Cash balances of   $9.2 million   as of   December 29, 2017   were restricted for funding the captive's loss reserves and included within other current assets on the Company's Consolidated Balance Sheets. The Company dissolved the captive insurance subsidiary in the third quarter of 2018 and there were   no   restricted cash balances as of September 28, 2018. 
+    
+  A liability is established for estimated future warranty and service claims that relate to current and prior period sales. The Company estimates warranty costs based on historical claim experience and other factors including evaluating specific product warranty issues.  Following is a summary of activity in accrued warranty and service liabilities (in thousands): 
+
+11.  Fair Value 
+    
+  Assets and liabilities measured at fair value on a recurring basis and fair value measurement level were as follows (in thousands): 
+
+Contracts insuring the lives of certain employees who are eligible to participate in certain non-qualified pension and deferred compensation plans are held in trust. Cash surrender value of the contracts is based on performance measurement funds that shadow the deferral investment allocations made by participants in certain deferred compensation plans. The deferred compensation liability balances are valued based on amounts allocated by participants to the underlying performance measurement funds. 
+
+14 
+
+     Table of Contents  
+
+Contingent consideration liability represents the estimated value (using a probability-weighted expected return approach) of future payments to be made to previous owners of an acquired business based on future revenues.  
+    
+  Long-term notes payable with fixed interest rates have a carrying amount of   $225 million   and an estimated fair value of   $235 million   as of   September 28, 2018   and   $245 million     as of   December 29, 2017  . The fair value of variable rate borrowings approximates carrying value. The Company uses significant other observable inputs to estimate fair value (level 2 of the fair value hierarchy) based on the present value of future cash flows and rates that would be available for issuance of debt with similar terms and remaining maturities. 
+
+12.  Income Taxes 
+    
+  The effective income tax rate was   14 percent   for the quarter and   17 percent   for the year to date, down   8 percentage points   and   4 percentage points   from the comparable periods last year, respectively. U.S. federal income tax reform legislation (the "Tax Act") passed at the end of 2017 decreased the 2018 effective tax rate by   10 percentage points   for the quarter and   9 percentage points   for the year to date. Excess tax benefits related to stock option exercises reduced the effective tax rate by   2 percentage points   and   3 percentage points   in the third quarter of 2018 and 2017, respectively. Year-to-date excess tax benefits related to stock option exercises reduced the effective tax rate by   3 percentage points   in 2018 and   7 percentage points   in 2017. The benefit from a   $40 million   contribution to a pension plan reduced the 2018 effective tax rate by   5 percentage points   for the quarter and   2 percentage points   for the year to date. The benefits from certain tax planning activities reduced the 2017 effective tax rate by   6 percentage points   for the quarter and   2 percentage points   for the year to date. 
+     
+  Our accounting for certain income tax effects of the Tax Act related to the transition tax is complete. Based on the Proposed Treasury Regulation issued on August 1, 2018, we have concluded that the provisional amounts recorded in our previously issued financial statements are now considered final as of   September 28, 2018  . Adjustments to the provisional amounts were not material to the consolidated financial statements.    
+
+13.  Debt 
+    
+  On September 24, 2018, the Company entered into a revolving credit agreement with a sole lender that expires in September 2020. The new credit agreement provides up to   $50 million   of committed credit, available for general corporate purposes, working capital needs, share repurchases and acquisitions. Under the terms of the revolving credit agreement, loans may be denominated in U.S. dollars or Chinese renminbi. Loans denominated in U.S. dollars bear interest, at the Company s option, at either a base rate or a LIBOR-based rate. Loans denominated in Chinese renminbi bear interest at a LIBOR-based rate based on the Chinese offshore rate. Other terms of the new revolving credit agreement are substantially similar to those of the Company s pre-existing   $500 million   revolving credit agreement that expires in December 2021. 
+
+14.  Recent Accounting Pronouncements 
+    
+  In February 2016, FASB issued a final standard on leases contained in Accounting Standards Codification Topic 842 ( ASC 842 ). The new standard is effective for the Company in the first quarter of 2019 and requires most leases to be recorded on the balance sheet. The Company plans to adopt the new accounting standard using the modified retrospective transition approach and will elect to use the package of practical expedients.  The modified retrospective transition approach will recognize any changes from the beginning of the year of initial application through retained earnings with no restatement of comparative periods.  
+  We have established an implementation team that has gathered and analyzed a significant portion of our lease contracts.  Based on preliminary results of the process, which has not been completed, nothing has come to our attention that would indicate that adoption of the new standard will have a material impact on our earnings or shareholders equity. We expect that the recording of right-of-use assets and associated lease liabilities will have an effect on our consolidated balance sheet; however, we are unable to determine an amount at this time. The final balance sheet impact will be determined once we finalize our conclusions on the treatment of certain lease incentives and vehicle lease contracts.  
+  We are in the process of evaluating changes to our business processes, systems and controls needed to support recognition and disclosure under the new standard. Further, we are continuing to assess any incremental disclosures that will be required in our consolidated financial statements. 
+
+15 
+
+Table of Contents  
+
+Item 2. GRACO INC. AND SUBSIDIARIES 
+    
+  MANAGEMENT'S DISCUSSION AND ANALYSIS OF 
+   FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Overview 
+    
+  The Company supplies technology and expertise for the management of fluids and coatings in both industrial and commercial applications. It designs, manufactures and markets systems and equipment to move, measure, control, dispense and spray fluid and coating materials. Management classifies the Company s business into three reportable segments: Industrial, Process and Contractor. Key strategies include developing and marketing new products, leveraging products and technologies into additional, growing end-user markets, expanding distribution globally and completing strategic acquisitions that provide additional channel and technologies.   
+    
+  The following Management s Discussion and Analysis reviews significant factors affecting the Company s results of operations and financial condition. This discussion should be read in conjunction with the financial statements and the accompanying notes to the financial statements. 
+
+Consolidated Results 
+    
+  A summary of financial results follows (in millions except per share amounts): 
+
+(1) See below for a reconciliation of adjusted non-GAAP financial measures to GAAP. 
+  Sales for the quarter and year to date increased in all segments and regions.     Changes in currency translation rates did not have a significant effect on sales for the quarter. For the year to date, change in currency translation increased sales by approximately $20 million (2 percentage points). Acquired operations contributed 3 percentage points of sales growth for both the quarter and year to date, including 6 percentage points of growth in EMEA. Operating expense leverage on higher sales drove 13 percent and 17 percent increases in operating earnings for the quarter and year to date, respectively. 
+
+16 
+
+     Table of Contents  
+
+Excluding the impact of tax benefits related to stock option exercises and the effects of certain tax provision adjustments presents a more consistent basis for comparison of financial results.  A calculation of the non-GAAP measurements of adjusted income taxes, effective income tax rates, net earnings and diluted earnings per share follows (in millions except per share amounts): 
+
+The following table presents an overview of components of net earnings as a percentage of net sales: 
+
+17 
+
+     Table of Contents  
+
+Net Sales 
+    
+  The following table presents net sales by geographic region (in millions): 
+
+(1)  
+    North, South and Central America, including the United States 
+              (2) 
+    Europe, Middle East and Africa 
+       
+  The following table presents the components of net sales change by geographic region: 
+
+Gross Profit 
+    
+  Gross profit margin rate for the quarter decreased from the comparable period last year due to lower margin rates of acquired operations. The favorable effects of realized pricing and product and channel mix offset the impact of higher costs, including tariffs. Gross margin rate for the year to date was the same as the rate for the comparable period last year. The favorable effects of currency translation and realized pricing offset the unfavorable effects of lower margin rates of acquired operations and higher material costs. 
+    
+  Operating Expenses 
+    
+  Total operating expenses for the quarter increased $4 million (4 percent) compared to the third quarter last year, including approximately $1 million (1 percentage point) from acquired operations. Year-to-date operating expenses increased $29 million (9 percent) compared to the comparable period last year. The increase includes $6 million from acquired operations, approximately $4 million related to currency translation, $4 million of increases directly based on volume and earnings, and $3 million of incremental share-based compensation.  
+    
+  Other expense 
+    
+  Other expense for the quarter and year to date includes $2 million and $4 million of exchange losses on net assets of foreign operations, respectively, compared to small gains in the comparable periods last year. 
+    
+  Income Taxes 
+    
+  The effective income tax rate was 14 percent for the quarter and 17 percent for the year to date, down 8 percentage points and 4 percentage points from the comparable periods last year, respectively  .   Adjusted to exclude the impacts of excess tax benefits related to stock option exercises, the benefit from a $40 million contribution to a pension plan in 2018, and the benefits from certain tax planning activities in 2017 (see above for reconciliation of adjusted non-GAAP financial measures to GAAP), the effective income tax rate was approximately 21 percent for both the quarter and year to date. The adjusted rate was lower than the 31 percent effective rate for the comparable periods last year due to the net effects of U.S. federal income tax reform legislation passed at the end of 2017.  
+
+18 
+
+Table of Contents  
+
+Segment Results 
+    
+  Certain measurements of segment operations compared to last year are summarized below: 
+    
+  Industrial Segment 
+    
+  The following table presents net sales and operating earnings as a percentage of sales for the Industrial segment  
+  (dollars in millions): 
+
+The following table presents the components of net sales change by geographic region for the Industrial segment: 
+
+Industrial segment sales growth included $9 million for the quarter and $27 million for the year to date from acquired operations. Finishing systems sales and other project activity increased in the third quarter. Operating margin rates for the quarter and year to date increased from the comparable periods last year. Segment operating expenses for the quarter were flat compared to last year. For the year to date, the favorable effects of translation and volume more than offset the effects of purchase accounting and lower operating margins in acquired operations.  
+    
+  Process Segment 
+    
+  The following table presents net sales and operating earnings as a percentage of sales for the Process segment  
+  (dollars in millions): 
+
+19 
+
+     Table of Contents  
+
+The following table presents the components of net sales change by geographic region for the Process segment: 
+
+The Process segment had sales growth in all product applications. Operating margin rates for this segment improved by 5 percentage points for the quarter and 3 percentage points for the year to date, driven by higher sales volume, gross margin rate improvement and expense leverage.  
+    
+  Contractor Segment 
+    
+  The following table presents net sales and operating earnings as a percentage of sales for the Contractor segment  
+  (dollars in millions): 
+
+The following table presents the components of net sales change by geographic region for the Contractor segment: 
+
+Increases in Contractor segment sales were led by double digit percentage increases in the home center channel in North America. A lower gross margin rate driven by channel mix, and spending related to product development and future new product introductions, led to a 2 percentage point decrease in operating margin rate for the quarter. Operating margin rates for the year to date were flat compared to last year. Favorable effects of currency translation were offset by increases in product development and volume and earnings-based incentive costs. 
+
+Liquidity and Capital Resources 
+    
+  Net cash provided by operating activities of $254 million included a $40 million voluntary cash contribution to one of the Company's U.S. qualified defined benefit retirement plans. Increases in accounts receivable and inventories reflect acquired operations and growth in business activity in the nine months ended   September 28, 2018  . The Company used cash of $11 million in 2018 and $13 million in 2017 to acquire businesses that were not material to the consolidated financial statements.  The Company used cash of $156 million in 2018 and $90 million in 2017 to repurchase shares of its common stock. Although the Company did not repurchase any shares in the third quarter, it intends to make additional opportunistic purchases going forward. Other significant uses of cash in 2018 included cash dividends of $67 million, and property, plant and equipment additions of $40 million. The Company has started building projects to increase production  
+  and distribution capacity and is planning additional expansion projects that will require capital investments totaling between $100 million and $120 million over the next two years.  
+    
+  On September 24, 2018, the Company entered into a revolving credit agreement with a sole lender that expires in September 2020. The new credit agreement provides up to $50 million of committed credit, available for general corporate purposes, working capital needs, share repurchases and acquisitions. Under the terms of the revolving credit agreement, loans may be denominated in U.S. dollars or Chinese renminbi. Loans denominated in U.S. dollars bear interest, at the Company s option, at either a base rate or a LIBOR-based rate. Loans denominated in Chinese renminbi bear interest at a LIBOR-based rate based on the Chinese offshore rate. Other terms of the new revolving credit agreement are substantially similar to those of the Company s pre-existing $500 million revolving credit agreement that expires in December 2021. 
+  At   September 28, 2018  , the Company had various lines of credit totaling $595 million, of which $551 million was unused. Internally generated funds and unused financing sources are expected to provide the Company with the flexibility to meet its liquidity needs in 2018 and 2019. 
+
+Outlook 
+    
+  Demand remains broad-based across products and geographies. We are holding to our outlook of mid-to-high single-digit organic sales growth on a constant currency basis worldwide for the full year 2018. Although we anticipate second half pressures from tariffs, material costs and currency, we are encouraged by the strong levels of demand in many of our key end markets. As a result, we believe Graco is well positioned to deliver another record year of sales and earnings in 2018. 
+    
+  Cautionary Statement Regarding Forward-Looking Statements 
+    
+  The Company desires to take advantage of the  safe harbor  provisions regarding forward-looking statements of the Private Securities Litigation Reform Act of 1995 and is filing this Cautionary Statement in order to do so.  From time to time various forms filed by our Company with the Securities and Exchange Commission, including our Form 10-K, Form 10-Qs and Form 8-Ks, and other disclosures, including our   2017   Overview report, press releases, earnings releases, analyst briefings, conference calls and other written documents or oral statements released by our Company, may contain forward-looking statements.  Forward-looking statements generally use words such as  expect,   foresee,   anticipate,   believe,   project,   should,   estimate,   will,  and similar expressions, and reflect our Company s expectations concerning the future.  All forecasts and projections are forward-looking statements.  Forward-looking statements are based upon currently available information, but various risks and uncertainties may cause our Company s actual results to differ materially from those expressed in these statements.  The Company undertakes no obligation to update these statements in light of new information or future events. 
+    
+  Future results could differ materially from those expressed due to the impact of changes in various factors.  These risk factors include, but are not limited to: our Company s growth strategies, which include making acquisitions, investing in new products, expanding geographically and targeting new industries; economic conditions in the United States and other major world economies; changes in tax rates or the adoption of new tax legislation: changes in currency translation rates; changes in laws and regulations; compliance with anti-corruption and trade laws; new entrants who copy our products or infringe on our intellectual property; risks incident to conducting business internationally; the ability to meet our customers  needs and changes in product demand; supply interruptions or delays; security breaches; the possibility of asset impairments if acquired businesses do not meet performance expectations; political instability; results of and costs associated with litigation, administrative proceedings and regulatory reviews incident to our business; the possibility of decline in purchases from few large customers of the Contractor segment; variations in activity in the construction, automotive, mining and oil and natural gas industries; our ability to attract, develop and retain qualified personnel; and catastrophic events.  Please refer to Item 1A of our Annual Report on Form 10-K for fiscal year   2017   for a more comprehensive discussion of these and other risk factors.  These reports are available on the Company s website at   www.graco.com   and the Securities and Exchange Commission s website at   www.sec.gov  .  Shareholders, potential investors and other readers are urged to consider these factors in evaluating forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. 
+    
+  Investors should realize that factors other than those identified above and in Item 1A might prove important to the Company s future results.  It is not possible for management to identify each and every factor that may have an impact on the Company s operations in the future as new factors can develop from time to time.    
+  
+   20 
+
+Table of Contents  
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk 
+    
+  There have been no material changes related to market risk from the disclosures made in the Company s   2017   Annual Report on Form 10-K. 
+
+Item 4.  Controls and Procedures 
+    
+  Evaluation of disclosure controls and procedures 
+    
+  As of the end of the fiscal quarter covered by this report, the Company carried out an evaluation of the effectiveness of the design and operation of its disclosure controls and procedures. This evaluation was done under the supervision and with the participation of the Company s President and Chief Executive Officer and the Chief Financial Officer and Treasurer. Based upon that evaluation, the Company's President and Chief Executive Officer and the Chief Financial Officer and Treasurer concluded that the Company s disclosure controls and procedures are effective. 
+    
+  Changes in internal controls 
+    
+  During the quarter, there was no change in the Company s internal control over financial reporting that has materially affected or is reasonably likely to materially affect the Company s internal control over financial reporting. 
+  
+   21 
+
+Table of Contents  
+
+PART II  OTHER INFORMATION 
+
+Item 1A.  Risk Factors 
+    
+  There have been no material changes to the Company s risk factors from those disclosed in the Company s   2017   Annual Report on Form 10-K. 
+
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds 
+    
+  Issuer Purchases of Equity Securities 
+    
+  On April 24, 2015, the Board of Directors authorized the Company to purchase up to 18,000,000 shares of its outstanding common stock, primarily through open-market transactions.  The authorization is for an indefinite period of time or until terminated by the Board. 
+    
+  In addition to shares purchased under the Board authorizations, the Company purchases shares of common stock held by employees who wish to tender owned shares to satisfy the exercise price or tax due upon exercise of options or vesting of restricted stock. 
+    
+  No shares were purchased in the third quarter of 2018. As of   September 28, 2018  , there were 5,305,541 shares that may yet be purchased under the Board authorization.  
+  
+   22 
+
+Table of Contents  
+
+Item 6.  Exhibits 
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+    
+  GRACO INC. 
+
+Date: 
+      
+    October 24, 2018 
+      
+    By: 
+      
+    /s/ Patrick J. McHale 
+
+Patrick J. McHale 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: 
+      
+    October 24, 2018 
+      
+    By: 
+      
+    /s/ Mark W. Sheahan 
+
+Mark W. Sheahan 
+
+Chief Financial Officer and Treasurer 
+
+(Principal Financial Officer) 
+
+Date: 
+      
+    October 24, 2018 
+      
+    By: 
+      
+    /s/ Caroline M. Chambers 
+
+Caroline M. Chambers 
+
+Executive Vice President, Corporate Controller     
+       and Information Systems 
+
+(Principal Accounting Officer) 
+
+23 
+
+<EX-31>
+ 2
+ ggg2018q3exhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+CERTIFICATION 
+  I, Patrick J. McHale, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Graco Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors: 
+              a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+                          Date: 
+      
+    October 24, 2018 
+      
+    /s/ Patrick J. McHale 
+
+Patrick J. McHale 
+
+President and Chief Executive Officer 
+
+</EX-31>
+
+<EX-31>
+ 3
+ ggg2018q3exhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+CERTIFICATION 
+  I, Mark W. Sheahan, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Graco Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors: 
+              a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+                          Date: 
+      
+    October 24, 2018 
+      
+    /s/ Mark W. Sheahan 
+
+Mark W. Sheahan 
+
+Chief Financial Officer and Treasurer 
+
+</EX-31>
+
+<EX-32>
+ 4
+ ggg2018q3exhibit32.htm
+ EXHIBIT 32
+
+Exhibit 
+
+CERTIFICATION UNDER SECTION 1350 
+    
+  Pursuant to Section 1350 of Title 18 of the United States Code, each of the undersigned certifies that this periodic report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in this periodic report fairly presents, in all material respects, the financial condition and results of operations of Graco Inc. 
+
+Date: 
+      
+    October 24, 2018 
+      
+    /s/ Patrick J. McHale 
+
+Patrick J. McHale 
+
+President and Chief Executive Officer 
+
+Date: 
+      
+    October 24, 2018 
+      
+    /s/ Mark W. Sheahan 
+
+Mark W. Sheahan 
+
+Chief Financial Officer and Treasurer 
+
+</EX-32>
+
+<EX-99>
+ 5
+ ggg09282018exhibit991.htm
+ EXHIBIT 99.1
+
+Exhibit 
+
+Graco Reports Record Third Quarter Sales and Earnings 
+  Sales Growth in All Segments and Regions 
+    
+  MINNEAPOLIS (  October 24, 2018  )     Graco Inc.   (NYSE: GGG)   today announced results for the   third   quarter ended   September 28, 2018  .  
+    
+  Summary 
+  $ in millions except per share amounts 
+
+(1) Excludes impacts of excess tax benefits from stock option exercises and the effects of certain tax provision adjustments in the third quarter of 2018 and 2017. See Financial Results Adjusted for Comparability below for a reconciliation of adjusted non-GAAP financial measures to GAAP. 
+             
+    Sales for the quarter and year to date increased in all segments and regions.     Effects of currency translation were not significant for the quarter and   contributed 2 percentage points to year-to-date growth. Acquired operations contributed 3 percentage points of growth to both the quarter and the year to date. 
+                
+    Gross margin rate for the quarter was lower compared to the comparable period last year due to lower margin rates of acquired operations.  
+                
+    Expense leverage drove double-digit percentage increases in operating earnings for the quarter and year to date. Operating earnings as a percentage of sales increased in all segments except for Contractor, where changes in channel mix and spending related to future new product introductions led to a decrease in operating earnings. 
+                
+    Other expense increased $2 million for the quarter and $5 million year to date, mostly due to exchange losses on net assets of foreign operations. 
+                
+    The effective income tax rate decreased by 8 percentage points for the quarter and 4 percentage points for the year to date, as the net benefits of U.S. federal income tax reform were partially offset by the impact of decreases in excess tax benefits from option exercises. Excess tax benefits from option exercises decreased compared to last year by $1 million for the quarter and $11 million for the year to date. 
+     
+   More . . . 
+
+Page 2 GRACO 
+
+Growth in sales and improved profitability in our Process segment contributed nicely to our results in the quarter,  said Patrick J. McHale, Graco's President and CEO.  The Industrial and Contractor segments also posted solid revenue gains over difficult comparisons from a year ago. Although planned investments in product development and unfavorable product mix weighed on Contractor segment profitability, sales growth in all segments and regions produced positive leverage in worldwide operating earnings.   
+   
+  Consolidated Results 
+    
+  Sales for the quarter increased 10 percent, with increases of 8 percent in the Americas, 9 percent in EMEA and 14 percent in Asia Pacific (16 percent at consistent translation rates). Sales for the year to date increased 13 percent (11 percent at consistent translation rates), with increases of 10 percent in the Americas, 16 percent in EMEA (9 percent at consistent translation rates) and 21 percent in Asia Pacific (18 percent at consistent translation rates). 
+    
+  Changes in currency translation rates did not have a significant effect on sales for the quarter. For the year to date, change in currency translation increased sales by approximately $20 million (2 percentage points). Acquired operations contributed 3 percentage points of sales growth for both the quarter and year to date, including 6 percentage points of growth in EMEA. 
+    
+  Gross profit margin rate for the quarter decreased from the comparable period last year due to lower margin rates of acquired operations. The favorable effects of realized pricing and product and channel mix offset the impact of higher costs, including tariffs. Gross margin rate for the year to date was the same as the rate for the comparable period last year. The favorable effects of currency translation and realized pricing offset the unfavorable effects of lower margin rates of acquired operations and higher material costs. 
+    
+  Total operating expenses for the quarter increased $4 million (4 percent) compared to the third quarter last year, including approximately $1 million (1 percentage point) from acquired operations. Year-to-date operating expenses increased $29 million (9 percent) compared to the comparable period last year. The increase includes $6 million from acquired operations, approximately $4 million related to currency translation, $4 million of increases directly based on volume and earnings, and $3 million of incremental share-based compensation.  
+    
+  Other expense for the quarter and year to date includes $2 million and $4 million of exchange losses on net assets of foreign operations, respectively, compared to small gains in the comparable periods last year. 
+    
+  The effective income tax rate was 14 percent for the quarter and 17 percent for the year to date, down 8 percentage points and 4 percentage points from the comparable periods last year, respectively. Adjusted to exclude the impacts of excess tax benefits related to stock option exercises, the benefit from a $40 million contribution to a pension plan in 2018, and the benefits from certain tax planning activities in 2017 (see Financial Results Adjusted for Comparability below), the effective income tax rate was approximately 21 percent for both the quarter and year to date. The adjusted rate was lower than the 31 percent effective rate for the comparable periods last year due to the net effects of U.S. federal income tax reform legislation passed at the end of 2017.  
+  
+   More . . . 
+
+Page 3 GRACO 
+
+Segment Results 
+    
+  Management assesses performance of segments by reference to operating earnings excluding unallocated corporate expenses. For a reconciliation of segment operating earnings to consolidated operating earnings, refer to the Segment Information table included in the financial statement section of this release. Certain measurements of segment operations are summarized below: 
+
+Components of net sales change by geographic region for the Industrial segment were as follows: 
+
+Industrial segment sales growth included $9 million for the quarter and $27 million for the year to date from acquired operations. Finishing systems sales and other project activity increased in the third quarter. Operating margin rates for the quarter and year to date increased from the comparable periods last year. Segment operating expenses for the quarter were flat compared to last year. For the year to date, the favorable effects of translation and volume more than offset the effects of purchase accounting and lower operating margins in acquired operations.  
+    
+  Components of net sales change by geographic region for the Process segment were as follows: 
+
+The Process segment had sales growth in all product applications. Operating margin rates for this segment improved by 5 percentage points for the quarter and 3 percentage points for the year to date, driven by higher sales volume, gross margin rate improvement and expense leverage.  
+  
+   More . . . 
+
+Page 4 GRACO 
+
+Components of net sales change by geographic region for the Contractor segment were as follows: 
+
+Increases in Contractor segment sales were led by double digit percentage increases in the home center channel in North America. A lower gross margin rate driven by channel mix, and spending related to product development and future new product introductions, led to a 2 percentage point decrease in operating margin rate for the quarter. Operating margin rates for the year to date were flat compared to last year. Favorable effects of currency translation were offset by increases in product development and volume and earnings-based incentive costs. 
+
+Outlook 
+    
+   With the exception of EMEA, underlying demand in our key end markets and geographies remains solid, and we confirm our full-year outlook of mid-to-high single-digit organic sales growth on a constant currency basis for the full year 2018,  stated McHale.  While we expect to face headwinds from tariffs, material costs and currency translation in the fourth quarter, we still believe we are well positioned to deliver another year of record sales and earnings in 2018.  
+
+More . . . 
+
+Page 5 GRACO 
+
+Financial Results Adjusted for Comparability 
+    
+  Excluding the impacts of tax benefits related to stock option exercises and the effects of certain tax provision adjustments presents a more consistent basis for comparison of financial results.  A calculation of the non-GAAP measurements of adjusted income taxes, effective income tax rates, net earnings and diluted earnings per share follows (in millions except per share amounts): 
+
+Cautionary Statement Regarding Forward-Looking Statements 
+    
+  The Company desires to take advantage of the  safe harbor  provisions regarding forward-looking statements of the Private Securities Litigation Reform Act of 1995 and is filing this Cautionary Statement in order to do so.  From time to time various forms filed by our Company with the Securities and Exchange Commission, including our Form 10-K, Form 10-Qs and Form 8-Ks, and other disclosures, including our   2017   Overview report, press releases, earnings releases, analyst briefings, conference calls and other written documents or oral statements released by our Company, may contain forward-looking statements. Forward-looking statements generally use words such as  expect,   foresee,   anticipate,   believe,   project,   should,   estimate,   will,  and similar expressions, and reflect our Company s expectations concerning the future. All forecasts and projections are forward-looking statements. Forward-looking statements are based upon currently available information, but various risks and uncertainties may cause our Company s actual results to differ materially from those expressed in these statements. The Company undertakes no obligation to update these statements in light of new information or future events. 
+    
+  Future results could differ materially from those expressed due to the impact of changes in various factors.  These risk factors include, but are not limited to: our Company s growth strategies, which include making acquisitions, investing in new products, expanding geographically and targeting new industries; economic conditions in the United States and other major world economies; changes in tax rates or the adoption of new tax legislation; changes in currency translation rates; changes in laws and regulations; compliance with anti- 
+  
+   More . . . 
+
+Page 6 GRACO 
+
+corruption and trade laws; new entrants who copy our products or infringe on our intellectual property; risks incident to conducting business internationally; the ability to meet our customers  needs and changes in product demand; supply interruptions or delays; security breaches; the possibility of asset impairments if acquired businesses do not meet performance expectations; political instability; results of and costs associated with litigation, administrative proceedings and regulatory reviews incident to our business; the possibility of decline in purchases from a few large customers of the Contractor segment; variations in activity in the construction, automotive, mining and oil and natural gas industries; our ability to attract, develop and retain qualified personnel; and catastrophic events. Please refer to Item 1A of our Annual Report on Form 10-K for fiscal year   2017   (and most recent Form 10-Q) for a more comprehensive discussion of these and other risk factors. These reports are available on the Company s website at   www.graco.com   and the Securities and Exchange Commission s website at   www.sec.gov  . Shareholders, potential investors and other readers are urged to consider these factors in evaluating forward-looking statements and are cautioned not to place undue reliance on such forward-looking statements. 
+    
+  Investors should realize that factors other than those identified above and in Item 1A might prove important to the Company s future results. It is not possible for management to identify each and every factor that may have an impact on the Company s operations in the future as new factors can develop from time to time.  
+    
+  Conference Call  
+    
+  Graco management will hold a conference call, including slides via webcast, with analysts and institutional investors on Thursday, October 25, 2018, at 11 a.m. ET, 10 a.m. CT, to discuss Graco s   third   quarter results.   
+    
+  A real-time webcast of the conference call will be broadcast live over the internet. Individuals wanting to listen and view slides can access the call at the Company s website at   www.graco.com  . Listeners should go to the website at least 15 minutes prior to the live conference call to install any necessary audio software. 
+    
+  For those unable to listen to the live event, a replay will be available soon after the conference call at Graco s website, or by telephone beginning at approximately 2 p.m. ET on October 25, 2018, by dialing 888-203-1112, Conference ID #7187523, if calling within the U.S. or Canada. The dial-in number for international participants is 719-457-0820, with the same Conference ID #. The replay by telephone will be available through October 29, 2018. 
+    
+  About Graco 
+    
+  Graco Inc. supplies technology and expertise for the management of fluids and coatings in both industrial and commercial applications. It designs, manufactures and markets systems and equipment to move, measure, control, dispense and spray fluid and powder materials. A recognized leader in its specialties, Minneapolis-based Graco serves customers around the world in the manufacturing, processing, construction and maintenance industries. For additional information about Graco Inc., please visit us at   www.graco.com   or on Twitter @GracoInc. 
+
+More . . . 
+
+Page 7 GRACO 
+
+GRACO INC. AND SUBSIDIARIES 
+  CONSOLIDATED STATEMENTS OF EARNINGS   (Unaudited) 
+  (In thousands except per share amounts) 
+
+SEGMENT INFORMATION   (Unaudited) 
+  (In thousands) 
+
+The Consolidated Balance Sheets, Consolidated Statements of Cash Flows and Management's Discussion and Analysis are available in our Quarterly Report on Form 10-Q on our website at   www.graco.com  . 
+    
+  # # # 
+
+</EX-99>
+
+<EX-101.INS>
+ 6
+ ggg-20180928.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ ggg-20180928.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ ggg-20180928_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ ggg-20180928_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ ggg-20180928_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ ggg-20180928_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

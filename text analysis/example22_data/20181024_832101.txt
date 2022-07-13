@@ -1,0 +1,1081 @@
+tents  
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+     _____________________________  
+  Form 10-Q 
+
+OR 
+
+Commission file number 1-10235 
+  IDEX CORPORATION 
+  (Exact Name of Registrant as Specified in its Charter) 
+
+Registrant s telephone number: (847) 498-7070 
+  Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+  Yes           No      
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+  Yes           No       
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one): 
+    
+                           Large accelerated filer      
+      
+    Accelerated filer      
+      
+    Non-accelerated filer     
+      
+    Smaller reporting company      
+
+Emerging growth company      
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+  Yes          No          
+  Number of shares of common stock of IDEX Corporation outstanding as of   October 22, 2018  :   76,709,717  .                  
+
+Table of Contents  
+
+TABLE OF CONTENTS 
+    
+                    Part I. Financial Information  
+      
+      Item 1. 
+     Financial Statements  
+    1 
+        
+     Condensed Consolidated Balance Sheets  
+    1 
+        
+     Condensed Consolidated Statements of Operations  
+    2 
+        
+     Condensed Consolidated Statements of Comprehensive Income  
+    3 
+        
+     Condensed Consolidated Statements of Shareholders  Equity  
+    4 
+        
+     Condensed Consolidated Statements of Cash Flows  
+    5 
+        
+     Notes to Condensed Consolidated Financial Statements  
+    6 
+      Item 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    28 
+        
+     Cautionary Statement Under the Private Securities Litigation Reform Act  
+    28 
+        
+     Overview and Outlook  
+    28 
+        
+     Results of Operations  
+    30 
+        
+     Liquidity and Capital Resources  
+    36 
+        
+     Non-GAAP Disclosures  
+    37 
+      Item 3. 
+     Quantitative and Qualitative Disclosures About Market Risk  
+    42 
+      Item 4. 
+     Controls and Procedures  
+    42 
+
+Part II. Other Information  
+      
+      Item 1. 
+     Legal Proceedings  
+    43 
+      Item 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    43 
+      Item 6. 
+     Exhibits  
+    44 
+       Signatures  
+    45 
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1.    Financial Statements 
+
+IDEX CORPORATION 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (in thousands except share and per share amounts) 
+  (unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements 
+  
+   1 
+
+Table of Contents  
+
+IDEX CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+  (in thousands except per share amounts) 
+  (unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements 
+  
+   2 
+
+Table of Contents  
+
+IDEX CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+  (in thousands) 
+  (unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements 
+  
+   3 
+
+Table of Contents  
+
+IDEX CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS  EQUITY 
+  (in thousands except share amounts) 
+  (unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements 
+  
+   4 
+
+Table of Contents  
+
+IDEX CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (in thousands) 
+  (unaudited)   
+ See Notes to Condensed Consolidated Financial Statements 
+  
+   5 
+
+Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+1.    Basis of Presentation and Significant Accounting Policies 
+  The Condensed Consolidated Financial Statements of IDEX Corporation ( IDEX,   we,   our,  or the  Company ) have been prepared in accordance with accounting principles generally accepted in the United States of America ( U.S. GAAP ) applicable to interim financial information and the instructions to Form 10-Q under the Securities Exchange Act of 1934, as amended. The statements are unaudited but include all adjustments, consisting only of recurring items, except as noted, that the Company considers necessary for a fair presentation of the information set forth herein. The results of operations for the   three and nine months ended     September 30, 2018   are not necessarily indicative of the results to be expected for the entire year. 
+  The Condensed Consolidated Financial Statements and Management s Discussion and Analysis of Financial Condition and Results of Operations set forth in this report should be read in conjunction with the Company s Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+  Recently Adopted Accounting Standards 
+  In February 2018, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU ) 2018-02,   Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income  , which requires an entity to disclose its accounting policy related to releasing income tax effects from accumulated other comprehensive income (loss), whether it has elected to reclassify the stranded tax effects in accumulated other comprehensive income (loss) to retained earnings in the statement of shareholders  equity and if it has elected to reclassify the stranded tax effects in accumulated other comprehensive income (loss) to retained earnings, what the reclassification encompasses.  The Company early adopted this standard on a retrospective basis on January 1, 2018.  The adoption resulted in an increase of   $6.4 million   to Retained earnings and a corresponding change of   $6.4 million   to Accumulated other comprehensive income (loss) at January 1, 2018. 
+  In January 2017, the FASB issued ASU 2017-01,   Clarifying the Definition of a Business  , which clarifies the definition of a business and assists entities with evaluating whether transactions should be accounted for as acquisitions or disposals of assets or businesses. Under this guidance, when substantially all of the fair value of gross assets acquired is concentrated in a single asset or a group of similar assets, the assets acquired would not represent a business. In addition, in order to be considered a business, an acquisition would have to include at a minimum an input and a substantive process that together significantly contribute to the ability to create an output. The amended guidance also narrows the definition of outputs by more closely aligning it with how outputs are described in the FASB guidance for revenue recognition. The Company adopted this standard on January 1, 2018 and accounted for the purchase of the intellectual property assets from Phantom Controls utilizing this guidance. See Note 7 for further information. 
+  In October 2016, the FASB issued ASU 2016-16,   Intra-Entity Transfers of Assets Other Than Inventory  , which amends Accounting Standards Codification ( ASC ) 740,   Income Taxes  .  This ASU requires that the income tax consequences of an intra-entity asset transfer other than inventory are recognized at the time of the transfer. An entity will continue to recognize the income tax consequences of an intercompany transfer of inventory when the inventory is sold to a third party. The Company adopted this standard on a modified retrospective basis on January 1, 2018.  The adoption resulted in a decrease of   $7.3 million   to Other current assets, a decrease of   $6.7 million   to Deferred income taxes and a decrease of   $0.6 million   to Retained earnings at January 1, 2018.  
+  In August 2016, the FASB issued ASU 2016-15,   Classification of Certain Cash Receipts and Cash Payments   (a consensus of the FASB Emerging Issues Task Force). This ASU addresses the following eight specific cash flow issues: debt prepayment or debt extinguishment costs; settlement of zero-coupon debt instruments or other debt instruments with coupon interest rates that are insignificant in relation to the effective interest rate of the borrowing; contingent consideration payments made after a business combination; proceeds from the settlement of insurance claims; proceeds from the settlement of corporate-owned life insurance policies (including bank-owned life insurance policies); distributions received from equity method investees; beneficial interests in securitization transactions; and separately identifiable cash flows and application of the predominance principle.  The Company adopted this standard on January 1, 2018.  The adoption of this standard did not have a material impact on our condensed consolidated financial statements. 
+  In May 2014, the FASB issued ASU 2014-09,   Revenue from Contracts with Customers,   which replaces numerous requirements in U.S. GAAP, including industry-specific requirements, and provides companies with a new five-step model for recognizing revenue from contracts with customers.  Under ASU 2014-09, an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. This ASU also requires disclosures sufficient to enable users to understand the nature, amount, timing,  
+  
+   6 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+and uncertainty of revenue and cash flows arising from contracts with customers, including qualitative and quantitative disclosures about contracts with customers, significant judgments and changes in judgments, and assets recognized from the costs to obtain or fulfill a contract. The FASB has also issued the following standards which clarify ASU 2014-09 and have the same effective date as the original standard: ASU 2016-08,   Revenue from Contracts with Customers: Principal versus Agent Considerations (Reporting Revenue Gross versus Net)  ; ASU 2016-10,   Revenue from Contracts with Customers: Identifying Performance Obligations and Licensing  ; ASU 2016-12  ,     Revenue from Contracts with Customers: Narrow-Scope Improvements and Practical Expedients  ; and ASU 2016-20  , Technical Corrections and Improvements to Topic 606, Revenue from Contracts with Customers.    
+  In 2016, we established an implementation team and analyzed the impact of the standard by surveying business units and performing extensive contract reviews to identify potential differences that may result from applying the requirements of the new standard. The contract reviews generally supported the recognition of revenue at a point in time, which is consistent with the current revenue recognition model used by most of our business units. As a result, revenue recognition remains unchanged under the new standard. For our business units that currently recognize revenue under a percentage of completion model, revenue recognition also remains unchanged as the contract reviews supported the recognition of revenue over time.  The Company has implemented the appropriate changes to its processes, systems and controls to comply with the new guidance.  The Company adopted this standard on January 1, 2018 using the modified retrospective approach applied to contracts that were not completed as of January 1, 2018.  The adoption of this standard did not have an impact on our condensed consolidated financial statements, except to provide additional disclosures.  The Company elected the following practical expedients: significant financing component, sales tax presentation, contract costs, shipping and handling activities and disclosures.  See Note 4 for further details on revenue.  
+  Recently Issued Accounting Standards 
+  In February 2016, the FASB issued ASU 2016-02,   Leases  , which sets out the principles for the recognition, measurement, presentation and disclosure of leases for both parties to a contract (i.e. lessees and lessors).  The standard introduces a new lessee model that will require most leases to be recorded on the balance sheet and eliminates the required use of bright line tests in current U.S. GAAP for determining lease classification.  The new standard requires lessors to account for leases using an approach that is substantially equivalent to existing guidance for sales-type leases, direct financing leases and operating leases.  This standard is effective for fiscal years beginning after December 15, 2018 and interim periods within those fiscal years. Companies are permitted to adopt the standard early. Upon adoption, lessees and lessors are required to recognize and measure leases at the beginning of the earliest period presented using a modified retrospective approach.  The FASB has also issued the following standards which clarify ASU 2016-02 and have the same effective date as the original standard: ASU 2018-10,   Codification Improvements to Topic 842, Leases and   ASU 2018-11,   Leases (Topic 842): Targeted Improvements  . 
+  The Company has selected its lease software solution and is in the process of identifying changes to its business processes, systems and controls to support adoption of the new standard in 2019. The Company is currently evaluating the impact of adopting the new standard on its condensed consolidated financial statements. While the Company is unable to quantify the impact at this time, it expects the adoption of the new standard to result in a significant right of use asset and lease liability while expense recognition will be similar to the previously required straight-line expense treatment as the majority of its leases will remain operating in nature.  
+
+2.    Acquisitions and Divestitures  
+    
+  All of the Company s acquisitions of businesses have been accounted for under ASC 805,   Business Combinations  . Accordingly, the accounts of the acquired companies, after adjustments to reflect the fair values assigned to assets and liabilities, have been included in the Company s condensed consolidated financial statements from their respective dates of acquisition.  The results of operations of the acquired companies have been included in the Company s condensed consolidated results since the date of each acquisition. 
+    
+  The Company did not incur any acquisition-related transaction costs in the   three months ended September 30, 2018  .  The Company did incur   $0.5 million   in the   three months ended September 30, 2017   and   $1.5 million   and   $0.7 million   in the   nine months ended September 30, 2018   and   2017  , respectively.  These costs were recorded in Selling, general and administrative expenses and were related to completed transactions, pending transactions and potential transactions, including transactions that ultimately were not completed.  
+
+7 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+2018 Acquisition 
+    
+  On July 23, 2018, the Company acquired Finger Lakes Instrumentation ( FLI ), a technology leader in the design, development and production of low-noise cooled CCD and high speed, high-sensitivity Scientific CMOS cameras for the astronomy and life science markets. Headquartered in Lima, NY, FLI operates in our Health   Sciences Technologies segment. FLI was acquired  for an aggregate purchase price of   $23.6 million  , consisting of   $20.2 million   in cash and contingent consideration valued at   $3.4 million   as of the opening balance sheet date. The contingent consideration is based on the achievement of financial objectives during the   24  -month period following the close of the transaction. The entire purchase price was funded with cash on hand. Goodwill and intangible assets recognized as part of this transaction were   $11.9 million   and   $8.1 million  , respectively. The goodwill is deductible for tax purposes. 
+    
+  The Company made an initial allocation of the purchase price for the FLI acquisition as of the acquisition date based on its understanding of the fair value of the acquired assets and assumed liabilities. As the Company continues to obtain additional information about these assets and liabilities, and continues to learn more about the newly acquired business, we will refine the estimates of fair value and more accurately allocate the purchase price. Only items identified as of the acquisition date are considered for subsequent adjustment. The Company will make the appropriate adjustments to the purchase price allocation prior to the completion of the measurement period, as required. 
+    
+  2017 Acquisition  
+    
+  On December 8, 2017, the Company acquired the stock of thinXXS Microtechnology AG ( thinXXS ), a leader in the design, manufacture and sale of microfluidic components serving the point of care, veterinary and life science markets. The business was acquired to complement our existing CiDRA Precision Services business and expand on our microfluidic and nanofluidic capabilities. Headquartered in Zweibr cken, Germany, thinXXS operates in our Health   Science Technologies segment. thinXXS was acquired for cash consideration of   $38.2 million   and the assumption of   $1.2 million   of debt. The purchase price was funded with cash on hand. Goodwill and intangible assets recognized as part of the transaction were   $25.1 million   and   $10.6 million  , respectively. The goodwill is not deductible for tax purposes. 
+    
+  The Company made an initial allocation of the purchase price for the thinXXS acquisition as of the acquisition date based on its understanding of the fair value of the acquired assets and assumed liabilities. These nonrecurring fair value measurements are classified as Level 3 in the fair value hierarchy. The Company is continuing to evaluate the valuation of certain income tax liabilities associated with the thinXXS acquisition and is in the process of finalizing the purchase price allocation. The Company will make appropriate adjustments to the purchase price allocation prior to the completion of the measurement period, as required. Only items identified as of the acquisition date will be considered for subsequent adjustment. 
+    
+  2017 Divestiture 
+    
+  The Company periodically reviews its operations for businesses which may no longer be aligned with its strategic objectives  and focuses on its core business and customers. Any resulting gain or loss recognized due to divestitures is recorded within the Condensed Consolidated Statements of Operations.  The Company concluded that the divestiture that took place during the year ended December 31, 2017 did not meet the criteria for reporting discontinued operations.  
+    
+  On October 31, 2017, the Company completed the sale of its Faure Herman subsidiary for   $21.8 million   in cash, which resulted in a pre-tax gain on the sale of   $9.3 million   that was recognized in the fourth quarter of 2017.  There was   no   income tax expense associated with this transaction. The results of Faure Herman were reported within the Fluid   Metering Technologies segment through the date of sale. 
+
+3.    Business Segments 
+  The Company has   three   reportable business segments: Fluid   Metering Technologies ( FMT ), Health   Science Technologies ( HST ) and Fire   Safety/Diversified Products ( FSDP ).  
+  The Fluid   Metering Technologies segment designs, produces and distributes positive displacement pumps, flow meters, injectors, and other fluid-handling pump modules and systems and provides flow monitoring and other services for the food, chemical, general industrial, water and wastewater, agriculture and energy industries.  
+  
+   8 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+The Health   Science Technologies segment designs, produces and distributes a wide range of precision fluidics, rotary lobe pumps, centrifugal and positive displacement pumps, roll compaction and drying systems used in beverage, food processing, pharmaceutical and cosmetics, pneumatic components and sealing solutions, including very high precision, low-flow rate pumping solutions required in analytical instrumentation, clinical diagnostics and drug discovery, high performance molded and extruded sealing components, biocompatible medical devices and implantables, air compressors used in medical, dental and industrial applications, optical components and coatings for applications in the fields of scientific research, defense, biotechnology, aerospace, telecommunications and electronics manufacturing, laboratory and commercial equipment used in the production of micro and nano scale materials, precision photonic solutions used in life sciences, research and defense markets and precision gear and peristaltic pump technologies that meet exacting original equipment manufacturer specifications.  
+  The Fire   Safety/Diversified Products segment designs, produces and distributes firefighting pumps, valves and controls, rescue tools, lifting bags and other components and systems for the fire and rescue industry, engineered stainless steel banding and clamping devices used in a variety of industrial and commercial applications and precision equipment for dispensing, metering and mixing colorants and paints used in a variety of retail and commercial businesses around the world.  
+  Information on the Company s business segments is presented below based on the nature of products and services offered. The Company evaluates performance based on several factors, of which sales, operating income and operating margin are the primary financial measures. Intersegment sales are accounted for at fair value as if the sales were to third parties. 
+
+9 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+4.    Revenue 
+    
+  IDEX is an applied solutions company specializing in the manufacture of fluid and metering technologies, health and science technologies and fire, safety and other diversified products built to customers  specifications. The Company s products include industrial pumps, compressors, flow meters, injectors, valves and related controls for use in a wide variety of process applications; precision fluidics solutions, including pumps, valves, degassing equipment, corrective tubing, fittings and complex manifolds, optical filters and specialty medical equipment and devices for use in life science applications; precision-engineered equipment for dispensing, metering and mixing paints; and engineered products for industrial and commercial markets, including fire and rescue, transportation equipment, oil and gas, electronics and communications.  The Company s revenue is accounted for under ASC 606,   Revenue from Contracts with Customers  , which we adopted on January 1, 2018 using the modified retrospective method.   
+    
+  Revenue is recognized when control of the promised products or services is transferred to our customers in an amount that reflects the consideration we expect to be entitled to in exchange for transferring those products or providing those services.  We account for a contract when it has approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of the consideration is probable.  We determine the appropriate revenue recognition for our contracts with customers by analyzing the type, terms and conditions of each contract or arrangement with a customer. 
+    
+  Disaggregation of Revenue 
+    
+  We have a comprehensive offering of products, including technologies, built to customers  specifications that are sold in niche markets throughout the world.  We disaggregate our revenue from contracts with customers by reporting unit and geographical region for each of our segments as we believe it best depicts how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors.  Geographical region is based on the location of the customer.  The following tables present our revenue disaggregated by reporting unit and geographical region. 
+  
+   10 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+Revenue by reporting unit for the   three and nine months ended     September 30, 2018   was as follows: 
+
+Revenue by geographical region for the   three and nine months ended     September 30, 2018   was as follows: 
+
+(1)    Rest of world includes: North America (excluding U.S.), South America, Middle East, Australia and Africa. 
+  
+   11 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+Contract Balances 
+    
+  The timing of revenue recognition, billings and cash collections results in customer receivables, advance payments and billings in excess of revenue recognized.  Customer receivables include amounts billed and currently due from customers as well as unbilled amounts (contract assets) and are included in Receivables on our Condensed Consolidated Balance Sheets.  Amounts are billed in accordance with contractual terms or as work progresses in accordance with contractual terms.  Unbilled amounts arise when the timing of billing differs from the timing of revenue recognized, such as when contract provisions require specific milestones to be met before a customer can be billed.  Unbilled amounts primarily relate to performance obligations satisfied over time when the cost-to-cost method is utilized and the revenue recognized exceeds the amount billed to the customer as there is not yet a right to payment in accordance with contractual terms.  Unbilled amounts are recorded as a contract asset when the revenue associated with the contract is recognized prior to billing and derecognized when billed in accordance with the terms of the contract.  Customer receivables are recorded at face amounts less an allowance for doubtful accounts.  The Company maintains allowances for doubtful accounts for estimated losses as a result of customers  inability to make required payments. Management evaluates the aging of the customer receivable balances, the financial condition of its customers, historical trends and the time outstanding of specific balances to estimate the amount of customer receivables that may not be collected in the future and records the appropriate provision.    
+    
+  The composition of Customer receivables was as follows: 
+
+Advance payments and billings in excess of revenue recognized are included in Deferred revenue which is classified as current or noncurrent based on the timing of when we expect to recognize the revenue.  The current portion is included in Accrued expenses and the noncurrent portion is included in Other noncurrent liabilities on our Condensed Consolidated Balance Sheets.  Advance payments and billings in excess of revenue recognized represent contract liabilities and are recorded when customers remit contractual cash payments in advance of us satisfying performance obligations under contractual arrangements, including those with performance obligations satisfied over time.  Billings in excess of revenue recognized primarily relate to performance obligations satisfied over time when the cost-to-cost method is utilized and revenue cannot yet be recognized as the Company has not completed the corresponding performance obligation.  We generally receive advance payments from customers related to maintenance services which we recognize ratably over the service term.  Contract liabilities are derecognized when revenue is recognized and the performance obligation is satisfied. 
+    
+  The composition of Deferred revenue was as follows: 
+
+Performance Obligations 
+    
+  A performance obligation is a promise in a contract to transfer a distinct product or service to the customer.  A contract s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied.   For our contracts that require complex design, manufacturing and installation activities that are not separately identifiable from other promises in the contract and, therefore, not distinct, the entire contract is accounted for as a single performance obligation.  For our contracts that include distinct products or services that are substantially the same and have the same pattern of transfer to the customer over time, they are recognized as a series of distinct products or services.  Certain of our contracts have multiple performance obligations for which we allocate the transaction price to each performance obligation using an estimate of the standalone selling price of each distinct product or service in the contract.  For product sales, each product sold to a customer  
+  
+   12 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+generally represents a distinct performance obligation.  In such cases, the observable standalone sales are used to determine the standalone selling price.  In certain cases, we may be required to estimate standalone selling price using the expected cost plus margin approach, under which we forecast our expected costs of satisfying a performance obligation and then add an appropriate margin for that distinct product or service. 
+    
+  Our performance obligations are satisfied at a point in time or over time as work progresses.  Performance obligations are supported by contracts with customers that provide a framework for the nature of the distinct products or services or bundle of products and services.  We define service revenue as revenue from activities that are not associated with the design, development or manufacture of a product or the delivery of a software license.  
+    
+  Revenue from products and services transferred to customers at a point in time approximated   95%   in both the   three and nine months ended     September 30, 2018  .  Revenue recognized at a point in time relates to the majority of our product sales.  Revenue on these contracts is recognized when obligations under the terms of the contract with our customer are satisfied.  Generally, this occurs with the transfer of control of the asset, which is in line with shipping terms.   
+    
+  Revenue from products and services transferred to customers over time approximated   5%   in both the   three and nine months ended     September 30, 2018  .  Revenue earned by certain business units within the Water, Energy, Material Processing Technologies ( MPT ) and Dispensing reporting units is recognized over time because control transfers continuously to our customers.  When accounting for over-time contracts, we use an input measure to determine the extent of progress towards completion of the performance obligation.  For certain business units within the Water, Energy and MPT reporting units, revenue is recognized over time as work is performed based on the relationship between actual costs incurred to date for each contract and the total estimated costs for such contract at completion of the performance obligation (i.e. the cost-to-cost method).  We believe this measure of progress best depicts the transfer of control to the customer which occurs as we incur costs on our contracts.  Incurred cost represents work performed, which corresponds with the transfer of control to the customer. Contract costs include labor, material and overhead.  Contract estimates are based on various assumptions to project the outcome of future events. These assumptions include labor productivity and availability; the complexity of the work to be performed; the cost and availability of materials; the performance of subcontractors; and the availability and timing of funding from the customer.  Revenues, including estimated fees or profits, are recorded proportionally as costs are incurred.  For certain business units within the Energy and Dispensing reporting units, revenue is recognized ratably over the contract term. 
+    
+  As a significant change in one or more of these estimates could affect the profitability of our contracts, we review and update our estimates regularly. Due to uncertainties inherent in the estimation process, it is reasonably possible that completion costs, including those arising from contract penalty provisions and final contract settlements, will be revised. Such revisions to costs and income are recognized in the period in which the revisions are determined as a cumulative catch-up adjustment.  The impact of the adjustment on profit recorded to date on a contract is recognized in the period the adjustment is identified. Revenue and profit in future periods of contract performance are recognized using the adjusted estimate. If at any time the estimate of contract profitability indicates an anticipated loss on the contract, we recognize provisions for estimated losses on uncompleted contracts in the period in which such losses are determined.  
+    
+  The Company records allowances for discounts, product returns and customer incentives at the time of sale as a reduction of revenue as such allowances can be reliably estimated based on historical experience and known trends. The Company also offers product warranties (primarily assurance-type) and accrues its estimated exposure for warranty claims at the time of sale based upon the length of the warranty period, warranty costs incurred and any other related information known to the Company. 
+
+5.    Earnings Per Common Share 
+  Earnings per common share ( EPS ) is computed by dividing net income by the weighted average number of shares of common stock (basic) plus common stock equivalents outstanding (diluted) during the period. Common stock equivalents consist of stock options, which have been included in the calculation of weighted average shares outstanding using the treasury stock method, restricted stock and performance share units. 
+  ASC 260,   Earnings Per Share,   concludes that all outstanding unvested share-based payment awards that contain rights to nonforfeitable dividends participate in undistributed earnings with common shareholders. If awards are considered participating securities, the Company is required to apply the two-class method of computing basic and diluted earnings per share. The Company has determined that its outstanding shares of restricted stock are participating securities. Accordingly, EPS was computed using the two-class method prescribed by ASC 260.  
+  
+   13 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+Basic weighted average shares outstanding reconciles to diluted weighted average shares outstanding as follows: 
+
+Options to purchase approximately   0.3 million   and   zero   shares of common stock for the   three months ended September 30, 2018   and   2017  , respectively, and   0.3 million   and   0.4 million   shares of common stock for the   nine months ended September 30, 2018   and   2017  , respectively, were not included in the computation of diluted EPS because the effect of their inclusion would have been antidilutive. 
+
+6.    Inventories 
+  The components of inventories as of   September 30, 2018   and   December 31, 2017   were: 
+
+Inventories are stated at the lower of cost or net realizable value. Cost, which includes material, labor and factory overhead, is determined on a FIFO basis. 
+
+7.    Goodwill and Intangible Assets 
+    
+  The changes in the carrying amount of goodwill for the   nine months ended September 30, 2018  , by reportable business segment, were as follows: 
+
+ASC 350,   Goodwill and Other Intangible Assets,   requires that goodwill be tested for impairment at the reporting unit level on an annual basis and between annual tests if an event occurs or circumstances change that would more likely than not reduce the fair value of the reporting unit below its carrying value. In the first   nine   months of   2018  , there were no events or circumstances that would have required an interim impairment test. Annually, on October 31, goodwill and other acquired intangible assets with indefinite lives are tested for impairment.  Based on the results of our annual impairment test at October 31,   2017  , all reporting units had fair values in excess of their carrying values. 
+
+14 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+The following table provides the gross carrying value and accumulated amortization for each major class of intangible asset at   September 30, 2018   and   December 31, 2017  : 
+
+On June 22, 2018, the Company acquired the intellectual property assets of Phantom Controls ( Phantom ) for cash consideration of   $4.0 million  .  The operational capabilities and innovative pump operation of Phantom s technology complements our existing water-flow expertise of Hale, Akron Brass and Class 1 to improve fire ground safety and reduce operational complexity during mission critical response. This acquisition of intellectual property assets did not meet the definition of a business under ASU 2017-01 and thus the Company recorded the entire purchase price to the Unpatented technology class of intangible assets on the Condensed Consolidated Balance Sheets. 
+  The Banjo trade name and the Akron Brass trade name are indefinite-lived intangible assets which are tested for impairment on an annual basis in accordance with ASC 350 or more frequently if events or changes in circumstances indicate that the assets might be impaired.  In the first   nine   months of   2018  , there were no events or circumstances that would have required an interim impairment test.  The Company uses the relief-from-royalty method, a form of the income approach, to determine the fair value of these trade names. The relief-from-royalty method is dependent on a number of significant management assumptions, including estimates of revenues, royalty rates and discount rates. 
+  Amortization of intangible assets was   $8.8 million   and   $29.5 million   for the   three and nine months ended     September 30, 2018  , respectively.  Amortization of intangible assets was   $11.5 million   and   $35.4 million   for the   three and nine months ended     September 30, 2017  , respectively. Based on the intangible asset balances as of   September 30, 2018  , amortization expense is expected to approximate   $9.0 million   for the remaining   three months   of   2018  ,   $36.4 million   in   2019  ,   $35.2 million   in   2020  ,   $34.3 million   in   2021   and   $32.6 million   in   2022  .  
+
+15 
+
+Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+8.    Accrued Expenses 
+  The components of accrued expenses as of   September 30, 2018   and   December 31, 2017   were: 
+
+9.    Other Noncurrent Liabilities 
+    
+  The components of other noncurrent liabilities as of   September 30, 2018   and   December 31, 2017   were: 
+
+16 
+
+Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+10.    Borrowings 
+  Borrowings at   September 30, 2018   and   December 31, 2017   consisted of the following:    
+
+On June 13, 2016, the Company completed a private placement of a   $100 million   aggregate principal amount of   3.20%   Senior Notes due June 13, 2023 and a   $100 million   aggregate principal amount of   3.37%   Senior Notes due June 13, 2025 (collectively, the  Notes ) pursuant to a Note Purchase Agreement dated June 13, 2016 (the  Purchase Agreement ). Each series of Notes bears interest at the stated amount per annum, which is payable semi-annually in arrears on each June 13   th    and December 13   th   . The Notes are unsecured obligations of the Company and rank pari passu in right of payment with all of the Company s other unsecured, unsubordinated debt. The Company may at any time prepay all, or any portion of the Notes provided that such portion is greater than   5%   of the aggregate principal amount of the Notes then outstanding. In the event of a prepayment, the Company will pay an amount equal to par plus accrued interest plus a make-whole amount. In addition, the Company may repurchase the Notes by making an offer to all holders of the Notes, subject to certain conditions. 
+  The Purchase Agreement contains certain covenants that restrict the Company s ability to, among other things, transfer or sell assets, incur indebtedness, create liens, transact with affiliates and engage in certain mergers or consolidations or other change of control transactions. In addition, the Company must comply with a leverage ratio and interest coverage ratio, as further described below, and the Purchase Agreement also limits the outstanding principal amount of priority debt that may be incurred by the Company to   15%   of consolidated assets. The Purchase Agreement provides for customary events of default. In the case of an event of default arising from specified events of bankruptcy or insolvency, all of the outstanding Notes will become due and payable immediately without further action or notice. In the case of payment event of default, any holder of the Notes affected thereby may declare all the Notes held by it due and payable immediately. In the case of any other event of default, a majority of the holders of the Notes may declare all of the Notes to be due and payable immediately. 
+  On June 23, 2015, the Company entered into a credit agreement (the  Credit Agreement ) along with certain of its subsidiaries, as borrowers (the  Borrowers ), Bank of America, N.A., as administrative agent, swing line lender and an issuer of letters of credit, with other agents party thereto. The Credit Agreement replaced the Company s existing   five  -year,   $700 million   credit agreement dated as of June 27, 2011, which was due to expire on June 27, 2016. 
+  The Credit Agreement consists of a revolving credit facility (the  Revolving Facility ) in an aggregate principal amount of   $700 million  , with a final maturity date of   June 23, 2020  . The maturity date may be extended under certain conditions for an additional   one  -year term. Up to   $75 million   of the Revolving Facility is available for the issuance of letters of credit. Additionally, up to   $50 million   of the Revolving Facility is available to the Company for swing line loans, available on a same-day basis. 
+  Proceeds of the Revolving Facility are available for use by the Borrowers for acquisitions, working capital and other general corporate purposes, including refinancing existing debt of the Company and its subsidiaries. The Company may request increases in the lending commitments under the Credit Agreement, but the aggregate lending commitments pursuant to such increases may not exceed   $350 million  . The Company has the right, subject to certain conditions set forth in the Credit Agreement, to designate certain foreign subsidiaries of the Company as borrowers under the Credit Agreement. In connection with any such designation, 
+  the Company is required to guarantee the obligations of any such subsidiaries. 
+  
+   17 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+Borrowings under the Credit Agreement bear interest at either an alternate base rate or an adjusted LIBOR rate plus, in each case, an applicable margin. Such applicable margin is based on the Company s senior, unsecured long-term debt rating and can range from   .005%   to   1.50%  . Based on the Company s credit rating at September 30, 2018, the applicable margin was   1.10%  . Interest is payable (a) in the case of base rate loans, quarterly, and (b) in the case of LIBOR rate loans, on the maturity date of the borrowing or quarterly from the effective date for borrowings exceeding three months. 
+  The Credit Agreement requires payment to the lenders of a facility fee based upon (a) the amount of the lenders  commitments under the credit facility from time to time and (b) the applicable corporate credit ratings of the Company. Voluntary prepayments of any loans and voluntary reductions of the unutilized portion of the commitments under the credit facility are permissible without penalty, subject to break funding payments and minimum notice and minimum reduction amount requirements. 
+  The negative covenants include, among other things, limitations (each of which is subject to customary exceptions for financings of this type) on our ability to grant liens; enter into transactions resulting in fundamental changes (such as mergers or sales of all or substantially all of the assets of the Company); restrict subsidiary dividends or other subsidiary distributions; enter into transactions with the Company s affiliates; and incur certain additional subsidiary debt. 
+  The Credit Agreement also contains customary events of default (subject to grace periods, as appropriate) including among others: nonpayment of principal, interest or fees; breach of the representations or warranties in any material respect; breach of the financial, affirmative or negative covenants; payment default on, or acceleration of, other material indebtedness; bankruptcy or insolvency; material judgments entered against the Company or any of its subsidiaries; certain specified events under the Employee Retirement Income Security Act of 1974, as amended; certain changes in control of the Company; and the invalidity or unenforceability of the Credit Agreement or other documents associated with the Credit Agreement. 
+  At   September 30, 2018  , there was   no   balance outstanding under the Revolving Facility and   $9.0 million   of outstanding letters of credit, resulting in a net available borrowing capacity under the Revolving Facility at   September 30, 2018   of approximately   $691.0 million  .  
+  There are   two   key financial covenants that the Company is required to maintain in connection with the Revolving Facility and the Notes, a minimum interest coverage ratio of   3.0   to   1   and a maximum leverage ratio of   3.50   to   1  , which is the ratio of the Company s consolidated total debt to its consolidated EBITDA. At   September 30, 2018  , the Company was in compliance with both of these financial covenants. There are no financial covenants relating to the   4.5%   Senior Notes or   4.2%   Senior Notes; however, both are subject to cross-default provisions.  
+
+11.    Derivative Instruments 
+    
+  The Company enters into cash flow hedges from time to time to reduce the exposure to variability in certain expected future cash flows. The types of cash flow hedges the Company enters into include foreign currency exchange contracts designed to minimize the earnings impact on certain intercompany loans and interest rate exchange agreements that effectively convert a portion of floating-rate debt to fixed-rate debt and are designed to reduce the impact of interest rate changes on future interest expense. 
+    
+  The effective portion of gains or losses on interest rate exchange agreements is reported in accumulated other comprehensive income (loss) in shareholders  equity and reclassified into net income in the same period or periods in which the hedged transaction affects net income. The remaining gain or loss in excess of the cumulative change in the present value of future cash flows or the hedged item, if any, is recognized in net income during the period of change.  See Note 14 for the amount of loss reclassified into net income for interest rate contracts for the   three and nine months ended     September 30, 2018   and   2017  .  As of   September 30, 2018  , the Company did not have any interest rate contracts outstanding. 
+    
+  In 2010 and 2011, the Company entered into   two   separate forward starting interest rate exchange agreements in anticipation of the issuance of the   4.2%   Senior Notes and the   4.5%   Senior Notes. The Company cash settled these two interest rate contracts in 2010 and 2011 for a total of   $68.9 million  , which is being amortized into interest expense over the   10   year term of the debt instruments.  Approximately   $6.3 million   of the pre-tax amount included in Accumulated other comprehensive income (loss) in shareholders  equity at   September 30, 2018   will be recognized in net income over the next 12 months as the underlying hedged transactions are realized. 
+    
+  At December 31, 2017, the Company had outstanding foreign currency exchange contracts with a combined notional value of    180 million   that were not designated as hedges for accounting purposes and, as a result, the change in the fair value of these  
+  
+   18 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+foreign currency exchange contracts and the corresponding foreign currency gain or loss on the revaluation of the intercompany loans were both recorded through earnings within Other (income) expense - net in the Condensed Consolidated Statements of Operations each period as incurred.   
+    
+  In April 2018, the Company settled its outstanding foreign currency exchange contracts in conjunction with its repayment of the underlying intercompany loans and did not extend these foreign currency exchange contracts. Along with the repayment of the intercompany loans, the Company was required to make a capital contribution to one of its subsidiaries, which resulted in a   $2.2 million   stamp duty in Switzerland which was recorded within Selling, general and administrative expenses in the Condensed Consolidated Statements of Operations.   
+    
+  As a result of the foreign currency exchange contracts being settled in April 2018, the Company did not record a gain or loss on the foreign currency exchange contracts during the   three months ended     September 30, 2018  .  The Company did record a gain of   $0.9 million   during the   nine months ended     September 30, 2018   and a gain of   $9.3 million   and   $14.8 million  , respectively, during the   three and nine months ended     September 30, 2017  . The foreign currency exchange gains were recorded within Other (income) expense - net in the Condensed Consolidated Statements of Operations. The Company did not record a gain or loss on the revaluation of intercompany loans during the   three months ended     September 30, 2018   due to these loans being settled in April 2018. The Company did record a foreign currency transaction loss of   $0.9 million   during the   nine months ended     September 30, 2018   and a foreign currency transaction loss of   $10.0 million   and   $15.2 million  , respectively during the   three and nine months ended     September 30, 2017  . The losses on the revaluation of the intercompany loans were recorded within Other (income) expense - net in the Condensed Consolidated Statements of Operations. For the   nine months ended     September 30, 2018  , the Company received   $6.6 million   in settlement of the foreign currency exchange contracts.  
+    
+  Fair values relating to derivative financial instruments reflect the estimated amounts that the Company would receive or pay to sell or buy the contracts based on quoted market prices of comparable contracts at each balance sheet date.  
+    
+  The following table sets forth the fair value amounts of derivative instruments held by the Company as of   September 30, 2018   and   December 31, 2017  : 
+
+12.    Fair Value Measurements 
+  ASC 820,   Fair Value Measurements and Disclosures,   defines fair value, provides guidance for measuring fair value and requires certain disclosures. This standard discusses valuation techniques, such as the market approach (comparable market prices), the income approach (present value of future income or cash flow) and the cost approach (cost to replace the service capacity of an asset or replacement cost). The standard utilizes a fair value hierarchy that prioritizes the inputs to the valuation techniques used to measure fair value into three broad levels. The following is a brief description of those three levels: 
+             
+    Level 1: Observable inputs such as quoted prices (unadjusted) in active markets for identical assets or liabilities. 
+                
+    Level 2: Inputs, other than quoted prices that are observable for the asset or liability, either directly or indirectly. These include quoted prices for similar assets or liabilities in active markets and quoted prices for identical or similar assets or liabilities in markets that are not active. 
+                
+    Level 3: Unobservable inputs that reflect the reporting entity s own assumptions. 
+     The following table summarizes the basis used to measure the Company s financial assets at fair value on a recurring basis in the balance sheets at   September 30, 2018   and   December 31, 2017  : 
+
+19 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+There were no transfers of assets or liabilities between Level 1 and Level 2 during the   three and nine months ended     September 30, 2018   or the year ended   December 31, 2017  . 
+    
+  The Company utilized a Monte Carlo Simulation during the earn-out period to determine the fair value of the contingent consideration associated with the acquisition of FLI. The   $3.4 million   represents management s best estimate of the liability, based on a range of outcomes of FLI s two-year operating results, from August 1, 2018 to July 31, 2020, and is expected to be paid during the third quarter of 2020. As of September 30, 2018, the   $3.4 million   of contingent consideration is included in Other noncurrent liabilities on the Condensed Consolidated Balance Sheets. 
+    
+  The carrying values of our cash and cash equivalents, accounts receivable, accounts payable and accrued expenses approximate their fair values because of the short term nature of these instruments. At   September 30, 2018  , the fair value of the outstanding indebtedness under our Revolving Facility,   3.2%   Senior Notes,   3.37%   Senior Notes,   4.5%   Senior Notes,   4.2%   Senior Notes and other borrowings, based on quoted market prices and current market rates for debt with similar credit risk and maturity, was approximately   $851.8 million   compared to the carrying value of   $850.5 million  . This fair value measurement is classified as Level 2 within the fair value hierarchy since it is determined based upon significant inputs observable in the market, including interest rates on recent financing transactions to entities with a credit rating similar to ours. 
+
+13.    Restructuring 
+  During the   three and nine months ended     September 30, 2018  , the Company recorded   $4.6 million   and   $8.3 million  , respectively, of restructuring costs as part of restructuring initiatives that support the implementation of key strategic efforts designed to facilitate long-term, sustainable growth through cost reduction actions, primarily consisting of employee reductions and facility rationalization. The restructuring costs included severance benefits and exit costs which were included in Restructuring expenses in the Condensed Consolidated Statements of Operations. Severance costs primarily consisted of severance benefits through payroll continuation, COBRA subsidies, outplacement services, conditional separation costs and employer tax liabilities, while exit costs primarily consisted of asset disposals or impairments and lease exit and contract termination costs. 
+  Pre-tax restructuring expenses by segment for the   three and nine months ended     September 30, 2018   were as follows: 
+
+20 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+Restructuring accruals of   $6.4 million   and   $4.2 million   at   September 30, 2018   and   December 31, 2017  , respectively, are recorded in Accrued expenses on the Condensed Consolidated Balance Sheets. Severance benefits are expected to be paid within the next twelve months using cash from operations. The changes in the restructuring accrual for the   nine   months ended   September 30, 2018   are as follows: 
+
+14.    Other Comprehensive Income (Loss) 
+  The components of other comprehensive income (loss) are as follows: 
+
+21 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+The following table summarizes the amounts reclassified from accumulated other comprehensive income (loss) to net income during the   three and nine months ended     September 30, 2018   and   2017  : 
+
+The Company recognizes the service cost component in both Selling, general and administrative expenses and Cost of sales in the Condensed Consolidated Statements of Operations depending on the functional area of the underlying employees included in the plans. 
+
+15.    Common and Preferred Stock 
+    
+  On   December 1, 2015  , the Company s Board of Directors approved a   $300.0 million   increase in the authorized level for repurchases of common stock. Repurchases under the program will be funded with future cash flow generation or borrowings available under the Revolving Facility.  During the   nine months ended     September 30, 2018  , the Company repurchased a total of   357 thousand   shares at a cost of   $51.7 million  , of which   $1.0 million   was settled in   October     2018  . During the   nine months ended     September 30, 2017  , the Company repurchased a total of   222 thousand   shares at a cost of   $23.6 million  , of which   $1.0 million   was settled in   October     2017  . As of   September 30, 2018  , the amount of share repurchase authorization remaining was   $499.3 million  . 
+    
+  At   September 30, 2018   and   December 31, 2017  , the Company had   150 million   shares of authorized common stock, with a par value of   $.01   per share, and   5 million   shares of authorized preferred stock, with a par value of   $.01   per share.   No   preferred stock was outstanding at   September 30, 2018   or   December 31, 2017  . 
+
+16.    Share-Based Compensation 
+    
+  Stock Options 
+  Weighted average option fair values and assumptions for the periods specified are disclosed below. The fair value of each option grant was estimated on the date of the grant using the Binomial lattice option pricing model.  
+
+22 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+Total compensation cost for stock options is as follows:   
+
+  A summary of the Company s stock option activity as of   September 30, 2018  , and changes during the   nine months ended     September 30, 2018  , are presented in the following table: 
+
+Restricted Stock  
+    
+  Restricted stock awards generally cliff vest after   three   years for employees and non-employee directors. Unvested restricted stock carries dividend and voting rights and the sale of the shares is restricted prior to the date of vesting. A summary of the Company s restricted stock activity as of   September 30, 2018  , and changes during the   nine months ended     September 30, 2018  , are presented as follows: 
+
+Dividends are paid on restricted stock awards whose fair value is equal to the market price of the Company s stock at the date of the grant. 
+
+23 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+Total compensation cost for restricted shares is as follows: 
+
+Cash-Settled Restricted Stock 
+  The Company also maintains a cash-settled share based compensation plan for certain employees. Cash-settled restricted stock awards generally cliff vest after   three   years. A summary of the Company s unvested cash-settled restricted stock activity as of   September 30, 2018  , and changes during the   nine months ended     September 30, 2018  , are presented in the following table:   
+
+  Dividend equivalents are paid on certain cash-settled restricted stock awards. Total compensation cost for cash-settled restricted stock is as follows: 
+
+Performance Share Units 
+  Weighted average performance share unit fair values and assumptions for the period specified are disclosed below. The performance share units are market condition awards and have been assessed at fair value on the date of grant using a Monte Carlo simulation model.   
+
+24 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+A summary of the Company s performance share unit activity as of   September 30, 2018  , and changes during the   nine months ended     September 30, 2018  , are presented in the following table: 
+
+On   December 31, 2017  ,   62,755   performance share units vested.  Based on the Company s relative total shareholder return rank during the   three   year period ended   December 31, 2017  , the Company achieved a   239%   payout factor and issued   143,897   shares in February 2018. 
+  Total compensation cost for performance share units is as follows: 
+
+The Company s policy is to recognize compensation cost on a straight-line basis, assuming forfeitures, over the requisite service period for the entire award. Classification of stock compensation cost within the Condensed Consolidated Statements of Operations is consistent with classification of cash compensation for the same employees. 
+  As of   September 30, 2018  , there was   $15.3 million   of total unrecognized compensation cost related to stock options that is expected to be recognized over a weighted-average period of   1.4   years,   $5.9 million   of total unrecognized compensation cost related to restricted stock that is expected to be recognized over a weighted-average period of   1.1   years,   $4.6 million   of total unrecognized compensation cost related to cash-settled restricted shares that is expected to be recognized over a weighted-average period of   1.1   years, and   $10.0 million   of total unrecognized compensation cost related to performance share units that is expected to be recognized over a weighted-average period of   1.0   years. 
+
+25 
+
+Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+17.    Retirement Benefits 
+  The Company sponsors several qualified and nonqualified defined benefit and defined contribution pension plans and other postretirement plans for its employees. The following tables provide the components of net periodic benefit cost for its major defined benefit plans and its other postretirement plans.  
+
+The Company previously disclosed in its financial statements for the year ended   December 31, 2017  , that it expected to contribute approximately   $5.5 million   to its defined benefit plans and   $0.1 million   to its other postretirement benefit plans in   2018  . During the first   nine   months of   2018  , the Company contributed a total of   $12.6 million   to fund these plans and expects to contribute an additional   $0.8 million   in the remaining   three   months of   2018  . Included in the total of the   $12.6 million   is a discretionary contribution for   $10.3 million   to the U.S. pension plan made in the three months ended September 30, 2018. 
+
+18.    Legal Proceedings 
+    
+  The Company and certain of its subsidiaries are involved in pending and threatened legal, regulatory and other proceedings arising in the ordinary course of business.  These proceedings may pertain to matters such as product liability or contract disputes, and may also involve governmental inquiries, inspections, audits or investigations relating to issues such as tax matters, intellectual property, environmental, health and safety issues, governmental regulations, employment and other matters.  Although the results of such legal proceedings cannot be predicted with certainty, the Company believes that the ultimate disposition of these matters will not have a material adverse effect, individually or in the aggregate, on the Company s business, financial condition, results of operations or cash flows. 
+
+19.    Income Taxes  
+
+26 
+
+Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+The Company s provision for income taxes is based upon estimated annual tax rates for the year applied to federal, state and foreign income. The provision for income taxes   decreased   to   $26.9 million   in the   third quarter   of   2018   from   $30.0 million   in the same period in   2017  . The effective tax rate   decreased   to   20.2%   for the   third quarter   of   2018   compared to   26.4%   during the same period in   2017   due to the enactment of the Tax Cuts and Jobs Act (the  Tax Act ), including the 14% decrease in the U.S. statutory income tax rate and the introduction of the Foreign Derived Intangible Income ( FDII ) deduction, as well as the excess tax benefits related to share-based compensation, offset by the removal of the domestic production activities deduction, the new Global Intangible Low-Taxed Income ( GILTI ) provision, increased limitation on the deductibility of executive compensation and the mix of global pre-tax income among jurisdictions. 
+
+The provision for income taxes   decreased   to   $87.7 million   in the   nine months ended September 30, 2018   from   $88.2 million   in the same period in   2017  . The effective tax rate   decreased   to   21.9%   for the   nine months ended September 30, 2018   compared to   26.6%   in the same period in   2017   due to the enactment of the Tax Act, including the 14% decrease in the U.S. statutory income tax rate and the introduction of the FDII deduction, as well as the excess tax benefits related to share-based compensation, offset by the removal of the domestic production activities deduction, the new GILTI provision, increased limitation on the deductibility of executive compensation and the mix of global pre-tax income among jurisdictions.  
+    
+  Because the changes included in the Tax Act are broad and complex, on December 22, 2017, the SEC issued Staff Accounting Bulletin No. 118,   Income Tax Accounting Implications of the Tax Cuts and Jobs Act   ( SAB 118 ), which provides guidance on accounting for the tax effects of the Tax Act.  SAB 118 provides a measurement period that should not extend beyond one year from the Tax Act enactment date for companies to complete the accounting under ASC 740. In accordance with SAB 118, a company must reflect the income tax effects of those aspects of the Tax Act for which the accounting under ASC 740 is complete. To the extent that a company s accounting for certain income tax effects of the Tax Act is incomplete but it is able to determine a reasonable estimate, it must record a provisional estimate to be included in the financial statements. If a company cannot determine a provisional estimate to be included in the financial statements, it should continue to apply ASC 740 on the basis of the provision of the tax laws that were in effect immediately before the enactment of the Tax Act.  While the Company is able to make reasonable estimates of the impact of the reduction in the corporate rate and the deemed repatriation transition tax, the final impact of the Tax Act may differ from these estimates, due to, among other things, changes in the Company s interpretations and assumptions, additional guidance that may be issued by either the Internal Revenue Service or the U.S. Department of Treasury and actions the Company may take. The Company is continuing to gather additional information to determine the final impact.  While the Company was able to make reasonable estimates of certain impacts (and therefore, recorded provisional adjustments), the Company s accounting for the following elements of the Tax Act, for the   nine months ended     September 30, 2018  , is incomplete as follows: 
+    
+  Reduction of U.S. federal corporate tax rate  : The Tax Act reduces the corporate tax rate to 21%, effective January 1, 2018.  The Company recorded a provisional decrease to its deferred tax liability of   $40.6 million  , with a corresponding adjustment to deferred income tax benefit of   $40.6 million   for the year ended December 31, 2017.  While the Company is able to make a reasonable estimate of the impact of the reduction in the corporate rate, it may be affected by other analyses related to the Tax Act which are still ongoing, including, but not limited to, the state tax effect of adjustments made to federal temporary differences.  For the   three and nine months ended     September 30, 2018  , the Company has not made adjustments to the deferred tax liability and corresponding deferred income tax benefit recorded at   December 31, 2017  . 
+    
+  Deemed Repatriation Transition Tax  : The Deemed Repatriation Transition Tax ( Transition Tax ) is a tax on previously untaxed accumulated and current earnings and profits of certain foreign subsidiaries.  To determine the amount of the Transition Tax, the Company must determine, in addition to other factors, the amount of post-1986 earnings and profits of the relevant subsidiaries as well as the amount of non-U.S. income taxes paid on such earnings.  The Company was able to make a reasonable estimate of the Transition Tax and recorded a provisional Transition Tax obligation of   $30.3 million   for the year ended   December 31, 2017  .  During the first quarter, the IRS released Revenue Procedure 2018-17 and Notice 2018-26, the effects of which increased the provisional Transition Tax by   $0.1 million  .  No adjustments were made to the Transition Tax during the second or   third quarter   of   2018  , therefore, as of   September 30, 2018  , the Company had a provisional Transition Tax obligation of   $30.4 million  .  The IRS guidance discussed above also had the impact of increasing the 2017 income tax liability determined without regard to the Transition Tax by   $6.4 million  , which was recorded in the first quarter of   2018  . The Company is continuing to gather additional information to more precisely compute the amount of Transition Tax. 
+    
+  Removal of permanent reinvestment representation on certain undistributed foreign earnings  : As a result of the enactment of the Tax Act, the Company has decided to remove the Permanent Reinvestment Representation with respect to certain of its subsidiaries in Canada, Italy and Germany as of   December 31, 2017  .  Under the mandatory repatriation provisions of the Tax Act, post-1986 undistributed earnings were taxed in the U.S. as if they were distributed before   December 31, 2017  .  However, with the removal of the permanent reinvestment representation with respect to select subsidiaries in Canada, Italy and Germany, the non-creditable withholding taxes and any local country taxes associated with future dividends from these subsidiaries are required to be recorded as deferred tax liabilities as of the end of   2017  .  The Company recorded a provisional increase in its  
+  
+   27 
+
+     Table of Contents  
+    
+  IDEX CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (Amounts in thousands except share data and where otherwise indicated) 
+  (unaudited) 
+
+deferred tax liability of   $9.2 million  , with a corresponding adjustment to deferred income tax expense of   $9.2 million   for the year ending   December 31, 2017  .  During the second quarter the deferred tax liability was reduced by   $1.4 million   to   $7.8 million  .  No adjustments were made to the deferred tax liability during the   third quarter   of   2018  .  The Company is considering removal of the permanent reinvestment representation with respect to its remaining subsidiaries, which it estimates would result in an additional   $10.8 million   increase to its deferred tax liability.  
+    
+  Global intangible low taxed income  : The Tax Act creates a new requirement that certain income (i.e. GILTI) earned by controlled foreign corporations ( CFCs ) must be included currently in the gross income of the CFCs  U.S. shareholder.  GILTI is the excess of the U.S. shareholder s  net CFC tested income  over the net deemed intangible income return, which is currently defined as the excess of (1)   10%   of the aggregate of the U.S. shareholder s pro rata share of the qualified business asset investment of each CFC with respect to which it is a U.S. shareholder over (2) the amount of certain interest expense taken into account in the determination of net CFC-tested income.  In January 2018, FASB released guidance on accounting for the GILTI tax.  The guidance indicates that either accounting for deferred taxes related to GILTI tax inclusions or treating the GILTI tax as a period cost are both acceptable methods subject to an accounting policy election.  Because of the complexity of the new GILTI tax rules, the Company is continuing to evaluate this provision of the Tax Act and the application of ASC 740. 
+    
+  The Company and its subsidiaries file income tax returns in the U.S. federal jurisdiction, and various state and foreign jurisdictions.  Due to the potential for resolution of federal, state and foreign examinations, and the expiration of various statutes of limitation, it is reasonably possible that the Company s gross unrecognized tax benefits balance may change within the next twelve months by a range of   zero   to   $1.3 million  . 
+
+Item 2.      Management s Discussion and Analysis of Financial Condition and Results of Operations 
+  Cautionary Statement Under the Private Securities Litigation Reform Act 
+  This quarterly report on Form 10-Q, including the  Overview and Outlook  and  Liquidity and Capital Resources  sections of this Management s Discussion and Analysis of Financial Condition and Results of Operations, contains  forward-looking  statements within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. These statements may relate to, among other things, capital expenditures, acquisitions, cost reductions, cash flow, revenues, earnings, market conditions, global economies and operating improvements, and are indicated by words or phrases such as  anticipates,   estimates,   plans,   expects,   projects,   forecasts,   should,   could,   will,   management believes,   the Company believes,   the Company intends,  and similar words or phrases. These statements are subject to inherent uncertainties and risks that could cause actual results to differ materially from those anticipated at the date of this report. The risks and uncertainties include, but are not limited to, the following: economic and political consequences resulting from terrorist attacks and wars; levels of industrial activity and economic conditions in the U.S. and other countries around the world; pricing pressures, other competitive factors and levels of capital spending in certain industries, all of which could have a material impact on order rates and the Company s results, particularly in light of the low levels of order backlogs it typically maintains; the Company s ability to make acquisitions and to integrate and operate acquired businesses on a profitable basis; the relationship of the U.S. dollar to other currencies and its impact on pricing and cost competitiveness; political and economic conditions in foreign countries in which the Company operates; developments with respect to trade policy and tariffs; interest rates; capacity utilization and the effect this has on costs; labor markets; market conditions and material costs; and developments with respect to contingencies, such as litigation and environmental matters. The forward-looking statements included here are only made as of the date of this report, and management undertakes no obligation to publicly update them to reflect subsequent events or circumstances, except as may be required by law. Investors are cautioned not to rely unduly on forward-looking statements when evaluating the information presented here. 
+
+Overview and Outlook 
+  IDEX is an applied solutions company specializing in the manufacture of fluid and metering technologies, health and science technologies and fire, safety and other diversified products built to customers  specifications. IDEX s products are sold in niche markets across a wide range of industries throughout the world. Accordingly, IDEX s businesses are affected by levels of industrial activity and economic conditions in the U.S. and other countries where it does business and by the relationship of the U.S. Dollar to other currencies. Levels of capacity utilization and capital spending in certain industries as well as overall industrial activity are important factors that influence the demand for IDEX s products. 
+  
+   28 
+
+     Table of Contents  
+
+The Company has three reportable business segments: Fluid   Metering Technologies, Health   Science Technologies and Fire   Safety/Diversified Products. Within our three reportable segments, the Company maintains thirteen platforms, where we focus on organic growth and strategic acquisitions. Each of our thirteen platforms is also a reporting unit that we annually test goodwill for impairment.    
+  The Fluid   Metering Technologies segment contains the Energy platform (comprised of Corken, Liquid Controls, SAMPI and Toptech), the Valves platform (comprised of Alfa Valvole, Richter and Aegis), the Water platform (comprised of Pulsafeeder, OBL, Knight, ADS, Trebor and iPEK), the Pumps platform (comprised of Viking and Warren Rupp) and the Agriculture platform (comprised of Banjo). The Health   Science Technologies segment contains the Scientific Fluidics   Optics platform (comprised of Eastern Plastics, Rheodyne, Sapphire Engineering, Upchurch Scientific, ERC, CiDRA Precision Services, thinXXS Microtechnology, CVI Melles Griot, Semrock, AT Films and FLI), the Sealing Solutions platform (comprised of Precision Polymer Engineering, FTL Seals Technology, Novotema and SFC Koenig), the Gast platform, the Micropump platform and the Material Processing Technologies platform (comprised of Quadro, Fitzpatrick, Microfluidics and Matcon). The Fire   Safety/Diversified Products segment contains the Fire   Safety platform (comprised of Class 1, Hale, Godiva, Akron Brass, AWG Fittings, Dinglee, Hurst Jaws of Life, Lukas and Vetter), the Band-It platform and the Dispensing platform.  
+  The Fluid   Metering Technologies segment designs, produces and distributes positive displacement pumps, flow meters,  injectors and other fluid-handling pump modules and systems and provides flow monitoring and other services for the food, chemical, general industrial, water and wastewater, agriculture and energy industries. 
+  The Health   Science Technologies segment designs, produces and distributes a wide range of precision fluidics, rotary lobe pumps, centrifugal and positive displacement pumps, roll compaction and drying systems used in beverage, food processing, pharmaceutical and cosmetics, pneumatic components and sealing solutions, including very high precision, low-flow rate pumping solutions required in analytical instrumentation, clinical diagnostics and drug discovery, high performance molded and extruded sealing components, biocompatible medical devices and implantables, air compressors used in medical, dental and industrial applications, optical components and coatings for applications in the fields of scientific research, defense, biotechnology, aerospace, telecommunications and electronics manufacturing, laboratory and commercial equipment used in the production of micro and nano scale materials, precision photonic solutions used in life sciences, research and defense markets and precision gear and peristaltic pump technologies that meet exacting original equipment manufacturer specifications. 
+  The Fire   Safety/Diversified Products segment designs, produces and distributes firefighting pumps, valves and controls, rescue tools, lifting bags and other components and systems for the fire and rescue industry, engineered stainless steel banding and clamping devices used in a variety of industrial and commercial applications and precision equipment for dispensing, metering and mixing colorants and paints used in a variety of retail and commercial businesses around the world. 
+  Management s primary measurements of segment performance are sales, operating income and operating margin. In addition, due to the highly acquisitive nature of the Company, the determination of operating income includes amortization of acquired intangible assets and as a result, management reviews depreciation and amortization as a percentage of sales. These measures are monitored by management and significant changes in operating results versus current trends in end markets and variances from forecasts are analyzed with segment management. 
+  This report references organic sales, a non-GAAP measure, that refers to sales from continuing operations calculated according to generally accepted accounting principles in the United States but excludes (1) the impact of foreign currency translation and (2) sales from acquired or divested businesses during the first twelve months of ownership or divestiture. The portion of sales attributable to foreign currency translation is calculated as the difference between (a) the period-to-period change in organic sales and (b) the period-to-period change in organic sales after applying prior period foreign exchange rates to the current year period. Management believes that reporting organic sales provides useful information to investors by helping identify underlying growth trends in our business and facilitating easier comparisons of our revenue performance with prior and future periods and to our peers. The Company excludes the effect of foreign currency translation from organic sales because foreign currency translation is not under management s control, is subject to volatility and can obscure underlying business trends. The Company excludes the effect of acquisitions and divestitures because they can obscure underlying business trends and make comparisons of long term performance difficult due to the varying nature, size and number of transactions from period to period and between the Company and its peers. 
+  EBITDA means earnings before interest, income taxes, depreciation and amortization. Given the acquisitive nature of the Company, which results in a higher level of amortization expense from recently acquired businesses, management uses EBITDA as an internal operating metric to provide another representation of the businesses  performance across our three segments and for enterprise valuation purposes. Management believes that EBITDA is useful to investors as an indicator of the strength and performance of the Company and a way to evaluate and compare operating performance and value companies within our industry. Management believes EBITDA margin is useful for the same reason as EBITDA. EBITDA is also used to calculate certain financial  
+  
+   29 
+
+     Table of Contents  
+
+covenants, as discussed in Note 10 in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1,  Financial Statements.   
+  Organic sales have been reconciled to net sales and EBITDA has been reconciled to net income in Item 2 under the heading  Non-GAAP Disclosures.  The reconciliation of segment EBITDA to net income was performed on a consolidated basis due to the fact that we do not allocate consolidated interest expense or the consolidated provision for income taxes to our segments.  
+           Management uses Adjusted operating income, Adjusted net income, Adjusted EBITDA and Adjusted EPS as metrics by which to measure performance of the Company since they exclude items that are not reflective of ongoing operations, such as restructuring expenses.  
+  The non-GAAP financial measures disclosed by the Company should not be considered a substitute for, or superior to, financial measures prepared in accordance with accounting principles generally accepted in the United States of America ( U.S. GAAP ).  The financial results prepared in accordance with U.S. GAAP and the reconciliations from these results should be carefully evaluated.  
+  Some of our key financial results for the   three months ended September 30, 2018   when compared to the same period in the prior year are as follows: 
+             
+    Sales of   $622.9 million     increased     8%  ; organic sales (which excludes acquisitions, divestitures and foreign currency translation) were   up     9%  .  
+         Some of our key financial results for the   nine months ended September 30, 2018   when compared to the same period in the prior year are as follows: 
+             
+    Sales of $  1,869.6 million     increased     10%  ; organic sales (which excludes acquisitions, divestitures and foreign currency translation) were   up     8%  . 
+         Given the Company s current outlook, we are projecting   fourth quarter     2018   EPS in the range of $1.25 to $1.27 with full year   2018   adjusted EPS of $5.35 to $5.37. We are also projecting full year organic revenue growth expectations to be approximately 8%, with 5% to 6% organic revenue growth expected in the   fourth quarter  .  
+
+Results of Operations 
+    
+  The following is a discussion and analysis of our results of operations for the   three and nine months ended     September 30, 2018   and   2017  . Segment operating income and EBITDA exclude unallocated corporate operating expenses of   $18.5 million   and   $17.8 million   for the   three months ended     September 30, 2018   and   2017  , respectively, and   $61.2 million   and   $53.1 million   for the   nine months ended     September 30, 2018   and   2017  , respectively. 
+
+30 
+
+Table of Contents  
+
+Consolidated Results for the   Three Months Ended September 30, 2018   Compared with the Same Period in   2017    
+
+For the   three months ended September 30, 2018  , Fluid   Metering Technologies contributed   38%   of sales,   43%   of operating income and   41%   of EBITDA; Health   Science Technologies contributed   36%   of sales,   30%   of operating income and   32%   of EBITDA; and Fire   Safety/Diversified Products contributed   26%   of sales,   27%   of operating income and   27%   of EBITDA. These percentages are calculated on the basis of total segment (not total Company) sales, operating income and EBITDA.  
+    
+  Sales in the   third quarter   of   2018   were   $622.9 million  , which was an   8%     increase   compared to the same period last year. This increase reflects a   9%     increase   in organic sales and a   1%     unfavorable   impact from foreign currency translation. Sales to customers outside the U.S. represented approximately   50%   of total sales in the   third quarter   of   2018   compared with   50%   during the same period in   2017  .  
+    
+  Gross profit of   $280.2 million   in the   third quarter   of   2018     increased     $22.3 million  , or   9%  , from the same period in   2017  , mainly due to increased sales volume. Gross margin of   45.0%   in the   third quarter   of   2018     increased     10   basis points from   44.9%   during the same period in   2017  , primarily due to productivity initiatives and volume leverage, partially offset by higher engineering costs. 
+    
+  Selling, general and administrative expenses   decreased   to   $130.5 million   in the   third quarter   of   2018   from   $131.4 million   in the same period in   2017  . The   decrease   is primarily due to lower amortization expense and lower consulting fees, partially offset by increased investment in the business. Corporate costs   increased   slightly to   $17.9 million   in the   third quarter   of   2018   compared to   $17.8 million   in the   third quarter   of   2017  . As a percentage of sales, selling, general and administrative expenses were   21.0%   for the   third quarter   of   2018  ,   down     190   basis points compared to   22.9%   during the same period in   2017  . 
+    
+  Pre-tax restructuring expenses of   $4.6 million   were incurred in the third quarter of 2018 as part of initiatives that support the implementation of key strategic efforts designed to facilitate long-term, sustainable growth through cost reduction actions primarily consisting of employee reductions and facility rationalization. 
+    
+  Operating income of   $145.1 million   and operating margin of   23.3%   in the   third quarter   of   2018   were   up   from the   $126.5 million   and   22.0%  , respectively, recorded in the same period in   2017  . The increase in operating margin is primarily due to higher volume and productivity initiatives, partially offset by the impact of restructuring expenses in the current year period. 
+    
+  Other (income) expense - net decreased to   $0.9 million   of expense in the   third quarter   of   2018   compared to   $1.7 million   of expense in the same period in   2017  , primarily due to less foreign currency losses in   2018   compared to the same period in 2017. 
+    
+  Interest expense of   $11.0 million   in the   third quarter   of   2018   was   down   from   $11.1 million   in the same period in   2017   due to lower borrowings on revolving facilities. 
+    
+  Provision for income taxes is based upon estimated annual tax rates for the year applied to federal, state and foreign income. The provision for income taxes   decreased   to   $26.9 million   in the   third quarter   of   2018   compared to   $30.0 million   in the same period in   2017  . The effective tax rate   decreased   to   20.2%   for the   third quarter   of   2018   compared to   26.4%   in the same period in   2017   due to the enactment of the Tax Cuts and Jobs Act (the  Tax Act ), including the 14% decrease in the U.S. statutory income tax rate and the introduction of the Foreign Derived Intangible Income ( FDII ) deduction, as well as the excess tax benefits related to share-based compensation, offset by the removal of the domestic production activities deduction, the new Global Intangible Low-Taxed Income ( GILTI ) provision, increased limitation on the deductibility of executive compensation and the mix of global pre-tax income among jurisdictions. 
+    
+  Net income in the   third quarter   of   2018   of   $106.4 million     increased   from   $83.8 million   during the same period in   2017  . Diluted earnings per share in the   third quarter   of   2018   of   $1.37     increased     $0.29  , or   27%  , compared with the same period in   2017  . 
+  
+   31 
+
+     Table of Contents  
+
+Fluid   Metering Technologies Segment 
+
+Sales of   $239.2 million     increased     $18.3 million  , or   8%  , in the   third quarter   of   2018   compared with the same period in   2017  . This reflects a   12%     increase   in organic sales, offset by a   1%     unfavorable   impact from foreign currency translation and a   3%   decrease from a divestiture (Faure Herman - October 2017). In the   third quarter   of   2018  , sales   increased     4%   domestically and   increased     14%   internationally compared to the same period in   2017  . Sales to customers outside the U.S. were approximately   45%   of total segment sales in the   third quarter   of   2018   compared with   43%   during the same period in   2017  . 
+    
+  Sales within our Pumps platform   increased   in the   third quarter   of    2018   compared to the same period in   2017   due to strength in the North American industrial distribution market as well as strength in the oil and gas end market and LACT (lease automatic custody transfer) products. Sales within our Agriculture platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   due to broad based demand across both OEM and distribution channels in North America and Europe. Sales within our Valves platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   as a result of strong demand within the chemical end markets domestically and in Europe and Asia. Sales within our Water platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   due to strong U.S. distribution. Sales within our Energy platform   decreased   slightly in the   third quarter   of   2018   compared to the same period in   2017  , primarily due to the Faure Herman divestiture in 2017, partially offset by continued strength in the LPG end market and strong truck builds. 
+    
+  Operating income and operating margin of   $69.8 million   and   29.2%  , respectively, in the   third quarter   of   2018   were   higher   than the   $62.0 million   and   28.1%   recorded in the   third quarter   of   2017  , primarily due to higher volume and productivity initiatives, partially offset by the impact of restructuring expenses in the current year period. 
+  Health   Science Technologies Segment 
+
+Sales of   $222.4 million     increased     $15.3 million  , or   7%  , in the   third quarter   of   2018   compared with the same period in   2017  . This reflects a   6%     increase   in organic sales, a   2%     increase   from acquisitions (Finger Lakes Instrumentation - July 2018 and thinXXS - December 2017), partially offset by a   1%     unfavorable   impact from foreign currency translation. In the   third quarter   of   2018  , sales   increased     10%   domestically and   increased     6%   internationally compared to the same period in   2017  . Sales to customers outside the U.S. were approximately   55%   of total segment sales in the   third quarter   of   2018   compared with   56%   during the same period in   2017  .   
+    
+  Sales within our Material Processing Technologies platform   decreased   in the   third quarter   of   2018   compared to the same period in   2017  , primarily due to large project shipments in the prior year quarter. Sales within our Scientific Fluidics   Optics platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   due to new products, market share wins, strong demand in our primary end markets, including analytical instrumentation, IVD and biotechnology and semiconductor and the thinXXS and Finger Lakes Instrumentation acquisitions. Sales within our Sealing Solutions platform   increased   slightly in the   third quarter   of    2018   compared to the same period in   2017   primarily as a result of strength in the automotive and industrial end markets. Sales within our Gast platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   primarily due to strength in North American distribution as well as new product sales. Sales within our Micropump platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   due to strength in the core printing and hemodialysis markets.  
+    
+  Operating income of   $49.1 million   in the   third quarter   of   2018   was   higher   than the   $46.1 million   recorded in the same period in   2017  , while operating margin of   22.1%   was slightly lower than the   22.2%   recorded in the same period in 2017 primarily due  
+  
+   32 
+
+     Table of Contents  
+
+to impact of restructuring expenses in the current year period along with the dilutive impact of recent acquisitions, partially offset by volume leverage. 
+    
+  Fire   Safety/Diversified Products Segment 
+
+Sales of   $161.8 million     increased     $15.2 million  , or   10%  , in the   third quarter   of   2018   compared with the same period in   2017  . This reflects an   11%     increase   in organic sales partially offset by a   1%     unfavorable   impact from foreign currency translation. In the   third quarter   of   2018  , sales   increased     14%   domestically and   increased     7%   internationally compared to the same period in   2017  . Sales to customers outside the U.S. were approximately   51%   of total segment sales in the   third quarter   of   2018   compared to   53%   in the same period in   2017  .  
+    
+  Sales within our Dispensing platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   primarily due to large project orders in the U.S. and strength in Asia. Sales within our Band-It platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   due to market share gains in all global regions, strength in the energy, automotive and industrial end markets as well as new program wins. Sales within our Fire   Safety platform   increased   in the   third quarter   of   2018   compared to the same period in   2017   due to strong demand for rescue tools across all geographies.  
+    
+  Operating income and operating margin of   $44.7 million   and   27.6%  , respectively, in the   third quarter   of   2018   were   higher   than   $36.2 million   and   24.7%   recorded in the   third quarter   of   2017   due to higher volume and productivity initiatives.  
+
+Consolidated Results for the   Nine Months Ended     September 30, 2018   Compared with the Same Period in   2017    
+
+For the   nine months ended September 30, 2018  , Fluid   Metering Technologies contributed   38%   of sales,   42%   of operating income and   40%   of EBITDA; Health   Science Technologies contributed   36%   of sales,   31%   of operating income and   34%   of EBITDA; and Fire   Safety/Diversified Products contributed   26%   of sales,   27%   of operating income and   26%   of EBITDA. These percentages are calculated on the basis of total segment (not total Company) sales, operating income and EBITDA.  
+    
+  Sales in the first   nine   months of   2018   were   $1,869.6 million  , which was a   10%     increase   compared to the same period last year. This reflects an   8%     increase   in organic sales and a   2%     favorable   impact from foreign currency translation. Sales to customers outside the U.S. represented approximately   51%   of total sales in the first   nine   months of   2018   compared with   49%   during the same period in   2017  . 
+    
+  Gross profit of   $844.3 million   in the first   nine   months of   2018     increased     $78.5 million  , or   10%  , from the same period in   2017  , mainly due to increased sales volume. Gross margin of   45.2%   in the first   nine   months of   2018     increased     20   basis points from   45.0%   during the same period in   2017  , primarily due to productivity initiatives and volume leverage offset by increased engineering investments.  
+    
+  Selling, general and administrative expenses   increased   to   $406.4 million   in the first   nine   months of   2018   from   $393.7 million   during the same period in   2017  . The   increase   is primarily due to increased investment in the business and volume related expenses.  Corporate costs   increased   to   $60.0 million   in the first   nine   months of   2018   compared to   $53.0 million   in the first   nine   months of   2017   as a result of higher share-based compensation expense, pension expense, acquisition costs as well as a $2.2 million stamp duty in Switzerland.  As a percentage of sales, selling, general and administrative expenses were   21.8%   for the first   nine   months of   2018  ,   down     130   basis points compared to   23.1%   during the same period in   2017  . 
+
+33 
+
+     Table of Contents  
+
+Pre-tax restructuring expenses increased in the the first nine months of 2018 to   $8.3 million   compared with $4.8 million in the prior year period. The restructuring expenses were part of initiatives that support the implementation of key strategic efforts designed to facilitate long-term, sustainable growth through cost reduction actions primarily consisting of employee reductions and facility rationalization. 
+    
+  Operating income of   $429.6 million   and operating margin of   23.0%   in the first   nine   months of   2018   were   up   from the   $367.3 million   and   21.6%  , respectively, recorded in the same period in   2017  . The   increases   in operating income and margin are primarily due to higher volume and productivity initiatives, partially offset by higher restructuring expenses in the current year.  
+    
+  Other (income) expense - net was   $(3.6) million   in the first   nine   months of   2018   compared to   $1.7 million   in the same period in   2017  , primarily due to higher foreign currency transaction gains in   2018   as a result of the decision that foreign intercompany loans would no longer be permanent in nature on   December 31, 2017  . 
+    
+  Interest expense of   $33.1 million   in the first   nine   months of   2018   was   down   from   $33.9 million   in the same period in   2017   due to lower borrowings on the revolving credit facility during 2018 compared to 2017.  
+    
+  Provision for income taxes   decreased   to $  87.7 million   in the   nine   months ended   September 30, 2018   from $  88.2 million   in the same period in   2017  . The effective tax rate   decreased   to   21.9%   for the   nine   months ended   September 30, 2018   compared to   26.6%   in the same period in   2017   due to the enactment of the Tax Act, including the 14% decrease in the U.S. statutory income tax rate and the introduction of the FDII deduction, as well as excess tax benefits related to share-based compensation, offset by the removal of the domestic production activities deduction, the new GILTI provision, increased limitation on the deductibility of executive compensation and the mix of global pre-tax income among jurisdictions.  
+    
+  Net income in the first   nine   months of   2018   of $  312.4 million     increased   from $  243.5 million   during the same period in   2017  . Diluted earnings per share in the first   nine   months of   2018   of $  4.02     increased   $  0.87  , or   28%  , compared with the same period in   2017  . 
+    
+  Fluid   Metering Technologies Segment 
+
+Sales of $  714.3 million     increased     $55.4 million  , or   8%  , in the first   nine   months of   2018   compared with the same period in   2017  . This reflects a   9%     increase   in organic sales and a   1%     favorable   impact from foreign currency translation, partially offset by a   2%     decrease   from a divestiture (Faure Herman - October 2017). In the first   nine   months of   2018  , sales   increased     6%   domestically and   12%   internationally compared to the same period in   2017  . Sales to customers outside the U.S. were approximately   44%   of total segment sales during the first   nine   months of   2018   compared with   42%   during the same period in   2017  . 
+    
+  Sales within our Pumps platform   increased   in the first   nine   months of   2018   compared to the same period in   2017   due to strength in the North American industrial distribution market as well as strength in the oil and gas end market and LACT products. Sales within our Agriculture platform   increased   in the first   nine   months of   2018   compared to the same period in   2017   due to higher pre-season backlog compared to the prior year as well as broad based demand across both OEM and distribution channels in North America and Europe. Sales within our Valves platform   increased   in the first   nine   months of   2018   compared to the same period in   2017   primarily due to strong demand within the chemical end market in Europe and Asia. Sales within our Water platform   increased   in the first   nine   months of   2018   compared to the same period in   2017   due to strong international sales and increased project demand. Sales within our Energy platform   decreased   in the first   nine   months of   2018   compared to the same period in   2017   primarily as a result of the divestiture of our Faure Herman business, partially offset by strong truck builds and project wins in the LPG end market.   
+    
+  Operating income and operating margin of $  207.1 million   and   29.0%  , respectively, in the first   nine   months of   2018   were   higher   than the $  179.8 million   and   27.3%  , respectively, recorded in the first   nine   months of   2017  , primarily due to higher volume and productivity initiatives as well as the impact of higher restructuring expenses in the prior year. 
+  
+   34 
+
+     Table of Contents  
+
+Health   Science Technologies Segment 
+
+Sales of $  670.9 million     increased   $  59.7 million  , or   10%  , in the first   nine   months of   2018   compared with the same period in   2017  . This reflects a   7%     increase   in organic sales, a   1%     increase   from an acquisitions (Finger Lakes Instrumentation - July 2018 and thinXXS - December 2017) and a   2%     favorable   impact from foreign currency translation. In the first   nine   months of   2018  , sales   increased     6%   domestically and   13%   internationally compared to the same period in   2017  . Sales to customers outside the U.S. were approximately   57%   of total segment sales during the first   nine   months of   2018   compared with   55%   during the same period in   2017  . 
+    
+  Sales within our Material Processing Technologies platform   increased   in the first   nine   months of   2018   compared to the same period in   2017  , primarily due to the timing of several large projects in   2018   and continued demand within the pharmaceutical end market in Asia, partially offset by the impact of strategic changes in product focus which resulted in discontinued products in   2017  . Sales within our Scientific Fluidics   Optics platform   increased   in the first   nine   months of   2018   compared to the same period in   2017   due to new product introductions, market share wins, strong demand across our end markets, including IVD, biotechnology, semiconductor and defense and the Finger Lakes Instrumentation and thinXXS acquisitions. Sales within our Sealing Solutions platform   increased   in the first   nine   months of   2018   compared to the same period in   2017   due to the extremely strong global demand in the semiconductor end market and strength in the energy, automotive and industrial end markets. Sales within our Gast platform   increased   in the first   nine   months of   2018   compared to the same period in   2017  , primarily due to the impact of OEM tailwinds and higher distribution volume as well as new product introductions. Sales within our Micropump platform   increased   in the first   nine   months of   2018   compared to the same period in   2017   due to increasing demand in the printing end market.  
+    
+  Operating income and operating margin of $  153.5 million   and   22.9%  , respectively, in the first   nine   months of   2018   were   higher   than the $  134.6 million   and   22.0%   recorded in the same period in   2017  , primarily due to higher volume and productivity initiatives, partially offset by higher restructuring expenses in the current year related to site consolidations.  
+    
+  Fire   Safety/Diversified Products Segment 
+
+Sales of $  485.3 million     increased     $53.3 million  , or   12%  , in the first   nine   months of   2018   compared with the same period in   2017  . This reflects a   9%     increase   in organic sales and a   3%     favorable   impact from foreign currency translation. In the first   nine   months of   2018  , sales   increased     10%   domestically and   14%   internationally compared with the same period in   2017  . Sales to customers outside the U.S. were approximately   53%   of total segment sales in the first   nine   months of   2018   and   52%   during the same period in   2017  .  
+    
+  Sales within our Dispensing platform   increased   in the first   nine   months of   2018   compared to the same period in   2017   due to strong global demand led by the U.S. and Asia. Sales within our Band-It platform   increased   compared to the first   nine   months of   2017   due to market share gain in all global regions, strength in the energy, automotive and industrial end markets and several large project wins. Sales within our Fire   Safety platform   increased   compared to the first   nine   months of   2017   primarily due to OEM and distribution strength as well as strong demand for rescue tools across all geographies. 
+    
+  Operating income and operating margin of $  130.2 million   and   26.8%  , respectively, in the first   nine   months of   2018   were   higher   than the $  106.0 million   and   24.5%   recorded in the same period in   2017  , primarily due to increased volume and productivity initiatives, partially offset by higher restructuring expenses in the current year. 
+  
+   35 
+
+Table of Contents  
+
+Liquidity and Capital Resources 
+  Operating Activities 
+   Cash flows from operating activities for the first   nine   months of   2018     increased     $29.2 million  , or   10%  , to   $325.8 million   compared to the first   nine   months of   2017   due to   higher   net income and   lower   income tax payments, partially offset by   higher   working capital as a result of the timing of sales and stronger than expected demand as well as higher variable compensation payments. At   September 30, 2018  , working capital was   $795.0 million   and the Company s current ratio was   3.2   to 1. At   September 30, 2018  , the Company s cash and cash equivalents totaled   $491.8 million  , of which   $299.0 million   was held outside of the United States. 
+  Investing Activities 
+  Cash flows   used in   investing activities for the first   nine   months of   2018     increased     $41.8 million   to   $65.0 million   compared to the same period in   2017  , primarily due to $4.0 million spent on the purchase of intellectual property assets from Phantom,   $20.2 million   spent on the acquisition of FLI and an increase of $11.8 million of purchases of property, plant and equipment. 
+  Cash flows from operations were more than adequate to fund capital expenditures of   $39.9 million   and   $28.1 million   in the first   nine   months of   2018   and   2017  , respectively. Capital expenditures were generally for machinery and equipment that improved productivity, tooling, business system technology, replacement of equipment and investments in new facilities. Management believes that the Company has ample capacity in its plants and equipment to meet demand increases for future growth in the intermediate term. 
+  Financing Activities 
+  Cash flows   used in   financing activities for the first   nine   months of   2018   were   $134.6 million   compared to   $236.7 million   in the same period of   2017  , primarily as a result of lower repayments under the revolving credit facility in   2018   compared to the same period in   2017  , partially offset by   higher   dividends paid, higher proceeds from stock option exercises and   higher   share repurchases in   2018  .  
+  On June 13, 2016, the Company completed a private placement of a   $100 million   aggregate principal amount of   3.20%   Senior Notes due June 13, 2023 and a   $100 million   aggregate principal amount of   3.37%   Senior Notes due June 13, 2025 (collectively, the  Notes ) pursuant to a Note Purchase Agreement, dated June 13, 2016 (the  Purchase Agreement ). Each series of Notes bears interest at the stated amount per annum, which is payable semi-annually in arrears on each June 13   th    and December 13   th   . The Notes are unsecured obligations of the Company and rank pari passu in right of payment with all of the Company s other unsecured, unsubordinated debt. The Company may at any time prepay all, or any portion of the Notes; provided that such portion is greater than   5%   of the aggregate principal amount of the Notes then outstanding. In the event of a prepayment, the Company will pay an amount equal to par plus accrued interest plus a make-whole amount. In addition, the Company may repurchase Notes by making an offer to all holders of the Notes, subject to certain conditions. 
+  The Company maintains a revolving credit facility (the  Revolving Facility ), which is a   $700.0 million   unsecured, multi-currency bank credit facility expiring on June 23, 2020. At   September 30, 2018  , there was no balance outstanding under the Revolving Facility and   $9.0 million   of outstanding letters of credit, resulting in a net available borrowing capacity under the Revolving Facility at   September 30, 2018   of   $691.0 million  . Borrowings under the Revolving Facility bear interest, at either an alternate base rate or an adjusted LIBOR rate plus, in each case, an applicable margin.  The applicable margin is based on the Company s senior, unsecured long-term debt rating and can range from   .005%   to   1.50%  . Based on the Company s credit rating at   September 30, 2018  , the applicable margin was   1.10%  . Interest is payable (a) in the case of base rate loans, quarterly, and (b) in the case of LIBOR rate loans, on the maturity date of the borrowing, or quarterly from the effective date for borrowings exceeding three months. The Company may request increases in the lending commitments under the Credit Agreement, but the aggregate lending commitments pursuant to such increases may not exceed $350.0 million.  An annual Revolving Facility fee, also based on the Company s credit rating, is currently 15 basis points and is payable quarterly. 
+  There are two key financial covenants that the Company is required to maintain in connection with the Revolving Facility and the Notes, which require a minimum interest coverage ratio of 3.0 to 1 and a maximum leverage ratio of   3.50   to   1  . At   September 30, 2018  , the Company was in compliance with both of these financial covenants, as the Company s interest coverage ratio was 15.38 to 1 and the leverage ratio was 1.29 to 1. There are no financial covenants relating to the 4.5% Senior Notes or 4.2% Senior Notes; however, both are subject to cross-default provisions. 
+  On   December 1, 2015  , the Company s Board of Directors approved an increase of   $300.0 million   in the authorized level for repurchases of common stock. Repurchases under the program will be funded with future cash flow generation or borrowings available under the Revolving Facility. During the   nine months ended September 30, 2018  , the Company repurchased a total of   357 thousand   shares at a cost of   $51.7 million  , of which   $1.0 million   settled in   October     2018  . During the   nine months ended  
+  
+   36 
+
+     Table of Contents  
+
+September 30, 2017  , the Company repurchased a total of   222 thousand   shares at a cost of   $23.6 million  . As of   September 30, 2018  , the amount of share repurchase authorization remaining is   $499.3 million  . 
+  The Company believes current cash, cash from operations and cash available under the Revolving Facility will be sufficient to meet its operating cash requirements, planned capital expenditures, interest and principal payments on all borrowings, pension and postretirement funding requirements, authorized share repurchases and annual dividend payments to holders of the Company s common stock for the remainder of   2018  . Additionally, in the event that suitable businesses are available for acquisition upon acceptable terms, the Company may obtain all or a portion of the financing for these acquisitions through the incurrence of additional borrowings.  
+
+Non-GAAP Disclosures 
+    
+            Set forth below are reconciliations of Adjusted operating income, Adjusted net income, Adjusted EPS, EBITDA and Adjusted EBITDA to the comparable measures of net income and operating income, as determined in accordance with generally accepted accounting principles in the U.S. ( U.S. GAAP ). We have reconciled Adjusted operating income to Operating income; Adjusted net income to Net income; Adjusted EPS to EPS; and consolidated EBITDA, segment EBITDA, Adjusted EBITDA and Adjusted segment EBITDA to Net income. The reconciliation of segment EBITDA to net income was performed on a consolidated basis due to the fact that we do not allocate consolidated interest expense or the consolidated provision for income taxes to our segments. 
+    
+  EBITDA means earnings before interest, income taxes, depreciation and amortization. Given the acquisitive nature of the Company, which results in a higher level of amortization expense from recently acquired businesses, management uses EBITDA as an internal operating metric to provide another representation of the businesses  performance across our three segments and for enterprise valuation purposes. Management believes that EBITDA is useful to investors as an indicator of the strength and performance of the Company and a way to evaluate and compare operating performance and value companies within our industry. Management believes EBITDA margin is useful for the same reason as EBITDA.  EBITDA is also used to calculate certain financial covenants, as discussed in Note 10 in the Notes to Condensed Consolidated Financial Statements in Part I, Item 1,  Financial Statements.   
+    
+  This report references organic sales, a non-GAAP measure, that refers to sales from continuing operations calculated according to U.S. GAAP but excludes (1) the impact of foreign currency translation and (2) sales from acquired or divested businesses during the first twelve months of ownership or divestiture.  The portion of sales attributable to foreign currency translation is calculated as the difference between (a) the period-to-period change in organic sales and (b) the period-to-period change in organic sales after applying prior period foreign exchange rates to the current year period. Management believes that reporting organic sales provides useful information to investors by helping identify underlying growth trends in our business and facilitating easier comparisons of our revenue performance with prior and future periods and to our peers. The Company excludes the effect of foreign currency translation from organic sales because foreign currency translation is not under management s control, is subject to volatility and can obscure underlying business trends. The Company excludes the effect of acquisitions and divestitures because they can obscure underlying business trends and make comparisons of long term performance difficult due to the varying nature, size and number of transactions from period to period and between the Company and its peers. 
+    
+  Management uses Adjusted operating income, Adjusted net income and Adjusted EPS as metrics by which to measure performance of the Company since they exclude items that are not reflective of ongoing operations, such as restructuring expenses. Management also supplements its U.S. GAAP financial statements with adjusted information to provide investors with greater insight, transparency and a more comprehensive understanding of the information used by management in its financial and operational decision making. 
+    
+  In addition to measuring our cash flow generation and usage based upon the operating, investing and financing classifications included in the Condensed Consolidated Statements of Cash Flows, we also measure free cash flow (a non-GAAP measure) which represents net cash provided by operating activities minus capital expenditures. We believe that free cash flow is an important measure of operating performance because it provides management a measurement of cash generated from operations that is available for mandatory payment obligations and investment opportunities, such as funding acquisitions, paying dividends, repaying debt and repurchasing our common stock. 
+    
+  The non-GAAP financial measures disclosed by the Company should not be considered a substitute for, or superior to, financial measures prepared in accordance with U.S. GAAP. The financial results prepared in accordance with U.S. GAAP and the reconciliations from these results should be carefully evaluated.  
+  
+   37 
+
+     Table of Contents  
+
+38 
+
+     Table of Contents  
+
+39 
+
+     Table of Contents  
+
+40 
+
+     Table of Contents  
+
+41 
+
+     Table of Contents  
+
+Critical Accounting Policies 
+    
+  As discussed in the Annual Report on Form 10-K for the year ended   December 31, 2017  , the preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and judgments that affect the reported amount of assets and liabilities, disclosure of contingent assets and liabilities, and reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.  See Part 1, Notes to the Condensed Consolidated Financial Statements, Note 1 Basis of Presentation and Significant Accounting Policies.  The adoption of recent accounting standards as described in Note 1 have not had and are not expected to have a material impact on our condensed consolidated financial statements.  Aside from recent accounting standards adopted as described in Note 1, there have been no changes to the Company s critical accounting policies described in the Annual Report on Form 10-K for the year ended   December 31, 2017   that have a material impact on our condensed consolidated financial statements. 
+
+Item 3.      Quantitative and Qualitative Disclosures About Market Risk 
+  The Company is subject to market risk associated with changes in foreign currency exchange rates and interest rates. The Company may, from time to time, enter into foreign currency forward contracts and interest rate swaps on its debt when it believes there is a financial advantage in doing so. A treasury risk management policy, adopted by the Board of Directors, describes the procedures and controls over derivative financial and commodity instruments, including foreign currency forward contracts and interest rate swaps. Under the policy, the Company does not use financial or commodity derivative instruments for trading purposes, and the use of these instruments is subject to strict approvals by senior officers. Typically, the use of derivative instruments is limited to foreign currency forward contracts and interest rate swaps on the Company s outstanding long-term debt. 
+  Foreign Currency Exchange Rates 
+  The Company s foreign currency exchange rate risk is limited principally to the Euro, Swiss Franc, British Pound, Canadian Dollar, Indian Rupee and Chinese Renminbi. The Company manages its foreign exchange risk principally through invoicing customers in the same currency as the source of products. The effect of transaction gains and losses is reported within Other (income) expense-net in the Condensed Consolidated Statements of Operations. 
+  Interest Rate Fluctuation 
+  The Company does not have any interest rate exposure due to substantially all of the   $848.8 million   of debt outstanding as of   September 30, 2018   being fixed rate debt.   
+
+Item 4.      Controls and Procedures 
+  The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the Company s Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to the Company s management, including its Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. 
+  As required by Rule 13a-15(b) promulgated under the Securities Exchange Act, the Company carried out an evaluation, under the supervision and with the participation of the Company s management, including the Company s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures as of the end of the period covered by this report. Based on the foregoing, the Company s Chief Executive Officer and Chief Financial Officer concluded as of   September 30, 2018  , that the Company s disclosure controls and procedures were effective. 
+  There has been no change in the Company s internal controls over financial reporting during the Company s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting. 
+  
+   42 
+
+Table of Contents  
+
+PART II. OTHER INFORMATION 
+
+Item 1. 
+    Legal Proceedings 
+       
+  The Company and its subsidiaries are party to legal proceedings as described in Note 18 in Part I, Item 1,  Legal Proceedings,  and such disclosure is incorporated by reference into this Item 1,  Legal Proceedings.  In addition, the Company and six of its subsidiaries are presently named as defendants in a number of lawsuits claiming various asbestos-related personal injuries, allegedly as a result of exposure to products manufactured with components that contained asbestos. These components were acquired from third party suppliers, and were not manufactured by the Company or any of the defendant subsidiaries. To date, the majority of the Company s settlements and legal costs, except for costs of coordination, administration, insurance investigation and a portion of defense costs, have been covered in full by insurance, subject to applicable deductibles. However, the Company cannot predict whether and to what extent insurance will be available to continue to cover these settlements and legal costs, or how insurers may respond to claims that are tendered to them. Claims have been filed in jurisdictions throughout the United States and the United Kingdom. Most of the claims resolved to date have been dismissed without payment. The balance of the claims have been settled for various immaterial amounts. Only one case has been tried, resulting in a verdict for the Company s business unit. No provision has been made in the financial statements of the Company, other than for insurance deductibles in the ordinary course, and the Company does not currently believe the asbestos-related claims will have a material adverse effect on the Company s business, financial position, results of operations or cash flows. 
+
+Item 2.  
+    Unregistered Sales of Equity Securities and Use of Proceeds 
+     The following table provides information about the Company s purchases of its common stock during the quarter ended   September 30, 2018  :    
+
+(1) 
+    On   December 1, 2015  , the Company s Board of Directors approved an increase of $300.0 million in the authorized level of repurchases of common stock. This followed the prior Board of Directors approved repurchase authorization of $400.0 million that was announced by the Company on November 6, 2014. These authorizations have no expiration date.  
+
+43 
+
+Table of Contents  
+
+Item 6. 
+    Exhibits. 
+                      Exhibit 
+  Number 
+      
+    Description 
+
+*31.1 
+      
+     Certification of Chief Executive Officer Pursuant to Section 302 of Sarbanes Oxley Act of 2002  
+
+*31.2 
+      
+     Certification of Chief Financial Officer Pursuant to Section 302 of Sarbanes Oxley Act of 2002  
+
+*32.1 
+      
+     Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350  
+
+*32.2 
+      
+     Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350  
+
+*101 
+      
+    The following financial information from IDEX Corporation's Quarterly Report on Form 10-Q for the quarter ended September 30, 2018 formatted in XBRL includes: (i) the Condensed Consolidated Balance Sheets, (ii) the Condensed Consolidated Statements of Operations, (iii) the Condensed Consolidated Statements of Comprehensive Income, (iv) the Condensed Consolidated Statement of Shareholders  Equity, (v) the Condensed Consolidated Statements of Cash Flows, and (vi) Notes to the Condensed Consolidated Financial Statements. 
+
+* Filed herewith 
+
+44 
+
+Table of Contents  
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+IDEX Corporation 
+
+By: 
+    /s/ WILLIAM K. GROGAN 
+
+William K. Grogan 
+
+Senior Vice President and Chief Financial Officer 
+  (Principal Financial Officer) 
+
+By: 
+    /s/ MICHAEL J. YATES 
+
+Michael J. Yates 
+
+Vice President and Chief Accounting Officer (Principal Accounting Officer) 
+
+Date:   October 24, 2018    
+  
+   45 
+
+<EX-31.1>
+ 2
+ iex-20180930xex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  Certification of Chief Executive Officer Pursuant to Section 302 of the 
+  Sarbanes-Oxley Act of 2002 
+  I, Andrew K. Silvernail, certify that: 
+  1. I have reviewed this quarterly report on Form 10-Q of IDEX Corporation; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and we have: 
+  a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+  b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+  d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+  5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+  a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+  b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+/s/ ANDREW K. SILVERNAIL 
+
+Andrew K. Silvernail 
+
+Chairman of the Board and Chief Executive Officer 
+
+Date:   October 24, 2018    
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ iex-20180930xex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  Certification of Chief Financial Officer Pursuant to Section 302 of the 
+  Sarbanes-Oxley Act of 2002 
+  I, William K. Grogan, certify that: 
+  1. I have reviewed this quarterly report on Form 10-Q of IDEX Corporation; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and we have: 
+  a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+  b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+  d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+  5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+  a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+  b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+/s/ WILLIAM K. GROGAN 
+
+William K. Grogan 
+
+Senior Vice President and Chief Financial Officer 
+
+Date:   October 24, 2018    
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ iex-20180930xex321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  Certification of Chief Executive Officer 
+  Pursuant to 18 U.S.C.   1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of IDEX Corporation (the    Company   ) hereby certifies, to such officer's knowledge, that: 
+  (i) the accompanying Quarterly Report on Form 10-Q of the Company for the quarterly period ended   September 30, 2018   (the    Report   ) fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of 1934, as amended; and 
+  (ii) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ ANDREW K. SILVERNAIL 
+
+Andrew K. Silvernail 
+
+Chairman of the Board and Chief Executive Officer 
+
+Date:   October 24, 2018    
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ iex-20180930xex322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  Certification of Chief Financial Officer 
+  Pursuant to 18 U.S.C.   1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of IDEX Corporation (the    Company   ) hereby certifies, to such officer's knowledge, that: 
+  (i) the accompanying Quarterly Report on Form 10-Q of the Company for the quarterly period ended   September 30, 2018   (the    Report   ) fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of 1934, as amended; and 
+  (ii) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ WILLIAM K. GROGAN 
+
+William K. Grogan 
+
+Senior Vice President and Chief Financial Officer  
+
+Date:   October 24, 2018    
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ iex-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ iex-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ iex-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ iex-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ iex-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ iex-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

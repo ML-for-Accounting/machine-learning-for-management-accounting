@@ -1,0 +1,705 @@
+STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  WASHINGTON, D.C. 20549 
+    
+  FORM 10-Q 
+
+For the quarterly period ended   July 31, 2018 
+    
+  Commission File No. 0-18370 
+    
+  Perma-Pipe International Holdings, Inc. 
+  (Exact name of registrant as specified in its charter) 
+
+(847) 966-1000 
+  (Registrant's telephone number, including area code) 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  
+  Yes   x        No   o 
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes   x        No   o 
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See the definitions of "large accelerated filer", "accelerated filer", "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act. Large accelerated filer   o   Accelerated filer   o   Non-accelerated filer   o   Smaller reporting company   x   Emerging growth company   o 
+    
+  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   o 
+    
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   o   No   x 
+    
+  On   September 7, 2018  , there were   7,876,237   shares of the registrant's common stock outstanding. 
+
+Perma-Pipe International Holdings, Inc. 
+  FORM 10-Q 
+  For the fiscal quarter ended   July 31, 2018 
+  TABLE OF CONTENTS 
+
+PART I FINANCIAL INFORMATION 
+    
+  Item 1.    Financial Statements 
+
+PERMA-PIPE INTERNATIONAL HOLDINGS, INC. AND SUBSIDIARIES 
+  CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited) 
+  (In thousands, except per share data) 
+
+See accompanying notes to consolidated financial statements. 
+  Note: Earnings per share calculations could be impacted by rounding. 
+  
+    2 
+
+PERMA-PIPE INTERNATIONAL HOLDINGS, INC. AND SUBSIDIARIES 
+  CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS (Unaudited) 
+  (In thousands) 
+
+See accompanying notes to consolidated financial statements. 
+
+3 
+
+PERMA-PIPE INTERNATIONAL HOLDINGS, INC. AND SUBSIDIARIES 
+  CONSOLIDATED BALANCE SHEETS 
+
+See accompanying notes to consolidated financial statements. 
+  
+    4 
+
+PERMA-PIPE INTERNATIONAL HOLDINGS, INC. AND SUBSIDIARIES 
+  CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY  
+  (unaudited) 
+  (In thousands, except share data) 
+
+See accompanying notes to consolidated financial statements. 
+
+5 
+
+PERMA-PIPE INTERNATIONAL HOLDINGS, INC. AND SUBSIDIARIES 
+  CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)   
+
+6 
+
+See accompanying notes to consolidated financial statements. 
+  
+    7 
+
+PERMA-PIPE INTERNATIONAL HOLDINGS, INC. AND SUBSIDIARIES 
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) 
+  JULY 31, 2018 
+  (Tabular amounts presented in thousands, except per share amounts) 
+
+Note 1 - Basis of presentation 
+    
+  The interim consolidated financial statements of Perma-Pipe International Holdings, Inc., and subsidiaries ("PPIH", "Company", or "Registrant", "we", or "us") are unaudited, but include all adjustments that the Company's management considers necessary to present fairly the financial position and results of operations for the periods presented. These adjustments consist of normal recurring adjustments. Information and footnote disclosures have been omitted pursuant to Securities and Exchange Commission ("SEC") rules and regulations. The consolidated balance sheet as of   January 31, 2018   is derived from the audited consolidated balance sheet as of that date. The results of operations for any interim period are not necessarily indicative of future or annual results.  Interim financial statements should be read in conjunction with the financial statements and the notes thereto included in the Company's latest Annual Report on Form 10-K.  The Company's fiscal year ends on January 31. Years and balances described as   2018   and   2017   are for the three and   six months ended July 31,     2018   and   2017  , respectively. 
+
+Note 2 - Business segment reporting 
+    
+  PPIH is engaged in the manufacture and sale of products in   one   segment: Piping Systems.   Piping Systems engineers, designs, manufactures and sells specialty piping, leak detection and location systems  . Specialty piping systems include (i) industrial and secondary containment piping systems for transporting chemicals, hazardous fluids and petroleum products, (ii) insulated and jacketed piping systems for district heating and cooling, municipal freeze protection, oil   gas, mining and industrial applications, and (iii) the coating and/or insulation of oil and gas gathering flow and long lines for oil and mineral transportation. The Company's leak detection and location systems are sold with its piping systems and on a stand-alone basis, to monitor areas where fluid intrusion may contaminate the environment, endanger personal safety, cause a fire hazard, impair essential services or damage equipment or property. 
+
+Note 3 - Accounts receivable 
+    
+  The majority of the Company's accounts receivable are due from geographically dispersed contractors and manufacturing companies. Credit is extended based on an evaluation of a customer's financial condition, including the availability of credit insurance. In the U.S., collateral is not generally required. In the U.A.E. and Saudi Arabia, letters of credit are usually obtained for significant orders. Accounts receivable are due within various time periods specified in the terms applicable to the specific customer and are stated at amounts due from customers net of an allowance for claims and doubtful accounts. The allowance for doubtful accounts is based on specifically identified amounts in customers' accounts, where future collectability is deemed uncertain. Management may exercise its judgment in adjusting the provision as a consequence of known items, such as current economic factors and credit trends. Past due trade accounts receivable balances are written off when the Company's collection efforts have been unsuccessful in collecting the amount due and the amount is deemed uncollectible. The write-off is recorded against the allowance for doubtful accounts. 
+    
+  One of the Company s accounts receivable in the total amount of   $5.4 million   as of January 31, 2018 (inclusive of a retention receivable amount of   $3.7 million  , of which   $3.2 million   was included in the balance of other long-term assets as of July 31, 2018 and January 31, 2018, due to the long-term nature of the receivables) has been   outstanding for several years as of July 31, 2018. The Company completed all of its deliverables in 2015, and has been engaged in ongoing active efforts to collect this amount. In the second quarter of 2018, the Company received a payment of approximately $0.5 million, which reduced the balance of this receivable. As a result, the Company did not reserve any allowance against this receivable as of July 31, 2018. The Company continues to engage with the customer to ensure full payment of open balances. However, if the Company s efforts to collect on this account are not successful in fiscal 2018, then the Company may recognize an allowance for all, or substantially all, of any such then uncollected amounts.    As of July 31, 2018, this receivable balance, inclusive of a retention receivable amount, was   $4.9 million  . 
+
+8 
+
+For the three months ended   July 31, 2018   and   2017  , one customer accounted for   13%  , and no individual customer accounted for more than   10%   of the Company's consolidated net sales. For the six months ended   July 31, 2018   and   2017  , two customers accounted for   23%  , and no individual customer accounted for more than   10%   of the Company's consolidated net sales.  
+    
+  At   July 31, 2018  , one customer accounted for   15%   of all accounts receivable. Three customers accounted for   35%   of all accounts receivable at   January 31, 2018  . 
+
+Note 4 - Revenue recognition  
+    
+  On February 1, 2018, the Company adopted Accounting Standards Codification Topic 606, "Revenue from Contracts with Customers," ("Topic 606") using the modified retrospective method applied to contracts that were not completed as of that date. Under this methodology the effect, if any, of initially applying the new revenue standard is recorded as an adjustment to the opening balance of retained earnings while periods prior to the adoption date are not adjusted and continue to be reported in accordance with the accounting policies in effect for those periods.   
+    
+  The Company conducted a complete and thorough analysis of each single element of the five-step model of Topic 606 and concluded that there is no material impact to the Company upon the adoption of the new standard. As a result, there was no cumulative adjustment required to the opening balances of retained earnings, contract assets, or contract liabilities as of February 1, 2018. 
+    
+  Revenue from contracts with customers:  
+    
+  The Company defines a contract as an agreement that has approval and commitment from both parties, defined rights and identifiable payment terms, which ensures the contract has commercial substance and that collectability is reasonably assured.   
+    
+  The Company s standard revenue transactions are classified in to two main categories:  
+    
+           1) 
+    Systems - which include   all bundled products in which Perma-Pipe designs, engineers, and manufactures pre-insulated piping systems, insulates subsea flowline pipe or subsea oil production equipment.  Additionally, this systems classification also includes coating applied to pipes and structures which are provided by the customer. 
+       
+           2) 
+    Products - which include   cables, leak detection products, heat trace products sold under the PermAlert brand name, material/goods not bundled with piping or flowline systems, and field services not bundled into a project contract.   
+       
+  The Systems revenue class has generally accounted for more than   90%   of the Company s total revenue and is recognized over time. The remaining revenue (Product class) is recognized when goods are shipped or services are performed. A breakdown of the Company's revenues by revenue class for the three and six months ended 2018 and 2017 are as follows: 
+
+9 
+
+Most of the Company s revenue is recognized over time as the manufacturing process progresses because one of the following conditions exist:  
+    
+           1) 
+    the customer owns the material that is being insulated or coated, so the customer controls the asset and thus the work-in-process; or 
+       
+           2) 
+    the customer controls the work-in-process due to the custom nature of the pre-insulated, fabricated system being manufactured as evidenced by the Company s right to payment for work performed to date plus seller s profit margin for products that have no alternative use for the Company. 
+       
+  The U.S. operating entities measure revenue by the costs incurred to date relative to the estimated costs to satisfy the contract using the percentage-of-completion method (an input method). Generally, these contracts are considered a single performance obligation satisfied over time and due to the custom nature of the goods and services, the percentage-of-completion method is the most faithful depiction of the Company s performance as it measures the value of the goods and services transferred to the customer. Costs include all material, labor, and direct costs incurred to satisfy the performance obligations of the contract. Revenue recognition begins when projects costs are incurred.  
+    
+  All other operating entities measure revenue by the direct measurement of the outputs produced relative to the remaining goods promised under the contract (output method). Due to the types of end customers, generally these contracts require formal inspection protocols or specific export documentation for units produced or produced and shipped, therefore, the output method is the most faithful depiction of the Company s performance. Depending on the conditions of the contract, revenue may be recognized based on units produced, inspected and held by the Company prior to shipment or on units produced, inspected and shipped.    
+    
+  Contract modifications that occur prior to the start of the manufacturing process will supersede the original contract and revenue is recognized using the modified contract value. Contract modifications that occur during the manufacturing process (changes in scope of work, job performance, material costs, and/or final contract settlements) are recognized in the period in which the revisions are known.  Provisions for losses on uncompleted contracts are made in contract liabilities account in the period such losses are identified.   
+    
+  Contract assets and liabilities:  
+    
+  Contract assets represent revenue recognized in excess of amounts billed (unbilled receivables) for contract work in progress for which the Company has a valid contract and an enforceable right to payment for work completed.  Contract liabilities represent billings in excess of costs (unearned revenue) for contract work in progress for which the Company has a valid contract and an enforceable right to payment for work completed.  Both customer billings and the satisfaction (or partial satisfaction) of the performance obligation(s) occur throughout the manufacturing process and impacts the period end balances in these accounts.   
+
+10 
+
+The Company anticipates that substantially all costs incurred for uncompleted contracts as of July 31, 2018 will be billed and collected within one year.  
+    
+  The following tables set forth the activity in contract assets and liabilities. The Company expects to recognize the remaining balance within one year.  
+
+Contract Assets 
+      Balance January 31, 2018 
+      
+    $1,502 
+      
+      Costs and gross profit recognized during the period for uncompleted contracts from the prior period 
+    (1,085 
+    ) 
+      Costs and deferred gross profit incurred on uncompleted contracts not billed at the end of the current period 
+    1,417 
+      
+      Closing Balance at April 30, 2018 
+    1,834 
+      
+      Costs and gross profit recognized during the period for uncompleted contracts from the prior period 
+    (1,395 
+    ) 
+      Costs and deferred gross profit incurred on uncompleted contracts not billed at the end of the current period 
+    1,575 
+      
+      Closing Balance at July 31, 2018 
+      
+    $2,014 
+
+Practical expedients: 
+    
+  Costs to obtain a contract are not considered project costs as they are not usually incremental, nor does job duration span more than one year. The Company applies practical expedient for these types of costs and as such expensed in the period incurred. 
+    
+  As the Company's contracts are less than one year, the Company has applied the practical expedient regarding disclosure of the aggregate amount and future timing of performance obligations that are unsatisfied or partially satisfied as of the end of the reporting period. 
+
+Note 5 - Income taxes  
+    
+  The determination of the consolidated provision for income taxes, deferred tax assets and liabilities and related valuation allowances requires management to make judgments and estimates. As a company with subsidiaries in foreign jurisdictions, the process of calculating income taxes involves estimating current tax obligations and exposures in each jurisdiction as well as making judgments regarding the future recoverability of deferred tax assets. Income earned in the United Arab Emirates ("U.A.E.") is not subject to local country income tax. Additionally, the relative proportion of taxable income earned domestically versus internationally can fluctuate significantly from period to period. Changes in the estimated level of annual pre-tax income, tax laws and the results of tax audits can affect the overall effective income tax rate, which impacts the level of income tax expense and net income. Judgments and estimates related to the Company's projections and assumptions are inherently uncertain; therefore, actual results could differ materially from projections. 
+
+11 
+
+The Company's effective tax rate ("ETR") from operations for the   second   quarter and year-to-date was   176%    and   (74)%  , compared to   25%   and   17%   during the respective prior year periods. The change in the ETR from the prior year-to-date to the current year-to-date was in large part due to the changes in net income by jurisdiction. Additional factors include the tax impact of Canadian business combination which occurred in the prior year, and the prior year inclusion of the U.A.E., India, and Saudi Arabia in the annual effective tax rate ( AETR ). 
+    
+  The amount of unrecognized tax benefits, including interest and penalties, at   July 31, 2018  , recorded in other long-term liabilities was   $0.1 million  , all of which would impact the Company s ETR if recognized.  
+    
+  The U.S. Tax Cuts and Jobs Act ("Tax Act") was enacted on December 22, 2017 and introduced significant changes to U.S. income tax law. Effective in 2018, the Tax Act reduces the U.S. statutory tax rate from 35% to 21%, effective January 1, 2018 and created new taxes on certain foreign-sourced earnings and certain related-party payments, which are referred to as the global intangible low-taxed income tax and the base erosion anti-abuse tax, respectively. In addition, in 2017 the Company was subject to the one-time transition tax on accumulated foreign subsidiary earnings not previously subject to U.S. income tax. 
+    
+  Due to the timing of the enactment and the complexity involved in applying the provisions of the Tax Act, the Company has made reasonable estimates of the effects and recorded provisional amounts in its financial statements as of January 31, 2018 and   July 31, 2018  . As the Company collects and prepares necessary data, and interprets the Tax Act and any additional guidance issued by the U.S. Treasury Department, the IRS, and other standard-setting bodies, the Company may make future adjustments to its provisional amounts. Furthermore, the Company has considered the impact of the global intangible low-taxed income (GILTI) provision during the quarter and has determined that there was an inclusion of   $0.4 million   based on year-to-date figures. The Company has elected to account for the impact of GILTI as a current period expense when incurred, however due to the net operating losses ("NOLs") available, along with the valuation allowance in the U.S. this had no impact to the current quarter tax expense, and no additional expense was recorded for this. The accounting for the tax effects of the Tax Act will be completed in 2018. 
+    
+  Provisional amounts for the foregoing income tax effects of the Tax Act have been recorded as of   July 31, 2018   and are subject to change during 2018. 
+
+Note 6 - Impairment of long-lived assets 
+    
+  The Company's assessment of long-lived assets, and other identifiable intangibles is based upon factors that market participants would use in accordance with the accounting guidance for the fair value measurement of assets. The company will continue testing for potential impairment at least annually or as otherwise required by applicable accounting standards.   There was no impairment of long-lived assets for the three and six months ended July 31, 2018 and 2017  . 
+    
+  Goodwill.   The purchase price of an acquired company is   allocated between intangible assets and the net tangible assets of the acquired business with the residual of the purchase price recorded as goodwill  . All identifiable goodwill as of   July 31, 2018   and   January 31, 2018   was attributable to the purchase of Perma-Pipe Canada, Ltd.  
+
+The Company performs an   impairment assessment of goodwill annually as of January 31  , or more frequently if triggering events occur, based on the estimated fair value of the related reporting unit or intangible asset. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.    There was no impairment of goodwill for the three and six months ended July 31, 2018 and 2017. 
+
+12 
+
+Note 7 - Stock-based compensation 
+    
+  At   July 31, 2018  , the Company had one incentive stock plan under which new equity incentive awards may be granted: 
+   The Company has prior incentive plans under which previously granted awards remain outstanding, but under which no new awards may be granted. At   July 31, 2018  , the Company had reserved a total of   938,565   shares for grants and issuances under these incentive stock plans, which includes a reserve for issuance pursuant to unvested or unexercised prior awards, and shares for new grants or issuance pursuant to the 2017 Plan.  
+  While the 2017 Plan provides for the grant of deferred shares, non-qualified stock options, incentive stock options, restricted shares, restricted stock units, and performance-based restricted stock units intended to qualify under section 422 of the Internal Revenue Code, to date the Company has issued only restricted shares and restricted stock units under the 2017 Plan and currently intends to continue this practice. The 2017 Plan authorizes awards to officers, employees, consultants, and directors. 
+    
+  The Company has equity-based compensation awards that can be granted to eligible employees, officers or directors. The following is the equity-based compensation expense: 
+
+Stock Options 
+    
+  The following tables summarize the Company's stock option activity: 
+
+13 
+
+As of   July 31, 2018  , there was less than   $0.1 million   of total unrecognized compensation expense related to unvested stock options. The expense is expected to be recognized over a weighted average period of   1.6   years. 
+    
+  Restricted stock 
+    
+  The following table summarizes the Company's restricted stock activity for the year: 
+
+As of   July 31, 2018  , there was   $1.9 million   of unrecognized compensation expense related to unvested restricted stock granted under the plans. The expense is expected to be recognized over a period of   4.0 years  . 
+    
+  Based upon certain second quarter 2018 matters, including the share settlement to a retiring board director, the Company changed the accounting for the deferred stock compensation arrangements granted to directors from liability accounting treatment to equity accounting treatment and, as such, classified   $0.7 million   from a liability to additional paid in capital. 
+
+Note 8 - Earnings per share 
+
+Note 9 - Debt 
+    
+  Debt totaled   $17.2 million   at   July 31, 2018  , a net   increase   of   $1.4 million   since   January 31, 2018  . 
+    
+  Revolving lines North America  .   On   September 24, 2014  , the Company entered into a Credit and Security Agreement with a financial institution (as amended, "Credit Agreement"). Under the terms of the Credit Agreement, which matures on   September 25, 2018  , the Company can borrow up to a combined   $15.0 million   in the U.S. and Canada, subject to borrowing base availability from secured domestic and certain Canadian assets, such as accounts receivable and inventory, and other requirements, under a revolving line of credit. The Credit Agreement covenants restrict debt, liens, share repurchases and investments, and   require achieving a minimum fixed charge coverage ratio with respective performance metrics as defined by the Credit Agreement if a minimum availability is not met  .  In a seventh amendment  
+  
+    14 
+
+to the Credit Agreement executed on   December 14, 2017  , the   lenders increased the borrowing limit for the Company s Canadian subsidiary and adjusted minimum availability requirements for borrowers in the U.S. and Canada with a limited waiver of related covenant non-compliance retroactive to October 31, 2017  .  
+    
+  On June 5, 2018, the Company completed an eighth amendment to the Credit Agreement. The lenders extended the minimum availability requirements for the Company s Canadian subsidiary through August 1, 2018. Furthermore, the lenders waived the technical reporting event of default which resulted from the Company applying a non-conforming method in calculating the Canadian availability as of April 30, 2018. Based on the waiver received on June 5, 2018, the Company was   in compliance   with all covenants under the Credit Agreement as of April 30, 2018, and the lenders extended the minimum availability requirements for the Company s Canadian subsidiary, through August 1, 2018. On August 1, 2018 the Company received a ninth amendment to the Credit Agreement, in which the lenders adjusted the minimum availability requirements for borrowers in the U.S. and Canada through September 15, 2018. As of July 31, 2018, the Company was in compliance with all covenants under the Credit Agreement. The Credit Agreement balances as of   July 31, 2018   and   January 31, 2018   were included as current liabilities in the Company's consolidated balance sheets, because the Credit Agreement has a subjective acceleration clause, and expires in less than 12 months.  
+    
+  The Credit Agreement will expire on   September 25, 2018  . See  Note 13   Subsequent events  for information on the 
+  Company s potential new replacement credit facility. 
+    
+  Interest rates vary based on the average availability in the preceding fiscal quarter and are:   (a) a margin in effect plus a base rate, if below certain availability limits; or (b) a margin in effect plus the Eurodollar rate for the corresponding interest period.   On   July 31, 2018  , the Company had borrowed   $8.4 million   at   10.0%   and   8.7%   and had   $0.9 million   available to it under the revolving line of credit. In addition,   $0.2 million   of availability was used under the Credit Agreement primarily to support letters of credit to guarantee amounts committed for inventory purchases. Cash required for operations, as needed, is provided by draw downs on the line of credit. 
+    
+  Revolving lines foreign  .   The Company also has credit arrangements used by its Middle Eastern subsidiaries. These credit arrangements are in the form of overdraft facilities and project financing at rates competitive in the countries in which the Company operates.  The lines are secured by certain equipment, certain assets (such as accounts receivable and inventory), and a guarantee by the Company. Some credit arrangement covenants require a minimum tangible net worth to be maintained, including maintaining certain levels of intercompany subordinated debt.  In addition, some of the revolving credit facilities restrict payment of dividends. On   July 31, 2018  , the Company was   in compliance with the covenants under the credit arrangements.   On   July 31, 2018  ,   interest rates were based on the Emirates Inter Bank Offered Rate (EIBOR) plus 3.5% per annum, with a minimum interest rate of 4.5% per annum.  On July 31, 2018, the Company's interest rates ranged from 5.0% to 6.5%  , and the Company could borrow   $10.4 million   under these credit arrangements. On   July 31, 2018  ,   $4.9 million   of availability was used to support letters of credit to guarantee amounts committed for inventory purchases and for performance guarantees. On   July 31, 2018  , the Company had borrowed   $1.2 million  , and had an additional   $4.3 million   available. The foreign revolving lines balances as of July 31, and January 31, 2018, were included as current maturities of long-term debt in the Company's consolidated balance sheets. 
+    
+  Mortgages.   On   July 28, 2016  , the Company borrowed   8.0 million   CAD (approximately   $6.1 million   at the prevailing exchange rate on the transaction date) from a bank in Canada under a mortgage note secured by the Company's  manufacturing facility located in Alberta, Canada, that matures on   December 23, 2042  . The interest rate is variable, currently at   5.8%  , with monthly payments of   36 thousand   CAD (approximately   $28 thousand  ) for interest; and monthly payments of   27 thousand   CAD (approximately   $20 thousand  ) for principal. Principal payments began January 2018. 
+    
+  On   June 19, 2012  , the Company borrowed   $1.8 million   under a mortgage note secured by its manufacturing facility in Lebanon, Tennessee. The proceeds were used for payment of amounts borrowed. The loan bears interest at   4.5%   with monthly payments of   $13 thousand   for both principal and interest and matures   July 1, 2027  . On   June 19, 2022  , and on the same day of each year thereafter, the interest rate shall adjust to the prime rate, provided that the applicable interest rate shall not adjust more than   2.0%   per annum and shall be subject to a ceiling of   18.0%   and a floor of   4.5%  . 
+
+15 
+
+Capital Leases.   In 2017, the Company obtained three capital leases for   1.1 million   CAD (approximately   $0.8 million   at the prevailing exchange rates on the transaction dates) to finance vehicle equipment. The interest rates for these capital leases were from   4.0%   to   7.8%   per annum with monthly principal and interest payments of less than   $0.1 million  . These leases mature from   April 30, 2021   to   September 29, 2022  . 
+    
+  In 2014, the Company obtained two capital leases for   0.9 million   CAD (approximately   $0.9 million   at the prevailing exchange rate on the transaction date) to finance vehicle equipment. The interest rate for these capital leases is   3.25%   per annum with monthly principal and interest payments of   14 thousand   CAD. These leases matured on   June 25, 2018    
+
+Note 10 - Restricted cash 
+    
+  Restricted cash held by foreign subsidiaries was   $1.1 million   as of   July 31, 2018   and   $1.2 million   as of   January 31, 2018  . Restricted cash held by foreign subsidiaries related to fixed deposits that also serve as security deposits and guarantees. 
+
+Note 11 - Fair value  
+    
+  The carrying values of cash and cash equivalents, accounts receivable and accounts payable are reasonable estimates of their fair value due to their short-term nature.  The carrying amount of the Company's short-term debt, revolving line of credit and long-term debt approximate fair value, because the majority of the amounts outstanding accrue interest at variable market rates. 
+
+Note 12 - Recent accounting pronouncements 
+    
+  In June 2018, the FASB issued an update to Topic 718, which is intended to reduce costs and complexity, and improve financial reporting for share-based payments issued to non-employees. ASU No. 2018-07 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018, with early adoption permitted.  The Company has evaluated the effect that this standard will have on its consolidated financial statements and related disclosures, and has determined that this guidance does not have any impact on its results of operations or financial position. 
+    
+  In March 2017, the FASB issued authoritative guidance which changes the income statement presentation of the components of net periodic benefit cost related to defined benefit pension and other postretirement plans.  The primary change under the new guidance is that only the service cost component of net periodic benefit cost should be included in operating income and is eligible for capitalization as an asset.  The other components of net periodic benefit cost, such as interest cost, the expected return on assets, and amortization of actuarial gains and losses and prior service cost, should be presented below operating income.  The guidance was effective for the Company starting February 1, 2018 and has been applied retrospectively to the presentation of net periodic benefit cost and prospectively to the capitalization of service cost.  The adoption of this guidance did not have a material impact on the Company's results of operations or financial position. 
+    
+  In October 2016, the FASB issued authoritative guidance requiring the recognition of the income tax consequences of an intra-entity transfer of an asset, other than inventory, when the transfer occurs rather than when transferred to a third party as required under the current guidance.  The new guidance was effective for the Company beginning February  
+  
+    16 
+
+1, 2018.  The adoption of this guidance did not have a material impact on the Company's results of operations or financial position. 
+    
+  In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842).  This ASU requires entities to recognize assets and liabilities for most leases on their balance sheets.  It also requires additional qualitative and quantitative disclosures to help investors and other financial statement users better understand the amount, timing, and uncertainty of cash flows arising from leases.  ASU No. 2016-02 is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018, with early adoption permitted.  The Company is currently evaluating the effect that this standard will have on its consolidated financial statements and related disclosures. 
+    
+  In May 2014, FASB issued ASU No. 2014-09, "Revenue from Contracts with Customers ("Topic 606")", with several clarifying updates issued during 2016. This guidance was effective for the Company beginning February 1, 2018. The adoption of this guidance did not have a material impact on the Company's results of operations or financial position. 
+  Refer to Note 4 - Revenue recognition for more detail.  
+    
+  The Company evaluated other recent accounting pronouncements and does not expect them to have a material impact on its consolidated financial statements and related disclosures. 
+
+Note 13 - Subsequent event 
+    
+  On August 31, 2018, the Company entered into a commitment letter with PNC Bank for a new   $18 million   senior secured replacement credit facility. The Company is actively working to finalize the related credit agreement prior to the expiration of the existing Credit Agreement. 
+
+Item 2.        Management's Discussion and Analysis of Financial Condition and Results of Operations (  "  MD A  "  ) 
+    
+  The statements contained under the caption MD A and other information contained elsewhere in this quarterly report, which can be identified by the use of forward-looking terminology such as "may," "will," "expect," "continue," "remains," "intend," "aim," "should," "prospects," "could," "future," "potential," "believes," "plans," "likely" and "probable" or the negative thereof or other variations thereon or comparable terminology, constitute "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, and are subject to the safe harbors created thereby.  These statements should be considered as subject to the many risks and uncertainties that exist in the Company's operations and business environment.  Such risks and uncertainties could cause actual results to differ materially from those projected as a result of many factors, including, but not limited to, those under the heading Item 1A. Risk Factors included in the Company's latest Annual Report on Form 10-K. 
+
+RESULTS OF OPERATIONS 
+    
+  The Company is engaged in the manufacture and sale of products in one reportable segment. Since the Company focuses on large discrete projects, operating results could be negatively impacted in the future as a result of large variations in the level of project activity in reporting periods. 
+    
+  This discussion should be read in conjunction with the Company's consolidated financial statements, including the notes thereto, contained elsewhere in this report. Percentages set forth below in the MD A have been rounded to the nearest percentage point, and may not exactly correspond to the comparative data presented. 
+
+17 
+
+Three months ended     July 31, 2018   (  "  current quarter  "  ) vs.   Three months ended     July 31, 2017   (  "  prior year quarter  "  ) 
+    
+  Net sales: 
+    
+  Net sales increased   20%   to   $32.3 million   in the current quarter, from   $26.9 million   in the prior year quarter. Higher revenues resulted from increased sales in Canada, the Middle East and India.  
+    
+  Cost of sales and gross profit: 
+    
+  Gross margin increased to   18%  , or   $5.9 million   of net sales, in the current quarter from   11%  , or   $3.1 million   of net sales, in the prior year quarter. This   93%   improvement was due to increased volumes, and improved margins.  
+    
+  General and administrative expenses: 
+    
+  General and administrative expenses remained flat at   $3.9 million   in the current quarter, and the prior year quarter. Higher payroll and accrued incentive expenses were offset by lower professional fees.  
+    
+  Selling expenses: 
+    
+  Selling expenses of   $1.3 million   in the current quarter, remained unchanged from the prior year quarter.  
+    
+  Interest expense:  
+    
+  Net interest expense   increased   to   $0.3 million   in the current quarter from   $0.2 million   in the prior-year quarter due to higher borrowings, and higher effective interest rates, both domestic and foreign. 
+    
+  Income from operations before income taxes: 
+    
+  Income from operations before income taxes improved by   116%  , or $2.7 million, to pre-tax income of   $0.4 million   in the current quarter, from a pre-tax loss of   $2.3 million   in the prior year quarter. The positive contributing factors were:  
+
+18 
+
+Increased sales of $5.5 million; 
+                
+    Improved gross profit of $2.8 million; and 
+                
+    Selling, general and administration expenses remaining flat, an improvement as a percentage of sales.   
+       
+  Six months ended   July 31, 2018   (  "  year-to-date  "  ) vs. Six months ended   July 31, 2017   (  "  prior year year-to-date  "  ) 
+    
+  Net sales: 
+    
+  Net sales increased   22%   to   $61.2 million   in the current year-to-date, from   $50.4 million   in the prior year year-to-date. Higher revenues resulted from increased sales in the Middle East and India.  
+    
+  Cost of sales and gross profit: 
+    
+  Gross margin increased to   17%  , or   $10.1 million   of sales, in the current year-to-date from   10%  , or   $4.8 million   of sales, in the prior year year-to-date. This improvement, which more than doubled the gross margin, was due to increased volumes in the Middle East and India.  
+    
+  General and administrative expenses: 
+    
+  General and administrative expenses decreased by   3%   to   $7.9 million   in the current year-to-date, from   $8.1 million   in the prior year year-to-date.  
+    
+  In the prior year-to-date, the Company recognized foreign exchange losses on the payback of an intercompany loan extended to a foreign subsidiary. This was partially offset by higher payroll and accrued incentive expenses in the current year.  
+    
+  Selling expenses: 
+    
+  Selling expenses decreased by   6%   to   $2.5 million   in the current year-to-date from   $2.6 million   the prior year year-to-date, and an improvement of 1% as a percentage to net sales. This decrease is due to the expiration of a lease in 2017  for a sales office.  
+    
+  Interest expense:  
+    
+  Net interest expense   increased   to   $0.6 million   in the current year-to-date from   $0.3 million   in the prior year year-to-date due to higher borrowings, and higher effective interest rates, both domestic and foreign. 
+    
+  Income from operations before income taxes: 
+    
+  Income from operations before income taxes improved by   87%  , or $5.4 million, to a pre-tax loss of   $0.8 million   in the current year-to-date, from a pre-tax loss of   $6.2 million   in the prior year year-to-date. The positive contributing factors were:  
+
+Improved gross profit of $5.3 million; and 
+                
+    Selling, general and administration expenses remaining flat, and an improvement as a percentage of sales. 
+       
+  Accounts receivable:  
+    
+  In 2013, the Company started a project in the Middle East as a sub-contractor, with billings in the aggregate amount of approximately $41.9 million. The Company completed all of its deliverables in 2015, and has collected approximately $37.0 million, as of July 31, 2018. The remaining balance due as of July 31, 2018 was $4.9 million. Included in this balance is an amount of $3.7 million, which pertains to retention clauses within the agreements of our customer  
+  
+    19 
+
+(contractor), and which become payable by the customer when this project is fully tested and commissioned. In the absence of a firm date for the final commissioning of the project, and due to the long-term nature of this receivable, $3.2 million of this retention amount is carried in a long-term receivable account.  
+    
+  The Company has been engaged in ongoing active efforts to collect this outstanding amount, and has received updated acknowledgment of the outstanding balances and assurances of payment from the customer. During the second quarter of 2018, the Company received a payment of approximately $0.5 million. As a result, the Company did not reserve any allowance against this amount, however, if the Company s efforts to collect on the remaining balance on this account are not successful in fiscal 2018, then the Company may recognize an allowance for all, or substantially all, of any such then uncollected amounts. 
+  Income taxes: 
+    
+  The Company's effective tax rate ("ETR") from operations for the current quarter and current year-to-date was   176%    and   (74)%  , compared to   25%   and   17%   during the respective prior year periods. The change in the ETR from the prior year-to-date to the current year-to-date was in large part due to the changes in net income by jurisdiction. Additional factors include the tax impact of Canadian business combination which occurred in the prior year and the prior year inclusion of the U.A.E., India, and Saudi Arabia in the annual effective tax rate. The Company remains in a domestic net operating loss carryforward position. For additional information, see "Notes to Consolidated Financial Statements, Note 5 Income taxes". 
+   
+  Other 
+    
+  The Company has made a bid to provide insulation of pipes to the East Africa Crude Oil Pipeline ("EACOP") project. The EACOP project is a 1450 Km (900 mile) long heavy crude oil pipeline from the Lake Albert Basin in Uganda to the Tanga port in Tanzania being developed by French oil company Total E P, China National Offshore Oil Corporation (CNOOC) and London-based Tullow Oil. The pipeline is 24 inches in diameter, and is electrically heat traced. Once completed, it will be the longest insulated and heat traced pipeline in the world. There can be no assurance that the Company will be successful in its bid for this project, or what the final terms of any such potential engagement will be until the bid is awarded; the timing of which is uncertain. 
+
+Liquidity and capital resources 
+    
+  Cash, cash equivalents and restricted cash as of   July 31, 2018   were   $6.4 million   compared to   $8.3 million   on   January 31, 2018  . On   July 31, 2018  ,   $0.4 million   was held in the U.S., and   $6.0 million   was held at the Company's foreign subsidiaries. From time to time, the Company repatriates cash held at certain of its foreign subsidiaries as needed to help fund the Company's working capital needs. The Company's working capital was   $24.0 million   on   July 31, 2018   compared to   $23.1 million   on   January 31, 2018  .  
+    
+  Cash used in operating activities during the first six months of 2018 was   $3.5 million  , compared to   $2.8 million   during the same period in 2017. Net cash used in investing activities during the first six months of 2018 amounted to   $0.6 million  , compared to   $1.4 million   during the same period in 2017. 
+    
+  Debt totaled   $17.2 million   on   July 31, 2018  , a net   increase   of   $1.4 million   compared to the beginning of the current fiscal year.  For additional information, see "Notes to Consolidated Financial Statements, Note 9 Debt". Net cash provided by financing activities during the first six months of 2018 was   $2.4 million   compared to   $4.3 million   for the same period in 2017. 
+    
+  On September 24, 2014, the Company entered into its Credit Agreement. Under the terms of the Credit Agreement, which matures on   September 25, 2018  , the Company can borrow up to a combined   $15.0 million   in the U.S. and Canada, subject to borrowing base availability from secured domestic and certain Canadian assets, such as accounts receivable and inventory, and other requirements, under a revolving line of credit. The Credit Agreement covenants restrict debt, liens, share repurchases and investments, and   require achieving a minimum fixed charge coverage ratio with respective performance metrics as defined by the Credit Agreement if a minimum availability is not met  . In a seventh amendment to the Credit Agreement executed on   December 14, 2017  , the   lenders increased the borrowing  
+  
+    20 
+
+limit for the Company s Canadian subsidiary and adjusted minimum availability requirements for borrowers in the U.S. and Canada with a limited waiver of related covenant non-compliance retroactive to October 31, 2017  . On June 5, 2018, the Company completed an eighth amendment to the Credit Agreement.  The lenders extended the minimum availability requirements for the Company s Canadian subsidiary, through August 1, 2018. Furthermore, the lenders waived the technical reporting event of default which resulted from the Company applying a non-conforming method in calculating the Canadian availability as of April 30, 2018. On August 1, 2018 the Company received a ninth amendment to the Credit Agreement, in which the lenders adjusted the minimum availability requirements for borrowers in the U.S. and Canada through September 15, 2018. The Credit Agreement balances as of   July 31, 2018   and January 31, 2018 were included as current liabilities in the Company's consolidated balance sheets because the Credit Agreement has a subjective acceleration clause, and expires in less than 12 months. 
+    
+  Interest rates vary based on the average availability in the preceding fiscal quarter and are:   (a) a margin in effect plus a base rate, if below certain availability limits; or (b) a margin in effect plus the Eurodollar rate for the corresponding interest period.   On   July 31, 2018  , the Company had borrowed   $8.4 million   at   10%   and   8.7%   and had   $0.9 million   available to it under the Credit Agreement. In addition,   $0.2 million   of availability was used under the Credit Agreement primarily to support letters of credit to guarantee amounts committed for inventory purchases. Cash required for operations, as needed, is provided by draw downs on the line of credit. 
+    
+  The Credit Agreement will expire on September 25, 2018. On August 31, 2018, the Company entered into a commitment letter with a national bank for a new $18 million senior secured replacement credit facility. The Company is actively working to finalize the related credit agreement prior to the expiration of the Credit Agreement. 
+    
+  Revolving lines foreign  .   The Company also has credit arrangements used by its Middle Eastern subsidiaries. These credit arrangements are in the form of overdraft facilities and project financing at rates competitive in the countries in which the Company operates. These lines are secured by certain equipment, certain assets, such as accounts receivable and inventory, and a guarantee by the Company. Some credit arrangement covenants require a minimum tangible net worth to be maintained, including intercompany subordinated debt.  In addition, some of the revolving credit facilities restrict payment of dividends. On   July 31, 2018  , the Company was in compliance with the covenants under the credit arrangements. On   July 31, 2018  , interest rates were based on the Emirates Inter Bank Offered Rate (EIBOR) plus 3.5% per annum, with a minimum interest rate of 4.5% per annum. On   July 31, 2018  , the Company's interest rates ranged from 5.0% to 6.5%, and the Company can borrow   $10.4 million   under these credit arrangements. On   July 31, 2018  ,   $4.9 million   of availability was used to support letters of credit to guarantee amounts committed for inventory purchases and for performance guarantees. As of July 31, 2018, the Company had borrowed $1.2 million, and had an additional   $4.3 million   remaining unused. The foreign revolving lines balances as of July 31, and January 31, 2018 were included as current maturities of long-term debt in the Company's consolidated balance sheets. 
+    
+  The Company s credit arrangements used by its Middle Eastern subsidiaries renew on an annual basis. Subsequent to January 31, 2018, the Company's foreign credit lines were renewed with a reduction in facility size of $3.2 million, thus reducing the amount available to borrow by the same amount.   
+    
+  Mortgages.   On July 28, 2016, the Company borrowed 8.0 million CAD (approximately $6.1 million at the prevailing exchange rate on the transaction date) from a bank in Canada under a mortgage note secured by the manufacturing facility located in Alberta, Canada that matures on December 23, 2042. The interest rate is variable, currently at 4.7%, with monthly payments of 31 thousand CAD (approximately $24 thousand) for interest; and monthly payments of 27 thousand CAD (approximately $20 thousand) for principal. Principal payments began January 2018. 
+    
+  On June 19, 2012, the Company borrowed $1.8 million under a mortgage note secured by its manufacturing facility in Lebanon, Tennessee. The proceeds were used for payment of amounts borrowed. The loan bears interest at 4.5% with monthly payments of $13 thousand for both principal and interest and matures July 1, 2027. On June 19, 2022, and on the same day of each year thereafter, the interest rate shall adjust to the prime rate, provided that the applicable interest rate shall not adjust more than 2.0% per annum and shall be subject to a ceiling of 18.0% and a floor of 4.5%. 
+
+21 
+
+Capital Leases.   In 2017, the Company obtained three capital leases for 1.1 million CAD (approximately $0.8 million at the prevailing exchange rates on the transaction dates) to finance vehicle equipment. The interest rates for these capital leases were from 4.0% to 7.8% per annum with monthly principal and interest payments of less than $0.1 million. These leases mature from April 30, 2021 to September 29, 2022. 
+    
+  In 2014, the Company obtained two capital leases for 0.9 million CAD (approximately $0.9 million at the prevailing exchange rate on the transaction date) to finance vehicle equipment. The interest rate for these capital leases is 3.25% per annum with monthly principal and interest payments of $14 thousand. These leases matured on June 25, 2018. 
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+    
+  Critical accounting policies are described in Item 7. MD A and in the Notes to the Consolidated Financial Statements for the year ended   January 31, 2018   contained in the Company's most recent Annual Report on Form 10-K. Any new accounting policies or updates to existing accounting policies as a result of new accounting pronouncements have been discussed in the Notes to Consolidated Financial Statements in this Quarterly Report on Form 10-Q. The application of critical accounting policies may require management to make assumptions, judgments and estimates about the amounts reflected in the Consolidated Financial Statements. Management uses historical experience and all available information to make these estimates and judgments, and different amounts could be reported using different assumptions and estimates. 
+
+22 
+
+Item 4.        Controls and Procedures 
+    
+  The Chief Executive Officer and Chief Financial Officer have evaluated the effectiveness of the Company's disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended) as of   July 31, 2018  . This evaluation included consideration of the controls, processes, and procedures that are designed to ensure that information required to be disclosed in the reports that are filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the rules and forms of the SEC and that such information is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. Management has previously reported on a material weakness in the Company's internal control over financial reporting that resulted from an accounting error identified by the Company during its preparation and review of the Company's financial statements for the fiscal quarter ended July 31, 2017 related to the Company's accounting for stock-based compensation cost. Specifically, the Company had improperly reversed stock-based compensation costs for vested equity awards that expired, terminated or were cancelled unexercised. This accounting error was attributable to the Company s lack of technical accounting knowledge and led management to conclude that a material weakness existed with respect to the Company s internal control over financial reporting. 
+    
+  As described below, the Company has adopted and implemented policies and procedures to ensure that its staff has the necessary technical accounting knowledge.  
+    
+  Notwithstanding the material weakness described above, the Company's management, including it's Chief Executive Officer and Chief Financial Officer, have concluded that the financial statements included in this Quarterly Report on Form 10-Q present fairly, in all material respects, our financial position, results of operations, and cash flows for the periods presented in conformity with accounting principles generally accepted in the United States. 
+    
+  Changes in Internal Control Over Financial Reporting.   A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the Company's annual or interim financial statements will not be prevented or detected on a timely basis. 
+    
+  Remediation Plan for the Material Weakness in Internal Control over Financial Reporting:   To address the material weakness regarding the adjustment for awards that expired unexercised, the Company has completed the following: 
+
+Expanded the training of employees in financial technical accounting, reporting and disclosure-related positions; 
+                
+    Reinforced the importance of a strong control environment, to emphasize the technical requirements for controls that are designed, implemented and operating effectively and to set the appropriate expectations on internal controls through establishing the related policies and procedures; 
+                
+    Implemented a catalog of key accounting rules that have been applied during the quarter. In the reviews of any major journal entries for non-standard operational accounting matters, this catalog will be used as a checklist to validate that the required accounting treatment is applied and disclosures are made accordingly. Management will evaluate whether the accounting treatment follows the current rules in the catalog and will decide whether outside firm expertise is warranted in such a review;  
+                
+    Validated and updated the catalog quarterly for any changes resulting from changed or newly pronounced accounting rules; 
+                
+    Reviewed the categories that are underlying the calculations related to stock-based compensation, and revise procedures for the calculation and review of effects from vested, forfeited and expired options; and 
+                
+    Implemented Certent, a comprehensive equity compensation management and reporting solution provider, in the second quarter of 2018.  
+       
+  The Company anticipates the actions described above and resulting improvements in controls will strengthen the Company's processes, procedures and controls related to recording equity-based compensation costs and will address the related material weakness described above. However, the material weakness cannot be considered fully remediated  
+  
+    23 
+
+until the remediation processes have been in operation for a period of time and successfully tested. Testing in this area is continuing and the Company believes that this material weakness with be fully remediated by fiscal year end. 
+
+PART II OTHER INFORMATION 
+   
+  Item 6.         Exhibits 
+
+24 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Perma-Pipe International Holdings, Inc. 
+    
+                   Date: 
+    September 11, 2018 
+    /s/ David J. Mansfield 
+
+David J. Mansfield 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: 
+    September 11, 2018 
+    /s/ Karl J. Schmidt 
+
+Karl J. Schmidt 
+
+Vice President and Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+25 
+
+<EX-10.A>
+ 2
+ permapipe9thamdt8118.htm
+ EXHIBIT 10.A
+
+permapipe9thamdt8118 
+
+</EX-10.A>
+
+<EX-10.B>
+ 3
+ exhibit10bppih2018restri.htm
+ EXHIBIT 10.B
+
+exhibit10bppih2018restri 
+
+2018 PPIH                                        EMPLOYEE RESTRICTED STOCK UNIT GRANT                                          RESTRICTED STOCK UNIT AGREEMENT                                                     UNDER THE                                       2017 OMNIBUS STOCK INCENTIVE PLAN, AS                                               AMENDED JUNE 13, 2017                                                GRANTEE:   __________                                          NO. OF AWARD UNITS: ____________                                                                                                                                      This  Agreement  (the   Agreement )  evidences the  award  of  ___________ restricted stock  units          (each, a  Award Unit,  and collectively, the  Award Units ), entitling the grantee to receive one share of          Common Stock (a    Share ) on a future date, that Perma-Pipe International Holdings, Inc., a Delaware          corporation (the  Company ), has granted to you, ________________, effective as of ____________ (the           Grant Date ), pursuant to the 2017 Omnibus Stock Incentive Plan, as Amended June 13,  2017 (the  Plan )          and conditioned upon your agreement to the terms described below.  All of the provisions of the Plan are          expressly incorporated into this Agreement.           NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties          agree as follows:                   1.      Terminology.  Unless otherwise provided in this Agreement, capitalized words used herein          are defined in the Glossary at the end of this Agreement, or, if no definition is provided in this Agreement or          the Glossary, such capitalized words shall have the same definitions as in the Plan.                  2.      Vesting.                          (a)    All of the Award Units are nonvested and forfeitable as of the Grant Date.                          (b)    So long as your Service is continuous from the Grant Date through the applicable          date upon which vesting is scheduled to occur,                             .   _____ of the Award Units will vest and become nonforfeitable on _____, 2019,                            .   _____ of the Award Units will vest and become nonforfeitable on _____, 2020,                            .   _____ of the Award Units will vest and become nonforfeitable on _____, 2021,                            .   _____ of the Award Units will vest and become nonforfeitable on _____, 2022.                                                    (c)    Notwithstanding Section 2(b), one hundred percent of the Award Units will become          vested  and  nonforfeitable as  of  immediately  before  and  contingent  upon  the  occurrence  of  a  Change  in          Control, so long as your Service is continuous from the Grant Date, through the date of the Change in Control.                            (d)    If your Service ceases by reason of your permanent disability (as defined in Section          22(e)(3) of the Code) or death, then for one year after the date you become permanently disabled or your          death, the Award Units will continue to vest and become nonforfeitable as set forth in Section 2(b) as though          your  Service  was  continuous  through  the  one  year  anniversary  of  your  date  of disability  or  death,  as          applicable, and any Units that do not vest in accordance with this subsection shall be forfeited; provided,          however, if the Company (or an Affiliate) reasonably determines following your termination due to death          or disability that you could have been terminated for Cause had all the facts been known to the Company          (or an Affiliate) at the time of your death or disability, as applicable, then you shall forfeit all rights with          respect to any unvested Award Units.             Employee Restricted Stock Unit Grant - US  4836-6702-6798.6   
+
+(e)    Except as otherwise specified in this Section 2, unless otherwise determined by the  Administrator in its sole discretion, none of the Award Units will become vested and nonforfeitable after your  Service ceases.          3.      Settlement of Units.  The  Company  shall  deliver  to  you (or a designated  broker) a  whole  number  of  Shares  equal  to the  number  of Units  (if  any)  that  vest  pursuant  to  this Agreement, subject  to  withholding  of  any taxes (as provided in  Section 7 below).  Such  delivery  shall  take  place  as  soon  as  administratively practicable following the vesting date, but in no event more than 30 days after the applicable  vesting date.          4.      Effect  of Termination  of  Employment  or  Service.  If  your  Service  ceases  for  any reason  except as otherwise specified in Section 2,  all Award Units that are not then vested and nonforfeitable will  be immediately forfeited by you.            5.      Restrictions on Transfer.                  (a)    Your Award Units may not be sold, assigned, transferred, pledged, hypothecated or  disposed of in any way (whether by operation of law or otherwise), except by will or the laws of descent and  distribution, and shall not be subject to execution, attachment or similar process.                  (b)    You hereby represent and warrant to the Company as follows:                         (i)     You will hold any Shares transferred to you upon the vesting of the Award  Units for your own account for investment only and not with a view to, or for resale in connection with, any   distribution  of the Shares within the meaning of the Securities Act.                         (ii)    You understand that the Company may, in its discretion, impose restrictions  on the sale, pledge or other transfer of the Shares transferred to you upon the vesting of the Award Units  (including the placement of appropriate legends on stock certificates and the issue of stop transfer instructions  to the Company s Transfer Agents) if, in the judgment of the Company, such restrictions are necessary or  desirable to comply with the Securities Act, the securities laws of any State or any other law.                         (iii)   You  are  aware that  your  investment  in  the  Company  is  a  speculative  investment that has limited liquidity and is subject to the risk of complete loss.                  (c)    Any attempt to dispose of the Award Units or Shares received upon settlement of  the Award Units in contravention of the restrictions set forth in this Section 5 shall be null and void and without  effect.  The Company shall not be required to (i) transfer on its books any Shares that have been sold or  transferred in contravention of this Agreement or (ii) treat as the owner of the Shares, or otherwise accord  voting,  dividend,  or  liquidation rights  to  any  transferee  to  whom  the  Shares  have  been  transferred  in  contravention of this Agreement.          6.      Stockholder Rights and Dividend Equivalents.  You shall not have any rights of a stockholder  with respect to the Shares underlying the Award Units (including, without limitation, any voting rights or any  right to dividends), until the Shares have been issued hereunder. If, however, a cash dividend record date  occurs after the Grant Date and prior to the settlement date, then on the date that such dividend is paid to  Company stockholders, you shall be credited with  dividend equivalents  in an amount equal to the dividends  that would have been paid to you if you had owned a number of Shares equal to the number of Award Units  that are outstanding hereunder as of such record date.  Such dividend equivalents  will accrue and be paid  to you in cash at the same time and to the same extent that the related Award Units vest.  If you forfeit any  Award Units, then you will also forfeit any related accrued dividend equivalents.        Employee Restricted Stock Unit Grant - US             
+
+7.      Tax Withholding.                  (a)    You hereby agree to make adequate provision for foreign, federal, state and local  taxes required by law to be withheld, if any, which arise in connection with the grant, vesting, or settlement,  of the Award Units.  If you wish to satisfy your tax withholding obligations by delivering proceeds from the  sale of Shares that are issued under this Agreement on the market, then you should execute Exhibit A to this  Agreement and return it to the Company by the deadline set forth therein.  If you have not timely executed  Exhibit A to this Agreement, then you shall, immediately upon notification of the amount of withholding taxes  due,  if  any,  pay  to  the  Company  in  cash  or  by  check the  amount  necessary  to  satisfy  any withholding  obligations.  The Company (and its Affiliates) shall also have the right to deduct from any compensation or  any other payment of any kind due you (including withholding the issuance or delivery of Shares hereunder)  the amount of any federal, state, local or foreign taxes required by law to be withheld as a result of the grant,  vesting or settlement of the Award Units in whole or in part; provided, however, that the value of the Shares  withheld or redeemed may not exceed the maximum statutory rate associated with the transaction to the  extent necessary for the Company to avoid an accounting charge.  If you do not pay the amount necessary  to satisfy any withholding obligations when requested, the Company may refuse to issue any Shares under  this Agreement.                  (b)    You  hereby  acknowledge  that  you  have  been  advised  by  the  Company  to  seek  independent tax advice from your own advisors regarding the tax consequences of this Award.  You may not  rely  on the Company,  its  Affiliates, or any  of their officers, directors or employees for tax or  legal advice  regarding this Award.  You acknowledge that you have sought tax and legal advice from your own advisors  regarding this Award or have voluntarily and knowingly foregone such consultation.          8.      Adjustments for Corporate Transactions and Other Events.                    (a)    Stock Dividend, Stock Split and Reverse Stock Split.  Upon a stock dividend of, or  stock split or reverse stock split affecting, the Common Stock, the number of outstanding Award Units shall,  without further action of the Administrator, be adjusted to reflect such event.  The Administrator shall make  adjustments, in its discretion, to address the treatment of fractional Shares with respect to the Award Units  as a result of the stock dividend, stock split or reverse stock split; provided that such adjustments do not result  in the issuance of fractional Shares.  Adjustments under this Section 8 will be made by the Administrator,  whose determination as to what adjustments, if any, will be made and the extent thereof will be final, binding  and conclusive.                  (b)    Non-Change  in  Control  Transactions.   Upon  any  change  affecting  the  Common  Stock, the Company or its capitalization, by reason of a spin-off, split-up, dividend, recapitalization, merger,  consolidation  or  share  exchange,  other  than  any  such  change  that  is  part  of  a transaction  resulting  in  a  Change in Control, the Administrator shall make any adjustments with respect to the Award Units as the  Administrator  determines  to  be  appropriate  and  equitable.   The  Administrator s  determination  as  to  what  adjustments, if any, will be made and the extent thereof will be final, binding and conclusive.                  (c)    Unusual  or  Nonrecurring  Events.   The  Administrator  shall make, in its  discretion,  adjustments in the terms and conditions of, and the criteria included in, Award Units in recognition of unusual  or nonrecurring events affecting the Company, or the financial statements of the Company or any Affiliate, or  of changes in applicable laws, regulations, or accounting principles, whenever the Administrator determines  that such adjustments are appropriate in order to prevent dilution or enlargement of the benefits or potential  benefits intended to be made available under the Plan; provided that no such adjustment shall be made in  contravention of Section 409A of the Code ( Code Section 409A ) with respect to any Award that constitutes  a deferred compensation arrangement within the meaning of Code Section 409A.                  (d)    Binding Nature of Agreement.  The terms and conditions  of this Agreement shall  apply with equal force to any additional and/or substitute securities received by you in exchange for, or by  virtue of your ownership of, the Award Units, to the same extent as the Award Units with respect to which  such additional and/or substitute securities are distributed, whether as a result of any spin-off, stock split-up,    Employee Restricted Stock Unit Grant - US             
+
+stock  dividend,  stock  distribution,  other  reclassification of  the  Common  Stock  of  the  Company,  or  similar  event,  except  as  otherwise determined  by  the  Administrator.   If  the  Award Units  are  converted  into  or  exchanged  for,  or  stockholders  of  the  Company  receive  by  reason  of  any  distribution  in  total  or  partial  liquidation or pursuant to any merger of the Company or acquisition of its assets, securities of another entity,  or other property (including cash), then the rights of the Company under this Agreement shall inure to the  benefit  of  the  Company s  successor,  and  this  Agreement  shall  apply  to  the  securities  or  other  property  (including cash) received upon such conversion, exchange or distribution in the same manner and to the  same extent as the Award Units.          9.      Non-Guarantee  of  Employment  or  Service  Relationship.   Nothing  in  the  Plan  or  this  Agreement shall alter your at-will or other employment status or other service relationship with the Company  (or an Affiliate), nor be construed as a contract of employment or service relationship between the Company  (or an Affiliate) and you, or as a contractual right of you to continue in the employ of, or in a service relationship  with, the Company (or an Affiliate) for any period of time, or as a limitation of the right of the Company (or an  Affiliate) to discharge  you at any time with or without cause or notice and whether or not such discharge  results in the forfeiture of any Award Units or any other adverse effect on your interests under the Plan.          10.     The Company s Rights.  The existence of the Award Units shall not affect in any way the  right  or  power  of  the  Company  or  its  stockholders  to  make  or  authorize  any  or  all  adjustments,  recapitalizations, reorganizations or other changes in the Company s capital structure or its business, or any  merger or consolidation of the Company, or any issue of bonds, debentures, preferred or other stocks with  preference ahead of or convertible into, or otherwise affecting the Common Stock or the rights thereof, or the  dissolution or liquidation of the Company, or any sale or transfer of all or any part of the Company s assets  or business, or any other corporate act or proceeding, whether of a similar character or otherwise.          11.     Notices.  All notices and other communications made or given pursuant to this Agreement  shall  be  in  writing  and  shall  be  sufficiently  made  or  given  if  hand  delivered  or  mailed  by  certified  mail,  addressed to you at the address contained in the records of the Company, or addressed to the Administrator,  care of the Company for the attention of its Corporate Secretary at its principal executive office or, if the  receiving  party  consents  in  advance,  transmitted  and  received  via  telecopy  or  via  such  other  electronic  transmission mechanism as may be available to the parties.          12.     Entire Agreement.  This Agreement contains the entire agreement between the parties with  respect to the Award Units granted hereunder.  Any oral or written agreements, representations, warranties,  written inducements, or other communications made prior to the execution of this Agreement with respect to  the Award Units granted hereunder shall be void and ineffective for all purposes. In the event a court of  competent  jurisdiction  deems  any  provision  hereof  to  be  unreasonable,  void,  or  unenforceable,  such  provision(s) shall be deemed severed from the remainder of the Agreement, which shall continue in all other  respects to be valid and enforceable.  It is the intent of the parties that any such provision(s) of this Agreement  declared void, unreasonable, or unenforceable shall be deemed by a court of competent jurisdiction revised  to the minimum amount necessary in order to be valid and enforceable.          13.     Amendment.  This Agreement may be amended from time to time by the Administrator in its  discretion; provided, however,  that   this  Agreement  may  not  be modified  in a  manner  that  would have a  material adverse effect on your rights with respect to the Award Units as determined in the discretion of the  Administrator, except as otherwise provided in (a) Section 8 of this Agreement, (b) the Plan or (c) a written  document signed by each of the parties hereto.          14.     Conformity with Plan.  This Agreement is intended to conform in all respects with, and is  subject to all applicable provisions of, the Plan.  Inconsistencies between this Agreement and the Plan shall  be resolved in accordance with the terms of the Plan.  In the event of any ambiguity in this Agreement or any  matters as to which this Agreement is silent, the Plan shall govern.  A copy of the Plan is provided to you with  this Agreement.    Employee Restricted Stock Unit Grant - US             
+
+15.     Governing  Law.   The  validity,  construction  and  effect  of  this  Agreement,  and  of  any  determinations or decisions made by the Administrator relating to this Agreement, and the rights of any and  all persons having or claiming to have any interest under this Agreement, shall be determined exclusively in  accordance with the laws of the State of Delaware, without regard to its provisions concerning the applicability  of laws of other jurisdictions.  As a condition of this Agreement, you agree that you will not bring any action  arising under, as a result of, pursuant to or relating to, this Agreement in any court other than a federal or  state court  in the districts  which include Niles, Illinois, and  you hereby  agree and submit to the personal  jurisdiction of any federal court located in the district which includes Niles, Illinois or any state court in the  district  which  includes  Niles,  Illinois.   You  further  agree  that  you  will  not  deny  or  attempt  to  defeat  such  personal jurisdiction or object to venue by motion or other request for leave from any such court.          16.     Resolution of Disputes.  Any dispute or disagreement which shall arise under, or as a result  of, or pursuant to or relating to, this Agreement shall be determined by the Administrator in good faith in its  absolute  and  uncontrolled  discretion,  and  any  such  determination  or  any  other  determination  by  the  Administrator under or pursuant to this Agreement and any interpretation by the Administrator of the terms of  this Agreement, will be final, binding and conclusive on all persons affected thereby.  You agree that before  you may bring any legal action arising under, as a result of, pursuant to or relating to, this Agreement you will  first exhaust your administrative remedies before the Administrator.  You further agree that in the event that  the Administrator does not resolve any dispute or disagreement arising under, as a result of, pursuant to or  relating to, this Agreement to your satisfaction, no legal action may be commenced or maintained relating to  this Agreement more than twenty-four (24) months after the Administrator s decision.          17.     Headings.  The headings in this Agreement are for reference purposes only and shall not  affect the meaning or interpretation of this Agreement.          18.     Counterparts.  This Agreement may be executed in multiple counterparts, each of which is  deemed to be an original, but all of which taken together constitute one and the same Agreement and shall  become effective when all counterparts have been executed by each of the parties hereto and delivered to  the  other.   Facsimile  and  other  electronic  transmissions  (including  in  portable  document  format)  of  any  originally executed document (including this Agreement) shall be deemed to be the same as a delivered,  executed original.          19.     Electronic Delivery of Documents.  By your signing this Agreement, you (i) consent to the  electronic delivery of this Agreement, all information with respect to the Plan and the Award Units and any  reports of the Company provided generally to the Company s stockholders; (ii) acknowledge that you may  receive  from  the  Company  a  paper  copy  of  any  documents  delivered  electronically  at  no  cost  to  you  by  contacting the Company by telephone or in writing; (iii) further acknowledge that you may revoke your consent  to the electronic delivery of documents at any time by notifying the Company of such revoked consent by  telephone, postal service or electronic mail; and (iv) further acknowledge that you understand that you are  not required to consent to electronic delivery of documents.          20.     No Future Entitlement.  By your signing this Agreement, you acknowledge and agree that:   (i) the grant of these Award Units is a one-time benefit which does not create any contractual or other right to  receive future grants of stock, or compensation in lieu of stock grants, even if stock grants have been granted  repeatedly in the past; (ii) all determinations with respect to any such future grants, including, but not limited  to, the times when stock grants shall be granted, the maximum number of Shares subject to each stock grant,  and the times or conditions under  which restrictions  on such stock grants shall lapse,  will be at the sole  discretion of the Administrator; (iii) the value of this stock grant is an extraordinary item of compensation  which is outside the scope of your employment contract, if any; (iv) the value of this stock grant is not part of  normal or expected compensation or salary for any purpose, including, but not limited to, calculating any  termination, severance, resignation, redundancy, end of service payments or similar payments, or bonuses,  long-service  awards,  pension  or  retirement  benefits;  (v)  the  vesting  of  these Award Units ceases  upon  termination  of  employment  with  the  Company  or  transfer  of  employment  from  the  Company,  or  other  cessation of eligibility for any reason, except as may otherwise be explicitly provided in this Agreement; (vi)  the Company does not guarantee any future value of these Award Units; and (vii) no claim or entitlement to    Employee Restricted Stock Unit Grant - US             
+
+compensation or damages arises if these Award Units do not increase in value and you irrevocably release  the Company from any such claim that does arise.          21.     Personal Data.  For purposes of the implementation, administration and management of this  Award or the effectuation of any acquisition, equity or debt financing, joint venture, merger, reorganization,  consolidation, recapitalization, business combination, liquidation, dissolution, share exchange, sale of stock,  sale  of  material  assets  or  other  similar  corporate  transaction  involving  the  Company  (a   Corporate  Transaction ), you consent, by execution of this Agreement, to the collection, receipt, use, retention and  transfer, in electronic or other form, of your personal data by and among the Company and its third party  vendors  or  any  potential  party  to  a  potential  Corporate  Transaction.   You  understand  that  personal  data  (including but not limited to, name, home address, telephone number, employee number, employment status,  social security number, tax identification number, date of birth, nationality, job and payroll location, data for  tax withholding purposes and Shares awarded, cancelled, vested and unvested) may be transferred to third  parties assisting in the implementation, administration and management of the stock grant or the effectuation  of a Corporate Transaction and you expressly authorize such transfer as well as the retention, use, and the  subsequent transfer of the data by the recipient(s).  You understand that these recipients may be located in  your  country  or  elsewhere,  and  that  the  recipient s  country  may  have  different  data  privacy  laws  and  protections  than  your  country.   You  understand  that  data  will  be  held  only  as  long  as  is  necessary  to  implement, administer and manage the stock grant or effect a Corporate Transaction.  You understand that  you may, at any time, request a list with the names and addresses of any potential recipients of the personal  data,  view  data,  request  additional  information  about  the  storage  and  processing  of  data,  require  any  necessary  amendments  to  data  or  refuse  or  withdraw  the  consents  herein,  in  any  case  without  cost,  by  contacting in writing the Company s Secretary.  You understand, however, that refusing or withdrawing your  consent may affect your ability to accept a stock grant.          22.     Consideration for Shares.  To ensure compliance with applicable state corporate law, the  Company may require you to furnish consideration in the form of cash or cash equivalents equal to the par  value of the Shares issued to you upon settlement of the Award Units, and you hereby authorize the Company  to withhold such amount from remuneration otherwise due you from the Company.          23.     Recoupment.  The  Award  Units (and  any  compensation  paid  or Shares  issued upon  settlement of the Award Units) are subject to recoupment in accordance with the Dodd-Frank Wall Street  Reform and Consumer Protection Act and any implementing regulations thereunder, any clawback policy  adopted by the Company and any compensation recovery policy or practice otherwise required by applicable  law.                                        Employee Restricted Stock Unit Grant - US             
+
+GLOSSARY                         (a)      Administrator  means the Board of Directors of Perma-Pipe International  Holdings, Inc. and/or the committee(s) or officer(s) appointed by the Board that have authority to administer  the Plan.                         (b)      Affiliate   means  any  entity,  whether  now  or  hereafter  existing,  which  controls, is controlled by, or is under common control with the Company (including but not limited to joint  ventures, limited liability companies and partnerships).  For this purpose,  control  shall mean ownership of  25% or more of the total combined voting power or value of all classes of stock or interests of the entity, or  the power to direct the management and policies of the entity, by contract or otherwise.                         (c)      Cause   means   termination  in  whole  or  substantial  part,  for  gross  negligence or willful misconduct in the execution of your duties, for conviction of, or entry of a plea of guilty  or nolo contendere to, any felony or any act of fraud, embezzlement, misappropriation, or a crime involving  moral  turpitude,  or  for  commission  of  any  act  which  causes  or  may  reasonably  be  expected  to  cause  substantial damage to the Company                         (d)      Company  means Perma-Pipe International Holdings, Inc.                         (e)       Securities Act  means the Securities Act of 1933, as amended.                         (f)      Service   means  your  employment  or  other  service  relationship  with  the  Company  and  its  Affiliates.   Your  Service  will  be  considered  to  have  ceased  with  the  Company  and  its  Affiliates if, immediately after a sale, merger or other corporate transaction, the trade, business or entity with  which you are employed or otherwise have a service relationship is not Perma-Pipe International Holdings,  Inc. or its successor, or an Affiliate of Perma-Pipe International Holdings, Inc. or its successor.                         (g)      You    Your   Employee , means  the  recipient  of  the  Award Units  as  reflected in the first paragraph of this Agreement.  Whenever the word  Employee ,  you  or  your  is used in  any provision of this Agreement under circumstances where the provision should logically be construed, as  determined by the Administrator, to apply to the estate, personal representative, or beneficiary to whom the  Award Units may be transferred by will or by the laws of descent and distribution, the words  Employee ,   you  and  your  shall be deemed to include such person.       Employee Restricted Stock Unit Grant - US             
+
+IN  WITNESS  WHEREOF,  the  Company  has  caused  this  Agreement  to  be  executed  by  its  duly  authorized officer.                                                        Perma-Pipe International Holdings, Inc.                                                                                                                                                                     By:                                                                                                                                                      Date:                                                                                                                                                                                                                                                                           The undersigned hereby acknowledges that he/she has carefully read this Agreement and agrees to  be bound by all of the provisions set forth herein.  The undersigned also consents to electronic delivery of all  notices or other information with respect to the Award Units or the Company.    WITNESS:                                            GRANTEE                                                                                                                                                                                                                                                                                                                              Date:                                                                                                                                   Employee Restricted Stock Unit Grant - US             
+
+Exhibit A                                       Standing Order Election                                                     By executing this Irrevocable Standing Order Election (this  Standing Order ), I wish to notify the Company  of my election to satisfy any withholding taxes due in connection with each and every vesting date for the  Award Units by applying proceeds from a market sale of Company securities issuable as a result of such  vesting date.  I understand that if I do not execute this Standing Order, then the Company will require  that I pay my withholding obligations by cash or check, or the Company will deduct the amount of  any withholding obligations from other payments due to me.     IMPORTANT NOTES:            You may not enter into this Standing Order if you are in possession of material non-public           information. If you are in possession of material non-public information, then you must wait to           complete this Standing Order until such time as you no longer possess material non-public           information.                       No sales may be made pursuant to this Standing Order for 30 calendar days following its           execution.  To ensure that you can satisfy your withholding obligations by selling Shares in the           market, you should return this form to the Company as soon as possible, but in no event later           than 30 days before the first vesting date of your Award Units listed in the Agreement.     By signing below, I understand that I am agreeing to the following provisions:                   1.      I am executing this Standing Order to authorize the Company and any broker the Company  designates (the  Broker ) to take the actions described in this Paragraph 1. I authorize the Company to  transfer the Shares issued to me upon settlement of the Award Units to the Broker to be held in an account  for my benefit (the  Brokerage Account ), and I irrevocably authorize the Broker to sell, at the market price  and on the date the Shares are issued by the Company (or, if all or a portion of the sale cannot be  completed on such date because of insufficient demand or a market disruption, then on the next following  business day on which the sale can be made) the number of Shares necessary to obtain proceeds  sufficient to satisfy the amount of any withholding obligations associated with my Award Units indicated by  the Company to the Broker. I understand and agree that the number of Shares that the Broker will sell will  be based on the Company s estimate (or Broker s estimate if it provides such service) of the Shares  required to satisfy the withholding obligations, using the closing price of a Share of the Company s common  stock on the trading day immediately prior to vesting date (or such other date as any withholding obligations  become due). I agree to execute and deliver such documents, instruments and certificates as may  reasonably be required in connection with the sale of the Shares pursuant to this Standing Order.                  2.       I agree that the proceeds received from the sale of Shares pursuant to Paragraph 1 will be  used to satisfy any withholding obligations associated with my Award Units and, accordingly, I hereby  authorize the Broker to pay such proceeds to the Company for such purpose. I understand that, to the  extent that the proceeds obtained by such sale exceed the amount necessary to satisfy the withholding  obligations, such excess proceeds shall be deposited into the Brokerage Account and, if a shortfall occurs,  the Broker may sell additional Shares held in my Brokerage Account, the Company may deduct any  remaining withholding obligations from any compensation or other payment of any kind due to me, or the  Company may require that I pay any remaining withholding obligations to by cash or check. I further  understand that any Shares that are issuable to me as a result of the vesting of my Award Units that are not  sold to satisfy withholding obligations will be deposited into the Brokerage Account.              Employee Restricted Stock Unit Grant - US             
+
+3.      I have reviewed with my own tax advisors the federal, state, local and foreign tax  consequences of this grant and the actions contemplated by the Agreement and this Standing Order. I am  relying solely on such advisors and not on any statements or representations of the Company or any of its  agents. I understand that I (and not the Company) will be responsible for my own tax liability that may arise  as a result of this Standing Order.                   4.      I represent to the Company that, as of the date hereof, (i) I am not aware of any material  nonpublic information about the Company or its Common Stock, (ii) the Company is not in a black out  period (as defined in the Company s Insider Trading Policy), (iii) sales will not be commenced within 30  calendar days of adoption of this Standing Order, (iv) I am not subject to any legal, regulatory or contractual  restriction or undertaking that would prevent the sales of Shares contemplated by this Standing Order, and  (v) I am entering into this Standing Order in good faith and not as part of a plan or scheme to evade the  prohibitions of Rule 10b5-1. The Company and I have structured this Agreement to comply with the  affirmative defense to liability under Section 10(b) of the Securities Exchange Act of 1934, as amended,  under Rule 10b5-1(c)(1) issued under such Act, and this Standing Order shall be interpreted to comply with  such requirements.         IN WITNESS WHEREOF, the parties hereto have executed this Standing Order as of the last date  indicated below.                                                                Perma-Pipe International Holdings, Inc.                                                                                                                 Date:                                               By:                                                                                                                                                                                                                                                                                                                                                                                     GRANTEE                                                                                                                 Date:                                                                                                                                                                                                              Employee Restricted Stock Unit Grant - US             
+
+</EX-10.B>
+
+<EX-31.1>
+ 4
+ ppih311q22018.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  I, David J. Mansfield, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Perma-Pipe International Holdings, Inc. 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with the respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act rules 13a-15(e) and 15d-15(e))   and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))   for the registrant and have: 
+       
+           a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c. 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d. 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+       
+           a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+       
+           b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+/  s/ David J. Mansfield 
+  David J. Mansfield 
+  President and Chief Executive Officer 
+  (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ppih312q22018.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  I, Karl J. Schmidt, certify that: 
+    
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Perma-Pipe International Holdings, Inc. 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with the respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act rules 13a-15(e) and 15d-15(e))   and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))   for the registrant and have: 
+       
+           a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c. 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d. 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+       
+           5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+       
+           a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+       
+           b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+/  s/ Karl J. Schmidt 
+  Karl J. Schmidt 
+  Vice President and Chief Financial Officer 
+  (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 6
+ ppih32q22018.htm
+ EXHIBIT 32
+
+Exhibit 
+
+Exhibit 32 
+  Certification of Principal Executive Officers 
+  Pursuant to 18 U.S.C. 1350 
+  (Section 906 of the Sarbanes-Oxley Act of 2002) 
+    
+  The undersigned in their capacities as Chief Executive Officer and Chief Financial Officer of Perma-Pipe International Holdings, Inc.. (the  Registrant ), certify that, to the best of their knowledge, based upon a review of the Quarterly Report on Form 10-Q for the period ended   July 31, 2018   of the Registrant, (the  Report ): 
+    
+  (1)   The Report fully complies with the requirements of Section 13(a) of the Securities Exchange Act of 1934, as amended; and 
+    
+  (2)   The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Registrant. 
+    
+  /  s/ David J. Mansfield 
+  David J. Mansfield 
+  President and Chief Executive Officer 
+  (Principal Executive Officer) 
+    
+  /s/ Karl J. Schmidt 
+  Karl J. Schmidt 
+  Vice President and Chief Financial Officer 
+  (Principal Financial and Accounting Officer) 
+  September 11, 2018    
+
+A signed original of     this written statement required by Section 906 has been provided by Perma-Pipe International Holdings, Inc. and will be retained by Perma-Pipe International Holdings, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-101.INS>
+ 7
+ ppih-20180731.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ ppih-20180731.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ ppih-20180731_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ ppih-20180731_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ ppih-20180731_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ ppih-20180731_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

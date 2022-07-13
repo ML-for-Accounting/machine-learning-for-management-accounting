@@ -1,0 +1,1410 @@
+f Contents   
+
+  UNITED STATES  
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+  Washington, D.C. 20549  
+
+FORM 10-Q  
+
+x   
+      QUARTERLY REPORT PURSUANT TO SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For the quarterly period ended September
+30, 2018  
+
+OR  
+
+o   
+      TRANSITION REPORT PURSUANT TO SECTION 13
+OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For the transition period from _________
+to ___________.  
+
+Commission file number: 1-16027  
+
+LANTRONIX, INC.  
+
+  (Exact name of registrant as specified
+in its charter)  
+
+Delaware    
+        33-0362767    
+ 
+       (State or other jurisdiction of incorporation or organization)   
+       (I.R.S. Employer Identification No.)    
+
+7535 Irvine Center Drive, Suite 100,
+Irvine, California   
+
+  (Address of principal executive offices)  
+
+92618  
+
+  (Zip Code)  
+
+(949) 453-3990  
+
+  (Registrant s telephone number,
+including area code)  
+
+Not
+Applicable                       
+
+ (Former name, former address and former
+fiscal year, if changed since last report) 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes   x   No
+  o  
+
+Indicate by check
+mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule
+405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit such files). Yes  o  No  o  
+
+Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company,
+or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller
+reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer   o  
+       
+      Accelerated filer   o   
+ 
+      Non-accelerated filer   o   
+       
+      Smaller reporting company   x   
+ 
+      Emerging Growth Company   o  
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   o  
+
+Indicate
+by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act). Yes   o 
+ No   x  
+
+As of October 19, 2018,
+there were 21,997,843 shares of the registrant s common stock outstanding. 
+
+LANTRONIX, INC.  
+
+FORM 10-Q  
+
+  FOR THE QUARTERLY PERIOD ENDED  
+
+  SEPTEMBER 30, 2018  
+
+INDEX  
+
+Page    
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS   
+      3   
+
+PART I.  
+       FINANCIAL INFORMATION   
+      4   
+
+Item 1.  
+       Financial Statements   
+      4   
+
+Unaudited Condensed Consolidated Balance Sheets at September 30, 2018 and June 30, 201 8    
+      4   
+
+Unaudited Condensed Consolidated Statements of Operations for the Three Months Ended September 30, 2018 and 2017   
+      5   
+
+Unaudited Condensed Consolidated Statements of Cash Flows for the Three Months Ended September 30, 2018 and 2017   
+      6   
+
+Notes to Unaudited Condensed Consolidated Financial Statements   
+      7   
+
+Item 2.  
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      18   
+
+Item 3.  
+       Quantitative and Qualitative Disclosures about Market Risk   
+      24   
+
+Item 4.  
+       Controls and Procedures   
+      24   
+
+PART II.  
+       OTHER INFORMATION   
+      26   
+
+Item 1.  
+       Legal Proceedings   
+      26   
+
+Item 1A  
+       Risk Factors   
+      26   
+
+Item 2.  
+       Unregistered Sales of Equity Securities and Use of Proceeds   
+      26   
+
+Item 3.  
+       Defaults Upon Senior Securities   
+      26   
+
+Item 4.  
+       Mine Safety Disclosures   
+      26   
+
+Item 5.  
+       Other Information   
+      26   
+
+Item 6.  
+       Exhibits   
+      28   
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING
+STATEMENTS  
+
+This Quarterly Report on Form 10-Q for the three months ended
+September 30, 2018, or this Report, contains forward-looking statements within the meaning of the federal securities laws, which
+statements are subject to substantial risks and uncertainties. These forward-looking statements are intended to qualify for the
+safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. All statements other than statements
+of historical fact included in this Report, or incorporated by reference into this Report, are forward-looking statements. Throughout
+this Report, we have attempted to identify forward-looking statements by using words such as  may,   believe, 
+ will,   could,   project,   anticipate,   expect,   estimate, 
+ should,   continue,   potential,   plan,   forecasts,   goal, 
+ seek,   intend,  other forms of these words or similar words or expressions or the negative thereof. These
+forward-looking statements relate to, among other things: 
+
+predictions about our earnings, revenues, margins, expenses or other financial matters;    
+
+forecasts of our financial condition, results of operations, liquidity position, or working capital requirements;   
+
+the impact of changes to our share-based awards and any related changes to our share-based compensation expenses;   
+
+the impact of future offerings and sales of our debt or equity securities;   
+
+the impact of changes in our relationship with our customers;   
+
+plans or expectations with respect to our product development activities, business strategies or restructuring and expansion activities;    
+
+demand and growth of the market for our products or for the products of our competitors;    
+
+the impact of pending litigation, including outcomes of such litigation;   
+
+the impact of our response to and implementation of recent accounting pronouncements and changes in tax laws on our consolidated financial statements and the related disclosures;   
+
+unexpected changes in regulatory requirements, taxes, trade laws and tariffs;   
+
+sufficiency of our internal controls and procedures;   
+
+our ability to comply with certain financial obligations in our loan agreement;   
+
+the success of our plans to realign and reallocate our resources; and   
+
+assumptions or estimates underlying any of the foregoing.   
+
+We have based our forward-looking statements on management s
+current expectations and projections about trends affecting our business and industry and other future events. Although we do not
+make forward-looking statements unless we believe we have a reasonable basis for doing so, we cannot guarantee their accuracy.
+Forward-looking statements are subject to substantial risks and uncertainties that could cause our future business, financial condition,
+results of operations or performance to differ materially from our historical results or those expressed or implied in any forward-looking
+statement contained in this Report. Some of the risks and uncertainties that may cause actual results to differ from those expressed
+or implied in the forward-looking statements are described in  Risk Factors  included in Part II, Item 1A of this Report,
+in  Risk Factors  included in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended June 30,
+2018, filed with the Securities and Exchange Commission, or the SEC, on August 23, 2018, or the Form 10-K, as well as in our other
+public filings with the SEC. In addition, actual results may differ as a result of additional risks and uncertainties of which
+we are currently unaware or which we do not currently view as material to our business. 
+
+You should read this Report in its
+entirety, together with the documents that we file as exhibits to this Report and the documents that we incorporate by reference
+into this Report, with the understanding that our future results may be materially different from what we currently expect. The
+forward-looking statements we make speak only as of the date on which they are made. We expressly disclaim any intent or obligation
+to update any forward-looking statements after the date hereof to conform such statements to actual results or to changes in our
+opinions or expectations, except as required by applicable law or the rules of The NASDAQ Capital Market. If we do update or correct
+any forward-looking statements, investors should not conclude that we will make additional updates or corrections. 
+
+We qualify all of our forward-looking
+statements by these cautionary statements. 
+
+PART I. FINANCIAL INFORMATION  
+
+Item 1.   
+       
+       Financial Statements    
+
+LANTRONIX, INC.  
+
+    UNAUDITED CONDENSED CONSOLIDATED BALANCE
+SHEETS  
+
+  (In thousands)  
+
+See accompanying notes. 
+
+LANTRONIX, INC.  
+
+    UNAUDITED CONDENSED CONSOLIDATED STATEMENTS
+OF OPERATIONS  
+
+  (In thousands,
+except per share data)   
+
+See accompanying notes. 
+
+LANTRONIX, INC.  
+
+    UNAUDITED CONDENSED CONSOLIDATED STATEMENTS
+OF CASH FLOWS  
+
+  (In thousands)  
+
+See accompanying notes. 
+
+LANTRONIX, INC.  
+
+    NOTES TO UNAUDITED CONDENSED CONSOLIDATED
+FINANCIAL STATEMENTS  
+
+  SEPTEMBER 30, 2018  
+
+1.   
+       Summary of Significant Accounting Policies    
+
+The Company  
+
+Lantronix, Inc., which we refer to herein as the Company, Lantronix,
+we, our, or us, is a global provider of secure data access and management solutions for Internet of Things ( IoT )
+assets. Our mission is to be the leading supplier of IoT and related Information Technology ( IT ) management solutions
+that enable companies to dramatically simplify the creation, deployment, and management of IoT projects while providing secure
+access to data for applications and people. 
+
+Basis of Presentation  
+
+The accompanying unaudited condensed consolidated
+financial statements of Lantronix have been prepared in accordance with United States generally accepted accounting
+principles for interim financial information and in accordance with the instructions to Form 10-Q and Article 8 of Securities
+and Exchange Commission ( SEC ) Regulation S-X. Accordingly, they should be read in conjunction with the audited
+consolidated financial statements and notes thereto for the fiscal year ended June 30, 2018, included in our Annual Report on
+Form 10-K for the fiscal year ended June 30, 2018, which was filed with the SEC on August 23, 2018. The unaudited condensed
+consolidated financial statements contain all normal recurring accruals and adjustments that in the opinion of management,
+are necessary to present fairly the consolidated financial position of Lantronix at September 30, 2018, and the consolidated
+results of our operations and cash flows for the three months ended September 30, 2018. All intercompany accounts and
+transactions have been eliminated. Accounting measurements at interim dates inherently involve greater reliance on estimates
+than at year-end. The results of operations for the three months ended September 30, 2018 are not necessarily indicative of
+the results to be expected for the full year or any future interim periods. 
+
+Reclassifications  
+
+Certain reclassifications have been made
+to the prior fiscal year financial information to conform with the current fiscal year presentation. 
+
+Recent Accounting Pronouncements  
+
+Shared-Based Compensation  
+
+In June 2018, the Financial Accounting Standards Board ( FASB )
+issued an accounting standard that expands the scope of existing share-based compensation guidance for employees. The new standard
+will include share-based payment transactions for acquiring goods and services from nonemployees, whereby share-based payments
+to nonemployees will be measured and recorded at the fair value of the equity instruments that an entity is obligated to issue
+on the grant date. Entities are required to adopt the standard using a modified retrospective approach with a cumulative adjustment
+to opening retained earnings in the year of adoption for the remeasurement of liability-classified awards that have not been settled
+by the date of adoption and equity-classified awards for which a measurement date has not been established. The standard will be
+effective for Lantronix in the fiscal year beginning July 1, 2019, with early adoption permitted. We are currently evaluating this
+guidance and currently do not anticipate that adoption will have a material impact on our consolidated financial statements. 
+
+Leases  
+
+In February 2016, FASB issued an accounting standard that revises
+lease accounting guidance. Most prominent among the changes in the standard is the recognition of right-of-use ( ROU )
+assets and lease liabilities by lessees for those leases classified as operating leases under the existing guidance. The standard
+requires entities to recognize and measure leases existing at, or entered into after, the beginning of the earliest comparative
+period presented using a modified retrospective approach, with certain practical expedients available. In July 2018, FASB issued
+a practical expedient that would allow entities the option to apply the provisions of the new lease guidance at the effective date
+of adoption without adjusting the comparative periods presented. 
+
+The standard will be effective for Lantronix in the fiscal year
+beginning July 1, 2019, with early adoption permitted. While we are continuing to assess the potential impacts of this standard,
+we currently expect the most significant impact on our financial statements will be the recognition of ROU assets and lease liabilities
+for our operating leases. We have not yet determined which practical expedients we intend to utilize in connection with adopting
+the new standard, nor have we determined any quantitative impacts on our financial statements. 
+
+Revenue from Contracts with Customers  
+
+Refer to Note 2 below regarding our adoption of the new revenue
+standard under FASB s Accounting Standards Codification 606: Revenue from Contract with Customers ( ASC 606 ). 
+
+2.   
+       Revenue Recognition    
+
+Nature of Net Revenue   
+
+Most of our net revenue is currently derived from sales of hardware
+products. We also derive a small portion of our net revenue from professional engineering services and extended warranty services.
+Extended warranty services generally extend the warranty period on our hardware products for an additional one to three years,
+depending upon the product. 
+
+In addition to the products and services described directly
+above, during the past year we have introduced a number of ready-to-use applications as well as software-as-a-service ( SaaS )
+offerings for our IoT and IT Management product lines, including Lantronix Gateway Central, MACH10    Global
+Device Manager, and ConsoleFlow TM . These software offerings are in the early stages of evaluation and have not yet generated
+net revenue. 
+
+Net Revenue by Product Line and Geographic Region  
+
+We organize our products and solutions into three product lines:
+IoT, IT Management and Other. Our IoT products typically connect to one or more existing machines or are built into new industrial
+devices to provide network connectivity. Our IT Management product line includes console management, power management, and keyboard-video-mouse
+(commonly referred to as KVM) products that provide remote access to IT and networking infrastructure deployed in test labs, data
+centers, branch offices and server rooms. We categorize products that are non-focus or end-of-life as Other. 
+
+We conduct our business globally and manage our sales teams
+by three geographic regions: the Americas; Europe, Middle East, and Africa ( EMEA ); and Asia Pacific Japan. 
+
+The following tables present our net revenue by product line
+and by geographic region. Net revenues by geographic region are based on the  bill-to  location of our customers: 
+
+Revenue Recognition Policy and Significant Judgments   
+
+Revenue is recognized upon the transfer of control of promised
+products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products
+or services. In accordance with ASC 606, we apply the following five-step approach in determining the amount and timing of revenue
+to be recognized: (i) identifying the contract with a customer, (ii) identifying the performance obligations in the contract,
+(iii) determining the transaction price, (iv) allocating the transaction price to the performance obligations in the
+contract and (v) recognizing revenue when the performance obligation is satisfied. 
+
+On occasion, we enter into contracts that can include various
+combinations of products and services, which are generally capable of being distinct and accounted for as separate performance
+obligations. Revenue is recognized net of (i) any taxes collected from customers, which are subsequently remitted to governmental
+authorities and (ii) shipping and handling costs collected from customers. 
+
+Product Shipments  
+
+Most of our product revenue is recognized as a distinct single
+performance obligation when products are tendered to a carrier for delivery, which represents the point in time that our customer
+obtains control of the promised products. A smaller portion of our product revenue is recognized when our customer receives delivery
+of the promised products. 
+
+A significant portion of our products are sold to distributors
+under agreements which contain (i) limited rights to return unsold products and (ii) price adjustment provisions, both of which
+are accounted for as variable consideration when estimating the amount of revenue to recognize. We base our estimates for returns
+and price adjustments primarily on historical experience; however, we also consider contractual allowances, approved pricing adjustments
+and other known or anticipated returns and price adjustments in a given period. Such estimates are generally made at the time of
+shipment to the customer and updated at the end of each reporting period as additional information becomes available and only to
+the extent that it is probable that a significant reversal of any incremental revenue will not occur. Our estimates of accrued
+variable consideration are included in other current liabilities in the accompanying condensed consolidated balance sheet at September
+30, 2018. 
+
+Services and Multiple Performance Obligations  
+
+Revenues from our extended warranty and services are
+generally recognized ratably over the applicable service period. Revenues from professional engineering services are
+generally recognized as services are performed. We expect revenues from future sales of our SaaS products to be recognized
+ratably over the applicable service period. 
+
+From time to time, we may enter into contracts with customers
+that include promises to transfer multiple deliverables that may include sales of products, professional engineering services and
+other product qualification or certification services. Determining whether the deliverables in such arrangements are considered
+distinct performance obligations that should be accounted for separately versus together often requires judgment. We consider performance
+obligations to be distinct when the customer can benefit from the promised good or service on its own or by combining it with other
+resources readily available and when the promised good or service is separately identifiable from other promised goods or services
+in the contract. In such arrangements, we allocate revenue on a relative standalone selling price basis by maximizing the use of
+observable inputs to determine the standalone selling price for each performance obligation. 
+
+Contract Balances   
+
+In certain instances, the timing of revenue
+recognition may differ from the timing of invoicing to our customers. We record a contract asset receivable when revenue is recognized
+prior to invoicing, and a contract or deferred revenue liability when revenue is recognized subsequent to invoicing. With respect
+to product shipments, we expect to fulfill contract obligations within one year  and so we have elected not to separately
+disclose the amount nor the timing of recognition of these remaining performance obligations. For contract balances related
+to contracts that include services and multiple performance obligations, refer to the deferred revenue discussion below. There
+were no unbilled contract asset receivable balances as of the transition date, July 1, 2018. 
+
+Payment terms and conditions vary by customer, but generally
+include a requirement of payment within 30 to 60 days from the invoice date. We do not consider this a significant period of time
+and have elected not to determine whether contracts with customers contain significant financing components. The primary purpose
+of our invoicing terms is to provide customers with simplified and predictable ways of purchasing our products and services, not
+to provide financing to them. 
+
+Deferred Revenue  
+
+Deferred revenue is currently comprised primarily of unearned
+revenue related to our extended warranty services. These services are generally invoiced at the beginning of the contract period
+and revenue is recognized ratably over the service period. Current and non-current deferred revenue balances represent revenue
+allocated to the remaining unsatisfied performance obligations at the end of a reporting period and are respectively included in
+other current liabilities and other non-current liabilities in the accompanying condensed consolidated balance sheets. 
+
+The following table presents the changes in our deferred revenue
+balance for the three months ended September 30, 2018 (in thousands): 
+
+We expect to recognize substantially all of the non-current
+portion of deferred revenue over the next two to three years. 
+
+Costs to Obtain or Fulfill a Contract with a Customer   
+
+In accordance with applicable accounting guidance, we recognize
+an asset for the incremental costs of obtaining or fulfilling a contract with a customer if we expect the benefit of those costs
+to be longer than one year. We apply a practical expedient to expense costs as incurred for costs to obtain a contract when the
+amortization period would have been one year or less. These costs primarily relate to commissions earned and paid to our internal
+sales team and to certain external sale representatives, and are recorded in selling, general and administrative expenses in the
+accompanying condensed consolidated statements of operations. As of September 30, 2018, we do not have any assets recorded pertaining
+to incremental costs to obtain or fulfill a contract with a customer. 
+
+Adoption of New Revenue Standard and Change in Accounting
+Policy   
+
+On July 1, 2018, we adopted ASC 606 using the modified retrospective
+method and applied it to contracts that were not completed as of that date. Upon adoption, we recorded a non-cash cumulative
+effect adjustment of $582,000 to our accumulated deficit as of July 1, 2018. The prior year comparative financial information has
+not been restated and continues to be presented under the accounting standards in effect for the respective periods. 
+
+The primary impact to Lantronix of adopting ASC 606 relates
+to a shift in the timing of when revenue is recognized for sales made to distributors under agreements which contain limited rights
+to return unsold products and price adjustment provisions. Under the revenue standards that we followed prior to adopting ASC 606,
+we concluded that the prices to these distributors were not fixed and determinable at the time we deliver products to them and
+accordingly, revenues from sales to these distributors, and the related inventory costs, were not recognized until the distributors
+resold the products.  By contrast, upon adopting ASC 606, we now recognize revenue, including estimates for variable consideration,
+when we transfer control of the products to the distributor rather than deferring recognition until the distributor resells the
+products. 
+
+The following table summarizes the significant changes to our
+accompanying unaudited condensed consolidated balance sheet in connection with adopting ASC 606: 
+
+The following tables summarize the significant impacts of adopting
+ASC 606 on our financial statements as of September 30, 2018 and for the three months ended September 30, 2018: 
+
+Condensed Consolidated Balance Sheet  
+
+Accounts receivable, net and inventories, net, as reported 
+at September 30, 2018,  differ from the balances that would have been recorded without the adoption of ASC 606 since we no
+longer record deferred revenue and inventory balances for products held at certain distributor customers awaiting sell-through.
+Additionally, under ASC 606 we record contract assets and contract liabilities as estimates for variable consideration, which are
+recorded to prepaid expenses and other current assets and other current liabilities, respectively. The accumulated deficit balance,
+as reported, differs from the balance without the adoption of ASC 606 as a result of the adjustments discussed above. 
+
+Condensed Consolidated Statement of Operations  
+
+Net revenue, as reported, for the three months ended September
+30, 2018 differs from the recalculated net revenue without the adoption of ASC 606 due to the difference in timing of when we recognize
+revenue for sales to certain distributor customers, as further described above. More specifically, as of the prior quarter ended
+June 30, 2018, inventories held by our distributor customers were at historically low levels. During the quarter ended September
+30, 2018, our distributor customers increased their purchases and brought their inventories up to levels that were more consistent
+with what they have held historically. This had the impact of lower sell-through net revenues as recalculated without the effect
+of adopting ASC 606. Likewise, the differences in cost of revenue, net loss and net loss per share in the table directly above
+are primarily attributable to the difference in net revenue. 
+
+3.   
+       Supplemental Financial Information    
+
+Inventories  
+
+Inventories are stated at the lower of cost (first-in, first-out)
+or net realizable value and consist of the following: 
+
+Other Liabilities  
+
+The following table presents details of our other liabilities: 
+
+Computation of Net Loss per Share  
+
+Basic and diluted net loss per share is calculated
+by dividing net loss by the weighted-average number of common shares outstanding during the applicable period. 
+
+The following table presents the computation
+of net loss per share: 
+
+The following table presents the common stock equivalents excluded
+from the diluted net loss per share calculation, because they were anti-dilutive for the periods presented. These excluded
+common stock equivalents could be dilutive in the future. 
+
+Severance and Related Charges  
+
+Current Fiscal Year  
+
+During the three months ended September 30, 2018, we
+initiated a plan to realign certain personnel resources to better fit our current business needs. These activities were
+substantially completed by September 30, 2018 and resulted in a total charge of approximately $460,000, which included
+$323,000 in severance-related costs and $137,000 in share-based compensation expense. These costs are included in the
+applicable functional line items within the accompanying unaudited condensed consolidated statements of operations for the
+three months ended September 30, 2018. 
+
+The following table presents details of the liability we recorded
+related to these activities: 
+
+The ending balance is recorded in accrued payroll and related
+expenses on the accompanying unaudited condensed consolidated balance sheet at September 30, 2018. 
+
+Prior Fiscal Year  
+
+During the three months ended September 30, 2017, we realigned
+certain personnel resources throughout our organization, primarily to optimize our operations and engineering efforts. These activities
+resulted in total charges of approximately $527,000 and consisted primarily of severance costs, and to a lesser extent, termination
+costs related to our facility lease in Hong Kong. These charges are included in the applicable functional line items within the
+accompanying unaudited condensed consolidated statement of operations for the three months ended September 30, 2017. 
+
+Supplemental Cash Flow Information  
+
+The following table presents non-cash investing transactions
+excluded from the accompanying unaudited condensed consolidated statements of cash flows: 
+
+4.   
+       Warranty Reserve    
+
+The standard warranty periods we provide for our products typically
+range from one to five years. We establish reserves for estimated product warranty costs at the time revenue is recognized based
+upon our historical warranty experience, and for any known or anticipated product warranty issues. 
+
+The following table presents details of
+our warranty reserve: 
+
+5.   
+       Bank Line of Credit    
+
+In October 2018, we entered into a new Loan and Security Agreement
+(the  Loan Agreement ) with Silicon Valley Bank ( SVB ), as our previous agreement expired at the end of
+September 2018. The Loan Agreement provides us with a $4.0 million revolving line of credit based on qualified accounts receivable
+and has a maturity date of September 30, 2020. There were no outstanding borrowings as of September 30, 2018 or June 30, 2018. 
+
+The Loan Agreement provides for an interest rate per annum equal
+to the greater of (i) the prime rate plus 0.50% or (ii) 5.00%, provided that we maintain a monthly quick ratio of 1.0 to 1.0 or
+greater. The quick ratio measures our ability to use our cash and cash equivalents maintained at SVB to extinguish or retire our
+current liabilities immediately. If this ratio is not met, the interest rate will become the greater of (i) the prime rate plus
+1.00% or (ii) 5.00%. At September 30, 2018, we met the quick ratio requirement. 
+
+The Loan Agreement also includes a covenant requiring us to
+maintain a certain Minimum Tangible Net Worth ( Minimum TNW ), currently required to be $7,000,000. The Minimum TNW
+is subject to adjustment upward to the extent we raise additional equity or debt financing or achieve net income in future periods.
+Our Actual Tangible Net Worth ( Actual TNW ) is calculated as total stockholders  equity, less goodwill. At September
+30, 2018, our Actual TNW was $25,212,000.   
+
+6.   
+       Stockholders  Equity    
+
+Public Offering  
+
+On September 18, 2018, we entered into an underwriting agreement
+with Needham   Company, LLC and Lake Street Capital Markets, LLC (the  Underwriters ) relating to the
+offer and sale of 2,500,000 shares of our common stock, par value $0.0001 per share, to the public at a price of $4.00 per share.
+We also granted the Underwriters a 30-day option to purchase up to 375,000 additional shares of our common stock to cover over-allotments,
+if any. Pursuant to the underwriting agreement, through September 30, 2018 we had sold an aggregate of 2,600,000 shares to the
+Underwriters and received proceeds net of underwriting discounts and expenses of approximately $9,438,000. 
+
+On October 19, 2018, we sold an additional
+100,000 shares to the public at a price of $4.00 per share and received proceeds net of underwriting discounts and expenses of
+approximately $366,000. 
+
+Stock Incentive Plans   
+
+Our stock incentive plans permit the granting of stock options
+(both incentive and nonqualified stock options), restricted stock units ( RSUs ), stock appreciation rights, non-vested
+stock, and performance shares to certain employees, directors and consultants. As of September 30, 2018, no stock appreciation
+rights, non-vested stock, or performance shares were outstanding. 
+
+Stock Options   
+
+The following table presents a summary of activity during the
+three months ended September 30, 2018 with respect to our stock options: 
+
+Restricted Stock Units   
+
+The following table presents a summary of activity during the
+three months ended September 30, 2018 with respect to our RSUs: 
+
+Employee Stock Purchase Plan  
+
+Our 2013 Employee Stock Purchase Plan ( ESPP ) is
+intended to provide employees with an opportunity to purchase our common stock through accumulated payroll deductions at the end
+of a specified purchase period. Each of our employees (including officers) is eligible to participate in our ESPP, subject to certain
+limitations as set forth in our ESPP. 
+
+The following table presents a summary of activity under our
+ESPP during the three months ended September 30, 2018: 
+
+Share-Based Compensation Expense  
+
+The following table presents a summary of share-based compensation
+expense included in each functional line item on our accompanying unaudited condensed consolidated statements of operations: 
+
+The following table presents the remaining unrecognized share-based
+compensation expense related to our outstanding share-based awards as of September 30, 2018: 
+
+If there are any modifications or cancellations of the underlying
+unvested share-based awards, we may be required to accelerate, increase or cancel remaining unearned share-based compensation expense.
+Future share-based compensation expense and unearned share-based compensation will increase to the extent that we grant additional
+share-based awards. 
+
+7.   
+       Income Taxes    
+
+We utilize the liability method of accounting for income taxes.
+The following table presents our effective tax rates based upon our provision for income taxes for the periods shown: 
+
+The difference between our effective tax rates in the periods
+presented above and the federal statutory rate is primarily due to a tax benefit from our domestic losses being recorded with a
+full valuation allowance, as well as the effect of foreign earnings taxed at rates differing from the federal statutory rate. 
+
+We record net deferred tax assets to the extent we believe it
+is more likely than not that these assets will be realized. Due to our cumulative losses and uncertainty of generating future taxable
+income, we have provided a full valuation allowance against our net deferred tax assets as of September 30, 2018 and June 30, 2018. 
+
+8.   
+       Commitments and Contingencies    
+
+From time to time, we are involved in various legal proceedings
+and claims arising in the ordinary course of our business. Although the results of legal proceedings and claims cannot be predicted
+with certainty, we currently believe that the final outcome of these ordinary course matters will not, individually or in the aggregate,
+have a material adverse effect on our business, operating results, financial condition or cash flows. However, regardless of the
+outcome, litigation can have an adverse impact on us because of legal costs, diversion of management time and resources, and other
+factors. 
+
+Item 2.   
+       
+       Management s Discussion and Analysis of Financial Condition and Results of Operations    
+
+The following discussion and analysis of our financial condition
+and results of operations should be read together with our unaudited condensed consolidated financial statements and the related
+notes included in Part I, Item 1 of this Quarterly Report on Form 10-Q for the three months ended September 30, 2018, or this Report.
+This discussion and analysis contains forward-looking statements that are based on our current expectations and reflect our plans,
+estimates and anticipated future financial performance. See the section of this Report entitled  Cautionary Note Regarding
+Forward-Looking Statements  for additional information. These statements involve numerous risks and uncertainties. Our actual
+results may differ materially from those expressed or implied by these forward-looking statements as a result of many factors,
+including those set forth in  Risk Factors  in Part II, Item 1A of this Report.  
+
+Overview  
+
+Lantronix, Inc., which we refer to herein as the Company, Lantronix,
+we, our, or us, is a global provider of secure data access and management solutions for Internet of Things, or IoT, assets. Our
+mission is to be the leading supplier of IoT and related Information Technology, or IT, management solutions that enable companies
+to simplify the creation, deployment, and management of IoT projects while providing secure access to data for applications and
+people. 
+
+We conduct our business globally and manage our sales teams
+by three geographic regions: the Americas; Europe, Middle East, and Africa, or EMEA; and Asia Pacific Japan, or APJ. 
+
+Products and Solutions Overview  
+
+We organize our products and solutions into three product lines:
+IoT, IT Management and Other. 
+
+IoT  
+
+Our IoT products typically connect to one or more existing machines,
+or are built into new industrial devices to provide network connectivity. Our products are designed to enhance the value and utility
+of machines by making the data from the machines available to users, systems and processes or by controlling their properties and
+features over the network. 
+
+Our IoT products currently consist of IoT Gateways and IoT Building
+Blocks. IoT Gateways are designed to provide secure connectivity and the ability to add integrated device management and advanced
+data access features. IoT Building Blocks provide basic secure machine connectivity and unmanaged data access. 
+
+Our IoT products may be embedded into new designs or attached
+to existing machines. Our IoT products include wired and wireless connections that enhance the value and utility of modern electronic
+systems and equipment by providing secure network connectivity, application hosting, protocol conversion, secure access for distributed
+IoT deployments and many other functions. Many of the products are offered with software tools intended to further accelerate our
+customer s time-to-market and increase their value add. 
+
+Most of our IoT products are pre-certified in a number of countries
+thereby significantly reducing our original equipment manufacturer customers  regulatory certification costs and accelerating
+their time to market. 
+
+The following product families are included in our IoT product
+line: EDS, EDS-MD, PremierWave    EN, PremierWave    XC, SGX   , UDS, WiPort   ,
+xDirect   , xPico   , xPico    Wi-Fi, xPress   , XPort   , XPort   
+Pro, MACH10    Global Device Manager and Lantronix Gateway Central. 
+
+IT Management  
+
+Today, organizations are managing an ever-increasing number
+of devices and data on enterprise networks where 24/7 reliability is mission critical. Out-of-band management is a technique that
+uses a dedicated management network to access critical network devices to ensure management connectivity (including the ability
+to determine the status of any network component) independent of the status of other in-band network components. Remote out-of-band
+access allows organizations to effectively manage their enterprise IT resources and at the same time, optimize their IT support
+resources. Our vSLM , a virtualized central management software solution, simplifies secure administration of our IT management
+products and the equipment attached to them through a standard web browser. 
+
+Our IT Management product line includes console management,
+power management, and keyboard-video-mouse (commonly referred to as KVM) products that provide remote access to IT and networking
+infrastructure deployed in test labs, data centers, branch offices and server rooms. 
+
+The following product families are included in our IT Management
+product line: SLB   , SLC    8000, Spider   , ConsoleFlow and vSLM . 
+
+Other  
+
+We categorize products that are non-focus or end-of-life as
+Other. Our Other product line includes non-focus products such as the xPrintServer   . In addition, this product line
+includes end-of-life versions of our MatchPort   , SLC   , SLP   , xPress Pro, xSenso   ,
+PremierWave    XN, and WiBox product families. 
+
+Recent Accounting Pronouncements  
+
+Refer to  Note 1  of Notes to Unaudited Condensed Consolidated
+Financial Statements, included in Part I, Item 1 of this Report, which is incorporated herein by reference, for a discussion of
+recent accounting pronouncements. 
+
+Critical Accounting Policies and Estimates  
+
+The accounting policies that have the greatest impact on our
+financial condition and results of operations and that require the most judgment are those relating to revenue recognition, allowance
+for doubtful accounts, inventory valuation, warranty reserves, valuation of deferred income taxes, and goodwill. These policies
+are described in further detail in the Form 10-K. The following discussion of our critical accounting policy over revenue
+recognition has been updated as a result of our adoption of the new revenue standard effective July 1, 2018 (refer to Note 2 in
+Part I, Item 1 of this Report for further discussion). The prior year comparative financial information has not been restated and
+continues to be presented under the accounting standards in effect for the respective periods. There have been no other significant
+changes in our critical accounting policies and estimates during the three months ended September 30, 2018 as compared to what
+was previously disclosed in the Form 10-K. 
+
+Revenue Recognition   
+
+Revenue is recognized upon the transfer of control of promised
+products or services to customers in an amount that reflects the consideration we expect to receive in exchange for those products
+or services. We apply the following five-step approach in determining the amount and timing of revenue to be recognized: (i) identifying
+the contract with a customer, (ii) identifying the performance obligations in the contract, (iii) determining the transaction
+price, (iv) allocating the transaction price to the performance obligations in the contract and (v) recognizing revenue
+when the performance obligation is satisfied. 
+
+A significant portion of our products are sold to distributors
+under agreements which contain (i) limited rights to return unsold products and (ii) price adjustment provisions, both of which
+are accounted for as variable consideration when estimating the amount of revenue to recognize. Establishing accruals for product
+returns and pricing adjustments requires the use of judgment and estimates that impact the amount and timing of revenue recognition.
+When product revenue is recognized, we establish an estimated allowance for future product returns based primarily on historical
+returns experience and other known or anticipated returns. We also record reductions of revenue for pricing adjustments, such as
+competitive pricing programs and rebates, in the same period that the related revenue is recognized, based primarily on approved
+pricing adjustments and our historical experience. Actual product returns or pricing adjustments that differ from our estimates
+could result in increases or decreases to our net revenue. 
+
+From time to time, we may enter into contracts with customers
+that include promises to transfer multiple deliverables that may include sales of products, professional engineering services and
+other product qualification or certification services. Determining whether the deliverables in such arrangements are considered
+distinct performance obligations that should be accounted for separately versus together often requires judgment. We consider performance
+obligations to be distinct when the customer can benefit from the promised good or service on its own or by combining it with other
+resources readily available and when the promised good or service is separately identifiable from other promised goods or services
+in the contract. In such arrangements, we allocate revenue on a relative standalone selling price basis by maximizing the use of
+observable inputs to determine the standalone selling price for each performance obligation. Additionally, estimating standalone
+selling prices for separate performance obligations within a contract may require significant judgment and consideration of various
+factors including market conditions, items contemplated during negotiation of customer arrangements and internally-developed pricing
+models. Changes to performance obligations that we identify, or the estimated selling prices pertaining to a contract, could materially
+impact the amounts of earned and unearned revenue that we record. 
+
+Results of Operations   Three
+Months Ended September 30, 2018 Compared to the Three Months Ended September 30, 2017  
+
+Summary   
+
+In the three months ended September 30, 2018 our net revenue
+increased by $1,673,000, or 15.8%, compared to the three months ended September 30, 2017. The increase in net revenue was driven
+by a 73.3% increase in net revenue in our IT Management product line and a 6.0% increase in net revenue in our IoT product line,
+which were partially offset by a decline in our Other product line. We had a net loss of $83,000 for the three months ended September
+30, 2018 compared to a net loss of $641,000 for the three months ended September 30, 2017. The decrease in net loss was driven
+by a 20.5% increase in gross profit offset by a 9.1% increase in operating expenses. 
+
+Net Revenue   
+
+The following tables present our fiscal
+quarter net revenue by product line and by geographic region: 
+
+IoT  
+
+Net revenue from our IoT product line for the three
+months ended September 30, 2018 increased compared to the three months ended September 30, 2017 due to increases in unit
+sales in a variety of our product families including (i) our large scale integration chips in our EMEA region, (ii) XPort Pro
+and xDirect in our Americas region and (iii) our wired MatchPort products, in both the Americas and EMEA regions. The overall
+increase was partially offset by decreases in unit sales of our UDS and EDS product families, largely in the Americas region,
+and to a lesser extent, the EMEA region. We also experienced lower sales of our EDS-MD product family in the EMEA region. 
+
+IT Management  
+
+Net revenue from our IT Management product line for the three
+months ended September 30, 2018 increased compared to the three months ended September 30, 2017 due to increased unit sales of
+(i) our SLC 8000 product family across all three of our regions and (ii) our SLB product family, mostly in the Americas region.
+In the prior year quarter, we saw weaker demand for both of these product families partially driven by the timing of anticipated
+orders from certain large customers. 
+
+Other  
+
+Net revenue from our Other products, which are comprised of
+non-focus and end-of-life product families, continues to decline as expected. 
+
+Gross Profit   
+
+Gross profit represents net revenue less cost of revenue. Cost
+of revenue consists primarily of the cost of raw material components, subcontract labor assembly from contract manufacturers, manufacturing
+overhead, inventory reserves for excess and obsolete products or raw materials, warranty costs, royalties and share-based compensation. 
+
+The following table presents our fiscal
+quarter gross profit: 
+
+Gross profit as a percent of revenue (referred to as
+ gross margin ) for the three months ended September 30, 2018 improved compared to the three months ended September
+30, 2017 due primarily to lower charges for scrap and excess and obsolete inventories during the current quarter. During September
+2018, the U.S. government expanded the list of products with tariffs imposed on Chinese goods imported into the U.S., which effectively
+covers the type of products that we sell. While we have a plan to substantially mitigate our financial exposure to the tariffs,
+we expect to incur increased tariff costs of approximately $100,000 to $200,000 in the fiscal quarter ending December 31, 2018. 
+
+Cost of revenue for the three months ended September 30, 2018
+and 2017, includes $39,000 and $58,000, respectively, of severance and related charges. 
+
+Selling, General and Administrative   
+
+Selling, general and administrative expenses consist of personnel-related
+expenses, including salaries and commissions, share-based compensation, facility expenses, information technology, trade show expenses,
+advertising, and legal and accounting fees. 
+
+The following table presents our fiscal
+quarter selling, general and administrative expenses: 
+
+Selling, general and administrative expenses
+increased primarily due to (i) higher headcount-related expenses, as we have added personnel to our sales and marketing teams over
+the past year and (ii) higher share-based compensation expenses resulting from the current quarter s severance actions, along
+with stock awards in the current quarter granted with a higher estimated fair value than historical stock awards. 
+
+During the three months ended
+September 30, 2018, we realigned certain personnel resources to better fit our current business needs. These activities
+resulted in total charges of approximately (i) $323,000 in severance-related costs and (ii) $137,000 in share-based
+compensation expense. Of the total charges of $460,000, approximately, $201,000 of severance-related costs and $137,000 of
+share-based compensation were classified within selling, general and administrative expenses. 
+
+During the three months ended September
+30, 2017, we realigned certain personnel resources throughout our organization, primarily to optimize our operations and engineering
+efforts. These activities resulted in total net charges of approximately $527,000, which consisted primarily of severance costs,
+and to a lesser extent, termination costs related to our facility lease in Hong Kong. Of the total charges, approximately $155,000
+was classified within selling, general and administrative expenses. 
+
+Research and Development   
+
+Research and development expenses consist of personnel-related
+expenses, including share-based compensation, as well as expenditures to third-party vendors for research and development activities
+and product certification costs. Our quarterly costs related to outside services and product certifications vary from period to
+period depending on our level of development activities. 
+
+The following table presents our fiscal quarter research and
+development expenses: 
+
+Research and development expenses increased primarily due to
+higher (i) headcount-related expenses, as we have added engineering personnel over the past year and (ii) outside service costs
+related to new product development projects. The overall increase was partially offset by the decrease in severance and related
+charges, which are further described above. 
+
+Provision for Income Taxes   
+
+Refer to  Note 7  of Notes to Unaudited Condensed Consolidated
+Financial Statements, included in Part I, Item 1 of this Report, which is incorporated herein by reference, for a discussion regarding
+our provision for income taxes. 
+
+Liquidity and Capital Resources  
+
+Liquidity   
+
+The following table presents details of our working capital
+and cash and cash equivalents: 
+
+In September 2018, we sold 2,600,000 shares
+of our common stock in a public offering. We received net cash proceeds from the offering of approximately $9,438,000. In October
+2018, we sold an additional 100,000 shares and received net cash proceeds of approximately $366,000. 
+
+Our principal sources of cash and liquidity include our existing
+cash and cash equivalents, borrowings and amounts available under our revolving line of credit and cash generated from operations.
+We believe that these sources will be sufficient to fund our current requirements for working capital, capital expenditures and
+other financial commitments for at least the next 12 months. We anticipate that the primary factors affecting our cash and liquidity
+are net revenue, working capital requirements and capital expenditures. 
+
+Management defines cash and cash equivalents as highly liquid
+deposits with original maturities of 90 days or less when purchased. We maintain cash and cash equivalents balances at certain
+financial institutions in excess of amounts insured by federal agencies. Management does not believe this concentration subjects
+us to any unusual financial risk beyond the normal risk associated with commercial banking relationships. We frequently monitor
+the third-party depository institutions that hold our cash and cash equivalents. Our emphasis is primarily on safety of principal
+and secondarily on maximizing yield on those funds. 
+
+Our future working capital requirements will depend on many
+factors, including the following: timing and amount of our net revenue; our product mix and the resulting gross margins; research
+and development expenses; selling, general and administrative expenses; and expenses associated with any strategic partnerships,
+acquisitions or infrastructure investments. 
+
+From time to time, we may seek additional capital from public
+or private offerings of our capital stock, borrowings under our existing or future credit lines or other sources in order to (i)
+develop or enhance our products, (ii) take advantage of strategic opportunities, (iii) respond to competition or (iv) continue
+to operate our business. We currently have a Form S-3 shelf registration statement on file with the SEC. If we issue equity securities
+to raise additional funds, our existing stockholders may experience dilution, and the new equity securities may have rights, preferences
+and privileges senior to those of our existing stockholders. If we issue debt securities to raise additional funds, we may incur
+debt service obligations, become subject to additional restrictions that limit or restrict our ability to operate our business,
+or be required to further encumber our assets. There can be no assurance that we will be able to raise any such capital on terms
+acceptable to us, if at all. 
+
+Bank Line of Credit   
+
+Refer to  Note 5  of Notes to Unaudited Condensed Consolidated
+Financial Statements, included in Part I, Item 1 of this Report, which is incorporated herein by reference, for a discussion of
+our loan agreement. 
+
+Cash Flows   
+
+The following table presents the major
+components of the unaudited condensed consolidated statements of cash flows: 
+
+Operating Activities  
+
+We used net cash from operating activities during the three
+months ended September 30, 2018 as compared to the prior year period. This was largely due to an increase in accounts receivable
+compared to June 30, 2018, as a result of an increase in net revenue during the quarter as well as the timing of collections
+from customers. The impact of this increase in accounts receivable was partially offset by the decrease in our net loss in the
+current quarter compared to the prior quarter. 
+
+Investing Activities  
+
+Net cash used in investing activities was related to capital
+expenditures for the purchase of property and equipment, primarily related to tooling and test equipment. 
+
+Financing Activities  
+
+Net cash provided by financing activities during the three months
+ended September 30, 2018 resulted primarily from the public offering of common stock described above. Additionally, for the periods
+ended September 30, 2018 and 2017 financing activities provided cash from stock option exercises by employees.
+This was partially offset by payments for (i) withholding taxes related to the vesting of restricted stock units and (ii) capital
+leases. 
+
+Off-Balance Sheet Arrangements  
+
+As of September 30, 2018, we did not have any relationships
+with unconsolidated organizations or financial partnerships, including structured finance or special purpose entities, that have
+been established to facilitate off-balance sheet arrangements or for other purposes. 
+
+Item 3.   
+       
+       Quantitative and Qualitative Disclosures about Market Risk    
+
+As a smaller reporting company, we are not required to provide
+the information required by this Item 3. 
+
+Item 4.   
+       
+       Controls and Procedures    
+
+(a) Evaluation of Disclosure Controls and Procedures  
+
+We maintain disclosure controls and procedures (as such term
+is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that are designed to ensure that information required to be
+disclosed by us in reports that we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported within
+the time periods specified in SEC rules and forms and (ii) is accumulated and communicated to our management, including our principal
+executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+
+We carried out an evaluation, under the supervision and with
+the participation of our management, including our principal executive officer and principal financial officer, of the effectiveness
+of the design and operation of our disclosure controls and procedures as of the end of the period covered by this Report. Based
+upon that evaluation, our principal executive officer and principal financial officer concluded that our disclosure controls and
+procedures were effective as of September 30, 2018 at the reasonable assurance level. 
+
+(b) Changes in Internal Controls over Financial Reporting  
+
+Effective July 1, 2018, we adopted the new revenue standard
+under Accounting Standards Codification 606: Revenue from Contracts with Customers. We have implemented additional business processes
+and control activities, primarily related to variable consideration estimates, and presentation and disclosure, in order to monitor
+and maintain appropriate controls over financial reporting. There were no other changes in our internal control over financial
+reporting identified in connection with the evaluation required by Rule 13a-15(f) and 15d-15(f) of the Exchange Act that occurred
+during the quarter ended September 30, 2018, that have materially affected, or are reasonably likely to materially affect, our
+internal control over financial reporting. 
+
+(c) Inherent Limitation on Effectiveness of Controls  
+
+A control system, no matter how well conceived and operated,
+can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of
+a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative
+to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance
+that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include
+the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake.
+Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management
+override of the controls. The design of any system of controls is also based in part upon certain assumptions about the likelihood
+of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential
+future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with
+policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due
+to error or fraud may occur and not be detected. 
+
+PART II. OTHER INFORMATION  
+
+Item 1.   
+       
+       Legal Proceedings    
+
+From time to time, we are involved in various legal proceedings
+and claims arising in the ordinary course of our business. Although the results of legal proceedings and claims cannot be predicted
+with certainty, we currently believe that the final outcome of these ordinary course matters will not, individually or in the aggregate,
+have a material adverse effect on our business, operating results, financial condition or cash flows. However, regardless of the
+outcome, litigation can have an adverse impact on us because of legal costs, diversion of management time and resources, and other
+factors.   
+
+Item 1A.   
+       
+       Risk Factors    
+
+An investment in our common stock involves risks. Before making
+an investment decision, you should carefully consider all of the information in this Report, including in the section entitled
+ Management s Discussion and Analysis of Financial Condition and Results of Operations  in Part I, Item 2 of
+this Report, and the unaudited condensed consolidated financial statements and related notes thereto in Part I, Item 1 of this
+Report. In addition, you should carefully consider the risks and uncertainties described in the section entitled  Risk Factors 
+in the Form 10-K, as well as in our other public filings with the SEC. If any of the identified risks are realized, our business,
+financial condition, operating results and prospects could be materially and adversely affected. In that case, the trading price
+of our common stock may decline, and you could lose all or part of your investment. In addition, other risks of which we are currently
+unaware, or which we do not currently view as material, could have a material adverse effect on our business, financial condition,
+operating results and prospects. 
+
+Item 2.   
+       
+       Unregistered Sales of Equity Securities and Use of Proceeds    
+
+None. 
+
+Item 3.   
+       
+       Defaults Upon Senior Securities    
+
+None. 
+
+Item 4.   
+       
+       Mine Safety Disclosures    
+
+Not applicable. 
+
+Item 5.   
+       
+       Other Information    
+
+None. 
+
+Item 6.   
+       
+       Exhibits    
+
+See the  Exhibit Index  immediately following the
+signature page of this Report, which is incorporated herein by reference. 
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto
+duly authorized. 
+
+LANTRONIX, INC.     
+
+Date: October 26, 2018  
+      By:  
+       /s/ JEFFREY BENCK    
+
+Jeffrey Benck    
+
+President and Chief Executive Officer    
+
+(Principal Executive Officer)    
+
+Date: October 26, 2018  
+      By:  
+       /s/ JEREMY WHITAKER    
+
+Jeremy Whitaker   
+  Chief Financial Officer     
+
+(Principal Financial and Accounting Officer)    
+
+EXHIBIT INDEX  
+
+Incorporated by Reference    
+
+Exhibit  
+          Number    
+       Description   
+     
+          Provided  
+          Herewith   
+       Form   
+       Exhibit   
+     
+          Filing  
+          Date    
+
+10.1  
+     
+          Amended and Restated Loan and Security Agreement dated
+        October 15, 2018 between Lantronix, Inc. and Silicon Valley Bank   
+       
+      8-K  
+      99.1  
+      10/16/2018   
+
+31.1  
+       Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002   
+      X  
+
+31.2  
+       Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002   
+      X  
+
+32.1*  
+       Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002   
+      X  
+
+101.INS  
+      XBRL Instance Document  
+      X  
+
+101.SCH  
+      XBRL Taxonomy Extension Schema Document  
+      X  
+
+101.CAL  
+      XBRL Taxonomy Extension Calculation Linkbase Document  
+      X  
+
+101.DEF  
+      XBRL Taxonomy Extension Definition Linkbase Document  
+      X  
+
+101.LAB  
+      XBRL Taxonomy Extension Label Linkbase Document  
+      X  
+
+101.PRE  
+      XBRL Taxonomy Extension Presentation Linkbase Document  
+      X  
+
+_________________ 
+
+*  
+      Furnished, not filed.   
+
+<EX-31.1>
+ 2
+ lantronix_10q-ex3101.htm
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER
+
+Exhibit 31.1  
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE
+OFFICER  
+
+  PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002  
+
+I, Jeffrey Benck, certify that: 
+
+1.  
+      I have reviewed this quarterly report on Form 10-Q of Lantronix, Inc.;   
+
+2.  
+      Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;   
+
+3.  
+      Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+
+4.  
+      The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in the Securities Exchange Act of 1934, as amended, Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in the Securities Exchange Act of 1934, as amended, Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a)  
+      Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+
+(d)  
+      Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and   
+
+5.  
+      The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):   
+
+(a)  
+      All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and   
+
+(b)  
+      Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+
+Date: October 26, 2018  
+      /s/ JEFFREY BENCK   
+
+Jeffrey Benck 
+         President and Chief Executive Officer 
+         (Principal Executive Officer)   
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ lantronix_10q-ex3102.htm
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER
+
+Exhibit 31.2  
+
+CERTIFICATION OF PRINCIPAL FINANCIAL
+OFFICER  
+
+  PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002  
+
+I, Jeremy Whitaker, certify that: 
+
+1.  
+      I have reviewed this quarterly report on Form 10-Q of Lantronix, Inc.;   
+
+2.  
+      Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;   
+
+3.  
+      Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+
+4.  
+      The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in the Securities Exchange Act of 1934, as amended, Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in the Securities Exchange Act of 1934, as amended, Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a)  
+      Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+
+(d)  
+      Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and   
+
+5.  
+      The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):   
+
+(a)  
+      All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and   
+
+(b)  
+      Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+
+Date: October 26, 2018  
+      /s/ JEREMY WHITAKER   
+
+Jeremy Whitaker 
+         Chief Financial Officer 
+         (Principal Financial and Accounting Officer)   
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ lantronix_10q-ex3201.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER
+
+Exhibit 32.1  
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+AND CHIEF FINANCIAL OFFICER  
+
+  PURSUANT TO   
+
+  18 U.S.C. SECTION 1350,  
+
+  AS ADOPTED PURSUANT TO  
+
+  SECTION 906 OF THE SARBANES-OXLEY ACT
+OF 2002  
+
+The following certifications are being furnished
+solely to accompany the Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2018 (the  Report )
+pursuant to U.S.C. Section 1350, and pursuant to SEC Release No. 33-8238 are being  furnished  to the Securities and
+Exchange Commission rather than  filed  either as part of the Report or as a separate disclosure statement, and are
+not to be incorporated by reference into the Report or any other filing of Lantronix, Inc. (the  Company ), whether
+made before or after the date hereof, regardless of any general incorporation language in such filing. The following certifications
+shall not be deemed  filed  for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise
+subject to liability under that section. 
+
+Certification of the Chief Executive Officer  
+
+Pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of the Company hereby certifies, to such officer s
+knowledge, that: 
+
+(i) the Report fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(ii) the information contained in the Report
+fairly presents, in all material respects, the financial condition and results operations of the Company as of, and for, the periods
+presented in such Report. 
+
+Date: October 26, 2018  
+      /s/ JEFFREY BENCK   
+
+Jeffrey Benck 
+         President and Chief Executive Officer 
+         (Principal Executive Officer)   
+
+Certification of the Chief Financial Officer  
+
+Pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of the Company hereby certifies, to such officer s
+knowledge, that: 
+
+(i) the Report fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(ii) the information contained in the Report
+fairly presents, in all material respects, the financial condition and results operations of the Company as of, and for, the periods
+presented in such Report. 
+
+Date: October 26, 2018  
+      /s/ JEREMY WHITAKER   
+
+Jeremy Whitaker 
+         Chief Financial Officer 
+         (Principal Financial and Accounting Officer)   
+
+</EX-32.1>
+
+<EX-101.INS>
+ 6
+ ltrx-20180930.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ ltrx-20180930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ ltrx-20180930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ ltrx-20180930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ ltrx-20180930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ ltrx-20180930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

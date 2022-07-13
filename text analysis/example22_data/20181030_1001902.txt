@@ -1,0 +1,1417 @@
+UNITED STATES   
+  SECURITIES AND EXCHANGE COMMISSION   
+  Washington, DC 20549        
+       FORM  10-Q         
+       (MARK ONE)
+  
+    For the quarterly period ended September 29, 2018   
+  OR       
+    For the transition period from
+                       to
+                         
+  Commission file number  0-26946    
+         
+  INTEVAC, INC.      (Exact
+name of registrant as specified in its charter)        
+
+Delaware  
+   
+   94-3125814    
+ 
+    (State or other jurisdiction of  
+  incorporation or organization)   
+   
+    (IRS Employer  
+  Identification No.)    
+    3560 Bassett Street   
+  Santa Clara, California 95054       
+  (Address of principal executive office, including Zip Code)   
+         
+  Registrant s telephone number, including area code: (408)  986-9888    
+         
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d)
+of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+days.       Yes       No    Indicate by check mark
+whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation  S-T  ( 232.405 of this chapter) during the preceding 12 months
+(or for such shorter period that the registrant was required to submit such files).       Yes       No  
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a  non-accelerated  filer, smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and
+ emerging growth company  in  Rule 12b-2  of the Exchange Act:      
+
+Large accelerated filer  
+
+Accelerated filer  
+
+Non-accelerated  filer  
+
+Smaller reporting company  
+
+Emerging growth company  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use
+the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     
+ Indicate by check mark whether the registrant is a shell company (as defined in
+ Rule 12b-2  of the Act).       Yes       No  
+ On October 26, 2018, 22,814,493 shares of the Registrant s Common Stock, $0.001 par value, were outstanding.  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  INDEX       
+
+No.   
+
+Page  
+
+PART I. FINANCIAL INFORMATION    
+
+Item 1.   
+   
+    Financial Statements (unaudited)   
+
+Condensed Consolidated Balance Sheets   
+
+3 
+
+Condensed Consolidated Statements of Operations   
+
+4 
+
+Condensed Consolidated Statements of Comprehensive Income
+(Loss)   
+
+5 
+
+Condensed Consolidated Statements of Cash Flows   
+
+6 
+
+Notes to Condensed Consolidated Financial Statements   
+
+7 
+
+Item 2.   
+   
+    Management s Discussion and Analysis of Financial Condition and Results
+ of Operations   
+
+28 
+
+Item 3.   
+   
+    Quantitative and Qualitative Disclosures About Market Risk   
+
+34 
+
+Item 4.   
+   
+    Controls and Procedures   
+
+34 
+
+PART II. OTHER INFORMATION    
+
+Item 1.   
+   
+    Legal Proceedings   
+
+36 
+
+Item 1A.   
+   
+    Risk Factors   
+
+36 
+
+Item 2.   
+   
+    Unregistered Sales of Equity Securities and Use of Proceeds   
+
+42 
+
+Item 3.   
+   
+    Defaults upon Senior Securities   
+
+42 
+
+Item 4.   
+   
+    Mine Safety Disclosures   
+
+42 
+
+Item 5.   
+   
+    Other Information   
+
+42 
+
+Item 6.   
+   
+    Exhibits   
+
+43 
+
+SIGNATURES     
+
+44 
+
+2  
+
+Table of Contents  
+
+PART I. FINANCIAL INFORMATION   
+
+Item 1.  
+       Financial Statements         
+    INTEVAC, INC.   
+  CONDENSED CONSOLIDATED BALANCE SHEETS       
+   Note: Amounts as of December 30, 2017 are derived from the
+December 30, 2017 audited consolidated financial statements.    See accompanying notes to the condensed consolidated financial
+statements.  
+      3  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS       
+   See accompanying notes to the condensed consolidated financial statements.  
+      4  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)   
+   
+   See accompanying notes to the condensed consolidated financial statements.  
+      5  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS       
+   See accompanying notes to the condensed consolidated financial statements.  
+      6  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)   
+  1.    Description of Business and Basis of Presentation   
+ Intevac, Inc. (together with its subsidiaries  Intevac,  the  Company  or  we ) is a provider of
+vacuum deposition equipment for a wide variety of thin-film applications, and a leading provider of digital night-vision technologies and products to the defense industry. The Company leverages its core capabilities in high-volume manufacturing of
+small substrates to provide process manufacturing equipment solutions to the hard disk drive ( HDD ), display cover panel ( DCP ), and photovoltaic ( PV ) solar cell industries. Intevac also provides sensors, cameras
+and systems for government applications such as night vision. Intevac s customers include manufacturers of hard disk media, DCPs and solar cells as well as the U.S. government and its agencies, allies and contractors. Intevac reports two
+segments: Thin-film Equipment ( TFE ) and Photonics.    In the opinion of management, except for the changes
+below, the unaudited interim condensed consolidated financial statements of Intevac included herein have been prepared on a basis consistent with the December 30, 2017 audited consolidated financial statements and include all material
+adjustments, consisting of normal recurring adjustments, necessary to fairly present the information set forth therein. The Company adopted Accounting Standards Codification ( ASC ) 606, Revenue from Contracts with Customers, with a date
+of the initial application of December 31, 2017. As a result, the Company has changed its accounting policy for revenue recognition as detailed below. These unaudited interim condensed consolidated financial statements should be read in
+conjunction with the audited consolidated financial statements and notes thereto included in Intevac s Annual Report on Form  10-K  for the fiscal year ended December 30, 2017 ( 2017 Form  10-K ).  Intevac s results of operations for the three and nine months ended September 29, 2018 are not necessarily indicative of future operating results.  
+ The preparation of financial statements in conformity with accounting principles generally accepted in the United States of
+America requires management to make judgments, estimates and assumptions that affect the amounts reported in the financial statements and accompanying notes. Actual results could differ materially from those estimates.  
+  2.    Recent Accounting Pronouncements   
+   Recently Issued Accounting Standards Not Yet Adopted    
+ In August 2018, the Financial Accounting Standards Board ( FASB ) issued Accounting Standard Update
+( ASU )  2018-15,  Intangibles Goodwill and  Other Internal-Use  Software (Subtopic  350-40):  Customer s
+Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract, which clarifies the accounting for implementation costs in cloud computing arrangements. This update becomes effective the first quarter of
+fiscal 2020, and earlier adoption is permitted. Intevac does not expect the adoption of this update to have a material impact on its consolidated financial statements.  
+ In February 2018, the FASB issued ASU  2018-02,  Income Statement   Reporting
+Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income. ASU  2018-02  allows a reclassification from accumulated other comprehensive income to
+retained earnings for  stranded tax effects  resulting from the Tax Cuts and Jobs Act ( Tax Reform ). The guidance states that because the adjustment of deferred taxes due to the reduction of the historical corporate income tax
+rate to the newly enacted corporate income tax rate is required to be included in income from continuing operations, the tax effects of items within accumulated other comprehensive income ( stranded tax effects ) do not reflect the
+appropriate tax rate. As stated within the guidance, the amendments in this update should be applied retrospectively to each period in which the effect of the change in the U.S. federal corporate income tax rate in the Tax Reform is recognized. This
+update becomes effective in the first quarter of fiscal 2019 and early adoption is permitted. At this time, the Company is in the process of evaluating the impact of the provisions of  ASU 2018-02  on its
+consolidated financial statements.    In February 2016, the FASB issued ASU
+ 2016-02,  Leases. The new standard requires lessees to record assets and liabilities on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or
+operating, with classification affecting the pattern of expense recognition in the income statement.    Intevac leases
+certain facilities under  non-cancelable  operating leases that expire at various times up to March 2024 and has options to renew most leases, with rentals to be negotiated. Certain of Intevac s leases
+contain provisions for rental adjustments. Operating lease rentals are expensed on a straight-line basis over the life of the lease beginning on the date we take possession of the property. At lease inception, we determine the lease term by assuming
+the exercise of those renewal options that are reasonably assured. The exercise of lease renewal options is at our sole discretion. The lease term is used to determine whether a lease is financing or operating and is used to calculate straight-line
+rent expense. Additionally, the depreciable life of leasehold improvements is limited by the expected lease term.  
+      7  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  We plan to adopt the standard as of
+December   30,   2018, the beginning of fiscal   2019. We will elect the package of practical expedients permitted under the transition guidance within the new standard, which, among other things, allows us to carry
+forward the historical lease classification. In addition, we are electing the hindsight practical expedient to determine the reasonably certain lease term for existing leases. We will make an accounting policy election to keep leases with an initial
+term of 12 months or less off of the balance sheet. We will recognize those lease payments in the consolidated statements of operations on a straight-line basis over the lease term. We also plan to elect the practical expedient that will allow us to
+apply the new lease guidance at its effective date, December   30,   2018, without adjusting the comparative financial statements.  
+ We are currently completing the assessment phase of the implementation project and are finalizing our review of the impact of
+adoption. We expect the adoption of these accounting changes will materially increase our assets and liabilities, but will not have a material impact on our results of operations, equity, or cash flows.  
+   Adoption of New Accounting Standard    
+ On December 31, 2017, we adopted the new accounting standard ASC 606, Revenue from Contracts with Customers and all the
+related amendments ( new revenue standard ) to all contracts using the modified retrospective method. We recognized the cumulative effect of initially applying the new revenue standard as an adjustment to the opening balance of the
+accumulated deficit. The comparative information has not been restated and continues to be reported under the accounting standards in effect for those periods. We expect the impact of the adoption of the new standard to be immaterial to our net
+income on an ongoing basis.    In our TFE segment, a majority of our equipment sales revenue continues to be recognized when
+products are shipped from our manufacturing facilities. Revenue recognition for our equipment sales arrangements, which includes systems, technology upgrades, service and spare parts, remains materially consistent with our historical practice.  
+ Under the new revenue standard, in our TFE segment, we recognize revenue for equipment sales at a point in time following the
+transfer of control of such products to the customer, which typically occurs upon shipment or delivery depending on the terms of the underlying contracts. Intevac recognizes revenue in certain circumstances before delivery has occurred (commonly
+referred to as bill and hold transactions). In such circumstances, among other things, risk of ownership has passed to the customer, the customer has made a written fixed commitment to purchase the finished goods, the customer has requested the
+finished goods be held for future delivery as scheduled and designated by them, and no additional performance obligations exist by Intevac. For these transactions, the finished goods are segregated from inventory and normal billing and credit terms
+granted. Our contracts with customers may include multiple performance obligations. For such arrangements, under the new revenue standard we allocate revenue to each performance obligation based on its relative standalone selling price. We generally
+determine standalone selling prices based on the prices charged to customers or by using expected cost plus margin. Under the new revenue standard, the expected costs associated with our base warranties continue to be recognized as expense when the
+equipment is sold.    Under the new revenue standard, in our Photonics segment, we recognize revenue for cost plus fixed fee
+( CPFF ) and firm fixed priced ( FFP ) government contracts over time under the   cost-to-cost   method for the majority of our government contracts,
+which is consistent with our historical revenue recognition model. Revenue on the majority of our government contracts will continue to be recognized over time because of the continuous transfer of control to the customer. For U.S. government
+contracts, this continuous transfer of control to the customer is supported by clauses in the contract that allow the customer to unilaterally terminate the contract for convenience, pay us for costs incurred plus a reasonable profit and take
+control of any work in process. Similarly, for  non-U.S.  government contracts, the customer typically controls the work in process as evidenced either by contractual termination clauses or by our rights to
+payment for work performed to date to deliver products or services that do not have an alternative use to the Company. Under the new standard, the   cost-to-cost   measure
+of progress continues to best depict the transfer of control of assets to the customer, which occurs as we incur costs.  
+ The majority of our contracts in our Photonics segment have a single performance obligation as the promise to transfer the
+individual goods or services is not separately identifiable from other promises in the contracts and, therefore, not distinct. Some of our contracts have multiple performance obligations, most commonly due to the contract covering multiple phases of
+the product lifecycle (development and production). For contracts with multiple performance obligations, we allocate the contract s transaction price to each performance obligation using our best estimate of the standalone selling price of each
+distinct good or service in the contract. The primary method used to estimate standalone selling price is the expected cost plus a margin approach, under which we forecast our expected costs of satisfying a performance obligation and then add an
+appropriate margin for that distinct good or service.    Under the new revenue standard, in our Photonics segment, we
+recognize revenue for homogenous manufactured military products sold to the U.S. government and its contractors over time under the   units-of-delivery   method because of
+the continuous transfer of control to the customer. Intevac believes that the   units-of-delivery   method is an appropriate measure for measuring progress for the
+manufactured units as an equal amount of value is individually transferred to the customer upon delivery. The Company previously recognized revenue for substantially all manufactured military products sold to the U.S. government and its contractors
+when the customers took delivery of the products, which was generally upon shipment.  
+      8  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  The nature of our contracts in our Photonics segment gives rise to several
+types of variable consideration including tiered pricing. Allocation of contract revenues among Photonics military products, and the timing of the recognition of those revenues, is impacted by agreements with tiered pricing or variable rate
+structures. We include variable consideration in the estimated transaction price when there is a basis to reasonably estimate the amount of the consideration. These estimates are based on historical experience, anticipated performance and our best
+judgment at the time. Because of our certainty in estimating these amounts, they are included in the transaction price of our contracts and the associated remaining performance obligations.  
+ Accounting for CPFF and FFP contracts and programs involves the use of various techniques to estimate total contract revenue
+and costs. For these contracts, we estimate the profit on a contract as the difference between the total estimated revenue and expected costs to complete a contract and recognize that profit over the life of the contract. Contract estimates are
+based on various assumptions to project the outcome of future events. These assumptions include the complexity of the work to be performed; the cost and availability of materials; the performance of subcontractors; and the availability and timing of
+funding from the customer.    As a significant change in one or more of these estimates could affect the profitability of
+our contracts, we review and update our contract-related estimates regularly. We recognize adjustments in estimated profit on contracts under the cumulative  catch-up  method. Under this method, the impact of
+the adjustment on profit recorded to date on a contract is recognized in the period the adjustment is identified. Revenue and profit in future periods of contract performance are recognized using the adjusted estimate. If at any time the estimate of
+contract profitability indicates an anticipated loss on the contract, we recognize the total loss in the quarter it is identified.  
+ We recorded a cumulative effect adjustment to the beginning balance of our consolidated December 31, 2017 balance sheet
+for the impact of the allocation and the timing of the recognition of revenues for an open Photonics military product agreement with a tiered pricing structure. This change will also result in increased revenue in subsequent periods from this
+agreement. The cumulative effect of the changes made to our consolidated December 31, 2017 balance sheet for the adoption of the new revenue standard were as follows (in thousands):  
+   
+   In accordance with the new revenue standard requirements, the disclosure of the impact of
+adoption on select condensed consolidated statement of operations line items was as follows (in thousands):      
+ 
+      9  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  In accordance with the new revenue standard requirements, the disclosure of
+the impact of adoption on select condensed consolidated balance sheet line items was as follows (in thousands):      
+    3.    Revenue   
+ The following tables represent a disaggregation of revenue from contracts with customers for the three and nine months ended
+September 29, 2018 and September 30, 2017 along with the reportable segment for each category. As noted above, the prior period amounts have not been adjusted under the modified retrospective method.  
+   Major Products and Service Lines        
+
+10  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+    Primary Geographical Markets    
+   
+     Timing of Revenue Recognition        
+ 
+      11  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  The following table reflects the changes in our contract assets, which we
+classify as accounts receivable, unbilled or retainage, and our contract liabilities, which we classify as deferred revenue and customer advances, for the nine months ended September 29, 2018:  
+   
+   Accounts receivable, unbilled in our TFE segment represents a contract asset for revenue that
+has been recognized in advance of billing the customer. For our system and certain upgrade sales, our TFE customers generally pay in three installments, with a portion of the system price billed upon receipt of an order, a portion of the price
+billed upon shipment, and the balance of the price due upon completion of installation and acceptance of the system at the customer s factory. Accounts receivable, unbilled in our TFE segment generally represents the balance of the system price
+that is due upon completion of installation and acceptance less the amount that has been deferred as revenue for the performance of the installation tasks. During the nine months ended September 29, 2018, contract assets in our TFE segment
+decreased by $851,000 primarily due to the final billing on four systems that were pending acceptance as of December 30, 2017 that completed installation and were accepted by the customer, offset by the accrual of revenue for an additional
+two systems delivered during the first nine months of fiscal 2018 that were pending acceptance as of September 29, 2018.  
+ Customer advances in our TFE segment generally represent amounts billed to the customer prior to transferring goods which
+represents a contract liability. We have elected to use the practical expedient to disregard the effect of the time value of money in a significant financing component when its payment terms are less than one year. These contract advances are
+liquidated when revenue is recognized. Deferred revenue in our TFE segment generally represents amounts billed to a customer for completed systems at the customer site that are undergoing installation and acceptance testing where transfer of control
+has not yet occurred as we do not yet have a demonstrated history of meeting the acceptance criteria upon the customer s receipt of product and represents a contract liability. During the nine months ended September 29, 2018, we
+recognized revenue in our TFE segment of $6.6 million and $69,000 that was included in customer advances and deferred revenue, respectively, at the beginning of the period.  
+ Accounts receivable, unbilled in our Photonics segment represents a contract asset for revenue that has been recognized in
+advance of billing the customer, which is common for contracts in the defense industry. In our Photonics segment, amounts are billed as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals (e.g., monthly) or
+upon achievement of contractual milestones. Generally, billing occurs subsequent to revenue recognition, resulting in contract assets. Our contracts with the U.S. government may also contain retainage provisions. Retainage represents a contract
+asset for the portion of the contract price earned by us for work performed, but held for payment by the U.S. government as a form of security until satisfactory completion of the contract. The retainage is billable upon completion of the contract
+performance and approval of final indirect expense rates by the government. During the nine months ended September 29, 2018, contract assets in our Photonics segment decreased by $6,000 primarily due to the final settlement of retainage
+amounts on certain CPFF contracts, offset in part by the accrual of revenue for incurred costs under CPFF contracts.  
+      12  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  Customer advances in our Photonics segment generally represent deposits from
+customers upon contract execution and upon achievement of contractual milestones which represents a contract liability. These deposits are liquidated when revenue is recognized. Deferred revenue in our Photonics segment includes $1.3 million
+deferred for the impact of the allocation and the timing of the recognition of revenues for a military product agreement with a tiered pricing structure. Deferred revenue in our Photonics segment also includes incurred costs under CPFF contracts
+pending approval of final indirect expense rates by the government and represents a contract liability. During the nine months ended September 29, 2018, we recognized revenue in our Photonics segment of $536,000 and $324,000 that was
+included in customer advances and deferred revenue, respectively, at the beginning of the period.    On
+September 29, 2018 we had $72.2 million of remaining performance obligations, which we also refer to as total backlog. Backlog at September 29, 2018 consisted of $63.6 million of TFE backlog and $8.6 million of
+Photonics backlog. We expect to recognize approximately 44% of our remaining performance obligations as revenue in 2018, 52% in 2019 and 4% in 2020.  
+  4.    Inventories   
+ Inventories are stated at the lower of average cost or market and consist of the following:  
+   
+   Finished goods inventory consists primarily of completed systems that are undergoing
+installation and acceptance testing.     5.    Equity-Based Compensation   
+ At September 29, 2018, Intevac had equity-based awards outstanding under the 2012 Equity Incentive Plan and the 2004
+Equity Incentive Plan (together, the  Plans ) and the 2003 Employee Stock Purchase Plan (the  ESPP ). Intevac s stockholders approved all of these plans. The Plans permit the grant of incentive or  non-statutory  stock options, restricted stock, stock appreciation rights, restricted stock units ( RSUs ) and performance shares.  
+ The ESPP provides that eligible employees may purchase Intevac s common stock through payroll deductions at a price equal
+to 85% of the lower of the fair market value at the entry date of the applicable offering period or at the end of each applicable purchase interval. Offering periods are generally two years in length, and consist of a series of  six-month  purchase intervals. Eligible employees may join the ESPP at the beginning of any  six-month  purchase interval. Under the terms of the ESPP, employees can choose to
+have up to 15% of their base earnings withheld to purchase Intevac common stock.  
+      13  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+    Compensation Expense    
+ The effect of recording equity-based compensation for the three and nine months ended September 29, 2018 and
+September 30, 2017 was as follows:      
+   Equity-based compensation expense is based on awards ultimately expected to vest and such
+amount has been historically reduced for estimated forfeitures. Beginning January 1, 2017, Intevac accounts for forfeitures as they occur, rather than estimating expected forfeitures. The net cumulative effect of this change was recognized
+as a $1.1 million increase to the accumulated deficit as of January 1, 2017.      Stock Options and ESPP    
+ The fair value of stock options and ESPP awards is estimated at the grant date using the Black-Scholes option valuation model.
+The determination of fair value of stock options and ESPP awards on the date of grant using an option-pricing model is affected by Intevac s stock price as well as assumptions regarding a number of highly complex and subjective variables. These
+variables include, but are not limited to, our expected stock price volatility over the term of the awards and actual employee stock option exercise behavior.  
+ A summary of the options activity is as follows:      
+   Intevac issued 410,522 shares under the ESPP during the nine months ended September 29,
+2018.  
+      14  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  Intevac estimated the weighted-average fair value of stock options and
+employee stock purchase rights using the following weighted-average assumptions:      
+   The computation of the expected volatility assumptions used in the Black-Scholes calculations
+for new stock option grants and employee stock purchase rights is based on the historical volatility of Intevac s stock price, measured over a period equal to the expected term of the stock option grant or purchase right. The risk-free interest
+rate is based on the yield available on U.S. Treasury Strips with an equivalent remaining term. The expected term of employee stock options represents the weighted-average period that the stock options are expected to remain outstanding and was
+determined based on historical experience of similar awards, giving consideration to the contractual terms of the equity-based awards and vesting schedules. The expected term of purchase rights represents the period of time remaining in the current
+offering period. The dividend yield assumption is based on Intevac s history of not paying dividends and the assumption of not paying dividends in the future.  
+   RSUs      A summary of
+the RSU activity is as follows:      
+   Time-based RSUs are converted into shares of Intevac common stock upon vesting on a   one-for-one   basis. Time-based RSUs typically are scheduled to vest over three or four years. Vesting of time-based RSUs is subject to the grantee s continued service with
+Intevac. The compensation expense related to these awards is determined using the fair market value of Intevac common stock on the date of the grant, and the compensation expense is recognized over the vesting period.  
+      15  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  In fiscal 2016, the annual bonus for certain participants in the
+Company s annual incentive plan was settled with RSUs with  one-year  vesting. The bonus accrual was classified as a liability until the number of shares was determined on the date the awards were granted,
+at which time the Company classified the awards into equity. In February 2017, the annual 2016 bonus for certain participants was settled with RSUs with  one-year  vesting. 33 participants were granted
+stock awards to receive an aggregate of 134,000 shares of common stock with a weighted-average grant date fair value of $9.63 per share. The Company recorded equity-based compensation expense related to the annual incentive plans of $102,000
+for the nine months ended September 30, 2017.     6.    Purchased Intangible Assets   
+ Details of finite-lived intangible assets by segment as of September 29, 2018 are as follows.  
+   
+   Total amortization expense of finite-lived intangibles for the three and nine months ended
+September 29, 2018 was $154,000 and $461,000, respectively.    As of September 29, 2018, future amortization
+expense is expected to be as follows.      
+    7.    Acquisition-Related Contingent Consideration   
+ In connection with the acquisition of Solar Implant Technologies, Inc. ( SIT ), Intevac agreed to pay to the selling
+shareholders in cash a revenue earnout on Intevac s net revenue from commercial sales of certain products over a specified period up to an aggregate of $9.0 million. Intevac estimated the fair value of this contingent consideration on
+September 29, 2018 based on forecasted revenues reflecting Intevac s own assumptions concerning future revenue from such products.  
+ The fair value measurement of contingent consideration is based on significant inputs not observed in the market and thus
+represents a Level 3 measurement. Any change in fair value of the contingent consideration subsequent to the acquisition date is recognized in income (loss) from operations within the condensed consolidated statement of operations. The
+following table represents a reconciliation of the change in the fair value measurement of the contingent consideration liability for the three and nine month periods ended September 29, 2018 and September 30, 2017:  
+
+16  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  The following table displays the balance sheet classification of the
+contingent consideration liability account at September 29, 2018 and at December 30, 2017:      
+   The following table represents the quantitative range of the significant unobservable inputs
+used in the calculation of fair value of the contingent consideration liability as of September 29, 2018. Significant increases or decreases in any of these inputs in isolation would result in a significantly lower or higher fair value
+measurement.      
+
+Quantitative Information about Level 3 Fair Value Measurements at September 29, 2018  
+
+Fair Value  
+
+Valuation Technique  
+    
+  Unobservable Input  
+    
+  Weighted Average  
+
+(In thousands, except for percentages)  
+
+Revenue Earnout  
+    
+ $ 
+ 370 
+
+Discounted cash flow 
+    
+ Weighted average cost of capital 
+
+12.1 
+ %   
+    8.    Warranty   
+ Intevac provides for the estimated cost of warranty when revenue is recognized. Intevac s warranty is per contract terms
+and for its HDD, DCP and solar cell manufacturing systems the warranty typically ranges between 12 and 24 months from customer acceptance. During this warranty period any defective  non-consumable  parts are
+replaced and installed at no charge to the customer. Intevac uses estimated repair or replacement costs along with its historical warranty experience to determine its warranty obligation. The provision for the estimated future costs of warranty is
+based upon historical cost and product performance experience. Intevac exercises judgment in determining the underlying estimates.  
+ On the condensed consolidated balance sheets, the short-term portion of the warranty provision is included in other accrued
+liabilities, while the long-term portion is included in other long-term liabilities. The expense associated with product warranties issued or adjusted is included in cost of net revenues on the condensed consolidated statements of operations.  
+ The following table displays the activity in the warranty provision account for the three and nine months ended
+September 29, 2018 and September 30, 2017:      
+ 
+      17  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  The following table displays the balance sheet classification of the warranty
+provision account at September 29, 2018 and at December 30, 2017:      
+    9.    Guarantees   
+   Officer and Director Indemnifications    
+ As permitted or required under Delaware law and to the maximum extent allowable under that law, Intevac has certain obligations
+to indemnify its current and former officers and directors for certain events or occurrences while the officer or director is, or was, serving at Intevac s request in such capacity. These indemnification obligations are valid as long as the
+director or officer acted in good faith and in a manner the person reasonably believed to be in or not opposed to the best interests of the Company and, with respect to any criminal action or proceeding, had no reasonable cause to believe his or her
+conduct was unlawful. The maximum potential amount of future payments Intevac could be required to make under these indemnification obligations is unlimited; however, Intevac has a director and officer insurance policy that mitigates Intevac s
+exposure and enables Intevac to recover a portion of any future amounts paid. As a result of Intevac s insurance policy coverage, Intevac believes the estimated fair value of these indemnification obligations is not material.  
+   Other Indemnifications    
+ As is customary in Intevac s industry, many of Intevac s contracts provide remedies to certain third parties such as
+defense, settlement, or payment of judgments for intellectual property claims related to the use of its products. Such indemnification obligations may not be subject to maximum loss clauses. Historically, payments made related to these
+indemnifications have been immaterial.      Letters of Credit    
+ As of September 29, 2018, we had letters of credit and bank guarantees outstanding totaling $1.6 million, including a
+standby letter of credit outstanding under the Santa Clara, California facility lease and various other guarantees with our bank. These letters of credit and bank guarantees are collateralized by $1.6 million of restricted cash.  
+      18  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+   10.    Cash, Cash Equivalents and Investments   
+ Cash and cash equivalents, short-term investments and long-term investments consist of:  
+
+19  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  The contractual maturities of   available-for-sale   securities at September 29, 2018 are presented in the following table.      
+   The following table provides the fair market value of Intevac s investments with
+unrealized losses that are not deemed to be other-than temporarily impaired as of September 29, 2018.      
+   All prices for the fixed maturity securities including U.S. Treasury and agency securities,
+certificates of deposit, commercial paper, corporate bonds and municipal bonds are received from independent pricing services utilized by Intevac s outside investment manager. This investment manager performs a review of the pricing
+methodologies and inputs utilized by the independent pricing services for each asset type priced by the vendor. In addition, on at least an annual basis, the investment manager conducts due diligence visits and interviews with each pricing vendor to
+verify the inputs utilized for each asset class. The due diligence visits include a review of the procedures performed by each vendor to ensure that pricing evaluations are representative of the price that would be received for a security in an
+orderly sale. Any pricing where the input is based solely on a broker price is deemed to be a Level 3 price. Intevac uses the pricing data obtained from its outside investment manager as the primary input to make its assessments and
+determinations as to the ultimate valuation of the above-mentioned securities and has not made, during the periods presented, any material adjustments to such inputs.  
+ The following table represents the fair value hierarchy of Intevac s   available-for-sale   securities measured at fair value on a recurring basis as of September 29, 2018.      
+ 
+      20  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+   11.    Derivative Instruments   
+ The Company uses foreign currency forward contracts to mitigate variability in gains and losses generated from the  re-measurement  of certain monetary assets and liabilities denominated in foreign currencies and to offset certain operational exposures from the impact of changes in foreign currency exchange rates. These
+derivatives are carried at fair value with changes recorded in interest income and other income (expense), net in the condensed consolidated statements of operations. Changes in the fair value of these derivatives are largely offset by  re-measurement  of the underlying assets and liabilities. Cash flows from such derivatives are classified as operating activities. The derivatives have original maturities of approximately 30 days.  
+ The following table summarizes the Company s outstanding derivative instruments on a gross basis as recorded in its
+condensed consolidated balance sheets as of September 29, 2018 and December 30, 2017:      
+
+(a) 
+   Other accrued liabilities     
+  12.    Equity   
+   Condensed Consolidated Statement of Changes in Equity    
+ The changes in stockholders  equity by component for the three and nine months ended September 29, 2018 and
+September 30, 2017, are as follows (in thousands):      
+
+21  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+
+22  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+    Accumulated Other Comprehensive Income    
+ The changes in accumulated other comprehensive income by component for the three and nine months ended
+September 29, 2018 and September 30, 2017, are as follows.      
+     Stock Repurchase Program    
+ On November 21, 2013, Intevac s Board of Directors approved a stock repurchase program authorizing up to
+$30.0 million in repurchases. On August 15, 2018, Intevac s Board of Directors approved a $10.0 million increase to the original stock repurchase program for an aggregate authorized amount of $40.0 million. At
+September 29, 2018, $11.5 million remains available for future stock repurchases under the repurchase program. Intevac did not make any stock repurchases during the three and nine months ended September 29, 2018 and September 30,
+2017, respectively.    Intevac records treasury stock purchases under the cost method using the  first-in,   first-out  (FIFO) method. Upon reissuance of treasury stock, amounts in excess of the acquisition cost are credited to additional
+ paid-in  capital. If Intevac reissues treasury stock at an amount below its acquisition cost and additional  paid-in  capital associated with prior treasury stock
+transactions is insufficient to cover the difference between the acquisition cost and the reissue price, this difference is recorded against retained earnings.  
+      23  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+   13.    Net Income (Loss) Per Share   
+ The following table sets forth the computation of basic and diluted net income (loss) per share for the three and nine months
+ended September 29, 2018 and September 30, 2017:      
+   The following potentially dilutive securities were excluded (as common stock equivalents) from
+the computation of diluted net income (loss) per share for the periods presented as their effect would have been antidilutive:      
+    14.    Segment Reporting   
+ Intevac s two reportable segments are: TFE and Photonics. Intevac s chief operating decision-maker has been
+identified as the President and CEO, who reviews operating results to make decisions about allocating resources and assessing performance for the entire Company. Segment information is presented based upon Intevac s management organization
+structure as of September 29, 2018 and the distinctive nature of each segment. Future changes to this internal financial structure may result in changes to the reportable segments disclosed.  
+ Each reportable segment is separately managed and has separate financial results that are reviewed by Intevac s chief
+operating decision-maker. Each reportable segment contains closely related products that are unique to the particular segment. Segment operating profit is determined based upon internal performance measures used by the chief operating
+decision-maker.    Intevac derives the segment results from its internal management reporting system. The accounting
+policies Intevac uses to derive reportable segment results are substantially the same as those used for external reporting purposes. Management measures the performance of each reportable segment based upon several metrics, including orders, net
+revenues and operating income. Management uses these results to evaluate the performance of, and to assign resources to, each of the reportable segments. Intevac manages certain operating expenses separately at the corporate level. Intevac allocates
+certain of these corporate expenses to the segments in an amount equal to 3% of net revenues. Segment operating income excludes interest income/expense and other financial charges and income taxes according to how a particular reportable
+segment s management is measured. Management does not consider impairment charges, gains and losses on divestitures and sales of intellectual property, and unallocated costs in measuring the performance of the reportable segments.  
+ The TFE segment designs, develops and markets vacuum process equipment solutions for high-volume manufacturing of small
+substrates with precise thin-film properties, such as for the hard drive, solar cell and DCP industries, as well as other adjacent thin-film markets.  
+      24  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  The Photonics segment develops compact, cost-effective, high-sensitivity
+digital-optical products for the capture and display of  low-light  images. Intevac provides sensors, cameras and systems for government applications such as night vision.  
+ Information for each reportable segment for the three and nine months ended September 29, 2018 and September 30,
+2017 is as follows:      Net Revenues        
+     Operating Income (Loss)        
+ 
+      25  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  Total assets for each reportable segment as of September 29, 2018 and
+December 30, 2017 are as follows:      Assets        
+    15.    Income Taxes   
+ Intevac recorded income tax provisions of $192,000 and $717,000 for the three and nine months ended September 29, 2018,
+respectively, and $66,000 and $805,000 for the three and nine months ended September 30, 2017, respectively. The income tax provisions for the three and nine months are based upon estimates of annual income (loss), annual permanent differences
+and statutory tax rates in the various jurisdictions in which Intevac operates. For the three and nine months ended September 29, 2018 Intevac utilized net operating loss carry-forwards to offset the impact of the global intangible  low-taxed  income ( GILTI ) and recorded discrete items for withholding taxes on royalties paid to the United States from Intevac s Singapore subsidiary. The income tax provisions for the three and
+nine months ended September 30, 2017 include withholding taxes on royalties payable to the United States from Intevac s Singapore subsidiary and $200,000 for audit considerations in foreign jurisdictions, both recorded as discrete
+items. Intevac s tax rate differs from the applicable statutory rates due primarily to establishment of a valuation allowance, the utilization of deferred and current credits and the effect of permanent differences and adjustments of prior
+permanent differences. Intevac s future effective income tax rate depends on various factors, including the level of Intevac s projected earnings, the geographic composition of worldwide earnings, tax regulations governing each region, net
+operating loss carry-forwards, availability of tax credits and the effectiveness of Intevac s tax planning strategies. Management carefully monitors these factors and timely adjusts the effective income tax rate.  
+ Tax Reform was enacted on December 22, 2017. Tax Reform reduces the U.S. federal corporate tax rate from 35% to 21%,
+requires companies to pay a  one-time  transition tax on earnings of certain foreign subsidiaries that were previously tax deferred and creates new taxes on certain foreign sourced earnings. At
+September 29, 2018, we have not completed our accounting for the tax effects of enactment of Tax Reform; however, in certain cases, we have made a reasonable estimate of the effects on our existing deferred tax balances and the  one-time  transition tax. In other cases, we have not been able to make a reasonable estimate and continue to account for those items based on our existing accounting under ASC 740, Income Taxes.  
+ Additionally, Tax Reform subjects a U.S. shareholder to tax on GILTI earned by certain foreign subsidiaries for tax years
+starting on or after January 1, 2018. The FASB Staff Q A, Topic 740, No. 5, Accounting for Global Intangible  Low-Taxed  Income, states that an entity can make an accounting policy election to
+either recognize deferred taxes for temporary basis differences expected to reverse as GILTI in future years or provide for the tax expense related to GILTI in the year the tax is incurred. The Company is still evaluating the effects of the GILTI
+provisions and has not yet determined its accounting policy relating to deferred taxes.    The Company historically asserted
+its intent to reinvest substantially all of its foreign earnings in foreign operations indefinitely. The Company is still in the process of analyzing the impact that Tax Reform has on its indefinite reinvestment assertion. Accordingly, no additional
+income taxes or withholding taxes have been provided for any remaining undistributed foreign earnings not subject to the transition tax, or any outside basis difference inherent in these entities.  
+      26  
+
+Table of Contents  
+
+INTEVAC, INC.   
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued)   
+  (Unaudited)       
+  The Inland Revenue Authority of Singapore ( IRAS ) is currently
+conducting a review of the fiscal 2009 through 2012 tax returns of the Company s wholly-owned subsidiary, Intevac Asia Pte. Ltd. IRAS has challenged the Company s tax position with respect to certain aspects of the Company s transfer
+pricing. Under Singapore tax law, the Company must pay all contested taxes and the related interest to have the right to defend its position. The contested tax deposits of $723,000 at September 29, 2018 and $743,000 at December 30, 2017
+are included in other long-term assets on the condensed consolidated balance sheets. The Company s management and its advisors continue to believe that the Company is  more likely than not  to successfully defend that the tax
+treatment was proper and in accordance with Singapore tax regulations. Presently, there are no other active income tax examinations in the jurisdictions where Intevac operates.  
+  16.    Contingencies   
+ From time to time, Intevac may have certain contingent liabilities that arise in the ordinary course of its business
+activities. Intevac accounts for contingent liabilities when it is probable that future expenditures will be made and such expenditures can be reasonably estimated.  
+  17.    Restructuring Charges   
+ During the first quarter of fiscal 2018, Intevac substantially completed implementation of the 2018 cost reduction plan
+(the  Plan ), which was intended to reduce expenses and reduce its workforce by 6 percent. The cost of implementing the Plan was reported under cost of net revenues and operating expenses in the condensed consolidated statements of
+operations. Substantially all cash outlays in connection with the Plan occurred in the first quarter of fiscal 2018. Implementation of the Plan is expected to reduce salary, wages and other employee-related expenses by approximately
+$1.8 million on an annual basis.    The changes in restructuring reserves associated with the Plan for the nine months
+ended September 29, 2018 are as follows.      
+
+Nine Months  
+  Ended   
+
+September 29,  
+
+2018  
+
+Severance and other   employee-   related costs   (In thousands)  
+
+Beginning balance  
+    
+ $ 
+
+Provision for restructuring reserves  
+
+95 
+
+Cash payments made  
+
+(95 
+ )   
+
+Ending balance  
+    
+ $ 
+
+27  
+
+Table of Contents  
+
+Item 2.  
+       Management s Discussion and Analysis of Financial Condition and Results of
+Operations           This Quarterly Report on Form  10-Q 
+contains forward-looking statements, which involve risks and uncertainties. Words such as  believes,   expects,   anticipates  and the like indicate forward-looking statements. These forward-looking statements include
+comments related to Intevac s shipments, projected revenue recognition, product costs, gross margin, operating expenses, interest income, income taxes, cash balances and financial results in 2018 and beyond; projected customer requirements for
+Intevac s new and existing products, and when, and if, Intevac s customers will place orders for these products; Intevac s ability to proliferate its Photonics technology into major military programs and to develop and introduce
+commercial imaging products; the timing of delivery and/or acceptance of the systems and products that comprise Intevac s backlog for revenue; and the Company s ability to achieve cost savings. Intevac s actual results may differ
+materially from the results discussed in the forward-looking statements for a variety of reasons, including those set forth under  Risk Factors  and in other documents we file from time to time with the Securities and Exchange Commission,
+including our Annual Report on Form  10-K  filed on February 14, 2018, and our periodic reports on Form  10-Q  and current reports Form  8-K.      Overview   
+ Intevac is a provider of vacuum deposition equipment for a wide variety of thin-film applications, and a leading provider of
+digital night-vision technologies and products to the defense industry. The Company leverages its core capabilities in high-volume manufacturing of small substrates to provide process manufacturing equipment solutions to the hard disk drive
+( HDD ), display cover panel ( DCP ), and photovoltaic ( PV ) solar cell industries. Intevac also provides sensors, cameras and systems for government applications such as night vision. Intevac s customers include
+manufacturers of hard disk media, DCPs and solar cells as well as the U.S. government and its agencies, allies and contractors. Intevac reports two segments: Thin-film Equipment ( TFE ) and Photonics.  
+ Product development and manufacturing activities occur in North America and Asia. Intevac has field offices in Asia to support
+its TFE customers. Intevac s products are highly technical and are sold primarily through Intevac s direct sales force. Intevac also sells its products through distributors in Japan and China.  
+ Intevac s results are driven by a number of factors including success in its equipment growth initiatives in the DCP and
+solar markets and by worldwide demand for HDDs. Demand for HDDs depends on the growth in digital data creation and storage, the rate of areal density improvements, the  end-user  demand for PCs, enterprise data
+storage, nearline  cloud  applications, video players and video game consoles that include such drives. Intevac continues to execute its strategy of equipment diversification into new markets by introducing new products, such as for a
+thin-film physical vapor deposition ( PVD ) application for protective coating for DCP manufacturing and a thin-film PVD application for PV solar cell manufacturing. Intevac believes that expansion into these markets will result in
+incremental equipment revenues for Intevac and decrease Intevac s dependence on the HDD industry. Intevac s equipment business is subject to cyclical industry conditions, as demand for manufacturing equipment and services can change
+depending on supply and demand for HDDs, cell phones, and PV cells as well as other factors such as global economic conditions and technological advances in fabrication processes.  
+ The following table presents certain significant measurements for the three and nine months ended September 29, 2018 and
+September 30, 2017:      
+   Net revenues for the third quarter of fiscal 2018 decreased compared to the same period
+in the prior year primarily due to lower equipment sales to HDD manufacturers and lower Photonics product sales, offset in part by higher Photonics contract research and development ( R D ). TFE did not recognize revenue on any
+200 Lean        HDD systems in the third quarter of fiscal 2018. TFE recognized revenue on two 200 Lean     HDD systems in the third quarter of fiscal 2017. The Company reported a net loss for the third quarter of fiscal 2018 compared to net income for the third quarter of fiscal 2017 due to lower
+revenues and lower gross profit, offset in part by lower spending on research and development and lower selling, general and administrative expenses.  
+      28  
+
+Table of Contents  
+
+Net revenues for the first nine months of fiscal 2018 decreased
+compared to the same period in the prior year primarily due to lower equipment sales to PV and cell phone manufacturers and lower Photonics product sales, offset in part by higher equipment sales to HDD manufacturers and higher Photonics contract
+R D. TFE recognized revenue in the first nine months of fiscal 2018 on three 200 Lean     HDD systems. TFE recognized revenue in the first nine months of fiscal 2017 on four
+200 Lean     HDD systems, one pilot INTEVAC MATRIX    solar ion implant system, two ENERG i     solar ion implant systems and four INTEVAC VERTEX    coating systems for DCP. The Company reported a net loss for the first nine months of
+fiscal 2018 compared to net income for the first nine months of fiscal 2017 due to lower revenues and lower gross profit, offset in part by lower spending on research and development and lower selling, general and administrative expenses.  
+ Intevac expects that 2018 HDD equipment sales will be approximately  5-10%  above the
+2017 levels as our HDD customers take delivery of fewer systems but more upgrades. In 2018, Intevac expects sales of new TFE products will be below the levels we achieved in 2017. We do not expect additional orders for our VERTEX coating system for
+DCPs in 2018 but we do expect to recognize revenue on six of the twelve ENERGi implant systems that are currently in backlog. Photonics will continue to deliver production shipments of the night-vision camera modules for the F35 Joint Strike Fighter
+program in fiscal 2018. Deliveries under the multi-year Apache arrangement were completed in 2017. With the completion of the Apache program, our Photonics revenue profile is now moving from a product-driven one to a funded R D revenue profile.
+For fiscal 2018, Intevac expects that Photonics revenues will be about 25% lower than fiscal 2017, and that Photonics profit will decrease compared to fiscal 2017 due to lower revenues and a higher mix of lower-margin contract R D revenue.  
+ Intevac s trademarks include the following:  200 Lean ,   AccuLuber , 
+ EBAPS ,   ENERG i  ,   LIVAR ,   INTEVAC LSMA ,   INTEVAC MATRIX ,   MicroVista ,   NightVista ,   oDLC ,   INTEVAC
+VERTEX   and  VERTEX SPECTRA .      Results of Operations   
+  Net revenues       
+   TFE revenue for the three and nine months ended September 29, 2018 decreased compared to
+the same periods in the prior year as a result of lower sales of systems and spare parts, offset in part by higher sales of technology upgrades and service. TFE revenue for the three months ended September 29, 2018 did not include any
+200 Lean     HDD systems. TFE revenue for the three months ended September 30, 2017 included two 200 Lean systems. TFE recognized revenue in the first nine months of
+fiscal 2018 on three 200 Lean     HDD systems. TFE recognized revenue in the first nine months of fiscal 2017 on four 200 Lean     HDD systems, one pilot MATRIX solar ion implant system, two ENERG i  solar ion implant systems and four VERTEX coating systems for DCP.  
+ Photonics revenue for the three and nine month periods ended September 29, 2018 decreased compared to the same periods in
+the prior year as a result of lower product sales revenues, offset in part by higher contract R D work.  
+      29  
+
+Table of Contents  
+
+Backlog       
+   TFE backlog at September 29, 2018 includes three 200 Lean HDD systems and twelve
+ENERG i  solar ion implant systems. Three of the twelve ENERG i  systems have been delivered to the customer s fab but are subject to customer acceptance of certain contract terms. Installation of the three ENERG i  systems began
+in the third quarter of fiscal 2018. Delivery of the remaining nine tools is pending finalization with the customer. TFE backlog at December 30, 2017 included three 200 Lean HDD systems and twelve ENERG i  solar ion implant
+systems. TFE backlog at September 30, 2017 included five 200 Lean HDD systems and twelve ENERG i  solar ion implant systems.     Revenue by
+geographic region       
+     
+   International sales include products shipped to overseas operations of U.S. companies. The
+decrease in sales to the U.S. region in 2018 versus 2017 reflected lower HDD parts and upgrade sales, lower Photonics product sales, offset in part by higher Photonics contract R D work. Sales to the Asia region in 2018 included three 200 Lean
+HDD systems versus four VERTEX coating systems for DCP, four 200 Lean HDD systems and one pilot MATRIX solar ion implant system in 2017. Sales to the Europe region in 2018 and 2017 were not significant. Rest of World includes contract R D for
+the Australian government as part of a program under the Department of Defense s Coalition Warfare Program which is funded by the U.S. government and several foreign nation coalition partners.  
+      30  
+
+Table of Contents  
+
+Gross profit       
+   Cost of net revenues consists primarily of purchased materials and costs attributable to
+contract research and development, and also includes fabrication, assembly, test and installation labor and overhead, customer-specific engineering costs, warranty costs, royalties, provisions for inventory reserves and scrap.  
+ TFE gross margin was 40.2% in the three months ended September 29, 2018 compared to 45.5% in the three months ended
+September 30, 2017 and was 39.6% in the nine months ended September 29, 2018 compared to 42.0% in the nine months ended September 30, 2017. The decrease in gross margin for the three and nine months ended
+September 29, 2018 was due primarily to lower revenue offset in part by increased shipments of higher-margin upgrades. TFE gross margin for the nine months ended September 30, 2017 reflects the release of $2.2 million of
+previously-recognized inventory provisions upon the sale of two ENERG i  solar ion implant systems, offset in part by the lower margin on the pilot MATRIX solar ion implant system. Gross margins in the TFE business will vary depending on a
+number of factors, including product mix, product cost, system configuration and pricing, factory utilization, and provisions for excess and obsolete inventory.  
+ Photonics gross margin was 35.5% in the three months ended September 29, 2018 compared to 36.5% in the three months
+ended September 30, 2017 and was 22.5% in the nine months ended September 29, 2018 compared to 37.5% in the nine months ended September 30, 2017. The decline in gross margin for the three months ended
+September 29, 2018 was due to lower revenue levels and a slightly higher mix of lower-margin contract R D work. The lower gross margin for the nine months ended September 29, 2018 was due to lower revenue levels, a higher mix
+of lower-margin contract R D work and loss provisions taken on certain FFP contracts. Gross margins in the Photonics business will vary depending on a number of factors, including sensor yield, product mix, product cost, pricing, factory
+utilization, provisions for warranty and inventory reserves.     Research and development   
+   
+   Research and development spending in TFE decreased during the three months ended
+September 29, 2018 compared to the same period in the prior year and increased during the nine months ended September 29, 2018 compared to the same period in the prior year. TFE spending consisted primarily of semiconductor  Fan-out  packaging, DCP and PV development. TFE spending during the nine months ended September 29, 2018 included charges of $666,000 related to the fixed asset disposal of certain lab equipment. Research
+and development spending decreased in Photonics during the three and nine months ended September 29, 2018 as compared to the same periods in the prior year. Research and development expenses do not include costs of $2.2 million and
+$7.1 million for the three and nine months ended September 29, 2018 respectively, or $2.0 million and $4.8 million for the three and nine months ended September 30, 2017 respectively, which are related to
+customer-funded Photonics contract R D programs and therefore included in cost of net revenues.  
+      31  
+
+Table of Contents  
+
+Selling, general and administrative   
+   
+   Selling, general and administrative expense consists primarily of selling, marketing, customer
+support, financial and management costs. Selling, general and administrative expenses for the three and nine months ended September 29, 2018 decreased compared to the same periods in the prior year primarily due to cost control initiatives
+implemented in the first quarter of fiscal 2018, lower variable compensation costs, lower legal expenses for patent applications and lower spending for strategic consulting.  
+  Cost reduction plans   
+ During the first quarter of fiscal 2018, Intevac substantially completed implementation of the 2018 cost reduction plan
+(the  Plan ), which was intended to reduce expenses and reduce its workforce by 6 percent. The total cost of implementing the Plan was $95,000 of which $61,000 was reported under cost of net revenues and $34,000 was reported under
+operating expenses. Substantially all cash outlays in connection with the Plan were completed in the first quarter of fiscal 2018. Implementation of the Plan is expected to reduce salary, wages and other employee-related expenses by
+approximately $1.8 million on an annual basis.     Interest income and other income (expense), net   
+   
+   Interest income and other income (expense), net is comprised of interest income, foreign
+currency gains and losses, and other income and expense such as gains and losses on sales of fixed assets and earnout income from divestitures.  
+  Provision for income taxes       
+   Intevac recorded income tax provisions of $192,000 and $717,000 for the three and nine months
+ended September 29, 2018, respectively, and $66,000 and $805,000 for the three and nine months ended September 30, 2017, respectively. The income tax provisions for the three and nine months are based upon estimates of annual
+income (loss), annual permanent differences and statutory tax rates in the various jurisdictions in which Intevac operates. For the three and nine months ended September 29, 2018, Intevac utilized net operating loss carry-forwards to
+offset the impact of GILTI and recorded discrete items for withholding taxes on royalties paid to the United States from Intevac s Singapore subsidiary. The income tax provisions for the three and nine months ended September 30, 2017
+include withholding taxes on royalties payable to the United States from Intevac s Singapore subsidiary and $200,000 for audit considerations in foreign jurisdictions, both recorded as discrete items. Intevac s tax rate differs from the
+applicable statutory rates due primarily to establishment of a valuation allowance, the utilization of deferred and current credits and the effect of permanent differences and adjustments of prior permanent differences. Intevac s future
+effective income tax rate depends on various factors, including the level of Intevac s projected earnings, the geographic composition of worldwide earnings, tax regulations governing each region, net operating loss carry-forwards, availability
+of tax credits and the effectiveness of Intevac s tax planning strategies. Management carefully monitors these factors and timely adjusts the effective income tax rate.  
+      32  
+
+Table of Contents  
+
+Liquidity and Capital Resources   
+ At September 29, 2018, Intevac had $45.7 million in cash, cash equivalents, restricted cash and investments compared
+to $43.5 million at December 30, 2017. During the first nine months of 2018, cash, cash equivalents, restricted cash and investments increased by $2.2 million due primarily to cash generated by operating activities and cash
+received from the sale of Intevac common stock to Intevac s employees through Intevac s employee benefit plans, partially offset by purchases of fixed assets and tax payments related to the net share settlement of restricted stock units.
+   Cash, cash equivalents, restricted cash and investments consist of the following:  
+   
+   Operating activities generated cash of $2.1 million during the first nine months of 2018
+and used cash of $1.7 million during the first nine months of 2017. The increase in cash generated by operations during the first nine months of 2018 was primarily a result of lower investments in working capital during the first nine months of
+2018, offset in part by the recognition of a net loss.    Accounts receivable totaled $18.8 million at
+September 29, 2018 compared to $20.5 million at December 30, 2017. At September 29, 2018 customer advances for products that had not been shipped to customers and included in accounts receivable were $2.8 million.
+Net inventories totaled $34.7 million at September 29, 2018 compared to $33.8 million at December 30, 2017. Net inventories at both September 29, 2018 and December 30, 2017 include three ENERG i
+ implant systems at a customer site that were undergoing installation and acceptance testing and five ENERG i  implant systems in work in process that are virtually complete, pending customer shipment. At September 29, 2018 net
+inventories include an additional four ENERG i  implant systems in work in process that are partially built. Accounts payable totaled $6.0 million at September 29, 2018 compared to $3.9 million at
+December 30, 2017. Accrued payroll and related liabilities decreased to $4.3 million at September 29, 2018 compared to $6.8 million at December 30, 2017 due primarily to the settlement of 2017 bonuses. Other
+accrued liabilities increased to $11.0 million at September 29, 2018 compared to $7.7 million at December 30, 2017 primarily due to the recognition of the ASC 606 transition adjustment as well as incremental forward
+loss provisions recognized on certain Photonics R D contracts. Customer advances increased from $11.0 million at December 30, 2017 to $11.6 million at September 29, 2018, primarily due to the recognition of new
+orders, offset in part by the recognition of revenue.    Investing activities used cash of $1.9 million during the
+first nine months of 2018. Proceeds from sales of investments net of purchases totaled $282,000. Capital expenditures for the nine months ended September 29, 2018 were $2.2 million.  
+ Financing activities generated cash of $2.4 million in the first nine months of 2018. The sale of Intevac common stock to
+Intevac s employees through Intevac s employee benefit plans generated cash of $3.2 million. Tax payments related to the net share settlement of restricted stock units were $819,000.  
+ Intevac s investment portfolio consists principally of investment grade money market mutual funds, U.S. Treasury and
+agency securities, certificates of deposit, commercial paper, municipal bonds and corporate bonds. Intevac regularly monitors the credit risk in its investment portfolio and takes measures, which may include the sale of certain securities, to manage
+such risks in accordance with its investment policies.    As of September 29, 2018, approximately
+$15.4 million of cash and cash equivalents and $2.5 million of short-term investments were domiciled in foreign tax jurisdictions. Intevac expects a significant portion of these funds to remain off shore in the short term. If the Company
+chose to repatriate these funds to the United States, it would be required to accrue and pay additional taxes on any portion of the repatriation subject to foreign withholding taxes.  
+      33  
+
+Table of Contents  
+
+Intevac believes that its existing cash, cash equivalents and investments
+will be sufficient to meet its cash requirements for the foreseeable future. Intevac intends to undertake approximately $1.0 million to a $1.5 million in capital expenditures during the remainder of 2018.  
+   Off-Balance  Sheet Arrangements   
+  Off-balance  sheet firm commitments relating to outstanding letters of credit amounted
+to approximately $1.6 million as of September 29, 2018. These letters of credit and bank guarantees are collateralized by $1.6 million of restricted cash. We do not maintain any other
+ off-balance  sheet arrangements, transactions, obligations, or other relationships that would be expected to have a material current or future effect on the consolidated financial statements.  
+  Critical Accounting Policies and Estimates   
+ The preparation of financial statements and related disclosures in conformity with accounting principles generally accepted in
+the United States of America ( US GAAP ) requires management to make judgments, assumptions and estimates that affect the amounts reported. Intevac s significant accounting policies are described in Note 1 to the consolidated
+financial statements included in Item 8 of Intevac s Annual Report on Form  10-K  filed on February 14, 2018. Certain of these significant accounting policies are considered to be critical
+accounting policies, as defined below.    A critical accounting policy is defined as one that is both material to the
+presentation of Intevac s financial statements and requires management to make difficult, subjective or complex judgments that could have a material effect on Intevac s financial conditions and results of operations. Specifically, critical
+accounting estimates have the following attributes: 1) Intevac is required to make assumptions about matters that are highly uncertain at the time of the estimate; and 2) different estimates Intevac could reasonably have used, or changes in the
+estimate that are reasonably likely to occur, would have a material effect on Intevac s financial condition or results of operations.  
+ Estimates and assumptions about future events and their effects cannot be determined with certainty. Intevac bases its
+estimates on historical experience and on various other assumptions believed to be applicable and reasonable under the circumstances. These estimates may change as new events occur, as additional information is obtained and as Intevac s
+operating environment changes. These changes have historically been minor and have been included in the consolidated financial statements as soon as they become known. In addition, management is periodically faced with uncertainties, the outcomes of
+which are not within its control and will not be known for prolonged periods of time. Many of these uncertainties are discussed in the section below entitled  Risk Factors.  Based on a critical assessment of Intevac s accounting
+policies and the underlying judgments and uncertainties affecting the application of those policies, management believes that Intevac s consolidated financial statements are fairly stated in accordance with US GAAP, and provide a
+meaningful presentation of Intevac s financial condition and results of operation.    Beginning
+December 31, 2017, we implemented ASC 606, Revenue from Contracts with Customers. For a description of our critical accounting policies and estimates affecting revenue recognition, see Note 2.  Recent Accounting Pronouncements 
+to our condensed consolidated financial statements included in this Quarterly Report on Form  10-Q.  For a description of other critical accounting policies that affect our more significant judgments and
+estimates used in the preparation of our condensed consolidated financial statements, refer to our Annual Report on Form  10-K  for the year ended December 30, 2017 filed with the SEC on
+February 14, 2018. With the exception of the changes to our revenue recognition policies referenced above, there have been no material changes to our critical accounting policies during the during the nine months ended
+September 29, 2018.      
+
+Item 3.  
+       Quantitative and Qualitative Disclosures About Market Risk         
+ Not applicable to smaller reporting companies.      
+
+Item 4.  
+       Controls and Procedures         
+  Evaluation of disclosure controls and procedures   
+ Intevac maintains a set of disclosure controls and procedures that are designed to ensure that information relating to Intevac
+required to be disclosed in periodic filings under the Securities Exchange Act of 1934, or Exchange Act, is recorded, processed, summarized and reported in a timely manner under the Exchange Act. In connection with the filing of this Form  10-Q  for the quarter ended September 29, 2018, as required under Rule  13a-15(b)  of the Exchange Act, an evaluation was carried out under the supervision and with the
+participation of management, including the Chief Executive Officer and Chief Financial Officer (the  CEO  and  CFO , respectfully), of the effectiveness of Intevac s disclosure controls and procedures as of the end of the
+period covered by this quarterly report. Based on this evaluation, Intevac s CEO and CFO concluded that our disclosure controls and procedures were effective as of September 29, 2018.  
+      34  
+
+Table of Contents  
+
+Attached as exhibits to this Quarterly Report are certifications of the CEO
+and the CFO, which are required in accordance with Rule  13a-14  of the Exchange Act. This Controls and Procedures section includes the information concerning the controls evaluation referred to in the
+certifications, and it should be read in conjunction with the certifications for a more complete understanding of the topics presented.  
+  Definition of disclosure controls   
+ Disclosure controls are controls and procedures designed to ensure that information required to be disclosed in our reports
+filed under the Exchange Act, such as this Quarterly Report, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms. Disclosure controls are also designed to
+ensure that such information is accumulated and communicated to our management, including the CEO and CFO, as appropriate to allow timely decisions regarding required disclosure. Our disclosure controls include components of our internal control
+over financial reporting, which consists of control processes designed to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of financial statements in accordance with generally accepted accounting
+principles in the U.S. To the extent that components of our internal control over financial reporting are included within our disclosure controls, they are included in the scope of our quarterly controls evaluation.  
+  Limitations on the effectiveness of controls   
+ Intevac s management, including the CEO and CFO, does not expect that Intevac s disclosure controls or Intevac s
+internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system s objectives will be met.
+Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of
+controls can provide absolute assurance that all control issues and instances of fraud, if any, within Intevac have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns
+can occur because of simple error or mistake. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls is based in
+part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of
+changes in conditions or deterioration in the degree of compliance with policies or procedures. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.  
+  Changes in internal controls over financial reporting   
+ Beginning December 31, 2017, we implemented ASC 606, Revenue from Contracts with Customers. Although the new revenue
+standard is expected to have an immaterial impact on our ongoing net income, we did implement changes to our processes related to revenue recognition and the control activities within them. These included the development of new policies based on the
+five-step model provided in the new revenue standard, ongoing contract review requirements, and gathering of information provided for disclosures.  
+      35  
+
+Table of Contents  
+
+PART II. OTHER INFORMATION   
+
+Item 1.  
+       Legal Proceedings         
+ From time to time, Intevac is involved in claims and legal proceedings that arise in the ordinary course of business. Intevac
+expects that the number and significance of these matters will increase as Intevac s business expands. Any claims or proceedings against us, whether meritorious or not, could be time consuming, result in costly litigation, require significant
+amounts of management time, result in the diversion of significant operational resources, or require us to enter into royalty or licensing agreements which, if required, may not be available on terms favorable to us or at all. Intevac is not
+presently a party to any lawsuit or proceeding that, in Intevac s opinion, is likely to seriously harm Intevac s business.      
+
+Item 1A.  
+       Risk Factors         
+ The following factors could materially affect Intevac s business, financial condition or results of operations and should
+be carefully considered in evaluating the Company and its business, in addition to other information presented elsewhere in this report.  
+   The industries we serve are cyclical, volatile and unpredictable.    
+ A significant portion of our revenue is derived from the sale of equipment used to manufacture commodity technology products
+such as disk drives, PV solar cells and cell phones. This subjects us to business cycles, the timing, length and volatility of which can be difficult to predict. When demand for commodity technology products exceeds production capacity, then demand
+for new capital equipment such as ours tends to be amplified. Conversely, when supply of commodity technology products exceeds demand, then demand for new capital equipment such as ours tends to be depressed. For example, sales of systems for
+magnetic disk production were depressed from late 2007 through 2009. The number of new systems delivered increased in 2010 as customers increased their production capacity in response to increased demand for data storage, but decreased in 2011
+through 2015 as the hard disk drive industry did not add the same level of capacity that it did in 2010. We cannot predict with any certainty when these cycles will begin or end. Our sales of systems for magnetic disk production increased in 2016 as
+a customer began upgrading the technology level of its manufacturing capacity. Sales of systems and upgrades for magnetic disk production in 2017 and 2018 were higher than in 2016 as this customer s technology upgrade continued.  
+ Our equipment represents only a portion of the capital expenditure that our customers incur when they upgrade or add
+production capacity. Accordingly, our customers generally commit to making large capital expenditures far in excess of the cost of our systems alone when they decide to purchase our systems. The magnitude of these capital expenditures requires our
+customers to have access to large amounts of capital. Our customers generally reduce their level of capital investment during downturns in the overall economy or during a downturn in their industries.  
+ In recent years the photovoltaic (solar) market has undergone a downturn, which is likely to impact our sales of PV equipment.
+The solar industry from time to time experiences periods of structural imbalance between supply and demand, and such periods put intense pressure on our customers  pricing. The solar industry is currently in such a period. Competition in solar
+markets globally and across the solar value chain is intense, and could remain that way for an extended period of time. During any such period, solar module manufacturers may reduce their sales prices in response to competition, even below their
+manufacturing costs, in order to generate sales and may do so for a sustained period of time. As a result, our customers may be unable to sell their solar modules or systems at attractive prices or for a profit during a period of excess supply of
+solar modules, which would adversely affect their results of operations and their ability to make capital investments such as purchasing our products.  
+ We must effectively manage our resources and production capacity to meet rapidly changing demand. Our business experiences
+rapid growth and contraction, which stresses our infrastructure, internal systems and managerial resources. During periods of increasing demand for our products, we must have sufficient manufacturing capacity and inventory to meet customer demand;
+attract, retain and motivate a sufficient number of qualified individuals; and effectively manage our supply chain. During periods of decreasing demand for our products, we must be able to align our cost structure with prevailing market conditions;
+motivate and retain key employees and effectively manage our supply chain.  
+      36  
+
+Table of Contents  
+
+Sales of our equipment are primarily dependent on our customers  upgrade and
+capacity expansion plans and whether our customers select our equipment.      We have no control over our
+customers  upgrade and capacity expansion plans, and we cannot be sure they will select, or continue to select, our equipment when they upgrade or expand their capacity. The sales cycle for our equipment systems can be a year or longer,
+involving individuals from many different areas of Intevac and numerous product presentations and demonstrations for our prospective customers. Our sales process also commonly includes production of samples and customization of our products. We do
+not typically enter into long-term contracts with our customers, and until an order is actually submitted by a customer there is no binding commitment to purchase our systems. In some cases orders are also subject to customer acceptance or other
+criteria even in the case of a binding agreement.    Sales of new manufacturing systems are also dependent on obsolescence
+and replacement of the installed base of our customers  existing equipment with newer, more capable equipment. If upgrades are developed that extend the useful life of the installed base of systems, then we tend to sell more upgrade products
+and fewer new systems, which can significantly reduce total revenue.    Our 200 Lean customers also experience competition
+from companies that produce alternative storage technologies like flash memory, which offer smaller size, lower power consumption and more rugged designs. These storage technologies are being used increasingly in enterprise applications and smaller
+form factors such as tablets, smart-phones, ultra-books, and notebook PCs instead of hard disk drives. Tablet computing devices and smart-phones have never contained, nor are they likely in the future to contain, a disk drive. Products using
+alternative technologies, such as flash memory, optical storage and other storage technologies are becoming increasingly common and could become a significant source of competition to particular applications of the products of our 200 Lean
+customers, which could adversely affect our results of operations. If alternative technologies, such as flash memory, replace hard disk drives as a significant method of digital storage, then demand for our hard disk manufacturing products would
+decrease.    The Photonics business is also subject to long sales cycles because many of its products, such as our military
+imaging products, often must be designed into the customers  end products, which are often complex    state-of-the-art   
+products. These development cycles are typically multi-year, and our sales are contingent on our customers successfully integrating our product into their product, completing development of their product and then obtaining production orders for
+their product from the U.S. government or its allies.      We operate in an intensely competitive marketplace, and our competitors have
+greater resources than we do.      In the market for our disk sputtering systems, we experience competition primarily
+from Canon Anelva, which has sold a substantial number of systems worldwide. In the PV equipment market, Intevac faces competition from large established competitors including Applied Materials, Centrotherm Photovoltaics, Amtech, Jusung and Von
+Ardenne. In the market for our military imaging products we experience competition from companies such as Harris Corporation and  L-3  Communications. Some of our competitors have substantially greater
+financial, technical, marketing, manufacturing and other resources than we do, especially in the DCP and PV equipment markets. Our competitors may develop enhancements to, or future generations of, competitive products that offer superior price or
+performance features, and new competitors may enter our markets and develop such enhanced products. Moreover, competition for our customers is intense, and our competitors have historically offered substantial pricing concessions and incentives to
+attract our customers or retain their existing customers.      Our growth depends on development of technically advanced new products
+and processes.      We have invested heavily, and continue to invest, in the development of new products, such as our
+200 Lean and other PVD systems, our coating systems for DCP, our solar systems for PV applications, our digital night-vision products and our  near-eye  display products. Our success in developing and selling
+new products depends upon a variety of factors, including our ability to: predict future customer requirements; make technological advances; achieve a low total cost of ownership for our products; introduce new products on schedule; manufacture
+products cost-effectively including transitioning production to volume manufacturing; commercialize and attain customer acceptance of our products; and achieve acceptable and reliable performance of our new products in the field. Our new product
+decisions and development commitments must anticipate continuously evolving industry requirements significantly in advance of sales. In addition, we are attempting to expand into new or related markets, including the PV and display cover glass
+markets. Our expansion into the PV and cover glass markets is dependent upon the success of our customers  development plans. To date we have not recognized material revenue from such products. Failure to correctly assess the size of the
+markets, to successfully develop cost effective products to address the markets or to establish effective sales and support of the new products would have a material adverse effect on future revenues and profits. In addition, if we invest in
+products for which the market does not develop as anticipated, we may incur significant charges related to such investments.  
+      37  
+
+Table of Contents  
+
+Rapid technological change in our served markets requires us to rapidly
+develop new technically advanced products. Our future success depends in part on our ability to develop and offer new products with improved capabilities and to continue to enhance our existing products. If new products have reliability or quality
+problems, our performance may be impacted by reduced orders, higher manufacturing costs, delays in acceptance and payment for new products and additional service and warranty expenses.  
+   We are exposed to risks associated with a highly concentrated customer base.    
+ Historically, a significant portion of our revenue in any particular period has been attributable to sales of our disk
+sputtering systems to a limited number of customers. This concentration of customers, when combined with changes in the customers  specific capacity plans and market share shifts can lead to extreme variability in our revenue and financial
+results from period to period.    The concentration of our customer base may enable our customers to demand pricing and
+other terms unfavorable to Intevac, and makes us more vulnerable to changes in demand by or issues with a given customer. Orders from a relatively limited number of manufacturers have accounted for, and will likely continue to account for, a
+substantial portion of our revenues. The loss of one of these large customers, or delays in purchasing by them, could have a material and adverse effect on our revenues.  
+   Our operating results fluctuate significantly from quarter to quarter, which can lead to volatility in the price of our common stock.
+     Our quarterly revenues and common stock price have fluctuated significantly. We anticipate that our revenues,
+operating margins and common stock price will continue to fluctuate for a variety of reasons, including: (1) changes in the demand, due to seasonality, cyclicality and other factors in the markets for computer systems, storage subsystems and
+consumer electronics containing disks as well as cell phones and PV solar cells our customers produce with our systems; (2) delays or problems in the introduction and acceptance of our new products, or delivery of existing products;
+(3) timing of orders, acceptance of new systems by our customers or cancellation or delay of those orders; (4) new products, services or technological innovations by our competitors or us; (5) changes in our manufacturing costs and
+operating expense; (6) changes in general economic, political, stock market and industry conditions; and (7) any failure of our operating results to meet the expectations of investment research analysts or investors.  
+ Any of these, or other factors, could lead to volatility and/or a rapid change in the trading price of our common shares. In
+the past, securities class action litigation has been instituted against companies following periods of volatility in the market price of their securities. Any such litigation, if instituted against Intevac, could result in substantial costs and
+diversion of management time and attention.      We may not be able to obtain export licenses from the U.S. government permitting
+delivery of our products to international customers.      Many of our products, especially Photonics products, require
+export licenses from U.S. government agencies under the Export Administration Act, the Trading with the Enemy Act of 1917, the Arms Export Act of 1976 or the International Traffic in Arms Regulations. These regulations limit the potential market for
+some of our products. We can give no assurance that we will be successful in obtaining all the licenses necessary to export our products. Heightened government scrutiny of export licenses for defense related products has resulted in lengthened
+review periods for our license applications. Exports to countries that are not considered by the U.S. government to be allies are likely to be prohibited, and even sales to U.S. allies may be limited. Failure to comply with export control laws,
+including identification and reporting of all exports and  re-exports  of controlled technology or exports made without correct license approval or improper license use could result in severe penalties and
+revocation of licenses. Failure to obtain export licenses, delays in obtaining licenses, or revocation of previously issued licenses would prevent us from selling the affected products outside the United States and could negatively impact our
+results of operations.      The Photonics business is dependent on U.S. government contracts, which are subject to fixed pricing,
+immediate termination and a number of procurement rules and regulations.      We sell our Photonics products and
+services directly to the U.S. government, as well as to prime contractors for various U.S. government programs. The U.S government is considering significant changes in the level of existing,  follow-on  or
+replacement programs. We cannot predict the impact of potential changes in priorities due to military transformations and/or the nature of future  war-related  activities. A shift of government priorities to
+programs in which we do not participate and/or reductions in funding for or the termination of programs in which we do participate, unless offset by other programs and opportunities, could have a material adverse effect on our financial position,
+results of operations, or cash flows.  
+      38  
+
+Table of Contents  
+
+Funding of multi-year government programs is subject to congressional
+appropriations, and there is no guarantee that the U.S. government will make further appropriations. Sales to the U.S. government and its prime contractors may also be affected by changes in procurement policies, budget considerations and political
+developments in the United States or abroad. For example, if the U.S. government is less focused on defense spending or there is a decrease in hostilities, demand for our products could decrease. The loss of funding for a government program would
+result in a loss of future revenues attributable to that program. The influence of any of these factors, which are beyond our control, could negatively impact our results of operations.  
+ A significant portion of our U.S. government revenue is derived from fixed-price development and production contracts. Under
+fixed-price contracts, unexpected increases in the cost to develop or manufacture a product, whether due to inaccurate estimates in the bidding process, unanticipated increases in material costs, reduced production volumes, inefficiencies or other
+factors, are borne by us. We have experienced cost overruns in the past that have resulted in losses on certain contracts, and may experience additional cost overruns in the future. We are required to recognize the total estimated impact of cost
+overruns in the period in which they are first identified. Such cost overruns could have a material adverse effect on our results of operations.  
+ Generally, government contracts contain provisions permitting termination, in whole or in part, without prior notice at the
+government s convenience upon the payment of compensation only for work done and commitments made at the time of termination. We cannot ensure that one or more of the government contracts under which we, or our customers, operate will not be
+terminated under these circumstances. Also, we cannot ensure that we, or our customers, would be able to procure new government contracts to offset the revenues lost as a result of any termination of existing contracts, nor can we ensure that we, or
+our customers, will continue to remain in good standing as federal contractors.    As a U.S. government contractor we must
+comply with specific government rules and regulations and are subject to routine audits and investigations by U.S. government agencies. If we fail to comply with these rules and regulations, the results could include: (1) reductions in the
+value of our contracts; (2) reductions in amounts previously billed and recognized as revenue; (3) contract modifications or termination; (4) the assessment of penalties and fines; and (5) suspension or debarment from government
+contracting or subcontracting for a period of time or permanently.      Changes to our effective tax rate affect our results of
+operations.      As a global company, we are subject to taxation in the United States, Singapore and various other
+countries. Significant judgment is required to determine and estimate worldwide tax liabilities. Our future effective tax rate could be affected by: (1) changes in tax laws; (2) the allocation of earnings to countries with differing tax
+rates; (3) changes in worldwide projected annual earnings in current and future years: (4) accounting pronouncements; or (5) changes in the valuation of our deferred tax assets and liabilities. Although we believe our tax estimates
+are reasonable, there can be no assurance that any final determination will not be different from the treatment reflected in our historical income tax provisions and accruals, which could result in additional payments by Intevac.  
+   Comprehensive tax reform could adversely affect the company s business and financial condition.    
+ Tax Reform was enacted on December 22, 2017 and significantly reforms the Internal Revenue Code of 1986, as amended.
+Tax Reform contains significant changes to corporate taxation, including reduction of the corporate tax rate from 35% to 21%, limitation of the tax deduction for interest expense to 30% of earnings, limitation of the deduction for net operating
+losses to 80% of current year taxable income and elimination of net operating loss carrybacks, one time taxation of offshore earnings at reduced rates regardless of whether they are repatriated, elimination of U.S. tax on foreign earnings (subject
+to certain important exceptions), immediate deductions for certain new investments instead of deductions for depreciation expense over time, and modifying or repealing many business deductions and credits. Notwithstanding the reduction in the
+corporate income tax rate, the overall impact of Tax Reform is uncertain, and the combined Company s business and financial condition could be adversely affected.  
+   Our success depends on international sales and the management of global operations.    
+ In previous years, the majority of our revenues have come from regions outside the United States. Most of our international
+sales are to customers in Asia, which includes products shipped to overseas operations of U.S. companies. We currently have manufacturing facilities in California and Singapore and international customer support offices in Singapore, China, and
+Malaysia. We expect that international sales will continue to account for a significant portion of our total revenue in future years. Certain of our suppliers are also located outside the United States.  
+      39  
+
+Table of Contents  
+
+Managing our global operations presents challenges including, but not
+limited to, those arising from: (1) global trade issues; (2) variations in protection of intellectual property and other legal rights in different countries; (3) concerns of U.S. governmental agencies regarding possible national
+commercial and/or security issues posed by growing manufacturing business in Asia; (4) fluctuation of interest rates, raw material costs, labor and operating costs, and exchange rates; (5) variations in the ability to develop relationships
+with suppliers and other local businesses; (6) changes in the laws and regulations of the United States, including export restrictions, and other countries, as well as their interpretation and application; (7) the need to provide technical
+and spares support in different locations; (8) political and economic instability; (9) cultural differences; (10) varying government incentives to promote development; (11) shipping costs and delays; (12) adverse conditions
+in credit markets; (13) variations in tariffs, quotas, tax codes and other market barriers; and (14) barriers to movement of cash.  
+ We must regularly assess the size, capability and location of our global infrastructure and make appropriate changes to
+address these issues.      Difficulties in integrating past or future acquisitions could adversely affect our business.    
+ We have completed a number of acquisitions and dispositions during our operating history. Most recently, we completed the sale
+of certain semiconductor mainframe technology assets in 2012 and the sale of the assets of DeltaNu, LLC in 2013. We have spent and may continue to spend significant resources identifying and pursuing future acquisition opportunities. Acquisitions
+involve numerous risks including: (1) difficulties in integrating the operations, technologies and products of the acquired companies; (2) the diversion of our management s attention from other business concerns; and (3) the
+potential loss of key employees of the acquired companies. Failure to achieve the anticipated benefits of the prior and any future acquisitions or to successfully integrate the operations of the companies we acquire could have a material and adverse
+effect on our business, financial condition and results of operations. Any future acquisitions could also result in potentially dilutive issuance of equity securities, acquisition or divestiture-related write-offs or the assumption of debt and
+contingent liabilities. In addition, we have made and will continue to consider making strategic divestitures. With any divestiture, there are risks that future operating results could be unfavorably impacted if targeted objectives, such as cost
+savings, are not achieved or if other business disruptions occur as a result of the divestiture or activities related to the divestiture.  
+   We may be subject to additional impairment charges due to potential declines in the fair value of our assets.    
+ As a result of our acquisitions, we have significant intangible assets and had significant goodwill on our balance sheet. We
+test these assets for impairment on a periodic basis as required, and whenever events or changes in circumstances indicate that the carrying value may not be recoverable. The events or changes that could require us to test our intangible assets for
+impairment include: a significant reduction in our stock price, and as a result market capitalization, changes in our estimated future cash flows, as well as changes in rates of growth in our industry or in any of our reporting units. In the fourth
+quarter of 2012, as a result of a decline in our market capitalization and a reduction in our revenue expectations, we recorded a goodwill impairment charge in the amount of $18.4 million. We will continue to evaluate the carrying value of our
+intangible assets and if we determine in the future that there is a potential further impairment, we may be required to record additional charges to earnings which could materially adversely affect our financial results and could also materially
+adversely affect our business.      Our success is dependent on recruiting and retaining a highly talented work force.    
+ Our employees are vital to our success, and our key management, engineering and other employees are difficult to replace. We
+do not maintain key person life insurance on any of our employees. The expansion of high technology companies worldwide has increased demand and competition for qualified personnel, and has made companies increasingly protective of prior employees.
+It may be difficult for us to locate employees who are not subject to  non-competition  agreements and other restrictions.  
+ The majority of our U.S. operations are located in California where the cost of living and of recruiting employees is high.
+Our operating results depend, in large part, upon our ability to retain and attract qualified management, engineering, marketing, manufacturing, customer support, sales and administrative personnel. Furthermore, we compete with industries such as
+the hard disk drive, semiconductor, and solar industries for skilled employees. Failure to retain existing key personnel, or to attract, assimilate or retain additional highly qualified employees to meet our needs in the future, could have a
+material and adverse effect on our business, financial condition and results of operations.  
+      40  
+
+Table of Contents  
+
+We are dependent on certain suppliers for parts used in our products.    
+ We are a manufacturing business. Purchased parts constitute the largest component of our product cost. Our ability to
+manufacture depends on the timely delivery of parts, components and subassemblies from suppliers. We obtain some of the key components and subassemblies used in our products from a single supplier or a limited group of suppliers. If any of our
+suppliers fail to deliver quality parts on a timely basis, we may experience delays in manufacturing, which could result in delayed product deliveries, increased costs to expedite deliveries or develop alternative suppliers, or require redesign of
+our products to accommodate alternative suppliers. Some of our suppliers are thinly capitalized and may be vulnerable to failure.  
+   Our business depends on the integrity of our intellectual property rights.    
+ The success of our business depends upon the integrity of our intellectual property rights, and we cannot ensure that:
+(1) any of our pending or future patent applications will be allowed or that any of the allowed applications will be issued as patents or will issue with claims of the scope we sought; (2) any of our patents will not be invalidated, deemed
+unenforceable, circumvented or challenged; (3) the rights granted under our patents will provide competitive advantages to us; (4) other parties will not develop similar products, duplicate our products or design around our patents; or
+(5) our patent rights, intellectual property laws or our agreements will adequately protect our intellectual property or competitive position.  
+ From time to time, we have received claims that we are infringing third parties  intellectual property rights or seeking
+to invalidate our rights. We cannot ensure that third parties will not in the future claim that we have infringed current or future patents, trademarks or other proprietary rights relating to our products. Any claims, with or without merit, could be
+time-consuming, result in costly litigation, cause product shipment delays or require us to enter into royalty or licensing agreements. Such royalty or licensing agreements, if required, may not be available on terms acceptable to us.  
+   We could be involved in litigation.    
+ From time to time we may be involved in litigation of various types, including litigation alleging infringement of
+intellectual property rights and other claims and customer disputes. Litigation is expensive, subjects us to the risk of significant damages and requires significant management time and attention and could have a material and adverse effect on our
+business, financial condition and results of operations.      We are subject to risks of
+ non-compliance  with environmental and other governmental regulations.      We
+are subject to a variety of governmental regulations relating to the use, storage, discharge, handling, emission, generation, manufacture, treatment and disposal of toxic or otherwise hazardous substances, chemicals, materials or waste. If we fail
+to comply with current or future regulations, such failure could result in suspension of our operations, alteration of our manufacturing process, remediation costs or substantial civil penalties or criminal fines against us or our officers,
+directors or employees. Additionally, these regulations could require us to acquire expensive remediation or abatement equipment and incur substantial expenses to comply with them.  
+   Business interruptions could adversely affect our operations.    
+ Our operations are vulnerable to interruption by fire, earthquake, floods or other natural disaster, quarantines or other
+disruptions associated with infectious diseases, national catastrophe, terrorist activities, war, disruptions in our computing and communications infrastructure due to power loss, telecommunications failure, human error, physical or electronic
+security breaches and computer viruses, and other events beyond our control. We do not have a detailed disaster recovery plan. Despite our implementation of network security measures, our tools and servers may be vulnerable to computer viruses,  break-ins  and similar disruptions from unauthorized tampering with our computer systems and tools located at customer sites. Political instability could cause us to incur increased costs in transportation, make such
+transportation unreliable, increase our insurance costs or cause international currency markets to fluctuate. All these unforeseen disruptions and instabilities could have the same effects on our suppliers and their ability to timely deliver their
+products. In addition, we do not carry sufficient business interruption insurance to compensate us for all losses that may occur, and any losses or damages incurred by us could have a material adverse effect on our business and results of
+operations. For example, we self-insure earthquake risks because we believe this is the prudent financial decision based on the high cost of the limited coverage available in the earthquake insurance market. An earthquake could significantly disrupt
+our operations, most of which are conducted in California. It could also significantly delay our research and engineering effort on new products, most of which is also conducted in California. We take steps to minimize the damage that would be
+caused by business interruptions, but there is no certainty that our efforts will prove successful.  
+      41  
+
+Table of Contents  
+
+We could be negatively affected as a result of a proxy contest and the actions of
+activist stockholders.      A proxy contest with respect to election of our directors, or other activist stockholder
+activities, could adversely affect our business because: (1) responding to a proxy contest and other actions by activist stockholders can be costly and time-consuming, disruptive to our operations and divert the attention of management and our
+employees; (2) perceived uncertainties as to our future direction caused by activist activities may result in the loss of potential business opportunities, and may make it more difficult to attract and retain qualified personnel and business
+partners; and (3) if individuals are elected to our Board of Directors with a specific agenda, it may adversely affect our ability to effectively and timely implement our strategic plans.  
+   We are required to evaluate our internal control over financial reporting under Section 404 of the Sarbanes-Oxley Act of 2002, and
+any adverse results from such evaluation could result in a loss of investor confidence in our financial reports and have an adverse effect on our stock price.    
+ Pursuant to Section 404 of the Sarbanes-Oxley Act of 2002, our management must perform evaluations of our internal
+control over financial reporting. Beginning in 2004, our Form  10-K  has included a report by management of their assessment of the adequacy of such internal control. Additionally, our independent registered
+public accounting firm must publicly attest to the effectiveness of our internal control over financial reporting. We have completed the evaluation of our internal controls over financial reporting as required by Section 404 of the
+Sarbanes-Oxley Act. Although our assessment, testing, and evaluation resulted in our conclusion that as of December 30, 2017, our internal controls over financial reporting were effective, we cannot predict the outcome of our testing in
+future periods. Ongoing compliance with this requirement is complex, costly and time-consuming. If Intevac fails to maintain effective internal control over financial reporting; our management does not timely assess the adequacy of such internal
+control; or our independent registered public accounting firm does not deliver an unqualified opinion as to the effectiveness of our internal control over financial reporting, then we could be subject to restatement of previously reported financial
+results, regulatory sanctions and a decline in the public s perception of Intevac, which could have a material and adverse effect on our business, financial condition and results of operations.  
+
+Item 2.  
+       Unregistered Sales of Equity Securities and Use of Proceeds         
+ On November 21, 2013, Intevac s Board of Directors approved a stock repurchase program authorizing up to
+$30.0 million in repurchases. On August 15, 2018, Intevac s Board of Directors approved a $10.0 million increase to the original stock repurchase program for an aggregate authorized amount of $40.0 million. At
+September 29, 2018, $11.5 million remains available for future stock repurchases under the repurchase program. Intevac did not make any common stock repurchases during the three months ended September 29, 2018.  
+
+Item 3.  
+       Defaults upon Senior Securities         
+ None.      
+
+Item 4.  
+       Mine Safety Disclosures         
+ Not applicable.      
+
+Item 5.  
+       Other Information         
+ None.  
+      42  
+
+Table of Contents  
+
+Item 6.  
+       Exhibits          
+ The following exhibits are filed herewith:      
+
+Exhibit 
+ Number  
+    
+   Description   
+
+31.1 
+    
+  Certification of President and Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.    
+
+31.2 
+    
+  Certification of Executive Vice President, Finance and Administration, Chief Financial Officer and Treasurer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.    
+
+32.1 
+    
+  Certifications Pursuant to U.S.C. 1350 Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.    
+
+101.INS 
+    
+ XBRL Instance Document  
+
+101.SCH 
+    
+ XBRL Taxonomy Extension Schema  
+
+101.CAL 
+    
+ XBRL Taxonomy Extension Calculation Linkbase Document  
+
+101.DEF 
+    
+ XBRL Taxonomy Extension Definition Linkbase Document  
+
+101.LAB 
+    
+ XBRL Taxonomy Extension Label Linkbase Document  
+
+101.PRE 
+    
+ XBRL Taxonomy Extension Presentation Linkbase Document  
+ 
+      43  
+
+Table of Contents  
+
+SIGNATURES  
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned thereunto duly authorized.      
+
+INTEVAC, INC.   
+
+Date: October 30, 2018  
+
+By:  
+   
+   /s/ WENDELL BLONIGAN   
+
+Wendell Blonigan   
+
+President, Chief Executive Officer and Director   
+
+(Principal Executive Officer)   
+
+Date: October 30, 2018  
+
+By:  
+   
+   /s/ JAMES MONIZ   
+
+James Moniz   
+
+Executive Vice President, Finance and Administration,   
+
+Chief Financial Officer and Treasurer   
+
+(Principal Financial and Accounting Officer)   
+ 
+      44  
+
+<EX-31.1>
+ 2
+ d592858dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1   
+ I, Wendell Blonigan certify that:      
+
+1. 
+   I have reviewed this Quarterly Report on Form  10-Q  of Intevac, Inc.;
+
+2. 
+   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state
+a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3. 
+   Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+   The registrant s other certifying officer(s) and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules  13a-15(e)  and  15d-15(e))  and internal control over financial reporting (as defined in Exchange Act
+Rules  13a-15(f)  and  15d-15(f))  for the registrant and have:     
+ (a)    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures
+to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report
+is being prepared;    (b)    Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles;    (c)    Evaluated the effectiveness of the registrant s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+ (d)    Disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and      
+
+5. 
+   The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+ (a)    All significant deficiencies and material weaknesses in the design or operation of internal control
+over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+ (b)    Any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.    Date: October 30, 2018  
+
+/s/ WENDELL BLONIGAN   
+ 
+ Wendell Blonigan  
+ 
+ President, Chief Executive Officer and Director  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ d592858dex312.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2   
+ I, James Moniz certify that:      
+
+1. 
+   I have reviewed this Quarterly Report on Form  10-Q  of Intevac, Inc.;
+
+2. 
+   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state
+a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3. 
+   Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+   The registrant s other certifying officer(s) and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules  13a-15(e)  and  15d-15(e))  and internal control over financial reporting (as defined in Exchange Act
+Rules  13a-15(f)  and  15d-15(f))  for the registrant and have:     
+ (a)    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures
+to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report
+is being prepared;    (b)    Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles;    (c)    Evaluated the effectiveness of the registrant s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+ (d)    Disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and      
+
+5. 
+   The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation
+of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+ (a)    All significant deficiencies and material weaknesses in the design or operation of internal control
+over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+ (b)    Any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.    Date: October 30, 2018  
+
+/s/ JAMES MONIZ   
+ 
+ James Moniz  
+ 
+ Executive Vice President, Finance and Administration,  
+ 
+ Chief Financial Officer and Treasurer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ d592858dex321.htm
+ EX-32.1
+
+EX-32.1 
+
+Exhibit 32.1   
+  CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER   
+  PURSUANT TO      18 U.S.C.
+SECTION 1350,      AS ADOPTED PURSUANT TO   
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+ I, Wendell Blonigan, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that the Quarterly Report of Intevac, Inc. on Form  10-Q  for the quarterly period ended September 29, 2018 fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934 and that information contained in such Form  10-Q  fairly presents in all material respects the financial condition and results of operations of Intevac, Inc.  
+ Date: October 30, 2018       
+
+/s/ WENDELL BLONIGAN   
+ 
+ Wendell Blonigan  
+ 
+ President, Chief Executive Officer and Director  
+ 
+  I, James Moniz, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of Intevac, Inc. on Form  10-Q  for the quarterly period ended September 29, 2018 fully complies with the requirements of
+Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form  10-Q  fairly presents in all material respects the financial condition and results of operations of
+Intevac, Inc.    Date: October 30, 2018       
+
+/s/ JAMES MONIZ   
+ 
+ James Moniz  
+ 
+ Executive Vice President, Finance and Administration,  
+ 
+ Chief Financial Officer and Treasurer  
+ 
+  A signed original of this written statement required by Section 906 has been
+provided to Intevac, Inc. and will be retained by Intevac, Inc. and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ ivac-20180929.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ ivac-20180929.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ ivac-20180929_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ ivac-20180929_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ ivac-20180929_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ ivac-20180929_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

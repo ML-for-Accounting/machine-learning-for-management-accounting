@@ -1,0 +1,889 @@
+ 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION  
+
+  Washington, D.C. 20549  
+
+________________  
+
+Form 10-Q  
+
+Commission file number: 1-16525  
+
+CVD EQUIPMENT CORPORATION  
+
+(Name of Registrant in Its Charter)   
+
+New York  
+
+11-2621692  
+
+(State or Other Jurisdiction of 
+			Incorporation or Organization)   
+
+(I.R.S. Employer Identification No.)   
+
+355 South Technology Drive   
+
+			  Central Islip, New York   11722  
+
+(Address of principal executive offices)   
+
+(631) 981-7081  
+ (Registrant s Telephone Number, Including Area Code)  
+
+Indicate by check whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes   No  
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes   No        
+
+Indicate by check mark whether registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer   smaller reporting company , and  emerging growth company  in Rule 12b-2 of the Exchange Act). 
+
+Large accelerated filer      
+			 Accelerated filer       
+
+Non-accelerated filer    
+			 Smaller reporting company     
+			 Emerging growth company     
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.                               
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+ Yes   No   
+
+Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date: 6,491,649 shares of Common Stock, $0.01 par value at August 6, 2018. 
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIARY  
+
+Index 
+
+Part I -   Financial Information 
+
+Item 1 Financial Statements (Unaudited) 
+
+Consolidated Balance Sheets at June 30, 2018 and December 31, 2017 
+
+3 
+
+Consolidated Statements of Operations for the three and six months ended June 30, 2018 and 2017  
+
+4 
+
+Consolidated Statements of Cash Flows for the six months ended June 30, 2018 and 2017 
+
+5 
+
+Notes to Unaudited Consolidated Financial Statements  
+
+6  
+
+Item 2 Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+17 
+
+Item 3 Quantitative and Qualitative Disclosures About Market Risk 
+
+22 
+
+Item 4 Controls and Procedures 
+
+23 
+
+Part II -  Other Information 
+
+24 
+
+Item 1 Legal Proceedings. 
+
+24 
+
+Item 2 Unregistered Sales of Equity Securities and Use of Proceeds.  
+
+24 
+
+Item 3 Defaults Upon Senior Securities.  
+
+24 
+
+Item 4 Mine Safety Disclosures. 
+
+24 
+
+Item 5 Other Information.  
+
+24 
+
+Item 6 Exhibits.  
+
+24 
+
+Signatures 
+
+23 
+
+Exhibit Index 
+
+27 
+
+2
+
+PART 1   FINANCIAL INFORMATION 
+
+ Item 1   Financial Statements 
+
+ CVD EQUIPMENT CORPORATION AND SUBSIDIARIES 
+
+ Consolidated Balance Sheets 
+
+ (Unaudited) 
+
+The accompanying notes are an integral part of these consolidated financial statements 
+
+3
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIARIES 
+
+ Consolidated Statements of Operations 
+
+ (Unaudited) 
+
+The accompanying notes are an integral part of these consolidated financial statements 
+
+4
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIARIES 
+
+ Consolidated Statements of Cash Flows 
+
+ (Unaudited) 
+
+The accompanying notes are an integral part of these consolidated financial statements 
+
+5
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIAR  IES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30  , 201  8  
+
+  (Unaudited)  
+
+NOTE 1:     BASIS OF PRESENTATION 
+
+The accompanying unaudited consolidated financial statements for CVD Equipment Corporation and subsidiaries (collectively,  the Company ) have been prepared in accordance with accounting principles generally accepted in the United States of America for interim financial information and with the instructions to Form 10-Q and Article 8 of Regulation S-X. They do not include all of the information and disclosures required by accounting principles generally accepted in the United States of America for complete financial statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary in order to make the interim financials not misleading have been included and all such adjustments are of a normal recurring nature. The operating results for the three and six months ended June 30, 2018 are not necessarily indicative of the results that can be expected for the year ending December 31, 2018. 
+
+The balance sheet as of December 31, 2017 has been derived from the audited consolidated financial statements at such date but does not contain all of the information and footnotes required by accounting principles generally accepted in the United States of America for complete financial statements. For further information, please refer to the consolidated financial statements and notes thereto included in the Company s Annual Report on Form 10-K for the year ended December 31, 2017, including the accounting policies followed by the Company as set forth in Note 2 to the consolidated financial statements contained therein. 
+
+All material intercompany transactions have been eliminated in consolidation. In addition, certain reclassifications have been made to prior period consolidated financial statements to conform to the current year presentation. 
+
+NOTE 2:     SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Revenue Recognition  
+
+On January 1, 2018, we adopted accounting standard ASC 606, Revenue from Contracts with Customers and all the related amendments using the modified retrospective method for all customer contracts not yet completed as of the adoption date. Results for reporting periods beginning January 1, 2018 are presented under ASC 606, while prior period amounts were not adjusted. 
+
+The adoption of ASC 606 did not have a significant impact on our Consolidated Financial Statements as of and for the three and six-month periods ended June 30, 2018 and, as a result, comparisons of revenues and operating profits performance between periods are not affected by the adoption of this ASU. 
+
+6
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIAR  IES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 2018  
+
+  (Unaudited)  
+
+NOTE 2:     SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued) 
+
+Revenue Recognition  
+
+Effective January 1, 2018, the Company adopted ASC 606. For additional information on the new standard and the impact to the Company s financial results, refer to Impacts to Previously Reported Results below. 
+
+The Company designs, manufactures and sells custom chemical vapor deposition equipment through contractual agreements. These system sales require the Company to deliver functioning equipment that is generally completed within three to eighteen months from commencement of order acceptance. The Company recognizes revenue over time by using an input method based on costs incurred as it depicts the Company s progress toward satisfaction of the performance obligation. Under this method, revenue arising from fixed price contracts is recognized as work is performed based on the ratio of costs incurred to date to the total estimated costs at completion of the performance obligations. 
+
+Incurred costs include all direct material and labor costs and those indirect costs related to contract performance, such as indirect labor, supplies, tools, repairs and depreciation costs. Contract material costs are included in incurred costs when the project materials have been purchased or moved to work in process as required by the project s engineering design. Cost based input methods of revenue recognition require the Company to make estimates of costs to complete the projects. In making such estimates, significant judgment is required to evaluate assumptions related to the costs to complete the projects, including materials, labor and other system costs. If the estimated total costs on any contract are greater than the net contract revenues, the Company recognizes the entire estimated loss in the period the loss becomes known and can be reasonably estimated. 
+
+Contract assets,  include unbilled amounts typically resulting from sales under contracts when revenue recognition is utilized and revenue recognized exceeds the amount billed to the customer. The amount may not exceed their estimated net realizable value. Contract assets are classified as current based on our contract operating cycle. 
+
+Contract liabilities,  include advance payments and billings in excess of revenue recognized. Contract liabilities are classified as current based on our contract operating cycle and reported on a contract-by-contract basis, net of revenue recognized, at the end of each reporting period. 
+
+For outright sales of products, revenue is recognized when control of the promised products or services is transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those products or services (the transaction price). A performance obligation is a promise in a contract to transfer a distinct product or service to a customer and is the unit of account under ASC 606. 
+
+7
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIAR  IES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 2018  
+
+  (Unaudited)  
+
+Impact to Previously Reported Results  
+
+Research and Development  
+
+Research and development costs are expensed as incurred. Due to the highly technical nature of our projects, we use our technical staff in a dual role, and based on their contribution to the customer or research and development projects, their costs are charged accordingly to either cost of goods sold or research and development. 
+
+Recent Accounting Pronouncements  
+
+In February 2018, the FASB issued ASU 2018-02,  Income Statement-R  eporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effe  c  ts from Accumulated Other Comprehensive Income . The ASU permits companies to elect a reclassification of disproportionate tax effects in accumulated other comprehensive income (AOCI) caused by the Tax Cuts and Jobs Act of 2017 to retained earnings. The ASU also requires additional disclosures. This update is effective for fiscal years beginning after December 15, 2018 and interim periods within those fiscal years, with early adoption permitted. We are currently evaluating the effect of this ASU on our consolidated financial statements. 
+
+In June 2016, the FASB issued ASU 2016-13,  Financial Instruments   Credit Losses (Topic 326) , which require that financial assets measured at amortized cost be presented at the net amount expected to be collected. The allowance for credit losses is a valuation account that is deducted from the amortized cost basis of the financial asset to present the net carrying value at the amount expected to be collected. The income statement reflects the measurement of credit losses for newly recognized financial assets, as well as the increase or decreases of expected credit losses that have taken place during the period. The measurement of expected credit losses is based upon historical experience, current conditions, and reasonable and supportable forecasts that affect the collectability of the reported amount. The amendments in this update are effective for fiscal years beginning after December 15, 2019 and interim periods within those annual periods. Early adoption for fiscal years beginning after December 15, 2018 is permitted. We are currently evaluating the effect of this update on our consolidated financial statements. 
+
+In February 2016, the FASB issued ASU 2016-02,  Leases (Topic 842) , which supersedes ASC 840,  Leases , and creates a new topic, ASC 842,  Leases . This update requires lessees to recognize a lease liability and a lease asset for all leases, including operating leases, with a term greater than 12 months on its balance sheet. The update also expands the required quantitative and qualitative disclosures surrounding leases. The accounting for lessors does not fundamentally change except for changes to conform and align guidance to the lessee guidance as well as to the new revenue recognition guidance in ASU 2014-09. This update is effective for fiscal years beginning after December 15, 2018 and interim periods within those fiscal years. This update will be applied using a modified retrospective transition approach for leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements. We are currently evaluating the effect of this update on our consolidated financial statements however we do not expect ASC 842 to have a material effect on either our consolidated statement of operations or consolidated statement of cash flow. 
+
+8
+
+CVD EQUIPMENT CORP  ORATION AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 2018     
+
+  (Unaudited)  
+
+Recent Accounting Pronouncements   (continued)  
+
+We believe there is no additional new accounting guidance adopted, but not yet effective that is relevant to the readers of our financial statements. However, there are numerous new proposals under development which, if and when enacted, may have a significant impact on our financial reporting. 
+
+NOTE 3:     CONCENTRATION OF CREDIT RISK 
+
+Cash and cash equivalents 
+
+Financial instruments that potentially subject the Company to concentrations of credit risk consist of cash and cash equivalents and accounts receivable. The Company places its cash equivalents with high credit-quality financial institutions and invests its excess cash primarily in savings accounts and money market instruments. Cash and cash equivalents at June 30, 2018 and December 31, 2017, exceeded the Federal Deposit Insurance Corporation ( FDIC ) limits by approximately $14,280,000 and $12,198,000, respectively. 
+
+Sales concentration 
+
+Revenue to a single customer in any one period can exceed 10% of our total sales. During the three months ended June 30, 2018 and June 30 2017, one customer represented approximately 37% and 66% respectively, of our revenues. During the six months ended June 30, 2018 and June 30, 2017 that same customer represented 43% and 68% respectively, of our revenues. 
+
+Accounts receivable 
+
+The Company sells products and services to various companies across several industries in the ordinary course of business. The Company performs ongoing credit evaluations to assess the probability of accounts receivable collection based on a number of factors, including past transaction experience, evaluation of their credit history and review of the invoicing terms of the contract to determine the financial strength of its customers. The Company also maintains allowances for anticipated losses. The accounts receivable balances as of June 30, 2018 and June 30, 2017 includes balances from three customers that each exceed 10% of the total. 
+
+9
+
+CVD EQUIPMENT CORP  ORATION AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 201  8     
+
+  (Unaudited)  
+
+NOTE 4:     REVENUE FROM CONTRACTS WITH CUSTOMERS 
+
+The following table represents a disaggregation of revenue from contracts for the three and six months ended June 30, 2018 and June 30, 2017: 
+
+Judgment is required to evaluate assumptions including the amount of net contract revenues and the total estimated costs to determine our progress towards contract completion and to calculate the corresponding amount of revenue to recognize. If estimated total costs on any contract are greater than the net contract revenues, the Company recognizes the entire estimated loss in the period the loss becomes known. 
+
+Changes in estimates for sales of systems occur for a variety of reasons, including but not limited to (i) build accelerations or delays, (ii) product cost forecast changes, (iii) cost related change orders or add-ons, or (iv) changes in other information used to estimate costs. Changes in estimates may have a material effect on the Company s consolidated statements of operations. The table below outlines the impact on revenue of net changes in estimated transaction prices and input costs for systems related sales contracts (both increases and decreases) for the three and six months ended June 30, 2018 as well as the number of projects that comprise such changes. Also included in the table is the net change in estimate as a percentage of the aggregate revenue for such projects. 
+
+For the three and six months ended June 30, 2018, revenue decrease by $445,000 and $495,000, respectively, from net changes in transaction prices and input cost estimates. The changes were primarily due to product cost overruns and product cost forecast changes related to redesign of certain systems. 
+
+10
+
+CVD EQUIPMENT CORP  ORATION AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 201  8     
+
+  (Unaudited)  
+
+Contract Assets and Liabilities 
+
+Contract assets consist of (i) retainage which represent the earned, but unbilled, portion for which payment is deferred by the customer until certain contractual milestones are met; and (ii) unbilled receivables which represent revenue that has been recognized in advance of billing the customer, which is common for long-term contracts. Contract liabilities consist of customer advances and billings in excess of revenue recognized. 
+
+During the six months ended June 30, 2018, the decrease in contract assets of approximately $3.1 million was primarily driven by additional billed receivables during the period, for those projects that certain milestones had been reached. During the six months ended June 30, 2018, the decrease in contract liabilities of $187,000 was primarily due to the attainment of milestones billings for various projects. 
+
+NOTE 5:      INVENTORIES, NET 
+
+Inventories consist of: 
+
+NOTE 6:     ACCOUNTS RECEIVABLE, NET 
+
+Accounts receivable are presented net of an allowance for doubtful accounts of approximately $4,000 as of June 30, 2018 and December 31, 2017, respectively. The allowance is based on prior experience and management s evaluation of the collectability of accounts receivable. Management believes the allowance is adequate. However, future estimates may change based on changes in future economic conditions. 
+
+11
+
+CVD EQUIPMENT CORP  ORATION AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 201  8     
+
+  (Unaudited)  
+
+NOTE 7:     LONG-TERM DEBT 
+
+The Company has a revolving credit facility with HSBC Bank, USA, N.A. ( HSBC ) providing up to $7 million, although the Company has never utilized this facility. This credit facility remains available until September 1, 2018 at which time we expect it to be renewed. The credit facility also contains certain financial covenants, all of which the Company was in compliance with at June 30, 2018 and December 31, 2017. 
+
+The Company has a loan agreement with HSBC which is secured by a mortgage against our facility at 355 South Technology Drive, Central Islip, NY. The loan is payable in 120 consecutive equal monthly installments of principal of $25,000 plus interest thereon and a final balloon payment upon maturity in March 2022. The balances on the mortgage at June 30, 2018 and December 31, 2017 were approximately $2.8 and $3.0 million, respectively. Interest accrues on the loan, at the variable rate of LIBOR plus 1.75%, which was 3.84% and 3.31% at June 30, 2018 and December 31, 2017, respectively. 
+
+The Company has an additional loan agreement with HSBC which is secured by a mortgage against our facility at 555 North Research Place, Central Islip, New York. The loan is payable in 60 consecutive monthly installments of approximately $63,000 including interest. Interest accrues on the loan at the fixed rate of 3.91%. The maturity date for the Note is December 1, 2022. The outstanding principal balances as of June 30, 2018 and December 31, 2017 were approximately $10.2 million and $10.4 million, respectively. 
+
+We are uncertain as to whether or not we will be able to maintain compliance with our Fixed Charge Coverage Ratio Covenant as of September 30, 2018. We intend to enter into discussions with our lender to either amend the covenant or if applicable, obtain a waiver of any such covenant default. However, there can be no assurance that we will be able to obtain such amendment or waiver on commercially reasonable terms, the failure of which could have a material adverse effect on our financial condition. 
+
+NOTE 8:     STOCK-BASED COMPENSATION EXPENSE 
+
+During the three and six months ended June 30, 2018 and June 30, 2017, the Company recorded compensation expense as part of selling and general administrative expense, of approximately $201,000 and $219,000 and $424,000 and $436,000 respectively, for the cost of employee and director services received in exchange for equity instruments based on the grant-date fair value of those instruments. This expense was recorded based upon the guidance of ASC 718,  Compensation-Stock Compensation.  
+
+12
+
+CVD EQUIPMENT CORP  ORATION AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 2018     
+
+  (Unaudited)  
+
+NOTE 9:     INCOME TAXES 
+
+The provision for income taxes includes the following: 
+
+Tax Rate Reconciliation  
+
+The reconciliation between the Company s effective tax rate on income from continuing operations and the statutory rate is as follows: 
+
+The Company s foreign entity, CVD Tantaline ApS, has incurred losses since its inception in December 2016, which would have provided a deferred tax asset of approximately $277,000 at June 30, 2018, based on the standard corporate tax rate of 22% in Denmark. However, sufficient uncertainty exists as to the realizability of these assets such that a full valuation allowance is necessary. 
+
+13
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 201  8     
+
+  (Unaudited)  
+
+NOTE 10:     EARNINGS PER SHARE 
+
+In accordance with ASC 260, basic earnings per share are computed by dividing net earnings available to common shareholders (the numerator) by the weighted average number of common shares (the denominator) for the period presented. The computation of diluted earnings per share is similar to basic earnings per share, except that the denominator is increased to include the number of additional common shares that would have been outstanding if the potentially dilutive common shares had been issued. 
+
+Stock options to purchase 387,930 shares of common stock were outstanding and 227,930 were exercisable during the three and six months ended June 30, 2018. Stock options to purchase 381,930 shares were outstanding and 146,930 were exercisable during the three and six months ended June 30, 2017. For the three and six months ended June 30, 2018, none of the outstanding options were included in the earnings per share calculation as their effect would have been anti-dilutive. For the three and six months ended June 30, 2017, options to purchase 34,517 and 33,205 shares were included in the diluted earnings per share calculation respectively. The balance of options outstanding at June 30, 2017 were not included as their effect would have been anti-dilutive. 
+
+The potentially dilutive common shares from options are calculated in accordance with the treasury stock method, which assumes that proceeds from the exercise of all warrants and options are used to repurchase common stock at market value. The amount of shares remaining after the proceeds are exhausted represents the potential dilutive effect of the securities. 
+
+NOTE 11:      SEGMENT REPORTING 
+
+The Company operates through three (3) segments, CVD Equipment Corporation ( CVD ), Stainless Design Concepts ( SDC ) and CVD Materials Corporation ( Materials ). The CVD segment is utilized for chemical vapor deposition equipment manufacturing. SDC is the Company s ultra-high purity manufacturing division in Saugerties, New York for gas control systems. Materials is our new segment based on recent acquisitions, for providing materials coatings for aerospace, medical, electronic and other applications. The Company evaluates performance based on several factors, of which the primary financial measure is income or (loss) before taxes. 
+
+The Company s corporate administration activities are reported in the Corporate column. These activities primarily include expenses related to certain corporate officers and support staff, expenses related to the Company s Board of Directors, stock option expenses for shares granted to corporate administration employees, certain consulting expenses, investor and shareholder relations activities, interest on mortgages and a portion of the Company s legal, auditing and professional fee expenses. 
+
+14
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 2018   
+
+  (Unaudited  )  
+
+NOTE 11:      SEGMENT REPORTING (continued) 
+
+Three Months Ended June 30, 
+
+ (In thousands) 
+
+Six Months Ended June 30, 
+
+ (In thousands) 
+
+*All elimination entries represent intersegment revenues eliminated in consolidation for external financial reporting. 
+
+15
+
+CVD EQUIPMENT CORPORATION AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 2018   
+
+  (Unaudited)  
+
+NOTE 12:      PRO FORMA FINANCIAL INFORMATION 
+
+The unaudited pro forma information for the periods set forth below gives effect to the 2017 acquisition of substantially all of the assets and business of Mesoscribe Technologies, Inc., as if it had occurred as of January 1, 2017. The pro forma information is presented for informational purposes only and is not necessarily indicative of the results of operations that actually would have been achieved had the acquisition been consummated as of that time. 
+
+16
+
+Item 2.      Management s Discussion and Analysis   of Financial Condition and Results of Operations.  
+
+Except for historical information contained herein, this  Management s Discussion and Analysis o  f     Financial Condition and Results of   Opera  tions    contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995, as amended. These statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance, or achievements of the Company to be materially different from any future results, performance, or achievements expressed or implied by such forward-looking statements. These forward-looking statements were based on various factors and were derived utilizing numerous important assumptions and other important factors that could cause actual results to differ materially from those in the forward-looking statements. Important assumptions and other factors that could cause actual results to differ materially from those in the forward-looking statements, include but are not limited to: competition in the Company s existing and potential future product lines of business; the Company s ability to obtain financing on acceptable terms if and when needed; uncertainty as to the Company s future profitability, uncertainty as to the future profitability of acquired businesses or product lines, uncertainty as to any future expansion of the Company. Other factors and assumptions not identified above were also involved in the derivation of these forward-looking statements and the failure of such assumptions to be realized as well as other factors may also cause actual results to differ materially from those projected. The Company assumes no obligation to update these forward looking statements to reflect actual results, changes in assumptions or changes in other factors   affecting such forward-looking statements.   Past   results are   no guaranty future   performance  .   You should not place undue reliance on any forward-looking statements, which speak only as of the dates they are made. When used with this Report, the words  believes,   anticipates,   expects,   estimates,   plans,   intends,   will  and similar expressions are intended to identify forward-looking statements  
+
+During the second quarter, we continued our mission to develop and enable the commercialization of next-generation technologies, by incorporating our technology into equipment built for customers  manufacturing processes. Our endeavors into electronic applications for LED materials, medical implants and coatings, carbon composites for MEMs devices and medical applications are some of the areas we have been working on. 
+
+We continued to make a significant investment in our CVD Materials business.  In the past month we filed three (3) provisional patent applications for our Tantaline  corrosion resistant coatings and treatment for specialty metals in demanding applications.  In the past, corrosion resistant coatings on Hastalloy  for example had poor adhesion and hence less than optimum corrosion resistant results.  Our new and proprietary method has shown in testing to have resolved the adhesion problem and hence has significantly improved the corrosion resistance. The improved Tantalum coating we can put on these specialty metals offers in; i) medical, biocompatibility and osteoconductivity that is better than Titanium ii) in industrial applications, Tantalum is the most corrosive resistant metal commercially available and has applications in handling of chemicals, oil and gas, and pharmaceuticals. A Tantalum coating applied on top of an existing metal that provides the structural support allows for use of a less expensive metal, adds additional corrosion resistance to the base metal or allows for the use of metals that are not compatible on their own. 
+
+We are also preparing to file a provisional patent on carbon composites that has applications in areas such as aerospace, medical, MEMs and filtration.  We anticipate going forward this will bring us additional equipment and materials product sales. 
+
+Our Mesoscribe  Direct Write Technology has continued to make progress in specialized applications for temperature sensors, conformal antennas, flexible electronics and heaters for applications in aerospace and electronics where standard solutions have been unable to meet the physical constraints that need to be addressed. 
+
+Our new CVD Materials facility is not being completed as quickly as we would like.  The permitting process for building modifications and obtaining a Certificate of Occupancy has been on-going but has not happened within the time we anticipated.  We continue to impress upon the regulatory authorities the financial and time impact the delays are causing with our business. In light of our results for this quarter, management and the Board will continue to evaluate the Company s business strategy, including cost structure, needed capital and capital  infrastructure investments. 
+
+Investments in our Application Laboratory and CVD Materials are driving us forward regardless of quarterly revenue fluctuations. We believe that expansion and innovation in key markets like aerospace, medical, MEMs, semiconductors is the key to securing our growth over the long-term. 
+
+We believe that dedicating significant portions of our technical and manufacturing resources to new materials development and opening of the new CVD Materials facility are prudent investments. They pave the way for future expansion across our portfolio and to improve and streamline revenue growth and profitability over the longer term. 
+
+Constant investment in expansion and innovation is necessary, even during temporary pauses in larger orders, to strengthen and secure our competitive position and open up new opportunities in the markets we serve. We believe we are well capitalized and will continue to drive towards increased yet stable revenue, productivity and profitability over the long-term. 
+
+Please review a new presentation that is posted on our website to gain further insight into the new applications and products starting to be offered. 
+
+Hastalloy is a registered trademark of Haynes, International 
+
+17
+
+Results of Operations  
+
+Three Months Ended June 30, 2018 vs. Three Months Ended June 30, 2017   
+
+Revenue    
+
+Our revenue for the three months ended June 30, 2018 was $6.4 million compared to $10.8 million for the three months ended June 30, 2017. This decrease of $4.4 million or 40.6% was a result of the completion of the large aviation component supplier production contracts. This customer in the aerospace industry represented approximately 36.5% and 66.0% of our revenue for the three months ended June 30, 2018 and June 30, 2017, respectively. We are continuing to receive additional follow-on business from that customer as well as undertaking opportunities with new and other current customers. The mix and type of customers, and sales to any single customer, may vary significantly from quarter to quarter and from year to year. If any of our significant customers do not place orders, or they substantially reduce, delay or cancel orders, we may not be able to replace the business in a timely manner or at all, which could have a material adverse effect on our results of operations and financial condition. Third-party revenue from the SDC division for the three months ended June 30, 2018 decreased by 70.6% to $442,000 compared to $1,501,000 as a result of the completion of a significant order from one customer. CVD Materials earned $358,000 in revenue for the three months ended June 30, 2018. 
+
+18
+
+Gross Profit    
+
+We generated a gross profit of $1.1 million for the three months ended June 30, 2018 compared to a gross profit of $4.4 million for the three months ended June 30, 2017. The gross margin for the three months ended June 30, 2018 was 17.3% compared to 40.7% for the three months ended June 30, 2017. The decreased gross profit and gross margin was the result of the lower overall revenue for the period while labor costs remained the same as in higher revenue periods. Additionally, the Company recognized estimated losses on certain contracts where the actual costs incurred were greater than estimated in prior periods. Reductions in personnel began towards the end of the three month period ended June 30, 2018.  
+
+Research and Development,       Selling, General and Administrative Expenses    
+
+Internal research and development expenses for the three months ended June 30, 2018 were $128,000 compared to $111,000 for the three months ended June 30, 2017 as we continue to ramp our efforts of independently conducted research and development activities. 
+
+Selling and shipping expenses for the three months ended June 30, 2018 totaled $399,000 inclusive of costs in personnel and trade shows related to CVD Materials of $65,000. Selling and shipping expenses for the three months ended June 30, 2017 totaled $353,000 which included costs of $96,000 related to personnel for CVD Materials Corporation. 
+
+Our general and administrative expenses for the three months ended June 30, 2018 totaled $1,969,000 of which $471,000 was related personnel and occupancy costs attributed to CVD Materials Corporation. For the three months ended June 30, 2017 we incurred approximately $2,116,000 of general and administrative expenses, of which $246,000 was attributable to CVD Materials Corporation. The overall reduction in the current period of $147,000 in total general and administrative expenses was due primarily to an overaccrual of $130,000 made in December 2017 for executive bonuses. 
+
+Operating       (Loss)/      I      ncome    
+
+We incurred a loss from operations of $1.4 million for the three months ended June 30, 2018 primarily as a result of the reduced revenues for the period and costs of $536,000 attributable to CVD Materials compared to the three months ended June 30, 2017 when we earned $1.8 million from operations which included costs of $335,000 related to CVD Materials Corporation. 
+
+Income Taxes    
+
+We reported an income tax benefit of $139,000 for the three months ended June 30, 2018. For the three months ended June 30, 2017 we incurred an income tax expense of $574,000 
+
+19
+
+Net (Loss)/Income    
+
+We reported a net loss of approximately $1.3 million or ($0.21) per share basic and diluted for the three months ended June 30, 2018 compared to net income of approximately $1.3 million or $0.20 per share basic and diluted for the three months ended June 30, 2017. 
+
+Six Months Ended June 30, 2018 vs. Six Months Ended June 30, 2017    
+
+20
+
+Revenue    
+
+Revenue for the six months ended June 30, 2018 was $15.6 million compared to $20.5 million for the six months ended June 30, 2017, a decrease of $4.9 million or 23.9%. This decrease was the result of the completion of the large aviation component supplier production contracts. This large aviation component supplier represented approximately $6.7 million or 43.0% of our revenue for the six months ended June 30, 2018 compared to $13.7 million or approximately 68% of our revenue for the six months ended June 30, 2017. The mix and type of customers, and sales to any single customer, may vary significantly from quarter to quarter and from year to year. If any of our significant customers do not place orders, or they substantially reduce, delay or cancel orders, we may not be able to replace the business in a timely manner or at all, which could have a material adverse effect on our results of operations and financial condition. CVD Materials achieved $730,000 in revenue for the six months ended June 30, 2018. 
+
+Gross Profit    
+
+For the six months ended June 30, 2018, we generated a gross profit of $4.9 million resulting in a gross profit margin of 31.3% compared to a gross profit of $8.6 million for the six months ended June 30, 2017, which resulted in a gross profit margin of 41.9%. The reduced gross margin is due to the lower revenue during the three month period ending June 30, 2018 while maintaining similar labor costs as in higher revenue periods. Additionally, the Company recognized estimated losses on certain contracts where the actual costs incurred were greater than estimated in prior periods. Reductions in personnel began towards the end of the three month period ended June 30, 2018. 
+
+Research and Development, Selling and General and Administrative Expenses    
+
+Internal research and development expenses for the six months ended June 30, 2017 were $225,000 compared to $181,000 for the six months ended June 30, 2017, as we continue to ramp our efforts of independently conducted research and development activities. 
+
+Selling and shipping expenses for the six months ended June 30, 2018 totaled $912,000 including approximately $215,000 attributable to sales personnel costs related to CVD Materials. Selling and shipping expenses for the six months ended June 30, 2017 totaled $638,000 including approximately $152,000 of costs related to CVD Materials Corporation. 
+
+We incurred $4.2 million of general and administrative expenses during the six months ended June 30, 2018 which included approximately $921,000 of personnel and occupancy costs attributable to CVD Materials Corporation compared to $4.2 million for the six months ended June 30, 2017, which included $400,000 of costs related to CVD Materials Corporation. 
+
+Operating Income    
+
+As a result of the decreased revenues and the costs attributable to CVD Materials Corporation, we incurred a loss from operations of $469,000 for the six months ended June 30, 2018 compared to achieving net income from operations of $3.5 million for the six months ended June 30, 2017. 
+
+Income Taxes    
+
+For the six months ended June 30, 2018 we incurred an income tax expense of $109,000 due to certain temporary timing differences between the financial statements and tax bases of asset and liabilities. For the six months ended June 30, 2017, we incurred an income tax expense of $1,258,000. 
+
+21
+
+Net (Loss)/Income    
+
+We reported a net loss of $772,000 or ($0.12) per share basic and diluted for the six months ended June 30, 2018 compared to net income of $2.3 million or $0.36 per share basic and diluted for the six months ended June 30, 2017. 
+
+Inflation    
+
+Inflation has not materially impacted the operations of our Company. 
+
+Liquidity and Capital Resources    
+
+As of June 30, 2018 we had working capital of $20.9 million compared to $22.4 million at December 31, 2017, a decrease of $1.5 million primarily due to costs related to building improvements and equipment for our CVD Materials facility. We had cash and cash equivalents of $15.4 million compared to $14.2 million at December 31, 2017, an increase   of $1.2 million. 
+
+Accounts receivable, net, as of June 30, 2018 was $2.7 million compared to $2.1 million at December 31, 2017. This increase is principally due to the timing of customer invoicing, shipments and customer payments on outstanding balances. 
+
+As of June 30, 2018, we were compliant with all of the financial covenants of our debt instruments, which consist of our two mortgages on the two buildings and our Revolving Line of Credit. We are uncertain as to whether or not we will be able to maintain compliance with our Fixed Charge Coverage Ratio Covenant as of September 30, 2018. We intend to enter into discussions with our lender to either amend the covenant or if applicable, obtain a waiver of any such covenant default. However, there can be no assurance that we will be able to obtain such amendment or waiver on commercially reasonable terms, the failure of which could have a material adverse effect on our financial condition. 
+
+At June 30, 2018 the number of full time employees decreased to 207 employees compared to 212 at December 31, 2017. Towards the end of the period ended June 30, 2018, we began reducing personnel to more closely match our reduced revenue flow. As of August 5, 2018, we had reduced our staff by an additional 20 people. 
+
+We believe that our cash and cash equivalents position and cash flow from operations will be sufficient to meet our working capital and capital expenditure requirements for the next twelve months, a significant portion of which will be related to CVD Materials and the additional building. 
+
+We may also raise additional funds in the event we determine in the future to effect one or more acquisitions of businesses, technologies or products. In addition, we may elect to raise additional funds even before we need them if the conditions for raising capital are favorable. Any equity or equity-linked financing could be dilutive to existing shareholders. 
+
+Off-      B      alance       S      heet       A      rrangements.    
+
+We have no off-balance sheet arrangements at this time. 
+
+Item 3.                 Quantitative and Qualitative Disclosures About Market Risk  .  
+
+Not applicable. 
+
+22
+
+Item 4  .                   Controls and Procedures . 
+
+Evaluation of Disclosure Controls and Procedures 
+
+We maintain a system of disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act). As required by Rule 13a-15(b) under the Exchange Act, management of the Company, under the direction of our Chief Executive Officer and Chief Financial Officer, reviewed and performed an evaluation of the effectiveness of design and operation of the Company s disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act) as of the end of the period covered by this Quarterly Report on Form 10-Q (the  Report ). 
+
+Based on that review and evaluation, the Chief Executive Officer and Chief Financial Officer, along with our management, have determined that as of the end of the period covered by the Report on Form 10-Q, the disclosure controls and procedures were not effective to provide reasonable assurance that such information is accumulated and communicated to our management, including our principal executive and financial officers, as appropriate to allow timely decisions regarding disclosures. Specifically, we have identified the following material weaknesses in our disclosure controls: (1) The Company lacks sufficient internal controls over monitoring the accounting activity and consolidation of its foreign subsidiary into the Company s consolidated financial statements. (2) Also, the Company has not fully integrated its new project accounting software into its general ledger accounting system and continues to rely on manual reconciliations using electronic spreadsheets. 
+
+To remediate such weaknesses, the company is implementing the following changes: (1) establishing stricter formal procedures with respect to how and when the Company s management will communicate to the auditors and Audit Committee on a more timely basis, (2) adopting sufficient written policies and procedures for accounting and financial reporting, (3) appointing and /or designating additional qualified personnel to ensure timely filing of the reports that the Company files or submits under the Exchange Act, and (4) adding additional, multiple review levels. 
+
+Changes in Internal Controls 
+
+There were no changes in our internal controls over financial reporting as defined in Rule 13a-15(f) or Rule 15d-15(f) under the Exchange Act that occurred during the most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, the internal controls over financial reporting. 
+
+Limitations on the Effectiveness of Controls 
+
+We believe that a control system, no matter how well designed and operated, cannot provide absolute assurance that the objectives of the control systems are met, and no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been detected. 
+
+23
+
+CVD EQUIPMENT CORPORATION  
+
+PART II  
+
+OTHER INFORMATION  
+
+Item 1.           Legal Proceedings.  
+
+None. 
+
+Item 2.             Unregistered Sales of Equity Securities and Use of Proceeds  .  
+
+None. 
+
+Item 3.           Defaults Upon Senior Securities  .  
+
+None. 
+
+Item 4.             Mine Safety Disclosures.  
+
+Not Applicable. 
+
+Item 5.           Other Information.  
+
+None. 
+
+Item 6.           Exhibits   
+
+The exhibits below are hereby furnished to the SEC as part of this report: 
+
+24
+
+101.1** 
+
+XBRL Instance. 
+
+101.SCH** 
+
+XBRL Taxonomy Extension Schema. 
+
+101.CAL** 
+
+XBRL Taxonomy Extension Calculation 
+
+101.DEF** 
+
+XBRL Taxonomy Extension Definition. 
+
+101.LAB** 
+
+XBRL Taxonomy Extension Labels. 
+
+101.PRE** 
+
+XBRL Taxonomy Extension Presentation. 
+
+*Filed herewith 
+
+**Pursuant to Rule 406T of Regulation S-T, these interactive data files are deemed not to be filed or part of a registration statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for purposes of Section 18 of the Securities Act of 1934, as amended, and otherwise not subject to liability under these sections. 
+
+25
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, this 14 th  day of August 2018. 
+
+CVD EQUIPMENT CORPORATION 
+
+By:  /s/ Leonard A. Rosenbaum  
+
+			        Leonard A. Rosenbaum 
+
+			        Chief Executive Officer, President and Chairman 
+
+			        (Principal Executive Officer) 
+
+By:  /s/ Glen R. Charles  
+
+			        Glen R. Charles 
+
+			        Chief Financial Officer 
+
+			        (Principal Financial and Accounting Officer) 
+
+26
+
+EXHIBIT INDEX 
+
+_______________ 
+
+ * Filed herewith 
+
+** Pursuant to Rule 406T of Regulation S-T, these interactive data files are deemed not to be filed or part of a registration statement or prospectus for purposes of Section 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for purposes of Section 18 of the Securities Act of 1934, as amended, and otherwise not subject to liability under these sections. 
+
+27 
+
+<EX-31.1>
+ 2
+ ex_121082.htm
+ EXHIBIT 31.1
+
+ex_121082.htm 
+
+Exhibit 31.1  
+
+  Certifications of Principal Executive Officer  
+
+  Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  
+
+I, Leonard A. Rosenbaum, certify that: 
+
+1. 
+
+I have reviewed this quarterly report on Form 10-Q of CVD Equipment Corporation; 
+
+2. 
+
+Based upon my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based upon my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+a. 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+
+Designed such internal controls over financial reporting, or caused such internal controls over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrants  board of directors (or persons performing the equivalent functions): 
+
+a. 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Dated: August 14, 2018 
+
+/s/ Leonard A. Rosenbaum  
+
+ President, Chief Executive Officer and Chairman 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex_121083.htm
+ EXHIBIT 31.2
+
+ex_121083.htm 
+
+Exhibit 31.2  
+
+Certifications of Principal Financial Officer  
+
+  Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  
+
+I, Glen R. Charles, certify that: 
+
+1. 
+
+I have reviewed this quarterly report on Form 10-Q of CVD Equipment Corporation; 
+
+2. 
+
+Based upon my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based upon my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report. 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) for the registrant and have: 
+
+a. 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b. 
+
+Designed such internal controls over financial reporting, or caused such internal controls over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c. 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d. 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrants  board of directors (or persons performing the equivalent functions): 
+
+a. 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b. 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+
+Dated: August 14, 2018 
+
+/s/ Glen R. Charles  
+
+ Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex_121084.htm
+ EXHIBIT 32.1
+
+ex_121084.htm 
+
+Exhibit 32.1  
+
+Certification of Principal Executive Officer 
+
+ Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to 
+
+ Section 906 of the Sarbanes-Oxley Act of2002 
+
+I, Leonard A. Rosenbaum, President and Chief Executive Officer of CVD Equipment Corporation, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge, the quarterly report on Form 10-Q for the period ending June 30, 2018 of CVD Equipment Corporation (the  Form 10-Q ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and the information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of CVD Equipment Corporation. 
+
+Dated: August 14, 2018      
+			 
+			  /s/ Leonard A. Rosenbaum  
+
+			 Leonard A. Rosenbaum 
+
+			 Chief Executive Officer, President and Chairman 
+
+			 (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex_121085.htm
+ EXHIBIT 32.2
+
+ex_121085.htm 
+
+Exhibit 32.2  
+
+Certification of Principal Financial Officer 
+
+ Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to 
+
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+
+I, Glen R. Charles, Chief Financial Officer of CVD Equipment Corporation, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge, the quarterly report on Form 10-Q for the period ending June 30, 2018 of CVD Equipment Corporation (the  Form 10-Q ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and the information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of CVD Equipment Corporation. 
+
+Dated: August 14, 2018   
+			 
+			  /s/ Glen R. Charles  
+
+			 Glen R. Charles 
+
+			 Chief Financial Officer 
+
+			 (Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ cvv-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ cvv-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ cvv-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ cvv-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ cvv-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ cvv-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

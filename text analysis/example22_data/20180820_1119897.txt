@@ -1,0 +1,1419 @@
+  SECURITIES
+AND EXCHANGE COMMISSION   
+
+   Washington,
+D.C. 20549   
+
+FORM
+10-Q   
+
+For
+the quarterly period ended  June 30, 2018   
+
+  or   
+
+Commission
+file number:  000-31549   
+
+PCT
+LTD    
+
+  (Exact
+name of registrant as specified in its charter)  
+
+(843)
+390-7900   
+
+  (Registrant s
+telephone number, including area code)  
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes   No    
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes   No
+  The registrant does not have a Web site.  
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See definitions of  large accelerated filer,   accelerated filer, 
+ smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act.  
+
+Large
+    accelerated filer    
+      Accelerated
+    filer     
+ 
+      Non-accelerated
+    filer    
+      Smaller
+    reporting company     
+ 
+      (Do
+    not check if a smaller reporting company)   
+      Emerging
+    growth company      
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   No    
+
+The
+number of shares outstanding of the registrant s common stock as of August 20, 2018 was 43,459,238.  
+
+TABLE
+OF CONTENTS   
+
+Part
+    I   Financial Information   
+       Page    
+
+Item 1.  
+      Financial Statements  
+      3   
+
+Condensed Consolidated Balance Sheets as of
+    June 30, 2018 (Unaudited) and December 31, 2017  
+      4   
+
+Condensed Consolidated Statements of Operations
+    (Unaudited)  
+      5   
+
+Condensed Consolidated Statements of Cash Flows
+    (Unaudited)  
+      6   
+
+Notes to the Unaudited Condensed Consolidated
+    Financial Statements  
+      7   
+
+Item 2.  
+      Management s Discussion and Analysis of
+    Financial Condition and Results of Operations  
+      17   
+
+Item 3.   
+      Quantitative and Qualitative Disclosures
+    About Market Risk   
+      21   
+
+Item 4.  
+      Controls and Procedures  
+      21   
+
+Part II   Other Information   
+
+Item 1.   
+      Legal Proceedings   
+      22   
+
+Item 1A.   
+      Risk Factors   
+      22   
+
+Item 2.   
+      Unregistered Sales of Equity Securities and
+    Use of Proceeds   
+      22   
+
+Item 3.    
+      Defaults Upon Senior Securities   
+      22   
+
+Item 4.   
+      Mine Safety Disclosures   
+      22   
+
+Item 5.  
+      Other Information  
+      22   
+
+Item 6.  
+      Exhibits  
+      23   
+
+Signatures  
+      24   
+
+PART
+I   FINANCIAL INFORMATION   
+
+ITEM
+1. FINANCIAL STATEMENTS   
+
+The
+financial information set forth below with respect to our statements of operations for the three and six month periods ended June
+30, 2018 and 2017 is unaudited. This financial information, in the opinion of management, includes all adjustments consisting
+of normal recurring entries necessary for the fair presentation of such data. The results of operations for the three and six
+month periods ended June 30, 2018 are not necessarily indicative of results to be expected for any subsequent period.  
+
+PCT
+LTD   
+
+Financial
+Statements  
+
+June
+30, 2018  
+
+(Unaudited)   
+
+PCT
+LTD   
+
+   Condensed
+Consolidated Balance Sheets   
+
+The
+accompanying notes are an integral part of these unaudited condensed financial statements.     
+
+PCT
+LTD   
+
+   Condensed
+Consolidated Statements of Operations   
+
+   (Unaudited)   
+
+The
+accompanying notes are an integral part of these unaudited condensed financial statements. 
+
+PCT
+LTD   
+
+   Condensed
+Consolidated Statements of Cash Flows   
+
+   (Unaudited)   
+
+The
+accompanying notes are an integral part of these unaudited condensed financial statements.     
+
+PCT
+LTD   
+
+   Notes
+to the Unaudited   
+
+   Condensed
+Consolidated Financial Statements   
+
+   June
+30, 2018   
+
+NOTE
+1. BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES   
+
+The
+unaudited interim condensed consolidated financial statements of PCT LTD ( the Company ) have been prepared in accordance
+with United States generally accepted accounting principles for interim financial information and with the instructions to Form
+10-Q and reflect all adjustments which, in the opinion of management, are necessary for a fair presentation of our balance sheet,
+statements of operations, and cash flows for the periods presented. All such adjustments are of a normal recurring nature.  The
+results of operations for the interim period are not necessarily indicative of the results to be expected for a full year.    
+
+Certain
+information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles
+generally accepted in the United States of America have been condensed or omitted. It is suggested that these condensed financial
+statements be read in conjunction with the financial statements and notes thereto included in the Company s December 31,
+2017 audited financial statements as reported in its Form 10-K, filed April 17, 2018.  
+
+     Nature
+of Operations     
+
+  PCT
+LTD (formerly Bingham Canyon Corporation), (the  Company,   PCT Ltd,  or  Bingham ), a Delaware
+corporation, was formed on August 27, 1986. The Company changed its domicile to Nevada on August 26, 1999.  
+
+On
+August 31, 2016, the Company entered into a Securities Exchange Agreement with Paradigm Convergence Technologies Corporation ( Paradigm, 
+ PCT Corp,  or PCT Corp., the wholly-owned operating subsidiary ) to affect the acquisition of Paradigm as a
+wholly-owned subsidiary. Under the terms of the agreement, the Company issued 16,790,625 restricted common shares of Company stock
+to all of the shareholders of Paradigm in exchange for all 22,387,500 outstanding Paradigm common stock. In addition, the Company
+issued options exercisable into 2,040,000 shares of the Company s common stock (with exercise prices ranging between $0.133
+and $0.333) in exchange for 2,720,000 outstanding Paradigm stock options (with exercise prices ranging between $0.10 and $0.25).
+These 2,040,000 options have been adjusted at the same exchange rate of 75% that the outstanding common shares were exchanged.
+As a result of this reverse recapitalization, PCT Corp, the operating company, is considered the accounting acquirer.  
+
+PCT
+Corp. is located in Little River, SC and was formed June 6, 2012 under the name of EUR-ECA, Ltd. On September 11, 2015, its Board
+of Directors authorized EUR-ECA Ltd. to file with the Nevada Secretary of State to change its names to Paradigm Convergence Technologies
+Corp. PCT Corp. is a technology licensing, OEM and sales/leasing company specializing in environmentally-responsible solutions
+for global sustainability. PCT LTD, the public company and  parent  of PCT Corp. holds a United States Patent No.
+9,679,170 B2 with a recently granted Canadian Allowance, as well as owning future and pending international patent(s) (response
+to examiners comments in process), intellectual property and/or distribution rights to innovative products and technologies. PCT
+Corp. provides innovative products and technologies for eliminating bacterial contamination in healthcare facilities, the agricultural
+market and in the oil   gas industry. PCT Corp. s overall strategy is to design, assemble, market, sell and/or lease
+equipment, fluids and proprietary  certifications  of its products and technologies. PCT Corp., utilizes equipment
+leasing program ( System Service Agreements ), joint ventures, licensing, distributor agreements and partnerships.  
+
+  Effective
+on March 23, 2018, the Company changed its name from Bingham Canyon Corporation to PCT LTD to more accurately identify the Company s
+direction and to develop the complimentary relationship and association with its wholly-owned operating company, PCT Corp.  
+
+     Principles
+of Consolidations     
+
+  The
+accompanying consolidated financial statements include the accounts of PCT LTD ( Parent ) and PCT Corp. All intercompany
+accounts have been eliminated upon consolidation.  
+
+Use
+of Estimates     
+
+  The
+preparation of the condensed consolidated financial statements requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities and the disclosure of contingencies at the date of the financial statements as
+well as the reported amounts of revenues and expenses during the reporting periods. Estimates are based on historical experience
+and on various other market-specific and other relevant assumptions that are believed to be reasonable under the circumstances,
+the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily
+apparent from other sources. Actual results could differ materially from those estimates.  
+
+Cash
+and Cash Equivalents     
+
+  Cash
+and cash equivalents are considered to be cash and a highly liquid security with original maturities of three months or less.
+There was cash of $53 and $7,838 as of June 30, 2018 and December 31, 2017, respectively. There were no cash equivalents as of
+June 30, 2018 and December 31, 2017.   
+
+     Accounts
+Receivable     
+
+  Accounts
+receivable are recorded at the time product is shipped or services are provided, including any shipping and handling fees. The
+Company provided allowances for uncollectible accounts receivable equal to the estimated collection losses that will be incurred
+in collection of all receivables. Accounts receivable are periodically evaluated for collectability based on past credit history
+with customers and their current financial condition. That Company s management determines which accounts are past due and
+if deemed uncollectible, the Company charges off the receivable in the period the determination is made. Based on management s
+evaluation, the allowance for doubtful accounts was $12,000 at June 30, 2018 and December 31, 2017.  
+
+     Inventory     
+
+  Inventories
+are stated at the lower of cost or market. Cost is determined by using the first in, first out (FIFO) method. We record the value
+of our inventory for estimated obsolescence or unmarketable inventory equal to the difference between the cost of inventory and
+the estimated market value based upon assumptions about future demand, future pricing and market conditions. As of June 30, 2018
+and December 31, 2017, the inventory consisted of parts for equipment sold as replacement parts to existing customers or sold
+to new customers. The Company has recorded a reserve allowance of $0 at June 30, 2018 and December 31, 2017.  
+
+     Property
+and Equipment     
+
+  Property
+and equipment are stated at purchased cost and depreciated utilizing a straight-line method over estimated useful lives ranging
+from 3 to 7 years after the asset has been placed in service. Upon selling equipment that had been under a lease agreement, the
+Company discontinues the depreciation on that piece of equipment, as it transfers ownership to another entity. Additions and major
+improvements that extend the useful lives of property and equipment are capitalized. Maintenance and repairs are charged to operations
+as incurred. Upon trade-in, sale or retirement of property and equipment, the related cost and accumulated depreciation are removed
+from the accounts and any related gains or losses are recorded in the results of operations. Accumulated depreciation for period
+ending June 30, 2018 and December 31, 2017 were $59,671 and $46,725, respectively.  
+
+Fair
+Value Measurements     
+
+  The
+Company follows ASC 820,   Fair Value Measurements and Disclosures,   which defines fair value as the exchange
+price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous
+market for the asset or liability in an orderly transaction between market participants on the measurement date. Valuation techniques
+used to measure fair value must maximize the use of observable inputs and minimize the use of unobservable inputs. A fair value
+hierarchy based on three levels of inputs, of which the first two are considered observable and the last is considered unobservable,
+is used to measure fair value:  
+
+Level
+    1:  
+      Valuations
+    for assets and liabilities traded in active markets from readily available pricing sources such as quoted prices in active
+    markets for identical assets or liabilities.   
+
+Level
+    2:  
+      Observable
+    inputs (other than Level 1 quoted prices) such as quoted prices in active markets for similar assets or liabilities, quoted
+    prices in markets that are not active for identical or similar assets or liabilities, or other inputs that are observable
+    or can be corroborated by observable market data.   
+
+Level
+    3:  
+      Unobservable
+    inputs that are supported by little or no market activity and that are significant to determining the fair value of the assets
+    or liabilities, including pricing models, discounted cash flow methodologies and similar techniques.   
+
+The
+carrying values of our financial instruments, including, cash and cash equivalents, accounts receivable, inventory, prepaid expenses,
+accounts payable and accrued expenses approximate their fair value due to the short maturities of these financial instruments.
+We do not have other financial assets or liabilities that are measured at fair value on a recurring basis as of June 30, 2018
+and December 31, 2017.  
+
+Valuation
+of Long-lived Assets     
+
+  The
+carrying values of the Company s long-lived assets are reviewed for impairment annually and whenever events or changes in
+circumstances indicate that they may not be recoverable. When projections indicate that the carrying value of the long-lived asset
+is not recoverable, the carrying value is reduced by the estimated excess of the carrying value over the projected undiscounted
+cash flows. Under similar analysis no impairment was recorded as of June 30, 2018 and December 31, 2017. Impairment tests are
+conducted on an annual basis and, should they indicate a carrying value in excess of fair value, additional impairment changes
+may be required.   
+
+Intangible
+Assets     
+
+  Costs
+to obtain or develop patents are capitalized and amortized over the remaining life of the patents, and technology rights are amortized
+over estimated useful lives. The Company currently has the right to a U.S. patent (with international patents in process) and
+proprietary property technology. Patents and technology are amortized from the date the Company acquires or is awarded the patent
+or technology right, over their estimated useful lives, which range from 1 to 15 years. An impairment charge is recognized if
+the carrying amount is not recoverable and the carrying These assets are stated at cost, net of accumulated amortization. An impairment
+charge is recognized and the carrying amount exceeds the fair value of the intangible assets as determined by the projected discounted
+net future cash flows. The recorded impairment expense of nil for the periods ending June 30, 2018 and December 31, 2017. Accumulated
+amortization was $534,294 and $380,382 as of June 30, 2018 and December 31, 2017, respectively.  
+
+Research
+and Development     
+
+  Research
+and development costs are recognized as an expense during the period incurred, which is until the conceptual formulation, design,
+and testing of the process is completed and the process has been determined to be commercially viable.  
+
+Revenue
+Recognition     
+
+  In
+May 2014, the FASB issued ASU No. 2014-09,  Revenue from Contracts with Customer (Topic 606) . The new revenue recognition
+standard provides a five-step analysis of transactions to determine when and how revenue is recognized. The core principal is
+that a company should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflect
+the consideration to which the entity expects to be entitled in exchange for those goods or services.  
+
+The
+Company has structured its revenue as: 1) product (sales or equipment and/or fluid solutions); 2) licensing (contract-based use
+of the Company s US EPA Product Registration, returning revenue in licensing fees and/or royalties from minimum or actual
+fluid sales); and 3) equipment leases (under systems service agreements, usually 3-year contract for the provision of the Company s
+equipment and service of such, under contract to customers, with renewable terms). Revenue from contracts to license technology
+to others is immediately recognized since it is a non-refundable deposit.  
+
+Reclassifications     
+
+  Certain
+prior period amounts have been reclassified to conform to current presentation.  
+
+Basic
+and Diluted Loss per Share     
+
+  Basic
+loss per share is computed by dividing net loss by the weighted-average number of common shares outstanding during the period.
+Diluted loss per share is computed by dividing net loss by the weighted-average number of common shares and dilutive potential
+common shares outstanding during the period. As of June 30, 2018 there were outstanding common share equivalents (options and
+convertible notes payable) which amounted to 1,874,746 shares of common stock. These common share equivalents were not included
+in the computation of diluted loss per share as their effect would have been anti-dilutive.  
+
+Recent
+Accounting Pronouncements     
+
+  The
+Company has reviewed all other FASB and ASU accounting pronouncements and interpretation thereof that have effective dates during
+the period reported and in future periods. The company has carefully considered the new pronouncement that alter the previous
+GAAP and do not believe than any new or modified principles will have a material impact on the Company s reported financial
+position or operations in the near term.  
+
+NOTE
+2. GOING CONCERN   
+
+The
+accompanying unaudited condensed consolidated financial statements have been prepared assuming that the Company will continue
+as a going concern. The Company has limited assets, has incurred losses since inception of $7,943,881 and has negative cash flows
+from operations. As of June 30, 2018, the Company had working capital of $114,172. The Company has relied on raising debt and
+equity capital in order to fund its ongoing day-to-day operations and its corporate overhead. The Company will require additional
+working capital from either cash flow from operations, from debt or equity financing, or from a combination of these sources.
+These factors raise substantial doubt about the ability of the Company to continue as a going concern for a period of one year
+from the issuance of these financial statements. The financial statements do not include any adjustments that might result from
+the outcome of this uncertainty.  
+
+NOTE
+3. PROPERTY AND EQUIPMENT   
+
+Depreciation
+is computed using the straight-line method and is recognized over the estimated useful lives of the property and equipment, which
+ranges from 3 to 7 years once placed into service. Depreciation expense does not begin until documentation or equipment placed
+in service is provided. Machinery and leased equipment is not intended to be sold to the customer at the end of the lease term.
+Depreciation expense was $12,946 and $8,289 for the six months and $7,294 and $4,239 for the three months ended June 30, 2018
+and 2017, respectively.  
+
+Property
+and Equipment consisted of the following as of June 30, 2018 and December 31, 2017:  
+
+NOTE
+4. INTANGIBLE ASSETS   
+
+Amortization
+is computed using the straight-line method and is recognized over the estimated useful lives of the intangible assets, which ranges
+from 1 to 15 years. Amortization expense was $153,912 and $111,230 for the six months ended June 30, 2018 and 2017, respectively.  
+
+The
+components of intangible assets at June 30, 2018 and December 31, 2017 were as follows:  
+
+NOTE
+5. Debt   
+
+The
+following table summarizes notes payable as of June 30, 2018 and December 31, 2017:  
+
+(b)    On
+                                         May 29, 2018, the Company entered into a Guarantee Agreement with a non-related party.
+                                         The Company owed an unrelated party $27,500 that was due on October 10, 2017. In consideration
+                                         for increasing the principal amount of the loan to $30,000 and a personal guarantee by
+                                         the Company s CEO, the lender agreed to extend the maturity date of the loan to
+                                         June 30, 2018. The Company evaluated the modification pursuant to ASC 470-60 Troubled
+                                         Debt Restructuring by Debtors, and ASC 470-50 Modification and Extinguishment. The Company
+                                         concluded that the Company is experiencing financial difficulty and that a concession
+                                         was not granted. As the creditors have not granted a concession the guidance contained
+                                         in ASC 470-60 does not apply. As the original and new debt instruments are not considered
+                                         substantially different, extinguishment accounting does not apply, and the Company accounted
+                                         for the revised note as a debt modification. The carrying amount of the payable was not
+                                         adjusted and the effects of the changes are reflected in future periods by computing
+                                         the constant effective interest rate and applying it to the carrying amount of the payable
+                                         each period until maturity.    
+
+(e)    On June 20, 2018, the Company had the following notes, to a non-related party, outstanding:   
+
+On
+June 20, 2018, the Company issued a new note that consolidated into one the notes above as well as any outstanding interest owed.
+The new note has a principal of $130,000, bears interest at 8% per annum and is due on January 2, 2020. As the debt is being exchanged
+with the lender, the Company evaluated the modification pursuant to ASC 470-60  Troubled Debt Restructuring by Debtors ,
+and ASC 470-50  Modification and Extinguishment .   
+
+The
+indicators of financial difficulty contained in ASC 470-60 were reviewed and it was concluded that the Company is experiencing
+financial difficulty. The Company then determined that a concession was granted. As the creditors have granted a concession the
+troubled debt restructuring model contained in ASC 470-60 was applied. The carrying amount of the payable was not adjusted and
+the effects of the changes are reflected in future periods by computing the constant effective interest rate and applying it to
+the carrying amount of the payable each period until maturity.   
+
+(f)    On June 20, 2018, the Company had the following notes, to a non-related party, outstanding:   
+
+On
+June 20, 2018, the Company issued a new note that consolidated into one note the notes above as well as any outstanding interest
+owed. The new note has a principal of $126,964, bears interest at 6% per annum. The Company must repay $66,964 of the note on
+August 31, 2018, and the remaining $60,000 on January 2, 2020. If the Company fails to make the $66,664 on August 31, 2018 the
+entire amount owed under the original notes becomes due immediately. As the debt is being exchanged with the lender, the Company
+evaluated the modification pursuant to ASC 470-60 Troubled Debt Restructuring by Debtors, and ASC 470-50 Modification and Extinguishment.   
+
+The
+indicators of financial difficulty contained in ASC 470-60 were reviewed and it was concluded that the Company is experiencing
+financial difficulty as there is significant doubt that the Company is a going concern and that there is no assurance that the
+Company will have sufficient cash flows to service the debt through its maturity. The Company then proceeded to assess whether
+the creditors granted a concession. The Company determined that a concession was granted as the effective borrowing rate on the
+restructured debt is lower than the effective borrowing rate of the old debt. As the creditors have granted a concession the troubled
+debt restructuring model contained in ASC 470-60 was applied. The carrying amount of the payable was not adjusted and the effects
+of the changes are reflected in future periods by computing the constant effective interest rate and applying it to the carrying
+amount of the payable each period until maturity.   
+
+The
+following table summarizes notes payable, related parties as of June 30, 2018 and December 31, 2017:  
+
+(i)    On
+                                         June 20, 2018, the Company had the following notes to an employee and Director of the
+                                         Company outstanding:    
+
+On
+June 20, 2018, the Company issued a new note that consolidated into one note the notes above as well as any outstanding interest
+owed. The new note has a principal of $380,000, bears interest at 8% per annum and is due on January 2, 2020. As the debt is being
+exchanged with the lender, the Company evaluated the modification pursuant to ASC 470-60 Troubled Debt Restructuring by Debtors,
+and ASC 470-50 Modification and Extinguishment.   
+
+The
+indicators of financial difficulty contained in ASC 470-60 were reviewed and it was concluded that the Company is experiencing
+financial difficulty and that a concession was granted. As the creditor granted a concession the troubled debt restructuring model
+contained in ASC 470-60 was applied. The carrying amount of the payable was not adjusted and the effects of the changes are reflected
+in future periods by computing the constant effective interest rate and applying it to the carrying amount of the payable each
+period until maturity.   
+
+(j)    On
+                                         June 20, 2018, the Company had the following notes to the Chairman and CEO of the Company
+                                         outstanding:    
+
+On
+June 20, 2018, the Company issued a new note that consolidated into one note the notes above as well as any outstanding interest
+owed. The new note has a principal of $350,000, bears interest at 5% per annum and is due on January 2, 2020. The Company evaluated
+the transaction under the guidance found in ASC 470-50 Modification and Extinguishment.   
+
+The
+Company concluded that the Company is experiencing financial difficulty and that a concession was not granted. As the creditor
+has not granted a concession, the guidance contained in ASC 470-60 was applied. The Company accounted for the new note as a debt
+modification. The carrying amount of the payable was not adjusted and a new effective interest rate was determined on the modification
+date that equates the revised cash flows to the carrying amount of the original debt.   
+
+(k)    On
+                                         June 20, 2018, the Company had a $15,000 note to the CEO of the Company s spouse
+                                         outstanding. On June 20, 2018, the Company issued a new note that consolidated the note
+                                         above as well as any outstanding interest owed. The new note has a principal of $17,000,
+                                         bears interest at 5% per annum and is due on January 2, 2020. The Company evaluated the
+                                         transaction under the guidance found in ASC 470-50 Modification and Extinguishment.    
+
+The
+Company concluded that the Company is experiencing financial difficulty and that a concession was not granted. As the creditor
+has not granted a concession, the guidance contained in ASC 470-60 was applied. The Company accounted for the new note as a debt
+modification. The carrying amount of the payable was not adjusted and a new effective interest rate was determined on the modification
+date that equates the revised cash flows to the carrying amount of the original debt.   
+
+The
+following table summarizes convertible notes payable as of June 30, 2018 and December 31, 2017:  
+
+(m)    On
+                                         June 5, 2018, the Company entered into a convertible promissory with an unrelated party
+                                         for $68,000. The note is due on June 5, 2019 and bears interest on the unpaid principal
+                                         balance at a rate of 12% per annum. Stringent pre-payment terms apply (from 12% to 17%
+                                         to 22% to 27% to 32% to 37%, dependent upon the timeframe of repayment during the note s
+                                         term) and any part of the notice which is not paid when due shall bear interest at the
+                                         rate of 22.0% per annum from the due date until paid. The Company must, at all times,
+                                         reserve six times that number of shares that would be issuable upon full conversion of
+                                         the note, with an initial reserved share amount of 1,592,506 shares. The Note may be
+                                         converted by the Lender at any time after 180 days of the date of issuance into shares
+                                         of Company s common stock at a conversion price equal to 61% of the average 3 lowest
+                                         trading prices during the 15 trading day period prior to the conversion date. Due to
+                                         this provision, the Company considered whether the embedded conversion option qualifies
+                                         for derivative accounting under ASC 815-15 Derivatives and Hedging. As the note isn t
+                                         convertible until 180 days following issuance, no derivative liability was recognized
+                                         as of June 30, 2018    
+
+NOTE
+6. RELATED PARTY TRANSACTIONS   
+
+The
+Company has agreements with related parties for consulting services, notes payable and stock options. See Notes to Financial Statements
+numbers 5 and 7.  
+
+NOTE
+7. STOCKHOLDERS  DEFICIT   
+
+Preferred
+Stock     
+
+Effective
+March 23, 2018, the Company amended the articles of incorporation and authorized 10,000,000 shares of preferred stock with a par
+value of $0.001 per share. As of June 30, 2018 there were -0- shares of preferred stock issued.  
+
+Common
+Stock     
+
+Effective
+March 23, 2018, the Company amended the articles of incorporation and increased the authorized shares of common stock with a par
+value of $0.001 per share from 100,000,000 to 300,000,000. As of June 30, 2018 and December 31, 2017 there were 43,459,238 and
+41,179,238 shares of common stock issued respectively.  
+
+On
+January 2, 2018, the Company sold 110,000 shares of common stock for $55,000.  
+
+On
+March 15, 2018, the Company entered into a 12-month service agreement, expiring on March 15, 2019, for strategic planning, financing,
+capital formation, up-listing and expansion of the Company s shareholder base. Per the terms of the agreement, the consulting
+company received a non-refundable $5,000 initial fee, will receive $2,500 per month beginning in April 2018, and was issued 2,000,000
+fully vested non-forfeitable shares of restricted common stock, valued at $1,000,000 ($0.50 per shares). The 2,000,000 common
+shares of the Company s stock were issued on June 12, 2018. As of June 30, 2018 the Company recorded the fair value of the
+common shares of $1,000,000 in common stock and additional paid in capital and has recorded $293,151 for the consulting expense
+related to the portion of the 12-month service agreement that has been completed.  
+
+On
+April 10, 2018 the Company issued 120,000 shares of common stock at $0.50 per share to an employee and Director of the Company
+for cash proceeds of $60,000.  
+
+On
+June 12, 2018, the Company entered into a 6-month service agreement, expiring on December 12, 2018, for business development and
+the development of financial reports. Per the terms of the agreement, the consulting company was issued 50,000 shares of restricted
+stock on June 29, 2018. As of June 30, 2018 the Company recorded the fair value of the common shares of $28,000 in common stock
+and additional paid in capital and has recorded $2,754 for the consulting expense related to the portion of the 12-month service
+agreement that has been completed.  
+
+Stock
+Options     
+
+Below
+is a table summarizing the options issued and outstanding as of June 30, 2018:  
+
+The
+weighted average exercise prices is $0.34 for the options outstanding and exercisable.  
+
+NOTE
+8. COMMITMENTS AND CONTINGENCIES   
+
+On
+November 21, 2016, the Company signed a lease for approximately 12,000 square feet of office, research   development, warehouse,
+and production space in Little River, South Carolina. The lease was effective December 1, 2016 at a rate of $4,800 per month for
+a period of three years. The Company has an option to extend the lease for two periods of three years each. The option to extend
+the first three-year period is at a rate of $5,100 per month. The option to extend the second three-year period is at a rate of
+$5,400 per month.  
+
+NOTE
+9. SUBSEQUENT EVENTS   
+
+On
+July 13, 2018, the Company entered into a short-term promissory note with the Chairman and CEO of the Company, for $5,000 to be
+used in operations. The note is unsecured, is due on June 30, 2019, and bears an interest rate of 3% per annum.  
+
+On
+July 25, 2018, the Company entered into a convertible promissory with an unrelated party for $38,000. The note is due on July
+25, 2019 and bears interest on the unpaid principal balance at a rate of 12% per annum. Stringent pre-payment terms apply (from
+12% to 17% to 22% to 27% to 32% to 37%, dependent upon the timeframe of repayment during the note s term) and any part of
+the notice which is not paid when due shall bear interest at the rate of 22% per annum from the due date until paid. The conversion
+rights of the note do not apply until 180 days for the note s inception and a notice of conversion must occur. The Company
+must, at all times, reserve six times that number of shares that would be issuable upon full conversion of the note, with an initial
+reserved share amount of 1,038,251 shares.  
+
+On
+July 27, 2018, the Company entered into a short-term promissory note with an employee and Director of the Company, for $50,000
+to be used in operations. The note is unsecured, incorporates the purchase of a piece of SurvivaLyte  equipment at cost and
+grants a three-year (from installation of equipment), non-exclusive US EPA sub-registration for markets (with specific exceptions)
+in a specific geographical location with a per gallon royalty feature as added benefits, is due on November 15, 2018, and bears
+an interest rate of 8% per annum.  
+
+FORWARD
+LOOKING STATEMENTS   
+
+This
+document contains  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act
+of 1995. All statements other than statements of historical fact are  forward-looking statements  for purposes of
+federal and state securities laws, including, but not limited to, any projections of earnings, revenue or other financial items;
+any statements of the plans, strategies and objectives of management for future operations; any statements concerning proposed
+new services or developments; any statements regarding future economic conditions or performance; any statements or belief; and
+any statements of assumptions underlying any of the foregoing.  
+
+Forward-looking
+statements may include the words  may,   could,   estimate,   intend,   continue, 
+ believe,   expect  or  anticipate  or other similar words. These forward-looking statements
+present our estimates and assumptions only as of the date of this report. Accordingly, readers are cautioned not to place undue
+reliance on forward-looking statements, which speak only as of the dates on which they are made. We do not undertake to update
+forward-looking statements to reflect the impact of circumstances or events that arise after the dates they are made. You should,
+however, consult further disclosures we make in this Quarterly Report on Form 10-Q, our Annual Report on Form 10-K, Current Reports
+on Form 8-K and other reports we file under the Exchange Act.  
+
+Although
+we believe that the expectations reflected in any of our forward-looking statements are reasonable, actual results could differ
+materially from those projected or assumed in any of our forward-looking statements. Our future financial condition and results
+of operations, as well as any forward-looking statements, are subject to change and inherent risks and uncertainties. The factors
+impacting these risks and uncertainties include, but are not limited to:  
+
+our
+    ability to efficiently manage and repay our debt obligations;   
+
+our inability to
+    raise additional financing for working capital;   
+
+our ability to generate
+    sufficient revenue in our targeted markets to support operations;   
+
+significant dilution
+    resulting from our financing activities;   
+
+actions and initiatives
+    taken by both current and potential competitors;   
+
+supply chain disruptions
+    for components used in our products;   
+
+manufacturers inability
+    to deliver components or products on time;   
+
+our ability to diversify
+    our operations;   
+
+the fact that our
+    accounting policies and methods are fundamental to how we report our financial condition and results of operations, and they
+    may require management to make estimates about matters that are inherently uncertain;   
+
+adverse state or
+    federal legislation or regulation that increases the costs of compliance, or adverse findings by a regulator with respect
+    to existing operations;   
+
+changes in U.S.
+    GAAP or in the legal, regulatory and legislative environments in the markets in which we operate;   
+
+deterioration in
+    general or global economic, market and political conditions;   
+
+inability to efficiently
+    manage our operations;   
+
+inability to achieve
+    future operating results;   
+
+the unavailability
+    of funds for capital expenditures;   
+
+our ability to recruit,
+    hire and retain key employees;   
+
+the inability of
+    management to effectively implement our strategies and business plans; and   
+
+the
+    other risks and uncertainties detailed in this report.    
+
+In
+this Form 10-Q references to  PCT LTD,  Bingham Canyon,   Bingham,   the Company,   we, 
+ us,   our  and similar terms refer to PCT LTD (formerly Bingham Canyon Corporation) and its wholly owned
+operating subsidiary, Paradigm Convergence Technologies Corporation ( Paradigm,   PCT Corp. ).  
+
+ITEM
+2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS   
+
+Executive
+Overview    
+
+On
+August 31, 2016, PCT LTD entered into a Securities Exchange Agreement (the  Exchange Agreement ) with Paradigm Convergence
+Technologies Corporation, a Nevada corporation ( Paradigm ). Pursuant to the terms of the Exchange Agreement, Paradigm
+became the wholly-owned subsidiary of PCT LTD after the exchange transaction. PCT LTD is a holding company, which through Paradigm
+is engaged in the business of marketing new products and technologies through licensing and joint ventures.  
+
+PCT
+LTD had not recorded revenues for the two fiscal years prior to its acquisition of Paradigm and was dependent upon financing to
+continue basic operations. Paradigm has recorded revenue since it initiated operations in 2012; however, those revenues have not
+been sufficient to finance operations. The Company recorded a net loss of $668,059 for the three months ended June 30, 2018 and
+$1,199,361 for the six months ended June 30, 2018 and accumulated losses of $7,943,881 from inception through June 30, 2018.  
+
+PCT
+LTD remains dependent upon additional financing to continue operations. The Company intends to raise additional financing through
+private placements of its common stock and note payable issuances. We expect that we would issue such stock pursuant to exemptions
+to the registration requirements provided by federal and state securities laws. The purchasers and manner of issuance will be
+determined according to our financial needs, as discussed below, and the available exemptions to the registration requirements
+of the Securities Act of 1933. We also note that if we issue more shares of our common stock, then our stockholders may experience
+dilution in the value per share of their common stock.  
+
+The
+expected costs for the next twelve months include:  
+
+continuation of
+    commercial launch of non-toxic sanitizing, disinfecting and sterilizing products and technologies with a strong emphasis on
+    health care facilities, including hospitals, nursing homes, assisted living facilities, clinics and medical, dental and veterinarian
+    offices;   
+
+continued research
+    and development on product generation units including those designed for on-site deployment at customers  facilities;   
+
+accelerated research
+    and development and initial commercialization on applications of the products in the agricultural sector, most specifically
+    with respect to abatement of a specific crop disease crisis caused by a bacterium in the U.S. and elsewhere;   
+
+acquiring available
+    complementary and continuations of technology rights (patents);   
+
+payment of short-term
+    debt;   
+
+general and administrative
+    operating costs.   
+
+Management
+projects these costs to total approximately $2,500,000. To minimize these costs, the Company intends to maintain its practice
+of controlling operating overheads with efficient facilities commitments, generally below market salaries and consulting fees,
+and rigorous prioritization of expenditure requirements. Based on its understanding of the commercial readiness of its products
+and technologies, the capabilities of its personnel (current and being hired), established business relationships and the general
+market conditions, management believes that the Company expects to be at or close to profitability by the end of the fourth quarter
+of 2018.  
+
+Liquidity
+and Capital Resources    
+
+A
+critical component of our operating plan impacting our continued existence is the ability to obtain additional capital through
+additional equity and/or debt financing. We do not anticipate generating sufficient positive internal operating cash flow until
+such time as we can deliver our products to market and generate substantial revenues, which may take the next full year to fully
+realize, if ever. In the event we cannot obtain the necessary capital to pursue our strategic plan, we may have to significantly
+curtail our operations. This would materially impact our ability to continue operations.  
+
+At
+June 30, 2018, the Company recorded a net loss of $1,199,361 and working capital of $114,172. We have recorded a relatively small
+amount of revenues from operations since inception and we have not established an ongoing source of revenue sufficient to cover
+our operating costs. During the years ended 2018 and 2017 we have primarily relied upon advances and loans from stockholders and
+third parties to fund our operations. The Company has relied on raising debt and equity capital in order to fund its ongoing day-to-day
+operations and its corporate overhead. We had $53 in cash at June 30, 2018, compared to $ 7,838 in cash at December 31, 2017.
+We had total liabilities of $2,089,720 at June 30, 2018 compared to $1,456,198 at December 31, 2017.  
+
+Our
+current cash flow is not sufficient to meet our monthly expenses of approximately $210,000 and to fund future research and development.
+We intend to rely on additional debt financing, loans from existing stockholders and private placements of common stock for additional
+funding in addition to the increasing our recognized revenue from the leasing and/or sale of products; however, there is no assurance
+that additional funding will be available. We do not have material commitments for future capital expenditures. However, we cannot
+assure you that we will be able to obtain short-term financing, or that sources of such financing, if any, will continue to be
+available, and if available, that they will be on favorable terms.  
+
+During
+the next 12 months we anticipate incurring additional costs related to the filing of Exchange Act reports. We believe we will
+be able to meet these costs through funds provided by management, significant stockholders and/or third parties. We may also rely
+on the issuance of our common stock in lieu of cash to convert debt or pay for expenses.  
+
+Commitments
+and Obligations    
+
+At
+June 30, 2018 the Company recorded notes payable and convertible notes payable totaling approximately $1,651,099 (net of debt
+discount) compared to notes payable totaling $1,134,217 (net of debt discount) at December 31, 2017. These notes payable represent
+cash advances received and expenses paid from third parties and related parties. All of the notes payable carry interest from
+0% to 13% and are due ranging from on demand to March 21, 2021.  
+
+The
+Company headquarters and operations is located in Little River, South Carolina. The South Carolina lease amounts to $4,800 per
+month, expires on November 30, 2019 and includes an option to renew for two additional three-year periods.  
+
+Results
+of Operations for the Three Month Periods Ended June 30, 2018 and 2017    
+
+Revenues
+increased to $70,072 for the three months ended June 30, 2018 (the  2018 second quarter ) compared to $10,872 for
+the three months ended June 30, 2017 (the  2017 second quarter ). The revenue increase for the period was due to the
+increase in steady revenue from fluid sales (including monthly minimum royalties), parts sales, license fees and the additional
+revenue from recurring leased-equipment income.  
+
+Total
+operating expenses increased to $698,487 during the 2018 second quarter compared to $479,412 during the 2017 second quarter. The
+increase during the second quarter of 2018 was primarily due to an increase in personnel, salaries, an increase in audit fees,
+accounting and commercial market development as well as purchases of components and other increased operating necessities. The
+cost of product during this period decreased due to the significantly less expense associated with producing fluids for sale and/or
+royalties from the sale of fluids in comparison to the production of equipment. A large portion of this period s revenue
+was realized from the sale of fluids and from recurring revenue from equipment placed into service in 2017.  
+
+General
+and administrative expenses increased to $613,569 for the 2018 second quarter compared to $327,514 during the 2017 second quarter.
+The increase during the second quarter of 2018 was primarily due to an increase in personnel, salaries, insurance, and other overhead
+expense.  
+
+Research
+and development expenses decreased to $nil for the 2018 second quarter compared to $56,710 during the 2017 second quarter. The
+decrease in research and development expense during the second quarter of 2018 was primarily due to the Company developing most
+of its technologies around the Hydrolyte  technology in the prior periods.  
+
+Depreciation
+and amortization expenses decreased to $80,162 during the 2018 second quarter compared to $87,080 during the 2017 second quarter.
+The decrease was primarily due to a slight decrease in the value of certain intangible assets and the amortization associated
+with the decrease.  
+
+Total
+interest expenses increased to $39,644 during the 2018 second quarter compared to $16,575 during the 2017 second quarter. Total
+interest expense increased during the 2018 second quarter due to a greater number and value of loans in effect during the period.  
+
+As a result of the changes described above,
+net loss increased to $668,059 during the 2018 second quarter compared to $485,115 during the 2017 second quarter. 
+
+Results of Operations for the Six Month
+Periods Ended June 30, 2018 and 2017   
+
+Revenues
+increased to $112,231 for the six months ended June 30, 2018 compared to $22,229 for the six months ended June 30, 2017. The revenue
+increase for the period was due to the increase in steady revenue from fluid sales (including monthly minimum royalties), parts
+sales, license fees and the additional revenue from leasing equipment under contract and the recurring leased-equipment income.  
+
+Total
+operating expenses increased to $1,246,126 during the six months ended June 30, 2018 compared to $1,160,252 during the six month
+period ended June 30, 2017. The increase for the period was primarily due to an increase in personnel, salaries, an increase in
+audit fees, accounting and commercial market development as well as purchases of components and other increased operating necessities.
+The cost of product during this period decreased due to the significantly less expense associated with producing fluids for sale
+and/or royalties from the sale of fluids in comparison to the production of equipment. A large portion of the period s revenues
+during this period were from the sale of fluids and from recurring revenue from equipment placed into service in 2017.  
+
+General
+and administrative expenses increased to $1,058,794 during the six months ended June 30, 2018 compared to $957,579 during the
+six month period ended June 30, 2017. The increase during the period was primarily due to an increase in personnel, salaries,
+insurance, and other overhead expense.  
+
+Research
+and development expenses decreased to $nil for the six months ended June 30, 2018 compared to $69,912 during the six month period
+ended June 30, 2017. The decrease in research and development expense during the period was primarily due to the Company developing
+most of its technologies around the Annihilyzer  and Hydrolyte  systems in the prior periods.  
+
+Depreciation
+and amortization expenses increased to $166,858 during the six month period ended June 30, 2018 compared to $113,424 during the
+six month period ended June 30, 2017, The decrease was primarily due to depreciation as a result of placing equipment into service.  
+
+Total
+interest expenses increased to $65,448 during the six month period ended June 30, 2018 compared to $28,446 during the six month
+period ended June 30, 2017. Total interest expense increased during the 2018 second quarter due to a greater number and value
+of loans in effect during the period.  
+
+As
+a result of the changes described above, net loss from operations after income taxes increased to $1,199,361 during the six month
+period ended June 30, 2018 compared to $1,166,469 during the six month period ended June 30, 2017.  
+
+Off-Balance
+Sheet Arrangements    
+
+We
+have not entered into any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect
+on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures
+or capital resources and would be considered material to investors.  
+
+Critical
+Accounting Policies    
+
+Emerging
+Growth Company   - We qualify as an  emerging growth company  under the recently enacted Jumpstart Our Business
+Startups Act of 2012 (the  JOBS Act ). As a result, we are permitted to, and intend to, rely on exemptions from certain
+disclosure requirements. For so long as we are an emerging growth company, among other things, we will not be required to:  
+
+Have an auditor
+    report on our internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act;   
+
+Submit certain executive
+    compensation matters to stockholder advisory votes, such as  say-on-pay  and  say-on-frequency    
+
+Obtain stockholder
+    approval of any golden parachute payments not previously approved; and   
+
+Disclose certain
+    executive compensation related items such as the correlation between executive compensation and performance and comparisons
+    of the Chief Executives compensation to median employee compensation.   
+
+In
+addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition
+period provided in Section 7(a)(2)(B) of the Securities Act for complying with new or revised accounting standards. In other words,
+an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply
+to private companies. We have elected to take advantage of the benefits of this extended transition period. Our financial statements
+may therefore not be comparable to those of companies that comply with such new or revised accounting standards.  
+
+We
+will remain an  emerging growth company  until the earliest of (i) the last day of the first fiscal year in which
+our total annual gross revenues exceed $1 billion; (ii) the fifth anniversary of our first sale of common equity pursuant to an
+effective registration statement; (iii) the date that we become a  large accelerated filer  as defined in Rule 12b-2
+under the Securities Exchange Act of 1934, which would occur if the market value of our ordinary shares that are held by non-affiliates
+exceeds $700 million as of the last business day of our most recently completed third fiscal quarter; or (iv) the date on which
+we have issued more than $1 billion in non-convertible debt during the preceding three-year period.  
+
+Recent
+Accounting Developments   
+
+The
+Company has reviewed all other FASB issued ASU accounting pronouncements and interpretations thereof that have effective dates
+during the period reported and in future periods. The Company has carefully considered the new pronouncements that alter the previous
+GAAP and do not believe that any new or modified principles will have a material impact on the Company s reported financial
+position or operations in the near term.  
+
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK   
+
+Not
+applicable to smaller reporting companies.  
+
+ITEM
+4. CONTROLS AND PROCEDURES   
+
+Evaluation
+of Disclosure Controls and Procedures    
+
+We
+maintain disclosure controls and procedures (as defined in Rule 13a-15(e) or 15d-15(e) under the Exchange Act) that are designed
+to ensure that information required to be disclosed in our filings under the Exchange Act is recorded, processed, summarized and
+reported within the periods specified in the rules and forms of the SEC. This information is accumulated to allow our management
+to make timely decisions regarding required disclosure. Our President, who serves as our principal executive officer and principal
+financial officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and
+Rule 15d-15(e) of the Exchange Act) as of the end of the period covered by this report. The disclosure controls and procedures
+ensure that all information required to be disclosed by us in the reports that we file or submit under the Exchange Act is: (i)
+recorded, processed, summarized and reported, within the time periods specified in the SEC s rule and forms; and (ii) accumulated
+and communicated to our President as appropriate to allow timely decisions regarding required disclosure. Based on that evaluation,
+our President concluded that as of June 30, 2018, our disclosure controls and procedures were not effective.    
+
+Notwithstanding
+this finding of ineffective disclosure controls and procedures, we concluded that the consolidated financial statements included
+in this Form 10-Q present fairly, in all material respects, our financial position, results of operations and cash flows for the
+periods presented in conformity with accounting principles generally accepted in the United States.  
+
+Changes
+in Internal Control Over Financial Reporting    
+
+Our
+management is responsible to establish and maintain adequate internal control over financial reporting. Our principal executive
+officer is responsible to design or supervise a process that provides reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.
+The policies and procedures include:  
+
+maintenance
+of records in reasonable detail to accurately and fairly reflect the transactions and dispositions of assets,  
+
+  provide
+reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with
+generally accepted accounting principles, and that receipts and expenditures are being made only in accordance with authorizations
+of management and directors, and  
+
+  provide
+reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of assets that could
+have a material effect on our financial statements.  
+
+For
+the period ended June 30, 2018, management has relied on the Committee of Sponsoring Organizations of the Treadway Commission
+(COSO),  Internal Control - Integrated Framework,  to evaluate the effectiveness of our internal control over financial
+reporting. Based upon that framework, our President has determined that our internal control over financial reporting for period
+ended June 30, 2018, the year ended December 31, 2017, was not effective.  
+
+The
+material weaknesses relate to the limited number of persons responsible for the recording and reporting of financial information,
+the lack of separation of financial reporting duties, and the limited size of our management team in general. We are in the process
+of evaluating methods of improving our internal control over financial reporting, including the possible addition of financial
+reporting staff and the increased separation of financial reporting responsibility, and intend to implement such steps as are
+necessary and possible to correct these material weaknesses.  
+
+Our
+management determined that there were no changes made in our internal controls over financial reporting during the second quarter
+of 2018 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.  
+
+Internal
+control systems, no matter how well designed and operated, have inherent limitations.  Therefore, even a system which
+is determined to be effective cannot provide absolute assurance that all control issues have been detected or prevented.  Our
+systems of internal controls are designed to provide reasonable assurance with respect to financial statement preparation and
+presentation.  
+
+PART
+II   OTHER INFORMATION   
+
+ITEM
+1. LEGAL PROCEEDINGS   
+
+We
+may become involved in various routine legal proceedings incidental to our business. To our knowledge as of the date of this Report,
+there are no material pending legal proceedings to which we are a party or to which any of our property is subject.  
+
+ITEM
+1A. RISK FACTORS   
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and, as such, are not required
+to provide the information under this Item. However, we detailed significant business risks in Item 1A to our Form 10-K for
+the year ended December 31, 2017.  
+
+ITEM
+2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS   
+
+On April 10, 2018, the Company sold 120,000
+shares of common stock at $0.50 per share to an employee and Director of the Company, for cash proceeds of $60,000. 
+
+On June 12, 2018, the Company issued 2,000,000
+shares of restricted common stock to a consultant pursuant to a 12-month services agreement dated March 15, 2018. 
+
+On June 12, 2018, the Company entered into
+a 6-month service agreement, expiring on December 12, 2018, for business development and the development of financial reports.
+Per the terms of the agreement, the consulting company was issued 50,000 shares of restricted stock on June 29, 2018. 
+
+The disclosure set forth below under Item
+5 (Other Information) pertaining to the Power Up Notes and Power Up Agreements is incorporated by reference into this Item 2. The
+Power Up Notes described in Item 5 below were issued in reliance upon exemptions from registration pursuant to Section 4(a)(2)
+under the Securities Act of 1933, as amended, and Rule 506 promulgated thereunder. The Power UP Agreements executed in connection
+therewith contains representations to support our reasonable belief that Power Up had access to information concerning our operations
+and financial condition, is acquiring the securities for its own account and not with a view to the distribution thereof, and is
+an  accredited investor  as such term is defined in Rule 501(a) of Regulation D promulgated under the Securities Act.
+At the time of their issuance, the Power Up Notes and any shares of common stock issued upon conversion thereof will be deemed
+to be restricted securities for purposes of the Securities Act and the certificates representing the securities shall bear legends
+to that effect. We have initially reserved 2,630,757 shares of common stock for issuance under the terms of the Power Up Notes. 
+
+ All of the above-described issuances/grants
+were exempt from registration pursuant to Section 4(a)(2) and/or Regulation D of the Securities Act as transactions not involving
+a public offering. With respect to each transaction listed above, no general solicitation was made by either the Company or any
+person acting on its behalf. All such securities issued pursuant to such exemptions are restricted securities as defined in Rule 144(a)(3)
+promulgated under the Securities Act, appropriate legends have been placed on the documents evidencing the securities, and may
+not be offered or sold absent registration or pursuant to an exemption therefrom. 
+
+Issuer
+Purchases of Equity Securities   
+
+We
+did not repurchase any of our equity securities during the quarter ended June 30, 2018.  
+
+ITEM
+3. DEFAULTS UPON SENIOR SECURITIES   
+
+We
+have entered into a number of promissory notes, one of which is in default as of June 30, 2018, or went into default before the
+filing of this Quarterly Report (See Note 6 to the financial statements).  
+
+ITEM
+4. MINE SAFETY DISCLOSURES    
+
+Not
+applicable.  
+
+ITEM
+5. OTHER INFORMATION   
+
+Power Up Notes  
+
+On June 5, 2018 and July 25, 2018 (each a  Closing
+Date ), we completed the sale of two Convertible Promissory Notes (the  Power Up Notes ) in the principal amounts
+of $68,000 and $38,000, respectively, with interest rates of 12% per annum pursuant to the terms of two Securities Purchase Agreements
+between Power Up Lending Group Ltd. ( Power Up ), a Virginia corporation, and us (the  Power Up Agreements ).
+ The Power Up Notes mature on June 5, 2019 and July 25, 2019, respectively (the  Maturity Dates ). We reimbursed
+Power Up $5,000 for its legal fees and paid Power Up a $1,000 due diligence fee, resulting in net proceeds to us from the Power
+Up Notes of $65,000 and $35,000, respectively. 
+
+The Power Up Notes may be prepaid in whole
+or in part, at any time during the period beginning on each Closing Date and ending on the date which is 180 days following the
+issue date, beginning at 112% of the outstanding principal and accrued interest increasing by 5% for every 30 day period thereafter
+until the 180 th  day following the Closing Date. After the expiration of the 180 days following the Closing Date, we
+may not prepay the Note for any reason. 
+
+At any time after 180 days after the date the
+Power Up Notes are issued, the Power Up Notes are convertible into our common stock, at Power Up s option, at a 39% discount
+to the market price, which is defined as 61% of the average of the lowest three (3) closing bid prices for the our common stock
+during the fifteen (15) trading days prior to the conversion date.  The conversion price is subject to proportional adjustment
+in the event of stock splits, stock dividends, and similar corporate events. Further, if we fail to deliver shares to Power Up
+upon conversion through willful or deliberate hindrance on our part we shall pay to Power Up $2,000 in cash per day as liquidated
+damages or, at Power Up s option, such amount being added to the principal amount of the Power Up Notes. 
+
+Power Up has agreed to restrict its ability
+to convert the Power Up Notes and receive shares of common stock such that the number of shares of common stock held by them in
+the aggregate and their affiliates after such conversion or exercise does not exceed 4.99% of the then issued and outstanding shares
+of common stock.  The Power Up Notes are a debt obligation arising other than in the ordinary course of business, which constitutes
+a direct financial obligation of us.  The Power Up Notes also provide for penalties and rescission rights if we do not deliver
+shares of common stock upon conversion within the required timeframes set forth in the Power Up Agreements. We must, at all times,
+reserve six times that number of shares that would be issuable upon full conversion of the Power Up Notes, with an initial reserved
+share amount of 1,592,506 and 1,038,251 shares, respectively. 
+
+The Power Up Notes contain default events which,
+if triggered and not timely cured (if curable), will result in a default payment equal to 150% the amount owed to Power Up and
+a default interest at the rate of 22% per annum. 
+
+The above description of certain material
+terms of the Power Up Notes and Power Up Agreements are not a complete description of all terms of the financing transaction and
+is qualified in its entirety by reference to the Power Up Notes and Power Up Agreements, which are attached hereto as Exhibits
+4.1, 4.2, 10.6 and 10.7, respectively. 
+
+ITEM
+6. EXHIBITS   
+
+Indicates management contract or compensatory plan or arrangement.   
+
+SIGNATURES   
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized.  
+
+BINGHAM CANYON CORPORATION    
+
+Date: August  20, 2018  
+      By:    
+        /s/Gary J. Grieco                 
+
+Gary J. Grieco, Principal Executive Officer   
+
+President and Director   
+
+Principal Financial Officer   
+
+24  
+
+<EX-4.1>
+ 2
+ pctl0819form10qexh4_1.htm
+ EXHIBIT 4.1
+
+Exhibit 4.1  
+
+</EX-4.1>
+
+<EX-4.2>
+ 3
+ pctl0819form10qexh4_2.htm
+ EXHIBIT 4.2
+
+Exhibit 4.2  
+
+</EX-4.2>
+
+<EX-31.1>
+ 4
+ pctl0819form10qexh31_1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1  
+
+PRINCIPAL EXECUTIVE OFFICER CERTIFICATION  
+
+I, Gary J. Grieco, certify that: 
+
+1.  
+      I have reviewed this quarterly report on Form 10-Q of PCT LTD;   
+
+2.  
+      Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statement made, in light of the circumstances under which statements were made, not misleading with respect to the period covered by this report;   
+
+3.  
+      Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report.   
+
+4.  
+      The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a) Designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal
+control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report
+any change in the registrant s internal control over financial reporting that occurred during the registrant s most
+recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.  
+      The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function):   
+
+(a) All significant deficiencies
+and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to
+adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or
+not material, that involves management or other employees who have a significant role in the registrant s internal control
+over financial reporting. 
+
+Date: August 20, 2018  
+
+/s/ Gary J. Grieco             
+         Gary J. Grieco 
+         Principal Executive Officer   
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ pctl0819form10qexh31_2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2  
+
+PRINCIPAL FINANCIAL OFFICER CERTIFICATION  
+
+I, Gary J. Grieco, certify that: 
+
+1.  
+      I have reviewed this quarterly report on Form 10-Q of PCT LTD;   
+
+2.  
+      Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statement made, in light of the circumstances under which statements were made, not misleading with respect to the period covered by this report;   
+
+3.  
+      Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report.   
+
+4.  
+      The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a) Designed such disclosure
+controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal
+control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for
+external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness
+of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report
+any change in the registrant s internal control over financial reporting that occurred during the registrant s most
+recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.  
+      The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function):   
+
+(a) All significant deficiencies
+and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to
+adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or
+not material, that involves management or other employees who have a significant role in the registrant s internal control
+over financial reporting. 
+
+Date: August 20, 2018  
+
+/s/ Gary J. Grieco             
+         Gary J. Grieco 
+         Principal Financial Officer   
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ pctl0819form10qexh32_1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1  
+
+PCT LTD  
+
+CERTIFICATION OF PERIODIC REPORT  
+
+ Pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002 
+
+ 18 U.S.C. Section 1350 
+
+The undersigned executive officer of
+PCT LTD certifies pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 that: 
+
+b.  
+      the information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of PCT LTD.   
+
+Date: August 20, 2018  
+
+/s/ Gary J. Grieco             
+         Gary J. Grieco 
+         Principal Executive Officer 
+         Principal Financial Officer   
+
+</EX-32.1>
+
+<EX-101.INS>
+ 7
+ pctl-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ pctl-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ pctl-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ pctl-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ pctl-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ pctl-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

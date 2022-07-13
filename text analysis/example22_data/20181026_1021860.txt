@@ -1,0 +1,1003 @@
+NITED STATES  
+ SECURITIES AND EXCHANGE COMMISSION  
+ Washington, D.C. 20549  
+   
+ FORM 10-Q  
+   
+ (Mark one) 
+
+FOR THE QUARTERLY PERIOD ENDED  September 30, 2018   
+ OR  
+
+Commission File Number 1-12317  
+   
+ NATIONAL OILWELL VARCO, INC.  
+ (Exact name of registrant as specified in its charter)  
+
+Delaware  
+ 
+ 76-0475815  
+
+(State or other jurisdiction of 
+ incorporation or organization)  
+ 
+ (I.R.S. Employer 
+ Identification No.)  
+
+7909 Parkwood Circle Drive  
+ Houston, Texas  
+ 77036-6565  
+ (Address of principal executive offices)  
+ (713) 346-7500  
+ (Registrant s telephone number, including area code)  
+   
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes           No         
+ Indicate by check mark whether the registrant has submitted electronically, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes           No         
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer ,  accelerated filer ,  smaller reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act. (Check one):  
+
+Large accelerated filer  
+
+Accelerated filer   
+
+Non-accelerated filer    
+
+Smaller reporting company  
+
+Emerging growth company  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.        
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes       No       
+ As of October 19, 2018 the registrant had 383,366,548 shares of common stock, par value $0.01 per share, outstanding.  
+
+PART I - FINANCIAL INFORMATION   
+ Item 1. Financial Statements  
+ NATIONAL OILWELL VARCO, INC.  
+ CONSOLIDATED BALANCE SHEETS (UNAUDITED) 
+ (In millions, except share data)  
+
+See notes to unaudited consolidated financial statements.  
+   
+ 2  
+
+NATIONAL OILWELL VARCO,   INC.  
+ CONSOLIDATED STATEMENTS OF INCOME (LOSS) (UNAUDITED)  
+ (In millions, except per share data)  
+
+See notes to unaudited consolidated financial statements.  
+   
+ 3  
+
+NATIONAL OILWELL VARCO, INC.   
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) (UNAUDITED)  
+ (In millions)  
+
+See notes to unaudited consolidated financial statements.  
+   
+ 4  
+
+NATIONAL OILWELL VARCO, INC.   
+ CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)  
+ (In millions)  
+
+See notes to unaudited consolidated financial statements.  
+   
+ 5  
+
+NATIONAL OILWELL VARCO, INC.  
+ Notes to Consolidated Financial Statements (Unaudited)  
+
+1.   
+ 
+   Basis of Presentation     
+
+ The preparation of financial statements in conformity with generally accepted accounting principles ( GAAP ) in the United States requires management to make estimates and assumptions that affect reported and contingent amounts of assets and liabilities as of the date of the financial statements and reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.  
+ The accompanying unaudited consolidated financial statements of National Oilwell Varco, Inc. ( NOV  or the  Company ) present information in accordance with GAAP in the United States for interim financial information and the instructions to Form 10-Q and applicable rules of Regulation S-X. They do not include all information or footnotes required by GAAP in the United States for complete consolidated financial statements and should be read in conjunction with the Company s 2017 Annual Report on Form 10-K.  
+ In our opinion, the consolidated financial statements include all adjustments, which are of a normal recurring nature unless otherwise disclosed, necessary for a fair presentation of the results for the interim periods. Certain reclassifications have been made to the prior year financial statements in order for them to conform with the current presentation. The results of operations for the three and nine months ended September 30, 2018 are not necessarily indicative of the results to be expected for the full year.  
+ Fair Value of Financial Instruments  
+ The carrying amounts of cash and cash equivalents, receivables, and payables approximated fair value because of the relatively short maturity of these instruments. Cash equivalents include only those investments having a maturity date of three months or less at the time of purchase. See Note 7 for the fair value of long-term debt and Note 10 for the fair value of derivative financial instruments.  
+
+2.   
+ 
+   Inventories, net     
+
+ Inventories consist of (in millions):  
+
+3.   
+ 
+   Accrued Liabilities     
+
+ Accrued liabilities consist of (in millions):  
+
+6  
+
+Warranties   
+   
+ The Company provides warranties on certain of its products and services. The Company accrues warranty liability based upon specific claims and a review of historical claim experience in accordance with Accounting Standards Codification ( ASC ) Topic 450  Contingencies . Adjustments are made to accruals as claim data and historical experience change. In addition, the Company incurs discretionary costs to service its products in connection with product performance issues and accrues for them when they are encountered.  
+   
+   The changes in the warranty provision are as follows (in millions):  
+
+4.   
+ 
+   Accumulated Other Comprehensive Income (Loss)     
+
+ The components of accumulated other comprehensive income (loss) are as follows (in millions):  
+
+The components of amounts reclassified from accumulated other comprehensive income (loss) are as follows (in millions):  
+
+The Company s reporting currency is the U.S. dollar. For a majority of the Company s international entities in which there is a substantial investment, the local currency is their functional currency. As a result, currency translation adjustments resulting from the  
+ 7 
+
+process of translating the entities  financial statements into the reporting currency are reported in other comprehensive income or loss in accordance with ASC Topic 830  Foreign Currency Matters  ( ASC   Topic 830 ). For the three and nine months ended September 30, 2018, a majority of these local currencies weakened against the U.S. dollar resulting in net other comprehensive losses of $32 million and $219 million, respectively, upon the translation from   local currencies to the U.S. dollar.     For the three and nine months ended September 30, 2017, a majority of these local currencies strengthened against the U.S. dollar resulting in net other comprehensive income of $124 million and $290 million, respective  ly, upon the translation from local currencies to the U.S. Due to the sale of a non-core industrial business, $6 million of currency translation losses were reclassified from accumulated other comprehensive income (loss) into other income (expense), net in   the Consolidated Statements of Income for the three and nine months ended September 30, 2018.   
+ The effect of changes in the fair values of derivatives designated as cash flow hedges are accumulated in other comprehensive income or loss, net of tax, until the underlying transactions they hedge are realized. The movement in other comprehensive income or loss from period to period will be the result of the combination of changes in fair value of open derivatives and the outflow of other comprehensive income or loss related to cumulative changes in the fair value of derivatives that have settled in the current period. The accumulated effect was other comprehensive income of $2 million (net of tax of $0) and $1 million (net of tax of $0) for the three and nine months ended September 30, 2018, respectively. The accumulated effect was other comprehensive income of $25 million (net of tax of $8 million) and $53 million (net of tax of $15 million) for the three and nine months ended September 30, 2017, respectively.  
+
+5.   
+ 
+ Business Segments     
+
+ Operating results by segment are as follows (in millions):  
+
+Sales from one segment to another generally are priced at estimated equivalent commercial selling prices; however, segments originating an external sale are credited with the full profit to the Company. Eliminations include intercompany transactions conducted between the three reporting segments that are eliminated in consolidation. Intrasegment transactions are eliminated within each segment.  
+   Included in operating profit (loss) are other items primarily related to costs associated with severance, facility closures, and credits for the reversals of certain accruals. 
+ 8  
+
+6.   
+ 
+      Revenue Recognition      
+
+ The Company s products and services are sold based upon purchase orders or other contracts with customers that include fixed or determinable prices and do not generally include right of return or other significant post-delivery obligations. The majority of our revenue streams record revenue at a point in time when a performance obligation has been satisfied by transferring control of promised goods or services to the customer. Revenue is recognized net of any taxes collected from customers, which are subsequently remitted to governmental authorities.    
+ Payment terms and conditions vary by contract type. The Company s contracts are structured to align milestone billings with progress and revenue recognition, so generally do not include a financing component.   We have elected to apply the practical expedient that does not require an adjustment for a financing component if, at contract inception, the period between when we transfer the promised goods or service to the customer and when the customer pays for the goods or service is one year or less.   
+ The Company elects to treat shipping and handling costs as costs to fulfill a performance obligation instead of as a separate performance obligation. We recognize the cost for shipping and handling when incurred, generally when control over the products has transferred to the customer, as an expense in cost of sales. 
+ Our contracts with customers often include promises to transfer multiple products and services. Determining whether products and services are considered distinct performance obligations that should be accounted for separately, versus together, may require significant judgment. We consider the degree of customization, integration and interdependency of the related products and services when assessing distinctness. 
+ Judgment is also required to determine the stand-alone selling price ( SSP ) for each distinct performance obligation. To determine the SSP, the Company uses the price at which the products and services would be sold separately to the customer. We also review past sales transactions to confirm that invoice prices for each distinct performance obligation reasonably approximate SSP and that there are no significant deviations. A discount, when provided, is also allocated based on the relative SSP of the various products and services.   
+ We may provide other credits or incentives, which are accounted for as variable consideration when determining the transaction price. These credits or incentives are estimated at contract inception and recognized only to the extent that it is probable that a significant reversal of any incremental revenue will not occur. The estimates are updated each reporting period as additional information becomes available. 
+ For revenue that is not recognized at a point in time, the Company follows accounting guidance for revenue recognized over time, as follows: 
+ Revenue Recognition under Long-term Construction Contracts  
+ The Company uses the over-time method to account for certain long-term construction contracts in the Completion   Production Solutions and Rig Technologies segments. These long-term construction contracts include the following characteristics:   
+
+the contracts include custom designs for customer-specific applications;      
+
+the structural design is unique and requires significant engineering efforts; and     
+
+the Company has an enforceable right to payment for performance completed to date, including a reasonable profit.     
+
+ Because of control transferring over time, revenue is recognized based on the extent of progress towards completion of the performance obligation. We generally use the cost-to-cost (input) measure of progress for our contracts because it best depicts the transfer of assets to the customer which occurs as we incur costs. Under the cost-to-cost measure of progress, the extent of progress towards completion is measured based on the ratio of costs incurred to date to the total estimated costs at completion of the performance obligation. Revenues, including estimated fees or profits, are recorded proportionally as costs are incurred. These costs include labor, materials, subcontractors  costs, and other direct costs. If estimates of total costs to be incurred on a performance obligation exceed total estimates of revenue to be earned, a provision for the entire loss on the performance obligation is recognized in the period the loss is determined. 
+ Our long-term construction contracts generally include a significant service of integrating a complex set of tasks and components into a single project or capability, so are accounted for as one performance obligation. 
+ 9  
+
+Estimating total revenue and cost at completion of long-term construction contracts is complex, subject to many varia  bles and requires significant judgment. It is common for our long-term contracts to contain late delivery fees, work performance guarantees, and other provisions that can either increase or decrease the transaction price. We estimate variable consideration   as the most likely amount we expect to receive. We include variable consideration in the estimated transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur, or when the uncertainty associat  ed with the variable consideration is resolved. Our estimates of variable consideration and determination of whether to include estimated amounts in the transaction price are based on an assessment of our anticipated performance and historical, current and   forecasted information that is reasonably available to us. Net revenue recognized from performance obligations satisfied in previous periods was $56 million for the nine months ended September 30, 2018 primarily due to change orders.  
+ Service and Repair Work 
+ For service contracts, we generally use the output method to measure progress due to the manner in which the customer receives and derives value from the services provided. For repair contracts, we generally use the cost-to-cost measure of progress because it best depicts the transfer of assets to the customer.  
+ Remaining Performance Obligations 
+ Remaining performance obligations represents the transaction price of firm orders for all revenue streams for which work has not been performed on contracts with an original expected duration of one year or more. We do not disclose the remaining performance obligations of royalty contracts, service contracts for which there is a right to invoice, and short-term contracts that are expected to have a duration of one year or less. 
+ As of September 30, 2018, the aggregate amount of the transaction price allocated to remaining performance obligations was $2,147 million. The Company expects to recognize approximately $408 million in revenue for the remaining performance obligations in 2018 and $1,739 million in 2019 and thereafter.   
+ Costs to Obtain and Fulfill a Contract 
+ We recognize an asset for the incremental costs of obtaining a contract, such as sales commissions, with a customer when we expect the benefit of those costs to be longer than one year. Costs to fulfill a contract, such as set-up and mobilization costs, are also capitalized when we expect to recover those costs. These contract costs are deferred and amortized over the period of contract performance. Total capitalized costs to obtain and fulfill a contract and the related amortization were immaterial during the periods presented and are included in other current and long-term assets on our consolidated balance sheets. We apply the practical expedient to expense costs as incurred for costs to obtain a contract with a customer when the amortization period would have been one year or less.  
+ Disaggregation of Revenue 
+ The following tables disaggregate our revenue by destinations, as we believe it best depicts how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors. In the tables below, North America includes only the U.S. and Canada. (in millions): 
+
+10  
+
+Contract Assets and Liabilities 
+ Contract assets include unbilled amounts resulting from sales under long-term contracts when the cost-to-cost method of revenue recognition is utilized and revenue recognized exceeds the amount billed to the customer, and right to payment is not only subject to the passage of time. There were no impairment losses recorded on contract assets for the periods ending September 30, 2018 or 2017.   
+ Contract liabilities consist of advance payments, billings in excess of revenue recognized and deferred revenue. For the balance at December 31, 2017, we reclassified $240 million of advance payments and deferred revenue from accrued liabilities to contract liabilities to conform with the 2018 presentation. 
+ The changes in the carrying amount of contract assets and contract liabilities are as follows (in millions): 
+
+11  
+
+Debt consists of (in millions):  
+
+The Company has a $3.0 billion, five-year unsecured revolving credit facility, which expires on June 27, 2022. The Company has the right to increase the aggregate commitments under this agreement to an aggregate amount of up to $4.0 billion upon the consent of only those lenders holding any such increase. Interest under the multicurrency facility is based upon LIBOR, NIBOR or CDOR plus 1.125% subject to a ratings-based grid or the U.S. prime rate. The credit facility contains a finan  cial covenant regarding maximum debt-to-capitalization ratio of 60%. As of September 30, 2018, the Company was in compliance with a debt-to-capitalization ratio of 16.3%. 
+   The Company has a commercial paper program under which borrowings are classified as l  ong-term since the program is supported by the $3.0 billion, five-year credit facility. At September 30, 2018, there were no commercial paper borrowings, and there were no outstanding letters of credit issued under the credit facility, resulting in $3.0 billion of funds available under this credit facility.  
+   The Company had $471 million of outstanding letters of credit at September 30, 2018, primarily in the U.S. and Norway, that are under various bilateral letter of credit facilities. Letters of credit are issued as bid bonds, advanced payment bonds and performance bonds. 
+   At September 30, 2018 and December 31, 2017, the fair value of the Company s unsecured Senior Notes approximated $2,287 million and $2,346 million, respectively. The fair value of the Company s debt is estimated using Level 2 inputs in the fair value hierarchy and is based on quoted prices for those or similar instruments. At September 30, 2018 and December 31, 2017, the carrying value of the Company s unsecured Senior Notes approximated $2,482 million and $2,480 million, respectively. 
+
+8.   
+ 
+     Income Taxes     
+
+ The Tax Cuts and Jobs Act (the  Act ) was enacted on December 22, 2017. The Act reduced the U.S. federal corporate tax rate from 35% to 21%, effective January 1, 2018. At September 30, 2018 and December 31, 2017, we had not completed our accounting for the tax effects of enactment of the Act; however, in certain cases, as described below, we made reasonable estimates of the effects and recorded provisional amounts. We will continue to make and refine our calculations as additional analysis is completed. We have not recorded any significant changes in 2018. We recognized an income tax benefit of $242 million in the year ended December 31, 2017 associated with the revaluation of our net deferred tax liability. Our provisional estimate of the one-time transition tax resulted in no additional tax expense. Our provisional estimate on Global Intangible Low Taxed Income ( GILTI ), Foreign Derived Intangible Income ( FDII ), Base Erosion and Anti-Abuse Tax ( BEAT ), and IRC Section 163(j) interest limitation do not impact our effective tax rate for the three and nine months ended September 30, 2018. The accounting for the tax effects of the Act will be finalized in the fourth quarter of 2018 as permitted by the U.S. Securities and Exchange Commission s SAB No. 118, Income Tax Accounting Implications of the Tax Cuts and Jobs Act.     
+ 12  
+
+The provision (benefit) for income taxes for the three and nine months ended September 30, 2018 were   $29 million and $37 million, respectively, compared to ($13 million) and ($43 million) for the same periods in 2017. The Company established valuation allowances on deferred tax assets for losses and tax credits generated in each period which resulted in a   corresponding tax charge. The change in tax provision (benefit) from 2017 to 2018 was also impacted by the decrease in the U.S. federal corporate tax rate from 35% in 2017 to 21% in 2018.  
+ The balance of unrecognized tax benefits at September 30, 2018 was $92 million. The settlement of a foreign jurisdiction audit resulted in a decrease in uncertain tax positions during the year.    
+ For the three and nine months ended September 30, 2018, the Company utilized the discrete-period method to compute its interim tax provision due to significant variations in the relationship between income tax expense and pre-tax accounting income or loss. For the three and nine months ended September 30, 2017, the Company estimated and recorded tax based on a full year effective tax rate. 
+
+9.   
+ 
+   Stock-Based Compensation    
+
+ The Company has a stock-based compensation plan known as the National Oilwell Varco, Inc. Long-Term Incentive Plan (the  Plan ). The Plan provides for the granting of stock options, performance-based share awards, restricted stock, phantom shares, stock payments and stock appreciation rights ( SARs ). The number of shares authorized under the Plan is 69.4 million. The Plan is subject to a fungible ratio concept, such that the issuance of stock options and SARs reduces the number of available shares under the Plan on a 1-for-1 basis, and the issuance of other awards reduces the number of available shares under the Plan on a 3-for-1 basis. At September 30, 2018, 10,253,618 shares remain available for future grants under the Plan, all of which are available for grants of stock options, performance-based share awards, restricted stock awards, phantom shares, stock payments and SARs.  
+ On February 28, 2018, the Company granted 1,610,599 stock options with a fair value of $10.01 per share and an exercise price of $35.09 per share; 2,391,933 shares of restricted stock and restricted stock units with a fair value of $35.09 per share; performance share awards to senior management employees with potential payouts varying from zero to 449,532 shares; and 14,228 SARs. The stock options vest over a three-year period from the grant date. The restricted stock and restricted stock units vest in three equal annual installments commencing on the first anniversary of the grant date. The performance share awards can be earned based on performance against established goals over a three-year performance period. The performance share awards are based entirely on a TSR (total shareholder return) goal. Performance against the TSR goal is determined by comparing the performance of the Company s TSR with the TSR performance of the members of the OSX (Oil Service Sector) index for the three-year performance period.  
+ The Company s other stock-based compensation plan, known as the National Oilwell Varco, Inc. 2018 Long-Term Incentive Plan (the  2018 Plan ), was approved by shareholders on May 11, 2018. The 2018 Plan provides for the granting of stock options, restricted stock, restricted stock units, performance awards, phantom shares, stock appreciation rights, stock payments and substitute awards. The number of shares authorized under the 2018 Plan is 17.8 million. The 2018 Plan is also subject to a fungible ratio concept, such that the issuance of stock options and SARs reduces the number of available shares under the 2015 Plan on a 1-for-1 basis, and the issuance of other awards reduces the number of available shares under the 2018 Plan on a 2.5-for-1 basis. At September 30, 2018, 17,709,906 shares remain available for future grants under the 2018 Plan. On May 11, 2018, the Company granted 35,432 restricted stock awards under the 2018 Plan with a fair value of $40.65 per share. The awards were granted to non-employee members of the board of directors and vest on the first anniversary of the grant date. 
+ Total stock-based compensation for all stock-based compensation arrangements under the Plan and the 2018 Plan was $30 million and $88 million for the three and nine months ended September 30, 2018, respectively, and $33 million and $85 million for the three and nine months ended September 30, 2017, respectively. The total income tax benefit recognized in the Consolidated Statements of Income (Loss) for all stock-based compensation arrangements under the Plan and the 2018 Plan was $6 million and $12 million for the three and nine months ended September 30, 2018, respectively, and $9 million and $18 million for the three and nine months ended September 30, 2017, respectively. 
+
+10.   
+ 
+   Derivative Financial Instruments     
+
+ The Company uses derivative instruments to manage foreign currency exchange rate risk. Forward contracts against various foreign currencies are entered into to manage the foreign currency exchange rate risk on forecasted revenues and expenses denominated in currencies other than the functional currency of the operating unit (cash flow hedge). In addition, the Company will enter into non-designated forward contracts against various foreign currencies to manage the foreign currency exchange rate risk on non-functional-currency monetary accounts (non-designated hedge).  
+   The Company records all derivative financial instruments at their fair value in its Consolidated Balance Sheet. Except for certain non-designated hedges discussed below, all derivative financial instruments that the Company holds are designated as cash flow hedges  
+ 13 
+
+and are highly effective in offsetting movements in the underlying risks. Such arrangements typically have terms between 2 and 24 months, but may have longer terms depending on the underlying cash flows being hedged, typically rel  ated to the projects in our backlog. The Company may also use interest rate contracts to mitigate exposure to changes in interest rates on anticipated long-term debt issuances.   
+ At September 30, 2018, the Company has determined that the fair value of its derivative financial instruments representing assets of $18 million and liabilities of $16 million (primarily currency related derivatives) are determined using level 2 inputs (inputs other than quoted prices in active markets for identical assets and liabilities that are observable either directly or indirectly for substantially the full term of the asset or liability) in the fair value hierarchy as the fair value is based on publicly available foreign exchange and interest rates at each financial reporting date. At September 30, 2018, the net fair value of the Company s foreign currency forward contracts totaled a net asset of $2 million.  
+ At September 30, 2018, the Company did not have any interest rate contracts and its financial instruments do not contain any credit-risk-related or other contingent features that could cause accelerated payments when the Company s financial instruments are in net liability positions. The Company does not use derivative financial instruments for trading or speculative purposes.  
+ Cash Flow Hedging Strategy  
+ To protect against the volatility of forecasted foreign currency cash flows resulting from forecasted revenues and expenses, the Company has instituted a cash flow hedging program. The Company hedges portions of its forecasted revenues and expenses denominated in non-functional currencies with forward contracts. When the U.S. dollar strengthens or weakens against the foreign currencies, the change in present value of future foreign currency revenues and expenses is offset by changes in the fair value of the forward contracts designated as hedges.  
+ For derivative instruments that are designated and qualify as a cash flow hedge (i.e., hedging the exposure to variability in expected future cash flows that is subject to a particular currency risk), the effective portion of the gain or loss on the derivative instrument is reported as a component of other comprehensive income (loss) and reclassified into earnings in the same line item associated with the forecasted transaction and in the same period or periods during which the hedged transaction affects earnings (e.g., in  revenues  when the hedged transactions are cash flows associated with forecasted revenues). The remaining gain or loss on the derivative instrument in excess of the cumulative change in the present value of future cash flows of the hedged item, if any (i.e., the ineffective portion), or hedge components excluded from the assessment of effectiveness, is recognized in the Consolidated Statements of Income (Loss) during the current period.  
+ For the nine months ended September 30, 2018, the Company recognized a gain of $2 million as a result of the discontinuance of certain cash flow hedges when it became probable that the original forecasted transactions would not occur by the end of the originally specified time period. At September 30, 2018, there were $10 million in pre-tax losses recorded in accumulated other comprehensive income (loss). Significant changes in forecasted operating levels or delays in large capital construction projects, whereby certain hedged transactions associated with these projects are no longer probable of occurring by the end of the originally specified time period, could result in losses or gains due to the de-designation of existing hedge contracts.  
+ The Company had the following outstanding foreign currency forward contracts to hedge non-functional currency cash flows from forecasted revenues and expenses (in millions):  
+
+Non-designated Hedging Strategy  
+   The Company enters into foreign currency forward contracts to hedge certain non-functional currency monetary accounts. The purpose of the Company s foreign currency hedging activities is to protect the Company from risk that the eventual U.S. dollar  
+ 14 
+
+equivalent cash flows from the non-functional currency monetary accounts will be adversely affected by changes in the exchange rates.   
+ For derivative instruments that are non-designated, the gain or loss on the derivative instrument subject to the hedged risk (i.e., non-functional currency monetary accounts) is recognized in the Consolidated Statements of Income (Loss).  
+ The Company had the following outstanding foreign currency forward contracts that hedge the fair value of non-functional currency monetary accounts (in millions):  
+
+The Company has the following gross fair values of its derivative instruments and their balance sheet classifications:  
+
+15  
+
+The Effect of Derivative Instruments on the Consolidated Statements of Income ($ in millions)  
+
+Location of Gain (Loss)  
+
+Amount of Gain (Loss)  
+
+Location of Gain (Loss)  
+
+Amount of Gain (Loss)  
+
+Recognized in Income on  
+
+Recognized in Income on  
+
+Derivatives in  
+
+Amount of Gain (Loss)  
+
+Reclassified from  
+
+Reclassified from  
+
+Derivative (Ineffective  
+
+Derivative (Ineffective  
+
+ASC Topic 815  
+
+Recognized in  
+
+Accumulated  
+
+Accumulated OCI  
+
+Portion and Amount  
+
+Portion and Amount  
+
+Cash Flow Hedging  
+
+OCI on Derivative  
+
+OCI into Income  
+
+into Income  
+
+Excluded from  
+
+Excluded from  
+
+Relationships  
+
+(Effective Portion) (a)  
+
+(Effective Portion)  
+
+(Effective Portion)  
+
+Effectiveness Testing)  
+
+Effectiveness Testing) (b)  
+
+Nine Months Ended  
+
+Nine Months Ended  
+
+Nine Months Ended  
+
+September 30,  
+
+September 30,  
+
+September 30,  
+
+2018  
+
+2017  
+
+2018  
+
+2017  
+
+2018  
+
+2017  
+
+Revenue  
+
+6  
+
+Cost of revenue  
+
+1  
+
+10  
+
+Foreign exchange 
+    contracts  
+
+4  
+
+67  
+
+Cost of revenue  
+
+2  
+
+(18  
+ 
+ )  
+
+Other income(expense), net  
+
+(5  
+ 
+ )  
+
+4  
+
+Total  
+
+4  
+
+67  
+
+2  
+
+(12  
+ 
+ )  
+
+(4  
+ 
+ )  
+
+14  
+
+Derivatives Not Designated as  
+
+Location of Gain (Loss)  
+
+Amount of Gain (Loss)  
+
+Hedging Instruments under  
+
+Recognized in Income  
+
+Recognized in Income on  
+
+ASC Topic 815  
+
+on Derivative  
+
+Derivative  
+
+Nine Months Ended  
+
+September 30,  
+
+2018  
+
+2017  
+
+Foreign exchange contracts  
+
+Other income (expense), net  
+
+(11  
+ 
+ )  
+
+65  
+
+Total  
+
+(11  
+ 
+ )  
+
+65  
+
+(a) The Company expects that $8 million of the accumulated other comprehensive income (loss) will be reclassified into earnings within the next twelve months with an offset by losses from the underlying transactions resulting in no impact to earnings or cash flow. 
+ (b) The amount of gain (loss) recognized in income includes $1 million and $10 million related to the ineffective portion of the hedging relationships for the nine months ended September 30, 2018 and 2017, respectively, and $(5) million and $4 million related to the amount excluded from the assessment of the hedge effectiveness for the nine months ended September 30, 2018 and 2017, respectively. 
+
+11.   
+ 
+   Net Income (Loss) Attributable to Company Per Share     
+
+ The following table sets forth the computation of weighted average basic and diluted shares outstanding (in millions, except per share data):  
+
+16  
+
+ASC Topic 260,  Earnings Per Share  requires companies with unvested part  icipating securities to utilize a two-class method for the computation of net income attributable to Company per share. The two-class method requires a portion of net income attributable to Company to be allocated to participating securities, which are unv  ested awards of share-based payments with non-forfeitable rights to receive dividends or dividend equivalents, if declared. Net income (loss) attributable to Company allocated to these participating securities was immaterial for the three and nine months e  nded September 30, 2018 and 2017 and therefore not excluded from net income attributable to Company per share calculation.   
+ The Company had stock options outstanding that were anti-dilutive totaling 11 million shares and 17 million shares for each of the three and nine months ended September 30, 2018, and 17 million shares and 13 million shares for each of the three and nine months ended September 30, 2017, respectively.  
+
+On August 16, 2018, the Company s Board of Directors approved a cash dividend of $0.05 per share. The cash dividend was paid on September 28, 2018, to each stockholder of record on September 14, 2018. Cash dividends were $19 million and $57 million for the three and nine months ended September 30, 2018, respectively, and $19 million and $57 million for the three and nine months ended September 30, 2017. The declaration and payment of future dividends is at the discretion of the Company s Board of Directors and will be dependent upon the Company s results of operations, financial condition, capital requirements and other factors deemed relevant by the Company s Board of Directors.  
+
+13.   
+ 
+   Commitments and Contingencies     
+
+ Our business is affected both directly and indirectly by governmental laws and regulations relating to the oilfield service industry in general, as well as by environmental and safety regulations that specifically apply to our business. Our business is also subject to trade regulations that may restrict or prohibit trade with certain countries, companies and/or individuals, for example, trade sanctions applicable, to Russia, Syria and Iran. Although we have not incurred material costs in connection with our compliance with such laws, there can be no assurance that other developments, such as new environmental laws, regulations and enforcement policies may not result in additional, presently unquantifiable, costs or liabilities to us. We are also subject to increasing local content and localization requirements in various jurisdictions, as well as increasing trade tariffs, retaliatory tariffs and other trade controversies, all of which could result in material negative impacts to our business.  
+ The Company is involved, from time to time, in internal and regulatory investigations, regulatory agency audits and pending or threatened legal actions, arbitration and litigation involving a variety of matters. In many instances, the Company maintains insurance that covers claims arising from risks associated with the business activities of the Company, including claims for injuries to third parties and third parties  property, e.g., premises liability, product liability and other such claims. The Company carries substantial insurance to cover such risks above a self-insured retention. The Company believes, and the Company s experience has been that such insurance has been sufficient to cover such risks. See Item 1A. Risk Factors. If, however, such insurance was inapplicable or insufficient to cover such losses, there could be material negative impacts to our business. 
+ The Company is also a party to claims, threatened and actual litigation, governmental regulatory proceedings and private arbitration arising from ordinary day to day business activities,  in which parties assert claims against the Company for a broad spectrum of potential liabilities, including: individual employment law claims, collective actions under federal employment laws, intellectual property claims, e.g., alleged patent infringement, and/or misappropriation of trade secrets, premises liability claims, personal injuries arising from allegedly defective products, alleged breach of warranty, improper payments under anti-corruption and anti-bribery laws and other commercial claims seeking recovery for alleged actual or exemplary damages. In currently pending litigation and arbitrations, adverse parties have asserted damages in material amounts for which they seek recovery from the Company.  Due to the inherent risks and uncertainty of litigation, an unexpected adverse result may occur from time to time. For many such contingent claims, the Company s insurance coverage is inapplicable or an exclusion to coverage may apply. In such instances, settlement or other resolution of such contingent claims could have a material financial or reputational impact on the Company. 
+ As of September 30, 2018, the Company recorded reserves in an amount believed to be sufficient for contingent liabilities representing all contingencies believed to be probable to cover such liabilities. The Company has also assessed the potential for additional losses above the amounts accrued as well as potential losses for matters that are not probable but are reasonably possible.  The total potential loss on these matters cannot be determined; however, in our opinion, any ultimate liability, to the extent not otherwise provided for and except for the specific cases referred to above, will not materially affect our financial position, cash flow or results of operations. These estimated liabilities are based on the Company s assessment of the nature of these matters, their progress toward resolution, the advice of legal counsel and outside experts as well as management s intention and experience.  
+ 17  
+
+Further, in some instances, direct or indirect consumers of our products and services, entities providing fi  nancing for purchases of our products and services or members of the supply chain for our products and services have become involved in governmental investigations, internal investigations, political or other enforcement matters. In such circumstances, suc  h investigations may adversely impact the ability of consumers of our products, entities providing financial support to such consumers or entities in the supply chain to timely perform their business plans or to timely perform under agreements with us. We   may also become involved in these investigations, at substantial cost to the Company.    
+
+14.   
+ 
+   New Accounting Pronouncements    
+
+ Recently Adopted Accounting Standards 
+   In March 2017, the FASB issued Accounting Standard Update No. 2017-07  Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost  (ASU 2017-07). This update requires that an employer report the service cost compon  ent in the same line item as other compensation costs and separately from other components of net benefit cost. ASU 2017-07 is effective for fiscal periods beginning after December 15, 2017, and for interim periods within those fiscal years. The Company adopted this update on January 1, 2018 with no material impact.  
+   In August 2016, the FASB issued Accounting Standard Update No. 2016-15  Classification of Certain Cash Receipts and Cash Payments  (ASU 2016-15). This update amends Accounting Standard Codification Topic No. 230  Statement of Cash Flows  and provides guidance and clarification on presentation of certain cash flow issues. ASU No. 2016-15 is effective for fiscal years beginning after December 15, 2017, and for interim periods within those fiscal y  ears. The Company adopted this update on January 1, 2018 with no material impact. 
+ In May 2014, the FASB issued Accounting Standard Update No. 2014-09,  Revenue from Contracts with Customers  (ASU 2014-09), which supersedes the revenue recognition requirements in FASB ASC Topic 605,  Revenue Recognition,  and most industry-specific guidance. This ASU proscribes a five-step model for determining when and how revenue is recognized. Under the model, an entity will recognize revenue to depict the transfer of goods or services to a customer at an amount reflecting the consideration it expects to receive in exchange for those goods or services.  
+ ASU 2014-09 is effective for fiscal periods beginning after December 15, 2017. The Company adopted this update on January 1, 2018, using the modified retrospective approach, in which an immaterial cumulative effect adjustment was made to retained earnings.  The adoption of ASU 2014-09 did not have a material impact on the Company s consolidated financial position, results of operations, equity or cash flows as of the adoption date or for the nine months ended September 30, 2018. See Note 6 for additional details of the Company s revenue recognition policies.  
+ Recently Issued Accounting Standards    
+ In August 2017, the FASB issued Accounting Standard Update No. 2017-12  Derivatives and Hedging   Targeted Improvements to Accounting for Hedging Activities  (ASU 2017-12). This update improves the financial reporting of hedging relationships and simplifies the application of the hedge accounting guidance. ASU 2017-12 is effective for fiscal periods beginning after December 15, 2018, and for interim periods within those fiscal years. Early adoption is permitted in any interim period after issuance of ASU 2017-12. The Company is currently assessing the impact of the adoption of ASU No. 2017-12 on its consolidated financial position and results of operations. 
+ In March 2016, the FASB issued ASC Topic 842,  Leases  (ASC Topic 842), which supersedes the lease requirements in ASC Topic No. 840  Leases  and most industry-specific guidance. This update increases transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. ASC Topic 842 is effective for fiscal years beginning after December 15, 2018, and for interim periods within those fiscal years.  
+ The Company s internal team, assisted by a top-tier accounting and consulting firm, has implemented and is testing new software, processes, procedures and controls to correctly account for leases under the new requirements. We currently estimate implementing ASC Topic 842 in the first quarter of 2019 will gross-up the Company s balance sheet with additional assets and liabilities in the range of approximately $500 to $750 million. Implementing the new standard will not affect the Company s compliance with the debt-to-capitalization covenant of our $3 billion revolving credit facility (see Note 7) because that agreement grandfathers the prior treatment of operating leases for purposes of the calculation.  
+   
+ 18  
+
+Item 2.    Management s Discussion and Analysis of Financial Condition and Results of Operations   
+ Introduction  
+ National Oilwell Varco, Inc. (the  Company ) is a leading independent provider of equipment and technology to the upstream oil and gas industry. The Company designs, manufactures and services a comprehensive line of drilling and well servicing equipment; sells and rents drilling motors, specialized downhole tools, and rig instrumentation; performs inspection and internal coating of oilfield tubular products; provides drill cuttings separation, management and disposal systems and services; and provides expendables and spare parts used in conjunction with the Company s large installed base of equipment. The Company also manufactures coiled tubing and high-pressure fiberglass and composite tubing, and sells and rents advanced in-line inspection equipment to makers of oil country tubular goods. The Company has a long tradition of pioneering innovations which improve the cost-effectiveness, efficiency, safety, and environmental impact of oil and gas operations. 
+ Unless indicated otherwise, results of operations are presented in accordance with accounting principles generally accepted in the United States ( GAAP ). Certain reclassifications have been made to the prior year financial statements in order for them to conform with the 2018 presentation. The Company discloses Adjusted EBITDA (defined as Operating Profit excluding Depreciation, Amortization and, when applicable, Other Items) in its periodic earnings press releases and other public disclosures to provide investors additional information about the results of ongoing operations. See Non-GAAP Financial Measures and Reconciliations in Results of Operations for an explanation of our use of non-GAAP financial measures and reconciliations to their corresponding measures calculated in accordance with GAAP.  
+ Wellbore Technologies  
+ The Company s Wellbore Technologies segment designs, manufactures, rents, and sells a variety of equipment and technologies used to perform drilling operations, and offers services that optimize their performance, including: solids control and waste management equipment and services; drilling fluids; portable power generation; premium drill pipe; wired pipe; drilling optimization and automation services; tubular inspection, repair and coating services; rope access inspection; instrumentation; measuring and monitoring; downhole and fishing tools; steerable technologies; hole openers; and drill bits. 
+ Wellbore Technologies focuses on oil and gas companies and supports drilling contractors, oilfield service companies, and oilfield equipment rental companies. Demand for the segment s products and services depends on the level of oilfield drilling activity by oil and gas companies, drilling contractors, and oilfield service companies.  
+ Completion   Production Solutions 
+ The Company s Completion   Production Solutions segment integrates technologies for well completions and oil and gas production. The segment designs, manufactures, and services equipment and technologies needed for hydraulic fracture stimulation, including downhole multistage fracturing tools, pressure pumping trucks, blenders, sanders, hydration units, injection units, flowline, and manifolds; well intervention, including coiled tubing units, coiled tubing, and wireline units and tools; well construction, including premium connections and liner hangers; onshore production, including composite pipe, surface transfer and progressive cavity pumps, and artificial lift systems; and, offshore production, including floating production systems and subsea production technologies.  
+ Completion   Production Solutions supports service companies and oil and gas companies. Demand for the segment s products depends on the level of oilfield completions and workover activity by oilfield service companies and drilling contractors, and capital spending plans by oil and gas companies and oilfield service companies.  
+ Rig Technologies  
+ The Company s Rig Technologies segment makes and supports the capital equipment and integrated systems needed to drill oil and gas wells on land and offshore as well as other marine-based markets, including offshore wind vessels. The segment designs, manufactures and sells land rigs, offshore drilling equipment packages, including installation and commissioning services, and drilling rig components that mechanize and automate the drilling process and rig functionality. Equipment and technologies the segment brings to customers include: substructures, derricks, and masts; cranes; jacking systems; pipe lifting, racking, rotating, and assembly systems; fluid transfer technologies, such as mud pumps; pressure control equipment, including blowout preventers; power transmission systems, including drives and generators; rig instrumentation and control systems; mooring, anchor, and deck handling machinery; and pipelay and construction systems. The segment also provides spare parts, repair, and rentals as well as comprehensive remote equipment monitoring, technical support, field service, and customer training through an extensive network of aftermarket service and repair facilities strategically located in major areas of drilling operations around the world.  
+ 19  
+
+Ri  g Technologies supports land and offshore drillers. Demand for the segment s products depends on drilling contractors  and oil and gas companies  capital spending plans, specifically capital expenditures on rig construction and refurbishment; and secondari  ly on the overall level of oilfield drilling activity, which drives demand for spare parts, service, and repair for the segment s large installed base of equipment.  
+ Critical Accounting Policies and Estimates  
+ In our annual report on Form 10-K for the year ended December 31, 2017, we identified our most critical accounting policies. In preparing the financial statements, we make assumptions, estimates and judgments that affect the amounts reported. We periodically evaluate our estimates and judgments that are most critical in nature which are related to revenue recognition (See Note 6); allowance for doubtful accounts; inventory reserves; impairment of long-lived assets (excluding goodwill and other indefinite-lived intangible assets); goodwill and other indefinite-lived intangible assets; purchase price allocation of acquisitions; warranties; and income taxes. Our estimates are based on historical experience and on our future expectations that we believe are reasonable. The combination of these factors forms the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results are likely to differ from our current estimates and those differences may be material.  
+   EXECUTIVE SUMMARY  
+ For the third quarter ended September 30, 2018, the Company generated net income of $1 million, compared to net income of $24 million in the second quarter of 2018 and a net loss of $26 million in the third quarter of 2017.  
+ Operating profit for the third quarter of 2018 was $73 million, or 3.4 percent of sales, compared to operating profit of $52 million in the second quarter of 2018 and an operating loss of $7 million in the third quarter of 2017. Third quarter 2018 Adjusted EBITDA was $245 million, compared to $226 million in the second quarter of 2018 and $167 million in the third quarter of 2017. 
+ Oil   Gas Equipment and Services Market 
+ Technological advancements in oilfield equipment and services unlocked production from previously uneconomic formations which, combined with high commodity demand and prices, enabled and sustained an increase in global drilling activity that dramatically grew oil supplies from 2004 to 2014. Global supply started to catch up to demand, and, in the second half of 2014, demand growth in areas such as Asia, Europe and the U.S. weakened while drilling activity remained strong and production continued to grow. As a result, inventories of crude and refined products increased, and the price of oil declined significantly during early 2015, remained depressed throughout the year and fell further toward the end of 2015. In early 2016, the market witnessed oil trading in the high $20 per barrel range, prices not seen since 2003.  
+ The Company aggressively sized its operations to the market and reduced annual expenses relating to salaries, wages, outside services, contractors, travel and entertainment by approximately $3.0 billion, while continuing to invest in developing and acquiring new products, technologies and operations that advance the Company s longer term strategic goals. The Company believes that sharp spending reductions by customers has created pent up demand for its products and services and NOV is well positioned to cost-effectively ramp operations to capitalize on market improvements. The Company has successfully pivoted towards the industry s increased focus on onshore unconventional developments, while strategically maintaining a leading position in offshore equipment. 
+ The market downturn began to stabilize during the second half of 2016. Through 2017 and into the first nine months of 2018, drilling activity increased for North America land, stabilized in international land markets, and remained depressed offshore. Well completion work increased as the market recovered but then fell in September of 2018. The average price of West Texas Intermediate Cushing Crude for the third quarter of 2018 was $69.76 a barrel.  
+ NOV s global customer base includes national oil companies, international oil companies, independent oil and gas companies, onshore and offshore drilling contractors and service companies and others whose strategies and reactions to low or volatile commodity prices vary. Likewise, the Company expects the timing and slope of revenue stabilization and recovery will be different across its operating regions and its three business segments. NOV s Wellbore Technologies segment and certain elements of its Completion   Production Solutions and Rig Technologies segments are realizing a faster recovery as drilling of new wells increases, while a strong recovery for certain of its more capital equipment-oriented businesses are expected to come later in the cycle. 
+   
+ 20  
+
+Segment Performance  
+ Wellbore Technologies 
+ Wellbore Technologies generated revenues of $847 million in the third quarter of 2018, an increase of seven percent from the second quarter of 2018 and an increase of 22 percent from the third quarter of 2017. The segment realized meaningful growth for the second consecutive quarter as revenue outpaced rig-count growth in the U.S. and international operations capitalized on an increasing number of opportunities associated with the emerging recovery in the Eastern Hemisphere. Operating leverage was limited to four percent mostly due to higher steel and labor costs, which outpaced the segment s price increases. Operating profit was $40 million, or 4.7 percent of sales. Adjusted EBITDA increased two percent sequentially and 44 percent from the prior year to $135 million, or 15.9 percent of sales. 
+ Completion   Production Solutions 
+ Completion   Production Solutions generated revenues of $735 million in the third quarter of 2018, a decrease of $3 million from the second quarter of 2018 and an increase of eight percent from the third quarter of 2017. Growing global demand for land production equipment was offset by offshore capital equipment businesses that have not yet bottomed and a pullback in demand for well-simulation equipment in North America. Operating profit was $46 million or 6.3 percent of sales. Adjusted EBITDA increased five percent sequentially and two percent from the prior year to $99 million, or 13.5 percent of sales. 
+ Backlog for capital equipment orders for Completion   Production Solutions at September 30, 2018 was $880 million. New orders booked during the quarter were $372 million, representing a book-to-bill of 85 percent when compared to the $439 million of orders shipped from backlog. 
+ Rig Technologies 
+ Rig Technologies generated revenues of $637 million in the third quarter of 2018, a decrease of two percent from the second quarter of 2018 and an increase of 25 percent from the third quarter of 2017. Improving aftermarket sales and better progress on offshore projects did not fully offset lower land rig sales from inventory. Operating profit was $58 million, or 9.1 percent of sales. Adjusted EBITDA decreased seven percent sequentially and increased 95 percent from the prior year to $78 million, or 12.2 percent of sales.  
+ At September 30, 2018, backlog for capital equipment orders for Rig Technologies was $3.40 billion. New orders booked during the quarter totaled $151 million, representing a book-to-bill of 59 percent when compared to the $256 million of orders shipped from backlog.  
+ Outlook  
+ While North America land drilling has increased, working rig-counts remain well below prior cyclical highs. International land drilling, which had been slower to fall than North American activity, may have reached the bottom of its cycle during 2017, and is showing some signs of recovery. Offshore activity, which has longer project cycle times, showed leading indicators of renewed investment during Q3, and may improve into 2019. Near-term, the Company anticipates that land drilling customers will continue to increase spending on NOV s equipment and services and North American pressure pumping customers will proceed slower in the face of lower well stimulation day rates. The Company remains optimistic regarding longer-term market fundamentals as existing oil and gas fields continue to deplete and numerous major projects to replenish supply have been deferred or canceled while global demand continues to grow. 
+ NOV expects unconventional resources will continue to gain a greater share of global production, and the Company will continue to enhance its unconventional resource focused products and technologies, including advanced, automated drilling rigs; premium drillpipe and directional drilling technologies; hydraulic fracture stimulation equipment; and multistage completion tools. NOV expects big data and predictive analytics to improve uptime and operating efficiency, and the Company remains at the forefront of applying this promising technology to oilfield drilling and completion equipment. NOV expects the oil and gas industry to adopt more efficient supply chain practices that the Company is pioneering to construct floating production facilities to produce the immense resources discovered offshore. The Company has used the recent downturn to vigorously advance these strategic initiatives and is encouraged by its progress. 
+   
+ 21  
+
+Operating Environment Overview  
+ The Company s results are dependent on, among other things, the level of worldwide oil and gas drilling, well remediation activity, the prices of crude oil and natural gas, capital spending by other oilfield service companies and drilling contractors, and worldwide oil and gas inventory levels. Key industry indicators for the third quarter of 2018 and 2017, and the second quarter of 2018 include the following:  
+
+*   
+ 
+ Averages for the quarters indicated. See sources below.     
+
+ The following table details the U.S., Canadian, and international rig activity and West Texas Intermediate Crude Oil prices for the past nine quarters ended September 30, 2018, on a quarterly basis:  
+   
+ 22  
+
+Source: Rig count: Baker Hughes, Inc. (www.bakerhughes.com); West Texas Intermediate Crude Oil and Natural Gas Prices: Department of Energy, Energy Information Ad  ministration (www.eia.doe.gov).   
+ The worldwide quarterly average rig count increased seven percent (from 2,110 to 2,262), and the U.S. increased one percent (from 1,037 to 1,051), in the third quarter of 2018 compared to the second quarter of 2018. The average per barrel price of West Texas Intermediate Crude Oil increased three percent (from $68.03 per barrel to $69.76 per barrel) and natural gas prices increased three percent (from $2.82 per mmbtu to $2.90 per mmbtu) in the third quarter of 2018 compared to the second quarter of 2018.  
+ U.S. rig activity at October 19, 2018 was 1,067 rigs, increasing 2 percent compared to the third quarter of 2018 average of 1,051 rigs. The price for West Texas Intermediate Crude Oil was at $69.12 per barrel at October 19, 2018, decreasing one percent from the third quarter of 2018 average. The price for natural gas was at $3.25 per mmbtu at October 19, 2018, increasing 12 percent from the third quarter of 2018 average.  
+ Results of Operations  
+ Operating results by segment are as follows (in millions): 
+
+Wellbore Technologies 
+ Three and nine months ended September 30, 2018  and 2017.   Revenue from Wellbore Technologies was $847 million for the three months ended September 30, 2018, compared to $693 million for the three months ended September 30, 2017, an increase of $154 million or 22 percent. For the nine months ended September 30, 2018, revenue from Wellbore Technologies was $2,351 million compared to $1,862 million for the nine months ending September 30, 2017, an increase of $489 million or 26 percent.  
+ Operating profit from Wellbore Technologies was $40 million for the three months ended September 30, 2018 compared to $0 for the three months ended September 30, 2017, an increase of $40 million. For the nine months ended September 30, 2018, operating profit from Wellbore Technologies was $90 million compared to an operating loss of $81 million for the nine months ending September 30, 2017, an increase of $171 million. Operating profit (loss) percentage increased to 3.8 percent for the nine months ended September 30, 2018, from (4.4) percent in the nine months ended September 30, 2017. This increase was primarily due to the ongoing U.S. recovery.  
+ Completion   Production Solutions 
+   Three and nine months ended September 30, 2018  and 2017.   Revenue from Completion   Production Solutions was $735 million for the three months ended September 30, 2018, compared to $682 million for the three months ended September 30, 2017, an increase of   
+ 23 
+
+$53 million or eigh  t percent. For the nine months ended September 30, 2018, revenue from Completion   Production Solutions was $2,143 million compared to $1,982 million for the nine months ending September 30, 2017, an increase of $161 million or eight percent.   
+ Operating profit from Completion   Production Solutions was $46 million for the three months ended September 30, 2018 compared to $44 million for the three months ended September 30, 2017, an increase of $2 million or five percent. For the nine months ended September 30, 2018, operating profit from Completion and Production Solutions was $102 million compared to $79 million for the nine months ending September 30, 2017, an increase of $23 million. Operating profit percentage increased to 4.8 percent for the nine months ended September 30, 2018, from 4.0 percent in the nine months ended September 30, 2017. Improved demand for capital equipment in North America and an increase in deliveries of composite pipe more than offset lower demand for offshore products. 
+ The Completion   Productions Solutions segment monitors its capital equipment backlog to plan its business. New orders are added to backlog only when the Company receives a firm written order for major completion and production components or a contract related to a construction project. The capital equipment backlog was $880 million at September 30, 2018, a decrease of $94 million, or ten percent from backlog of $974 million at September 30, 2017. Numerous factors may affect the timing of revenue out of backlog. Considering these factors, the Company reasonably expects approximately $437 million of revenue out of backlog for the remainder of 2018 and approximately $443 million of revenue out of backlog in 2019 and thereafter. At September 30, 2018, approximately 59 percent of the capital equipment backlog was for offshore products and approximately 68 percent of the capital equipment backlog was destined for international markets. 
+ Rig Technologies 
+ Three and nine months ended September 30, 2018  and 2017  . Revenue from Rig Technologies was $637 million for the three months ended September 30, 2018, compared to $510 million for the three months ended September 30, 2017, an increase of $127 million or 25 percent. For the nine months ended September 30, 2018, revenue from Rig Technologies was $1,771 million compared to $1,638 million for the nine months ending September 30, 2017, an increase of $133 million or eight percent.  
+ Operating profit from Rig Technologies was $58 million for the three months ended September 30, 2018 compared to $18 million for the three months ended September 30, 2017, an increase of $40 million. For the nine months ended September 30, 2018, operating profit from Rig Technologies was $138 million compared to $37 million for the nine months ending September 30, 2017, an increase of $101 million. Operating profit percentage increased to 7.8 percent for the nine months ended September 30, 2018, from 2.3 percent in the nine months ended September 30, 2017. This increase was the result of improving aftermarket sales, partially offset by lower rig equipment sales and slowed progress on the construction of offshore newbuild drilling rigs. 
+ The Rig Technologies segment monitors its capital equipment backlog to plan its business. New orders are added to backlog only when the Company receives a firm written order for major drilling rig components or a signed contract related to a construction project. The capital equipment backlog was $3.40 billion at September 30, 2018, an increase of $1.39 billion, or 69 percent, from backlog of $2.01 billion at September 30, 2017. Numerous factors may affect the timing of revenue out of backlog. Considering these factors, the Company reasonably expects approximately $282 million of revenue out of backlog for the remainder of 2018 and approximately $3.1 billion of revenue out of backlog in 2019 and thereafter. At September 30, 2018, approximately 33 percent of the capital equipment backlog was for offshore products and approximately 89 percent of the capital equipment backlog was destined for international markets.  
+ Eliminations and corporate costs 
+ Eliminations and corporate costs were $71 million and $206 million for the three and nine months ended September 30, 2018, respectively, compared to $69 million and $201 million for the three and nine months ended September 30, 2017, respectively. This change is primarily due to the change in intersegment eliminations. Sales from one segment to another generally are priced at estimated equivalent commercial selling prices; however, segments originating an external sale are credited with the full profit to the company. Eliminations include intercompany transactions conducted between the three reporting segments that are eliminated in consolidation. Intrasegment transactions are eliminated within each segment.  
+ Other income (expense), net  
+ Other income (expense), net were expenses of $20 million and $70 million for the three and nine months ended September 30, 2018, respectively, compared to expenses of $16 million and $36 million for the three and nine months ended September 30, 2017, respectively. The change in expense was primarily due to the fluctuations in foreign currencies.   
+ 24  
+
+Provision for income taxes   
+ The provision (benefit) for income taxes for the three and nine months ended September 30, 2018 were $29 million and $37 million, respectively, compared to ($13 million) and ($43 million) for the same periods in 2017. The Company established valuation allowances on deferred tax assets for losses and tax credits generated in each period which resulted in a corresponding tax charge. The change in tax provision (benefit) from 2017 to 2018 was also impacted by the decrease in the U.S. federal corporate tax rate from 35% in 2017 to 21% in 2018. 
+ 25  
+
+Non-GAAP Financial Measures and Reconciliations   
+ The Company discloses Adjusted EBITDA (defined as Operating Profit excluding Depreciation, Amortization and, when applicable, Other Items) in its periodic earnings press releases and other public disclosures to provide investors additional information about the results of ongoing operations. The Company uses Adjusted EBITDA internally to evaluate and manage the business. Adjusted EBITDA is not intended to replace GAAP financial measures, such as Net Income. Other items in 2018 consisted primarily of the reversal of certain accruals, partially offset by   restructure charges and severance payments.   
+ The following tables set forth the reconciliation of Adjusted EBITDA to its most comparable GAAP financial measure (in millions): 
+
+26  
+
+Liquidity and Capital Resources  
+ Overview  
+ The Company assesses liquidity in terms of its ability to generate cash to fund operating, investing and financing activities. The Company remains in a strong financial position, with resources available to reinvest in existing businesses, strategic acquisitions and capital expenditures to meet short- and long-term objectives. The Company believes that cash on hand, cash generated from expected results of operations, amounts available under its credit facility and its commercial paper program will be sufficient to fund operations, anticipated working capital needs and other cash requirements such as capital expenditures, debt and interest payments and dividend payments for the foreseeable future.  
+ At September 30, 2018, the Company had cash and cash equivalents of $1,293 million and total debt of $2,714 million. At December 31, 2017, cash and cash equivalents were $1,437 million and total debt was $2,712 million. As of September 30, 2018, approximately $936 million of the $1,293 million of cash and cash equivalents was held by our foreign subsidiaries and the earnings associated with this cash were subject to U.S. taxation under the Act defined in Note 8 to the Consolidated Financial Statements. If opportunities to invest in the U.S. are greater than available cash balances that are not subject to income tax, rather than repatriating cash, the Company may choose to borrow against its revolving credit facility or utilize its commercial paper program. 
+ The Company s outstanding debt at September 30, 2018 was $2,714 million and consisted of $1,394 million in 2.60% Senior Notes, $1,088 million in 3.95% Senior Notes, and other debt of $232 million. The Company was in compliance with all covenants at September 30, 2018.  
+ At September 30, 2018, there were no commercial paper borrowings, and there were no outstanding letters of credit issued under the credit facility, resulting in $3.0 billion of funds available under this credit facility.  
+ The Company had $471 million of outstanding letters of credit at September 30, 2018, primarily in the U.S. and Norway, that are under various bilateral letter of credit facilities. Letters of credit are issued as bid bonds, advanced payment bonds and performance bonds. 
+ The following table summarizes our net cash provided by continuing operating activities, continuing investing activities and continuing financing activities for the periods presented (in millions):  
+
+Operating Activities 
+ For the first nine months of 2018, cash provided by operating activities was $300 million compared to $511 million in the same period of 2017. Before changes in operating assets and liabilities, net of acquisitions, cash was provided primarily by net loss from operations of $37 million plus non-cash charges of $664 million.  
+ The change in operating assets and liabilities in the first nine months of 2018 compared to the same period in 2017 was primarily due to declines in inventory and contract assets. Net changes in operating assets and liabilities, net of acquisitions, used $327 million of cash for the first nine months of 2018 compared to cash provided of $48 million in the same period in 2017. 
+ From time to time, we participate in factoring arrangements to sell accounts receivable to third-party financial institutions. In the first nine months of 2018, we sold accounts receivable of $248 million at a cost of approximately $2 million, receiving cash proceeds totaling $246 million. Our factoring transactions in the first nine months of 2018 were recognized as sales, and the proceeds are included as operating cash flows in our Condensed Consolidated Statements of Cash Flows. 
+ 27  
+
+Investing Activities  
+ For the first nine months of 2018, net cash used in investing activities was $392 million compared to $184 million for the same period of 2017. Net cash used in investing activities was primarily the result of capital expenditures and acquisition activity. The Company used $280 million during the first nine months of 2018 for acquisitions compared to $85 million for the same period of 2017 and $173 million for capital expenditures in the first nine months of 2018 compared to $127 million for the same period of 2017.  
+ Financing Activities 
+ For the first nine months of 2018, net cash used in financing activities was $12 million compared to $52 million for the same period of 2017. This decrease was primarily the result of activity under stock incentive plans providing $51 million of cash in 2018 compared to $11 million in 2017. Dividends paid were $57 million for each of the first nine months of 2018 and 2017. 
+ Other 
+ The effect of the change in exchange rates on cash flows was a decrease of $40 million and an increase of $39 million for the first nine months of 2018 and 2017, respectively.  
+ We believe that cash on hand, cash generated from operations and amounts available under our credit facilities and from other sources of debt will be sufficient to fund operations, working capital needs, capital expenditure requirements, dividends and financing obligations. 
+ We intend to pursue additional acquisition candidates, but the timing, size or success of any acquisition effort and the related potential capital commitments cannot be predicted. We continue to expect to fund future cash acquisitions primarily with cash flow from operations and borrowings, including the unborrowed portion of the revolving credit facility or new debt issuances, but may also issue additional equity either directly or in connection with acquisitions. There can be no assurance that additional financing for acquisitions will be available at terms acceptable to us.  
+ New Accounting Pronouncements 
+ Recently Adopted Accounting Standards 
+ In March 2017, the FASB issued Accounting Standard Update No. 2017-07  Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost  (ASU 2017-07). This update requires that an employer report the service cost component in the same line item as other compensation costs and separately from other components of net benefit cost. ASU 2017-07 is effective for fiscal periods beginning after December 15, 2017, and for interim periods within those fiscal years. The Company adopted this update on January 1, 2018 with no material impact.  
+ In August 2016, the FASB issued Accounting Standard Update No. 2016-15  Classification of Certain Cash Receipts and Cash Payments  (ASU 2016-15). This update amends Accounting Standard Codification Topic No. 230  Statement of Cash Flows  and provides guidance and clarification on presentation of certain cash flow issues. ASU No. 2016-15 is effective for fiscal years beginning after December 15, 2017, and for interim periods within those fiscal years. The Company adopted this update on January 1, 2018 with no material impact. 
+ In May 2014, the FASB issued Accounting Standard Update No. 2014-09,  Revenue from Contracts with Customers  (ASU 2014-09), which supersedes the revenue recognition requirements in FASB ASC Topic 605,  Revenue Recognition,  and most industry-specific guidance. This ASU proscribes a five-step model for determining when and how revenue is recognized. Under the model, an entity will recognize revenue to depict the transfer of goods or services to a customer at an amount reflecting the consideration it expects to receive in exchange for those goods or services.  
+ ASU 2014-09 is effective for fiscal periods beginning after December 15, 2017. The Company adopted this update on January 1, 2018, using the modified retrospective approach, in which an immaterial cumulative effect adjustment was made to retained earnings. The adoption of ASU 2014-09 did not have a material impact on the Company s consolidated financial position, results of operations, equity or cash flows as of the adoption date or for the three and nine months ended September 30, 2018. See Note 6 for additional details of the Company s revenue recognition policies.  
+ 28  
+
+Recently Issued Accounting Standards     
+ In August 2017, the FASB issued Accounting Standard Update No. 2017-12  Derivatives and Hedging   Targeted Improvements to Accounting for Hedging Activities  (ASU 2017-12). This update improves the financial reporting of hedging relationships and simplifies the application of the hedge accounting guidance. ASU 2017-12 is effective for fiscal periods beginning after December 15, 2018, and for interim periods within those fiscal years. Early adoption is permitted in any interim period after issuance of ASU 2017-12. The Company is currently assessing the impact of the adoption of ASU No. 2017-12 on its consolidated financial position and results of operations. 
+ In March 2016, the FASB issued ASC Topic 842,  Leases  (ASC Topic 842), which supersedes the lease requirements in ASC Topic No. 840  Leases  and most industry-specific guidance. This update increases transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. ASC Topic 842 is effective for fiscal years beginning after December 15, 2018, and for interim periods within those fiscal years.  
+ The Company s internal team, assisted by a top-tier accounting and consulting firm, has implemented and is testing new software, processes, procedures and controls to correctly account for leases under the new requirements. We currently estimate implementing ASC Topic 842 in the first quarter of 2019 will gross-up the Company s balance sheet with additional assets and liabilities in the range of approximately $500 to $750 million. Implementing the new standard will not affect the Company s compliance with the debt-to-capitalization covenant of our $3 billion revolving credit facility (see Note 7) because that agreement grandfathers the prior treatment of operating leases for purposes of the calculation. 
+ Forward-Looking Statements  
+ Some of the information in this document contains, or has incorporated by reference, forward-looking statements. Statements that are not historical facts, including statements about our beliefs and expectations, are forward-looking statements. Forward-looking statements typically are identified by use of terms such as  may,   expect,   anticipate,   estimate,  and similar words, although some forward-looking statements are expressed differently. All statements herein regarding expected merger synergies are forward-looking statements. You should be aware that our actual results could differ materially from results anticipated in the forward-looking statements due to a number of factors, including but not limited to changes in oil and gas prices, customer demand for our products, difficulties encountered in integrating mergers and acquisitions, and worldwide economic activity. You should also consider carefully the statements under  Risk Factors,  as disclosed in our Annual Report on Form 10-K for the year ended December 31, 2017, which address additional factors that could cause our actual results to differ from those set forth in the forward-looking statements. Given these uncertainties, current or prospective investors are cautioned not to place undue reliance on any such forward-looking statements. We undertake no obligation to update any such factors or forward-looking statements to reflect future events or developments.  
+   
+ 29  
+
+Item 3.   
+ 
+        Quantitative and Qualitative Disclosures About Market Risk      
+
+ We are exposed to changes in foreign currency exchange rates and interest rates. Additional information concerning each of these matters follows:  
+ Foreign Currency Exchange Rates  
+ We have extensive operations in foreign countries. The net assets and liabilities of these operations are exposed to changes in foreign currency exchange rates, although such fluctuations generally do not affect income since their functional currency is typically the local currency. These operations also have net assets and liabilities not denominated in the functional currency, which exposes us to changes in foreign currency exchange rates that impact income. We recorded a foreign exchange loss in our income statement of approximately $30 million in the first nine months of 2018, compared to approximately $4 million in foreign exchange gain in the same period of the prior year. The gains and losses are primarily due to exchange rate fluctuations related to monetary asset balances denominated in currencies other than the functional currency and adjustments to our hedged positions as a result of changes in foreign currency exchange rates. Currency exchange rate fluctuations may create losses in future periods to the extent we maintain net monetary assets and liabilities not denominated in the functional currency of the countries using the local currency as their functional currency.  
+ Some of our revenues in foreign countries are denominated in U.S. dollars, and therefore, changes in foreign currency exchange rates impact our earnings to the extent that costs associated with those U.S. dollar revenues are denominated in the local currency. Similarly, some of our revenues are denominated in foreign currencies, but have associated U.S. dollar costs, which also give rise to foreign currency exchange rate exposure. In order to mitigate that risk, we may utilize foreign currency forward contracts to better match the currency of our revenues and associated costs. We do not use foreign currency forward contracts for trading or speculative purposes.  
+ 30  
+
+The following table details the Company s foreign currenc  y forward contracts grouped by functional currency and their expected maturity periods (in millions, except contract rates):   
+
+31  
+
+32 
+
+33 
+
+The Company had other financial market risk sensitive instruments denominated in foreign currencies for transactional exposures totaling $53 million and translation exposures totaling $138 million as of September 30, 2018 excluding trade receivables and  
+ 34 
+
+pa  yables, which approximate fair value. These market risk sensitive instruments consisted of cash balances and overdraft facilities. The Company estimates that a hypothetical 10 percent movement of all applicable foreign currency exchange rates on the transa  ctional exposures financial market risk sensitive instruments could affect net income by $3 million and the translational exposures financial market risk sensitive instruments could affect the future fair value by $14 million.  
+ The counterparties to forward contracts are major financial institutions. The credit ratings and concentration of risk of these financial institutions are monitored on a continuing basis. In the event that the counterparties fail to meet the terms of a foreign currency contract, our exposure is limited to the foreign currency rate differential.  
+ Interest Rate Risk 
+ At September 30, 2018, long term borrowings consisted $1,394 million in 2.60% Senior Notes and $1,088 million in 3.95% Senior Notes. At September 30, 2018, there were no commercial paper borrowings and no outstanding letters of credit issued under the credit facility, resulting in $3.0 billion of funds available under this credit facility. Occasionally a portion of borrowings under our credit facility could be denominated in multiple currencies which could expose us to market risk with exchange rate movements. These instruments carry interest at a pre-agreed upon percentage point spread from either LIBOR, NIBOR or CDOR, or at the U.S. prime rate. Under our credit facility, we may, at our option, fix the interest rate for certain borrowings based on a spread over LIBOR, NIBOR or CDOR for 30 days to six months. Our objective is to maintain a portion of our debt in variable rate borrowings for the flexibility obtained regarding early repayment without penalties and lower overall cost as compared with fixed-rate borrowings. 
+
+Item 4.   
+ 
+   Controls and Procedures     
+
+ As of the end of the period covered by this report, we carried out an evaluation, under the supervision and with the participation of the Company s management, including the Company s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures. The Company s disclosure controls and procedures are designed to provide reasonable assurance that the information required to be disclosed by the Company in the reports it files under the Exchange Act is accumulated and communicated to the Company s management, including the Company s Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosures and is recorded, processed, summarized and reported within the time period specified in the rules and forms of the Securities and Exchange Commission. Based upon that evaluation, the Company s Chief Executive Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures are effective as of the end of the period covered by this report at a reasonable assurance level.  
+ There has been no change in our internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) that occurred during our last fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+   
+ 35  
+
+PART II - OTHER INFORMATION   
+
+Item 1A.   
+ 
+ Risk Factors    
+
+ As of the date of this filing, the Company and its operations continue to be subject to the risk factors previously disclosed in Part I, Item 1A  Risk Factors  in our 2017 Annual Report on Form 10-K.  
+
+Item 4.   
+ 
+   Mine Safety Disclosures     
+
+ Information regarding mine safety and other regulatory actions at our mines is included in Exhibit 95 to this Form 10-Q.  
+
+Item 6.   
+ 
+   Exhibits     
+
+ Reference is hereby made to the Exhibit Index commencing on page 37.  
+   
+ 36  
+
+INDEX TO EXHIBITS   
+ (a) Exhibits   
+
+We hereby undertake, pursuant to Regulation S-K, Item 601(b), paragraph (4) (iii), to furnish to the U.S. Securities and Exchange Commission, upon request, all constituent instruments defining the rights of holders of our long-term debt not filed herewith.  
+ 37  
+
+SIGNATURE   
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.  
+
+Date: October 26, 2018  
+ 
+ By:  
+
+/s/ Scott K. Duff  
+
+Scott K. Duff  
+
+Vice President, Corporate Controller   Chief Accounting Officer  
+
+(Duly Authorized Officer, Principal Accounting Officer)  
+
+38   
+
+<EX-31.1>
+ 2
+ nov-ex311_12.htm
+ EX-31.1
+
+nov-ex311_12.htm
+
+Exhibit 31.1  
+ CERTIFICATION  
+ I, Clay C. Williams, certify that:  
+ 1. I have reviewed this quarterly report on Form 10-Q of National Oilwell Varco, Inc.;  
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function):  
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.  
+ Date: October 26, 2018 
+
+By:  
+
+/s/ Clay C. Williams  
+
+Clay C. Williams  
+
+Chairman, President and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ nov-ex312_11.htm
+ EX-31.2
+
+nov-ex312_11.htm
+
+Exhibit 31.2  
+ CERTIFICATION  
+ I, Jose A. Bayardo, certify that:  
+ 1. I have reviewed this quarterly report on Form 10-Q of National Oilwell Varco, Inc.;  
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;  
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent function):  
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.  
+ Date: October 26, 2018 
+
+By:  
+
+/s/ Jose A. Bayardo  
+
+Jose A. Bayardo  
+
+Senior Vice President and Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ nov-ex321_10.htm
+ EX-32.1
+
+nov-ex321_10.htm
+
+Exhibit 32.1  
+ CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+ In connection with the Quarterly Report of National Oilwell Varco, Inc. (the  Company ) on Form 10-Q for the period ending September 30, 2018 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned, Clay C. Williams, Chairman, President and Chief Executive Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:  
+ (i) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+ (ii) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+ The certification is given to the knowledge of the undersigned.  
+
+By:  
+
+/s/ Clay C. Williams  
+
+Name:  
+
+Clay C. Williams  
+
+Title:  
+
+Chairman, President and Chief Executive Officer  
+
+Date:  
+
+October 26, 2018  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ nov-ex322_8.htm
+ EX-32.2
+
+nov-ex322_8.htm
+
+Exhibit 32.2  
+ CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+ In connection with the Quarterly Report of National Oilwell Varco, Inc. (the  Company ) on Form 10-Q for the period ending September 30, 2018 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned, Jose A. Bayardo, Senior Vice President and Chief Financial Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:  
+ (i) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+ (ii) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.  
+ The certification is given to the knowledge of the undersigned.  
+
+By:  
+
+/s/ Jose A. Bayardo  
+
+Name:  
+
+Jose A. Bayardo  
+
+Title:  
+
+Senior Vice President and Chief Financial Officer  
+
+Date:  
+
+October 26, 2018  
+
+</EX-32.2>
+
+<EX-95>
+ 6
+ nov-ex95_9.htm
+ EX-95
+
+nov-ex95_9.htm
+
+Exhibit 95  
+  Mine Safety Disclosures   
+ Our mines are operated subject to the regulation of the Federal Mine Safety and Health Administration ( MSHA ), under the Federal Mine Safety and Health Act of 1977 (the  Mine Act ). The following mine safety data is provided pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act (the  Dodd-Frank Act ).  
+ As required by the reporting requirements of the Dodd-Frank Act, as amended, the table below presents the following information for the nine months ended September 30, 2018. (in whole dollars) (Unaudited) 
+
+Received  
+
+Received  
+
+Notice of  
+
+Legal  
+
+Notice of  
+
+Potential  
+
+Actions  
+
+Section  
+
+Total Dollar  
+
+Total  
+
+Pattern of  
+
+to have  
+
+Pending  
+
+Legal  
+
+Legal  
+
+Section  
+
+104(d)  
+
+Value of  
+
+Number  
+
+Violations  
+
+Patterns  
+
+as of  
+
+Actions  
+
+Actions  
+
+104  
+
+Section  
+
+Citations  
+
+Section  
+
+Section  
+
+MSHA  
+
+of Mining  
+
+Under  
+
+Under  
+
+Last  
+
+Initiated  
+
+Resolved  
+
+S S  
+
+104(b)  
+
+and  
+
+110(b)(2)  
+
+107(a)  
+
+Assessments  
+
+Related  
+
+Section  
+
+Section  
+
+Day of  
+
+During  
+
+During  
+
+Mine  
+
+Citations  
+
+Orders  
+
+Orders  
+
+Violations  
+
+Orders  
+
+Proposed  
+
+Fatalities  
+
+104(e)  
+
+104(e)  
+
+Period  
+
+Period  
+
+Period  
+
+Dry Creek (26-02646)  
+
+$  
+
+no  
+
+no  
+
+Osino Barite Mill (26-02724)  
+
+$  
+
+no  
+
+no  
+
+Includes legal actions initiated during the period.  
+
+</EX-95>
+
+<EX-101.INS>
+ 8
+ nov-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 9
+ nov-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ nov-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ nov-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ nov-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ nov-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

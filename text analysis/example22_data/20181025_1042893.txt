@@ -1,0 +1,849 @@
+S 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  _______________________________________________________ 
+  FORM 10-Q 
+  _______________________________________________________ 
+  (MARK ONE) 
+
+For the Quarterly Period Ended   September 30, 2018    
+  or 
+
+Commission file number 001-13439 
+  _______________________________________________________ 
+  DRIL-QUIP, INC. 
+  (Exact name of registrant as specified in its charter) 
+  _______________________________________________________ 
+                   DELAWARE 
+      
+    74-2162088 
+      (State or other jurisdiction of 
+  incorporation or organization) 
+      
+    (I.R.S. Employer 
+  Identification No.) 
+
+6401 N. ELDRIDGE PARKWAY 
+  HOUSTON, TEXAS 
+  77041 
+  (Address of principal executive offices) (Zip Code) 
+  (713) 939-7711 
+  (Registrant s telephone number, including area code) 
+  _______________________________________________________ 
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes           No      
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of regulations S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes           No      
+    Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer ,  smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act.  
+                     Large accelerated filer 
+      
+    Accelerated filer 
+      
+      Non-accelerated filer 
+       
+    Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     
+  Indicate by check mark whether the registrant is a shell company (as defined in Exchange Act Rule 12b-2).    Yes           No      
+  As of October 24, 2018, the number of shares outstanding of the registrant s common stock, par value $0.01 per share, was 35,777,241.  
+
+TABLE OF CONTENTS 
+
+Page 
+      PART I 
+      Item 1. 
+     Condensed Consolidated Financial Statements  
+    3 
+        
+     Balance Sheets  
+    3 
+        
+     Statements of Income (Loss)  
+    4 
+        
+     Statements of Comprehensive Income (Loss)  
+    5 
+        
+     Statements of Cash Flows  
+    6 
+        
+     Notes to Financial Statements  
+    7 
+      Item 2. 
+     Management's Discussion and Analysis of Financial Condition and Results of Operations  
+    20 
+      Item 3. 
+     Quantitative and Qualitative Disclosures About Market Risk  
+    33 
+      Item 4. 
+     Controls and Procedures  
+    33 
+      PART II 
+      Item 1. 
+     Legal Proceedings  
+    34 
+      Item 1A. 
+     Risk Factors  
+    34 
+      Item 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    34 
+        
+     Index to Exhibits  
+    37 
+        
+     Signatures  
+    38 
+
+Table of Contents  
+
+PART I FINANCIAL INFORMATION 
+   
+  Item 1.        Financial Statements 
+   
+  DRIL-QUIP, INC. 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (UNAUDITED) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  
+   3 
+
+Table of Contents  
+
+DRIL-QUIP, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF INCOME (LOSS) 
+  (UNAUDITED) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  
+   4 
+
+Table of Contents  
+
+DRIL-QUIP, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+  (UNAUDITED) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  
+   5 
+
+Table of Contents  
+
+DRIL-QUIP, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (UNAUDITED) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+  
+   6 
+
+Table of Contents  
+
+DRIL-QUIP, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  (UNAUDITED) 
+   
+  1  .   Organization and Principles of Consolidation    
+  Dril-Quip, Inc., a Delaware corporation (the  Company  or  Dril-Quip ), designs, manufactures, sells and services highly engineered drilling and production equipment that is well suited primarily for use in deepwater, harsh environment and severe service applications. The Company s principal products consist of subsea and surface wellheads, subsea and surface production trees, subsea control systems and manifolds, mudline hanger systems, specialty connectors and associated pipe, drilling and production riser systems, liner hangers, wellhead connectors, diverters and safety valves. Dril-Quip s products are used by major integrated, large independent and foreign national oil and gas companies and drilling contractors throughout the world. Dril-Quip also provides technical advisory assistance on an as-requested basis during installation of its products, as well as rework and reconditioning services for customer-owned Dril-Quip products. In addition, Dril-Quip s customers may rent or purchase running tools from the Company for use in the installation and retrieval of the Company s products. 
+  The Company s operations are organized into   three   geographic segments  Western Hemisphere (including North and South America; headquartered in Houston, Texas), Eastern Hemisphere (including Europe and Africa; headquartered in Aberdeen, Scotland) and Asia-Pacific (including the Pacific Rim, Southeast Asia, Australia, India and the Middle East; headquartered in Singapore). Each of these segments sells similar products and services, and the Company has major manufacturing facilities in all   three   of its regional headquarter locations as well as in Macae, Brazil. The Company s major subsidiaries are Dril-Quip (Europe) Limited, located in Aberdeen with branches in Denmark, Norway and Holland; Dril-Quip Asia-Pacific PTE Ltd., located in Singapore; and Dril-Quip do Brazil LTDA, located in Macae, Brazil.  Other operating subsidiaries include TIW Corporation (TIW), located in Houston, Texas;  DQ Holdings Pty. Ltd., located in Perth, Australia; Dril-Quip (Ghana) Ltd., located in Takoradi, Ghana; PT DQ Oilfield Services Indonesia, located in Jakarta, Indonesia; Dril-Quip (Nigeria) Ltd., located in Port Harcourt, Nigeria; Dril-Quip Egypt for Petroleum Services S.A.E., located in Alexandria, Egypt; Dril-Quip Oilfield Services (Tianjin) Co. Ltd., located in Tianjin, China, with branches in Shezhen and Beijing, China; and Dril-Quip Qatar LLC, located in Doha, Qatar; TIW de Mexico S.A. de C.V., located in Villahermosa, Mexico; TIW de Venezuela S.A., located in Anaco, Venezuela and with a registered branch located in Shushufindi, Ecuador; TIW (UK) Limited, located in Aberdeen, Scotland; TIW Hungary LLC, located in Szolnok, Hungary; and TIW International, LLC., with a registered branch located in Singapore.   
+  On January 6, 2017, the Company acquired The Technologies Alliance Inc. d/b/a OilPatch Technologies (OPT) for approximately   $20.0 million  , which was integrated into the Company s existing Western Hemisphere operations. 
+  The condensed consolidated financial statements included herein are unaudited. The balance sheet at   December 31, 2017   has been derived from the audited consolidated financial statements at that date. In the opinion of management, the unaudited condensed consolidated interim financial statements include all normal recurring adjustments necessary for a fair statement of the financial position as of   September 30, 2018   and the results of operations and comprehensive income for the   three and nine   months ended   September 30, 2018   and   2017   and cash flows for the   nine  -month periods ended   September 30, 2018   and   2017  . Certain information and footnote disclosures normally included in annual audited consolidated financial statements prepared in accordance with accounting principles generally accepted in the United States of America have been condensed or omitted pursuant to the rules and regulations of the Securities and Exchange Commission. Management believes the unaudited interim related disclosures in these condensed consolidated financial statements are adequate. The results of operations, comprehensive income and cash flows for the   nine  -month period ended   September 30, 2018   are not necessarily indicative of the results to be expected for the full year. The condensed consolidated financial statements included herein should be read in conjunction with the audited consolidated financial statements and notes thereto included in the Company s Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+   
+  2  .   Significant Accounting Policies    
+  Principles of Consolidation 
+  The condensed consolidated financial statements include the accounts of the Company and its subsidiaries. All material intercompany accounts and transactions have been eliminated. 
+  
+   7 
+
+     Table of Contents  
+
+Use of Estimates 
+  The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect reported amounts of assets and liabilities and disclosure of contingent assets and liabilities as of the date of the financial statements and reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates. Some of the Company s more significant estimates are those affected by critical accounting policies for revenue recognition, inventories and contingent liabilities. 
+  Revenue Recognition 
+  The Company generates revenues through the sale of products, the sale of services and the leasing of installation tools. The Company normally negotiates contracts for products, including those accounted for under the over time method, rental tools and services separately. Modifications to the scope and price of sales contracts may occur in the form of variations and change orders. For all product sales, it is the customer s decision as to the timing of the product installation as well as whether Dril-Quip running tools will be purchased or rented. Furthermore, the customer is under no obligation to utilize the Company s technical advisory assistance services. The customer may instead choose to use a third party or its own personnel. 
+  Product and Service Revenues 
+  Product and service revenues are recognized as the Company satisfies the performance obligation by transferring control of the promised good or service to the customer. Revenues are measured based on consideration specified in a contract with a customer and exclude sales incentives and amounts collected on behalf of third parties. In addition, some customers may impose contractually negotiated penalties for late delivery that are excluded from the transaction price. 
+  Management has elected to utilize certain practical expedients allowed under Accounting Standards Codification 606, Revenue from Contracts with Customers (ASC 606). Taxes assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected by the entity from a customer are excluded from the measurement of the transaction price. Shipping and handling activities that are performed after a customer obtains control of the good are accounted for as activities to fulfill the promise to transfer the good and thus are excluded from the transaction price. 
+  Product revenues 
+  The Company recognizes product revenues from   two   methods: 
+             
+    product revenues are recognized over time as control is transferred to the customer; and 
+                
+    product revenues from the sale of products that do not qualify for the over time method are recognized as point in time. 
+     Revenues recognized under the over time method 
+  The Company uses the over time method on long-term project contracts that have the following characteristics: 
+             
+    the contracts call for products which are designed to customer specifications; 
+                
+    the structural designs are unique and require significant engineering and manufacturing efforts generally requiring more than one year in duration; 
+                
+    the contracts contain specific terms as to milestones, progress billings and delivery dates; 
+                
+    product requirements cannot be filled directly from the Company s standard inventory; and 
+                
+    The Company has an enforceable right to payment for any work completed to date and the enforceable payment includes a reasonable profit margin. 
+     For each project, the Company prepares a detailed analysis of estimated costs, profit margin, completion date and risk factors which include availability of material, production efficiencies and other factors that may impact the project. On a quarterly basis, management reviews the progress of each project, which may result in revisions of previous estimates, including revenue recognition. The Company calculates the percentage complete and applies the percentage to determine the revenues earned and the appropriate portion of total estimated costs to be recognized. Losses, if any, are recorded in full in the period they become known. Historically, the Company s estimates of total costs and costs to complete have approximated actual costs incurred to complete the project. 
+  Under the over time method, billings may not correlate directly to the revenue recognized. Based upon the terms of the specific contract, billings may be in excess of the revenue recognized, in which case the amounts are included in customer prepayments as a liability on the Condensed Consolidated Balance Sheets. Likewise, revenue recognized may exceed customer billings in which case the amounts are reported in trade receivables. Unbilled revenues are expected to be billed and collected  
+  
+   8 
+
+     Table of Contents  
+
+within one year. At   September 30, 2018   and   December 31, 2017  , receivables included   $47.3 million   and   $41.0 million   of unbilled receivables, respectively. For the three months ended   September 30, 2018  , there were   eight   projects representing approximately   15.7%   of the Company's total revenues and approximately   23.1%   of its product revenues that were accounted for using the over time method, compared to   seven   projects for the three months ended   September 30, 2017  , which represented approximately   15.0%   of the Company's total revenues and approximately   20.0%   of its product revenues. For the   nine   months ended   September 30, 2018  , there were   14   projects representing approximately   14.0%   of the Company s total revenues and approximately   20.3%   of its product revenues that were accounted for using over time accounting, compared to   eight   projects for the   nine   months ended   September 30, 2017  , which represented approximately   15.0%   of the Company s total revenues and approximately   19.0%   of its product revenues.  
+  Revenues recognized under the point in time method 
+  Revenues from the sale of standard inventory products, not accounted for under the over time method, are recorded at the point in time that the customer obtains control of the promised asset and the Company satisfies its performance obligation. This point in time recognition aligns with the time of shipment, which is when the Company typically has a present right to payment, title transfers to the customer, the customer or its carrier has physical possession and the customer has significant risks and rewards of ownership.  The Company may provide product storage to some customers. Revenues for these products are recognized at the point in time that control of the product transfers to the customer, the reason for storage is requested by the customer, the product is separately identified, the product is ready for physical transfer to the customer and the Company does not have the ability to use or direct the use of the product. This point in time typically occurs when the products are moved to storage. We receive payment after control of the products has transferred to the customer. 
+  Service revenues 
+  The Company recognizes service revenues from   two   sources: 
+             
+    technical advisory assistance; and 
+                
+    rework and reconditioning of customer-owned Dril-Quip products. 
+     The Company generally does not install products for its customers, but it does provide technical advisory assistance. 
+  The Company normally negotiates contracts for products, including those accounted for under the over time method, and services separately. For all product sales, it is the customer s decision as to the timing of the product installation as well as whether Dril-Quip running tools will be purchased or rented. Furthermore, the customer is under no obligation to utilize the Company s technical advisory assistance services. The customer may use a third party or their own personnel.  The contracts for these services are typically considered day-to-day. 
+  Rework and reconditioning service revenues are recorded using the over time method based on the remaining steps that need to be completed as the refurbishment process is performed. The measurement of progress considers, among other things, the time necessary for completion of each step in the reconditioning plan, the materials to be purchased, labor and ordering procedures. We receive payment after the services have been performed by billing customers periodically (typically monthly). 
+  Lease revenues 
+  The Company earns lease revenues from the rental of running tools. Rental revenues are recognized within service revenues on a dayrate basis over the lease term. 
+  Practical Expedients 
+  We do not disclose the value of unsatisfied performance obligations for contracts with an original expected length of one year or less. 
+  Fair Value of Financial Instruments 
+  The Company s financial instruments consist primarily of cash and cash equivalents, receivables and payables. The carrying values of these financial instruments approximate their respective fair values as they are short-term in nature. 
+  Restructuring and Other Charges  
+  In the third quarter of 2018, we initiated a global strategic analysis to better align our operations with current market conditions.  As a result of this plan, during the three and nine months ended September 30, 2018, we incurred restructuring and other charges of approximately   $3.7 million   primarily related to employee termination benefits and consulting fees, which are included in "Selling, general and administrative" in our accompanying condensed consolidated statement of income (loss). 
+  
+   9 
+
+     Table of Contents  
+
+Treasury Shares 
+  On July 26, 2016, the Board of Directors authorized a share repurchase plan under which the Company can repurchase up to   $100 million   of its common stock. The repurchase plan has no set expiration date and any repurchased shares are expected to be cancelled.  For the three-month period ended September 30, 2018, the Company purchased   1,395,521   shares under the share repurchase plan at an average price of approximately   $50.95   per share totaling approximately   $71.1 million  , which is reflected in "Treasury shares (at cost)", in our accompanying condensed consolidated balance sheet.  In May 2018, the Company purchased   219,102   shares under the share repurchase plan at an average price of approximately $  44.87   per share totaling approximately   $9.8 million   and retired such shares, which is reflected within our retained earnings for the period ended September 30, 2018. 
+  Earnings Per Share 
+  Basic earnings per common share is computed by dividing net income by the weighted average number of shares of common stock outstanding during the period. Diluted earnings per common share is computed considering the dilutive effect of stock options and awards using the treasury stock method. 
+  In each relevant period, the net income used in the basic and dilutive earnings per share calculations is the same. The following table reconciles the weighted average basic number of common shares outstanding and the weighted average diluted number of common shares outstanding for the purpose of calculating basic and diluted earnings per share: 
+
+For the three and   nine   months ended   September 30, 2018  , the Company has excluded the following common stock options and awards because their impact on the loss per share is anti-dilutive (in thousands on a weighted average basis): 
+
+3  .   New Accounting Standards    
+  In January 2017, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) 2017-04,  Intangibles - Goodwill and Other (Topic 350).   The standard simplifies the subsequent measurement of goodwill by removing the second step of the two-step impairment test.  The amendment requires an entity to perform its annual or interim goodwill impairment test by comparing the fair value of a reporting unit with its carrying amount.  An impairment charge should be recognized for the amount by which the carrying amount exceeds the reporting unit's fair value; however, the loss recognized should not exceed the total amount of goodwill allocated to that reporting unit.  An entity still has the option to perform the qualitative assessment for a reporting unit to determine if the quantitative impairment test is necessary.  The amendment should be applied on a prospective basis.  The standard is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years.  Early adoption is permitted for interim or annual goodwill impairment tests performed on testing dates after January 1, 2017.  The Company has adopted this standard as of October 1, 2017. 
+
+10 
+
+     Table of Contents  
+
+In January 2017, the FASB issued ASU 2017-01,  Business Combinations: Clarifying the Definition of a Business (Topic 805).  This update clarifies the definition of a business with the objective of adding guidance to assist entities with evaluating whether transactions should be accounted for as acquisitions (or disposals) of assets or businesses. For public business entities, the amendments in this update are effective for fiscal years beginning after December 15, 2017, including interim periods within those fiscal years. The Company has adopted this standard as of December 31, 2017. 
+  In February 2016, the FASB issued ASU 2016-02  Leases (Topic 842).  The new standard requires lessees to recognize lease assets (right of use) and lease obligations (lease liability) for leases previously classified as operating leases under generally accepted accounting principles on the balance sheet for leases with terms in excess of 12 months.  The standard is effective for annual periods beginning after December 15, 2018, including interim periods within those fiscal years.  The Company has engaged a third-party expert to assist in the analysis of its lease arrangements to ensure the appropriate steps are taken in its assessment of the standard. The ultimate effect on our condensed consolidated financial statements will be based on an evaluation of the contract-specific facts and circumstances. With respect to leases in which we are the lessee, we expect to recognize a lease liability and a corresponding right of use asset. We plan to utilize the FASB package of three practical expedients under ASC 842-10-65-1(f). We are currently evaluating what other effect, if any, ASC 842 will have on our condensed consolidated financial statements and related disclosures.  
+  Adoption of ASC Topic 606,  Revenue from Contracts with Customers  
+  In May 2014, the FASB issued ASU 2014-09  Revenue from Contracts with Customers (Topic 606).  On January 1, 2018, we adopted the new accounting standard ASC 606, Revenue from Contracts with Customers and all the related amendments (the "new revenue standard ) for contracts that are not completed at the date of initial application using the modified retrospective method. 
+  We recognized the cumulative effect of the initial application of the new revenue standard as an increase to the opening balance of retained earnings at January 1, 2018 for   $1.8 million  . Therefore, the comparative information for prior periods has not been restated and continues to be reported under the accounting standards in effect for those periods. 
+  A majority of the Company's revenues are not subject to the new revenue standard.  The adoption of ASC 606 resulted in an increase of approximately   $0.1 million   and   $2.4 million   in our results from operations for the three and   nine   months ended   September 30, 2018  , respectively, and did not have a material impact on the Company's consolidated financial position, results of operations, equity or cash flows.  A majority of our product revenues continues to be recognized when products are shipped from our facilities. 
+   
+  4  .   Revenue Recognition (Adoption of ASC 606)    
+  Revenues from contracts with customers consisted of the following: 
+
+11 
+
+     Table of Contents  
+
+Contract Balances 
+  Balances related to contracts with customers consisted of the following: 
+  Contract Assets (amounts shown in thousands) 
+
+Contract Liabilities (amounts shown in thousands) 
+
+Receivables, which are included in trade receivables, net, were   $98.3 million   and   $136.5 million   for the   nine   months ended   September 30, 2018   and December 31,   2017  , respectively. The amount of revenues from performance obligations satisfied (or partially satisfied) in previous periods was   $3.9 million   and   $15.7 million   for the three and   nine   months ended   September 30, 2018  , respectively. The contract liabilities primarily relate to advance payments from customers and are included in "Customer prepayments" in our accompanying condensed consolidated balance sheets. The contract assets primarily relate to unbilled amounts typically resulting from sales under contracts when the over time method of revenue recognition is utilized and revenue recognized exceeds the amount billed to the customer and is included in "Trade receivables, net" in our accompanying condensed consolidated balance sheets. Contract assets are transferred to the receivables when the rights become unconditional. 
+  Obligations for returns and refunds were considered immaterial as of   September 30, 2018  . 
+  Remaining Performance Obligations 
+  The aggregate amount of the transaction price allocated to remaining performance obligations from our reconditioning services and over time product lines was   $33.8 million   as of   September 30, 2018  . The Company expects to recognize revenue on approximately   85%   and   15%   of the remaining performance obligations over the next   12   and   24   months, respectively, with the remainder recognized thereafter. 
+  The Company applies the practical expedient available under the new revenue standard and does not disclose information about remaining performance obligations that have original expected durations of one year or less. 
+   
+  5  .   Stock-Based Compensation and Stock Awards    
+  During the   three and nine   months ended   September 30, 2018  , the Company recognized approximately   $2.4 million   and   $10.0 million  , respectively, of stock-based compensation expense, which is included in "Selling, general and administrative" in our accompanying condensed consolidated statements of income (loss) and "Additional paid-in capital" in our accompanying condensed consolidated balance sheets, compared to   $3.7 million   and   $10.5 million   recognized for the   three and nine   months ended   September 30, 2017  , respectively.    No   stock-based compensation expense was capitalized during the   three and nine   months ended   September 30, 2018   or   2017  . 
+  
+   12 
+
+Table of Contents  
+
+6  .   Inventories, net    
+  Inventories consist of the following: 
+
+7  .   Goodwill    
+  The changes in the carrying amount of goodwill by reporting unit during the   nine   months ended   September 30, 2018   were as follows: 
+
+The Company performs its annual impairment tests of goodwill as of October 1 or when there is an indication an impairment may have occurred.  As of September 30, 2018, there were no indications an impairment may have occurred.  
+  The fair values used in the goodwill impairment assessment were determined using the net present value of the expected future cash flows for the reporting unit. During the Company s goodwill impairment analysis, the Company determines the fair value of the reporting unit, as a whole, using a discounted cash flow analysis, which requires significant assumptions and estimates about future operations. The assumptions about future cash flows and growth rates are based on our current budget for the remainder of the current year, 2019 and for future periods, as well as our strategic plans and management s beliefs about future exploration and development in the industry. Changes in management's forecast commodity price assumptions may cause us to reassess our goodwill for impairment and could result in non-cash impairment charges in the future. 
+
+13 
+
+Table of Contents  
+
+8  .   Intangible Assets    
+  Intangible assets, substantially all of which were acquired in the acquisition of TIW and OPT, consist of the following: 
+
+Amortization expense for each of the three and   nine   months ended   September 30, 2018   was   $0.6 million   and   $1.7 million  , respectively, compared to the three and nine months ended September 30, 2017 of   $0.6 million   and   $1.8 million  , respectively. 
+   
+  9  .   Gain on Sale of Assets    
+  During the second quarter of 2018, we sold certain property, plant and equipment for a net gain of approximately   $5.1 million   as part of our reorganization and consolidation of operations at our headquarters location in Houston, Texas. A gain on property, plant and equipment or intangible assets is calculated as the difference between the cost of the asset disposed of, net of depreciation, and the sales proceeds received. The net gain is reflected in "Gain on sale of assets" in our accompanying condensed consolidated statements of income (loss).  There were no significant sales of assets during the three months ended September 30, 2018. 
+   
+  10  .   Impairments and Other Charges    
+  We carry a variety of long-lived assets on our balance sheet, including property, plant and equipment, goodwill and other intangibles. We conduct impairment tests on long-lived assets if events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. We review the recoverability of the carrying value of our assets based upon estimated future cash flows while taking into consideration assumptions and estimates, including the future use of the asset, remaining useful life of the asset and service potential of the asset.  Additionally, inventories are valued at the lower of cost or market. 
+  In connection with our preparation and review of financial statements for the quarter ended September 30, 2017, after considering current Brent Crude consensus forecasts and expected rig counts for the foreseeable future, we determined that the carrying amount of certain of our long-lived assets in the Western Hemisphere exceeded their respective fair values due to projected declines in asset utilization and that the cost of some of our worldwide inventory exceeded its market value.  As a result, we recorded corresponding impairments and other charges. 
+  
+   14 
+
+     Table of Contents  
+
+Primarily as a result of the factors described above, we recorded charges of approximately   $33.6 million   related to inventory and   $27.4 million   related to fixed assets during the three and nine months ended September 30, 2017.  There were   no   impairments during the three and nine months ended September 30, 2018. 
+   
+  11  .   Asset Backed Loan (ABL) Credit Facility    
+  On February 23, 2018, the Company, as borrower, and the Company s subsidiaries TIW and Honing, Inc., as guarantors, entered into a   five  -year senior secured revolving credit facility (the  ABL Credit Facility ) with JPMorgan Chase Bank, N.A., as administrative agent, and other financial institutions as lenders with total commitments of   $100.0 million  , including up to   $10.0 million   available for letters of credit. The maximum amount that the Company may borrow under the ABL Credit Facility is subject to the borrowing base, which is based on a percentage of eligible accounts receivable and eligible inventory, subject to reserves and other adjustments. 
+  All obligations under the ABL Credit Facility are fully and unconditionally guaranteed jointly and severally by the Company, TIW, Honing, Inc., and future significant domestic subsidiaries, subject to customary exceptions. Borrowings under the ABL Credit Facility are secured by liens on substantially all of the Company s personal property, and bear interest at the Company s option at either (i) the CB Floating Rate (as defined therein), calculated as the rate of interest publicly announced by JPMorgan Chase Bank, N.A., as its  prime rate,  subject to each increase or decrease in such prime rate effective as of the date such change occurs, with such CB Floating Rate not being less than Adjusted One Month LIBOR (as defined therein) or (ii) the Adjusted LIBOR (as defined therein), plus, in each case, an applicable margin. The applicable margin ranges from   1.00%   to   1.50%   per annum for CBFR loans and   2.00%   to   2.50%   per annum for Eurodollar loans and, in each case, is based on the Company s leverage ratio. The unused portion of the ABL Credit Facility is subject to a commitment fee that varies from   0.250%   to   0.375%   per annum, according to average unused commitments under the ABL Credit Facility. Interest on Eurodollar loans is payable at the end of the selected interest period, but no less frequently than quarterly. Interest on CB Floating Rate loans is payable monthly in arrears. 
+  The ABL Credit Facility contains various covenants and restrictive provisions that limit the Company s ability to, among other things, (1) enter into asset sales; (2) incur additional indebtedness; (3) make investments or loans and create liens; (4) pay certain dividends or make other distributions and (5) engage in transactions with affiliates. The ABL Credit Facility also requires the Company to maintain a fixed charge coverage ratio of   1.0   to 1.0, based on the ratio of EBITDA (as defined therein) to Fixed Charges (as defined therein) during certain periods, including when availability under the ABL Credit Facility is under certain levels. If the Company fails to perform its obligations under the agreement that results in an event of default, the commitments under the ABL Credit Facility could be terminated and any outstanding borrowings under the ABL Credit Facility may be declared immediately due and payable. The ABL Credit Facility also contains cross default provisions that apply to the Company s other indebtedness. The Company is in compliance with the related covenants as of   September 30, 2018  . 
+  As of   September 30, 2018  , the availability under the ABL Credit Facility was $  56.0 million  , after taking into account the outstanding letters of credit of approximately   $0.3 million   issued under the facility. 
+  
+   15 
+
+Table of Contents  
+
+12  .   Geographic Areas    
+
+16 
+
+     Table of Contents  
+
+The Company s operations are organized into   three   geographic segments - Western Hemisphere (including North and South America; headquartered in Houston, Texas), Eastern Hemisphere (including Europe and Africa; headquartered in Aberdeen, Scotland) and Asia-Pacific (including the Pacific Rim, Southeast Asia, Australia, India and the Middle East; headquartered in Singapore). Each of these segments sells similar products and services and the Company has major manufacturing facilities in all   three   of its regional headquarter locations as well as in Macae, Brazil. 
+  Eliminations of operating profits are related to intercompany inventory transfers that are deferred until shipment is made to third party customers. 
+
+17 
+
+     Table of Contents  
+
+13  .   Income Tax    
+  The effective tax rates for the three and nine months ended September 30, 2018 were   16.4%   and   (12.4)%  , respectively, compared to   52.0%   and   52.2%   for the same periods in 2017. The Company established valuation allowances on deferred tax assets for losses and tax credits generated in each period, which, when applied to losses for the three and  nine months ended September 30, 2018, resulted in lower effective tax rates than the U.S. statutory rate. The negative tax rate for the nine months ended September 30, 2018 is the result of net tax expense recorded against a pre-tax loss for the period.  The change in effective tax rate from 2017 to 2018 was also impacted by the decrease in the U.S. federal corporate tax rate from 35% in 2017 to 21% in 2018.  
+  On December 22, 2017, the President of the United States signed into law P.L. 115-97, informally known as the Tax Cuts and Jobs Act of 2017 ("Tax Reform"). Tax Reform amends the Internal Revenue Code to reduce tax rates and modify policies, credits and deductions for individuals and businesses. For businesses, Tax Reform reduced the corporate federal tax rate from a maximum of 35% to 21% and transitions from a worldwide tax system to a modified territorial tax system. Tax Reform also adds many new provisions including changes to bonus depreciation, the deduction for executive compensation and interest expense, a tax on global intangible low-taxed income, the base erosion anti-abusive tax and a deduction for foreign-derived intangible income.  Given the amount and complexity of the changes to tax law, we continue to finalize our accounting for the income tax effects stemming from Tax Reform. At December 31, 2017, certain provisional amounts were taken as estimates to account for the impact of Tax Reform. The actual impact of Tax Reform may differ from the estimates used due to, among other things, further refinement of our calculations, changes in interpretations and assumptions we have made, guidance that may be issued and actions we may take as a result of the tax legislation. Any adjustments to these provisional estimates will be reported as a component of income tax expense in the reporting period in which any such adjustments are identified, which will be no later than the fourth quarter of 2018. For the three and nine months ended September 30, 2018, the Company reclassified   $28.0 million   from current income taxes payable to non-current income taxes payable due to tax return elections, recent guidance and regulations occurring in the quarter. 
+
+14  .   Commitments and Contingencies    
+  Brazilian Tax Issue 
+  From 2002 to 2007, the Company s Brazilian subsidiary imported goods through the State of Espirito Santo in Brazil and subsequently transferred them to its facility in the State of Rio de Janeiro. During that period, the Company s Brazilian subsidiary paid taxes to the State of Espirito Santo on its imports. Upon the final sale of these goods, the Company s Brazilian subsidiary collected taxes from customers and remitted them to the State of Rio de Janeiro net of the taxes paid on importation of those goods to the State of Espirito Santo in accordance with the Company s understanding of Brazilian tax laws. 
+  In December 2010 and January 2011, the Company s Brazilian subsidiary was served with   two   assessments totaling approximately   $13.0 million   from the State of Rio de Janeiro to cancel the credits associated with the tax payments to the State of Espirito Santo (Santo Credits) on the importation of goods from July 2005 to October 2007. The Company has objected to these assessments on the grounds that they would represent double taxation on the importation of the same goods and that the Company is entitled to the credits under applicable Brazilian law. The Company s Brazilian subsidiary filed appeals with a State of Rio de Janeiro judicial court to annul both of these tax assessments following rulings against the Company by the tax administration s highest council. In connection with those appeals, the Company deposited with the court a total amount of approximately   $8.8 million   in December 2014 and December 2016 as the full amount of the assessments with penalties and interest. The Company believes that these credits are valid and that success in the judicial court process is probable. Based upon this analysis, the Company has not accrued any liability in conjunction with this matter. 
+  Since 2007, the Company s Brazilian subsidiary has paid taxes on the importation of goods directly to the State of Rio de Janeiro and the Company does not expect any similar issues to exist for periods subsequent to 2007. 
+  
+   18 
+
+     Table of Contents  
+
+General 
+  The Company operates its business and markets its products and services in most of the significant oil and gas producing areas in the world and is, therefore, subject to the risks customarily attendant to international operations and dependency on the condition of the oil and gas industry. Additionally, products of the Company are used in potentially hazardous drilling, completion, and production applications that can cause personal injury, property damage and environmental claims. Although exposure to such risk has not resulted in any significant problems in the past, there can be no assurance that ongoing and future developments will not adversely impact the Company. 
+  The Company is also involved in a number of legal actions arising in the ordinary course of business. Although no assurance can be given with respect to the ultimate outcome of such legal action, in the opinion of management, the ultimate liability with respect thereto will not have a material adverse effect on the Company s results of operations, financial position or cash flows. 
+
+15  .    Subsequent Events    
+  On October 18, 2018, we announced that Dril-Quip (Europe) Limited, our wholly owned subsidiary, has entered into a Front End Engineering and Design (FEED) Contract and Frame Agreement with Premier Oil Exploration and Production Limited (Premier) to provide the subsea production systems for the Sea Lion Phase 1 Development located offshore the Falkland Islands.  The Frame Agreement replaces the previously announced letter of intent. The current estimated value of the equipment portion of the scope of work is   $207 million  , which includes plans for up to   30   subsea production systems, including wellheads, horizontal trees, tubing hangers, control systems, associated production and injection manifolds and subsea umbilicals.  Under the Frame Agreement, it is envisaged that Dril-Quip will provide vendor financing for up to   30%   of the equipment portion of the contract.  Formal contract award will be subject to agreement of a definitive contract and Premier taking a final investment decision. 
+
+19 
+
+Table of Contents  
+
+Item 2.        Management s Discussion and Analysis of Financial Condition and Results of Operations 
+  The following is management s discussion and analysis of certain significant factors that have affected aspects of the Company s financial position, results of operations, comprehensive income and cash flows during the periods included in the accompanying unaudited condensed consolidated financial statements. This discussion should be read in conjunction with the Company's unaudited condensed consolidated financial statements and notes thereto presented elsewhere herein as well as the discussion under  Risk Factors,   Management s Discussion and Analysis of Financial Condition and Results of Operations  and the financial statements included in the Company s Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+   
+  Overview 
+  Dril-Quip, Inc., a Delaware corporation (the  Company  or  Dril-Quip ), designs, manufactures, sells and services highly engineered drilling and production equipment that is well suited primarily for use in deepwater, harsh environment and severe service applications. The Company s principal products consist of subsea and surface wellheads, subsea and surface production trees, subsea control systems and manifolds, mudline hanger systems, specialty connectors and associated pipe, drilling and production riser systems, liner hangers, wellhead connectors, diverters and safety valves. Dril-Quip s products are used by major integrated, large independent and foreign national oil and gas companies and drilling contractors throughout the world. Dril-Quip also provides technical advisory assistance on an as-requested basis during installation of its products, as well as rework and reconditioning services for customer-owned Dril-Quip products. In addition, Dril-Quip s customers may rent or purchase running tools from the Company for use in the installation and retrieval of the Company s products. 
+  Oil and Gas Prices 
+  The market for drilling and production equipment and services and the Company s business are substantially dependent on the condition of the oil and gas industry and, in particular, the willingness of oil and gas companies to make capital expenditures on exploration, drilling and production operations. Oil and gas prices and the level of drilling and production activity have historically been characterized by significant volatility. 
+  According to the Energy Information Administration (EIA) of the U.S. Department of Energy, Brent Crude oil prices per barrel are listed below for the periods covered by this report: 
+
+According to the   October 2018   release of the Short-Term Energy Outlook published by the EIA, Brent Crude oil prices are projected to average approximately   $74.0   per barrel in   2018   and   $75.0   per barrel in   2019  . In its   October 2018   Oil Market Report, the International Energy Agency projected the   2018   global oil demand will grow to   79.0   million barrels per day, a   1.3   million barrels per day   increase   over   2017  . 
+  
+   20 
+
+     Table of Contents  
+
+Offshore Rig Count 
+  Detailed below is the average contracted offshore rig count (rigs currently drilling as well as rigs committed, but not yet drilling) for the Company s geographic regions for the   nine   months ended   September 30, 2018   and   2017  . The rig count data includes floating rigs (semi-submersibles and drillships) and jack-up rigs. The Company has included only these types of rigs as they are the primary assets used to deploy the Company s products. 
+
+Source: IHS Petrodata RigBase     September 30, 2018   and   2017    
+  According to IHS-Petrodata RigBase, as of   September 30, 2018  , there were 466 contracted rigs for the Company s geographic regions (145 floating rigs and 321 jack-up rigs), which represents a marginal increase from the rig count of   464   rigs (  148   floating rigs and   316   jack-up rigs) as of   September 30, 2017  .  
+  The Company believes that the number of rigs (semi-submersibles, drillships and jack-up rigs) under construction impacts its backlog and resulting revenues because in certain cases, its customers order some of the Company s products during the construction of such rigs. As a result, an increase in rig construction activity tends to favorably impact the Company s backlog while a decrease in rig construction activity tends to negatively impact the Company s backlog. According to IHS-Petrodata RigBase, as of   September 30, 2018   and   2017  , there were   126   and   143   rigs, respectively, under construction, which represents an approximate   12%     decrease   in rigs under construction. The expected delivery dates for the rigs under construction at   September 30, 2018   are as follows: 
+
+However, given the slow recovery of oil and gas prices and oversupply of offshore drilling rigs, the Company believes it is possible that delivery of some rigs under construction could be postponed or cancelled, limiting the opportunity for supply of the Company s products. 
+  Regulation 
+  The demand for the Company s products and services is also affected by laws and regulations relating to the oil and gas industry in general, including those specifically directed to offshore operations. The adoption of new laws and regulations, or changes to existing laws or regulations that curtail exploration and development drilling for oil and gas for economic or other policy reasons, could adversely affect the Company s operations by limiting demand for its products. 
+  
+   21 
+
+     Table of Contents  
+
+In March 2018, the President of the United States issued a proclamation imposing a 25 percent global tariff on imports of certain steel products, effective March 23, 2018. The President subsequently proposed an additional 25 percent tariff on approximately $50 billion worth of imports from China, and the government of China responded with a proposal of an additional 25 percent tariff on U.S. goods with a value of $50 billion.  The initial U.S. tariffs were implemented on July 6, 2018 covering $34 billion worth of Chinese goods, with another $16 billion of goods facing tariffs beginning on August 23, 2018. In September 2018, the President directed the U.S. Trade Representative to place additional tariffs on approximately $200 billion worth of additional imports from China. These tariffs, which took effect on September 24, 2018, initially have been set at a level of 10 percent until the end of the year, at which point the tariffs will rise to 25 percent.  These tariffs, or any additional tariffs or trade restrictions initiated by or against the United States, could cause our cost of raw materials to increase or affect the markets for our products.  However, given the uncertainty regarding the scope and duration of these trade actions by the United States and other countries, their ultimate impact on our business and operations remains uncertain. 
+  Business Environment 
+  Oil and gas prices and the level of drilling and production activity have been characterized by significant volatility in recent years. Worldwide military, political, economic and other events have contributed to oil and natural gas price volatility and are likely to continue to do so in the future. Sustained low crude oil and natural gas prices have resulted in a trend of customers seeking to renegotiate contract terms with the Company, including reductions in the prices of its products and services, extensions of delivery terms and, in some instances, contract cancellations or revisions. In some cases, a customer may already hold an inventory of the Company's equipment, which may delay the placement of new orders. In addition, some of the Company s customers could experience liquidity or solvency issues or could otherwise be unable or unwilling to perform under a contract, which could ultimately lead a customer to enter bankruptcy or otherwise encourage a customer to seek to repudiate, cancel or renegotiate a contract. An extended period of reduced crude oil and natural gas prices may accelerate these trends. If the Company experiences significant contract terminations, suspensions or scope adjustments to its contracts, then its financial condition, results of operations and cash flows may be adversely impacted. 
+  The Company expects continued pressure in both crude oil and natural gas prices, as well as in the level of drilling and production related activities.  Even during periods of increasing prices for oil and natural gas, companies exploring for oil and gas may cancel or curtail programs, seek to renegotiate contract terms, including the price of products and services, or reduce their levels of capital expenditures for exploration and production for a variety of reasons.  Continued low hydrocarbon prices have had and are expected to continue to have a material adverse effect on the Company s results of operations. 
+  The Company believes that its backlog should help mitigate the impact of negative market conditions; however, slow recovery in the commodity prices or an extended downturn in the global economy or future restrictions on, or declines in, oil and gas exploration and production could have a negative impact on the Company and its backlog. The Company s product backlog at   September 30, 2018   was approximately   $249.0 million  , compared to approximately   $260.9 million   at   June 30, 2018  ,    $266.7 million   at   March 31, 2018   and   $207.3 million   at   December 31, 2017  . 
+  
+   22 
+
+     Table of Contents  
+
+The following table represents the change in backlog for the   three   months ended   September 30, 2018  ,   June 30, 2018  ,   March 31, 2018   and   December 31, 2017  : 
+
+(1) The backlog data shown above includes all bookings as of September 30, 2018, including contract awards and signed purchase orders for which the contracts would not be considered enforceable or qualify for the practical expedient under ASC 606. As of September 30, 2018, approximately $84 million related to contract awards is included in our backlog. As a result, this table above will not agree to the disclosed performance obligations of $33.8 million within "Revenue Recognition (Adoption of ASC 606)", Note 4 to the Notes to Condensed Consolidated Financial Statements.   
+  During the first quarter of 2018, Dril-Quip Asia-Pacific Pte Ltd. was awarded a contract to supply top-tensioned riser (TTR) systems and related services for the development of the Ca Rong Do Project (CRD Project) located offshore Vietnam operated by Repsol with the participation of Mubadala, PVEP and PetroVietnam.  The CRD Project is included within the backlog balance presented in the table above; however, due to ongoing territorial discussions between China and Vietnam, the CRD Project may experience continued delays or cancellation.  
+  In August 2012, the Company s Brazilian subsidiary, Dril-Quip do Brasil LTDA, was awarded a four-year contract by Petroleo Brasileiro S.A. (Petrobras), Brazil s national oil company, which was amended in 2016 to extend the term of the contract through July 2020.  As of   September 30, 2018  , the Company s backlog included   $5.6 million   of purchase orders under this Petrobras contract. The Company has not yet recognized revenue of approximately   $1.5 million   as of   September 30, 2018   for certain items of equipment that were completed but not yet accepted for delivery by Petrobras. If Petrobras does not ultimately accept these items for delivery or if they refuse to accept these or similar items completed in the future, the Company s results of operations may be adversely affected  .    As part of the amendment to extend the term of the contract, Petrobras agreed to issue purchase orders totaling a minimum of approximately   $24.5 million   (based on current exchange rates) before 2019.  As of   September 30, 2018  , approximately   $5.6 million   of the purchase orders have been issued (based on current exchange rates). The Company cannot provide assurance that Petrobras will order all of the equipment under the contract. 
+  As of   September 30, 2017  , the total number of the Company's employees was   2,067  , of which   1,099   were located in the United States. The total number of the Company s employees as of December 31, 2017 was   2,019  , of which   1,095   were located in the United States. As a result of natural attrition and reductions in workforce, the total number of employees as of   September 30, 2018   was   1,849  , of which   820   were located in the United States. 
+  The Company operates its business and markets its products and services in most of the significant oil and gas producing areas in the world and is, therefore, subject to the risks customarily attendant to international operations and investments in foreign countries. These risks include nationalization, expropriation, war, acts of terrorism and civil disturbance, restrictive action by local governments, limitation on repatriation of earnings, change in foreign tax laws and change in currency exchange rates, any of which could have an adverse effect on either the Company s ability to manufacture its products in its facilities abroad or the demand in certain regions for the Company s products or both. To date, the Company has not experienced any significant problems in foreign countries arising from local government actions or political instability, but there is no assurance that such problems will not arise in the future. Interruption of the Company s international operations could have a material adverse effect on its overall operations. 
+  
+   23 
+
+     Table of Contents  
+
+The June 23, 2016 referendum by British voters to exit the European Union (Brexit) adversely impacted global markets, including currencies, and resulted in a decline in the value of the British pound sterling, as compared to the U.S. dollar and other currencies. Volatility in exchange rates could be expected to continue in the short term as the United Kingdom (U.K.) negotiates its exit from the European Union. A weaker British pound sterling compared to the U.S. dollar during a reporting period would cause local currency results of the Company's U.K. operations to be translated into fewer U.S. dollars. Continued adverse consequences such as deterioration in economic conditions and volatility in currency exchange rates could have a negative impact on the Company's financial position and results of operations. See  Our international operations expose us to instability and changes in economic and political conditions and other risks inherent to international business, which could have a material adverse effect on our results of operations, financial position or cash flows" under "Item 1A. Risk Factors" in Part I of the Company's Annual Report on Form 10-K for the year ended December 31, 2017.  
+  In the third quarter of 2018, we initiated a global strategic analysis to better align our operations with current market conditions.  As a result of our ongoing analysis, we expect related cost savings to begin in early 2019. 
+  Revenues  . Dril-Quip s revenues are generated from two sources: products and services. Product revenues are derived from the sale of drilling and production equipment. Service revenues are earned when the Company provides technical advisory assistance and rental tools during installation and retrieval of the Company s products. Additionally, the Company earns service revenues when rework and reconditioning services are provided. For the three months ended   September 30, 2018   and   2017  , the Company derived   67.8%   and   75.6%  , respectively, of its revenues from the sale of its products and   32.2%   and   24.4%  , respectively, of its revenues from services.  For the   nine   months ended   September 30, 2018   and 2017, the Company derived   69.3%   and   77.6%  , respectively, of its revenues from the sales of its products and   30.7%   and   22.4%  , respectively, of its revenues from services. Service revenues generally correlate to revenues from product sales because increased product sales typically generate increased demand for technical advisory assistance services and rental of running tools during installation. The Company has substantial international operations, with approximately   57.0%   and   56.0%   of its revenues derived from foreign sales for the   nine   months ended   September 30, 2018   and   2017  , respectively. The majority of the Company s domestic revenue relates to operations in the U.S. Gulf of Mexico. Domestic revenue approximated   43.0%   and   44.0%   of the Company s total revenues for the   nine   months ended   September 30, 2018   and   2017  , respectively. 
+  Product contracts are negotiated and sold separately from service contracts. In addition, service contracts are not typically included in the product contracts or related sales orders and are not offered to the customer as a condition of the sale of the Company s products. The demand for products and services is generally based on worldwide economic conditions in the oil and gas industry and is not based on a specific relationship between the two types of contracts. Substantially all of the Company s sales are made on a purchase order basis. Purchase orders are subject to change and/or termination at the option of the customer. In case of a change or termination, the customer is required to pay the Company for work performed and other costs necessarily incurred as a result of the change or termination. 
+  Generally, the Company attempts to raise its prices as its costs increase. However, the actual pricing of the Company s products and services is impacted by a number of factors, including global oil prices, competitive pricing pressure, the level of utilized capacity in the oil service sector, maintenance of market share, the introduction of new products and general market conditions. 
+  The Company accounts for larger and more complex projects that have relatively longer manufacturing time frames on an over time basis. For the three months ended   September 30, 2018  , there were   eight   projects representing approximately   15.7%   of the Company s total revenues and approximately   23.1%   of its product revenues that were accounted for using over time accounting, compared to   seven   projects for the three months ended   September 30, 2017  , which represented approximately   15.0%   of the Company s total revenues and approximately   20.0%   of its product revenues.  For the   nine   months ended   September 30, 2018  , there were   14   projects representing approximately   14.0%   of the Company s total revenues and approximately   20.3%   of its product revenues that were accounted for using over time accounting, compared to   eight   projects for the   nine   months ended   September 30, 2017  , which represented approximately   15.0%   of the Company s total revenues and approximately   19.0%   of its product revenues.  These percentages may fluctuate in the future. Revenues accounted for in this manner are generally recognized based upon a calculation of the percentage complete, which is used to determine the revenue earned and the appropriate portion of total estimated cost of sales to be recognized. Accordingly, price and cost estimates are reviewed periodically as the work progresses, and adjustments proportionate to the percentage complete are reflected in the period when such estimates are revised. Losses, if any, are recorded in full in the period they become known. Amounts received from customers in excess of revenues recognized are classified as a current liability. 
+  Cost of Sales  . The principal elements of cost of sales are labor, raw materials and manufacturing overhead. Cost of sales as a percentage of revenues is influenced by the product mix sold in any particular period, costs from projects accounted for under the over time method, over/under manufacturing overhead absorption, pricing and market conditions. The Company s costs related to its foreign operations do not significantly differ from its domestic costs. 
+  
+   24 
+
+     Table of Contents  
+
+Selling, General and Administrative Expenses  . Selling, general and administrative expenses include the costs associated with sales and marketing, general corporate overhead, business development expenses, compensation expense, stock-based compensation expense, legal expenses, foreign currency transaction gains and losses and other related administrative functions.  
+  Engineering and Product     Development Expenses  . Engineering and product development expenses consist of new product development and testing, as well as application engineering related to customized products. 
+  Gain on sale of assets.    Gain on sale of assets consists of sales of certain property, plant and equipment of $5.1 million, which occurred during the three months ended June 30, 2018.  See "Gain on Sale of Assets," Note   9   to the Notes to Condensed Consolidated Financial Statements for more detail. 
+  Impairment and Other Charges.    Impairment and other charges consist of certain fixed asset and inventory write-downs of $27.4 million and $33.6 million, respectively, which occurred in connection with our preparation and review of financial statements for the quarter ended September 30, 2017.  See "Impairments and Other Charges," Note   10   to the Notes to Condensed Consolidated Financial Statements for more detail. 
+  Income Tax Provision  . The Company s effective income tax rate has historically been lower than the statutory rate primarily due to foreign income tax rate differentials and research and development credits; however, the 2018 income tax expense has been negatively impacted by the valuation allowances in the North America and Asia-Pacific regions. 
+  
+   25 
+
+Table of Contents  
+
+Results of Operations 
+  The following table sets forth, for the periods indicated, certain consolidated statement of income data expressed as a percentage of revenues: 
+
+26 
+
+     Table of Contents  
+
+The following table sets forth, for the periods indicated, a breakdown of our products and service revenues: 
+
+Three Months Ended September 30, 2018   Compared to   Three Months Ended September 30, 2017    
+  Revenues.   Revenues   decreased   by   $7.1 million  , or approximately   7.1%  , to   $93.2 million   for the   three   months ended   September 30, 2018   from   $100.3 million   in the   three   months ended   September 30, 2017  , primarily due to a decrease in demand for exploration and production equipment. Product revenues   decreased   by approximately   $12.6 million   for the   three   months ended   September 30, 2018   compared to the same period in   2017   as a result of   decreased   revenues of   $15.0 million   in subsea equipment and   $1.8 million   in offshore rig equipment, partially offset by   increased   revenues of $2.7 million in downhole tools and $1.5 million in surface equipment. Product revenues   decreased   in the Asia-Pacific by   $13.8 million  , offset by an increase in the Western and Eastern Hemispheres of   $0.5 million   and   $0.6 million  , respectively.  While the rise in oil and gas prices has resulted in slightly increased demand for exploration and production equipment in the Western and Eastern Hemispheres during the quarter, the increase has not resulted in increased demand in the Asia-Pacific. In any given time period, the revenues recognized between the various product lines and geographic areas will vary depending upon the timing of shipments to customers, completion status of the projects accounted for under the over time accounting method, market conditions and customer demand. Service revenues   increased   by approximately   $5.5 million   resulting from   increased   service revenues in the Asia-Pacific and Western Hemisphere of   $4.0 million  ,and   $1.7 million  , respectively. The majority of the increases in service revenues related to increased technical advisory assistance and reconditioning of customer-owned property. 
+  Cost of Sales.   Cost of sales   increased   by   $2.5 million  , or approximately   4%  , to   $65.6 million   for the   three   months ended   September 30, 2018   from   $63.1 million   for the same period in   2017  .  As a percentage of revenues, cost of sales   increased   to   70.4%   from   62.8%   for the   three   months ended   September 30, 2018  , as compared to the same period in   2017  , primarily as a result of product mix, pricing concessions and unabsorbed manufacturing costs. 
+  Selling, General and Administrative Expenses.   For the   three   months ended   September 30, 2018  , selling, general and administrative expenses   increased   by approximately   $3.6 million  , or   13%  , to   $31.6 million   from   $28.0 million   for the same period in   2017  , primarily due to the restructuring charges of approximately $3.7 million and an increase in our bad debt expense of approximately $1.8 million related to the settlement of our accounts receivable from two customers, partially offset by decreased professional fees of $2.9 million.  Selling, general and administrative expenses as a percentage of revenues, excluding the restructuring charge and bad debt expense, was approximately 27.9% for both the three months ended September 30, 2018 and for the same period in 2017. 
+  Restructuring and Other Charges.   In the third quarter of 2018, we initiated a global strategic analysis to better align our operations with current market conditions. As a result of this plan, during the three months ended September 30, 2018, we incurred restructuring and other charges of approximately $3.7 million primarily related to employee termination benefits and consulting fees, which are included in "Selling, general and administrative" in our Condensed Consolidated Statement of Income (Loss).  We believe that our plan will be finalized by mid-2019 and that we will incur additional charges with respect to this plan.  
+  Engineering and Product Development Expenses.   For the   three   months ended   September 30, 2018  , engineering and product development expenses   decreased   by approximately   $0.2 million  , or   1.9%  , to   $10.2 million   from   $10.4 million   for the same period in   2017  .  
+  
+   27 
+
+     Table of Contents  
+
+Impairment and Other Charges.   In connection with our preparation and review of financial statements for the quarter ended September 30, 2017, after considering current Brent Crude consensus forecasts and expected rig counts for the foreseeable future, we determined that the carrying amount of certain of our long-lived assets in the Western Hemisphere exceeded their respective fair values due to projected declines in asset utilization and that the cost of some of our worldwide inventory exceeded its market value.  As a result, we recorded corresponding impairments and other charges. Primarily as a result of the factors described above, we recorded charges of approximately $33.6 million related to inventory and $27.4 million related to fixed assets during the three months ended September 30, 2017.  There were no impairments during the three months ended September 30, 2018.  See "  Impairments and Other Charges  ," Note   10   to the Notes to Condensed Consolidated Financial Statements for further discussion. 
+  Gain on Sale of Assets.   There were no significant sales of assets during the three months ended September 30, 2018.  See "  Gain on Sale of Assets  ," Note   9   to the Notes to Condensed Consolidated Financial Statements for further discussion. 
+  Income Tax Provision  . Income tax benefit for the   three   months ended   September 30, 2018   was   $2.0 million   on a loss before taxes of   $12.4 million  , resulting in an effective tax rate of 16.1%. Income tax   benefit   for the   three   months ended   September 30, 2017   was $  31.8 million   on a loss before taxes of $  61.1 million  , resulting in an effective income tax rate of approximately 52.0%. Historically, the change in the effective income tax rate percentage primarily reflects the changes in taxable income among the Company s three geographic areas, which have different income tax rates.  
+  On December 22, 2017, the President of the United States signed into law P.L. 115-97, informally known as the Tax Cuts and Jobs Act of 2017 ("Tax Reform"). Tax Reform amends the Internal Revenue Code to reduce tax rates and modify policies, credits and deductions for individuals and businesses. For businesses, Tax Reform reduced the corporate federal tax rate from a maximum of 35% to 21% and transitions from a worldwide tax system to a modified territorial tax system. Tax Reform also adds many new provisions including changes to bonus depreciation, the deduction for executive compensation and interest expense, a tax on global intangible low-taxed income (GILTI), the base erosion anti-abuse tax (BEAT) and a deduction for foreign-derived intangible income (FDII).  Given the amount and complexity of the changes to  tax law, we continue to finalize our accounting for the income tax effects stemming from Tax Reform. At December 31, 2017, certain provisional amounts were taken as estimates to account for the impact of Tax Reform. The actual impact of Tax Reform may differ from the estimates used due to, among other things, further refinement of our calculations, changes in interpretations and assumptions we have made, guidance that may be issued and actions we may take as a result of the tax legislation. Any adjustments to these provisional estimates will be reported as a component of income tax expense in the reporting period in which any such adjustments are identified, which will be no later than the fourth quarter of 2018. 
+  Net Loss.   Net loss was approximately   $10.4 million   for the   three   months ended   September 30, 2018  , compared to net loss of   $29.3 million   for the same period in   2017   for the reasons set forth above.  
+  Nine Months Ended September 30, 2018   Compared to   Nine Months Ended September 30, 2017    
+  Revenues.   Revenues   decreased   by   $60.2 million  , or approximately   17.3%  , to   $287.3 million   for the   nine   months ended   September 30, 2018   from   $347.5 million   for the same period in 2017, primarily due to a decrease in demand for exploration and production equipment.  
+  Product revenues   decreased   by approximately   $70.6 million   for the   nine   months ended   September 30, 2018   compared to the same period in   2017   as a result of   decreased   revenues of   $69.2 million   in subsea equipment and   $7.2 million   in offshore rig equipment, partially offset by increased revenues of $2.6 million in downhole tools and   $3.2 million   in surface equipment. Product revenues decreased in the Western, Eastern and Asia-Pacific Hemispheres by   $32.7 million  ,   $1.3 million   and   $36.6 million  , respectively. While oil and gas prices have increased, such increase has not been large enough to result in increased demand for exploration and production equipment, especially subsea equipment. In any given time period, the revenues recognized between the various product lines and geographic areas will vary depending upon the timing of shipments to customers, completion status of the projects accounted for under the over time accounting method, market conditions and customer demand. Service revenues   increased   by approximately   $10.3 million   resulting from decreased service revenues in the Western Hemisphere of   $2.0 million  , offset by increased service revenues in the Eastern and Asia-Pacific Hemispheres of   $5.6 million   and   $6.7 million  , respectively. The majority of the increase in service revenues related to increased demand for reconditioning of customer-owned property and technical advisory assistance, largely due to higher oil and gas prices leading to increased exploration and production activities. 
+  Cost of Sales.   Cost of sales   decreased   by   $30.2 million  , or approximately   13.0%  , to   $202.8 million   for the   nine   months ended   September 30, 2018   from   $233.0 million   for the same period in   2017  .  The cost of sales as a percentage of revenues   increased   to   70.6%   from   67.0%   in the first   nine   months of 2018 as compared to the same period in   2017  , primarily as a result of unabsorbed manufacturing costs, product mix and pricing concessions.  
+  
+   28 
+
+     Table of Contents  
+
+Selling, General and Administrative Expenses  . For the   nine   months ended   September 30, 2018  , selling, general and administrative expenses   decreased   by approximately   $1.7 million  , or   2.0%  , to   $83.4 million   from   $85.1 million   for the same period in   2017  .  The Company experienced a non-cash pre-tax foreign currency transaction   gain   of   $0.8 million   for the   nine   months ended   September 30, 2018  , compared to a   loss   of   $4.0 million   for the same period in   2017  ,  an increase in our bad debt expense of approximately $1.8 million related to the settlement of our accounts receivable from two customers and a decrease in other selling costs of approximately $0.5 million. Selling, general and administrative expenses as a percentage of revenues, excluding the restructuring charge and bad debt expense, was approximately 26.9% for the first nine months of 2018 as compared to 24.5% for the same period in 2017. 
+  Restructuring and Other Charges.   In the third quarter of 2018, we initiated a global strategic analysis to better align our operations with current market conditions. As a result of this plan, during the nine months ended September 30, 2018, we incurred restructuring and other charges of approximately $3.7 million primarily related to employee termination benefits and consulting fees, which are included in "Selling, general and administrative" in the Condensed Consolidated Statement of Income (Loss).  We believe that our plan will be finalized by mid-2019 and that we will incur additional charges with respect to this plan. 
+  Engineering and Product Development Expenses.   For the   nine   months ended   September 30, 2018  , engineering and product development expenses   decreased   by approximately   $2.4 million  , or   7.4%  , to   $30.1 million   from   $32.5 million   for the same period in   2017  . The majority of the decrease was due to lower revenues related to projects during   2018  . Engineering and product development expenses as a percentage of revenues   increased   to   10.5%   in the first   nine   months of   2018   from   9.4%   for the same period in   2017  . 
+  Impairment and Other Charges.   In connection with our preparation and review of financial statements for the quarter ended September 30, 2017, after considering current Brent Crude consensus forecasts and expected rig counts for the foreseeable future, we determined that the carrying amount of certain of our long-lived assets in the Western Hemisphere exceeded their respective fair values due to projected declines in asset utilization and that the cost of some of our worldwide inventory exceeded its market value.  As a result, we recorded corresponding impairments and other charges. Primarily as a result of the factors described above, we recorded charges of approximately $33.6 million related to inventory and $27.4 million related to fixed assets during the nine months ended September 30, 2017.  There were no impairments during the nine months ended September 30, 2018.  See "  Impairments and Other Charges  ," Note   10   to the Notes to Condensed Consolidated Financial Statements for further discussion. 
+  Gain on Sale of Assets.   During the second quarter of 2018, we sold certain property, plant and equipment for a net gain of approximately $5.1 million as part of our reorganization and consolidation of operations at our headquarters location in Houston, Texas.  See "  Gain on Sale of Assets  ," Note   9   to the Notes to Condensed Consolidated Financial Statements for further discussion. 
+   Income Tax Provision  . Income tax expense for the   nine   months ended   September 30, 2018   was   $2.3 million   on a loss before taxes of   $18.5 million  , resulting in an effective tax rate of   (12.4)%  . Income tax benefit for the   nine   months ended   September 30, 2017   was $  32.0 million    on a loss before taxes of $  61.1 million  , resulting in an effective income tax rate of approximately 52.2%. Historically, the change in the effective income tax rate percentage primarily reflects the changes in taxable income among the Company s three geographic areas, which have different income tax rates. The   2018   income tax expense has also been negatively impacted by the valuation allowances in the North America and Asia-Pacific regions. 
+  On December 22, 2017, the President of the United States signed into law the Tax Reform. Tax Reform amends the Internal Revenue Code to reduce tax rates and modify policies, credits and deductions for individuals and businesses. For businesses, Tax Reform reduced the corporate federal tax rate from a maximum of 35% to 21% and transitions from a worldwide tax system to a modified territorial tax system. Tax Reform also adds many new provisions including changes to bonus depreciation, the deduction for executive compensation and interest expense, a tax on GILTI, BEAT and a deduction for FDII.  Given the amount and complexity of the changes to tax law, we continue to finalize our accounting for the income tax effects stemming from Tax Reform. At December 31, 2017, certain provisional amounts were taken as estimates to account for the impact of Tax Reform. The actual impact of Tax Reform may differ from the estimates used due to, among other things, further refinement of our calculations, changes in interpretations and assumptions we have made, guidance that may be issued and actions we may take as a result of the tax legislation. Any adjustments to these provisional estimates will be reported as a component of income tax expense in the reporting period in which any such adjustments are identified, which will be no later than the fourth quarter of 2018. 
+   Net Loss  . Net loss was approximately   $20.8 million   for the   nine   months ended   September 30, 2018  , compared to net loss of   $29.1 million   for the same period in   2017   for the reasons set forth above.  
+  
+   29 
+
+Table of Contents  
+
+Non-GAAP Financial Measures 
+  We have performed a detailed analysis of the non-GAAP measures that are relevant to our business and its operations and determined that the appropriate unit of measure to analyze our performance is Adjusted EBITDA (earnings before interest, taxes, depreciation and amortization, as well as other significant non-cash items and other adjustments for certain charges and credits). The Company believes that the exclusion of these charges and credits from these financial measures enables it to evaluate more effectively the Company's operations period over period and to identify operating trends that could otherwise be masked by excluded items.  It is our determination that Adjusted EBITDA is a more relevant measure of how the Company reviews its ability to meet commitments and pursue capital projects. 
+  Adjusted EBITDA 
+  We calculate Adjusted EBITDA as one of the indicators to evaluate and compare the results of our operations from period to period by removing the effect of our capital structure from our operating structure.  This measurement is used in concert with net income and cash flows from operations, which measures actual cash generated in the period.  In addition, we believe that Adjusted  EBITDA is a supplemental measurement tool used by analysts and investors to help evaluate overall operating performance, ability to pursue and service possible debt opportunities and analyze possible future capital expenditures.  Adjusted EBITDA does not represent funds available for our discretionary use and is not intended to represent or to be used as a substitute for net income, as measured under U.S. generally accepted accounting principles.  The items excluded from Adjusted EBITDA, but included in the calculation of reported net income, are significant components of the consolidated statements of income and must be considered in performing a comprehensive assessment of overall financial performance.  Our calculation of Adjusted EBITDA may not be consistent with calculations of Adjusted EBITDA used by other companies.   
+  The following table reconciles our reported net income to Adjusted EBITDA for each of the respective periods: 
+
+Adjusted EBITDA does not measure financial performance under GAAP and, accordingly, should not be considered as an alternative to net income as an indicator of operating performance. 
+  
+   30 
+
+Table of Contents  
+
+Liquidity and Capital Resources 
+  Cash Flows 
+  Cash flows provided by (used in) type of activity were as follows: 
+
+Statements of cash flows for entities with international operations that are local currency functional exclude the effects of the changes in foreign currency exchange rates that occur during any given period, as these are non-cash changes. As a result, changes reflected in certain accounts on the Condensed Consolidated Statements of Cash Flows may not reflect the changes in corresponding accounts on the Condensed Consolidated Balance Sheets.  
+  The primary liquidity needs of the Company are (i) to fund capital expenditures to improve and expand facilities and manufacture additional running tools and (ii) to fund working capital. The Company s principal source of funds is cash flows from operations. As of   September 30, 2018  , the Company had availability of   $56.0   million under the ABL Credit Facility. 
+  Net cash provided by   operating activities for the   nine   months ended   September 30, 2018   was   $32.6 million   as compared to   $74.7 million   for the   nine   months ended   September 30, 2017  . The net change is primarily due to the change to a net loss for the   third   quarter of   2018   totaling   $8.4 million  , a gain on sale of fixed assets of   $5.0 million  , decreased depreciation and amortization of   $6.3 million  , partially offset by increased changes in operating activities of   $8.6 million  , increases in deferred income taxes of   $30.6 million  , increases in stock-based compensation of   $0.5 million   and other decreases in cash flow of $0.3 million. 
+  The change in operating assets and liabilities for the   nine   months ended   September 30, 2018   resulted in a   $23.2 million     increase   in cash. The decrease in trade receivables resulted in increased cash flow of   $0.3 million  , resulting from increased collections and settlements during the   nine   months ended   September 30, 2018  . The decrease in inventory resulted in increased cash flow of   $32.6 million  . The increase in prepaids and other assets decreased operating cash flow by   $9.7 million  .  
+  The change in operating assets and liabilities for the nine months ended September 30, 2017 resulted in a $31.8 million increase in cash. Trade receivables decreased $21.3 million primarily due to lower revenues during the period. Inventory decreased by $32.6 million from reductions in customer orders and efforts to utilize existing inventory. Prepaids and other assets decreased by $17.3 million due to decreases in vendor prepayments.  Accounts payable and accrued expenses decreased by approximately $39.4 million primarily due to a reduction in income tax payable of $20.7 million, which is comprised of the $8.2 million impact from the patent box benefit and lower income before taxes, decreases in accounts payable of $11.7 million and customer prepayments of $6.7 million.  
+  The change in investing cash flows for the   nine   months ended   September 30, 2018   resulted in a   $24.3 million   decrease to cash. Capital expenditures by the Company were   $26.7 million   and $  19.6   million for the   nine   months ended   September 30, 2018   and   2017  , respectively. The capital expenditures for the   nine   months ended   September 30, 2018   were $12.9 million for buildings, $9.2 million for rental tools, $2.3 million for machinery and equipment and $2.3 million for other expenditures. The capital expenditures for the   nine   months ended   September 30, 2017   were $3.9 million for machinery and equipment, $10.9 million for facilities, $4.4 million for rental tools and $0.4 million for other capital expenditures.  
+  The exercise of stock options generated cash to the Company of   $1,106,000   for the   nine   months ended   September 30, 2018   as compared to   $455,000   for the same period of   2017  .  
+  
+   31 
+
+     Table of Contents  
+
+Repurchase of Equity Securities 
+  On July 26, 2016, the Board of Directors authorized a share repurchase plan under which the Company can repurchase up to $100 million of its common stock. The repurchase plan has no set expiration date and any repurchased shares are expected to be cancelled.  For the three-month period ended September 30, 2018, the Company purchased 1,395,521 shares under the share repurchase plan at an average price of approximately $  50.95   per share totaling approximately $71.1 million, which is reflected in "Treasury shares (at cost)" in the Condensed Consolidated Balance Sheet.  In May 2018, the Company purchased 219,102 shares under the share repurchase plan at an average price of approximately $  44.87   per share totaling approximately $9.8 million and retired such shares, which is reflected within our retained earnings for the period ended September 30, 2018.  As of September 30, 2018, the maximum dollar value in shares remaining that may yet be repurchased was $19.1 million.  We completed our repurchase plan in October 2018 by repurchasing the remaining $19.1 million value in shares, pursuant to a 10b5-1 plan.  We retired all of the shares repurchased on October 16, 2018.  For additional information on the share repurchase, see "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds" in Part II of this report. 
+  Asset Backed Loan (ABL) Credit Facility 
+  On February 23, 2018, the Company, as borrower, and the Company s subsidiaries TIW Corporation and Honing, Inc., as guarantors, entered into a five-year senior secured revolving credit facility (the  ABL Credit Facility ) with JPMorgan Chase Bank, N.A., as administrative agent, and other financial institutions as lenders with total commitments of $100.0 million, including up to $10.0 million available for letters of credit. The maximum amount that the Company may borrow under the ABL Credit Facility is subject to the borrowing base, which is based on a percentage of eligible accounts receivable and eligible inventory, subject to reserves and other adjustments. 
+  As of   September 30, 2018  , the availability under the ABL Credit Facility was   $56.0 million  , after taking into account the outstanding letters of credit of approximately   $0.3 million   issued under the facility.  For additional information on the ABL Credit Facility, see "  Asset Backed Loan (ABL) Credit Facility  ," Note   11   to the Notes to Condensed Consolidated Financial Statements. 
+   
+  Off-Balance Sheet Arrangements 
+  The Company currently has no derivative instruments and no off-balance sheet hedging or financing arrangements, contracts or operations. 
+   
+  Other Matters 
+  From time to time, the Company enters into discussions or negotiations to acquire other businesses or enter into joint ventures. The timing, size or success of any such efforts and the associated potential capital commitments are unpredictable and dependent on market conditions and opportunities existing at the time. The Company may seek to fund all or part of any such efforts with proceeds from debt or equity issuances. Debt or equity financing may not, however, be available at that time due to a variety of events, including, among others, the Company s credit ratings, industry conditions, general economic conditions and market conditions. 
+   
+  Critical Accounting Policies 
+  Refer to our Annual Report on Form 10-K for the year ended   December 31, 2017   for a discussion of our critical accounting policies. During the   nine   months ended   September 30, 2018  , there were no material changes in our judgments and assumptions associated with the development of our critical accounting policies. 
+  
+   32 
+
+Table of Contents  
+
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk 
+  The Company is currently exposed to certain market risks related to interest rate changes on its short-term investments and fluctuations in foreign exchange rates. The Company does not engage in any material hedging transactions, forward contracts or currency trading which could mitigate the market risks inherent in such transactions. There have been no material changes in market risks for the Company since   December 31, 2017  . 
+  Foreign Exchange Rate Risk 
+  The Company has operations in various countries around the world and conducts business in a number of different currencies.  Our significant foreign subsidiaries may also have monetary assets and liabilities not denominated in their functional currency.  These monetary assets and liabilities are exposed to changes in currency exchange rates which may result in non-cash gains and losses primarily due to fluctuations between the U.S. dollar and each subsidiary's functional currency. 
+  The Company experienced a foreign currency pre-tax gain of a minimal amount and approximately   $0.8 million  , respectively, during the three and nine-month periods ended   September 30, 2018   and a pre-tax loss of $0.4 million and $4.0 million, respectively, in the same periods of   2017  .  These losses and gains were primarily due to the exchange rate fluctuations between the U.S. dollar and various currencies within the foreign regions where we do business.  
+  The Company does not engage in any material hedging transactions, forward contracts or currency trading which could mitigate the effects and risks inherent in such transactions. Additionally, there is no assurance that the Company will be able to protect itself against currency fluctuations in the future. 
+
+Item 4.        Controls and Procedures 
+  In accordance with Exchange Act Rules 13a-15 and 15d-15, the Company carried out an evaluation, under the supervision and with the participation of management, including the Company s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company s disclosure controls and procedures as of the end of the period covered by this report. Based on that evaluation, the Company s Chief Executive Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures were effective as of   September 30, 2018   to provide reasonable assurance that information required to be disclosed in the Company s reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms, and such information is accumulated and communicated to management, including the Company s Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding disclosure. 
+  There has been no change in the Company s internal control over financial reporting that occurred during the quarter ended   September 30, 2018   that has materially affected, or is reasonably likely to materially affect, the Company s internal control over financial reporting. 
+  
+   33 
+
+     Table of Contents  
+
+PART II OTHER INFORMATION 
+   
+  Item 1.        Legal Proceedings 
+  For a description of the Company s legal proceedings, see    Commitments and Contingencies  ,  Note   14   to the Notes to Condensed Consolidated Financial Statements. 
+
+Item 1A.    Risk Factors 
+  There have been no material changes from the risk factors disclosed in the Company s Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+
+Item 2.        Unregistered Sales of Equity Securities and Use of Proceeds 
+  The following table summarizes the repurchase and cancellation of our common stock during the three and nine months ended   September 30, 2018  : 
+
+(1)     On July 29, 2016, the Company announced that its Board of Directors authorized a stock repurchase plan under which the Company is authorized to repurchase up to $100.0 million of its common stock.  The repurchase plan has no set expiration date and any repurchased shares are expected to be cancelled.  There were no repurchases during the first quarter of 2018.   
+   As of September 30, 2018, the maximum dollar value in shares remaining that may yet be repurchased was $19.1 million. We completed our repurchase plan in October 2018 by repurchasing the remaining $19.1 million value in shares, pursuant to a 10b5-1 plan. We retired all of the shares repurchased on October 16, 2018.   
+
+34 
+
+Table of Contents  
+
+FORWARD LOOKING STATEMENTS 
+  This Quarterly Report on Form 10-Q includes certain statements that may be deemed to be  forward-looking statements  within the meaning of Section 27A of the Securities Act of 1933, as amended (the  Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the  Exchange Act ). Statements contained in all parts of this document that are not historical facts are forward-looking statements that involve risks and uncertainties that are beyond the control of Dril-Quip, Inc. (the  Company  or  Dril-Quip ). You can identify the Company s forward-looking statements by the words  anticipate,   estimate,   expect,   may,   project,   believe  and similar expressions, or by the Company s discussion of strategies or trends. Although the Company believes that the expectations reflected in such forward-looking statements are reasonable, no assurance can be given that these expectations will prove to be correct. These forward-looking statements include the following types of information and statements as they relate to the Company: 
+             
+    future operating results and cash flow; 
+                
+    scheduled, budgeted and other future capital expenditures; 
+                
+    working capital requirements; 
+                
+    the need for and the availability of expected sources of liquidity; 
+                
+    the introduction into the market of the Company s future products; 
+                
+    the market for the Company s existing and future products; 
+                
+    the Company s ability to develop new applications for its technologies; 
+                
+    the exploration, development and production activities of the Company s customers; 
+                
+    compliance with present and future environmental regulations and costs associated with environmentally related penalties, capital expenditures, remedial actions and proceedings; 
+                
+    effects of pending legal proceedings; 
+                
+    changes in customers  future product and service requirements that may not be cost effective or within the Company s capabilities; and 
+                
+    future operations, financial results, business plans and cash needs. 
+     These statements are based on assumptions and analysis in light of the Company s experience and perception of historical trends, current conditions, expected future developments and other factors the Company believes were appropriate in the circumstances when the statements were made. Forward-looking statements by their nature involve substantial risks and uncertainties that could significantly impact expected results, and actual future results could differ materially from those described in such statements. While it is not possible to identify all factors, the Company continues to face many risks and uncertainties. Among the factors that could cause actual future results to differ materially are the risks and uncertainties discussed under  Item 1A. Risk Factors  in Part I of the Company s Annual Report on Form 10-K for the year ended   December 31, 2017   and the following: 
+             
+    the volatility of oil and natural gas prices; 
+                
+    the cyclical nature of the oil and gas industry; 
+                
+    uncertainties associated with the United States and worldwide economies; 
+                
+    uncertainties regarding political tensions in the Middle East, South America, Africa and elsewhere; 
+                
+    current and potential governmental regulatory actions in the United States and regulatory actions and political unrest in other countries; 
+                
+    uncertainties regarding future oil and gas exploration and production activities, including new regulations, customs requirements and product testing requirements; 
+                
+    operating interruptions (including explosions, fires, weather-related incidents, mechanical failure, unscheduled downtime, labor difficulties, transportation interruptions, spills and releases and other environmental risks); 
+                
+    project terminations, suspensions or scope adjustments to contracts reflected in the Company s backlog; 
+                
+    the Company s reliance on product development; 
+                
+    technological developments; 
+                
+    the Company s reliance on third-party technologies; 
+     
+   35 
+
+     Table of Contents  
+
+acquisition and merger activities involving the Company or its competitors; 
+                
+    the Company s dependence on key employees and skilled machinists, fabricators and technical personnel; 
+                
+    the Company s reliance on sources of raw materials, including any increase in steel costs or decreases in steel supply as a result of global tariffs on certain imported steel mill products; 
+                
+    impact of environmental matters, including future environmental regulations; 
+                
+    competitive products and pricing pressures; 
+                
+    fluctuations in foreign currency, including those attributable to the Brexit; 
+                
+    the ability of the Organization of Petroleum Exporting Countries to set and maintain production levels and pricing; 
+                
+    the Company s reliance on significant customers; 
+                
+    creditworthiness of the Company s customers; 
+                
+    fixed-price contracts; 
+                
+    changes in general economic, market or business conditions; 
+                
+    access to capital markets; 
+                
+    negative outcome of litigation, threatened litigation or government proceedings; 
+                
+    terrorist threats or acts, war and civil disturbances; and 
+                
+    changes to, and differing interpretations of, tax laws with respect to our operations and subsidiaries. 
+     Many of such factors are beyond the Company s ability to control or predict. Any of the factors, or a combination of these factors, could materially affect the Company s future results of operations and the ultimate accuracy of the forward-looking statements. Management cautions against putting undue reliance on forward-looking statements or projecting any future results based on such statements or present or prior earnings levels. Every forward-looking statement speaks only as of the date of the particular statement, and the Company undertakes no obligation to publicly update or revise any forward-looking statement. 
+  
+   36 
+
+Table of Contents  
+
+Item 6. 
+  (a) Exhibits 
+  The following exhibits are filed herewith: 
+   
+ ____________________________ 
+  *    Incorporated herein by reference as indicated. 
+  
+   37 
+
+Table of Contents  
+
+SIGNATURE 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+DRIL-QUIP, INC. 
+
+Date: October 25, 2018 
+    BY: 
+    /s/ Jeffrey J. Bird 
+
+Jeffrey J. Bird, 
+
+Vice President and Chief Financial Officer 
+
+(Principal Accounting Officer and 
+
+Duly Authorized Signatory) 
+
+38 
+
+<EX-31.1>
+ 2
+ exhibit3112018q3.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  RULE 13a-14(a)/15d-14(a) CERTIFICATION 
+  I, Blake T. DeBerry, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Dril-Quip, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+                 Date: October 25, 2018 
+
+/s/ Blake T. DeBerry 
+        
+    Blake T. DeBerry 
+        
+    President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit3122018q3.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  RULE 13a-14(a)/15d-14(a) CERTIFICATION 
+  I, Jeffrey J. Bird, certify that: 
+           1. 
+    I have reviewed this quarterly report on Form 10-Q of Dril-Quip, Inc.; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+       
+                 Date: October 25, 2018 
+
+/s/ Jeffrey J. Bird 
+        
+    Jeffrey J. Bird 
+        
+    Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit3212018q3.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the Quarterly Report of Dril-Quip, Inc. (the  Company ) on Form 10-Q for the period ended   September 30, 2018   (the  Report ), as filed with the Securities and Exchange Commission on the date hereof, I, Blake T. DeBerry, President and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge, that: 
+           1. 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              2. 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+                 Date: October 25, 2018 
+
+/s/ Blake T. DeBerry 
+        
+    Blake T. DeBerry 
+        
+    President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ exhibit3222018q3.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO SECTION 906 
+  OF THE SARBANES-OXLEY ACT OF 2002 
+  In connection with the Quarterly Report of Dril-Quip, Inc. (the  Company ) on Form 10-Q for the period ended   September 30, 2018   (the  Report ), as filed with the Securities and Exchange Commission on the date hereof, I, Jeffrey J. Bird, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the best of my knowledge, that: 
+           1. 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              2. 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+                 Date: October 25, 2018 
+
+/s/ Jeffrey J. Bird 
+        
+    Jeffrey J. Bird 
+        
+    Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ drq-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ drq-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ drq-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ drq-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ drq-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ drq-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

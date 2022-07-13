@@ -1,0 +1,635 @@
+
+  SECURITIES AND EXCHANGE COMMISSION   
+  Washington, D.C. 20549    
+
+  _________________  
+
+   FORM
+10-Q   
+
+  _________________  
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)    
+  OF THE SECURITIES EXCHANGE ACT OF 1934    
+
+   For
+the quarterly period ended: July 31, 2018   
+
+   or   
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)    
+  OF THE SECURITIES EXCHANGE ACT OF 1934    
+
+   For
+the transition period from: _____________ to _____________   
+
+  _________________  
+
+    International
+Baler Corporation    
+
+  (Exact
+name of registrant as specified in its charter)  
+
+  _________________  
+
+5400
+Rio Grande Avenue, Jacksonville, FL 32254    
+
+  (Address
+of Principal Executive Offices) (Zip Code)  
+
+904-358-3812    
+
+  (Registrant s
+telephone number, including area code)  
+
+    N/A     
+ (Former name or former address and former fiscal year, if changed since
+last report)   
+
+  _________________  
+
+  Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.  
+
+  Yes
+   No      
+
+  Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  
+
+  Yes    No    
+
+  Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company.  
+
+Large
+    accelerated filer    
+      Accelerated
+    filer    
+      Non-accelerated
+    filer    
+      Smaller
+    reporting company     
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act.)  
+
+  Yes
+   No    
+
+   APPLICABLE
+ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY    
+  PROCEEDINGS DURING THE PRECEDING FIVE YEARS:    
+
+  Indicate
+by check mark whether the registrant has filed all documents and reports required to be filed by Sections 12, 13 or 15(d) of the
+Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court.  
+
+  Yes
+   No    
+
+   APPLICABLE
+ONLY TO CORPORATE ISSUERS   
+
+  Indicate
+the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date: 5,183,895
+shares of common stock at August 31, 2018.  
+
+INTERNATIONAL
+BALER CORPORATION   
+
+TABLE
+OF CONTENTS   
+
+NOTES
+TO FINANCIAL STATEMENTS (UNAUDITED)  
+
+1.
+Nature of Business:  
+
+International
+Baler Corporation (the  Company ) is a manufacturer of baling equipment which is designed to compress a variety of
+materials into bales for easier handling, shipping, disposal, storage, and for recycling. Materials commonly baled include scrap
+metal, corrugated boxes, newsprint, aluminum cans, plastic bottles, and other solid waste. More sophisticated applications include
+baling of textile materials, fibers and synthetic rubber. The Company offers a wide variety of balers, standard models as well
+as custom models, and conveyors to meet specific customer requirements.  
+
+The
+Company s customers include recycling facilities, distribution centers, textile mills, and companies which generate the
+materials for baling and recycling. The Company sells its products worldwide with annual sales outside the United States typically
+ranging from 10% to 35%.  
+
+2.
+Basis of Presentation:  
+
+The
+accompanying unaudited financial statements have been prepared in accordance with accounting principles generally accepted in
+the United States of America for interim financial information and with the instructions to Form 10-Q and Article 8-03 of Regulation
+S-X. Accordingly, they do not include all of the information in footnotes required by accounting principles generally accepted
+in the United States of America for complete financial statements. In the opinion of management, all adjustments (consisting of
+normal recurring accruals) considered necessary to make the financial statements not misleading have been included. Operating
+results for the nine-month period ended July 31, 2018 are not necessarily indicative of the results that may be expected for the
+year ending October 31, 2018. The accompanying balance sheet as of October 31, 2017 was derived from the audited financial statements
+as of October 31, 2017.  
+
+3.
+Summary of Significant Accounting Policies:  
+
+(a)
+Accounts Receivable   Allowance for Doubtful Accounts:  
+
+Trade
+accounts receivable are recorded at the invoiced amount and do not bear interest. The Company maintains an allowance for doubtful
+accounts for estimated losses inherent in its accounts receivable. The Company reviews its allowance for doubtful accounts monthly
+including the analysis of historical trends, customer credit worthiness and the aging of receivables. Account balances are charged
+off against the allowance after all means of collection have been exhausted and the potential for recovery is considered remote.   
+
+(b)
+Inventories:  
+
+Prior
+to the 2018 fiscal year, the Company reported inventories at the lower of cost or market. Effective November 1, 2017, the Company
+began stating inventories prospectively at the lower of cost and net realizable value in accordance with Accounting Standards
+Update 2015-11  Simplifying the Measurement of Inventory.  Generally, under the prior method, market was replacement cost,
+while net realizable value is based on the selling price of the inventory. This change had no significant effect on earnings.
+Cost is determined by a method that approximates the first-in, first-out method. Work in process and finished goods are valued
+based on underlying costs to manufacture balers which include direct materials, direct and indirect labor, and overhead. The Company
+reviews inventory for obsolescence on a regular basis.  
+
+(c)
+Revenue Recognition:  
+
+The
+Company recognizes revenue when finished products and/or parts are shipped and the customer takes ownership and assumes the risk
+of loss. Revenue from installation services is recognized on completion of the service. The Company recognizes revenue from repair
+services in the period in which the service is provided.  
+
+(d)
+Warranties and Service:  
+
+The
+Company typically warrants its products for one (1) year from the date of sale as to materials and six (6) months as to labor,
+and offers services for other required repairs and maintenance. Service is rendered by repairing or replacing parts at the Company s
+Jacksonville, Florida facility, by on-site service provided by Company personnel who are based in Jacksonville, Florida or by
+local service agents who are engaged as needed. The Company maintains an accrued liability for expected warranty claims. The warranty
+accrual is based on historical warranty costs, the quantity and types of balers currently under warranty, and known warranty issues.  
+
+Following
+is a tabular reconciliation of the changes in the warranty accrual for the nine-month period ended July 31:  
+
+(e)
+Fair Value of Financial Instruments:  
+
+The
+carrying amounts of the Company s financial instruments, including cash and cash equivalents, short term certificates of
+deposit, accounts receivable, accounts payable, accrued liabilities, and customer deposits, approximate their fair value due to
+the short-term nature of these assets and liabilities.  
+
+(f)
+Recent Accounting Pronouncements:  
+
+In
+May 2014, the FASB issued ASU No. 2014-09,  Revenue from Contracts with Customers (Topic 606) . This guidance supersedes
+the revenue recognition requirements in ASC Topic 605, Revenue Recognition, and most industry-specific guidance throughout the
+topic. The guidance requires an entity to recognize revenue that depicts the transfer of promised goods or services to customers
+in an amount that reflects the considerations to which the company expects to be entitled in exchange for those goods or services.  
+
+In
+August 2015, the FASB issued ASU 2015-14,  Revenue from Contracts with Customers (Topic 606): Deferral of the Effective
+Date . The amendments in ASU 2015-14 defer the effective date of ASU 2014-09 for all entities by one year. Public entities
+should apply the guidance in ASU 2014-09 to annual reporting periods beginning after December 15, 2017, including interim reporting
+periods within that reporting period. The Company does not believe this will have a significant impact on the financial statements,
+as generally, contracts contain one distinct performance obligation and specifically state the performance obligation is the delivery
+of equipment in exchange for a stated consideration. Contracts are not long term and balers are manufactured for individual orders
+and revenue recognized at time of shipment.  
+
+4. Related
+Party Transactions:  
+
+Leland
+E. Boren, a stockholder and director of the Company, is the owner of Avis Industrial Corporation (Avis). Mr. Boren controls over
+80% of the outstanding shares of the Company. Avis owns 100% of The American Baler Company and Harris Waste Management Group,
+Inc., both competitors of the Company. These baler companies operate completely independent of each other. The Company had no
+purchases from these companies in the first nine months of fiscal 2018 or in the fiscal year ended October 31, 2017. The Company
+had no sales to The American Baler Company in the first nine months of fiscal 2018 or the fiscal year ended October 31, 2017.
+The Company sold four balers and one conveyor to Harris Waste Management for $238,377 in the first nine months of fiscal 2018
+and had no sales to Harris Waste Management in the fiscal year ended October 31, 2017.  
+
+5.
+Inventories:  
+
+Inventories
+consisted of the following:  
+
+6. Debt:  
+
+The
+Company has a $1,650,000 line of credit agreement with First Merchants Bank of Muncie, Indiana which was renewed on May 15, 2018.
+The line of credit allows the Company to borrow at an interest rate equal to the Wall Street Journal prime rate minus 0.95%, adjusting
+daily. The line of credit is secured by all assets of the Company and expires on May 15, 2019. The line of credit had no outstanding
+balance at July 31, 2018 and at October 31, 2017.  
+
+7. Income
+Taxes:  
+
+Tax
+assets are recognized in the balance sheet if it is more likely than not that they will be realized on future tax returns. Factors
+considered included, historical results of operations, volatility of the economic conditions and projected earnings based on current
+operations. Based on this evidence, it is more likely than not that the deferred tax assets would be realized. Accordingly, there
+is no valuation allowance as of July 31, 2018 and at October 31, 2017. However, if it is determined that all or part of the deferred
+tax assets will not be used in the future, an adjustment to the deferred tax assets would be charged against net income in the
+period such determination is made. As of July 31, 2018 and October 31, 2017, net deferred tax assets were $26,975 and $37,348,
+respectively.  
+
+The
+Company records interest related to unrecognized tax benefits in interest expense and penalties in selling, general, and administrative
+expenses.  
+
+The
+Tax Cuts and Jobs Act of 2017 (the  Act ) was signed into United States tax law on December 22, 2017. The Act made
+significant changes to the U.S. corporate income tax system, including a Federal corporate rate reduction from 35% to 21%, and
+changes in business-related exclusions, and deductions and credits. As a result of the income tax rate reduction, the Company
+reduced net deferred income tax assets by approximately $10,000 during the first quarter ending January 31, 2018.  
+
+8. Commitments
+and Contingencies:  
+
+The
+Company, in the ordinary course of business, is subject to claims made, and from time to time is named as a defendant in legal
+proceedings relating to the sales of its products. The Company believes that the reserves reflected in its financial statements
+are adequate to pay losses and loss adjustment expenses which may result from such claims and proceedings; however, such estimates
+may be more or less than the amount ultimately paid when the claims are settled. In the opinion of management, the ultimate disposition
+of these matters will not have a material adverse effect on the Company s financial position, results of operations, or
+liquidity.  
+
+On
+December 1, 2017 the Company was served with a complaint related to an injury to an employee working at Integrated Coating and
+Seed Technology Inc., (INCOTEC). The employee was operating a baler manufactured by the Company in 1994. The injury occurred on
+December 4, 2015. The plaintiff is Star Insurance Company. The Company s insurer has retained an attorney and has begun
+the discovery process. The Company believes its exposure is a range of $0 to $25,000, the amount of the Company s deductible
+on its insurance policy. Accordingly, the Company accrued $25,000 during the six months ended April 30, 2018.  
+
+ITEM
+2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+The
+following discussion should be read together with our unaudited financial statements and the related notes thereto included in
+Part I, Item 1  Financial Statements . For further information, refer to the Company s Annual Report on Form
+10-K for the year ended October 31, 2017, and the Management Discussion and Analysis of Financial Condition and Results of Operations
+included in this Form 10-Q.  
+
+Results
+of Operations: Three Month Comparison  
+
+In
+the third quarter ended July 31, 2018, the Company had net sales of $2,021,957 compared to net sales of $3,111,959 in the third
+quarter of fiscal 2017. The lower sales was the result of lower equipment shipments in the third quarter of fiscal 2018, fifteen
+balers and conveyors in fiscal 2018 versus twenty-three in fiscal 2017. The lower shipments were the result of market conditions
+including lower prices for recycled materials.  
+
+The
+Company had net income of $4,939 in the third quarter of fiscal 2018, compared to net income of $81,134 in the third quarter of
+fiscal 2017. The lower income was the result of the lower shipments of balers and conveyors in the quarter.  
+
+Results
+of Operations: Nine Month Comparison  
+
+The
+Company had net sales of $7,995,225 in the first nine months of fiscal 2018, compared to net sales of $8,015,473 in the same period
+of 2017. The Company shipped fifty-six balers and conveyors at an average price of approximately $104,000 in the first nine months
+of fiscal 2018 compared to seventy-four balers and conveyors at an average price of approximately $80,000 in fiscal 2017. The
+market for balers has been trending toward larger equipment for several years and the Company expects this trend to continue.  
+
+The
+Company had net income of $151,156 in the first nine months of fiscal 2018 compared to net income of $89,840 in the same period
+of fiscal 2017. The higher net income was the result of slightly higher gross profit margins from higher parts sales and lower
+selling and administrative expenses. The lower selling expenses were due to lower advertising expenses, conventions and show expense
+partially offset by higher salary expenses. The lower administrative expenses were the result of lower salary expenses and insurance
+costs.  
+
+The
+sales order backlog was approximately $3,140,000 at July 31, 2018 and $3,190,000 at July 31, 2017.  
+
+Financial
+Condition and Liquidity:  
+
+Net
+working capital at July 31, 2018 was $7,723,365 as compared to $7,513,149 at October 31, 2017. The Company currently believes
+that it will have sufficient cash flow to be able to fund operating activities for the next twelve months.  
+
+Average
+days sales outstanding (DSO) in the first nine months of fiscal 2018 were 22.8 days, as compared to 26.4 days in the first nine
+months of fiscal 2017. DSO is calculated by dividing the total of the month-end net accounts receivable balances for the period
+by three, and dividing that result by the average day s sales for the period (period sales   273).  
+
+During
+the nine months ended July 31, 2018 and 2017, the Company made additions to plant and equipment of $91,813 and $16,826 respectively.  
+
+The
+Company has a $1,650,000 line of credit agreement with First Merchants Bank of Muncie, Indiana which was renewed on May 15, 2018.
+The line of credit allows the Company to borrow at an interest rate equal to the Wall Street Journal prime rate minus 0.95%, adjusting
+daily. The line of credit is secured by all assets of the Company and expires on May 15, 2019. The line of credit had no outstanding
+balance at July 31, 2018 and at October 31, 2017.  
+
+In
+the event that the Company s line of credit would not be available, the Company would pursue a line of credit from other
+sources, and take steps to minimize expenditures, such as delaying capital expenditures and reducing overhead costs.  
+
+Forward
+Looking Statements  
+
+Certain
+statements in this Report contain forward-looking statements within the meaning of Section 21B of the Securities and Exchange
+Act of 1934, as amended. These forward-looking statements represent the Company s present expectations or beliefs concerning
+future events. The Company cautions that such statements are necessarily based on certain assumptions which are subject to risks
+and uncertainties including, but not limited to, changes in general economic conditions and changing competition which could cause
+actual results to differ materially from those indicated.  
+
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+The
+Company is exposed to changes in interest rates as a result of its financing activities, including its borrowings on the revolving
+line of credit facility. Based on the current level of borrowings, a change in interest rates is not expected to have a material
+effect on operations or financial position.  
+
+ITEM
+4. CONTROLS AND PROCEDURES  
+
+Controls
+and Procedures  
+
+The
+Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed by
+the Company in reports that it files or submits under the Securities Exchange Act, is recorded, processed, summarized and reported
+within the time periods specified in the SEC s rules and forms and that such information is accumulated and communicated
+to our management, including the Company s Chief Executive Officer (CEO) / Chief Financial Officer (CFO), as appropriate,
+to allow timely decisions regarding required disclosures.  
+
+In
+designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter
+how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and management
+is necessarily required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.  
+
+As
+of the end of the period covered by this report, and under the supervision and with the participation of the management, including
+the Company s CEO/CFO, management evaluated the effectiveness of the design and operation of these disclosure controls and
+procedures. Based on this evaluation and subject to the foregoing, the Company s CEO/CFO concluded that the Company s
+disclosure controls and procedures were effective.  
+
+Management,
+with the participation of the Company s principal executive and principal financial officers, also assessed the effectiveness
+of the Company s internal control over financial reporting as of July 31, 2018. This assessment was performed using the
+criteria established under the Internal Control-Integrated Framework established by Committee of Sponsoring Organization of the
+Treadway Commission ( COSO ).  
+
+As
+part of a continuing effort to improve the Company s business processes management is evaluating its internal controls and
+may update certain controls to accommodate any modifications to its business processes or accounting procedures.  
+
+Changes
+in Internal Control over Financial Reporting  
+
+The
+Company s management, including CEO/CFO, confirm that there were no changes in the Company s internal control over
+financial reporting during the fiscal quarter ended April 30, 2018 that have materially affected, or are reasonably likely to
+materially affect, the Company s internal control over financial reporting.  
+
+PART
+II. OTHER INFORMATION  
+
+ITEM
+1. LEGAL PROCEEDINGS  
+
+On
+December 1, 2017 the Company was served with a complaint related to an injury to an employee working at Integrated Coating and
+Seed Technology Inc., (INCOTEC). The employee was operating a baler manufactured by the Company in 1994. The injury occurred on
+December 4, 2015. The plaintiff is Star Insurance Company. The Company s insurer has retained an attorney and has begun
+the discovery process. The Company believes its exposure is a range of $0 to $25,000, the amount of the Company s deductible
+on its insurance policy. Accordingly, the Company accrued $25,000 during the six months ended April 30, 2018.  
+
+ITEM
+5. OTHER INFORMATION  
+
+None  
+
+ITEM
+6. EXHIBITS  
+
+The
+following exhibits are submitted herewith:  
+
+Exhibit  
+
+31   
+         
+        Certification
+    of William E. Nielsen, Chief Executive Officer and Chief Financial Officer, pursuant to Rule 13a 14(a)/15d-14(a).        
+ 
+      32  
+         
+        Certification
+    of William E. Nielsen, Chief Executive Officer and Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted
+    pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.     
+
+SIGNATURES  
+
+Pursuant
+to the requirements of the Securities and Exchange Act of 1934, the Registrant has caused this report to be signed on its behalf
+by the undersigned there unto duly authorized.  
+
+INTERNATIONAL
+    BALER CORPORATION   
+
+September
+    14, 2018  
+      By:  
+        /s/
+    William E. Nielsen     
+
+William
+    E. Nielsen   
+
+Chief
+    Executive Officer   
+
+Chief
+    Financial Officer   
+
+Dated:
+Septem D Dated: September 12, 2018  
+
+<EX-31>
+ 2
+ ex31.htm
+ EXHIBIT 31
+
+Exhibit
+31   
+
+I,
+William E. Nielsen, certify that:  
+
+1.
+I have reviewed this Quarterly Report on Form 10-Q for the quarter ended July 31, 2018 of International Baler Corp.;  
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report;  
+
+4.
+The registrants other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)
+Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on
+such evaluation.  
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that
+has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial
+reporting, and  
+
+5.
+The registrants certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing
+the equivalent functions):  
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and  
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting.  
+
+INTERNATIONAL
+    BALER CORPORATION   
+
+September
+    14, 2018  
+      By:  
+        /s/
+    William E. Nielsen     
+
+William
+    E. Nielsen   
+
+Chief
+    Executive Officer   
+
+Chief
+    Financial Officer   
+
+</EX-31>
+
+<EX-32>
+ 3
+ ex32.htm
+ EXHIBIT 32
+
+Exhibit
+32   
+
+CERTIFICATION  
+
+Pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002 I hereby certify that:  
+
+I
+have reviewed the Quarterly Report of International Baler Corp. on Form 10-Q for the quarter ended July 31, 2018 (the  Report );  
+
+To
+the best of my knowledge, the Report (i) fully complies with the requirements of section 13 (a) or 15 (d) of the Securities Exchange
+Act of 1934 (15 U.S.C. 78m(a) or 78o(d)); and (ii) the information contained in this Report fairly presents, in all material respects,
+the financial condition and results of operations of International Baler Corporation during the period covered by this Report.  
+
+INTERNATIONAL
+    BALER CORPORATION   
+
+September
+    14, 2018  
+      By:  
+        /s/
+    William E. Nielsen     
+
+William
+    E. Nielsen   
+
+Chief
+    Executive Officer   
+
+Chief
+    Financial Officer   
+
+</EX-32>
+
+<EX-101.INS>
+ 4
+ ibal-20180731.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ ibal-20180731.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ ibal-20180731_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ ibal-20180731_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ ibal-20180731_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ ibal-20180731_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

@@ -1,0 +1,1731 @@
+XCHANGE COMMISSION   
+
+   Washington,
+D.C. 205   
+
+FORM
+10-Q   
+
+OR  
+
+For
+the transition period from ______________ to _______________.  
+
+Commission
+File Number: 001-35586  
+
+MagneGas
+Corporation   
+
+  (Exact
+name of registrant as specified in its charter)  
+
+Delaware   
+         
+       26-0250418    
+ 
+       (State
+                                         or other jurisdiction of  
+          incorporation
+        or organization)   
+         
+       (I.R.S.
+                                         Employer  
+          Identification
+        No.)    
+
+(727)
+934-3448   
+
+  (Registrant s
+telephone number, including area code)  
+
+(Former
+name, former address and former fiscal year, if changed since last report)  
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.  
+
+  Yes
+[X] No [  ]  
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  
+
+  Yes
+[X] No [  ]  
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting
+company or emerging growth company. See the definitions of  large accelerated filer,   accelerated filer ,
+ smaller reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act.  
+
+Large
+    accelerated filer [  ]  
+         
+      Accelerated
+    filer [  ]   
+ 
+      Non-accelerated
+    filer [  ]  
+         
+      Smaller
+    reporting company [X]    
+ 
+      (Do
+    not check if a smaller reporting company)  
+         
+      Emerging
+    growth company [X]   
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [X]  
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [  ] No
+[X]  
+
+As
+of August 8, 2018, there were 37,713,529 shares of the issuer s $0.001 par value common stock issued and outstanding.  
+
+MAGNEGAS
+CORPORATION   
+
+   TABLE
+OF CONTENTS   
+
+   FORM
+10-Q REPORT   
+
+   June
+30, 2018   
+
+Page
+    Number    
+ 
+         PART
+    I - FINANCIAL INFORMATION     
+
+Item
+    1.   
+        Financial
+    Statements.    
+      3   
+ 
+      Item
+    2.   
+        Management s
+    Discussion and Analysis of Financial Condition and Results of Operations.    
+      21   
+ 
+      Item
+    3.   
+        Quantitative
+    and Qualitative Disclosures About Market Risk.    
+      25   
+ 
+      Item
+    4.   
+        Controls
+    and Procedures.    
+      25   
+
+PART
+    II - OTHER INFORMATION         
+
+Item
+    1.   
+        Legal
+    Proceedings.    
+      27   
+ 
+      Item
+    1A.  
+        Risk
+    Factors.    
+      27   
+ 
+      Item
+    2.   
+        Unregistered
+    Sales of Equity Securities and Use of Proceeds.    
+      27   
+ 
+      Item
+    3.   
+        Defaults
+    Upon Senior Securities.    
+      27   
+ 
+      Item
+    4.   
+        Mine
+    Safety Disclosures    
+      27   
+ 
+      Item
+    5.   
+        Other
+    Information.    
+      27   
+ 
+      Item
+    6.   
+        Exhibits.    
+      28   
+
+SIGNATURES     
+      29   
+
+PART
+I - FINANCIAL INFORMATION    
+
+Item
+                                         1.         Financial
+                                         Statements.      
+
+Page    
+      Number     
+
+Condensed
+    Consolidated Balance Sheets as of June 30, 2018 (unaudited) and December 31, 2017    
+      4   
+
+Condensed
+    Consolidated Statements of Operations for the three and six months ended June 30, 2018 and 2017 (unaudited)    
+      5   
+
+Condensed
+    Consolidated Statement of Changes in Stockholders  Equity (unaudited)    
+      6   
+
+Condensed
+    Consolidated Statements of Cash Flows for the six months ended June 30, 2018 and 2017 (unaudited)    
+      7   
+
+Notes
+    to Unaudited Condensed Consolidated Financial Statements    
+      8   
+
+MagneGas
+Corporation   
+
+      Condensed
+Consolidated Balance Sheets    
+
+See
+accompanying notes to the unaudited condensed consolidated financial statements.    
+
+MagneGas
+Corporation   
+
+      Condensed
+Consolidated Statements of Operations    
+
+   (Unaudited)   
+
+See
+accompanying notes to the unaudited condensed consolidated financial statement    
+
+MagneGas
+Corporation  
+
+     CONSOLIDATED
+STATEMENT OF STOCKHOLDERS  EQUITY   
+
+  For
+the Fiscal Year Ended December 31, 2017 and the Six Months Ended June 30, 2018  
+
+MagneGas
+Corporation   
+
+      Condensed
+Consolidated Statements of Cash Flows    
+
+   For
+the Six Months Ended June 30, 2018 and 2017   
+
+   (Unaudited)   
+
+See
+accompanying notes to the unaudited condensed consolidated financial statements.       
+
+MagneGas
+Corporation    
+
+      Notes
+to the Unaudited Condensed Consolidated Financial Statements    
+
+    June
+30, 2018    
+
+NOTE
+1   ORGANIZATION AND DESCRIPTION OF BUSINESS   
+
+MagneGas
+Corporation (the  Company ) was organized in the State of Delaware on December 9, 2005.  
+
+The
+Company is an alternative energy company that has developed a proprietary plasma arc system ( Plasma Arc Flow Units 
+or  Plasma Arc Flow System ) which generates hydrogen based synthetic gases through the gasification of various types
+of liquid feedstocks. The Company s synthetic gas   MagneGas2  - is bottled in cylinders and is distributed to
+the metalworking market as an alternative cutting fuel to acetylene and propane. Through the course of its business development,
+the Company has established a retail and wholesale platform and a network of brokers to sell its MagneGas2  for use in the
+metalworking and manufacturing industries throughout the world. Additionally, the Company is in the process of developing ancillary
+uses of MagneGas2  for additional end-user applications. The Company s Plasma Arc Flow Units include various commercial
+applications, most notably the sterilization of liquid waste, which has resulted in the Company s marketing and sale of
+Plasma Arc Flow Units for third-party commercial use.  
+
+In
+the second quarter of 2014 the Company began implementing an acquisition-focused growth strategy that was highlighted by the October
+2014 purchase of Equipment Sales and Services, Inc. ( ESSI ). ESSI is a full line seller of industrial gases and equipment
+for the welding and metal cutting industries. Since acquiring ESSI, the Company has opened four retail locations and distributes
+MagneGas2  as a metal cutting fuel as well as other gases and welding supplies. Additional acquisitions and the success of
+ESSI has allowed the Company to augment its acquisition growth model with significant organic growth. In January 2018, the Company
+acquired all of the assets of GGNG Enterprises, Inc. and began doing business in Southern California under the name  Complete
+Welding San Diego . In February 2018, the Company acquired all of the assets of Green Arc Supply, L.L.C. and began doing
+business in Texas and Louisiana under the name  Green Arc Supply . On April 3, 2018, the Company acquired all of the
+capital stock of Trico Welding Supplies, Inc. and began doing business in Northern California under the name  Trico Welding
+Supplies .  
+
+The
+Company discusses three major marketing initiatives in this Report. However, operating segments are defined as components of an
+enterprise about which separate financial information is available and that is evaluated regularly by the chief operating decision
+maker, or decision making group in deciding how to allocate resources and in assessing performance. Therefore, even though
+the Company discusses discrete initiatives it is actually three product offerings within one operating segment.  
+
+NOTE
+2 - GOING CONCERN AND MANAGEMENTS  PLAN   
+
+As of June 30, 2018, the Company had cash
+of $1,147,522 and has reported a net loss of $6,514,500 and has used cash in operations of $3,974,246 for the six
+months ended June 30, 2018. In addition, as of June 30, 2018 the Company has working capital of $1,235,578 and an accumulated
+deficit of $71,097,370. These conditions indicate that there is substantial doubt about the Company s ability to
+continue as a going concern within one year from the issuance date of the financial statements. 
+
+The
+ability of the Company to continue as a going concern is dependent upon its ability to further implement its business plan and
+generate sufficient revenue and its ability to raise additional funds by way of public or private offerings.  
+
+Historically, the Company has financed its
+operations through equity and debt financing transactions and expects to continue incurring operating losses for the foreseeable
+future. The Company s plans and expectations for the next 12 months include raising additional capital to help fund commercial
+operations and product development. The Company utilizes cash in its operations of approximately $660,000 per month. Management
+believes, but it cannot be certain, its current holdings of cash, along with the cash to be generated from expected product sales
+and future financings, will be sufficient to meet its projected operating requirements for the next twelve months from the date
+of this report. 
+
+If
+these sources do not provide the capital necessary to fund the Company s operations during the next twelve months from the
+date of this Report, the Company may need to curtail certain aspects of its operations or expansion activities, consider the sale
+of its assets, or consider other means of financing. The Company can give no assurance that it will be successful in implementing
+its business plan and obtaining financing on terms advantageous to the Company or that any such additional financing would be
+available to the Company.  
+
+NOTE
+3 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES   
+
+Basis
+of Presentation    
+
+The
+accompanying unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles
+generally accepted in the United States of America ( U.S. GAAP ) for interim financial information and the rules and
+regulations of the U.S. Securities and Exchange Commission ( SEC ) for interim financial information. In the opinion
+of the Company s management, the accompanying condensed consolidated financial statements reflect all adjustments, consisting
+of normal, recurring adjustments, considered necessary for a fair presentation of the results for the interim periods ended June
+30, 2018 and 2017. As this is an interim period financial statement, certain adjustments are not necessary as with a financial
+period of a full year. Although management believes that the disclosures in these unaudited condensed consolidated financial statements
+are adequate to make the information presented not misleading, certain information and footnote disclosures normally included
+in financial statements that have been prepared in accordance U.S. GAAP have been condensed or omitted pursuant to the rules and
+regulations of the SEC.  
+
+The accompanying unaudited condensed consolidated
+financial statements should be read in conjunction with the Company s financial statements for the year ended December 31,
+2017, which contains the audited financial statements and notes thereto, for the years ended December 31, 2017 and 2016 included
+within the Company s Form 10-K filed with the SEC on April 16, 2018. The interim results for the three and six months
+ended June 30, 2018 are not necessarily indicative of the results to be expected for the year ended December 31, 2018 or for any
+future interim periods. 
+
+Use
+of Estimates    
+
+The
+Company prepares its financial statements in conformity with U.S. GAAP. These principles require management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Management
+believes that these estimates are reasonable and have been discussed with the Board of Directors; however, actual results could
+differ from those estimates. The consolidated financial statements presented include inventory reserves, fair value of derivative
+financial instruments along with other equity instruments, recoverability of deferred tax assets, collections of its receivables,
+and valuation of assets acquired and liabilities assumed by acquisition.  
+
+Principles
+of Consolidation    
+
+The
+condensed consolidated financial statements have been prepared using the accounting records of MagneGas and its wholly owned subsidiaries
+and all material intercompany balances and transactions have been eliminated.  
+
+Inventory    
+
+Inventory
+is stated at the lower of cost or net realizable value. Cost is determined using the first-in, first-out method. Inventory is
+comprised of industrial gases, welding supply finished goods and MagneGas2 . The Company carries little to no inventory classified
+as work in progress at any time. Estimates of lower of cost or net realizable value are based upon economic conditions, historical
+sales quantities and patterns, and in some cases, the specific risk of loss on specifically identified inventories. The Company
+evaluates inventories on a regular basis to identify inventory on hand that may be slow moving. Inventory that is in excess of
+current and projected use is reduced by an allowance to the level that approximates its estimate of future demand.  
+
+Goodwill
+and Other Indefinite-lived Assets    
+
+The
+Company records goodwill and other indefinite-lived assets in connection with business combinations. Goodwill, which represents
+the excess of acquisition cost over the fair value of the net tangible and intangible assets of acquired companies, is not amortized.
+Indefinite-lived assets are stated at fair value as of the date acquired in a business combination.  
+
+The
+Company assesses the recoverability of goodwill and certain indefinite-lived intangible assets annually in the fourth quarter
+and between annual tests if an event occurs or circumstances change that would indicate the carrying amount may be impaired. Impairment
+testing for goodwill is done at a reporting unit level. Under Financial Accounting Standards Board ( FASB ) guidance
+for goodwill and intangible assets, a reporting unit is defined as an operating segment or one level below the operating segment,
+called a component. However, two or more components of an operating segment will be aggregated and deemed a single reporting unit
+if the components have similar economic characteristics. The Company operates as one reporting unit.  
+
+Authoritative
+accounting guidance allows the Company to first assess qualitative factors to determine whether it is necessary to perform the
+more detailed two-step quantitative goodwill impairment test. The Company performs the quantitative test if its qualitative assessment
+determined it is more likely than not that a reporting unit s fair value is less than its carrying amount. The Company may
+elect to bypass the qualitative assessment and proceed directly to the quantitative test for any reporting unit or asset. The
+quantitative goodwill impairment test, if necessary, is a two-step process. The first step is to identify the existence of a potential
+impairment by comparing the fair value of a reporting unit (the estimated fair value of a reporting unit is calculated using a
+discounted cash flow model) with its carrying amount, including goodwill. If the fair value of a reporting unit exceeds its carrying
+amount, the reporting unit s goodwill is considered not to be impaired and performance of the second step of the quantitative
+goodwill impairment test is unnecessary. However, if the carrying amount of a reporting unit exceeds its fair value, the second
+step of the quantitative goodwill impairment test is performed to measure the amount of impairment loss to be recorded, if any.
+The second step of the quantitative goodwill impairment test compares the implied fair value of the reporting unit s goodwill
+with the carrying amount of that goodwill. If the carrying amount of the reporting unit s goodwill exceeds its implied fair
+value, an impairment loss is recognized in an amount equal to that excess. The implied fair value of goodwill is determined using
+the same approach as employed when determining the amount of goodwill that would be recognized in a business combination. That
+is, the fair value of the reporting unit is allocated to all of its assets and liabilities as if the reporting unit had been acquired
+in a business combination and the fair value was the purchase price paid to acquire the reporting unit.  
+
+Revenue
+Recognition    
+
+In
+March 2016, the FASB issued ASU No. 2016-08,  Revenue from Contracts with Customers - Principal versus Agent Considerations ,
+in April 2016, the FASB issued ASU No. 2016-10,  Revenue from Contracts with Customers (Topic 606) - Identifying Performance
+Obligations and Licensing  and in May 9, 2016, the FASB issued ASU No. 2016-12,  Revenue from Contracts with Customers
+(Topic 606) , or ASU 2016-12. This update provides clarifying guidance regarding the application of ASU No. 2014-09 - Revenue
+From Contracts with Customers which is not yet effective. These new standards provide for a single, principles-based model for
+revenue recognition that replaces the existing revenue recognition guidance. In July 2015, the FASB deferred the effective date
+of ASU 2014-09 until annual and interim periods beginning on or after December 15, 2017. It has replaced most existing revenue
+recognition guidance under U.S. GAAP. The ASU may be applied retrospectively to historical periods presented or as a cumulative-effect
+adjustment as of the date of adoption. We have adopted Topic 606 using a modified retrospective approach and will be applied prospectively
+in our financial statements from January 1, 2018 forward. Revenues under Topic 606 are required to be recognized either at a  point
+in time  or  over time , depending on the facts and circumstances of the arrangement, and will be evaluated
+using a five-step model. The adoption of Topic 606 did not have a material impact on the financial statements, either at initial
+implementation nor will it have a material impact on an ongoing basis.  
+
+Based
+on the Company s analysis the Company did not identify a cumulative effect adjustment for initially applying the new revenue
+standards. The Company principally generates revenue through the sales of: (1) MagneGas2 , other industrial gases and welding
+supply goods and (2) Plasma Arc Flow Units, either directly or through one or more of its wholly owned welding supply and gas
+distribution subsidiaries. The Company s revenue recognition policy for the year ending December 31, 2018 is as follows:  
+
+Revenue
+    for metal-working fuel, industrial gases and welding supplies is recognized at the point where the customer obtains control
+    of the goods and we satisfy our performance obligation. The majority of the Company s terms of sale have a single performance
+    obligation to transfer products. Accordingly, the Company recognizes revenue when control has been transferred to the customer,
+    generally at the time of shipment of products. Under the previous revenue recognition accounting standard, the Company recognized
+    revenue upon transfer of title and risk of loss, generally upon the delivery of goods.   
+
+Revenue
+    generated from sales of a Plasma Arc Flow Unit ( Units ) is no longer recognized on a percentage of completion.
+    Even though our Units are cost intensive and generally require a 6 to 9 month production cycle, revenue will now be recognized
+    upon shipment of the completed machine. We require purchasers of our Units to make significant payments before we proceed
+    with production and at 75% completion; these payments are now classified as customer deposits instead of revenue.    
+
+The
+following table summarizes our revenue recognized in the condensed consolidated financial statements of operations:  
+
+Information
+on Remaining Performance Obligations and Revenue Recognized from Past Performance   
+
+We
+do not disclose information about remaining performance obligations pertaining to contracts that have an original expected duration
+of one year or less. The transaction price allocated to remaining unsatisfied or partially unsatisfied performance obligations
+with an original expected duration exceeding one year was not material at June 30, 2018.  
+
+Contract
+Balances   
+
+The
+timing of our revenue recognition may differ from the timing of payment by our customers. We record a receivable when revenue
+is recognized prior to payment and we have an unconditional right to payment. Alternatively, when payment precedes the provision
+of the related services, we record deferred revenue until the performance obligations are satisfied.  
+
+Contract
+Costs   
+
+Contract
+costs include labor and other costs to fulfill contracts associated with our Plasma Arc Flow are capitalized where the revenue
+is recognized at a point in time and the costs are determined to be recoverable.  
+
+Preferred
+Stock    
+
+The
+Company applies the accounting standards for distinguishing liabilities from equity under U.S. GAAP when determining the classification
+and measurement of its Preferred stock. Preferred shares subject to mandatory redemption are classified as liability instruments
+and are measured at fair value. Conditionally redeemable preferred shares (including preferred shares that feature redemption
+rights that are either within the control of the holder or subject to redemption upon the occurrence of uncertain events not solely
+within the Company s control) are classified as temporary equity. At all other times, preferred shares are classified as
+permanent equity.  
+
+Stock-Based
+Compensation    
+
+The
+Company accounts for stock-based compensation costs under the provisions of ASC 718,  Compensation Stock Compensation ,
+which requires the measurement and recognition of compensation expense related to the fair value of stock-based compensation awards
+that are ultimately expected to vest. Stock based compensation expense recognized includes the compensation cost for all stock-based
+payments granted to employees, officers, and directors based on the grant date fair value estimated in accordance with the provisions
+of ASC 718. ASC 718 is also applied to awards modified, repurchased, or canceled during the periods reported.  
+
+The Company incurred stock-based compensation
+charges, net of estimated forfeitures of $105,075 and $0 for the three months ended June 30,2018 and 2017, respectively,
+and $123,674 and $0 for the six months ended June 30, 2018 and 2017, respectively, and has included such amounts in selling,
+general and administrative expenses in the consolidated statements of operations.    
+
+Stock-Based
+Compensation for Non-Employees    
+
+The
+Company accounts for warrants and options issued to non-employees under ASC 505-50, Equity Based Payments to Non-Employees, using
+the Black-Scholes option-pricing model. The value of such non-employee awards unvested are re-measured over the vesting terms
+at each reporting date.  
+
+The
+Company incurred stock-based compensation charges, net of estimated forfeitures of $79,125 and $102,905 for the three months ended
+June 30, 2018 and 2017, respectively, and $142,599 and $243,145 for the six months ended June 30, 2018 and 2017, respectively,
+and has included such amounts in selling, general and administrative expenses in the condensed consolidated statements of operations.  
+
+Basic
+and Diluted Net Loss per Common Share    
+
+Basic
+loss per common share is computed by dividing the net loss by the weighted average number of shares of common stock outstanding
+for each period. Diluted loss per share is computed by dividing the net loss by the weighted average number of shares of common
+stock outstanding plus the dilutive effect of shares issuable through the common stock equivalents.  
+
+As
+of June 30, 2018, and 2017 the Company s common stock equivalents outstanding are described as follows:  
+
+The
+common stock equivalents have not been included in our weighted average shares outstanding calculation in the condensed consolidated
+statement of operations for the three and six months ended June 30, 2018 and 2017 as the inclusion would be antidilutive.  
+
+Subsequent
+Events    
+
+The
+Company evaluates events that have occurred after the balance sheet date but before the financial statements are issued. Based
+upon the evaluation, the Company did not identify any recognized or non-recognized subsequent events that would have required
+adjustment or disclosure in the consolidated financial statements, except as disclosed in Note 14.  
+
+NOTE
+4   ACQUISITIONS   
+
+January
+2018 Asset Purchase:   
+
+On
+January 19, 2018, the Company entered into an Amended and Restated Asset Purchase Agreement ( Amended Asset Purchase Agreement )
+with GGNG Enterprises Inc. (formerly known as NG Enterprises, Inc.) and Guillermo Gallardo (collectively, the  Seller )
+and closed the purchase of certain assets related to the Seller s welding supply and gas distribution business in San Diego,
+California. The total purchase price for the Purchased Assets was $767,500. $22,500 was paid as a business broker commission and
+is included in goodwill. Upon consummation of the closing, on January 19, 2018, the Company commenced business operations in San
+Diego, California through its wholly owned subsidiary NG Enterprises Acquisition, LLC and is doing business as  Complete
+Welding San Diego .  
+
+The
+preliminary allocation of the consideration transferred is as follows:  
+
+February
+2018 Asset Purchase:   
+
+On
+February 16, 2018, the Company entered into an Asset Purchase Agreement ( Asset Purchase Agreement ) with Green Arc
+Supply, L.L.C. (the  Seller ) and closed the purchase of certain assets related to the Seller s welding supply
+and gas distribution business located in Louisiana and Texas. The total purchase price for the purchased assets and assumed liabilities
+was $2,259,616, which was comprised of a $1,000,000 cash payment and the issuance of 961,539 shares of restricted common stock
+having a fair value of $1,259,616. The Asset Purchase Agreement also included certain conditional and bonus payments to the Seller,
+subject to certain performance criteria being met, as well as other terms and conditions which are typical in asset purchase agreements.  
+
+Further,
+in conjunction with the Asset Purchase Agreement, the Company entered into four (4) Assignment, Assumption and Amendment to Lease
+Agreements (each a  Lease Assumption Agreement ) with the Seller and the landlords of certain real property leased
+by the Seller for the operation of the Seller s business locations in Louisiana and Texas. Upon consummation of the closing,
+the Company commenced operations in Texas and Louisiana through its wholly owned subsidiary MWS Green Arc Acquisition, LLC and
+is doing business as  Green Arc Supply .  
+
+The
+preliminary allocation of the consideration transferred is as follows:  
+
+April
+2018 Stock Purchase:   
+
+On
+April 3, 2018, MagneGas Corporation (the  Company ) entered into a Securities Purchase Agreement ( SPA )
+with Robert Baker, Joseph Knieriem (collectively, the  Sellers ) and Trico Welding Supplies, Inc., a California corporation
+( Trico ) for the purchase of all of the issued and outstanding capital stock of Trico by the Company. Under the terms
+of the SPA, the Company purchased one hundred percent (100%) of Trico s issued and outstanding capital stock for the gross
+purchase price of $2,000,000 ( Trico Stock ). The SPA included certain other terms and conditions which are typical
+in securities purchase agreements. On March 21, 2018, the Company made an initial non-refundable deposit for the purchase of the
+Trico Stock. Upon execution of the SPA the Company funded the remaining $1,000,000 balance due. Effective at closing, the Company
+commenced business operations in northern California through its new wholly owned subsidiary Trico Welding Supplies, Inc.  
+
+The
+preliminary allocation of the consideration transferred is as follows:  
+
+All goodwill recorded as part of the purchase
+price allocations is currently anticipated to be tax deductible. 
+
+The
+following unaudited proforma financial information presents the consolidated results of operations of the Company with MWS Green
+Arc Acquisition, LLC, NG Enterprises Acquisition, LLC and Trico Welding Supplies, Inc. for the three months ended June 30, 2018
+and 2017, as if the above discussed acquisitions had occurred on January 1, 2017 instead of January 19, 2018, February 16, 2018
+and April 3, 2018, respectively. The proforma information does not necessarily reflect the results of operations that would have
+occurred had the entities been a single company during those periods.  
+
+NOTE
+5 - INVENTORY   
+
+Inventory, consisting primarily of production
+materials consumables, spare parts and accessories was $2,134,777 and $738,950 at June 30, 2018 and December 31, 2017,
+respectively. 
+
+NOTE
+6   INTANGIBLE ASSETS   
+
+The
+Company s recorded intangible assets consist of intellectual property, customer relationships and non-compete agreements.
+Applicable long lived assets are amortized or depreciated over the shorter of their estimated useful lives, the estimated
+period that the assets will generate revenue, or the statutory or contractual term. Estimates of useful lives and periods of expected
+revenue generation are reviewed periodically for appropriateness and are based upon management s judgment. Intellectual
+property is amortized on the straight-line method over its useful lives of 15 years. Customer relationships are amortized on the
+straight-line method over their useful lives of 10 years. Non-compete agreements are amortized on the straight-line method over
+the length of each agreement.  
+
+The
+Company s intangible assets consisted of the following:  
+
+The Company recorded
+amortization expense of $215,853 and $13,991 for the three months ended June 30, 2018 and 2017, respectively, and $248,792 and
+$27,965 for the six months ended June 30, 2018 and 2017, respectively. 
+
+The following table outlines estimated
+future annual amortization expense for the next five years and thereafter: 
+
+NOTE
+7   NOTES PAYABLE    
+
+Point
+Financial Promissory Note Payable    
+
+The
+Company entered into a short-term note agreement with a financing company on November 15, 2017. The new note has an implicit interest
+rate of 25% and the Company received net proceeds of $500,000. The short-term note agreement has a term of twelve (12) months
+and requires the Company to make monthly payments in the amount of $10,417 with a $625,000 balloon payment at end of term, which
+includes a $125,000 buy back premium. The Company has the right to prepay the amounts owed under the note at any time without
+penalty. The short-term note agreement has a blanket lien on the Company s assets.  
+
+The
+Company recorded $250,000 in commitment fees, buy back premiums and interest as an original issue discount and recorded a face
+amount of $750,000. The $250,000 in discount is being accreted over the 12-month life of the agreement using the straight-line
+method, which approximates the interest rate method.  
+
+During
+the three and six months ended June 30, 2018 the Company has made discretionary principal prepayments in the amount of $83,125
+and $363,250, respectively, which included the minimum payments under the terms of the agreement. The Company accretion of the
+debt discount for the three and six months ended June 30, 2018 was $71,378 and $117,376, respectively.  
+
+NOTE
+8 - STOCKHOLDERS  EQUITY   
+
+Reverse
+Stock Splits    
+
+On
+January 16, 2018, the Company filed an amendment to the Certificate of Incorporation to effect a one-for-fifteen reverse split
+of the Company s issued and outstanding common stock which was effectuated on January 16, 2018.  
+
+The
+reverse stock splits did not modify the rights or preferences of the common stock. Proportional adjustments have been made to
+the conversion and exercise prices of the Company s outstanding common stock warrants, convertible notes, common stock options,
+and to the number of common stock shares issued and issuable under the Company s equity compensation plan. The Company did
+not issue any fractional shares in connection with the reverse stock splits or change the par value per share. Fractional shares
+issuable entitle shareholders, to receive a cash payment in lieu of the fractional shares without interest. All share and per
+share amounts for the common stock have been retroactively restated to give effect to the reverse splits.  
+
+Common
+Shares Issued for Accounts Payable Settlement    
+
+During the six months ended June 30, 2018,
+the Company issued 721,455 shares of common stock to its directors, officers and consultants to settle the outstanding payables
+and accrued compensation. The total fair value of these issuances was $564,873 of which $41,696 was recorded as current period
+expense as stock compensation. 
+
+Common
+Shares Issued for Services    
+
+During
+the three and six months ended June 30, 2018, the Company issued 1,155,160 and 1,786,935 shares of common stock to consultants,
+respectively. The total fair value of these issuances during the three and six months ended June 30, 2018 were $519,457 and $2,250,207,
+respectively. These shares vest over the service term from the date of issuance. $712,014 and $1,061,240 were recognized as stock-based
+compensation during three and six months ended June 30, 2018, respectively. As of June 30, 2018, $1,188,967 remains unvested.  
+
+Common
+Stock Issued for Exercise of Warrants    
+
+During
+the first quarter of 2018, the Company issued 75,000 shares of common stock for the exercise of warrants, cash proceeds were $750.  
+
+NOTE
+9   PREFERRED STOCK   
+
+Series
+C Convertible Preferred Stock    
+
+During
+the six months ended June 30, 2018, investors converted 12,207 shares of Preferred Series C which had a stated value of $12,207,000
+into 17,421,375 shares of the Company s Common Stock.  
+
+Series
+E Convertible Preferred Stock    
+
+During
+the six months ended June 30, 2018, investors converted 280,110 shares of Preferred Series E which had a stated value of $380,950
+into 135,754 shares of the Company s Common Stock.  
+
+Series
+F Convertible Preferred Stock     
+
+On
+June 27, 2018, the Company entered into a Securities Settlement Agreement ( SSA ) with Maxim Group, LLC ( Maxim ).
+Maxim was entitled to certain placement agent fees from the Company in the aggregate amount of $556,016 arising from the convertible
+preferred transaction dated as of June 12, 2017, pursuant to the engagement letter, dated March 7, 2017, between the Company and
+Maxim. Under the terms of the SSA, the Company issued to Maxim 817,670 shares of Series F Convertible Preferred Stock with an
+initial total value of $556,016 ( Series F Convertible Preferred Stock ). The Series F Convertible Preferred Stock
+has an initial conversion price of $0.68 per share and will be initially convertible into an aggregate of 817,670 shares of Common
+Stock.  
+
+Upon
+execution of the SAA, the Company reduced its outstanding obligations by $556,016.  
+
+During
+the three months ended June 30, 2018, investors converted 201,550 shares of Series F Convertible Preferred Stock which had a stated
+value of $137,054 into 725,000 shares of the Company s Common Stock for settlement of payable to the placement agents.  
+
+NOTE
+10   COMMON STOCK OPTIONS   
+
+Options
+outstanding as of June 30, 2018 consisted of the following:  
+
+As
+of June 30, 2018, the fair value of non-vested options totaled $84,594 which will be amortized to expense over the weighted average
+remaining term of 9.34 years.  
+
+During
+the six months ended June 30, 2018, the Company granted options for the purchase of 225,000 shares of common stock to employees
+and directors of the Company. These options vest pro-rata over 24 months and have a life of ten years and an exercise price of
+$0.86-0.94 per share. The Company valued the stock options using the Black-Scholes option valuation model and the fair value of
+the awards was determined to be $208,300. The fair value of the common stock as of the grant date was determined to be $0.86-0.93
+per share.  
+
+The
+fair value of each employee option grant is estimated on the date of the grant using the Black-Scholes option-pricing model. Key
+weighted-average assumptions used to apply this pricing model during the three months ended 2018 were as follows:  
+
+NOTE
+11   COMMON STOCK WARRANTS   
+
+Common
+Stock Warrants outstanding as of June 30, 2018 consisted of the following:  
+
+On January 17, 2018, the Company issued
+75,000 common stock warrants in consideration for the services rendered by a consultant. The warrants were exercisable immediately
+and had an exercise price of $0.01. The warrants would have expired on February 17, 2018 had they not been exercised. 
+
+During
+the first quarter of 2018, the Company issued 75,000 shares of common stock for the exercise of warrants, cash proceeds were $750.
+The fair value of the common stock warrants is $316,501, of which $79,125 and $142,599 was recognized as stock-based compensation
+for three and six months ended June 30, 2018, respectively.  
+
+At June 30, 2018 the total intrinsic value
+of warrants outstanding and exercisable was $0. 
+
+NOTE
+12   PREFERRED STOCK WARRANTS   
+
+Preferred
+Stock Warrants outstanding to purchase Series C Preferred Stock as of June 30, 2018 consisted of the following:  
+
+During
+the three and six months ended June 30, 2018, the warrant holders exercised 3,141 and 12,444 Preferred Warrants into 3,141 and
+12,444 Series C Convertible Preferred Shares, respectively. The investors simultaneously converted 2,789 and 12,207 shares, respectively
+during the three and six months ended June 30, 2018, which had a stated value of 2,789,000 and $12,207,000, respectively. These
+Series C Convertible Preferred Shares converted into 7,743,544 and 17,421,275 shares of the Company s Common Stock during
+the three and six months ended June 30, 2018, respectively. Management analyzed the conversion features of the Series C Preferred
+stock underlying the Series C Preferred Warrants and recorded a beneficial conversion feature in the amount of $314,100 and $1,244,400,
+which was recognized as a deemed dividend for the three and six months ended June 30, 2018, respectively.  
+
+At
+June 30, 2018 and December 31, 2017, the total intrinsic value of preferred stock warrants outstanding and exercisable was $0
+and $0, respectively.  
+
+NOTE
+13 - RELATED PARTY TRANSACTIONS   
+
+Operating
+Leases   Related Party    
+
+The Company previously occupied 5,000 square
+feet of a building owned by a related party. Rent was payable at $4,000 on a month-to-month basis. The facility allowed for expansion
+needs. The lease was held by EcoPlus, Inc., a company that is effectively controlled by Dr. Ruggero Santilli, a former officer
+and director of the Company and one of the people who currently has voting and investment control over 1,000,000 shares of Series
+A Preferred Stock which, in turn, has 100,000 votes per share on any matters brought to a vote of the common stock shareholders.
+The lease was terminated on May 27, 2017. Rent expense for the three months ended June 30, 2017 under this lease was approximately
+$12,000 and for the six months ended June 30, 2017 was approximately $20,000. 
+
+Notes
+Payable   Related Parties    
+
+As
+of December 31, 2017, the Company had a $50,000 promissory note with a member of the Board of Directors. The note bore interest
+of 15% per annum and was due on July 3, 2017. During the six months ended June 30, 2018 the Company repaid $40,000 in principal
+and $6,313 in interest. As of June 30, 2018, the balance payable was $13,125 including interest of $1,896.  
+
+As
+of December 31, 2017, the Company had a $50,000 promissory note with the Company s Chief Executive Officer ( CEO ).
+The note bears interest of 15% and was due on July 11, 2017. During the six months ended June 30, 2018 the Company repaid $20,000
+in principal and $6,146 in interest. As of June 30, 2018, the balance payable was $33,125 including interest of $1,896.  
+
+NOTE
+14 - COMMITMENTS AND CONTINGENCIES   
+
+Litigation   
+
+Certain
+conditions may exist as of the date the consolidated financial statements are issued which may result in a loss to the Company,
+but which will only be resolved when one or more future events occur or fail to occur. The Company assesses such contingent liabilities,
+and such assessment inherently involves an exercise of judgment. In assessing loss contingencies related to legal proceedings
+that are pending against the Company, or unasserted claims that may result in such proceedings, the Company evaluates the perceived
+merits of any legal proceedings or unasserted claims, as well as the perceived merits of the amount of relief sought or expected
+to be sought therein.  
+
+If
+the assessment of a contingency indicates that it is probable that a material loss has been incurred and the amount of the liability
+can be estimated, then the estimated liability would be accrued in the Company s consolidated financial statements. If the
+assessment indicates that a potentially material loss contingency is not probable, but is reasonably possible, or is probable
+but cannot be estimated, then the nature of the contingent liability and an estimate of the range of possible losses, if determinable
+and material, would be disclosed.  
+
+Loss
+contingencies considered remote are generally not disclosed, unless they involve guarantees, in which case the guarantees would
+be disclosed. There can be no assurance that such matters will not materially and adversely affect the Company s business,
+financial position, and results of operations or cash flows.  
+
+On
+April 16, 2015, there was an accident at the Company s facilities which occurred during the gas filling process. As a result
+of the accident, one employee was killed and one was injured but has recovered and has returned to work. Although the Company
+has Workers Compensation Insurance and General Liability Insurance, the financial impact of the accident is unknown at this time.
+No customers have terminated their relationship with the Company as a result of the accident. On October 14, 2015 the Company
+received their final report from the Occupational and Safety Hazard Administration ( OSHA ) related to the accident.
+The OSHA report included findings, many of which were already resolved and a proposed citation. The Company was not cited for
+any willful misconduct and no final determination was made as to the cause of the accident. The Company received citations related
+to various operational issues and received an initial fine of $52,000. The Company has also been informed by the U.S. Department
+of Transportation that it has closed its preliminary investigation with no findings or citations to the Company. The U.S. Department
+of Transportation has the right to re-open the investigation should new information become available.  
+
+The
+Company is still investigating the cause of the accident and there have been no conclusive findings as of this time. It is unknown
+whether the final cause of the accident will be determined and whether those findings will negatively impact Company operations
+or sales. The Company continues to be fully operational and transparent with all regulatory agencies. As of June 30, 2018, the
+Company has not accrued for any contingency.  
+
+On
+November 18, 2016 a lawsuit was filed in District Court in Pinellas County, Florida by the Estate of Michael Sheppard seeking
+unspecified damages. The lawsuit alleges that the Company was negligent and grossly negligent in various aspects of its safety,
+training and overall work environment that led to the accident. The Company was not cited by OSHA for any willful misconduct nor
+did it receive any citations from the Department of Transportation. As of June 30, 2018, the Company has not accrued for any contingency.  
+
+NOTE
+15   SUBSEQUENT EVENTS   
+
+Notes
+Payable   Related Parties    
+
+On
+July 3, 2018, the Company repaid the remaining balance of that certain $50,000 promissory note held by a member of the Board of
+Directors. The note bore interest of 15% per annum and was originally due on July 3, 2017.  
+
+On
+July 11, 2018, the Company repaid the remaining balance of a $50,000 promissory note with the Company s Chief Executive
+Officer ( CEO ). The note bore interest of 15% and was originally due on July 11, 2017.  
+
+Equity:   
+
+During the period July 1, 2018 through
+August 8, 2018, the warrant holders exercised 2,522 Preferred Warrants into 2,522 Series C Preferred Shares. The investors converted
+2,522 Series C Preferred Shares into 10,843,865 shares of the Company s Common Stock. 
+
+During the period July 1, 2018 through
+August 8, 2018, the warrant holders exercised 616,120 Preferred Warrants into 616,120 Series F Preferred Shares. The investors
+converted 616,120 Series F Preferred Shares into 2,407,106 shares of the Company s Common Stock. 
+
+During the period July 1, 2018 through August 8, 2018, the Company issued 301,725
+shares of Common Stock to Joseph Knieriem as payment for non-compete and compensation agreements. The Company issued 64,103 shares
+of Common Stock to Christopher Huntington as payment for Board of Directors compensation. 
+
+Item
+2.        Management s
+Discussion and Analysis of Financial Condition and Results of Operations.    
+
+Cautionary
+Notice Regarding Forward Looking Statements   
+
+The
+following is a  safe harbor  statement under the Private Securities Litigation Reform Act of 1995. Statements contained
+in this document that are not based on historical facts are  forward-looking statements.  This Management s
+Discussion and Analysis of Financial Condition and Results of Operations and other sections of this Form 10-Q contain forward-looking
+statements. Forward-looking statements include statements concerning plans, objectives, goals, strategies, future events or performance
+and underlying assumptions that are not statements of historical facts. This document and any other written or oral statements
+made by us or on our behalf may include forward-looking statements, which reflect our current views with respect to future events
+and financial performance. We may, in some cases, use words such as  project,   believe,   anticipate, 
+ plan,   expect,   estimate,   intend,   continue,   should, 
+ would,   could,   potentially,   will,   may  or similar words and
+expressions that convey uncertainty of future events or outcomes to identify these forward-looking statements.  
+
+The
+forward-looking statements in this document are based upon various assumptions, many of which are based on management s
+discussion and analysis or plan of operations and elsewhere in this Report. Although we believe that these assumptions were reasonable
+when made, these statements are not guarantees of future performance and are subject to certain risks and uncertainties, some
+of which are beyond our control, and are difficult to predict. Actual results could differ materially from those expressed in
+forward-looking statements. Readers are cautioned not to place undue reliance on any forward-looking statements, which reflect
+management s view only as of the date of this Report.  
+
+Certain
+Terms Used in this Report   
+
+When
+this report uses the words  we,   us,   our,  and the  Company,  they refer to
+MagneGas Corporation and our wholly-owned subsidiaries.  SEC  refers to the Securities and Exchange Commission.  
+
+Overview   
+
+MagneGas
+Corporation (the  Company ) was organized in the State of Delaware on December 9, 2005.  
+
+The
+Company is an alternative energy company that has developed a proprietary plasma arc system ( Plasma Arc Flow Units 
+or  Plasma Arc Flow System ) which generates hydrogen based synthetic gases through the gasification of various types
+of liquid feedstocks. The Company s synthetic gas   MagneGas2  - is bottled in cylinders and is distributed to
+the metalworking market as an alternative cutting fuel to acetylene and propane. Through the course of its business development,
+the Company has established a retail and wholesale platform and a network of brokers to sell its MagneGas2  for use in the
+metalworking and manufacturing industries throughout the world. Additionally, the Company is in the process of developing ancillary
+uses of MagneGas2  for additional end-user applications. The Company s Plasma Arc Flow Units include various commercial
+applications, most notably the sterilization of liquid waste, which has resulted in the Company s marketing and sale of
+Plasma Arc Flow Units for third-party commercial use.  
+
+In
+the second quarter of 2014 the Company began implementing an acquisition-focused growth strategy that was highlighted by the October
+2014 purchase of Equipment Sales and Services, Inc. ( ESSI ). ESSI is a full line seller of industrial gases and equipment
+for the welding and metal cutting industries. Since acquiring ESSI, the Company has opened four retail locations and distributes
+MagneGas2  as a metal cutting fuel as well as other gases and welding supplies. Additional acquisitions and the success of
+ESSI has allowed the Company to augment its acquisition growth model with significant organic growth. In January 2018, the Company
+acquired all of the assets of GGNG Enterprises, Inc. and began doing business in southern California under the name  Complete
+Welding San Diego . In February 2018, the company acquired all of the assets of Green Arc Supply, L.L.C. and began doing
+business in Texas and Louisiana under the name  Green Arc Supply . On April 3, 2018, the Company acquired all of the
+capital stock of Trico Welding Supplies, Inc. and began doing business in Northern California under the name  Trico Welding
+Supplies .  
+
+Between
+February and March of 2017, the Company formed five wholly owned subsidiaries in the State of Delaware respectively called MagneGas
+Energy Solutions, LLC, MagneGas Welding Supply, LLC, MagneGas Real Estate Holdings, LLC, MagneGas IP, LLC and MagneGas Production,
+LLC. The Company formed these entities to hold the various types of Company assets their names indicate. On June 29, 2018, the
+Company organized MagneGas Limited under the laws of the United Kingdom and commenced business operations in greater Europe.  
+
+Results
+of Operations   
+
+Comparison
+for the three and six months ended June 30, 2018 and 2017   
+
+Revenues   
+
+For the three months
+ended June 30, 2018 and 2017 we generated revenues of $2,907,712 and $966,204, respectively. The 201% increase in revenue
+was due primarily to our acquisition of Trico Welding Supplies, Inc. in Northern California which generated $1,392,757. Organic
+sales growth in the area of preexisting operations generated $1,534,574, as compared to $966,204 for the three months ended June
+30, 2018. The $568,369 (58.5%) increase in sales outside of Trico was largely due to the expansion of the Company into the East
+Texas, Louisiana, and San Diego, California markets via two acquisitions made during the first quarter of 2018. Revenues generated
+by ESSI, LLC, the Company s Florida industrial gas and welding supply subsidiary, were $969,140, largely unchanged as compared
+to the same period in the prior year. The Company has focused on increased staffing and growth efforts in East Texas and California,
+where the Company sees significant growth potential and higher profit margin opportunities. 
+
+For the six months
+ended June 30, 2018 and 2017 we generated revenues of $4,079,464 and $1,837,992, respectively. The 122% increase in revenue
+was due primarily to the three acquisitions completed year-to-date and organic sales growth in the area of preexisting operations.
+These acquisitions contributed $2,218,411 in revenue during the period. The Company s Florida operations generated $1,855,465
+during the first six months of 2018, largely unchanged from the same period in the prior year. The Company dedicated virtually
+all spare financial and operational resources during the first six months of 2018 to completing, integrating, and implementing
+growth plans at three newly acquired business in California, Texas and Louisiana. 
+
+For the three months
+ended June 30, 2018 and 2017 cost of revenues were $1,972,586 compared to $532,657, respectively. For the three months ended June
+30, 2018 and 2017, we generated a gross profit of $935,126 compared to $433,547. Gross margins for the three months ended June
+30, 2018 and 2017 were 32% and 45%, respectively. The decline in gross margins was due to acquisition accounting treatment of
+the acquired inventory values. The company recorded $331,061 in additional cost of goods sold during the period due to acquisition
+accounting. If this amount were excluded, gross margins would have been 44%. The Company anticipates that margins will improve
+as all acquired inventory is sold and our cost basis for replacement inventory is reflected in our future cost of goods sold.
+Partially offsetting this increase in cost of goods sold, the Company has achieved better pricing and terms on select products
+as we achieve economies of scale and greater buying power. In addition, the Company is currently in the process of installing
+a bulk industrial gas fill plant at its Clearwater facilities. These facilities are estimated to further improve combined gross
+margins by 3 to 5 percentage points as the Company expects to improve its gas margins in the Florida market. 
+
+For
+the six months ended June 30, 2018 and 2017 cost of revenues were $2,730,459 compared to $1,036,045, respectively. For the six
+months ended June 30, 2018 and 2017, we generated a gross profit of $1,349,005 compared to $801,947. Gross margins for the six
+months ended June 30, 2018 and 2017 were 33% and 44%, respectively. The decline in gross margins was due to acquisition accounting
+treatment of the acquired inventory values. The Company anticipates that margins will improve as all acquired inventory is sold
+and our cost basis for replacement inventory is reflected in our future cost of goods sold. Partially offsetting this increase
+in cost of goods sold, the Company has achieved better pricing and terms on select products as we achieve economies of scale and
+greater buying power.  
+
+Operating
+Expenses   
+
+Operating costs for
+the three months ended June 30, 2018 and 2017 were $4,355,964 and $3,524,922, respectively. The increase in our operating
+costs in 2018 was primarily attributable to the completion of our acquisition in April 2018 and significant capital markets activity
+during the period. The Company spent $90,000 on consulting related to the April 2018 acquisition. The Company also recognized
+significant non-recurring charges related to integration of these acquisitions. The Company incurred approximately $60,000 in
+computer and IT integration activities. Travel expenses were also significantly higher due to ongoing personnel training, integration
+and other non-recurring activities. During the three months ended June 30, 2018 we recognized a non-cash charge of $18,599 in
+stock-based compensation for employees, compared to $1,779,350 in the comparable three months ended June 30, 2017, common stock
+issued for services of $790,389 for the three months ended June 30, 2018, compared to $1,312,721 in the comparable three months
+ended June 30, 2017. Other non-cash operating expenses were due to depreciation and amortization charges of $401,929 for
+the three-month period ended June 30, 2018, compared to $193,230 for the three months ended June 30, 2017. 
+
+Operating costs for
+the six months ended June 30, 2018 and 2017 were $7,670,321 and $6,398,267, respectively. The increase in our operating
+costs in 2018 was primarily attributable to the completion of our acquisition in April 2018 and significant capital markets activity
+during the period. The Company spent $547,810 on consulting related to the April 2018 acquisition. The Company also recognized
+significant non-recurring charges related to integration of these acquisitions. The Company incurred $63,579 in computer and IT
+integration activities. Travel expenses were also significantly higher due to ongoing personnel training, integration and other
+non-recurring activities. During the six months ended June 30, 2018 we recognized a non-cash charge of $123,674 in stock-based
+compensation for employees, compared to $1,882,255 in the comparable six months ended June 30, 2017, common stock issued for services
+of $1,203,839 for the six months ended June 30, 2018, compared to $1,639,110 in the comparable three months ended June 30, 2017.
+Other non-cash operating expenses were due to depreciation and amortization charges of $579,474 for the six-month period
+ended June 30, 2018, compared to $360,568 for the six months ended June 30, 2017. 
+
+In
+the current quarter, as in prior quarters, we selectively used common stock as a method of payment for certain services, primarily
+the advertising and promotion of the technology to increase investor and customer awareness and as incentive to its key employees
+and consultants. We expect to continue these arrangements, though due to a stronger operating position, this method of payment
+may become limited to employees.  
+
+Net
+Loss   
+
+Our
+operating results for the three months ended June 30, 2018 have recognized losses in the amount of $3,495,060 compared to $2,241,777
+for the three months ended June 30, 2017. The increase in our loss was primarily attributable to acquisition and integration expenses.  
+
+Our
+operating results for the six months ended June 30, 2018 have recognized losses in the amount of $6,514,500 compared to $4,022,936
+for the six months ended June 30, 2017. The increase in our loss was primarily attributable to acquisition and integration expenses.  
+
+Liquidity
+and Capital Resources   
+
+As of June 30, 2018, the Company had cash
+of $1,147,522 and has reported a net loss of $6,514,500 and has used cash in operations of $3,974,246 for the six
+months ended June 30, 2018. Partly offsetting our negative cash flows, as of June 30, 2018 the Company had a positive working
+capital position of $1,235,578, and a stockholder s equity balance of $14,426,449. As a result of the Company s
+negative cash flow generation, there is reasonable doubt about the Company s ability to continue as a going concern within
+one year from the issuance date of the financial statements. 
+
+The
+ability of the Company to continue as a going concern is dependent upon its ability to further implement its business plan and
+generate sufficient revenue and its ability to raise additional funds by way of public or private offerings or through the use
+of indebtedness.  
+
+Historically, the Company has financed its
+operations through equity and debt financing transactions and expects to continue incurring operating losses for the foreseeable
+future. The Company s plans and expectations for the next 12 months include raising additional capital to help fund commercial
+operations, make select acquisitions, and new product development. The Company utilizes cash in its operations of approximately
+$660,000 per month. Management believes, but it cannot be certain, its current holdings of cash along with the cash to
+be generated from expected product sales and future financings will be sufficient to meet its projected operating requirements
+for the next twelve months from the date of this report. 
+
+Cash
+Flows from Continuing Operations   
+
+Cash
+flows from continuing operations for operating, financing and investing activities for the six months ended June 30, 2018 and
+2017 are summarized in the following table:  
+
+For the three months ended June 30, 2018,
+we used cash of $3,974,246 in operations in 2018 and used cash of $2,377,367 in operations in 2017. Our cash use for 2018
+was primarily attributable to cash used to reduce vendor balances, accrued expenses and other short-term liabilities. Our cash
+use for 2017 was primarily attributable to general corporate needs, personnel restructuring, the overhaul of our capital structure,
+and organic growth initiatives. During the six months ended June 30, 2018, cash used by investing activities consisted of $5,516,975
+primarily due to the acquisition of all of the capital stock of Trico Welding Supplies, Inc. During the three months ended
+June 30, 2017, cash used by investing activities consisted of $129,750. Cash provided by financing activities for the six months
+ended June 30, 2018 was $10,051,919 as compared to cash provided by financing activities for the six months ended June
+30, 2017 of $972,273. The net increase in cash during the six months ended June 30, 2018 was $560,698 as compared to a
+net decrease in cash of $1,534,844 for the six months ended June 30, 2017. 
+
+Insurance   
+
+The
+Company has insurance to cover Liabilities related to environmental and pollution contingencies of $1,000,000 per loss and $2,000,000
+in the aggregate.  
+
+Critical
+Accounting Policies   
+
+Our
+significant accounting policies are presented in this Report in our Notes to financial statements, which are contained in this
+Quarterly Report. The significant accounting policies that are most critical and aid in fully understanding and evaluating the
+reported financial results include the following:  
+
+The
+Company prepares its financial statements in conformity with U.S. GAAP. These principles require management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Management
+believes that these estimates are reasonable and have been discussed with our Board of Directors (the  Board ); however,
+actual results could differ from those estimates.  
+
+We
+issue restricted stock to consultants for various services. Cost for these transactions are measured at the fair value of the
+consideration received or the fair value of the equity instruments issued, whichever is more reliably measurable. The value of
+the common stock is measured at the earlier of (i) the date at which a firm commitment for performance by the counterparty to
+earn the equity instruments is reached or (ii) the date at which the counterparty s performance is complete.  
+
+Long-lived
+assets such as property, equipment and identifiable intangibles are reviewed for impairment whenever facts and circumstances indicate
+that the carrying value may not be recoverable. When required impairment losses on assets to be held and used are recognized based
+on the fair value of the asset. The fair value is determined based on estimates of future cash flows, market value of similar
+assets, if available, or independent appraisals, if required. If the carrying amount of the long-lived asset is not recoverable
+from its undiscounted cash flows, an impairment loss is recognized for the difference between the carrying amount and fair value
+of the asset. When fair values are not available, the Company estimates fair value using the expected future cash flows discounted
+at a rate commensurate with the risk associated with the recovery of the assets.  
+
+The
+Company adopted ASC 606 effective January 1, 2018 using the modified retrospective method which would require a cumulative effect
+adjustment for initially applying the new revenue standard as an adjustment to the opening balance of retained earnings and the
+comparative information would not require to be restated and continue to be reported under the accounting standards in effect
+for those periods.  
+
+Based
+on the Company s analysis the Company did not identify a cumulative effect adjustment for initially applying the new revenue
+standards. The Company principally generates revenue through the sales of: (1) MagneGas2 , other industrial gases and welding
+supply goods and (2) Plasma Arc Flow Units, either directly or through one or more of its wholly owned welding supply and gas
+distribution subsidiaries. The Company s revenue recognition policy for the year ending December 31, 2018 is as follows:  
+
+Revenue
+    for metal-working fuel, industrial gases and welding supplies is recognized when performance obligations of the sale are satisfied.
+    The majority of the Company s terms of sale have a single performance obligation to transfer products. Accordingly,
+    the Company recognizes revenue when control has been transferred to the customer, generally at the time of shipment of products.
+    Under the previous revenue recognition accounting standard, the Company recognized revenue upon transfer of title and risk
+    of loss, generally upon the delivery of goods.   
+
+Revenue
+    generated from sales of a Plasma Arc Flow Unit ( Units ) is no longer recognized on a percentage of completion.
+    Even though our Units are cost intensive and generally require a 6 to 9 month production cycle, revenue will now be recognized
+    upon shipment of the completed machine. We require purchasers of our Units to make significant payments before we proceed
+    with production and at 75% completion; these payments are now classified as customer deposits instead of revenue.    
+
+The
+fair value of an embedded conversion option that is convertible into a variable amount of shares and warrants that include price
+protection reset provision features are deemed to be  down-round protection  and, therefore, do not meet the scope
+exception for treatment as a derivative under Accounting Standards Codification ( ASC ) ASC 815  Derivatives
+and Hedging , since  down-round protection  is not an input into the calculation of the fair value of the conversion
+option and warrants and cannot be considered  indexed to the Company s own stock  which is a requirement for
+the scope exception as outlined under ASC 815. The accounting treatment of derivative financial instruments requires that the
+Company record the embedded conversion option and warrants at their fair values as of the inception date of the agreement and
+at fair value as of each subsequent balance sheet date. Any change in fair value is recorded as non-operating, non-cash income
+or expense for each reporting period at each balance sheet date. The Company reassesses the classification of its derivative instruments
+at each balance sheet date. If the classification changes as a result of events during the period, the contract is reclassified
+as of the date of the event that caused the reclassification. As a result of entering into a convertible credit facility for which
+such instruments contained a variable conversion feature with no floor, the Company has adopted a sequencing policy in accordance
+with ASC 815-40-35-12 whereby all future instruments may be classified as a derivative liability with the exception of instruments
+related to share-based compensation issued to employees.  
+
+The
+Black-Scholes option valuation model was used to estimate the fair value of the warrants and conversion options. The model includes
+subjective input assumptions that can materially affect the fair value estimates. The Company determined the fair value of the
+Binomial Lattice Model and the Black-Scholes Valuation Model to be materially the same. The expected volatility is estimated based
+on the most recent historical period of time equal to the weighted average life of the warrants. Conversion options are recorded
+as debt discount and are amortized as interest expense over the life of the underlying debt instrument.  
+
+Off
+Balance Sheet Arrangements   
+
+The
+Company has no off-balance sheet arrangements.  
+
+Item
+3.        Quantitative
+and Qualitative Disclosures About Market Risk.    
+
+The
+Company is a  Smaller Reporting Company  as defined by   229.10(f)(1) and is not required to provide the information
+required by this Item.  
+
+Item
+4.        Controls
+and Procedures.    
+
+Evaluation
+of Disclosure Controls and Procedures   
+
+In
+connection with the preparation of this report, an evaluation was carried out by the Company s management, with the participation
+of the chief executive officer and chief financial officer of the effectiveness of the Company s disclosure controls and
+procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 ( Exchange Act ))
+as of June 30, 2018. Disclosure controls and procedures are designed to ensure that information required to be disclosed in reports
+filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in
+the Commission s rules and forms, and that such information is accumulated and communicated to management, including the
+chief executive officer and the chief financial officer, to allow timely decisions regarding required disclosures.  
+
+During
+the evaluation of disclosure controls and procedures as of June 30, 2018, management concluded that Company s disclosure
+controls and procedures were not effective.  
+
+Notwithstanding
+the existence of these material weaknesses, management believes that the consolidated financial statements in this report on Form
+10-Q fairly present, in all material respects, the Company s financial condition as reported, in conformity with United
+States Generally Accepted Accounting Principles ( GAAP ).  
+
+Management s
+Report on Internal Control over Financial Reporting   
+
+Management
+of the Company is responsible for establishing and maintaining adequate internal control over financial reporting, as defined
+in Rule 13a-15(f) and 15d-15(f) of the Exchange Act. The Company s internal control over financial reporting is a process,
+under the supervision of the chief executive officer and chief financial officer, designed to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of the Company s financial statements for external purposes in
+accordance with GAAP. Internal control over financial reporting includes those policies and procedures that:  
+
+Pertain
+    to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of
+    the Company s assets;   
+
+Provide
+    reasonable assurance that transactions are recorded as necessary to permit preparation of the financial statements in accordance
+    with GAAP, and that receipts and expenditures are being made only in accordance with authorizations of management and the
+    board of directors; and   
+
+Provide
+    reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the Company s
+    assets that could have a material effect on the financial statements.   
+
+Because
+of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections
+of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes
+in conditions or that the degree of compliance with the policies or procedures may deteriorate.  
+
+Management
+has not completed a proper evaluation, risk assessment and monitoring of the company s internal controls over financial
+reporting as of June 30, 2018, based on criteria established in  Internal Control   Integrated Framework (2013)  issued
+by the Committee of Sponsoring Organizations of the Treadway Commission ( COSO ). As a result, management has concluded
+controls were not effective and identified material weaknesses in internal control over financial reporting.  
+
+A
+material weakness is a control deficiency, or a combination of deficiencies, in internal control over financial reporting such
+that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements
+will not be prevented or detected on a timely basis.  
+
+The
+material weaknesses identified are disclosed below:  
+
+Failure
+to Segregate Duties.  Management has not maintained adequate segregation of duties within the Company due to its reliance on
+a few individuals to fill multiple roles and responsibilities. Our failure to segregate duties has been a material weakness for
+the period covering this report.  
+
+Sufficiency
+of Accounting Resources.  The Company has limited accounting personnel to prepare its financial statements and handle complex
+accounting transactions. The insufficiency of our accounting resources has been a material weakness for the period covering this
+report.  
+
+Evaluation.
+ The Company did not perform a proper evaluation, risk assessment or monitor their internal controls over financial reporting.  
+
+As
+a result of the material weaknesses in internal control over financial reporting described above, the Company s management
+has concluded that, as of June 30, 2018, the Company s internal control over financial reporting was not effective based
+on the criteria in Internal Control   Integrated Framework issued by the COSO.  
+
+This
+report does not include an attestation report of the Company s independent registered public accounting firm regarding internal
+control over financial reporting. We were not required to have, nor have we, engaged the Company s independent registered
+public accounting firm to perform an audit of internal control over financial reporting pursuant to the rules of the Securities
+and Exchange Commission that permit us to provide only management s report in this annual report.  
+
+Changes
+in Internal Controls over Financial Reporting   
+
+There
+has been no change in our internal control over financial reporting identified in connection with the evaluation required by paragraph
+(d) of Rule 13a-15 or 15d-15 under the Exchange Act that occurred during the quarter ended June 30, 2018 that has materially affected
+or is reasonably likely to materially affect our internal control over financial reporting.  
+
+PART
+II - OTHER INFORMATION    
+
+Item
+1.        Legal
+Proceedings.    
+
+The
+Company is involved in certain claims and pending litigation arising from the normal conduct of business. Many of these claims
+are covered in whole or in part by insurance. Based on knowledge of the facts and, in certain cases, opinions of outside counsel,
+management believes that adequate provisions have been made for probable losses with respect to the resolution of all such claims
+and pending litigation and that the ultimate outcome, after provisions therefor, will not have a material adverse effect on the
+financial condition of the Company, but could have a material effect on the results of operations in a given quarter or year.  
+
+Item
+1A.        Risk
+Factors.    
+
+For
+a discussion identifying additional risk factors and other important factors that could cause actual results to differ materially
+from those anticipated, see the discussions under Part I, Item 1A,  Risk Factors  in the Company s Annual Report
+on Form 10-K for the fiscal year ended December 31, 2017.  
+
+Item
+2.        Unregistered
+Sales of Equity Securities and Use of Proceeds.    
+
+During
+the second quarter of 2018, the Company issued 1,155,160 shares of common stock to consultants. The total value of these issuances
+is $519,457. These shares shall be vested per service term from the date of issuance and $712,014 were recognized as stock-based
+compensation during the three months ended June 30, 2018.  
+
+Item
+3.        Defaults
+Upon Senior Securities.    
+
+None  
+
+Item
+4.        Mine
+Safety Disclosures.    
+
+Not
+Applicable.  
+
+Item
+5.        Other
+Information.    
+
+None.  
+
+Item
+6.        Exhibits    
+
+*
+In accordance with SEC Release 33-8238, Exhibits 32.1 and 32.2 are being furnished and not filed.  
+
+SIGNATURES    
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.  
+
+MagneGas
+    Corporation    
+
+By:  
+       /s/
+    Ermanno Santilli    
+
+Ermanno
+    Santilli   
+
+Chief
+    Executive Officer   
+
+(Principal
+    Executive Officer)   
+
+Dated:  
+      August
+    14, 2018   
+
+By:  
+       /s/
+    Scott Mahoney    
+
+Scott
+    Mahoney   
+
+Chief
+    Financial Officer   
+
+(Principal
+    Financial and Accounting Officer)   
+
+Dated:  
+      August
+    14, 2018   
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit
+31.1   
+
+CERTIFICATION   
+
+   OF
+PRINCIPAL EXECUTIVE OFFICER   
+
+   PURSUANT
+TO 18 U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO SECTION 302 OF   
+
+   THE
+SARBANES-OXLEY ACT OF 2002   
+
+I,
+Ermanno Santilli, certify that:  
+
+1.  
+      I have reviewed
+    this Form 10-Q of MagneGas Corporation;   
+
+2.  
+      Based on my knowledge,
+    this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the
+    statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+    covered by this report;   
+
+3.  
+      Based on my knowledge,
+    the financial statements, and other financial information included in this report, fairly present in all material respects
+    the financial condition, results of operations and cash flows of the registrant as of, and for, the periods present in this
+    report;   
+
+4.  
+      The registrant s
+    other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as
+    defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+    Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a)  
+      Designed such disclosure
+    controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+    that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+    within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed such internal
+    control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+    to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+    for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated the effectiveness
+    of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+    of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+
+(d)  
+      Disclosed in this
+    report any change in the registrant s internal control over financing reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;
+    and   
+
+5.  
+      The registrant s
+    other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+    to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+    the equivalent functions):   
+
+(a)  
+      All significant
+    deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+    likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+    and   
+
+(b)  
+      Any fraud, whether
+    or not material, that involved management or other employees who have a significant role in the registrant s internal
+    control over financial reporting.   
+
+Date:
+    August 14, 2018  
+
+/s/
+    Ermanno Santilli   
+
+Ermanno
+        Santilli  
+          (Principal
+        Executive Officer)   
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+Exhibit
+31.2   
+
+CERTIFICATION   
+
+   OF
+PRINCIPAL FINANCIAL OFFICER   
+
+   PURSUANT
+TO 18 U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO SECTION 302 OF   
+
+   THE
+SARBANES-OXLEY ACT OF 2002   
+
+I,
+Scott Mahoney, certify that:  
+
+1.  
+      I have reviewed
+    this Form 10-Q of MagneGas Corporation;   
+
+2.  
+      Based on my knowledge,
+    this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the
+    statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+    covered by this report;   
+
+3.  
+      Based on my knowledge,
+    the financial statements, and other financial information included in this report, fairly present in all material respects
+    the financial condition, results of operations and cash flows of the registrant as of, and for, the periods present in this
+    report;   
+
+4.  
+      The registrant s
+    other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as
+    defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+    Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a)  
+      Designed such disclosure
+    controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+    that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+    within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed such internal
+    control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+    to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+    for external purposes in accordance with generally accepted accounting principles;   
+
+(c)  
+      Evaluated the effectiveness
+    of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness
+    of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+
+(d)  
+      Disclosed in this
+    report any change in the registrant s internal control over financing reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;
+    and   
+
+5.  
+      The registrant s
+    other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+    to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+    the equivalent functions):   
+
+(a)  
+      All significant
+    deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+    likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+    and   
+
+(b)  
+      Any fraud, whether
+    or not material, that involved management or other employees who have a significant role in the registrant s internal
+    control over financial reporting.   
+
+Date:
+    August 14, 2018  
+
+/s/
+    Scott Mahoney   
+
+Scott
+        Mahoney  
+          (Principal
+        Financial Officer)   
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+Exhibit
+32.1   
+
+CERTIFICATION
+OF   
+
+   PRINCIPAL
+EXECUTIVE OFFICER   
+
+   PURSUANT
+TO 18 U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+connection with this Annual Report of MagneGas Corporation (the  Company ) on Form 10-Q for the period ended June
+30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Ermanno Santilli,
+Chief Executive Officer of the Company, certifies to the best of his knowledge, pursuant to 18 U.S.C. Sec. 1350, as adopted pursuant
+to Sec. 906 of the Sarbanes-Oxley Act of 2002, that:  
+
+1.
+Such Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+
+2.
+The information contained in such Report, fairly presents, in all material respects, the financial condition and results of operations
+of MagneGas Corporation.  
+
+Date:
+August 14, 2018  
+
+/s/
+    Ermanno Santilli   
+
+Ermanno Santilli  
+
+(Principal Executive Officer)  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+Exhibit
+32.2   
+
+CERTIFICATION
+OF   
+
+   PRINCIPAL
+FINANCIAL OFFICER   
+
+   PURSUANT
+TO 18 U.S.C. SECTION 1350,   
+
+   AS
+ADOPTED PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+connection with this Annual Report of MagneGas Corporation (the  Company ) on Form 10-Q for the period ended June
+30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Scott Mahoney,
+Chief Financial Officer of the Company, certifies to the best of her knowledge, pursuant to 18 U.S.C. Sec. 1350, as adopted pursuant
+to Sec. 906 of the Sarbanes-Oxley Act of 2002, that:  
+
+1.
+Such Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+
+2.
+The information contained in such Report, fairly presents, in all material respects, the financial condition and results of operations
+of MagneGas Corporation.  
+
+Date:
+August 14, 2018  
+
+/s/
+    Scott Mahoney   
+
+Scott Mahoney  
+
+(Principal Financial Officer)  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ mnga-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ mnga-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ mnga-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ mnga-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ mnga-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ mnga-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

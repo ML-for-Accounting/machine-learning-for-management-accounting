@@ -1,0 +1,1224 @@
+ents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-Q  
+
+OR    
+
+Commission file number 001-11625 
+  Pentair plc 
+
+(Exact name of Registrant as specified in its charter) 
+                   Ireland 
+       
+    98-1141328 
+      (State or other jurisdiction of incorporation or organization) 
+       
+    (I.R.S. Employer Identification number) 
+
+Station Road, Longstanton, Cambridge, CB24 3DS, United Kingdom 
+      (Address of principal executive offices) 
+
+Registrant s telephone number, including area code: 44-19-5426-2325 
+  Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.  Yes       No     
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 223.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes       No     
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company. See definitions of  large accelerated filer,   accelerated filer,   smaller reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act.    
+                               Large accelerated filer     
+       
+    Accelerated filer   o 
+       
+    Non-accelerated filer   o 
+       
+    Smaller reporting  
+  company   o 
+      
+    Emerging growth company   o 
+
+(Do not check if a smaller reporting company) 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     
+  Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes       No     
+  On   September 30, 2018  ,   173,601,030   shares of Registrant s common stock were outstanding. 
+
+Table of Contents  
+
+Pentair plc and Subsidiaries 
+
+Page 
+
+PART I FINANCIAL INFORMATION 
+
+ITEM 1. 
+     Financial Statements (unaudited)  
+
+Condensed Consolidated Statements of Operations and Comprehensive Income  
+    3 
+
+Condensed Consolidated Balance Sheets  
+    4 
+
+Condensed Consolidated Statements of Cash Flows  
+    5 
+
+Condensed Consolidated Statements of Changes in Equity  
+    6 
+
+Notes to Condensed Consolidated Financial Statements  
+    7 
+
+ITEM 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    34 
+
+ITEM 3. 
+     Quantitative and Qualitative Disclosures about Market Risk  
+    46 
+
+ITEM 4. 
+     Controls and Procedures  
+    47 
+
+PART II OTHER INFORMATION 
+
+ITEM 1. 
+     Legal Proceedings  
+    48 
+
+ITEM 1A. 
+     Risk Factors  
+    49 
+
+ITEM 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    49 
+
+ITEM 6. 
+     Exhibits  
+    50 
+
+Signatures  
+    51 
+
+2 
+
+Table of Contents  
+
+PART I FINANCIAL INFORMATION 
+    
+  ITEM 1.    FINANCIAL STATEMENTS 
+   
+  Pentair plc and Subsidiaries 
+  Condensed Consolidated Statements of Operations and Comprehensive Income (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   3 
+
+Table of Contents  
+
+Pentair plc and Subsidiaries 
+  Condensed Consolidated Balance Sheets (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   4 
+
+Table of Contents  
+
+Pentair plc and Subsidiaries 
+  Condensed Consolidated Statements of Cash Flows (Unaudited)    
+
+  See accompanying notes to condensed consolidated financial statements. 
+  
+   5 
+
+Table of Contents  
+
+Pentair plc and Subsidiaries 
+  Condensed Consolidated Statements of Changes in Equity (Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+6 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+1.    Basis of Presentation and Responsibility for Interim Financial Statements 
+  The accompanying unaudited condensed consolidated financial statements of Pentair plc and its subsidiaries ( we,   us,   our,   Pentair,  or the  Company ) have been prepared following the requirements of the U.S. Securities and Exchange Commission ( SEC ) for interim reporting. As permitted under those rules, certain footnotes or other financial information that are normally required by accounting principles generally accepted in the United States of America ( GAAP ) can be condensed or omitted. 
+  We are responsible for the unaudited condensed consolidated financial statements included in this document. The financial statements include all normal recurring adjustments that are considered necessary for the fair presentation of our financial position and operating results. As these are condensed financial statements, one should also read our consolidated financial statements and notes thereto, which are included in our Annual Report on Form 10-K for the year ended   December 31, 2017  . 
+  Revenues, expenses, cash flows, assets and liabilities can and do vary during each quarter of the year. Therefore, the results and trends in these interim financial statements may not be indicative of those for a full year. 
+  Our fiscal year ends on December 31. We report our interim quarterly periods on a calendar quarter basis.  
+  Electrical separation 
+  On April 30, 2018, Pentair completed the previously announced separation of its Electrical business from the rest of Pentair (the  Separation ) by means of a dividend in specie of the Electrical business, which was effected by the transfer of the Electrical business from Pentair to nVent Electric plc ( nVent ) and the issuance by nVent of ordinary shares directly to Pentair shareholders (the  Distribution ). On May 1, 2018, following the Separation and Distribution, nVent became an independent publicly traded company, trading on the New York Stock Exchange under the symbol  NVT.    
+  The Company did not retain any equity interest in nVent. nVent s historical financial results are reflected in the Company s condensed consolidated financial statements as a discontinued operation.  Refer to Note 3 for further discussion. 
+  In connection with the Distribution of nVent, the Company and nVent entered into several agreements covering administrative and tax matters to provide or obtain services on a transitional basis, as needed, for varying periods after the Distribution. The administrative agreements cover various services such as information technology, human resources and finance. The Company expects all services to be substantially complete within one year after the Distribution.  
+  Adoption of new accounting standards 
+  On January 1, 2018, we adopted Accounting Standards Update ( ASU ) No. 2017-07,  Retirement Benefits-Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost.  As a result of the adoption, the interest cost, expected return on plan assets and net actuarial gain/loss components of net periodic pension and post-retirement benefit cost have been reclassified from   Selling, general and administrative   expense   to   Other expense (income)  . Only the service cost component remains in   Operating income   and will be eligible for capitalization in assets on a prospective basis.  
+  The effect of the retrospective presentation change related to the net periodic cost of our defined benefit pension and other post-retirement plans on our Condensed Consolidated Statements of Operations and Comprehensive Income was a reclassification of   $1.4 million   and   $4.1 million   for the three and nine months ended September 30, 2017, respectively, from   Selling, general and administrative   expense   to   Other expense (income)  . 
+  On January 1, 2018, we adopted ASU No. 2016-16,  Accounting for Income Taxes: Intra-Entity Asset Transfers of Assets Other than Inventory.  This ASU requires the tax effects of all intra-entity sales of assets other than inventory to be recognized in the period in which the transaction occurs. The adoption resulted in a   $215.8 million   cumulative-effect adjustment (of which   $174.6 million   related to nVent) recorded in retained earnings as of the beginning of 2018. The adjustment reflects a   $254.3 million   reduction of a prepaid long term tax asset, partially offset by the establishment of   $38.5 million   of deferred tax assets.  
+    
+  On January 1, 2018, we adopted ASU No. 2014-09,  Revenue from Contracts with Customers  and the related amendments ( ASC 606  or  the new revenue standard ) using the modified retrospective method. The cumulative impact to our retained earnings at January 1, 2018 was not material.  The comparative information has not been restated and continues to be reported under the accounting standards in effect for those periods. We expect the impact of the adoption of the new standard to be immaterial to our net income on an ongoing basis. 
+    
+  A majority of our net sales continue to be recognized when products are shipped from our manufacturing facilities or delivery has occurred, depending on terms of the sale. Under the new revenue standard, timing for recognition of certain revenue may be  
+  
+   7 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+accelerated such that a portion of revenue will be recognized prior to shipment or delivery dependent upon contract-specific terms. 
+    
+  The cumulative effect of the changes made to our January 1, 2018 Condensed Consolidated Balance Sheet from the modified retrospective adoption of ASU 2016-16 and ASU 2014-09 was as follows: 
+
+New accounting standards issued but not yet adopted 
+  In February 2016, the Financial Accounting Standards Board issued ASU 2016-02,  Leases  ( the new lease standard  or  ASC 842 ), which requires an entity to recognize both assets and liabilities arising from financing and operating leases, along with additional qualitative and quantitative disclosures. The new lease standard requirements are effective for annual reporting periods beginning after December 15, 2018, including interim periods within that reporting period, and early adoption is permitted. The Company has begun evaluating the new lease standard, including the review and implementation of the necessary changes to our existing processes and systems that will be required to implement the new lease standard.  While we are unable to quantify the impact at this time, we expect the primary impact upon adoption will be the recognition, on a discounted basis, of our minimum commitments under noncancelable operating leases on our consolidated balance sheets resulting in the recording of right of use assets and lease obligations. We currently do not expect ASC 842 to have a material effect on either our condensed consolidated statements of operations and comprehensive income or condensed consolidated statements of cash flows.  We plan to adopt ASC 842 in the first quarter of 2019. 
+   
+  2.     Revenue 
+  Revenue recognition 
+  Revenue is recognized when control of the promised goods or services are transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for transferring those goods or providing services. We account for a contract when it has approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of consideration is probable. 
+    
+  When determining whether the customer has obtained control of the goods or services, we consider any future performance obligations. Generally, there is no post-shipment obligation on product sold other than warranty obligations in the normal and ordinary course of business. In the event significant post-shipment obligations were to exist, revenue recognition would be deferred until Pentair has substantially accomplished what it must do to be entitled to the benefits represented by the revenue. 
+
+8 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Performance obligations    
+  A performance obligation is a promise in a contract to transfer a distinct good or service to the customer, and is the unit of account in ASC 606. A contract s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. The majority of our contracts have a single performance obligation as the promise to transfer the individual goods or services is not separately identifiable from other promises in the contracts and, therefore, not distinct. For contracts with multiple performance obligations, standalone selling price is generally readily observable. 
+  Our performance obligations are satisfied at a point in time or over time as work progresses. Revenue from goods and services transferred to customers at a point in time accounted for   90.5%   and   91.3%   of our revenue for the three months ended   September 30, 2018   and   2017  , respectively, and   92.3%   and   92.8%   of our revenue for the nine months ended   September 30, 2018   and   2017  , respectively. Revenue on these contracts is recognized when obligations under the terms of the contract with our customer are satisfied; generally this occurs with the transfer of control upon shipment.  
+  Revenue from products and services transferred to customers over time accounted for   9.5%   and   8.7%   of our revenue for the three months ended   September 30, 2018   and   2017  , respectively, and   7.7%   and   7.2%   of our revenue for the nine months ended   September 30, 2018   and   2017  , respectively. For the majority of our revenue recognized over time, we use an input measure to determine progress towards completion. Under this method, sales and gross profit are recognized as work is performed generally based on the relationship between the actual costs incurred and the total estimated costs at completion ( the cost-to-cost method ) or based on efforts for measuring progress towards completion in situations in which this approach is more representative of the progress on the contract than the cost-to-cost method. Contract costs include labor, material, overhead and, when appropriate, general and administrative expenses. Changes to the original estimates may be required during the life of the contract, and such estimates are reviewed on a regular basis. Sales and gross profit are adjusted using the cumulative catch-up method for revisions in estimated total contract costs. These reviews have not resulted in adjustments that were significant to our results of operations. For performance obligations related to long term contracts, when estimates of total costs to be incurred on a performance obligation exceed total estimates of revenue to be earned, a provision for the entire loss on the performance obligation is recognized in the period the loss is determined.  
+  On   September 30, 2018  , we had   $69.1 million   of remaining performance obligations on contracts with an original expected duration of one year or more. We expect to recognize the majority of our remaining performance obligations on these contracts within the next   12   to   18 months  . 
+  Sales returns 
+  The right of return may exist explicitly or implicitly with our customers. Our return policy allows for customer returns only upon our authorization. Goods returned must be product we continue to market and must be in salable condition. When the right of return exists, we adjust the transaction price for the estimated effect of returns. We estimate the expected returns based on historical sales levels, the timing and magnitude of historical sales return levels as a percent of sales, type of product, type of customer and a projection of this experience into the future. 
+    
+  Pricing and sales incentives 
+  Our sales contracts may give customers the option to purchase additional goods or services priced at a discount. Options to acquire additional goods or services at a discount can come in many forms, such as customer programs and incentive offerings including pricing arrangements, promotions and other volume-based incentives. 
+    
+  We reduce the transaction price for certain customer programs and incentive offerings including pricing arrangements, promotions and other volume-based incentives that represent variable consideration. Sales incentives given to our customers are recorded using either the expected value method or most likely amount approach for estimating the amount of consideration to which Pentair shall be entitled. The expected value is the sum of probability-weighted amounts in a range of possible consideration amounts. An expected value is an appropriate estimate of the amount of variable consideration when there are a large number of contracts with similar characteristics. The most likely amount is the single most likely amount in a range of possible consideration amounts (that is, the single most likely outcome of the contract). The most likely amount is an appropriate estimate of the amount of variable consideration if the contract has limited possible outcomes (for example, an entity either achieves a performance bonus or does not). 
+    
+  Pricing is established at or prior to the time of sale with our customers, and we record sales at the agreed-upon net selling price. However, one of our businesses allows customers to apply for a refund of a percentage of the original purchase price if they can demonstrate sales to a qualifying end customer. We use the expected value method to estimate the anticipated refund to be paid  
+  
+   9 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+based on historical experience and reduce sales for the probable cost of the discount. The cost of these refunds is recorded as a reduction of the transaction price. 
+  Volume-based incentives involve rebates that are negotiated at or prior to the time of sale with the customer and are redeemable only if the customer achieves a specified cumulative level of sales or sales increase. Under these incentive programs, at the time of sale, we reforecast the most likely amount of the rebate to be paid based on forecasted sales levels. These forecasts are updated at least quarterly for each customer, and the transaction price is reduced for the anticipated cost of the rebate. If the forecasted sales for a customer changes, the accrual for rebates is adjusted to reflect the new amount of rebates expected to be earned by the customer. 
+  Shipping and handling costs 
+  Amounts billed to customers for shipping and handling activities after the customer obtains control are treated as a promised service performance obligation and recorded in   Net sales   in the accompanying Condensed Consolidated Statements of Operations and Comprehensive Income. Shipping and handling costs incurred by Pentair for the delivery of goods to customers are considered a cost to fulfill the contract and are included in   Cost of goods sold   in the accompanying Condensed Consolidated Statements of Operations and Comprehensive Income. 
+    
+  Contract assets and liabilities 
+  Contract assets consist of unbilled amounts resulting from sales under long-term contracts when the cost-to-cost method of revenue recognition is utilized and revenue recognized exceeds the amount billed to the customer, such as when the customer retains a small portion of the contract price until completion of the contract. We typically receive interim payments on sales under long-term contracts as work progresses, although for some contracts, we may be entitled to receive an advance payment. Contract liabilities consist of advanced payments, billings in excess of costs incurred and deferred revenue.  
+    
+  Contract assets are recorded within   Other current assets  , and contract liabilities are recorded within   Other current liabilities   in the Condensed Consolidated Balance Sheets.  
+    
+  Contract assets and liabilities consisted of the following: 
+
+The   $3.1 million     decrease   in net contract   assets   from   December 31, 2017   to   September 30, 2018   was primarily the result of timing of milestone payments. Approximately   65%   of our contract liabilities at   December 31, 2017   were recognized in revenue in the   first nine months   of   2018  . There were   no   impairment losses recognized on our contract assets for the three and nine months ended   September 30, 2018  . 
+    
+  Practical expedients and exemptions 
+  We generally expense incremental costs of obtaining a contract when incurred because the amortization period would be less than one year. These costs primarily relate to sales commissions and are recorded in   Selling, general and administrative   expense   in the Condensed Consolidated Statements of Operations and Comprehensive Income.  
+    
+  We do not disclose the value of unsatisfied performance obligations for contracts with an original expected length of one year or less. Further, we do not adjust the promised amount of consideration for the effects of a significant financing component if we expect, at contract inception, that the period between when we transfer a promised good or service to a customer and when the customer pays for that good or service will be one year or less. 
+    
+  Revenue by category 
+  We disaggregate our revenue from contracts with customers by segment, geographic location and vertical market, as we believe these best depict how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors. Refer to Note 14 for revenue disaggregated by segment. 
+
+10 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Geographic net sales information, based on geographic destination of the sale, was as follows: 
+
+Vertical market net sales information was as follows: 
+
+3.  Discontinued Operations  
+  Electrical separation 
+  On April 30, 2018, the Company completed the previously announced separation of the Electrical business from the rest of Pentair by means of a dividend in specie of the Electrical business, which was effected by the transfer of the Electrical business from Pentair to nVent and the issuance by nVent of nVent ordinary shares directly to Pentair shareholders. We did not retain an equity interest in nVent.  
+    
+  The results of the Electrical business have been presented as discontinued operations and the related assets and liabilities were reclassified as held for sale for all periods presented. The Electrical business had been previously disclosed as a stand-alone reporting segment. Separation costs related to the Separation and Distribution were   $2.5 million   and   $11.7 million   for the three months ended   September 30, 2018   and   2017  , respectively, and   $82.4 million   and   $19.3 million   for the nine months ended   September 30, 2018   and   2017  , respectively. These costs are reported in discontinued operations as they represent a cost directly related to the Separation and Distribution and were included within   Income from discontinued operations, net of tax   presented below. 
+    
+  Sale of Valves   Controls 
+  On April 28, 2017, we completed the sale of the Valves   Controls business to Emerson Electric Co. for   $3.15 billion   in cash. The sale resulted in a gain of   $181.1 million  , net of tax. The results of the Valves   Controls business have been presented as discontinued operations. The Valves   Controls business was previously disclosed as a stand-alone reporting segment. Transaction costs of   $1.7 million   and   $55.4 million   related to the sale of Valves   Controls were incurred during the three and nine months ended September 30, 2017, respectively, and were recorded within   (Loss) gain from sale of discontinued operations before income taxes     presented below.  
+
+11 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Operating results of discontinued operations are summarized below:   
+
+  The carrying amounts of major classes of assets and liabilities that were classified as held for sale on the Condensed Consolidated Balance Sheets were as follows:   
+
+12 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+4. 
+    Share Plans 
+     Total share-based compensation expense for the   three and nine months ended     September 30, 2018   and   2017   was as follows:    
+
+Of the total share-based compensation expense noted above,   $0.0 million     and   $1.7 million   for the three months ended   September 30, 2018   and   2017  , respectively, and   $3.4 million   and   $6.0 million   for the nine months ended   September 30, 2018   and   2017  , respectively, was reported as part of   Income from discontinued operations, net of tax  . 
+    
+  In May 2018, we issued our annual share-based compensation grants under the Pentair plc 2012 Stock and Incentive Plan to eligible employees. The total number of awards issued was approximately   0.8 million  , of which   0.2 million   were restricted stock units ( RSUs ),   0.5 million   were stock options and   0.1 million   were performance share units ( PSUs ). The weighted-average grant date fair value of the RSUs, stock options and PSUs issued was   $45.42  ,   $10.92  , and   $45.42  , respectively. 
+    
+  We estimated the fair value of each stock option award issued in the annual share-based compensation grant using a Black-Scholes option pricing model, modified for dividends and using the following assumptions:   
+
+These estimates require us to make assumptions based on historical results, observance of trends in our share price, changes in option exercise behavior, future expectations and other relevant factors. If other assumptions had been used, share-based compensation expense, as calculated and recorded under the accounting guidance, could have been affected. We based the expected life assumption on historical experience as well as the terms and vesting periods of the options granted. For purposes of determining expected share price volatility, we considered a rolling average of historical volatility measured over a period approximately equal to the expected option term. The risk-free interest rate for periods that coincide with the expected life of the options is based on the U.S. Treasury Department yield curve in effect at the time of grant. 
+    
+  Electrical separation 
+  In connection with the Separation and Distribution, the Company adjusted its outstanding equity awards on May 1, 2018 in accordance with the Employee Matters Agreement between Pentair and nVent. The outstanding awards will continue to vest over the original vesting period, which is generally   three years   from the grant date. 
+    
+  The RSUs, PSUs, and stock option awards issued before May 9, 2017 (the date of Pentair s announcement of  its intention to separate its Water and Electrical businesses) were converted into awards of both Pentair and nVent regardless of which company the award holder was employed by immediately after the Separation. These awards were converted as follows: 
+
+Restricted stock units  : For every unvested Pentair RSU award held, the holder received   one   nVent RSU.  
+
+Performance share units  : Pentair PSUs were converted to Pentair RSUs immediately after the Distribution. The PSUs granted in 2016 were converted at rate of   125%   of target, and the PSUs granted in 2017 were converted at a rate of   100%   of target. For every converted RSU, the shareholder also received   one   nVent RSU. The converted RSUs retain the original vesting schedule of the awarded PSUs. 
+
+13 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Stock options:   Every holder of unexercised (vested and unvested) Pentair stock options received both adjusted stock options of Pentair and stock options of nVent, with the number of underlying shares and the exercise price adjusted accordingly to preserve the overall intrinsic value of the awards. The number of Pentair stock options was converted based upon the ratio of Pentair s pre-Distribution stock price divided by the sum of the Pentair and nVent post-Distribution closing prices. The exercise price for the converted Pentair stock options was adjusted based on the Pentair post-Distribution closing price divided by the Pentair pre-Distribution closing price. 
+       
+  The number of new nVent stock options awarded is the same as the converted number of Pentair stock options calculated as described above. The exercise price for the new nVent stock options was calculated based on nVent s post-Distribution closing price divided by the Pentair pre-Distribution closing price. 
+  Generally, unvested awards issued after May 9, 2017 were converted to awards of the Company that the shareholder was employed by immediately after the Separation, with adjustments to the number of underlying shares as appropriate to preserve the intrinsic value of such awards immediately prior to the Distribution. The adjustment of the underlying shares was based on the ratio of Pentair s pre-Distribution stock price divided by the post-Distribution closing price of the respective company s ordinary shares. The exercise prices of the stock options were converted using the inverse ratio in a manner designed to preserve the intrinsic value of such awards. 
+   
+           5. 
+    Restructuring 
+     During the   nine months ended     September 30, 2018   and the year ended   December 31, 2017  , we initiated and continued execution of certain business restructuring initiatives aimed at reducing our fixed cost structure and realigning our business. Initiatives during the   nine months ended     September 30, 2018   and the year ended   December 31, 2017   included the reduction in hourly and salaried headcount of approximately   300   employees and   250   employees, respectively. 
+  Restructuring related costs included in   Selling, general and administrative     expenses   in the Condensed Consolidated Statements of Operations and Comprehensive Income included costs for severance and other restructuring costs as follows:    
+
+Other restructuring costs primarily consist of asset impairment and various contract termination costs. 
+  Restructuring costs by reportable segment were as follows:   
+
+14 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Activity related to accrued severance and related costs recorded in   Other current liabilities   in the Condensed Consolidated Balance Sheets is summarized as follows for the   nine months ended     September 30, 2018  :    
+
+6. 
+    Earnings Per Share 
+     Basic and diluted earnings per share were calculated as follows: 
+
+15 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+7.    Supplemental Balance Sheet Information 
+
+16 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+8. 
+    Goodwill and Other Identifiable Intangible Assets 
+     The changes in the carrying amount of goodwill by reportable segment were as follows: 
+
+Identifiable intangible assets consisted of the following: 
+
+Identifiable intangible asset amortization expense was   $8.6 million   and   $9.2 million   for the three months ended   September 30, 2018   and   2017  , respectively, and   $27.0 million   and   $27.2 million   for the nine months ended   September 30, 2018   and   2017  , respectively. 
+  Estimated future amortization expense for identifiable intangible assets during the remainder of   2018   and the next five years is as follows: 
+
+17 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Debt and the average interest rates on debt outstanding were as follows:    
+
+On April 25, 2018, Pentair, Pentair Investments Switzerland GmbH ( PISG ), Pentair Finance S.  r.l. ( PFSA ) and Pentair, Inc. entered into a credit agreement, providing for a   five  -year   $800.0 million   senior unsecured revolving credit facility (the  Senior Credit Facility ), with Pentair and PISG as guarantors and PFSA and Pentair, Inc. as borrowers. The Senior Credit Facility replaced PFSA s existing credit facility under that certain Amended and Restated Credit Agreement, dated as of October 3, 2014.  PFSA has the option to request to increase the Senior Credit Facility in an aggregate amount of up to   $300.0 million  , subject to customary conditions, including the commitment of the participating lenders. The Senior Credit Facility has a maturity date of April 25, 2023. Borrowings under the Senior Credit Facility bear interest at a rate equal to an adjusted base rate or the London Interbank Offered Rate, plus, in each case, an applicable margin. The applicable margin is based on, at PFSA s election, Pentair s leverage level or PFSA s public credit rating.  
+  PFSA is authorized to sell short-term commercial paper notes to the extent availability exists under the Senior Credit Facility. PFSA uses the Senior Credit Facility as back-up liquidity to support 100% of commercial paper outstanding. PFSA had   $99.0 million   of commercial paper outstanding as of   September 30, 2018   and   $34.0 million   as of   December 31, 2017  , all of which was classified as long-term debt as we have the intent and the ability to refinance such obligations on a long-term basis under the Senior Credit Facility. 
+  Our debt agreements contain various financial covenants, but the most restrictive covenants are contained in the Senior Credit Facility. The Senior Credit Facility contains covenants requiring us not to permit (i) the ratio of our consolidated debt (net of its consolidated unrestricted cash in excess of   $5.0 million   but not to exceed   $250.0 million  ) to our consolidated net income (excluding, among other things, non-cash gains and losses) before interest, taxes, depreciation, amortization and non-cash share-based compensation expense ( EBITDA ) on the last day of any period of four consecutive fiscal quarters to exceed   3.75   to   1.00   (the  Leverage Ratio ) and (ii) the ratio of our EBITDA to our consolidated interest expense, for the same period to be less than   3.00   to   1.00   as of the end of each fiscal quarter. For purposes of the Leverage Ratio, the Senior Credit Facility provides for the calculation of EBITDA giving pro forma effect to certain acquisitions, divestitures and liquidations during the period to which such calculation relates. As of   September 30, 2018  ,   we were in compliance with all financial covenants in our debt agreements  .  
+  Total availability under the Senior Credit Facility was   $691.6 million   as of   September 30, 2018  . 
+  In addition to the Senior Credit Facility, we have various other credit facilities with an aggregate availability of   $21.1 million  , of which there were   no   outstanding borrowings at   September 30, 2018  . Borrowings under these credit facilities bear interest at variable rates. 
+  
+   18 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+In June 2018, we used the   $993.6 million   of cash received from nVent as a result of the Distribution to pay down commercial paper and revolving credit facilities, redeem the remaining   $255.3 million   aggregate principal of our   2.9%   fixed rate senior notes due 2018, and we completed a cash tender offer in the amount of    363.4 million   aggregate principal of our   2.45%   senior notes due 2019. All costs associated with the repurchases of debt were recorded as a   Loss on early extinguishment of debt   in the Condensed Consolidated Statements of Operations and Comprehensive Income  ,   including   $16.0 million   premium paid on early extinguishment and   $1.1 million   of unamortized deferred financing costs.  
+  Debt outstanding, excluding unamortized issuance costs and discounts, at   September 30, 2018   matures on a calendar year basis as follows: 
+
+10. 
+    Derivatives and Financial Instruments 
+     Derivative financial instruments 
+  We are exposed to market risk related to changes in foreign currency exchange rates. To manage the volatility related to this exposure, we periodically enter into a variety of derivative financial instruments. Our objective is to reduce, where it is deemed appropriate to do so, fluctuations in earnings and cash flows associated with changes in foreign currency exchange rates. The derivative contracts contain credit risk to the extent that our bank counterparties may be unable to meet the terms of the agreements. The amount of such credit risk is generally limited to the unrealized gains, if any, in such contracts. Such risk is minimized by limiting those counterparties to major financial institutions of high credit quality. 
+  Foreign currency contracts 
+  We conduct business in various locations throughout the world and are subject to market risk due to changes in the value of foreign currencies in relation to our reporting currency, the U.S. dollar. We manage our economic and transaction exposure to certain market-based risks through the use of foreign currency derivative financial instruments. Our objective in holding these derivatives is to reduce the volatility of net earnings and cash flows associated with changes in foreign currency exchange rates. The majority of our foreign currency contracts have an original maturity date of less than one year. 
+    
+  At   September 30, 2018   and   December 31, 2017  , we had outstanding foreign currency derivative contracts with gross national U.S. dollar equivalent amounts of   $361.6 million   and   $481.4 million  , respectively. The impact of these contracts on the Condensed Consolidated Statements of Operations and Comprehensive Income was not material for any period presented. 
+  Gains or losses on foreign currency contracts designated as hedges are reclassified out of Accumulated Other Comprehensive Loss ( AOCI ) and into   Selling, general and administrative     expense   in the Condensed Consolidated Statements of Operations and Comprehensive Income upon settlement. Such reclassifications during the   three and nine months ended     September 30, 2018   and   2017   were not material. 
+  Net investment hedge 
+  We have net investments in foreign subsidiaries that are subject to changes in the foreign currency exchange rate. In September 2015, we designated the    500 million     2.45%   Senior Notes due 2019 (the  2019 Euro Notes ) as a net investment hedge for a portion of our net investment in our Euro denominated subsidiaries. In June 2018, the Company completed a tender offer for    363.4 million   of the 2019 Euro Notes. The remaining    136.6 million   of the 2019 Euro Notes have been re-designated as a net investment hedge in our Euro denominated subsidiaries. The gains/losses on the 2019 Euro Notes have been included as a component of the cumulative translation adjustment account within AOCI. As of   September 30, 2018   and   December 31, 2017  , we had deferred foreign currency losses of   $6.1 million   and   $29.6 million  , respectively, in AOCI associated with the net investment hedge activity. 
+  Fair value measurements 
+  Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. Assets and liabilities measured at fair value are classified using the following hierarchy, which is based upon the transparency of inputs to the valuation as of the measurement date: 
+  
+   19 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Level 1: 
+       
+    Valuation is based on observable inputs such as quoted market prices (unadjusted) for identical assets or liabilities in active markets. 
+
+Level 2: 
+       
+    Valuation is based on inputs such as quoted market prices for similar assets or liabilities in active markets or other inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial instrument. 
+
+Level 3: 
+       
+    Valuation is based upon other unobservable inputs that are significant to the fair value measurement. 
+
+In making fair value measurements, observable market data must be used when available. When inputs used to measure fair value fall within different levels of the hierarchy, the level within which the fair value measurement is categorized is based on the lowest level input that is significant to the fair value measurement. 
+  Fair value of financial instruments 
+  The following methods were used to estimate the fair values of each class of financial instruments:    
+             
+    short-term financial instruments (cash and cash equivalents, accounts and notes receivable, accounts and notes payable and variable-rate debt)   recorded amount approximates fair value because of the short maturity period; 
+                
+    long-term fixed-rate debt, including current maturities   fair value is based on market quotes available for issuance of debt with similar terms, which are inputs that are classified as Level 2 in the valuation hierarchy defined by the accounting guidance; 
+                
+    foreign currency contract agreements   fair values are determined through the use of models that consider various assumptions, including time value, yield curves, as well as other relevant economic measures, which are inputs that are classified as Level 2 in the valuation hierarchy defined by the accounting guidance; and 
+                
+    deferred compensation plan assets (mutual funds, common/collective trusts and cash equivalents for payment of certain non-qualified benefits for retired, terminated and active employees)   fair value of mutual funds and cash equivalents are based on quoted market prices in active markets that are classified as Level 1 in the valuation hierarchy defined by the accounting guidance; fair value of common/collective trusts are based on observable inputs that are classified as Level 2 in the valuation hierarchy defined by the accounting guidance. 
+     The recorded amounts and estimated fair values of total debt, excluding unamortized issuance costs and discounts, were as follows:   
+
+  Financial assets and liabilities measured at fair value on a recurring and nonrecurring basis were as follows:   
+
+20 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+(1)   
+    During the fourth quarter of 2017, we completed our annual intangible assets impairment review.  As a result, we recorded a pre-tax non-cash impairment charge of   $8.8 million   for a trade name intangible in 2017.  The impairment charge reduced the carrying value of the impacted trade name intangible to   $10.8 million  .  The fair value of trade names is measured using the relief-from-royalty method. This method assumes the trade name has value to the extent that the owner is relieved of the obligation to pay royalties for the benefits received from them. This method requires us to estimate the future revenue for the related brands, the appropriate royalty rate and the weighted average cost of capital. 
+      
+   We manage our affairs so that we are centrally managed and controlled in the United Kingdom ( U.K. ) and therefore have our tax residency in the U.K. The provision for income taxes consists of provisions for the U.K. and international income taxes. We operate in an international environment with operations in various locations outside the U.K. Accordingly, the consolidated income tax rate is a composite rate reflecting the earnings in the various locations and the applicable rates. 
+  The effective income tax rate for the   nine months ended     September 30, 2018   was   17.0%  , compared to   47.2%   for the   nine months ended     September 30, 2017  . We continue to actively pursue initiatives to reduce our effective tax rate. The tax rate in any quarter can be affected positively or negatively by adjustments that are required to be reported in the specific quarter of resolution. The liability for uncertain tax positions was   $52.8 million   and   $12.0 million   at   September 30, 2018   and   December 31, 2017  , respectively. The increase was primarily due to the establishment of uncertain tax positions with the Internal Revenue Service and other jurisdictions. We record penalties and interest related to unrecognized tax benefits in   Provision for income taxes   and   Net interest expense  , respectively, on the Condensed Consolidated Statements of Operations and Comprehensive Income, which is consistent with our past practices. 
+    
+  U.S. tax reform 
+  On December 22, 2017, the Tax Cuts and Jobs Act of 2017 (the  Act ) was signed into law making significant changes to the Internal Revenue Code. Changes include, but are not limited to, a corporate tax rate decrease from   35%   to   21%   effective for tax years beginning after December 31, 2017, the transition of U.S. international taxation from a worldwide tax system to a territorial system, and a one-time transition tax on the mandatory deemed repatriation of cumulative foreign earnings as of December 31, 2017. For 2018, the Company considered in its estimated annual effective tax rate additional provisions of the Act including changes to the deduction for executive compensation and interest expense, a tax on global intangible low-taxed income provisions ( GILTI ), the base erosion anti-abuse tax, and a deduction for foreign-derived intangible income. The Company has elected to treat tax on GILTI income as a period cost and has therefore included it in its annual estimated effective tax rate. 
+    
+  Given the significance of the Act, Staff Accounting Bulletin No. 118 ( SAB 118 ) was issued to address the application of GAAP in situations when a registrant does not have the necessary information available, prepared, or analyzed (including computations) in reasonable detail to complete the accounting for certain income tax effects of the Act. SAB 118 allows registrants to record provisional amounts during a one year  measurement period.  The measurement period is deemed to have ended earlier when the registrant has obtained, prepared, and analyzed the information necessary to finalize its accounting. During the measurement period, impacts of the law are expected to be recorded at the time a reasonable estimate for all or a portion of the effects can be made, and provisional amounts can be recognized and adjusted as information becomes available, prepared, or analyzed. 
+  
+   21 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+The Company calculated its best estimate of the impact of the Act in its December 31, 2017 income tax provision in accordance with its understanding of the Act and guidance available as of the date of the filing of the Annual Report on Form 10-K and as a result recorded a provisional income tax expense of   $2.2 million   in the fourth quarter of 2017, the period in which the legislation was enacted. For the three months ended September 30, 2018, we recorded a   $3.6 million   decrease to the provisional income tax expense. The provisional amount related to the remeasurement of certain deferred tax assets and liabilities based on the rates at which they are expected to reverse in the future was a decrease to income tax expense of   $28.0 million  . The remeasurement of deferred taxes requires further analysis regarding the state tax impacts of the remeasurement and other aspects of the Act that may impact our tax balances. 
+  The amount related to the one-time transition tax on the mandatory deemed repatriation of foreign earnings was an increase to income tax expense of   $26.6 million  . The determination of the transition tax requires additional analysis regarding state tax impacts, which is expected to be completed in the fourth quarter of 2018. No additional income taxes have been provided for any remaining undistributed foreign earnings not subject to the transition tax, or any additional outside basis difference inherent in these entities, as these amounts continue to be indefinitely reinvested in foreign operations. 
+   
+   Components of net periodic benefit cost for our pension plans for the   three and nine months ended     September 30, 2018   and   2017   were as follows: 
+
+In November 2017, our Board of Directors approved amendments to terminate the Pentair Salaried Plan (the  Salaried Plan ), a U.S. qualified pension plan. The Salaried Plan discontinued accruing benefits on December 31, 2017 and the termination was effective December 31, 2017. It is expected to take   18   to   24   months from the date of the approved amendment to complete the termination of the Salaried Plan.  
+  Salaried Plan participants whose benefits were not in pay status by July 1, 2018 were given the opportunity to elect a lump-sum (or monthly annuity) payment during a special election window. During the third quarter of 2018, lump-sum payments of   $171.9 million   resulted in interim mark-to-market accounting for the Salaried Plan. The mark-to-market adjustment is reflected within   Actuarial loss   in the table above. 
+  As described in Note 1, during the first quarter of 2018, the Company adopted ASU 2017-07.  As a result, service costs are classified as employee compensation costs within   Cost of goods sold   and   Selling, general and administrative   expense   within the Condensed Consolidated Statements of Operations and Comprehensive Income.  All other components of net periodic benefit cost are classified within   Other expense (income)   for the periods presented.   
+  Components of net periodic benefit cost for our other post-retirement plans for the   three and nine months ended     September 30, 2018   and   2017   were not material. 
+  
+   22 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+13. 
+    Shareholders  Equity 
+     Share repurchases 
+  In December 2014, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of   $1.0 billion   (the  2014 Authorization ). On May 8, 2018, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of   $750.0 million   (the  2018 Authorization ), replacing the 2014 Authorization. The 2018 Authorization expires on   May 31, 2021  . During the   nine months ended     September 30, 2018  , we repurchased   7.8 million   of our shares for   $400.0 million  , of which   2.2 million   shares, or   $150.0 million  , and   5.6 million   shares, or   $250.0 million  , were repurchased pursuant to the 2014 and 2018 Authorizations, respectively. As of   September 30, 2018  , we had   $500.0 million   available for share repurchases under the 2018 Authorization.  
+  Dividends payable 
+  On   September 18, 2018  , the Board of Directors declared a quarterly cash dividend of   $0.175  , which reflects an adjustment for the Distribution, payable on   November 2, 2018   to shareholders of record at the close of business on   October 19, 2018  . As a result, the balance of dividends payable included in   Other current liabilities     on our Condensed Consolidated Balance Sheets was   $30.4 million   and   $63.1 million   at   September 30, 2018   and   December 31, 2017  , respectively.  
+   
+           14. 
+    Segment Information 
+     Effective May 1, 2018, we reorganized our business segments to reflect a new operating structure, resulting in a change to our reporting segments. All prior period amounts related to the segment change have been retrospectively reclassified to conform to the new presentation. As part of this reorganization the legacy Water segment was separated into three reportable business segments: 
+             
+    Aquatic Systems         This segment manufactures and sells a complete line of energy-efficient residential and commercial pool equipment and accessories including pumps, filters, heaters, lights, automatic controls, automatic cleaners, maintenance equipment and pool accessories. Applications for our Aquatic Systems products include residential and commercial pool maintenance, pool repair, renovation, service and construction and aquaculture solutions. 
+                
+    Filtration Solutions         This segment manufactures and sells water and fluid treatment products and systems, including pressure tanks and vessels, control valves, activated carbon products, conventional filtration products, point-of-entry and point-of-use systems, gas recovery solutions, membrane bioreactors, wastewater reuse systems and advanced membrane filtration and separation systems into the global residential, industrial and commercial markets. These products are used in a range of applications, including use in fluid filtration, ion exchange, desalination, food and beverage, food service and separation technologies for the oil and gas industry.  
+                
+    Flow Technologies         This segment manufactures and sells products ranging from light duty diaphragm pumps to high-flow turbine pumps and solid handling pumps while serving the global residential, commercial and industrial markets. These pumps are used in a range of applications, including residential and municipal wells, water treatment, wastewater solids handling, pressure boosting, fluid delivery, circulation and transfer, fire suppression, flood control, agricultural irrigation and crop spray. 
+     We evaluate performance based on net sales and segment income (loss) and use a variety of ratios to measure performance of our reporting segments. These results are not necessarily indicative of the results of operations that would have occurred had each segment been an independent, stand-alone entity during the periods presented. Segment income (loss) represents equity income of unconsolidated subsidiaries and operating income exclusive of intangible amortization, certain acquisition related expenses, costs of restructuring activities, impairments and other unusual non-operating items. 
+  
+   23 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Financial information by reportable segment is as follows:   
+
+  The following table presents a reconciliation of consolidated segment income to consolidated income from continuing operations before income taxes: 
+
+15. 
+    Commitments and Contingencies 
+     Warranties and guarantees 
+  In connection with the disposition of our businesses or product lines, we may agree to indemnify purchasers for various potential liabilities relating to the sold business, such as pre-closing tax, product liability, warranty, environmental, or other obligations. The subject matter, amounts and duration of any such indemnification obligations vary for each type of liability indemnified and may vary widely from transaction to transaction.  
+    
+  Generally, the maximum obligation under such indemnifications is not explicitly stated and as a result, the overall amount of these obligations cannot be reasonably estimated. Historically, we have not made significant payments for these indemnifications. We believe that if we were to incur a loss in any of these matters, the loss would not have a material effect on our financial position, results of operations or cash flows. 
+  We recognize, at the inception of a guarantee, a liability for the fair value of the obligation undertaken in issuing the guarantee. In connection with the disposition of the Valves   Controls business, we agreed to indemnify Emerson Electric Co. for certain pre-closing tax liabilities. During the second quarter of 2017, we recorded a liability representing the fair value of our expected future obligation for this matter. 
+  
+   24 
+
+     Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+We provide service and warranty policies on our products. Liability under service and warranty policies is based upon a review of historical warranty and service claim experience. Adjustments are made to accruals as claim data and historical experience warrant. 
+  The changes in the carrying amount of service and product warranties of continuing operations for the   nine months ended     September 30, 2018   were as follows:       
+
+  Stand-by letters of credit, bank guarantees and bonds 
+  In certain situations, Tyco International Ltd., Pentair Ltd. s former parent company ( Tyco ), guaranteed performance by the flow control business of Pentair Ltd. ( Flow Control ) to third parties or provided financial guarantees for financial commitments of Flow Control. In situations where Flow Control and Tyco were unable to obtain a release from these guarantees in connection with the spin-off of Flow Control from Tyco, we will indemnify Tyco for any losses it suffers as a result of such guarantees. 
+  In disposing of assets or businesses, we often provide representations, warranties and indemnities to cover various risks including unknown damage to the assets, environmental risks involved in the sale of real estate, liability to investigate and remediate environmental contamination at waste disposal sites and manufacturing facilities and unidentified tax liabilities and legal fees related to periods prior to disposition. We do not have the ability to reasonably estimate the potential liability due to the inchoate and unknown nature of these potential liabilities. However, we have no reason to believe that these uncertainties would have a material adverse effect on our financial position, results of operations or cash flows. 
+  In the ordinary course of business, we are required to commit to bonds, letters of credit and bank guarantees that require payments to our customers for any non-performance. The outstanding face value of these instruments fluctuates with the value of our projects in process and in our backlog. In addition, we issue financial stand-by letters of credit primarily to secure our performance to third parties under self-insurance programs. 
+  As of   September 30, 2018   and   December 31, 2017  , the outstanding value of bonds, letters of credit and bank guarantees totaled   $124.2 million   and   $129.2 million  , respectively. 
+   
+           16. 
+    Supplemental Guarantor Information 
+     Pentair plc (the  Parent Company Guarantor ) and PISG (the  Subsidiary Guarantor ), fully and unconditionally, guarantee the Notes of PFSA (the  Subsidiary Issuer ). The Subsidiary Guarantor is a Switzerland limited liability company and   100 percent  -owned subsidiary of the Parent Company Guarantor. The Subsidiary Issuer is a Luxembourg private limited liability company and   100 percent  -owned subsidiary of the Subsidiary Guarantor. The guarantees provided by the Parent Company Guarantor and Subsidiary Guarantor are joint and several. 
+  The following supplemental financial information sets forth the Company s Condensed Consolidating Statement of Operations and Comprehensive Income (Loss), Condensed Consolidating Balance Sheets and Condensed Consolidating Statement of Cash Flows by relevant group within the Company: Pentair plc and PISG as the guarantors, PFSA as issuer of the debt and all other non-guarantor subsidiaries. Condensed consolidating financial information for Pentair plc, PISG and PFSA on a stand-alone basis is presented using the equity method of accounting for subsidiaries. 
+  
+   25 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Condensed Consolidating Statement of Operations and Comprehensive Income (Loss) 
+  Three months ended   September 30, 2018   
+
+26 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Condensed Consolidating Statement of Operations and Comprehensive Income (Loss) 
+  Nine months ended     September 30, 2018      
+
+27 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Condensed Consolidating Balance Sheet 
+  September 30, 2018    
+
+28 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Condensed Consolidating Statement of Cash Flows 
+  Nine months ended     September 30, 2018      
+
+29 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Condensed Consolidating Statement of Operations and Comprehensive Income (Loss) 
+  Three months ended   September 30, 2017    
+
+30 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Condensed Consolidating Statement of Operations and Comprehensive Income (Loss) 
+  Nine months ended     September 30, 2017    
+
+31 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Condensed Consolidating Balance Sheet 
+  December 31, 2017    
+
+32 
+
+Table of Contents  
+  Pentair plc and Subsidiaries 
+  Notes to condensed consolidated financial statements (unaudited) 
+
+Condensed Consolidating Statement of Cash Flows 
+  Nine months ended     September 30, 2017      
+
+33 
+
+Table of Contents  
+
+ITEM 2. 
+    MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+     Forward-looking Statements 
+  This report contains statements that we believe to be  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact are forward-looking statements. Without limitation, any statements preceded or followed by or that include the words  targets,   plans,   believes,   expects,   intends,   will,   likely,   may,   anticipates,   estimates,   projects,   should,   would,   positioned,   strategy,   future  or words, phrases or terms of similar substance or the negative thereof, are forward-looking statements. These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties, assumptions and other factors, some of which are beyond our control, which could cause actual results to differ materially from those expressed or implied by such forward-looking statements. These factors include the ability to realize the anticipated benefits from the Separation (as defined below); adverse effects on business operations or financial results and the market price of our shares as a result of the consummation of the Separation; the ability to operate independently following the Separation; overall global economic and business conditions impacting our business; the ability to achieve the benefits of our restructuring plans; the ability to successfully identify, finance, complete and integrate acquisitions; competition and pricing pressures in the markets we serve; the strength of housing and related markets; volatility in currency exchange rates and commodity prices, including the impact of tariffs; inability to generate savings from excellence in operations initiatives consisting of lean enterprise, supply management and cash flow practices; increased risks associated with operating foreign businesses; failure of markets to accept new product introductions and enhancements; the impact of changes in laws and regulations, including those that limit U.S. tax benefits; the outcome of litigation and governmental proceedings; and the ability to achieve our long-term strategic operating goals. Additional information concerning these and other factors is contained in our filings with the U.S. Securities and Exchange Commission (the  SEC ), including this Quarterly Report on Form 10-Q. All forward-looking statements speak only as of the date of this report. Pentair assumes no obligation, and disclaims any obligation, to update the information contained in this report. 
+  Overview 
+  The terms  us,   we   our  or  Pentair  refer to Pentair plc and its consolidated subsidiaries. At Pentair, we believe the health of our world depends on reliable access to clean water. We deliver a comprehensive range of smart, sustainable water solutions to homes, business and industry around the world. Our industry leading and proven portfolio of solutions enables our customers to access clean, safe water, reduce water consumption, and recover and reuse it. Whether it s improving, moving or helping people enjoy water, we help manage the world s most precious resource. We are comprised of three reporting segments: Aquatic Systems, Filtration Solutions and Flow Technologies. For the first   nine months   of   2018  , the Aquatic Systems, Filtration Solutions and Flow Technologies segments represented approximately   34%  ,   34%   and   32%   of total revenues, respectively. We classify our operations into business segments based primarily on types of products offered and markets served: 
+             
+    Aquatic Systems         This segment manufactures and sells a complete line of energy-efficient residential and commercial pool equipment and accessories including pumps, filters, heaters, lights, automatic controls, automatic cleaners, maintenance equipment and pool accessories. Applications for our Aquatic Systems products include residential and commercial pool maintenance, pool repair, renovation, service and construction and aquaculture solutions. 
+                
+    Filtration Solutions         This segment manufactures and sells water and fluid treatment products and systems, including pressure tanks and vessels, control valves, activated carbon products, conventional filtration products, point-of-entry and point-of-use systems, gas recovery solutions, membrane bioreactors, wastewater reuse systems and advanced membrane filtration and separation systems into the global residential, industrial and commercial markets. These products are used in a range of applications, including use in fluid filtration, ion exchange, desalination, food and beverage, food service and separation technologies for the oil and gas industry.  
+                
+    Flow Technologies         This segment manufactures and sells products ranging from light duty diaphragm pumps to high-flow turbine pumps and solid handling pumps while serving the global residential, commercial and industrial markets. These pumps are used in a range of applications, including residential and municipal wells, water treatment, wastewater solids handling, pressure boosting, fluid delivery, circulation and transfer, fire suppression, flood control, agricultural irrigation and crop spray. 
+     
+   34 
+
+     Table of Contents  
+
+On April 28, 2017, we completed the sale of our Valves   Controls business to Emerson Electric Co. for   $3.15 billion  . The sale resulted in a gain of $181.1 million, net of tax. The results of the Valves   Controls business have been presented as discontinued operations for all periods presented. The Valves   Controls business was previously disclosed as a stand-alone reporting segment.         
+  On April 30, 2018, we completed the previously announced separation of our Electrical business from the rest of Pentair (the  Separation ) by means of a dividend in specie of the Electrical business, which was effected by the transfer of the Electrical business from Pentair to nVent and the issuance by nVent of nVent ordinary shares directly to Pentair shareholders (the  Distribution ). We did not retain an equity interest in nVent. The results of the Electrical business have been presented as discontinued operations for all periods presented. The Electrical business was previously disclosed as a stand-alone reporting segment.  
+  Key Trends and Uncertainties Regarding Our Existing Business 
+  The following trends and uncertainties affected our financial performance in   2017   and the first   nine months   of   2018   and will likely impact our results in the future: 
+             
+    During 2017 and the first   nine months   of   2018  , we continued execution of certain business restructuring initiatives aimed at reducing our fixed cost structure and realigned our business in contemplation of the Separation and Distribution of nVent. We expect these actions will contribute to margin growth in   2018   and 2019. 
+                
+    We have identified specific product and geographic market opportunities that we find attractive and continue to pursue, both within and outside the United States. We are reinforcing our businesses to more effectively address these opportunities through research and development and additional sales and marketing resources. Unless we successfully penetrate these markets, our sales growth will likely be limited or may decline. 
+                
+    We have experienced material and other cost inflation. We strive for productivity improvements, and we implement increases in selling prices to help mitigate this inflation. We expect the current economic environment will result in continuing price volatility for many of our raw materials, and we are uncertain as to the timing and impact of these market changes. 
+     In   2018  , our operating objectives include the following: 
+             
+    Executing the nVent spin-off and focusing on one industry-leading pure-play Water company; 
+                
+    Driving operating excellence through our Pentair Integrated Management System ( PIMS ) initiatives, with specific focus on sourcing and supply management, cash flow management and lean operations; 
+                
+    Achieving differentiated revenue growth through new products and global and market expansion; 
+                
+    Optimizing our technological capabilities to increasingly generate innovative new products; and 
+                
+    Focusing on developing global talent in light of our global presence. 
+     
+   35 
+
+Table of Contents  
+
+CONSOLIDATED RESULTS OF OPERATIONS 
+  The consolidated results of operations for the three months ended   September 30, 2018   and   2017   were as follows:   
+
+36 
+
+Table of Contents  
+
+The consolidated results of operations for the   nine months ended     September 30, 2018   and   September 30, 2017   were as follows:  
+
+Net sales 
+  The components of the consolidated net sales change from the prior period were as follows: 
+
+The   3.5   and   4.7   percentage point   increase  s in net sales in the   third quarter and first nine months, respectively,   of   2018   from   2017   were primarily driven by: 
+             
+    increased sales volume in our residential, commercial and industrial businesses; and 
+                
+    favorable foreign currency effects for the nine months ended   September 30, 2018  . 
+     These   increase  s were partially offset by: 
+             
+    sales declines due to the sale of certain businesses in the first nine months of 2018. 
+     
+   37 
+
+     Table of Contents  
+
+Gross profit 
+  The   0.1   percentage point   decrease   in gross profit as a percentage of sales in the   third quarter   of   2018   from   2017   was primarily driven by:  
+             
+    inflationary increases related to certain raw materials. 
+     This   decrease   was partially offset by: 
+             
+    selective increases in selling prices to mitigate inflationary cost increases; and 
+                
+    favorable mix as a result of  a 12.3 percent core growth increase in the higher margin Aquatic Systems segment. 
+     The   0.5   percentage point   increase   in gross profit as a percentage of sales in the   first nine months   of   2018   from   2017   was primarily driven by:  
+             
+    selective increases in selling prices to mitigate inflationary cost increases;  
+                
+    favorable mix as a result of a 9.7 percent core growth increase in the higher margin Aquatic Systems segment; and 
+                
+    higher contribution margin as a result of savings generated from our PIMS initiatives including lean and supply management practices. 
+     This   increase   was partially offset by: 
+             
+    inflationary increases related to labor costs and certain raw materials. 
+     Selling, general and administrative ( SG A ) 
+  The   0.7   and   0.3   percentage point   decrease  s in SG A expense as a percentage of sales in the   third quarter   and   first nine months  , respectively of   2018   from   2017  , were primarily driven by:  
+             
+    savings generated from restructuring and other lean initiatives. 
+     These   decrease  s were partially offset by: 
+             
+    restructuring costs of   $3.5 million   and   $34.1 million   in the third quarter and first nine months of 2018, respectively, compared to   $1.4 million   and   $18.9 million  , respectively in the third quarter and first nine months of 2017, respectively; 
+                
+    increased investment in sales and marketing to drive growth; and 
+                
+    the reversal of a $13.3 million indemnification liability in the first quarter of 2017 related to our 2012 transaction with Tyco (now known as Johnson Controls International plc) that did not recur in 2018. 
+     Net interest expense 
+  The   69.1   and   62.4   percent   decrease  s in net interest expense in the   third quarter and first nine months, respectively,   of   2018   from   2017   were primarily driven by:  
+             
+    the impact of lower debt levels during the third quarter and first nine months of   2018  , compared to the comparable periods in   2017  . In June 2018, the proceeds from the Separation were utilized to repay the remaining   $255.3 million   aggregate principal amount of our 2.9% fixed rate senior notes due 2018 and for the early extinguishment of  363.4 million aggregate principal amount of our 2.45% senior notes due 2019. 
+     These   decrease  s were partially offset by: 
+             
+    increased overall interest rates in effect on our outstanding variable rate debt during the third quarter and first nine months of 2018, compared to the third quarter and first nine months of 2017. 
+     
+   38 
+
+     Table of Contents  
+
+Loss on early extinguishment of debt 
+  In June 2018, we redeemed the remaining $255.3 million aggregate principal amount of our 2.9% fixed rate senior notes due 2018 and completed a cash tender offer in the amount of  363.4 million aggregate principal amount of our 2.45% senior notes due 2019. All costs associated with the repurchases of debt were recorded as a   Loss on the early extinguishment of debt,   including $16.0 million premium paid on early extinguishment and $1.1 million of unamortized deferred financing costs.   
+  Provision for income taxes 
+  The   30.7   and   30.2   percentage point   decrease  s in the effective tax rate in the   third quarter and first nine months, respectively,   of   2018   from   2017   were primarily driven by: 
+     the favorable impact of discrete items that occurred during the first nine months of   2018   compared to   2017  ; 
+     the tax impact and timing of losses incurred during the first nine months of 2018 compared to 2017; 
+     the mix of global earnings, including the impact of U.S. Tax Reform; and 
+     the impact of lower nondeductible interest expense allocated to continuing operations in 2018 compared to 2017. 
+  SEGMENT RESULTS OF OPERATIONS 
+  The summary that follows provides a discussion of the results of operations of each of our three reportable segments (Aquatic Systems, Filtration Solutions and Flow Technologies). Each of these segments is comprised of various product offerings that serve multiple end users. 
+    
+  We evaluate performance based on sales and segment income and use a variety of ratios to measure performance of our reporting segments. Segment income represents equity income of unconsolidated subsidiaries and operating income exclusive of intangible amortization, certain acquisition related expenses, costs of restructuring activities, impairments and other unusual non-operating items. 
+  Aquatic Systems  
+  The net sales and segment income for Aquatic Systems were as follows:   
+
+  Net sales 
+  The components of the change in     Aquatic Systems     net sales from the prior period were as follows: 
+
+The   9.9   and   8.9   percent   increase  s in net sales for Aquatic Systems in the   third quarter and first nine months, respectively,   of   2018   from   2017   were primarily driven by: 
+             
+    sales growth primarily as a result of increased volumes in the U.S and in our residential and commercial businesses; and 
+                
+    selective increases in selling prices. 
+     
+   39 
+
+     Table of Contents  
+
+These   increase  s were partially offset by: 
+             
+    sales declines due to sale of certain businesses in the first nine months of 2018. 
+     Segment income 
+  The components of the change in Aquatic Systems segment income from the prior period were as follows:    
+
+The   0.6   point   increase   in segment income for Aquatic Systems as a percentage of net sales in the   third quarter   of   2018   from   2017   was primarily driven by: 
+             
+    sales growth, primarily as a result of increased volumes in the U.S residential and commercial businesses, resulted in increased leverage on operating expenses; and 
+                
+    selective increases in selling prices to mitigate inflationary cost increases. 
+     This   increase   was partially offset by: 
+             
+    inflationary increases related to labor costs and certain raw materials. 
+     Segment income for Aquatic Systems as a percentage of net sales was flat in the   first nine months   of   2018   from   2017  , primarily driven by: 
+             
+    inflationary increases related to labor costs and certain raw materials; and 
+                
+    sales growth, primarily as a result of increased volumes in the U.S residential and commercial businesses, resulted in increased leverage on operating expenses. 
+     Filtration Solutions 
+  The net sales and segment income for Filtration Solutions were as follows:   
+
+40 
+
+     Table of Contents  
+
+Net sales 
+  The components of the change in Filtration Solutions net sales from the prior period were as follows:   
+
+  The   0.8   percent   decrease   in net sales for Filtration Solutions in the   third quarter   of   2018   from   2017   was primarily driven by: 
+             
+    decreased sales volume in our residential businesses;  
+                
+    sales declines due to sale of certain businesses in the first nine months of 2018; and 
+                
+    unfavorable foreign currency effects. 
+     This   decrease   was partially offset by: 
+             
+    increased sales volume in our residential and commercial businesses in North America; and 
+                
+    selective increases in selling prices to mitigate inflationary cost increases.  
+     The   2.3   percent   increase   in net sales for Filtration Solutions in the   first nine months   of   2018   from   2017   was primarily driven by: 
+             
+    favorable foreign currency effects; 
+                
+    selective increases in selling prices to mitigate inflationary cost increases; and 
+                
+    increased sales volume in our industrial and commercial businesses. 
+     This   increase   was partially offset by: 
+             
+    decreased sales volume in our residential business. 
+     Segment income 
+  The components of the change in Filtration Solutions segment income from the prior period were as follows:    
+
+The     0.7   percentage point   decrease   in segment income for Filtration Solutions as a percentage of net sales in the   third quarter   of   2018   from   2017   was primarily driven by: 
+             
+    inflationary increases related to labor costs and certain raw materials. 
+     This   decrease   was partially offset by: 
+             
+    higher sales volume in our commercial business. 
+     
+   41 
+
+     Table of Contents  
+
+The   1.1   percentage point   increase   in segment income for Filtration Solutions as a percentage of net sales in the   first nine months   of   2018   from   2017   was primarily driven by: 
+             
+    higher sales volume in our industrial and commercial businesses; and 
+                
+    selective increases in selling prices to mitigate inflationary cost increases. 
+     The   increase   was partially offset by: 
+             
+    inflationary increases related to labor costs and certain raw materials. 
+     Flow Technologies 
+  The net sales and segment income for Flow Technologies were as follows: 
+
+Net sales 
+  The components of the change in Flow Technologies net sales from the prior period were as follows:   
+
+  The   2.1   and   3.1   percent   increase  s in net sales for Flow Technologies in the   third quarter and first nine months, respectively,   of   2018   from   2017   were primarily driven by: 
+             
+    higher sales volume in our commercial and residential business; and 
+                
+    selective increases in selling prices to mitigate inflationary cost increases.  
+     These   increase  s were partially offset by: 
+             
+    sales declines due to sale of certain businesses in the first nine months of 2018. 
+     
+   42 
+
+     Table of Contents  
+
+Segment income 
+  The components of the change in Flow Technologies segment income from the prior period were as follows:    
+
+The   1.5   percentage point   decrease   in segment income for Flow Technologies as a percentage of net sales in the   third quarter   of   2018   from   2017   was primarily driven by: 
+             
+    inflationary increases related to labor costs and certain raw materials. 
+     The   decrease   was partially offset by: 
+             
+    higher sales volume in our residential and commercial businesses, which resulted in increased leverage on operating expenses; and 
+                
+    cost control and savings generated from lean initiatives. 
+     The   0.5   percentage point   increase   in segment income for Flow Technologies as a percentage of net sales in the   first nine months   of   2018   from   2017   was primarily driven by: 
+             
+    higher sales volume in our residential and commercial businesses, which resulted in increased leverage on operating expenses; and 
+                
+    cost control and savings generated from back-office consolidation, reduction in personnel and other lean initiatives. 
+     The   increase   was partially offset by:  
+             
+    inflationary increases related to labor costs and certain raw materials. 
+      
+  LIQUIDITY AND CAPITAL RESOURCES  
+  We generally fund cash requirements for working capital, capital expenditures, equity investments, acquisitions, debt repayments, dividend payments and share repurchases from cash generated from operations, availability under existing committed revolving credit facilities and in certain instances, public and private debt and equity offerings. Our primary revolving credit facilities have generally been adequate for these purposes, although we have negotiated additional credit facilities or completed debt and equity offerings as needed to allow us to complete acquisitions. We intend to issue commercial paper to fund our financing needs on a short-term basis and use our revolving credit facility as back-up liquidity to support commercial paper. 
+  We are focusing on increasing our cash flow and repaying existing debt, while continuing to fund our research and development, marketing and capital investment initiatives. Our intent is to maintain investment grade credit ratings and a solid liquidity position. 
+  We experience seasonal cash flows primarily due to seasonal demand in a number of markets. We generally borrow in the first quarter of our fiscal year for operational purposes, which usage reverses in the second quarter as the seasonality of our businesses peaks. End-user demand for pool and certain pumping equipment follows warm weather trends and is at seasonal highs from April to August. The magnitude of the sales spike is partially mitigated by employing some advance sale  early buy  programs (generally including extended payment terms and/or additional discounts). Demand for residential and agricultural water systems is also impacted by weather patterns, particularly by heavy flooding and droughts. 
+  
+   43 
+
+     Table of Contents  
+
+Operating activities 
+  Cash   provided by   operating activities of continuing operations was   $299.2 million   in the first   nine months   of   2018  , compared to   $147.6 million   in the same period of   2017  .  
+  The   $299.2 million   in net cash   provided by   operating activities of continuing operations in the first   nine months   of   2018   primarily reflects net income from continuing operations of   $308.5 million  , net of non-cash depreciation and amortization and the loss on early extinguishment of debt, offset by a negative impact of   $31.6 million   as a result of changes in net working capital. 
+    
+  The   $147.6 million   in net cash   provided by   operating activities of continuing operations in the first   nine months   of   2017   primarily reflects   $225.2 million   of net income from continuing operations, net of non-cash depreciation and amortization and the loss on early extinguishment of debt, offset by a negative impact of   $94.6 million   as a result of changes in net working capital. 
+  Investing activities 
+  Cash   used for   investing activities of continuing operations was   $47.9 million   in the first   nine months   of   2018  , compared to   $2,695.9 million   of cash provided by investing activities of continuing operation in the same period of   2017  . Net cash   used for   investing activities of continuing operations in the first   nine months   of   2018   primarily reflects capital expenditures of   $33.8 million  , cash paid for the settlement of a working capital adjustment related to the sale of the Valves   Controls business and cash paid for acquisitions of   $0.9 million  . Net cash   provided by   investing activities of continuing operations in the first   nine months   of   2017   primarily reflects cash received from the sale of the Valves   Controls business, offset by capital expenditures of   $25.4 million   and acquisitions, net of cash acquired, of   $45.9 million  . 
+  Financing activities 
+  Net cash   used for   financing activities was   $268.4 million   in the first   nine months   of   2018  , compared with   $3,201.9 million   in the prior year period. As further described below, during the first   nine months   of 2018, we utilized the $993.6 million of cash distributed from the Separation to repay commercial paper and revolving long term debt and for the early extinguishment of certain series of fixed rate debt. Additionally, we repurchased   $400.0 million   of shares during the first   nine months   of   2018  .  
+    
+  Net cash   used for   financing activities in the first   nine months     2017   primarily relates to the utilization of the proceeds from the sale of the Valves   Controls business to repay our commercial paper and revolving long term debt and for the early extinguishment of certain series of fixed rate debt. Additionally, we repurchased $100 million of shares during the first   nine months   of 2017.  
+    
+  On April 25, 2018, Pentair, Pentair Investments Switzerland GmbH ( PISG ), Pentair Finance S.  r.l. ( PFSA ) and Pentair, Inc. entered into a credit agreement, providing for a five-year $800.0 million senior unsecured revolving credit facility (the  Senior Credit Facility ), with Pentair and PISG as guarantors and PFSA and Pentair, Inc. as borrowers. The Senior Credit Facility replaced PFSA s existing credit facility under that certain Amended and Restated Credit Agreement, dated as of October 3, 2014.  PFSA has the option to request to increase the Senior Credit Facility in an aggregate amount of up to $300.0 million, subject to customary conditions, including the commitment of the participating lenders. The Senior Credit Facility has a maturity date of April 25, 2023. Borrowings under the Senior Credit Facility bear interest at a rate equal to an adjusted base rate or the London Interbank Offered Rate, plus, in each case, an applicable margin. The applicable margin is based on, at PFSA s election, Pentair s leverage level or PFSA s public credit rating.  
+  PFSA is authorized to sell short-term commercial paper notes to the extent availability exists under the Senior Credit Facility. PFSA uses the Senior Credit Facility as back-up liquidity to support 100% of commercial paper outstanding. PFSA had   $99.0 million   of commercial paper outstanding as of   September 30, 2018   and   $34.0 million   as of   December 31, 2017  , all of which was classified as long-term debt as we have the intent and the ability to refinance such obligations on a long-term basis under the Senior Credit Facility. 
+  Our debt agreements contain various financial covenants, but the most restrictive covenants are contained in the Senior Credit Facility. The Senior Credit Facility contains covenants requiring us not to permit (i) the ratio of our consolidated debt (net of its consolidated unrestricted cash in excess of $5.0 million but not to exceed $250.0 million) to our consolidated net income (excluding, among other things, non-cash gains and losses) before interest, taxes, depreciation, amortization and non-cash share-based compensation expense ( EBITDA ) on the last day of any period of four consecutive fiscal quarters to exceed   3.75   to   1.00   (the  Leverage Ratio ) and (ii) the ratio of our EBITDA to our consolidated interest expense, for the same period to be less than   3.00   to   1.00   as of the end of each fiscal quarter. For purposes of the Leverage Ratio, the Senior Credit Facility provides for the calculation of EBITDA giving pro forma effect to certain acquisitions, divestitures and liquidations during the period to which such calculation relates. As of   September 30, 2018  ,   we were in compliance with all financial covenants in our debt agreements  .  
+  
+   44 
+
+     Table of Contents  
+
+Total availability under the Senior Credit Facility was   $691.6 million   as of   September 30, 2018  . 
+  In addition to the Senior Credit Facility, we have various other credit facilities with an aggregate availability of   $21.1 million  , of which there were   no   outstanding borrowings at   September 30, 2018  . Borrowings under these credit facilities bear interest at variable rates. 
+  In June 2018, we used the   $993.6 million   of cash received from nVent as a result of the Distribution to pay down commercial paper and revolving credit facilities, redeem the remaining   $255.3 million   aggregate principal of our   2.9%   fixed rate senior notes due 2018, and we completed a cash tender offer in the amount of    363.4 million   aggregate principal of our   2.45%   senior notes due 2019. All costs associated with the repurchases of debt were recorded as a   Loss on the early extinguishment of debt   in the Condensed Consolidated Statements of Operations and Comprehensive Income  ,   including   $16.0 million   premium paid on early extinguishment and   $1.1 million   of unamortized deferred financing costs.  
+  As of   September 30, 2018  , we have   $42.6 million   of cash held in certain countries in which the ability to repatriate is limited due to local regulations or significant potential tax consequences. 
+  We expect to continue to have cash requirements to support working capital needs and capital expenditures, to pay interest and service debt and to pay dividends to shareholders quarterly. We believe we have the ability and sufficient capacity to meet these cash requirements by using available cash and internally generated funds and to borrow under our committed and uncommitted credit facilities. 
+  Share repurchases 
+  In December 2014, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of   $1.0 billion   (the  2014 Authorization ). On May 8, 2018, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of   $750.0 million   (the  2018 Authorization ), replacing the 2014 Authorization. The 2018 Authorization expires on   May 31, 2021  . During the   nine months ended     September 30, 2018  , we repurchased   7.8 million   of our shares for   $400.0 million  , of which   2.2 million   shares, or   $150.0 million  , and   5.6 million   shares, or   $250.0 million  , were repurchased pursuant to the 2014 and 2018 Authorizations, respectively. As of   September 30, 2018  , we had   $500.0 million   available for share repurchases under the 2018 Authorization.  
+  Dividends payable 
+  On   September 18, 2018  , the Board of Directors declared a quarterly cash dividend of   $0.175  , which reflects an adjustment for the Distribution, payable on   November 2, 2018   to shareholders of record at the close of business on   October 19, 2018  . As a result, the balance of dividends payable included in   Other current liabilities   on our Condensed Consolidated Balance Sheets was   $30.4 million   and   $63.1 million   at   September 30, 2018   and   December 31, 2017  , respectively.  
+  We paid dividends in the first   nine months   of   2018   of   $156.7 million  , or   $0.875   per ordinary share, compared with   $188.9 million  , or   $1.035   per ordinary share, in the prior year period.  
+    
+  Under Irish law, the payment of future cash dividends and repurchases of shares may be paid only out of Pentair plc s  distributable reserves  on its statutory balance sheet. Pentair plc is not permitted to pay dividends out of share capital, which includes share premiums. Distributable reserves may be created through the earnings of the Irish parent company and through a reduction in share capital approved by the Irish High Court. Distributable reserves are not linked to a U.S. generally accepted accounting principles ( GAAP ) reported amount (e.g., retained earnings). Our distributable reserve balance was $9.0 billion as of   December 31, 2017  . 
+  Contractual obligations 
+  The following summarizes our significant contractual debt and fixed-rate interest obligations that impact our liquidity. There have been no other material changes from the significant contractual obligations previously disclosed in Item 7 of our 2017 Annual Report on Form 10-K. 
+
+Other financial measures 
+  
+   45 
+
+     Table of Contents  
+
+In addition to measuring our cash flow generation or usage based upon operating, investing and financing classifications included in the Condensed Consolidated Statements of Cash Flows, we also measure our free cash flow. We have a long-term goal to consistently generate free cash flow that equals or exceeds 100 percent conversion of adjusted net income. Free cash flow is a non-GAAP financial measure that we use to assess our cash flow performance. We believe free cash flow is an important measure of liquidity because it provides us and our investors a measurement of cash generated from operations that is available to pay dividends, make acquisitions, repay debt and repurchase shares. In addition, free cash flow is used as a criterion to measure and pay compensation-based incentives. Our measure of free cash flow may not be comparable to similarly titled measures reported by other companies.  
+  The following table is a reconciliation of free cash flow:   
+
+NEW ACCOUNTING STANDARDS 
+  See Note 1 of the Notes to Condensed Consolidated Financial Statements for information pertaining to recently adopted accounting standards or accounting standards to be adopted in the future. 
+   
+  CRITICAL ACCOUNTING POLICIES 
+  We have adopted various accounting policies to prepare the consolidated financial statements in accordance with GAAP. Certain of our accounting policies require the application of significant judgment by management in selecting the appropriate assumptions for calculating financial estimates. In our   2017   Annual Report on Form 10-K, we identified the critical accounting policies that affect our more significant estimates and assumptions used in preparing our consolidated financial statements. Significant changes to our critical accounting estimates as a result of adopting ASC 606 are discussed below. 
+    
+  Revenues 
+  Accounting for long-term contracts involves the use of various techniques to estimate total contract revenue and costs. Contract estimates are based on various assumptions to project the outcome of future events that may span multiple years. We review and update our contract-related estimates regularly. We recognize adjustments in estimated profit on contracts under the cumulative catch-up method. Under this method, the impact of the adjustment on profit recorded to date is recognized in the period the adjustment is identified.  
+    
+  There have been no other material changes to our critical accounting policies and estimates from those disclosed in our 2017 Annual Report on Form 10-K for the year ended December 31, 2017. 
+   
+  ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+  There have been no material changes in our market risk during the quarter ended   September 30, 2018  . For additional information, refer to Item 7A of our   2017   Annual Report on Form 10-K. 
+  
+   46 
+
+Table of Contents  
+
+ITEM 4.    CONTROLS AND PROCEDURES 
+  (a)    Evaluation of Disclosure Controls and Procedures 
+  We maintain a system of disclosure controls and procedures designed to provide reasonable assurance as to the reliability of our published financial statements and other disclosures included in this report. Our management evaluated, with the participation of our Chief Executive Officer and our Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the quarter ended   September 30, 2018   pursuant to Rule 13a-15(b) of the Securities Exchange Act of 1934 (the  Exchange Act ). Based upon their evaluation, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were effective, at the reasonable assurance level, as of the end of the quarter ended   September 30, 2018   to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission s rules and forms, and to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosures. 
+  (b)    Changes in Internal Control over Financial Reporting 
+  There was no change in our internal control over financial reporting that occurred during the quarter ended   September 30, 2018   that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.  
+
+47 
+
+Table of Contents  
+
+PART II OTHER INFORMATION 
+  ITEM 1.    LEGAL PROCEEDINGS 
+  We have been made parties to a number of actions filed or have been given notice of potential claims relating to the conduct of our business, including those pertaining to commercial disputes, product liability, asbestos, environmental, safety and health, patent infringement and employment matters. 
+  While we believe that a material impact on our consolidated financial position, results of operations or cash flows from any such future claims or potential claims is unlikely, given the inherent uncertainty of litigation, a remote possibility exists that a future adverse ruling or unfavorable development could result in future charges that could have a material adverse impact. We do and will continue to periodically reexamine our estimates of probable liabilities and any associated expenses and receivables and make appropriate adjustments to such estimates based on experience and developments in litigation. As a result, the current estimates of the potential impact on our consolidated financial position, results of operations and cash flows for the proceedings and claims described in the notes to our consolidated financial statements could change in the future. 
+  Asbestos matters 
+  Our subsidiaries and numerous other companies are named as defendants in personal injury lawsuits based on alleged exposure to asbestos-containing materials. These cases typically involve product liability claims based primarily on allegations of manufacture, sale or distribution of industrial products that either contained asbestos or were attached to or used with asbestos-containing components manufactured by third-parties. Each case typically names between dozens to hundreds of corporate defendants. While we have observed an increase in the number of these lawsuits over the past several years, including lawsuits by plaintiffs with mesothelioma-related claims, a large percentage of these suits have not presented viable legal claims and, as a result, have been dismissed by the courts. Our historical strategy has been to mount a vigorous defense aimed at having unsubstantiated suits dismissed, and, where appropriate, settling suits before trial. Although a large percentage of litigated suits have been dismissed, we cannot predict the extent to which we will be successful in resolving lawsuits in the future. 
+  As of   September 30, 2018  , there were approximately   600   claims outstanding against our subsidiaries. This amount is not adjusted for claims that are not actively being prosecuted, identified incorrect defendants, or duplicated other actions, which would ultimately reflect our current estimate of the number of viable claims made against us, our affiliates, or entities for which we assumed responsibility in connection with acquisitions or divestitures. In addition, the amount does not include certain claims pending against third parties for which we have been provided an indemnification. 
+  Environmental matters 
+  We have been named as defendant, target or a potentially responsible party ( PRP ) in a number of environmental clean-ups relating to our current or former business units. We have disposed of a number of businesses in recent years and in certain cases, we have retained responsibility and potential liability for certain environmental obligations. We have received claims for indemnification from certain purchasers. We may be named as a PRP at other sites in the future for existing business units, as well as both divested and acquired businesses. In addition to cleanup actions brought by governmental authorities, private parties could bring personal injury or other claims due to the presence of, or exposure to, hazardous substances. 
+  Certain environmental laws impose liability on current or previous owners or operators of real property for the cost of removal or remediation of hazardous substances at their properties or at properties at which they have disposed of hazardous substances. We have projects underway at several current and former manufacturing facilities to investigate and remediate environmental contamination resulting from our past operations or by other businesses that previously owned or used the properties.  
+  Our accruals for environmental matters are recorded on a site-by-site basis when it is probable that a liability has been incurred and the amount of the liability can be reasonably estimated, based on current law and existing technologies. It can be difficult to estimate reliably the final costs of investigation and remediation due to various factors. In our opinion, the amounts accrued are appropriate based on facts and circumstances as currently known. As of   September 30, 2018  , our recorded reserves for environmental matters were not material.  We do not anticipate our remaining environmental conditions will have a material adverse effect on our financial position, results of operations or cash flows. However, unknown conditions, new details about existing conditions or changes in environmental requirements may give rise to environmental liabilities that will exceed the amount of our current reserves and could have a material adverse effect in the future. 
+  
+   48 
+
+     Table of Contents  
+
+Product liability claims 
+  We are subject to various product liability lawsuits and personal injury claims. A substantial number of these lawsuits and claims are insured and accrued for by Penwald, our captive insurance subsidiary. Penwald records a liability for these claims based on actuarial projections of ultimate losses. For all other claims, accruals covering the claims are recorded, on an undiscounted basis, when it is probable that a liability has been incurred and the amount of the liability can be reasonably estimated based on existing information. The accruals are adjusted periodically as additional information becomes available. We have not experienced significant unfavorable trends in either the severity or frequency of product liability lawsuits or personal injury claims. 
+   
+  ITEM 1A.    RISK FACTORS 
+  There have been no material changes from the risk factors previously disclosed in Item 1A. of our 2017 Annual Report on Form 10-K, except that the spin-off of our Electrical business, nVent Electric plc, was completed on April 30, 2018.  However, the risk factors under the caption  Risks Related to Our Proposed Separation of Our Water Business and Electrical Business by Spin-Off  previously disclosed in Item 1A. of our 2017 Annual Report on Form 10-K relating to such spin-off after its completion remain applicable. 
+   
+  ITEM 2.    UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+  The following table provides information with respect to purchases we made of our ordinary shares during the   third quarter   of   2018  : 
+
+(a) 
+    The purchases in this column include   30,835   shares for the period   July 1 - July 28  ,   0   shares for the period   July 29 - August 25   and   10,460   shares for the period   August 26 - September 30   deemed surrendered to us by participants in our 2012 Stock and Incentive Plan (the  2012 Plan ) and earlier stock incentive plans that are now outstanding under the 2012 Plan (collectively the  Plans ) to satisfy the exercise price or withholding of tax obligations related to the exercise of stock options and vesting of restricted and performance shares. 
+              (b) 
+    The average price paid in this column includes shares deemed surrendered to us by participants in the Plans to satisfy the exercise price for the exercise price of stock options and withholding tax obligations due upon stock option exercises and vesting of restricted and performance shares. 
+              (c) 
+    The number of shares in this column represents the number of shares repurchased as part of our publicly announced plans to repurchase our ordinary shares up to the maximum dollar limit authorized by the Board of Directors, discussed below. 
+      
+   49 
+
+Table of Contents  
+
+ITEM 6.     EXHIBITS 
+  The exhibits listed in the following Exhibit Index are filed as part of this Quarterly Report on Form 10-Q. 
+
+Exhibit Index to Form 10-Q for the Period Ended   September 30, 2018 
+    
+                    31.1  
+       
+    Certification of Chief Executive Officer. 
+
+31.2  
+       
+    Certification of Chief Financial Officer. 
+
+32.1  
+       
+    Certification of Chief Executive Officer, Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2  
+       
+    Certification of Chief Financial Officer, Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101 
+       
+    The following materials from Pentair plc s Quarterly Report on Form 10-Q for the quarter ended September 30, 2018 are filed herewith, formatted in XBRL (Extensible Business Reporting Language): (i) the Condensed Consolidated Statements of Operations and Comprehensive Income for the three and nine months ended September 30, 2018 and 2017, (ii) the Condensed Consolidated Balance Sheets as of September 30, 2018 and December 31, 2017, (iii) the Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2018 and 2017, (iv) the Condensed Consolidated Statements of Changes in Equity for the nine months ended September 30, 2018 and 2017, and (v) Notes to Condensed Consolidated Financial Statements. 
+
+50 
+
+Table of Contents  
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on   October 23, 2018  . 
+
+Pentair plc 
+        
+    Registrant 
+
+By 
+    /s/ Mark C. Borin 
+
+Mark C. Borin 
+
+Executive Vice President and Chief Financial Officer 
+
+By 
+    /s/ Ademir Sarcevic 
+
+Ademir Sarcevic 
+
+Senior Vice President and Chief Accounting Officer 
+
+51 
+
+<EX-31.1>
+ 2
+ ex311ceocertification20180.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  Certification 
+    
+  I, John L. Stauch, certify that:  
+    
+           1. 
+    I have reviewed this quarterly report on Form   10-Q   of Pentair plc;  
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                   Date: 
+    October 23, 2018 
+    /s/ John L. Stauch 
+
+John L. Stauch 
+
+President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex312cfocertification20180.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  Certification 
+    
+  I, Mark C. Borin, certify that:  
+    
+           1. 
+    I have reviewed this quarterly report on Form   10-Q   of Pentair plc;  
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                   Date: 
+    October 23, 2018 
+    /s/ Mark C. Borin 
+
+Mark C. Borin 
+
+Executive Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex321ceocertification20180.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+    
+  Certification of CEO Pursuant To 
+  18 U.S.C. Section 1350, 
+  As Adopted Pursuant To 
+  Section 906 Of The Sarbanes-Oxley Act Of 2002 
+    
+  In connection with the   Quarterly   Report of Pentair plc (the  Company ) on Form   10-Q   for the period ended   September 30, 2018   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, John L. Stauch, President and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that based on my knowledge: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+       
+                   Date: 
+    October 23, 2018 
+    /s/ John L. Stauch 
+
+John L. Stauch 
+
+President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex322cfocertification20180.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+    
+  Certification of CFO Pursuant To 
+  18 U.S.C. Section 1350, 
+  As Adopted Pursuant To 
+  Section 906 Of The Sarbanes-Oxley Act Of 2002 
+    
+  In connection with the   Quarterly   Report of Pentair plc (the  Company ) on Form   10-Q   for the period ended   September 30, 2018   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Mark C. Borin, Executive Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that based on my knowledge: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+       
+                   Date: 
+    October 23, 2018 
+    /s/ Mark C. Borin 
+
+Mark C. Borin 
+
+Executive Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ pnr-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ pnr-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ pnr-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ pnr-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ pnr-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ pnr-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

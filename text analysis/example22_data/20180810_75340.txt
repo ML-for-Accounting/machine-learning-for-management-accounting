@@ -1,0 +1,1726 @@
+ES AND EXCHANGE COMMISSION  
+
+  Washington, D.C. 20549  
+
+  FORM 10-Q  
+
+For the Quarterly Period Ended June 30,
+2018  
+
+For the transition period from                 to  
+
+Commission File Number 1 - 5332  
+
+P F INDUSTRIES, INC.  
+
+ (Exact name of registrant as specified in
+its charter) 
+
+Registrant s telephone number, including
+area code:  (631) 694-9800  
+
+Indicate by check mark
+whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days. Yes  x    No
+
+Indicate by check mark
+whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required
+to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months
+(or for such shorter period that the registrant was required to submit and post such files). Yes  x 
+  No     
+
+Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.
+See the definitions of  large accelerated filer,   accelerated filer,  and  smaller reporting company 
+in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer      
+      Accelerated filer      
+      Non-accelerated filer      
+      Smaller reporting company  x    
+
+(Do not check if a smaller reporting  
+ company)  
+      Emerging growth company       
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for the complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.      
+
+Indicate by check mark
+whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes      No
+ x  
+
+As of August 3, 2018
+there were 3,700,975 shares of the registrant s Class A Common Stock outstanding.   
+
+P F INDUSTRIES, INC.  
+
+FORM 10-Q  
+
+FOR THE QUARTERLY PERIOD ENDED JUNE 30,
+2018  
+
+TABLE OF CONTENTS  
+
+PAGE    
+
+PART I   FINANCIAL INFORMATION   
+      3   
+
+Item 1.   
+       Financial Statements   
+      3   
+
+Consolidated Balance Sheets as of June 30, 2018 (unaudited) and December 31, 2017   
+      3   
+
+Consolidated Statements of Operations and Comprehensive Income for the three and six months ended June 30, 2018 and 2017 (unaudited)   
+      5   
+
+Consolidated Statement of Shareholders  Equity for the six months ended June 30, 2018 (unaudited)   
+      6   
+
+Consolidated Statements of Cash Flows for the six months ended June 30, 2018 and 2017 (unaudited)   
+      7   
+
+Notes to Consolidated Financial Statements (unaudited)   
+      9   
+
+Item 2.   
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      23   
+
+Item 3.   
+       Quantitative and Qualitative Disclosures About Market Risk   
+      37   
+
+Item 4.   
+       Controls and Procedures   
+      37   
+
+PART II   OTHER INFORMATION   
+      38   
+
+Item 1.   
+       Legal Proceedings   
+      38   
+
+Item 1A.   
+       Risk Factors   
+      38   
+
+Item 2.   
+       Unregistered Sales of Equity Securities and Use of Proceeds   
+      38   
+
+Item 3.   
+       Defaults Upon Senior Securities   
+      38   
+
+Item 4.   
+       Mine Safety Disclosures   
+      38   
+
+Item 5.   
+       Other Information   
+      38   
+
+Item 6.   
+       Exhibits   
+      38   
+
+Signature   
+       
+      39   
+
+Exhibit Index    
+      40   
+
+PART I - FINANCIAL INFORMATION   
+
+Item 1.   Financial Statements  
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+CONSOLIDATED BALANCE SHEETS  
+
+See accompanying notes to consolidated financial
+statements (unaudited). 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+CONSOLIDATED BALANCE SHEETS  
+
+See accompanying notes to consolidated financial
+statements (unaudited). 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+AND COMPREHENSIVE INCOME  
+
+  (unaudited)  
+
+See accompanying notes to consolidated financial
+statements (unaudited). 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+CONSOLIDATED STATEMENT OF SHAREHOLDERS 
+EQUITY (unaudited)  
+
+See accompanying notes to consolidated financial
+statements (unaudited). 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited)  
+
+See accompanying notes to consolidated financial
+statements (unaudited). 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(unaudited)  
+
+See accompanying notes to consolidated financial
+statements (unaudited). 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 1   BUSINESS AND SUMMARY OF ACCOUNTING POLICIES  
+
+Basis of Financial Statement Presentation  
+
+The accompanying unaudited
+consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United
+States of America ( GAAP ) for interim financial information, and with the rules and regulations of the Securities
+and Exchange Commission ( SEC ) regarding interim financial reporting. Accordingly, these interim financial statements
+do not include all of the information and footnotes required by GAAP for complete financial statements. In the opinion of the management
+of the Company, as defined below, these unaudited consolidated financial statements include all adjustments necessary to present
+fairly the information set forth therein. Results for interim periods are not necessarily indicative of results to be expected
+for a full year. 
+
+The consolidated balance
+sheet information as of December 31, 2017 was derived from the audited consolidated financial statements included in the Company s
+Annual Report on Form 10-K for the year ended December 31, 2017 ( 2017 Form 10-K ). The interim financial
+statements contained herein should be read in conjunction with the 2017 Form 10-K. 
+
+The consolidated financial
+statements have been reported in U.S. dollars by translating asset and liability amounts of a foreign wholly-owned subsidiary at
+the closing exchange rate, equity amounts at historical rates and the results of operations and cash flow at the average of the
+prevailing exchange rates during the periods reported. As a result, the Company is exposed to foreign currency translation gains
+or losses. These gains or losses are presented in the Company s consolidated financial statements as  Other comprehensive
+(loss) income - foreign currency translation adjustment . 
+
+Principles of Consolidation  
+
+The unaudited consolidated
+financial statements contained herein include the accounts of P F Industries, Inc. and its subsidiaries, ( P F 
+or the  Company ). All significant intercompany balances and transactions have been eliminated. 
+
+Customer concentration   
+
+At June 30, 2018 and
+December 31, 2017, accounts receivable from The Home Depot was 35.5% and 31.0%, respectively, of our total accounts receivable.
+Additionally, revenue from The Home Depot during the three and six-month periods ended June 30, 2018 was 24.8% and 24.2%, for the
+same three and six month periods in 2017 The Home Depot revenue accounted for 29.0% and 29.8%, respectively. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 1   BUSINESS AND SUMMARY OF ACCOUNTING POLICIES
+  (Continued)  
+
+The Company  
+
+P F is a Delaware
+corporation incorporated on April 19, 1963. The Company conducts its business through a wholly-owned subsidiary, Continental Tool
+Group, Inc. ( Continental ), which in turn operates through its wholly-owned subsidiaries, Florida Pneumatic Manufacturing
+Corporation ( Florida Pneumatic ) and Hy-Tech Machine, Inc. ( Hy-Tech ). Exhaust Technologies Inc. ( ETI )
+and Universal Air Tool Company Limited ( UAT ) are wholly-owned subsidiaries of Florida Pneumatic. Effective April
+5, 2017, the Company purchased substantially all of the operating assets, less certain payables of Jiffy Air Tool, Inc., ( Jiffy )
+through a wholly-owned subsidiary of Florida Pneumatic. See Note 2 to our consolidated financial statements for further discussion.
+Lastly, the business of Air Tool Service Company ( ATSCO ) operates through a wholly-owned subsidiary of Hy-Tech. 
+
+Florida Pneumatic manufactures,
+imports, and sells pneumatic hand tools, most of which are of its own design, primarily to the retail, industrial, automotive and
+aerospace markets. It also markets, through its Berkley Tool division ( Berkley ), a product line which includes pipe
+and bolt dies, pipe taps, wrenches, vises and stands, pipe and tubing cutting equipment, hydrostatic test pumps, and replacement
+electrical components for a widely-used brand of pipe cutting and threading machines. 
+
+Hy-Tech designs, manufactures
+and distributes industrial pneumatic tools, industrial gears, hydrostatic test plugs and a wide variety of parts under the brands
+ATP, ATSCO, OZAT, Numatx, Thaxton and Quality Gear.  Industries served include power generation, petrochemical, construction,
+railroad, mining, ship building and fabricated metals. Hy-Tech also manufactures components, assemblies, finished product and systems
+for various Original Equipment Manufacturers under their own brand names. 
+
+Management Estimates  
+
+The preparation of
+financial statements and related disclosures in conformity with GAAP requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities as of the date of the
+financial statements and the reported amounts of revenues and expenses in those financial statements.  Certain significant
+accounting policies that contain subjective management estimates and assumptions include those related to revenue recognition,
+inventory, goodwill, intangible assets and other long-lived assets, contingent consideration, income taxes and deferred taxes.  Descriptions
+of these policies are discussed in the Company s 2017 Form 10-K.  Management evaluates its estimates and assumptions
+on an ongoing basis using historical experience and other factors, including the current economic environment, and makes adjustments
+when facts and circumstances dictate.  As future events and their effects cannot be determined with precision, actual
+results could differ significantly from those estimates and assumptions.  Significant changes, if any, in those estimates
+resulting from continuing changes in the economic environment will be reflected in the consolidated financial statements in future
+periods. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 1   BUSINESS AND SUMMARY OF ACCOUNTING POLICIES
+  (Continued)  
+
+Significant Accounting Policies   Revenue Recognition  
+
+Our significant accounting
+policies are described in  Note 1: Summary of Significant Accounting Policies  of our Annual Report on Form 10-K for
+the year ended December 31, 2017. Our significant accounting policy relating to revenue recognition reflects the impact of the
+adoption of ASC 606, defined below, effective January 1, 2018. 
+
+The Company records
+revenue based on a five-step model in accordance with Accounting Standards Codification ( ASC ) 606,  Revenue from
+Contracts with Customers  ( ASC 606 ). The Company sells its goods on terms which transfer title and risk of loss
+at a specified location, which may be our warehouse, destination designated by our customer, port of loading or port of discharge,
+depending on the final destination of the goods. Other than standard product warranty provisions, our sales arrangements provide
+for no other post-shipment obligations. The Company offers rebates and other sales incentives, promotional allowances or discounts
+for certain customers, typically related to customer purchase volume, and are classified as a reduction of revenue and recorded
+at the time of sale, using the most likely amount approach. The Company periodically evaluates whether an allowance for sales returns
+is necessary. Historically, we have experienced minimal sales returns. If the Company believes there are material potential sales
+returns, it would provide the necessary provision against sales. 
+
+The Company's performance
+obligations underlying its core revenue sources remain substantially unchanged. Its revenue is generated through the sale
+of finished products, and is generally recognized at the point in time when merchandise is transferred to the customer with a fixed
+payment due generally within 30 to 90 days, and in an amount that considers the impacts of estimated allowances. Further, the Company
+has made a policy election to account for shipping and handling activities that occur after the customer has obtained control of
+the products as fulfillment costs rather than as an additional promised service. This election is consistent with the Company s
+prior policy, and therefore the adoption of ASC 606 relating to shipping and handling activities did not have any impact on its
+financial results. Additionally, as the result of the adoption of ASC 606, the Company will account for certain expenses that in
+prior periods were accounted for as a selling expense, which will now be treated as an adjustment to gross revenue. Accordingly,
+during the three and six-month period ended June 30, 2018 the Company reduced its net revenue, gross margin and selling expenses
+by approximately $243,000 and $457,000, respectively. Additionally, the Company at June 30, 2018 has included in its allowance
+for doubtful accounts approximately $89,000 that would have been accounted for in its current liabilities prior to the adoption
+of ASC 606. There are no remaining performance obligations as of June 30, 2018. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 1   BUSINESS AND SUMMARY OF ACCOUNTING POLICIES
+  (Continued)  
+
+The Company analyzes its revenue as follows: 
+
+Revenue generated at Florida Pneumatic. 
+
+Revenue generated at
+Hy-Tech. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 1   BUSINESS AND SUMMARY OF ACCOUNTING POLICIES
+  (Continued)  
+
+New Accounting Pronouncements  
+
+Recently Adopted   
+
+In
+January 2017, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU )
+No. 2017-04,  Intangibles   Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment ( ASU 2017-04 ), 
+which simplified the testing of goodwill for impairment by eliminating Step 2 from the goodwill impairment test. Step 2 measured
+a goodwill impairment loss by comparing the implied fair value of a reporting unit s goodwill with the carrying amount of
+that goodwill. ASU 2017-04 is effective for public companies for annual or any interim goodwill impairment tests in fiscal years
+beginning after December 15, 2019. The Company concluded that ASU 2017-04 is preferable to the current guidance due to efficiency,
+since ASU 2017-04 eliminates the requirement to determine the fair value of individual assets and liabilities of a reporting unit
+to measure goodwill impairment. The Company adopted ASU 2017-04 in 2017, in conjunction with its annual impairment test of goodwill
+for all reporting units. The adoption of ASU 2017-04 did not have a material impact on the Company s financial results. 
+
+In August 2016, the
+FASB issued ASU 2016-15,  Statement of Cash Flows (Topic 230) - Classification of Certain Cash Receipts and Cash Payments .
+The amendments in ASU 2016-15 are intended to add or clarify guidance on the classification of certain cash receipts and payments
+in the statement of cash flows, with the intent of reducing diversity in practice for the eight types of cash flows identified.
+ASU 2016-15 is effective for public companies' fiscal years, including interim periods within those fiscal years, beginning after
+December 15, 2017. The adoption of ASU 2016-15 as of January 1, 2018 had no material effect on the Company s financial position,
+results of operations or cash flows. 
+
+The Company adopted
+ASC 606 on the first day of fiscal 2018. Its underlying principle is to use a five-step analysis of transactions to recognize revenue
+when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be
+received for those goods or services. The Company has elected to use the modified retrospective approach. As the Company does not
+have any sales contracts that were not completed as of January 1, 2018, there is no adjustment required to its retained earnings.
+The adoption of ASC 606 will not have an effect on the Company s cash flows. Other than discussed earlier in this Note 1,
+the adoption of ASC 606 did not have a material effect on the Company s consolidated financial statements. 
+
+The Company does
+not believe that any other recently issued accounting standard would have a material effect on its consolidated financial statements.  
+
+Not Yet Adopted   
+
+In February
+2016, the FASB issued ASU 2016-02,  Leases . This ASU is a comprehensive new leases standard that amends various aspects of
+existing guidance for leases and requires additional disclosures about leasing arrangements. It will require companies to recognize
+lease assets and lease liabilities by lessees for those leases classified as operating leases under previous GAAP. ASC Topic 842
+retains a distinction between finance leases and operating leases. The classification criteria for distinguishing between finance
+leases and operating leases are substantially similar to the classification criteria for distinguishing between capital leases
+and operating leases in the previous leases guidance. The ASU is effective for annual periods beginning after December 15, 2018,
+including interim periods within those fiscal years; earlier adoption is permitted. In the financial statements in which the ASU
+is first applied, leases shall be measured and recognized at the beginning of the earliest comparative period presented with an
+adjustment to equity. Practical expedients are available for election. The Company intends to use the modified retrospective approach.
+The Company is  currently in the process of completing its assessment of all leases and is assessing
+the impact the adoption of this standard will have on its consolidated financial statements and related disclosures. Th us
+far the Company does not believe the adoption of this standard will have a material effect on its consolidated financial statements.
+However, the Company will continue its evaluation of the standard update through the date of adoption. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 1   BUSINESS AND SUMMARY OF ACCOUNTING POLICIES
+  (Continued)  
+
+In February 2018, the
+FASB issued No. ASU 2018-02,  Income Statement   Reporting Comprehensive Income  (Topic 220): Reclassification of Certain
+Tax Effects from Accumulated Other Comprehensive Income ( ASU 2018-02 ). Under ASU 2018-02, an entity may elect to
+reclassify the income tax effects of the Tax Reform Act on items within accumulated other comprehensive income to retained earnings.
+ASU 2018-02 is effective for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. Early
+adoption is permitted in any interim period. The Company is evaluating what impact, if any, adoption of ASU 2018-02 may have on
+its consolidated financial statements. 
+
+Other Accounting
+Pronouncement   
+
+The Tax Cuts and Jobs
+Act (the  Act ) was enacted on December 22, 2017. The Act reduces the U.S. federal corporate income tax rate from 35%
+to 21%, requires companies to pay a one-time transition tax on earnings of certain foreign subsidiaries previously deferred from
+tax, generally eliminates U.S federal income taxes on dividends from foreign subsidiaries and creates a new provision designed
+to tax global intangible low-taxed income ( GILTI ). Also on December 22, 2017, the U.S. Securities and Exchange Commission
+issued Staff Accounting Bulletin No. 118 ( SAB 118 ), which provides for a measurement period of up to one year from
+the enactment for companies to complete their accounting for the Act. The Company is applying the guidance in SAB 118 when accounting
+for the enactment-date effects of the Act. 
+
+At June 30, 2018 the
+Company has not completed its accounting for the tax effects of the Act, but has made reasonable estimates of the effects on the
+re-measurement of its deferred tax assets and liabilities as well as its transition tax liability. During the six month period
+ended June 30, 2018, the Company made no adjustments to the provisional amounts recorded at December 31, 2017. Additionally, the
+Company has not yet collected and analyzed all necessary tax and earnings data of its foreign operations and therefore, the Company
+has also not yet completed its accounting for the income tax effects of the transition tax. The Company will continue to make and
+refine its calculations as additional analysis is completed. 
+
+Other than the aforementioned,
+the Company does not believe that any other recently issued, but not yet effective accounting standard, if adopted, will have a
+material effect on its consolidated financial statements .  
+
+NOTE 2   ACQUISITION   
+
+On April 5, 2017 (the
+ Jiffy Closing Date ), Bonanza Holdings Corp. (now known as Jiffy Air Tool, Inc.), a Delaware corporation and newly
+formed wholly-owned subsidiary ( Jiffy ) of Florida Pneumatic, Jiffy Air Tool, Inc. a Nevada corporation ( Jiffy
+Seller ), The Jack E. Pettit 1996 Trust, the sole shareholder of Jiffy Seller and Jack E. Pettit, entered into an Asset
+Purchase Agreement (the  Asset Purchase Agreement ), pursuant to which, among other things, Jiffy acquired (the  Jiffy
+Acquisition ) substantially all of the operating assets of Jiffy Seller for $5,950,000, in addition to the assumption of
+certain payables and contractual obligations as set forth in the Asset Purchase Agreement. Jiffy manufactures and distributes pneumatic
+tools and components, primarily sold to aerospace manufacturers. The purchase price was $5,950,000, less a post-closing working
+capital adjustment of $155,000, which was paid by Jiffy Seller to the Company in June 2017. 
+
+Additionally, Jiffy
+Seller may be entitled to up to $1,000,000 in additional consideration, which is contingent upon Jiffy achieving certain revenue
+thresholds and other criteria as set forth in the Asset Purchase Agreement within two defined measurement periods occurring within
+approximately the first two years following the Jiffy Closing Date.  As of June 30, 2018, the Company has estimated the
+fair value of this contingent consideration to be $907,000. 
+
+In connection with
+the Asset Purchase Agreement, a separate Purchase and Sale Agreement and Joint Escrow Instructions (the  Purchase and Sale
+Agreement  and together with the Asset Purchase Agreement, the  Agreements ) was entered into between Jiffy Seller
+and Bonanza Properties Corp. ( Bonanza Properties ), a Delaware corporation and newly formed wholly-owned subsidiary
+of Florida Pneumatic, pursuant to which Bonanza Properties purchased certain real property of Jiffy Seller. Pursuant to the Purchase
+and Sale Agreement, the purchase price for the real property was $1,050,000. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 2   ACQUISITIONS   (Continued)  
+
+The initial total consideration
+($5,950,000 plus $1,050,000) paid to Jiffy Seller was from funds available under the Revolver, as defined in Note 9, less certain
+amounts escrowed pursuant to the terms of the Agreements. 
+
+The following table
+presents purchase price allocation: 
+
+The excess of
+the total purchase price over the fair value of the net assets acquired, including the value of the identifiable intangible assets,
+has been allocated to goodwill. Goodwill will be amortized over 15 years for tax purposes, but not deductible for financial reporting
+purposes. The intangible assets subject to amortization will be amortized over 15 years for tax purposes. For financial reporting
+purposes, useful lives have been assigned as follows: 
+
+Customer relationships  
+       
+      15 years   
+ 
+      Trademarks and trade names  
+       
+      Indefinite   
+ 
+      Non-compete agreements  
+       
+      4 years   
+
+The following unaudited
+pro-forma combined financial information gives effect to the Jiffy Acquisition as if the Jiffy Acquisition was consummated January
+1, 2017. This unaudited pro-forma financial information is presented for information purposes only, and is not intended to present
+actual results that would have been attained had the Jiffy Acquisition been completed as of January 1, 2017 (the beginning of the
+earliest period presented) or to project potential operating results as of any future date or for any future periods. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 3   EARNINGS (LOSS) PER SHARE  
+
+Basic earnings (loss)
+per common share is based only on the average number of shares of Common Stock outstanding for the periods. Diluted earnings (loss)
+per common share reflects the effect of shares of Common Stock issuable upon the exercise of options, unless the effect on earnings
+is antidilutive. 
+
+Diluted earnings (loss)
+per common share is computed using the treasury stock method. Under this method, the aggregate number of shares of Common Stock
+outstanding reflects the assumed use of proceeds from the hypothetical exercise of any outstanding options to purchase shares of
+Common Stock. The average market value for the period is used as the assumed purchase price. 
+
+The following table
+sets forth the elements of basic and diluted earnings (loss) per common share: 
+
+(1)    
+      Dilutive securities consist of  in the money  stock options.   
+
+At June 30, 2017, there
+were outstanding stock options whose exercise prices were higher than the average market values of the underlying Common Stock
+for the period. 
+
+The weighted average
+of anti-dilutive stock options outstanding was as follows: 
+
+P F INDUSTRIES, INC. AND
+SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 4   STOCK-BASED COMPENSATION  
+
+There were no options
+granted or issued during the three and six-month periods ended June 30, 2018. 
+
+The following is a
+summary of the changes in outstanding options during the six-month period ended June 30, 2018: 
+
+The number of shares
+of Common Stock available for issuance under the P F Industries, Inc. 2012 Stock Incentive Plan (the  2012 Plan )
+as of June 30, 2018 was 79,437. At June 30, 2018, there were 184,253 options outstanding issued under the 2012 Plan and 49,500
+options outstanding issued under the 2002 Stock Incentive Plan. 
+
+Restricted Stock   
+
+The Company, in May
+2018, granted 1,250 restricted shares of its Common Stock to each non-employee member of its Board of Directors, totaling 6,250
+restricted shares. The Company determined that the fair value of these shares was $8.43 per share, which was the closing price
+of the Company s Common Stock on the date of the grant. These shares cannot be traded earlier than the first anniversary
+of the grant date. The Company will ratably amortize the total non-cash compensation expense of approximately $53,000 in its selling,
+general and administrative expenses through May 2019. 
+
+The Company, in May
+2017, granted 1,000 restricted shares of its common stock to each non-employee member of its Board of Directors, totaling 5,000
+restricted shares. The Company determined that the fair value of these shares was $6.17 per share, which was the closing price
+of the Company s Common Stock on the date of the grant. These shares could not have been traded earlier than the first anniversary
+of the grant date. The Company ratably amortized the total non-cash compensation expense of approximately $30,000 in its selling,
+general and administrative expenses. 
+
+P F INDUSTRIES, INC.
+AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 4   STOCK-BASED COMPENSATION   (Continued)  
+
+Treasury Stock   
+
+On August 9, 2017,
+the Company s Board of Directors authorized the Company to repurchase up to 100,000 shares of its common stock over a period
+of up to twelve months (the  Repurchase Program ). On August 24, 2017, the Company announced that, pursuant to the
+Repurchase Program, it had adopted a written trading plan in accordance with the guidelines specified under Rule 10b5-1 under the
+Securities Exchange Act of 1934. A plan under Rule 10b5-1 allows the Company to repurchase shares at times when it might otherwise
+be prevented from doing so by securities laws or because of self-imposed trading blackout periods. Repurchases made under the plan
+are subject to the SEC s regulations, as well as certain price, market, volume, and timing constraints specified in the plan.
+Since repurchases under the plan are subject to certain constraints, there is no guarantee as to the exact number of shares that
+will be repurchased under the plan. Since the inception of the Repurchase Program through June 30 2018, the Company repurchased
+approximately 81,000 shares of its common stock at an aggregate cost of approximately $638,000. During the period January 1, 2018
+through June 30, 2018, the Company repurchased 34,000 shares of its common stock at an aggregate cost of $280,000. 
+
+Additionally, in June
+2018, the Company purchased 18,140 shares of its common stock in a privately negotiated transaction outside of the Repurchase Program
+pursuant to an additional authorization of the Company s Board of Directors at a total cost of $150,000. The purchase price
+per share was equal to five percent below the average of the closing price of its common stock for the three days prior to the
+transaction. 
+
+NOTE 5   FAIR VALUE MEASUREMENTS  
+
+Accounting guidance
+defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction
+between market participants at the measurement date. Under this guidance, the Company is required to classify certain assets and
+liabilities based on the following hierarchy: 
+
+Level 1:   Quoted
+prices for identical assets or liabilities in active markets that can be assessed at the measurement date. 
+
+Level 2:   Inputs
+other than quoted prices included in Level 1, such as quoted prices for similar assets and liabilities in active markets; quoted
+prices for identical or similar assets and liabilities in markets that are not active; or other inputs that are observable or can
+be corroborated by observable market data. 
+
+Level 3:   Inputs
+reflect management's best estimate of what market participants would use in pricing the asset or liability at the measurement date.
+The inputs are unobservable in the market and significant to the instruments valuation. 
+
+The guidance requires
+the use of observable market data if such data is available without undue cost and effort. 
+
+As of June 30, 2018
+and December 31, 2017, the carrying amounts reflected in the accompanying consolidated balance sheets for current assets and
+current liabilities approximated fair value due to the short-term nature of these accounts. 
+
+Assets and liabilities
+measured at fair value on a non-recurring basis include goodwill and intangible assets. Such assets are reviewed quarterly for
+impairment indicators. If a triggering event has occurred, the assets are re-measured when the estimated fair value of the corresponding
+asset group is less than the carrying value. The fair value measurements, in such instances, are based on significant unobservable
+inputs (level 3). 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 6   ACCOUNTS RECEIVABLE AND ALLOWANCE FOR DOUBTFUL
+ACCOUNTS  
+
+Accounts receivable - net consists of: 
+
+NOTE 7   INVENTORIES  
+
+Inventories consist of: 
+
+NOTE 8   GOODWILL AND OTHER INTANGIBLE ASSETS    
+
+Changes in the carrying amount of goodwill
+are as follows: 
+
+Other intangible assets were as follows: 
+
+(1)  
+      A portion of these intangibles are maintained in a foreign currency, and are therefore subject to foreign exchange rate fluctuations.   
+
+(2)  
+      These were previously considered an indefinite-lived intangible asset of Hy-Tech.  However, as the result of a prior impairment, the Company began amortizing these intangible assets over a 15 year useful life.   
+
+Amortization expense
+of intangible assets subject to amortization was as follows: 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 8   GOODWILL AND OTHER INTANGIBLE ASSETS  
+(Continued)    
+
+The weighted average amortization
+period for intangible assets was as follows: 
+
+Amortization expense
+for each of the next five years and thereafter is estimated to be as follows: 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 9   DEBT  
+
+In October 2010, the
+Company entered into a Loan and Security Agreement ( Credit Agreement ) with an affiliate of Capital One, National
+Association ( Capital One  or the  Bank ). The Credit Agreement, as amended from time to time, among other
+things, provides the ability to borrow funds under a Revolver arrangement. Revolver borrowings are secured by the Company s
+accounts receivable, inventory, equipment and mortgages on real property. Additionally, there is a $1,600,000 line available for
+capital expenditures ( Capex line ). The Credit Agreement includes a $100,000 Term Loan, as defined in the Credit Agreement.
+This Term Loan remains in place to enable the Company and Capital One to facilitate future term loan borrowings more efficiently
+and in a less costly manner. P F and certain of its subsidiaries are borrowers under the Credit Agreement, and their obligations
+are cross-guaranteed by certain other subsidiaries. The Credit Agreement expires in February 2019, unless extended by the parties. 
+
+At the Company s
+option, Revolver borrowings bear interest at either LIBOR ( London InterBank Offered Rate ) or the Base Rate, as the
+term is defined in the Credit Agreement, plus an Applicable Margin, as defined in the Credit Agreement. We are subject to limitations
+on the number of LIBOR borrowings. 
+
+Contemporaneously with
+the acquisition of the Jiffy business discussed in Note 2 to the consolidated financial statements, the Company entered into a
+Second Amended and Restated Loan and Security Agreement, (the  2017 Agreement ), with Capital One. The 2017 Agreement,
+among other things, amended the Credit Agreement by: (1) increasing the maximum amount it can borrow under the Revolver Commitment
+(as defined) to $16,000,000, subject to certain borrowing base criteria, and (2) modifying certain borrowing base criteria as well
+as financial and other covenants. The Company incurred $84,000 of debt issue costs in connection with this 2017 Agreement. 
+
+The Company provides
+Capital One monthly financial statements, borrowing base certificates and certificates of compliance with various financial covenants.
+Should an event of default occur, the interest rate would increase by two percent per annum during the period of default, in addition
+to other remedies provided to Capital One. 
+
+SHORT TERM
+BORROWINGS   
+
+Short-term borrowings
+can be at either LIBOR or at the Base Rate, or a combination of the two, plus the Applicable Margins. At June 30, 2018 and December
+31, 2017, the Company s short-term borrowings were $2,239,000 and $1,928,000, respectively. The Applicable LIBOR Margin at
+June 30, 2018 and December 31, 2017 was 1.50%, and the Applicable Base Rate Margin was 0.50% at both dates. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+  NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)  
+
+NOTE 9   DEBT   (Continued)   
+
+TERM LOAN BORROWINGS
+
+The Term Loan borrowings
+can be at either LIBOR or at the Base Rate, or a combination of the two, plus the Applicable Margins. LIBOR borrowings at June
+30, 2018 and December 31, 2017 were 1.50%. The Applicable Margin for borrowings at the Base Rate for the same timeframes was 0.50%.
+At June 30 2018, the Company had a $100,000 Term Loan, which is included in Current maturities of long-term debt on the consolidated
+balance sheet. At December 31, 2017, this obligation was included in Long-term debt, less current maturities on the consolidated
+balance sheet. At both June 30, 2018 and December 31, 2017 this Term Loan was at LIBOR plus the Applicable Margin. 
+
+In April 2018, the
+Company borrowed $400,000 against the Capex line. This borrowing is to be repaid in equal installments of approximately $6,700,
+payable monthly, with the balance due in February 2019, unless the Credit Agreement is renewed or extended by the parties. $300,000
+of this borrowing is at LIBOR plus Applicable Margin, with the balance of $100,000 at the Base Rate, or prime rate plus Applicable
+Margin. While the Company intends to renew or extend the Credit Agreement currently in place, this obligation at June 30, 2018,
+is included in Current maturities of long-term debt on its consolidated balance sheet. 
+
+At June 30, 2018 and
+December 31, 2017, the Company, in accordance with ASU 2015-03, reduced its long-term debt by $4,000 and $6,000, respectively. 
+
+NOTE 10   DIVIDEND PAYMENTS  
+
+On May 8, 2018, the
+Company s Board of Directors, in accordance with its dividend policy, declared a quarterly cash dividend of $0.05 per common
+share, which was paid on May 25, 2018, to shareholders of record at the close of business on May 21, 2018. The total amount of
+this dividend payment was approximately $179,000. During the six-month period ended June 30, 2018, the Company paid approximately
+$359,000 in dividend payments. 
+
+P F INDUSTRIES, INC. AND SUBSIDIARIES  
+
+Item 2.   
+       Management s Discussion and Analysis of Financial Condition and Results of Operations    
+
+Forward Looking Statement  
+
+The Private Securities
+Litigation Reform Act of 1995 (the  Reform Act ) provides a safe harbor for forward-looking statements made by or on
+behalf of P F Industries, Inc. and subsidiaries ( P F , or the  Company ). P F and its
+representatives may, from time to time, make written or verbal forward-looking statements, including statements contained in the
+Company s filings with the Securities and Exchange Commission and in its reports to shareholders. Generally, the inclusion
+of the words  believe,   expect,   intend,   estimate,   anticipate, 
+ will,   may,   would,   could,   should,  and their opposites and
+similar expressions identify statements that constitute  forward-looking statements  within the meaning of Section 27A
+of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934 and that are intended to come within
+the safe harbor protection provided by those sections. Any forward-looking statements contained herein, including those related
+to the Company s future performance, are based upon the Company s historical performance and on current plans, estimates
+and expectations. All forward-looking statements involve risks and uncertainties. These risks and uncertainties could cause the
+Company s actual results for all or part the 2018 fiscal year and beyond to differ materially from those expressed in any
+forward-looking statement made by or on behalf of the Company for a number of reasons including, but not limited to: 
+
+Exposure to fluctuations in energy prices;   
+
+Debt and debt service requirements;   
+
+Borrowing and compliance with covenants under our credit facility;   
+
+Disruption in the global capital and credit markets;   
+
+The strength of the retail economy in the United States and abroad;   
+
+Risks associated with sourcing from overseas, including tariffs;   
+
+Customer concentration;   
+
+Adverse changes in currency exchange rates;   
+
+Impairment of long-lived assets and goodwill;   
+
+Unforeseen inventory adjustments or changes in purchasing patterns;   
+
+Market acceptance of products;   
+
+Competition;   
+
+Price reductions;   
+
+Interest rates;   
+
+Litigation and insurance;   
+
+Retention of key personnel;   
+
+Acquisition of businesses;   
+
+Regulatory environment;   
+
+The threat of terrorism and related political instability and economic uncertainty; and   
+
+Information technology system failures and attacks,   
+
+and those other risks and uncertainties
+described in its Annual Report on Form 10-K for the year ended December 31, 2017 ( 2017 Form 10-K ), its
+Quarterly Reports on Form 10-Q, and its other reports and statements filed by the Company with the Securities and Exchange Commission.
+Forward-looking statements speak only as of the date on which they are made. The Company undertakes no obligation to update publicly
+or revise any forward-looking statement, whether as a result of new information, future developments or otherwise. The Company
+cautions you against relying on any of these forward-looking statements. 
+
+Management s Discussion and Analysis
+of Financial Condition and Results of Operations - Continued  
+
+OUR BUSINESS  
+
+P F and each of
+its subsidiaries are herein referred to collectively as the  Company.  In addition, the words  we ,  our 
+and  us  refer to the Company. We conduct our business through a wholly-owned subsidiary, Continental Tool Group, Inc.
+( Continental ), which in turn operates through its wholly-owned subsidiaries, Florida Pneumatic Manufacturing Corporation
+( Florida Pneumatic ) and Hy-Tech Machine, Inc. ( Hy-Tech ). Exhaust Technologies Inc. ( ETI )
+and Universal Air Tool Company Limited ( UAT ) are wholly-owned subsidiaries of Florida Pneumatic. Effective April
+5, 2017, we purchased substantially all of the operating assets, and assumed certain liabilities of Jiffy Air Tool, Inc., ( Jiffy )
+through a wholly-owned subsidiary of Florida Pneumatic. See Note 2 to our consolidated financial statements for further discussion.
+The business of Air Tool Service Company ( ATSCO ) operates through a wholly-owned subsidiary of Hy-Tech. 
+
+Florida Pneumatic manufactures,
+imports and sells pneumatic hand tools, most of which are of its own design, primarily to the retail, industrial, automotive and
+aerospace markets. It also markets, through its Berkley Tool division ( Berkley ), a product line which includes pipe
+and bolt dies, pipe taps, wrenches, vises and stands, pipe and tubing cutting equipment, hydrostatic test pumps, and replacement
+electrical components for a widely-used brand of pipe cutting and threading machines. 
+
+Hy-Tech designs, manufactures
+and distributes industrial pneumatic tools, industrial gears, hydrostatic test plugs and a wide variety of parts under the brands
+ATP, ATSCO, OZAT, Numatx, Thaxton and Quality Gear. Industries served include power generation, petrochemical, construction, railroad,
+mining, ship building and fabricated metals. Hy-Tech also manufactures components, assemblies, finished product and systems for
+various Original Equipment Manufacturers under their own brand names. 
+
+KEY INDICATORS    
+
+Economic Measures   
+
+Much of our business
+is driven by the ebbs and flows of the general economic conditions in both the United States and, to a lesser extent, abroad. We
+focus on a wide array of customer types including, but not limited to, large retailers, aerospace manufacturers, large and small
+resellers of pneumatic tools and parts, and automotive related customers. We tend to track the general economic conditions of the
+United States, industrial production and general retail sales. 
+
+A key economic measure
+relevant to us is the cost of the raw materials in our products. Key materials include metals, especially various types of steel
+and aluminum. Also important is the value of the United States Dollar ( USD ) in relation to the Taiwanese dollar ( TWD ),
+as we purchase a significant portion of our products from Taiwan. Purchases from Chinese sources are made in USD; however, if the
+Chinese currency, the Renminbi ( RMB ), were to be revalued against the USD, there could be a negative impact on the
+cost of our products. Additionally, we closely monitor the fluctuation in the Great British Pound ( GBP ) to the USD,
+and the GBP to TWD, both of which can have an impact on the consolidated results. In addition, we monitor the number of operating
+rotary drilling rigs in the United States, as a means of gauging oil production, which is a key factor in our sales into the oil
+and gas exploration and extraction sector. 
+
+As the result of the
+recently imposed tariffs, specifically those imposed on products imported from China, we now must consider tariffs as a key economic
+indicator. The Office of the US Trade Representative released a list of China-manufactured products that are subject to tariffs
+of 25%, effective July 6, 2018. A portion of products imported by Florida Pneumatic for its Retail customers is now subject to
+this tariff. 
+
+The cost and availability
+of a quality labor pool in the countries where products and components are manufactured, both overseas as well as in the United
+States, could materially affect our overall results. 
+
+Management s Discussion and Analysis
+of Financial Condition and Results of Operations - Continued  
+
+KEY INDICATORS  - (Continued)    
+
+Operating Measures   
+
+Key operating measures
+we use to manage our operations are: orders; shipments; development of new products; customer retention; inventory levels and productivity.
+These measures are recorded and monitored at various intervals, including daily, weekly and monthly. To the extent these measures
+are relevant; they are discussed in the detailed sections below. 
+
+Financial Measures   
+
+Key financial measures
+we use to evaluate the results of our business include: various revenue metrics; gross margin; selling, general and administrative
+expenses; earnings before interest and taxes; operating cash flows and capital expenditures; return on sales; return on assets;
+days sales outstanding and inventory turns. These measures are reviewed at monthly, quarterly and annual intervals and compared
+to historical periods as well as established objectives. To the extent that these measures are relevant, they are discussed in
+the detailed sections below for each operating segment. 
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES  
+
+We prepare our consolidated
+financial statements in accordance with accounting principles generally accepted in the United States of America ( GAAP ).
+Descriptions of these policies are discussed in the 2017 Form 10-K. Certain of these accounting policies require us to make estimates
+and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and the related disclosure of contingent
+assets and liabilities, revenues and expenses. On an ongoing basis, we evaluate estimates, including, but not limited to those
+related to bad debts, inventory reserves, goodwill and intangible assets, warranty reserves, taxes and deferred taxes. We base
+our estimates on historical data and experience, when available, and on various other assumptions that are believed to be reasonable
+under the circumstances, the combined results of which form the basis for making judgments about the carrying values of assets
+and liabilities that are not readily apparent from other sources. As future events and their effects cannot be determined with
+precision, actual results could differ significantly from those estimates and assumptions.  Significant changes, if any,
+in those estimates resulting from continuing changes in the economic environment will be reflected in the consolidated financial
+statements in future periods. 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations - Continued   
+
+OVERVIEW  
+
+Key factors or events
+impacting our second quarter 2018 results of operations were: 
+
+Aerospace revenue increased by 54.9%;   
+
+Hy-Tech gross margins improving 4.8 percentage points; and   
+
+The decision in 2017 not to renew a supply agreement with Sears.   
+
+RESULTS OF OPERATIONS   
+
+Unless otherwise discussed
+below or elsewhere in the Management s Discussion and Analysis, we believe that our relationships with our key customers
+and suppliers remain satisfactory. 
+
+We determined that,
+based on a number of factors including Sears  continuing financial difficulties, the sale of the Craftsman brand by Sears
+to Stanley Black   Decker and our level of working capital exposure in relation to our return on that investment pertaining
+to Sears, it was in our best interest not to renew a supply agreement between us and Sears, effective September 30, 2017. 
+
+In December of
+2017, Florida Pneumatic and The Home Depot agreed to launch an improved line of pneumatic tools to replace the current
+offering. We expect to begin shipment of this new product line sometime in the third quarter of 2018. Gross margin for the
+new product line will be approximately 2% less than the current product line. In order to promote the roll out of the new
+products, Florida Pneumatic has agreed to contribute $1,000,000 to The Home Depot to support its marketing and promotion of
+the new product line. We believe this will be contributed some time during the remainder of 2018. This contribution will be
+ratably amortized over a four year period and will be tested for impairment during said period. 
+
+We adopted ASC 606
+effective January 1, 2018. The most significant impact of this adoption to our results of operations was that beginning January
+1, 2018 we now classify certain expenses as deductions against gross revenue, that prior to the adoption, were accounted for as
+a selling expense. The adoption of ASC 606 reduced our revenue, gross profit and selling expenses approximately $243,000 and $457,000,
+respectively, for the three and six-month periods ended June 30, 2018. 
+
+We believe that over
+time several newer technologies and features will have a greater impact on the market for the Company s traditional pneumatic
+tool offerings. This evolution has been felt initially by the advent of some cordless operated hand tools in the automotive aftermarket.
+We are currently evaluating the development of more advanced technologies in our tool platforms. 
+
+We are currently evaluating
+the impact of the recently imposed additional 25% tariff on products arriving in the United States after July 6, 2018, particularly
+those tariffs imposed on certain Chinese-made products that we sell to our Retail customers. Further, based on information released
+by the Office of the US Trade Representative, a second group of items have been announced. This second group of Chinese made
+products are subject to an additional 10%, or greater, tariff; however no specific date has been announced upon which tariffs will
+be imposed. We have been able to increase our selling price for most of the additional tariffs imposed on the initial group of
+products. Until such time the Office of the US Trade Representative finalizes both the amount of the additional tariff to be imposed
+on the second group of Chinese-made products and the effective date of said tariff, we are unable to address this second group
+of products with our Retail customers on how to resolve the absorption of the additional costs incurred resulting from these new
+tariffs. Should Florida Pneumatic be unable to pass through the additional cost created by the new tariffs, our gross margin on
+the products subject to the new tariffs will be severely impacted. 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations - Continued   
+
+RESULTS OF OPERATIONS  - (Continued)    
+
+Other than the aforementioned,
+or that may be discussed further in this Management s Discussion and Analysis, there are no major trends or uncertainties
+that had, or we could reasonably expect could have, a material impact on our revenue, nor was there any unusual or infrequent event,
+transaction or any significant economic change that materially affected our results of operations. 
+
+The tables below provide
+an analysis of our net revenue for the three and six-month periods ended June 30, 2018 and 2017. 
+
+Florida Pneumatic    
+
+Florida Pneumatic markets
+its air tool products to four primary sectors within the pneumatic tool market; Retail, Automotive, Aerospace and Industrial/catalog.
+It also generates revenue from its Berkley products line, as well as a line of air filters and other OEM parts ( Other ). 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations - Continued   
+
+RESULTS OF OPERATIONS  - (Continued)    
+
+Florida Pneumatic    
+
+Florida Pneumatic s
+second quarter 2018 revenue increased 2.8% over the same period in 2017. An analysis of this change highlights the following: (a)
+Our decision in 2017 not to renew a supply agreement with Sears, is the primary cause for the decline in Retail revenue this quarter,
+compared to the same period a year ago. Additionally, there was a slight decline in The Home Depot revenue. (b) The increase in
+Automotive revenue this quarter, compared to the same three-month period in 2017 was due primarily to an increase in consumer product
+demand for our AIRCAT tools sold through a major on-line distributor, and to a lesser degree, an increase in revenue from our UAT
+division headquartered in the United Kingdom. (c) T he Jiffy acquisition in April 2017  enabled
+us to approach the aerospace sector with a much stronger brand and breadth of products. As the Jiffy management team continues
+to improve and increase manufacturing output, revenue this quarter was nearly 55% greater than the same period one year ago. Lastly,
+the growth in  Industrial/catalog revenue this quarter, compared to the same period in 2017 is due
+primarily to the overall strengthening for this market sector.  
+
+Florida
+Pneumatic s six-month comparisons reflect similar results to those of the second quarter. Specifically, our Retail revenue
+for the six-month period ended June 30, 2018 declined 22.8%, compared to the same period in 2017 due primarily to the absence of
+Sears revenue, along with slight revenue decline from The Home Depot. For the first six months of 2018 our Automotive revenue increased
+over the same period in 2017 by 10.1%, due primarily to increased consumer demand  for our AIRCAT tools, which are sold through
+a major on-line distributor. As the acquisition of Jiffy occurred on April 5, 2017, our Aerospace revenue for the six-month period
+ended June 30, 2017 only included Jiffy revenue from the date of acquisition through June 30, 2017, whereas the first six months
+of 2018 includes Jiffy for the entire period. 
+
+Hy-Tech    
+
+Hy-Tech designs, manufactures
+and sells a wide range of industrial products under the brands ATP, ATSCO, OZAT and NUMATX, which are categorized as  ATP 
+for reporting purposes and include heavy duty air tools and air motors, industrial grinders, impact sockets, hydro-pneumatic riveters
+and OEM business. Hy-Tech s other product lines, Thaxton and Quality Gear, are reported with its general machining business
+as  Other  below. 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations - Continued  
+
+RESULTS OF OPERATIONS  - (Continued)    
+
+Hy-Tech    
+
+An increase in shipments
+this quarter compared to the same period in 2017 to a large customer acquired in the ATSCO acquisition is the primary driver to
+increase in our ATP revenue. Although shipments of our  engineered solutions  program, which pursues alternate markets
+where we can exploit our engineering and manufacturing expertise, and develop different applications for our tools, motors and
+accessories, was relatively flat this quarter, compared to the second quarter of 2017, orders this quarter continue to increase,
+compared to prior year . As a result, our open orders for the engineered solutions products at June 30, 2018 have increased to
+$914,000, compared to $591,000 at June 30, 2017. The engineered solutions marketing strategy continues to provide an opportunity
+to generate new sources of revenue. 
+
+The primary factor
+contributing to the improvement in Hy-Tech s revenue for the six-month period ended June 30, 2018, compared to the same period
+in 2017, was increased shipments to the ATSCO customer. This increase accounted for 75% of the improvement. Additional factors
+affecting Hy-Tech s growth were an increase in our engineered solutions program and to a lesser extent revenue from our NUMATX
+technology acquisition. Increases in shipments of our Thaxton line was the driver to the improved Other revenue. 
+
+Gross profit / margin   
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations - Continued  
+
+RESULTS OF OPERATIONS  - (Continued)    
+
+Although Florida Pneumatic s
+second quarter 2018 gross margin is the same as what we reported for the comparable period in 2017, it is important to note that
+as discussed earlier in this Management s Discussion and Analysis, we adopted ASC 606. This adoption reduced net revenue
+by $243,000, thus resulting in a similar reduction in gross profit and a reduction in Florida Pneumatic s quarterly gross
+margin of 1.3 percentage points. Promotional discounts, specifically related to our AIRCAT product line, caused a reduction in
+Florida Pneumatic s gross margin this quarter; however, improved absorption during the quarter offset the aforementioned
+promotional discounts. Lastly, our Jiffy product line increased its second quarter of 2018 gross margin, compared to the same period
+last year, due primarily to improved overhead absorption. 
+
+When comparing the
+second quarter of 2018 to the same period in the prior year, Hy-Tech was able to improve its overall gross margin by 4.8 percentage
+points, due primarily to the following: (a) greater absorption of its manufacturing overhead costs, driven by greater through-put
+at its facility; (b) product mix, and (c) price increases on certain product lines. With improving product mix in its inventory,
+Hy-Tech has also been able to reduce its obsolete and slow moving inventory charges this quarter, compared to the same period a
+year ago. 
+
+Florida Pneumatic s
+gross margin for the six-month period ended June 30, 2018, was impacted` by several factors, the most significant of which was
+the adoption of ASC 606 that negatively affected its gross profit by $457,000, and effectively lowering year to date gross margin
+by 1.2 percentage points. Other factors impacting its six-month gross margin were promotional discounts and lower overhead absorption
+during the first six months of 2018, compared to the same period in 2017. Additionally, during the three-month period ended March
+31, 2018, foreign currency, specifically the weakness of the U.S. dollar to the Taiwan dollar adversely affected Florida Pneumatic s
+gross margin. The aforementioned were partially offset by stronger gross margin for the Jiffy product lines. 
+
+Hy-Tech s improved
+gross margin reported for the six-month period ended June 30, 2018, compared to the same period in 2017, continues to be driven
+by greater absorption of its manufacturing overhead costs, better product mix, and price increases. Further, when comparing the
+two six month periods, thus far in 2018, Hy-Tech has been able to reduce its obsolete and slow moving inventory charges. 
+
+Selling, general and administrative expenses   
+
+Selling, general and
+administrative expenses ( SG A ) include salaries and related costs, commissions, travel, administrative facilities,
+communications costs and promotional expenses for our direct sales and marketing staff, administrative and executive salaries and
+related benefits, legal, accounting and other professional fees as well as general corporate overhead and certain engineering expenses. 
+
+During the second quarter
+of 2018, our SG A was $5,361,000, compared to $5,366,000 for the same three-month period in 2017. As the result of the adoption
+of the new revenue recognition standard ASC 606, discussed above, we now classify certain expenses totaling $243,000 incurred during
+the three-month period ended June 30 2018 as reductions against gross revenue that, prior to the adoption, were accounted for as
+SG A. Significant components to the net change include: (i) an increase in compensation expenses of $259,000, which is comprised
+of base salaries and wages, accrued performance-based bonus incentives, associated payroll taxes and employee benefits; (ii) an
+increase in advertising and promotion expenses of $70,000; and (iii) increases in our stock-based compensation of $60,000, offset
+by reductions in professional fees of $131,000, which related to the Jiffy Acquisition. 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations - Continued  
+
+RESULTS OF OPERATIONS  - (Continued)    
+
+Selling, general and administrative expenses    (Continued)    
+
+Our SG A for the
+six-month period ended June 30, 2018 was $10,641,000, compared to $10,413,000 for the same period in 2017. The most significant
+item contributing to the net increase was additional operating expenses incurred at Jiffy during the first quarter of 2018 of $581,000,
+whereas there were no Jiffy SG A expenses during the first quarter of 2017. Additionally, as the result of the adoption of
+the new revenue recognition standards, we now are required to classify as adjustments to net revenue certain expenses, which aggregated
+approximately $457,000 during the six-month period ended June 30, 2018 that prior to the adoption were accounted for as SG A.
+Other significant components include: (i) an increase in non-Jiffy compensation expenses of $192,000, which is comprised of base
+salaries and wages, accrued performance-based bonus incentives, associated payroll taxes and employee benefits; (ii) reductions
+in variable expenses of $345,000 due primarily to lower Retail revenue; (iii) reductions in professional fees of $357,000, which
+related to the Jiffy Acquisition; and (iv) increases in our stock-based compensation of $120,000. 
+
+Other expense (income)    
+
+Other expense (income)
+of $28,000 and $57,000, respectively, for the three and six-month periods ended June 30, 2018, represents the adjustment of the
+fair value of the contingent consideration obligation to the Jiffy Seller as discussed in Note 2 to our consolidated financial
+statements. Other income of $24,000 for the three and six-month periods ended June 30, 2017 is due to the receipt of the balance
+of escrowed funds related to the sale in November 2016 of the real property located in Tampa, Florida. 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations   Continued  
+
+RESULTS OF OPERATIONS  - (Continued)    
+
+Interest   
+
+The interest expense
+for the three-month period ended June 30, 2018 is lower than the same period in the prior year, due to the fact that on April 5,
+2017 we completed the purchase of Jiffy, which was funded through our Revolver or short term borrowings. At June 30, 2017, our
+short term borrowing payable to the Bank was $4,537,000, whereas at June 30, 2018 the short term borrowing balance is $2,239,000.
+Applicable margins added to our borrowings have decreased twenty-five basis points on both LIBOR and Base rate borrowings, however
+prime rates have increased. The increase in amortization of debt issue costs is due to the expenses incurred with the amendment
+to our Loan and Security Agreement ( Credit Agreement ) in April 2017 that related to the Jiffy acquisition. 
+
+Similar to the discussion
+above our interest expense for the six-month period ended June 30, 2018 was driven by the Jiffy acquisition and decreases in applicable
+margin, offset by raising prime interest rates. 
+
+Our average balance
+of short-term borrowings during the three and six-month periods ended June 30, 2018 was $2,571,000 and $2,211,000, respectively,
+compared to $6,011,000 and $3,073,000, respectively, during the same three and six-month periods in 2017. 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations   Continued  
+
+RESULTS OF OPERATIONS  - (Continued)    
+
+Income taxes   
+
+At the end of each
+interim reporting period, we estimate our effective tax rate expected to be applied for the full year. This estimate is used to
+determine the income tax provision or benefit on a year-to-date basis, and may change in subsequent interim periods. Accordingly,
+our effective tax rate for the three and six-month periods ended June 30, 2018 was 29.6% and 29.0%, respectively, compared to 0%
+and 35.3%, respectively, for the same three and six-month periods in 2017. The effective tax rates for both periods were affected
+primarily by state taxes, non-deductible expenses and foreign tax rate differentials. 
+
+In addition to those
+items mentioned above that affected our effective tax rates was the Tax Cuts and Jobs Act (the  Act ) which was enacted
+on December 22, 2017. The Act reduces the U.S. federal corporate income tax rate from 35% to 21%, required companies to pay a one-time
+transition tax on earnings of certain foreign subsidiaries previously deferred from tax, generally eliminates U.S federal income
+taxes on dividends from foreign subsidiaries and creates a new provision designed to tax global intangible low-taxed income ( GILTI ).
+Also on December 22, 2017, the Staff of the U.S. Securities and Exchange Commission issued Staff Accounting Bulletin No. 118 ( SAB
+118 ) which provides for a measurement period of up to one year from the enactment for companies to complete their accounting
+for the Act. We are applying the guidance in SAB 118 when accounting for the enactment-date effects of the Act. 
+
+As of June 30 2018,
+we have not completed our accounting for the tax effects of the Act, but have made reasonable estimates of the effects on the re-measurement
+of our deferred tax assets and liabilities as well as its transition tax liability. During the three and six-month periods ended
+June 30, 2018, we made no adjustments to the provisional amounts recorded at December 31, 2017. Additionally, we have not yet collected
+and analyzed all necessary tax and earnings data of our foreign operations and therefore have not yet completed our accounting
+for the income tax effects of the transition tax. We will continue to make and refine the calculations as additional analysis is
+completed. 
+
+The Act also subjects
+a U.S. shareholder to tax on GILTI earned by certain foreign subsidiaries. Under GAAP, we are permitted to make an accounting policy
+election to either recognize deferred taxes for temporary basis differences expected to reverse as GILTI in future years or provide
+for the tax expense related to GILTI in the year the tax is incurred as a period expense only. Given the complexity of the GILTI
+provisions, we are still evaluating the effects of the GILTI provisions and have not yet made our accounting policy election. As
+of June 30, 2018, because we are still evaluating the GILTI provisions, we have included tax expense related to GILTI for the current
+year in our estimated annual effective tax rate and have not provided additional GILTI on deferred items. 
+
+Management s Discussion and Analysis of Financial
+Condition and Results of Operations   Continued  
+
+LIQUIDITY AND CAPITAL RESOURCES   
+
+We monitor such metrics
+as days  sales outstanding, inventory requirements, inventory turns, estimated future purchasing requirements and capital
+expenditures to project liquidity needs, as well as evaluate return on assets. Our primary sources of funds are operating cash
+flows and our Revolver Loan ( Revolver ) with our Bank. 
+
+We gauge our liquidity
+and financial stability by various measurements, some of which are shown in the following table: 
+
+Credit facility    
+
+In October 2010, we
+entered into a Loan and Security Agreement ( Credit Agreement ) with an affiliate of Capital One, National Association
+( Capital One  or the  Bank ). The Credit Agreement, as amended from time to time, among other things,
+provides the ability to borrow funds under the Revolver arrangement. Revolver borrowings are secured by the Company s accounts
+receivable, inventory, equipment and mortgages on real property. Additionally, there is a $1,600,000 line available for capital
+expenditures ( Capex line ). The Credit Agreement includes a $100,000 Term Loan, as defined in the Credit Agreement.
+This Term Loan remains in place to enable the Company and Capital One to facilitate future term loan borrowings more efficiently
+and less costly. P F and certain of its subsidiaries are borrowers under the Credit Agreement, and their obligations are cross-guaranteed
+by certain other subsidiaries. The Credit Agreement expires in February 2019.  We
+believe that we will enter into a new credit agreement with Capital One or another financial institution prior to such expiration
+date.  
+
+At our option, Revolver
+borrowings bear interest at either LIBOR ( London InterBank Offered Rate ) or the Base Rate, as the term is defined
+in the Credit Agreement, plus an Applicable Margin, as defined in the Credit Agreement. We are subject to limitations on the number
+of LIBOR borrowings. 
+
+Contemporaneously with
+the acquisition of the Jiffy business discussed in Note 2 to the consolidated financial statements, we entered into a Second Amended
+and Restated Loan and Security Agreement, (the  2017 Agreement ), with Capital One. The 2017 Agreement, among other
+things, amended the Credit Agreement by: (1) increasing the maximum amount it can borrow under the Revolver Commitment (as defined)
+to $16,000,000, subject to certain borrowing base criteria, and (2) modifying certain borrowing base criteria as well as financial
+and other covenants. We incurred $84,000 of debt issue costs in connection with the 2017 Agreement. 
+
+The Credit Agreement
+also provides for certain Term Loan borrowings, which can be at either LIBOR or at the Base Rate, or a combination of the two,
+plus the Applicable Margins. Applicable Margins on LIBOR borrowings at June 30, 2018, and December 31, 2017 were 1.50%. The Applicable
+Margin added to the Base Rate for the same timeframes was 0.50%. At June 30 2018, we had a $100,000 Term Loan borrowing which is
+included in Current maturities of long-term debt on the consolidated balance sheet. At both June 30, 2018 and December 31, 2017
+this Term Loan was at LIBOR. 
+
+In April 2018, we borrowed
+$400,000 against the Capex line. This borrowing is to be repaid in equal installments of approximately $6,700 payable monthly,
+with the balance due in February 2019, unless the Credit Agreement is extended by the parties. $300,000 of this borrowing is at
+LIBOR plus Applicable Margin, with the balance of $100,000 at the Base Rate, or prime rate plus Applicable Margin. While we intend
+to renew the Credit Agreement currently in place, this obligation at June 30, 2018, is included in Current maturities of long-term
+debt on our consolidated balance sheet. 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations   Continued  
+
+LIQUIDITY AND CAPITAL RESOURCES -
+ Continued    
+
+We provide Capital
+One with monthly financial statements, borrowing base certificates and certificates of compliance with various financial covenants.
+Should an event of default occur, the interest rate on all borrowings would increase by two percent per annum during the period
+of default, in addition to other remedies provided to Capital One. 
+
+We believe that should
+a need arise for us to borrow funds in excess of the Revolver and Term loans currently in effect, our Bank would provide for additional
+borrowings, based on the value of our real property or other assets.  
+
+Cash flows    
+
+During the six-month
+period ended June 30, 2018, our net cash increased to $1,488,000 from $1,241,000 at December 31, 2017.   Our total bank
+debt at June 30, 2018 was $2,733,000 and $2,028,000 at December 31, 2017. The total debt to total book capitalization (total
+debt divided by total debt plus equity); at June 30, 2018 was 5.6% and at December 31, 2017 was 4.2%. 
+
+During the six-month
+period ended June 30, 2018, we received approximately $737,000 from the exercise of stock options. 
+
+In February and May
+2018, our Board of Directors declared quarterly cash dividends of $0.05 per share of our common stock, which were paid in March
+2018, and May 2018, respectively. The total dividends paid through June 30, 2018 were $359,000. We intend to maintain the dividend
+policy; however, the declaration of dividends under this policy going forward is dependent upon our financial condition, results
+of operations, capital requirements and other factors deemed relevant by our Board of Directors.   
+
+On August 9, 2017,
+our Board of Directors authorized us to repurchase up to 100,000 shares of our common stock over a period of up to twelve months
+(the  Repurchase Program ). On August 24, 2017, we announced that, pursuant to the Repurchase Program, we had adopted
+a written trading plan in accordance with the guidelines specified under Rule 10b5-1 under the Securities Exchange Act of 1934. Since
+inception of the Repurchase Program, through June 30 2018, we repurchased approximately 81,000 shares of our common stock, the
+cost of which was approximately $638,000.  During the three and six-month periods ended June 30, 2018, we repurchased 24,000
+and 34,000 shares, respectively, under the Repurchase Program at a cost of approximately $199,000 and $280,000, respectively. 
+
+Additionally, in June
+2018, unrelated to the Repurchase Program, we purchased 18,140 shares of our common stock at a total cost of $150,000 in a privately
+negotiated transaction. The purchase price per share was equal to five percent below the average of the closing price of its common
+stock for the three days prior to the transaction. 
+
+During the six-month
+period ended June 30, 2018, we used $1,224,000 for capital expenditures, compared to $358,000 during the same period in the prior
+year.  Capital expenditures for the balance of 2018 are expected to be approximately $650,000, some of which may be financed
+through our credit facilities with Capital One, or financed through independent third party financial institutions. The remaining
+2018 capital expenditures will likely be for machinery and equipment, tooling and computer hardware and software. 
+
+Management s Discussion and Analysis of Financial Condition
+and Results of Operations   Continued  
+
+LIQUIDITY AND CAPITAL RESOURCES -
+ Continued    
+
+Customer
+concentration    
+
+At June 30, 2018 and
+December 31, 2017, accounts receivable from The Home Depot was 35.5% and 31.0%, respectively, of our total accounts receivable.
+Additionally, revenue from The Home Depot during the three and six-month periods ended June 30, 2018 was 24.8% and 24.2%, for the
+same three and six month periods in 2017 The Home Depot revenue accounted for 29.0% and 29.8%, respectively. 
+
+As previously mentioned
+we elected not to renew an agreement with Sears, which expired September 30, 2017. We believe the loss of The Home Depot would
+negatively impact our financial condition, but would not affect our ability to remain a going concern. 
+
+NEW ACCOUNTING PRONOUNCEMENTS   
+
+Refer to Note 1 to
+our consolidated financial statements for a discussion of recent accounting standards and pronouncements. 
+
+We are currently evaluating
+the impact of the adoption of ASU 2016-02,  Leases , on our consolidated financial condition, results of operations and cash
+flows.  
+
+In addition, in February
+2018, the FASB issued No. ASU 2018-02,  Income Statement - Reporting Comprehensive Income  (Topic 220): Reclassification of
+Certain Tax Effects from Accumulated Other Comprehensive Income ( ASU 2018-02 ). Under ASU 2018-02, an entity may elect
+to reclassify the income tax effects of the Tax Reform Act on items within accumulated other comprehensive income to retained earnings.
+ASU 2018-02 is effective for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. Early
+adoption is permitted in any interim period. We are currently evaluating what impact, if any, adoption of ASU 2018-02 may have
+on our consolidated financial statements. 
+
+Other than the aforementioned,
+we do not believe that any other recently issued, but not yet effective accounting standard, if adopted, will have a material effect
+on our consolidated financial statements. 
+
+Item 3.   
+       Quantitative And Qualitative Disclosures About Market Risk    
+
+Not required. 
+
+Item 4.   
+       Controls and Procedures    
+
+Disclosure Controls and Procedures  
+
+The Company's management,
+with the participation of the Company's Chief Executive Officer ( CEO ) and Chief Financial Officer ( CFO ),
+evaluated, as of June 30, 2018, the effectiveness of the Company's disclosure controls and procedures, which were designed to be
+effective at the reasonable assurance level. The term  disclosure controls and procedures,  as defined in Rules 13a-15(e)
+and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information
+required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized
+and reported, within the time periods specified in the SEC's rules and forms. Disclosure controls and procedures include, without
+limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that
+it files or submits under the Exchange Act is accumulated and communicated to the company's management, including its principal
+executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management
+recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of
+achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible
+controls and procedures. Based on the evaluation of the Company's disclosure controls and procedures as of June 30, 2018, the Company s
+management, including its CEO and CFO, concluded that the Company's disclosure controls and procedures were effective at the reasonable
+assurance level at that date. 
+
+Changes in Internal Control over Financial
+Reporting  
+
+There was no change
+in our internal control over financial reporting, identified in connection with the evaluation required by Exchange Act Rule 13a-15(d),
+that occurred during our most recently completed fiscal quarter that has materially affected, or is reasonably likely to materially
+affect, our internal control over financial reporting. 
+
+PART II - OTHER INFORMATION   
+
+Item 1.   
+       Legal Proceedings    
+
+There have been no material changes to the legal
+proceedings disclosure described in our 2017 Form 10-K. 
+
+Item 1A.   
+       Risk Factors    
+
+There were no material changes to the risk factors
+previously disclosed in our 2017 Form 10-K. 
+
+Item 2.   
+       Unregistered Sales of Equity Securities and Use of Proceeds    
+
+(1)  
+      On August 24, 2017, the Company announced that it had adopted a written trading plan for the purpose of repurchasing up to 100,000 shares of its common stock. This trading plan expires on August 23, 2018, and was adopted pursuant to an authorization of a stock repurchase program by the Company s Board which was publicly announced on August 10, 2017.   
+
+(2)  
+      Includes 18,140 shares purchased by the Company of its common stock at $8.26 per share in a privately negotiated transaction that was not part of the adopted written trading plan.    
+
+Item 3.   
+       Defaults Upon Senior Securities    
+
+None. 
+
+Item 4.   
+       Mine Safety Disclosures    
+
+None. 
+
+Item 5.   
+       Other Information    
+
+None. 
+
+Item 6.   
+       Exhibits    
+
+See  Exhibit Index  immediately following
+the signature page. 
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+P F INDUSTRIES, INC.   
+
+(Registrant)   
+
+/s/ JOSEPH A. MOLINO, Jr.   
+
+Joseph A. Molino, Jr.   
+
+Chief Financial Officer   
+ 
+      Dated: August 10, 2018  
+      (Principal Financial and Chief Accounting Officer)   
+
+EXHIBIT INDEX  
+
+The following exhibits are either included in this report or
+incorporated herein by reference as indicated below: 
+
+Exhibit   
+  Number   
+       
+       Description of Exhibit    
+
+10.1    
+       
+       Amendment No. 2 to Second Amended and Restated Loan and Security Agreement, dated as of June 21, 2018, by and among the Company, Florida Pneumatic Manufacturing Corporation, Hy-Tech Machine, Inc., ATSCO Holdings Corp, Jiffy Air Tool, Inc. (formerly known as Bonanza Holdings Corp.), Bonanza Properties Corp., Continental Tool Group, Inc., Countrywide Hardware, Inc., Embassy Industries, Inc., Exhaust Technologies, Inc., Green Manufacturing, Inc., Pacific Stair Products, Inc., WILP Holdings, Inc., Woodmark International, L.P, and Capital One, National Association, as lender and agent (Incorporated by reference to Exhibit 10.1 to the Registrant s Current Report on Form 8-K dated June 27, 2018).    
+
+31.1    
+       
+       Certification of Richard A. Horowitz, Principal Executive Officer of the Registrant, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.    
+
+31.2    
+       
+       Certification of Joseph A. Molino, Jr., Principal Financial Officer of the Registrant, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.    
+
+32.1    
+       
+       Certification of Richard A. Horowitz, Principal Executive Officer of the Registrant, Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 .    
+
+32.2    
+       
+       Certification of Joseph A. Molino, Jr., Principal Financial Officer of the Registrant, Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.    
+
+101   
+       
+      *  Interactive Data   
+
+* Attached as Exhibit 101 are the following,
+each formatted in Extensible Business Reporting Language ( XBRL ): (i) Consolidated Balance Sheets; (ii) Consolidated
+Statements of Operations and Comprehensive Income, (iii) Consolidated Statement of Shareholders  Equity; (iv) Consolidated
+Statements of Cash Flows; and (v) Notes to Consolidated Financial Statements. 
+
+A copy of any of the foregoing exhibits
+to this Quarterly Report on Form 10-Q may be obtained, upon payment of the Registrant s reasonable expenses in furnishing
+such exhibit, by writing to P F Industries, Inc., 445 Broadhollow Road, Suite 100, Melville New York 11747, Attention: Corporate
+Secretary.  
+
+<EX-31.1>
+ 2
+ tv500122_ex31-1.htm
+ EXHIBIT 31.1
+
+EXHIBIT 31.1  
+
+P F INDUSTRIES, INC. 
+
+ CERTIFICATION PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+I, Richard A. Horowitz, certify that: 
+
+1.       I have reviewed
+this quarterly report on Form 10-Q of P F Industries, Inc.; 
+
+2.       Based on my knowledge,
+this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by
+this report; 
+
+3.       Based on my knowledge,
+the financial statements, and other financial information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4.       The registrant s
+other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a)       Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; 
+
+b)       Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+c)       Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d)       Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter, in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.       The registrant s
+other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a)       All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b)       Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+/s/ RICHARD A. HOROWITZ   
+
+Richard A. Horowitz   
+ 
+      Date: August 10, 2018  
+       Principal Executive Officer    
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ tv500122_ex31-2.htm
+ EXHIBIT 31.2
+
+EXHIBIT 31.2  
+
+P F INDUSTRIES, INC. 
+
+ CERTIFICATION PURSUANT TO 
+
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+I, Joseph A. Molino, Jr., certify that: 
+
+1.       I have reviewed
+this quarterly report on Form 10-Q of P F Industries, Inc.; 
+
+2.       Based on my knowledge,
+this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by
+this report; 
+
+3.       Based on my knowledge,
+the financial statements, and other financial information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4.       The registrant s
+other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a)       Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; 
+
+b)       Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+c)       Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d)       Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter, in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.       The registrant s
+other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions): 
+
+a)       All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b)       Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+/s/ JOSEPH A. MOLINO, JR.   
+
+Joseph A. Molino, Jr.   
+ 
+      Date: August 10, 2018  
+       Principal Financial Officer    
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ tv500122_ex32-1.htm
+ EXHIBIT 32.1
+
+EXHIBIT 32.1  
+
+P F INDUSTRIES, INC. 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION
+1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the quarterly report on Form 10-Q of P F
+Industries, Inc. (the  Company ) for the period ended June 30, 2018, as filed with the Securities and Exchange Commission
+on the date hereof (the  Report ), the undersigned, Richard A. Horowitz, Principal Executive Officer of the Company,
+hereby certifies, pursuant to 18 U.S.C.  1350, that: 
+
+(1)  
+      The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and   
+
+(2)  
+      The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.   
+
+/s/ RICHARD A. HOROWITZ   
+
+Richard A. Horowitz   
+ 
+      Date: August 10, 2018  
+       Principal Executive Officer    
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ tv500122_ex32-2.htm
+ EXHIBIT 32.2
+
+EXHIBIT 32.2  
+
+P F INDUSTRIES, INC. 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION
+1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 
+
+ OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the quarterly report on Form 10-Q of P F
+Industries, Inc. (the  Company ) for the period ended June 30, 2018, as filed with the Securities and Exchange Commission
+on the date hereof (the  Report ), the undersigned, Joseph A. Molino, Jr., Principal Financial Officer of the Company,
+hereby certifies, pursuant to 18 U.S.C.  1350, that: 
+
+(1)  
+      The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and   
+
+(2)  
+      The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.   
+
+/s/ JOSEPH A. MOLINO, JR.   
+
+Joseph A. Molino, Jr.   
+ 
+      Date: August 10, 2018  
+       Principal Financial Officer    
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ pfin-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ pfin-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ pfin-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ pfin-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ pfin-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ pfin-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

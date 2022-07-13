@@ -1,0 +1,810 @@
+nts  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-Q 
+    
+  (Mark One) 
+    
+                                              QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+    
+  For the quarterly period ended   June 30, 2018    
+    
+  or 
+    
+  o                                           TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+    
+  For the transition period from                          to                        
+    
+  Commission File Number: 001-33710 
+    
+  CDTi ADVANCED MATERIALS, INC. 
+  (Exact name of registrant as specified in its charter) 
+    
+                   Delaware 
+      
+    06-1393453 
+      (State or other jurisdiction of 
+      
+    (I.R.S. Employer 
+      incorporation or organization) 
+      
+    Identification No.) 
+
+1700 Fiske Place 
+  Oxnard, CA  93033 
+  (Address of principal executive offices) (Zip Code) 
+    
+  Registrant s telephone number, including area code:   (805) 639-9458 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.       Yes        No   o 
+                                  
+     Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).               Yes        No   o 
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definition of  large accelerated filer,   accelerated filer ,  smaller reporting company  and "emerging growth company" in Rule 12b-2 of the Exchange Act.  
+    
+                     Large accelerated filer     o 
+    Accelerated filer     o 
+    Non-accelerated filer     o 
+    Smaller reporting company     
+
+Emerging growth company     o 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     o 
+    
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).          Yes    o    No      
+    
+  As of   August 3, 2018  , the outstanding number of shares of the registrant s common stock, par value $0.01 per share, was   20,352,965  . 
+
+Table of Contents  
+
+CDTi ADVANCED MATERIALS, INC. 
+    
+  TABLE OF CONTENTS 
+
+Page 
+       PART I   FINANCIAL INFORMATION  
+
+Item 1. Financial Statements (Unaudited)  
+    1 
+
+Condensed Consolidated Balance Sheets  
+    1 
+
+Condensed Consolidated Statements of Comprehensive Loss  
+    2 
+
+Condensed Consolidated Statements of Cash Flows  
+    3 
+
+Notes to Condensed Consolidated Financial Statements  
+    4 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    11 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk  
+    18 
+
+Item 4. Controls and Procedures  
+    18 
+
+PART II   OTHER INFORMATION  
+
+Item 1. Legal Proceedings  
+    18 
+
+Item 1A. Risk Factors  
+    18 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds  
+    19 
+
+Item 3. Defaults Upon Senior Securities  
+    19 
+
+Item 4. Mine Safety Disclosures  
+    19 
+
+Item 5. Other Information  
+    19 
+
+Item 6. Exhibits  
+    20 
+
+SIGNATURES  
+    21 
+
+i 
+
+Table of Contents  
+
+PART I FINANCIAL INFORMATION 
+
+Item 1.  Financial Statements 
+
+CDTi ADVANCED MATERIALS, INC.    
+    
+  Condensed Consolidated Balance Sheets 
+  (in thousands, except share and per share amounts) 
+
+See accompanying notes to condensed consolidated financial statements. 
+  
+   1 
+
+Table of Contents  
+
+CDTi ADVANCED MATERIALS, INC.    
+    
+  Condensed Consolidated Statements of Comprehensive Loss 
+  (in thousands, except per share amounts) 
+  (unaudited) 
+
+See accompanying notes to the condensed consolidated financial statements. 
+  
+   2 
+
+Table of Contents  
+
+CDTi ADVANCED MATERIALS, INC.    
+    
+  Condensed Consolidated Statements of Cash Flows 
+  (in thousands) 
+  (unaudited)    
+
+See accompanying notes to the condensed consolidated financial statements. 
+  
+   3 
+
+Table of Contents  
+
+CDTi ADVANCED MATERIALS, INC.    
+  Notes to Condensed Consolidated Financial Statements 
+  (unaudited) 
+
+1.                    Organization 
+    
+  CDTi Advanced Materials, Inc. ("CDTi" or the "Company") is a leading provider of technology and solutions to the automotive emissions control markets.  The Company possesses market leading expertise in emissions catalyst design and engineering for automotive and off-road applications 
+  The Company has a proven ability to develop proprietary materials incorporating various base metals that replace costly platinum group metals ("PGMs") in coatings on vehicle catalytic converters. Recently, the Company has expanded its materials platform to include new synergized-PGM diesel oxidation catalysts (SPGM      DOC), Base-Metal Activated Rhodium Support (BMARS     ), and Spinel  technologies, and it is in the process of introducing these new catalyst technologies to OEMs and other vehicle catalyst manufacturers in a proprietary powder form. The Company believes that this powder-to-coat business model will allow it to achieve greater scale and higher return on its technology investment than in the past. 
+  The Company's business is driven by increasingly stringent global emission standards for internal combustion engines, which are major sources of a variety of harmful pollutants. It has operations in the United States ("U.S."), the United Kingdom and Sweden. 
+   
+  2.                    Liquidity and Going Concern 
+    
+  The accompanying condensed consolidated financial statements have been prepared assuming the Company will continue as a going concern. Therefore, the condensed consolidated financial statements contemplate the realization of assets and liquidation of liabilities in the ordinary course of business. The Company has suffered recurring losses and negative cash flows from operations since inception, resulting in an accumulated deficit of   $230.6 million   at   June 30, 2018  . The Company has funded its operations through asset sales, credit facilities and other borrowings and equity sales. At   June 30, 2018  , the Company had   $1.8 million   in cash.  
+  The Company s continuation as a going concern is dependent upon its ability to obtain adequate financing, which the Company has successfully secured since inception, including financing from equity sales and asset divestitures. However, there is no assurance that the Company will be able to achieve projected levels of revenue and maintain access to sufficient working capital, and accordingly, there is substantial doubt as to whether the Company s existing cash resources and working capital are sufficient to enable it to continue its operations within one year from the financial statement issuance date. If the Company is unable to obtain the necessary capital, it will be forced to license or liquidate its assets, significantly curtail or cease its operations and/or seek reorganization under the U.S. Bankruptcy Code. The condensed consolidated financial statements do not include any adjustments that may be necessary if the Company is unable to continue as a going concern. 
+    
+  On May 19, 2015, the Company filed a shelf registration statement on Form S-3 with the SEC, which was declared effective on November 17, 2015.  The Form S-3 permits the Company to sell in one or more registered transactions up to an aggregate of   $50.0 million   of various securities not to exceed one-third of the Company s public float in any   12  -month period.  As of   June 30, 2018  , the Company had sold an aggregate of   $3.1 million   using the Form S-3. In July 2018, the Company sold approximately   $2.2 million   of common stock in a rights offering to existing shareholders utilizing the Form S-3. 
+
+3.                    Summary of Significant Accounting Policies 
+    
+  Basis of Presentation 
+    
+  The accompanying unaudited condensed consolidated financial statements have been prepared pursuant to the rules and regulations of the SEC for interim financial reporting. In the opinion of management, all normal recurring accruals and adjustments that are necessary for a fair presentation have been reflected. Intercompany transactions and balances have been eliminated in consolidation. The results reported in these unaudited condensed consolidated financial statements should not necessarily be taken as indicative of results that may be expected for the entire year. Certain financial information that is normally included in annual financial statements prepared in accordance with U.S. generally accepted accounting principles ( GAAP ), but is not required for interim reporting purposes, has been condensed or omitted. The accompanying unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and related notes included in the Company s Annual Report on Form 10-K for the fiscal year ended December 31, 2017, filed with the SEC on April 2, 2018. 
+  
+   4 
+
+     Table of Contents  
+
+Discontinued Operations 
+    
+  Upon divesture of a business, the Company classifies such business as a discontinued operation, if the divested business represents a strategic shift that has (or will have) a major effect on an entity s operations and financial results.  
+  For disposals other than by sale such as abandonment, the results of operations of a business would not be recorded as a discontinued operation until the period in which the business is actually abandoned. We have completed manufacturing commitments to Honda for production catalysts.  In line with our strategy to provide our catalyst technology to other catalyst manufacturers in the form of functional powders or material systems, we will no longer sell coated catalysts and have exited our Coated Catalyst business. 
+  Our exit of the Coated Catalyst business qualifies as discontinued operations and therefore has been presented as such for all reporting periods. Results of discontinued operations include all revenues and expenses directly derived from such businesses; general corporate overhead is not allocated to discontinued operations.  The Company also presents cash flows from discontinued operations separately from cash flows of continuing operations. 
+  All discussions and amounts in the consolidated financial statements and related notes for all periods presented relate to continuing operations only, unless otherwise noted. 
+    
+  Use of Estimates 
+    
+  The preparation of financial statements in conformity with accounting principles generally accepted in the U.S requires management of the Company to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent liabilities. These estimates and assumptions are based on management's best estimates and judgment. On an ongoing basis, the Company evaluates its estimates and assumptions, including those related to impairment of long-lived assets, stock-based compensation, the fair value of financial instruments including warrants, allowance for doubtful accounts, inventory valuation, taxes and contingent and accrued liabilities. The Company bases its estimates on historical experience and various other factors, including the current economic environment, which it believes to be reasonable under the circumstances. Estimates and assumptions are adjusted when facts and circumstances dictate. Actual results may differ from these estimates under different assumptions and conditions. Management believes that the estimates are reasonable. 
+    
+  Revenue 
+    
+  Adoption of Recent Accounting Pronouncement 
+    
+  Effective January 1, 2018, the Company adopted the Financial Accounting Standards Board ("FASB") Accounting Standards Update ("ASU") 2014-09,   Revenue from Contracts with Customers (Topic 606).    ASU 2014-09 supersedes the revenue recognition requirements in FASB Accounting Standards Codification ("ASC") 605, Revenue Recognition, and is based on the principle that revenue is recognized to depict the transfer of goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. It also requires additional disclosure about the nature, amount, timing, and uncertainty of revenue, cash flows arising from customer contracts, including significant judgments and changes in judgments, and assets recognized from costs incurred to obtain or fulfill a contract. The adoption of ASU 2014-09, using the modified retrospective approach, had no significant impact on the Company's results of operations, cash flows or financial position. 
+    
+  Revenue Recognition 
+    
+  Net sales include products and shipping and handling charges, net of estimates for product returns as well as royalties earned under licensing agreements.  Revenue for products and shipping and handling charges are measured as the amount of consideration the Company expects to receive in exchange for transferring products. All revenue is recognized when the Company satisfies its performance obligations under the contract. The Company recognizes revenue by transferring the promised products to the customer, with revenue recognized at the point in time the customer obtains control of the products. The Company recognizes revenue for shipping and handling charges at the time the products are delivered to or picked up by the customer.  The Company estimates product returns based on historical return rates.  The majority of the Company's contracts have a single performance obligation and are short term in nature. The Company recognizes revenue for its usage based royalties when the usage has occurred. 
+
+5 
+
+     Table of Contents  
+
+Sales taxes and value added taxes in foreign jurisdictions that are collected from customers and remitted to governmental authorities are accounted for on a net basis and therefore excluded from the transaction price and net sales.  
+    
+  Recent Accounting Pronouncements 
+  In February 2016, the FASB issued ASU 2016-2,   Leases (Topic 842)  . ASU 2016-2 requires the recognition of lease assets and lease liabilities by lessees for those leases classified as operating leases under previous U.S. generally accepted accounting principles. It is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. Early adoption is permitted. Entities are required to recognize and measure leases at the beginning of the earliest period presented using a modified retrospective approach. The Company is evaluating the impact of adoption of ASU 2016-2 on its consolidated financial statements. 
+    
+  In July 2017, the FASB issued ASU 2017-11,   Earnings Per Share (Topic 260), Distinguishing Liabilities from Equity (Topic 480), Derivatives and Hedging (Topic 815).   The amendments in Part I of this Update change the classification analysis of certain equity-linked financial instruments (or embedded features) with down round features. The amendments in Part II of this Update recharacterize the indefinite deferral of certain provisions of Topic 480 that now are presented as pending content in the Codification, to a scope exception. Those amendments do not have an accounting effect. For public business entities, the amendments in Part I of this Update are effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2018. Early adoption is permitted for all entities, including adoption in an interim period. If an entity early adopts the amendments in an interim period, any adjustments should be reflected as of the beginning of the fiscal year that includes that interim period. The Company is currently evaluating the impact that ASU 2017-11 will have on its consolidated financial statements.  
+
+4.                    Inventories 
+    
+  Inventories consists of the following (in thousands): 
+
+5.                    Intangible Assets 
+    
+  Intangible assets consist of the following (in thousands): 
+
+The Company recorded amortization expense related to amortizable intangible assets of less than   $0.1 million   and   $0.1 million   during the three months ended   June 30, 2018   and   2017  , respectively and approximately   $0.1 million   and   $0.2 million   for the six months ended   June 30, 2018   and   2017  , respectively 
+    
+  Estimated amortization expense for each of the next five years is as follows (in thousands): 
+  
+   6 
+
+     Table of Contents  
+
+6.                    Accrued Expenses and Other Current Liabilities 
+    
+  Accrued expenses and other current liabilities consist of the following (in thousands): 
+
+(1) 
+    For additional information, refer to Note 7,  Severance and Other Charges . 
+              (2) 
+    For additional information, refer to Note 8,  Accrued Warranty . 
+              (3) 
+    For additional information, refer to Note 9,  Warrants  and Note 10,  Fair Value Measurements . 
+
+7.                    Severance and Other Charges 
+    
+  Severance and other charges consist of employee severance expense and lease exit costs, and the following summarizes the activity (in thousands): 
+
+During 2016, the Company accrued severance and lease exit costs associated with its manufacturing facility in Canada and other North American locations.  During 2017, the Company incurred severance charges related to the sale of its DuraFit business as well as the contraction in its operations team in response to the permanent decrease in sales to Honda.  
+   
+  8.                    Accrued Warranty 
+    
+  The Company establishes reserves for future product warranty costs that are expected to be incurred pursuant to specific warranty provisions with its customers. The Company generally warrants its products against defects between   one   and   five years   from date of shipment, depending on the product. The warranty reserves are established at the time of sale and updated  
+  
+   7 
+
+     Table of Contents  
+
+throughout the warranty period based upon numerous factors including historical warranty return rates and expenses over various warranty periods. Historically, warranty returns have not been material. 
+    
+  The following summarizes the activity in the Company s accrual for product warranty (in thousands): 
+
+At   June 30, 2018   and   December 31, 2017  , the balance of accrued warranty was recorded in accrued expenses and other liabilities in the condensed consolidated balance sheet.   
+
+9.             Warrants 
+    
+  Warrants outstanding and exercisable are summarized as follows: 
+
+(1) Outstanding and exercisable information includes   15,000   equity-classified warrants. 
+    
+  Warrant Liability 
+  The Company's warrant liability is carried at fair value and is classified as Level 3 in the fair value hierarchy because the warrants are valued based on unobservable inputs. 
+  The Company determines the fair value of its warrant liability using the Black-Scholes option-pricing model unless the awards are subject to market conditions, in which case it uses a Monte Carlo simulation model, which utilizes multiple input variables to estimate the probability that market conditions will be achieved. These models are dependent on several variables such as the instrument's expected term, expected strike price, expected risk-free interest rate over the expected term of the instrument, expected dividend yield rate over the expected term and the expected volatility. The expected strike price for warrants with full-ratchet down-round price protection is based on a weighted average probability analysis of the strike price changes expected during the term as a result of the full-ratchet down-round price protection. 
+  The assumptions used in the Black-Scholes option-pricing model to estimate the fair value of the warrant liability as of   June 30, 2018   were as follows:   
+
+8 
+
+     Table of Contents  
+
+The assumptions used in the Monte Carlo simulation model to estimate the fair value of the warrant liability as of   June 30, 2018   were as follows:   
+
+  The warrant liability, included in accrued expenses and other current liabilities in the accompanying consolidated balance sheets, is re-measured at the end of each reporting period with changes in fair value recognized in other income (expense), net in the consolidated statements of comprehensive loss. Upon the exercise of a warrant that is classified as a liability, the fair value of the warrant exercised is re-measured on the exercise date and reclassified from warrant liability to additional paid-in capital.  
+
+10.             Fair Value Measurements 
+    
+  The Company measures certain financial assets and liabilities at fair value in accordance with a hierarchy which requires an entity to maximize the use of observable inputs which reflect market data obtained from independent sources and minimize the use of unobservable inputs. There are three levels of inputs that may be used to measure fair value: 
+    
+  Level 1: Quoted prices (unadjusted) in active markets for identical assets or liabilities; 
+    
+  Level 2: Inputs other than quoted prices included within Level 1 that are either directly or indirectly observable including quoted prices for similar instruments in active markets and quoted prices for identical or similar instruments in markets that are not active; and 
+    
+  Level 3: Unobservable inputs in which little or no market activity exists, therefore requiring an entity to develop its own assumptions about the assumptions that market participants would use in pricing. 
+    
+  Assets and liabilities measured at fair value on the Company s balance sheet on a recurring basis include the following at   June 30, 2018   and   December 31, 2017   (in thousands): 
+
+There were   no   transfers in or out of Level 1, Level 2 or Level 3 fair value measurements during the   six   months ended   June 30, 2018  . 
+    
+  The following is a reconciliation of the warrant liability, included in accrued expenses and other current liabilities in the accompanying unaudited condensed consolidated balance sheets, measured at fair value using Level 3 inputs (in thousands): 
+
+The fair values of the Company s cash, accounts receivable, prepaid expenses and other current assets, accounts payable and accrued expenses and other current liabilities approximate carrying values due to the short maturity of these instruments.  
+    
+  The Company s assessment of the significance of a particular input to the fair value measurement requires judgment and may affect the valuation of assets and liabilities and their placement within the fair value hierarchy.  
+
+11. Loss per Share 
+    
+  Basic net loss per share is computed using the weighted average number of common shares outstanding during the period. Diluted net loss per share is computed using the weighted average number of common shares plus potentially dilutive common shares. Potentially dilutive common shares include employee stock options and restricted share units and warrants and debt that are convertible into the Company s common stock. 
+    
+  Because the Company incurred net losses in the   three and six   months ended   June 30, 2018   and 2017, the effect of potentially dilutive securities has been excluded in the computation of diluted loss per share as their impact would be anti-dilutive. Potentially dilutive common stock equivalents excluded were   1.9 million   and   2.1 million   shares during the   three and six   months ended   June 30, 2018   and 2017, respectively.  
+
+12.             Commitments and Contingencies 
+    
+  The Company leases facilities under non-cancellable operating leases. The leases expire at various dates through fiscal 2018 and frequently include renewal provisions for varying periods of time, provisions which require us to pay taxes, insurance and  
+  
+   9 
+
+     Table of Contents  
+
+maintenance costs, and provisions for minimum rent increases. Minimum lease payments, including scheduled rent increases are recognized as rent expense on a straight-line basis over the term of the lease. 
+    
+  Litigation 
+    
+  The Company is involved in legal proceedings from time to time in the ordinary course of its business. Management does not believe that any of these claims and proceedings against it is likely to have, individually or in the aggregate, a material adverse effect on the Company s condensed consolidated financial condition, results of operations or cash flows. Accordingly, the Company cannot determine the final amount, if any, of its liability beyond the amount accrued in the unaudited condensed consolidated financial statements as of   June 30, 2018  , nor is it possible to estimate what litigation-related costs will be in the future. 
+  Applied Utility Systems, Inc. 
+  The Company is undergoing a sales and use tax audit by the State of California (the "State") with respect to Applied Utility Systems, Inc., a former subsidiary of the Company that was sold in 2009, for the period of 2007 through 2009. The audit has identified a project performed by the Company during that time period for which sales tax was not collected and remitted and for which the State asserts that proper documentation of resale may not have been obtained and that the Company owes sales tax of   $1.5 million  , inclusive of interest. The Company contends and believes that it received sufficient and proper documentation from its customer to support not collecting and remitting sales tax from that customer and is actively disputing the audit report with the State. On August 12, 2013, the Company appeared at an appeals conference with the State Board of Equalization ("BOE"). On July 21, 2014, the Company received a Decision and Recommendation ("D R") from the BOE. The D R's conclusion was that the basis for the calculation of the aforementioned   $1.5 million   tax due should be reduced from   $12.2 million   to   $9.0 million   with a commensurate reduction in the tax owed to the State. Regardless of this finding, the Company continues to believe that it will prevail in this matter, as it believes that the State did not adequately address the legal arguments related to the Company's acceptance of the valid resale certificate from its customer. The Company has not agreed to these findings, and therefore, it will be appealing at a higher level at the BOE. Based on a re-audit, the BOE lowered the tax due to   $0.9 million  , inclusive of interest. The Company continues to disagree with these findings based on the aforementioned reasons. However, in October 2015, the Company offered to settle this case for   $0.1 million  , which is based on the expected cost of continuing to contest this audit. Accordingly, an accrual was charged to discontinued operations during the year ended December 31, 2015 to reflect the offer to settle this case. Should the Company not prevail with the offer to settle this case, it plans to continue with the appeals process. Further, should the Company not prevail in this case, it will pursue reimbursement from the customer for all assessments from the State. 
+   
+  13.             Geographic Information 
+    
+  Net sales by geographic region based on the location of the customer is as follows (in thousands): 
+
+14. Concentrations 
+  For the three months ended June 30, 2018, one customer accounted for approximately   10%   of the Company's revenues. For all other period presented, no customer accounted for more than 10% of the Company's revenues.  
+  For the three months ended June 30, 2018, the Company had two suppliers that accounted for approximately   43%   and   11%   of the Company's material purchases.  For the three months ended June 30, 2017, the Company had three suppliers that accounted for approximately   35%  ,   15%   and   14%   of the Company's material purchases.  
+  
+   10 
+
+     Table of Contents  
+
+For the six months ended June 30, 2018, the Company had two suppliers that accounted for approximately   56%  , and   10%   of the Company's material purchases.  For the six months ended June 30, 2017, the Company had three suppliers that accounted for approximately   28%  ,   14%   and   11%   of the Company's material purchases.  
+
+15. Discontinued Operations 
+    
+  The Coated Catalyst operations are presented below as discontinued operations. The following table presents the major classes of assets and liabilities of discontinued operations in the consolidated balance sheets as of June 30, 2018 and December 31, 2017 (in thousands). 
+
+The following table presents revenue and expense information for discontinued operations for the three and six months ended June 30, 2018 and 2017 (in thousands). 
+
+16. Subsequent Events 
+  On July 25, 2018, the Company issued and sold an aggregate of   4,427,563   shares of its common stock at the subscription price of   $0.50   per share, pursuant to a rights offering to its existing stockholders.  The Company received aggregate gross proceeds of approximately   $2.2 million   from the rights offering before deducting offering expenses. 
+
+Item 2.  Management s Discussion and Analysis of Financial Condition and Results of Operations 
+    
+  The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our unaudited condensed consolidated financial statements and related notes thereto included elsewhere in this Quarterly Report on Form 10-Q.     This Quarterly Report on Form 10-Q should also be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended   December 31, 2017  . 
+    
+  As used in this Quarterly Report on Form 10-Q, the terms  CDTi  or the  Company  or  we,   our  and  us  refer to CDTi Advanced Materials, Inc. and its consolidated subsidiaries. 
+    
+  In addition, this Quarterly     Report on Form 10-Q     contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, adopted pursuant to the Private Securities Litigation Reform Act of 1995. Forward-looking statements involve risks and uncertainties, as well as assumptions, which could cause our results to differ materially from those expressed or implied by such forward-looking statements. Forward-looking statements generally are identified by the words  may,   will,   project,   might,   expects,   anticipates,   believes,   intends,   estimates,   should,   could,   would,   strategy,   plan,   continue,   pursue,  or the negative of these words or other words or expressions of similar meaning. All statements, other than statements of historical fact, are statements that could be deemed forward-looking statements.     These forward-looking statements are based on information available to us, are current only as of the date on which the statements are made, and are subject to numerous risks and uncertainties that could cause our actual results, performance, prospects or opportunities to differ materially from those expressed in, or implied by, the forward-looking statements. For examples of such risks and uncertainties, please refer to the discussion under the caption  Risk Factors  contained in this Quarterly Report on Form 10-Q and in our Annual Report on Form 10-K for the year ended   December 31, 2017   filed with     the Securities and Exchange Commission (the  SEC ) on April 2, 2018 and our other filings with the SEC. 
+    
+  You should not place undue reliance on any forward-looking statements. Except as otherwise required by federal securities laws, we undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events, changed circumstances or any other reason. If we do update one or more forward-looking statements, no inference should be drawn that we will make additional updates with respect to other forward-looking statements. 
+
+Overview 
+    
+  The Company is a leading provider of technology and solutions to the automotive emissions control markets.  We possess market leading expertise in emissions catalyst design and engineering for automotive and off-road applications.  In particular, we have a proven ability to develop proprietary materials incorporating various base metals that replace costly platinum group metals ("PGM") and rare earth metals in coatings on vehicle catalytic converters. Our business is driven by increasingly stringent global emission standards for internal combustion engines, which are major sources of a variety of harmful pollutants. 
+  We deliver our catalyst technology through the supply of materials and technology used in the catalyst coating process, as well as finished products such as coated substrates and emission control systems. We supply our proprietary catalyst technologies to catalyst manufacturers, vehicle and equipment manufacturers, integrators and retrofitters.  
+  Over the past decade, we have developed and produced several generations of high performance catalysts for automotive and off-road applications. Prior to our exit of our coated catalyst operations, we produced coated substrates for exhaust system manufacturers, as well as for integration in exhaust systems by third-party manufacturers. Over the last two years we have developed the ability to deliver our catalyst technology to other catalyst manufacturers in the form of functional powders or material systems. Most catalytic systems require significant amounts of costly PGMs to operate effectively. Our material systems, featuring inexpensive base-metals with low PGM content deliver like or better performance than competing higher-PGM catalysts. 
+  The ability to supply our technology to other market participants has vastly expanded the addressable market for our products and allowed us to redeploy resources that were previously invested in capital intensive catalyst manufacturing activities.   
+  
+   11 
+
+     Table of Contents  
+
+During 2017, we completed manufacturing commitments to Honda for production catalysts and sold our DuraFit product line.  These initiatives completed our repositioning as a supplier of materials and technology to the global catalyst market. 
+    
+  Discontinued operations 
+    
+  We have completed manufacturing commitments to Honda for production catalysts.  In line with our strategy to provide our catalyst technology to other catalyst manufacturers in the form of functional powders or material systems, we will no longer sell coated catalysts and have exited our Coated Catalyst business. 
+  Our exit of the Coated Catalyst business qualifies as discontinued operations and therefore has been presented as such for all reporting periods. Results of discontinued operations include all revenues and expenses directly derived from such businesses; general corporate overhead is not allocated to discontinued operations.  The Company also presents cash flows from discontinued operations separately from cash flows of continuing operations. 
+  All discussions and amounts in the consolidated financial statements and related notes for all periods presented relate to continuing operations only, unless otherwise noted. 
+    
+  Strategy 
+  Over more than twenty years, we have developed the emissions control technology and manufacturing know-how to allow us to progress to delivering enabling technology for manufacturers serving the emissions catalyst market. The ability to deliver our advanced materials to other catalyst producers as functional powders allows us to achieve greater scale and higher return on our technology investment than would be possible as a manufacturer of emission control systems.  The strategy to provide our technology to other manufacturers has significantly increased the size of our addressable market and provides access to markets that would not be achievable as a catalyst producer.  In the short term, we are focusing our efforts and resources by pursuing opportunities in fast growing markets in China and India, as well as North America, where we believe that we can rapidly leverage our technology provider business model. 
+  China remains the world s single largest automotive market with more than 29 million vehicles sold in 2017 and offers significant opportunity for CDTi products.  There is an extensive emission control systems supply chain serving domestic and international automobile manufacturers in China.  Somewhat unique to China, there are many domestic catalyst manufacturers serving the automotive market in competition with the large global catalyst producers.  This segment of the market requires technology and know-how to adhere to increasingly stringent emissions standards and to deliver competitively priced catalysts.  In addition, there is significant pressure for the Chinese automotive market to address increasing air pollution, an issue that has escalated to become a matter of public policy.  We believe these factors provide a highly favorable environment for our products and technology. 
+  Air quality is also an important market driver in India where annual vehicle production was over 4.4 million in 2017 with an additional 21 million two and three wheel vehicles also produced. India has a number of domestic vehicle manufacturers that are served by both global and local catalyst manufacturers.  There is significant opportunity to provide enabling technology to domestic catalyst producers with the appropriate manufacturing expertise.   
+  In support of this strategy, we have filed approximately 228 patents that underpin next-generation technology for our advanced zero-PGM or ZPGM and low-PGM catalysts, and from 2015 and 2016, we completed an initial series of vehicle tests to validate our next-generation technologies. Based on the success of these tests, we are beginning to make our new catalyst technologies available to OEMs, catalyst coaters and other participants in the emission reduction supply chain for use in proprietary powder form, and we foresee multiple paths to market our new technologies. 
+    
+  Financial Overview 
+  For the three months ended June 30, 2018 revenues were   $2.4 million  , a decrease of approximately   $1.1 million   from the prior year primarily due to the sale of our DuraFit business in 2017 and loss from continuing operations was   $1.2 million   compared to a loss of   $0.9 million   from the prior year. In the second quarter of 2017, we reached an agreement with the property owner of our former Canadian facility to exit our lease prior to its December 2018 termination resulting in a reduction of the liability for the remaining estimated costs related to the closed facility. 
+  For the six months ended June 30, 2018 revenues were   $4.6 million  , a decrease of approximately   $2.8 million   from the prior year largely attributable to the sale of DuraFit, and loss from continuing operations was   $2.3 million   compared to a loss of   $4.1 million   from the prior year period, primarily due to lower operating expenses resulting from cost cutting measure to support our powder strategy and decreased costs due to the sale of DuraFit.  
+  
+   12 
+
+     Table of Contents  
+
+During the third quarter of 2017, we sold substantially all of the assets of our DuraFit and private label OEM replacement DPF and DOC business.  As of the second quarter of 2018, we have completed manufacturing commitments to Honda for production catalysts.  In line with our strategy to provide our catalyst technology to other catalyst manufacturers in the form of functional powders or material systems, we will no longer sell coated catalysts and have exited our Coated Catalyst business. 
+  We have substantially completed the final step in facilitating our transformation into a provider of enabling technology to the emissions catalyst market.  Our advanced materials model streamlines our infrastructure, supports higher margins and improves profitability. While we will begin with less revenue than under our previous model, we expect to drive growth in our new powder-to-coat business as we exit 2018 and into 2019 by providing technology to our manufacturing partners in the U.S., China, India and Europe and to OEMs around the world.  
+  Net cash used in continuing operations was   $1.8 million   for the   six   months ended   June 30, 2018  . 
+  Critical Accounting Policies and Estimates 
+    
+  The preparation of financial statements in conformity with U.S. generally accepted accounting principles requires the use of estimates and assumptions that affect the reported amounts of assets and liabilities, revenues and expenses, and related disclosures in the financial statements. Critical accounting policies are those accounting policies that may be material due to the levels of subjectivity and judgment necessary to account for highly uncertain matters or the susceptibility of such matters to change, and that have a material impact on financial condition or operating performance. While we base our estimates and judgments on our experience and on various other factors that we believe to be reasonable under the circumstances, actual results may differ from these estimates under different assumptions or conditions. 
+    
+  We believe that the assumptions, judgments and estimates involved in the accounting for revenue recognition, allowance for doubtful accounts, inventory valuation, product warranty reserves, accounting for income taxes, impairment of long-lived assets other than goodwill, stock-based compensation and liability-classified warrants have the greatest potential impact on our unaudited condensed consolidated financial statements. Please refer to Management s Discussion and Analysis of Financial Condition and Results of Operations contained in Part II, Item 7 of our Annual Report on Form 10-K for the year ended   December 31, 2017   for a more complete discussion of our critical accounting policies and estimates. 
+    
+  Impact of Recent Accounting Pronouncements 
+    
+  For information with respect to recent accounting pronouncements and the impact of these pronouncements see Note 3,  Summary of Significant Accounting Policies   Recent Accounting Pronouncements  in the accompanying notes to the unaudited condensed consolidated financial statements. 
+
+Results of Operations 
+    
+  Comparison of   Three and Six   Months Ended   June 30, 2018   and   2017    
+  (Amounts in tables in thousands, except percentages) 
+    
+     Revenues 
+
+13 
+
+     Table of Contents  
+
+Emission control systems revenues are generated from the sale of products in our extensive line of heavy duty diesel aftertreatment systems for retrofit and aftermarket applications including the Purafilter  brand.  In September 2017, we sold our DuraFit product line; however, we continue to provide technology and materials to aftermarket participants. Technology and advanced materials revenues included licenses and royalties, as well as sales of our advanced materials platform.  
+    
+  Emissions control systems revenue decreased for the three months ended   June 30, 2018   primarily due to the sale of the DuraFit product line.  Technology and advanced materials revenues increased for the three months ended   June 30, 2018   primarily due to an increase in royalty payments under our licensing agreements. We anticipate a reduction in royalty payments in 2018 due to the expiration of certain patents.  
+    
+  Emissions control systems revenue decreased for the six months ended   June 30, 2018   primarily due to the sale of the DuraFit product line.  Technology and advanced materials revenues increased for the six months ended   June 30, 2018   primarily due to an increase in royalty payments under our licensing agreements. We anticipate a reduction in royalty payments in 2018 due to the expiration of certain patents 
+    
+  Cost of revenues 
+
+Cost of revenues includes the costs of materials and assembly labor, as well as assembly services, and labor and overhead costs associated with manufacturing and product procurement, planning and quality assurance. Our cost of revenues is affected by various factors, including product mix, volume, and provisions for excess and obsolete inventories, materials, labor and overhead costs, as well as manufacturing efficiencies. Our cost of revenues as a percentage of revenues is affected by these factors, as well as customer mix, volume, pricing and competitive pricing programs. 
+    
+  The increase in cost of revenues as a percentage of revenue for the three months ended   June 30, 2018   is primarily driven by the impact of overhead across lower revenues as compared to the same period in the prior year. 
+    
+  The decrease in cost of revenues as a percentage of revenue for the six months ended   June 30, 2018   is primarily driven by favorable revenue mix as compared to the same period in the prior year including the absence of DuraFit sales in 2018. 
+    
+  Operating expenses 
+  
+   14 
+
+     Table of Contents  
+
+Research and development expenses consist primarily of compensation expense for employees and contractors engaged in research, design and development activities, as well as costs paid to outside parties for testing, validation and certification of our products  .    We also incur legal fees specific to the acquisition and maintenance of our patents. Selling, general and administrative expenses consist primarily of compensation expense, legal and professional fees, facilities expenses, and communication expenses.   
+    
+  Research and development expenses 
+    
+  The decrease in research and development expenses for the three and   six   months ended   June 30, 2018  , as compared to the same periods in the prior year is primarily a result of decreases in headcount, the timing of legal expenses related to the filing and maintenance of our patent portfolio, and the cost of supplies to support our research programs. 
+    
+  Selling, general and administrative expenses 
+    
+  The decrease in selling, general and administrative costs in the three and   six   months ended   June 30, 2018  , as compared to the same periods in the prior year, was primarily due to decreased sales and support staff resulting from the sale of our DuraFit product line, as well as cost saving measures around professional fees and consulting costs.   
+    
+  Severance and other charges 
+    
+  In the second quarter of 2017, we reached an agreement with the property owner of our former Canadian facility to exit our lease prior to its December 2018 termination. Severance and other charges reflect the reduction of the liability for the remaining estimated costs related to the closed facility. 
+    
+  Other income (expense) 
+
+15 
+
+     Table of Contents  
+
+* Percentage not meaningful 
+
+* Percentage not meaningful 
+    
+  For the three and   six   months ended   June 30, 2018  , we recognized other income versus other expense primarily due to the gain recognized on the remeasurement of liability-classified warrants and the elimination of interest expense subsequent to the pay off of our outstanding debt in 2017.  The six months ended June 30, 2017 also included loss on extinguishment of debt. 
+    
+  Income Tax Expense (Benefit) 
+    
+  ASC 740,   Income Taxes   requires that a valuation allowance be established when it is      more likely than not      that all or a portion of deferred tax assets will not be realized. A review of all available positive and negative evidence needs to be considered, including the company's performance, the market environment in which the company operates, the utilization of past tax credits, length of carryback and carryforward periods, existing contracts, and unsettled circumstances that, if unfavorably resolved, would adversely affect future operations and profit levels in the future years. Based on the available evidence, the Company continues to conclude that its deferred tax assets are not realizable on a more-likely-than-not basis. 
+    
+  On December 22, 2017, the SEC staff issued Staff Accounting Bulletin ( SAB ) No. 118, which provides guidance on accounting for the tax effects of the 2017 Tax Cuts and Jobs Act ("TCJA"). The purpose of SAB No. 118 was to address any uncertainty or diversity of view in applying ASC 740 in the reporting period in which the TCJA was enacted. SAB No. 118 addresses situations where the accounting is incomplete for certain income tax effects of the TJCA upon issuance of a company s financial statements for the reporting period that includes the enactment date. SAB No. 118 allows for a provisional amount to be recorded if it is a reasonable estimate of the impact of the TCJA. Additionally, SAB No. 118 allows for a measurement period to finalize the impacts of the TCJA, not to extend beyond one year from the date of enactment. 
+    
+  The company s accounting for the certain elements of the TCJA was incomplete as of the period ended December 31, 2017, and remains incomplete as of   June 30, 2018  . However, we were able to make reasonable estimates of the effects and, therefore, recorded provisional estimates for these items. 
+    
+  We incurred income tax expense of approximately   $0.7 million   in the three and six months ended   June 30, 2018  .  For the three and six months ended June 30, 2017, we incurred income tax expense of approximately   $0.2 million  . The effective income tax rates were approximately   91.8%   and   46.5%   for the three and six months ended   June 30, 2018  , respectively. The effective income tax rates were approximately   20.8%   and   3.5%   for the three and six months ended June 30, 2017. The increase in income tax expense relates to the write-off of the remaining deferred tax asset upon dissolution of Canadian entity. For interim income tax reporting, we estimate our annual effective tax rate and apply it to our year-to-date pre-tax loss. Tax jurisdictions with a projected or year-to-date loss for which a tax benefit cannot be realized are excluded from the annualized effective tax rate. The difference between our effective tax rate and the U.S. statutory tax rate is primarily related to the valuation allowance offsetting the deferred tax assets in both the U.S. and United Kingdom jurisdictions as well as to a foreign tax rate differential related to Sweden and Canada. 
+
+Liquidity and Capital Resources 
+    
+  Historically, the revenue that we have generated has not been sufficient to fund our operating requirements and debt servicing needs. Notably, we have suffered recurring losses since inception. As of   June 30, 2018  , we had an accumulated deficit of   $230.6 million   compared to   $228.3 million   at   December 31, 2017  . We have also had negative cash flows from operations from  
+  
+   16 
+
+     Table of Contents  
+
+inception. Our primary sources of liquidity in recent years have been asset sales, credit facilities and other borrowings and equity sales. 
+    
+  We had   $1.8 million   in cash at   June 30, 2018   compared to   $2.8 million   at   December 31, 2017  . At   June 30, 2018  ,   $0.4 million   of our cash was held by foreign subsidiaries in Sweden and the United Kingdom.  If we decide to repatriate unremitted foreign earnings in the future, it could have negative tax implications. 
+     
+  On May 19, 2015, we filed a shelf registration statement on Form S-3 with the SEC, which was declared effective on November 17, 2015. Shelf registration statements are intended to provide us with additional flexibility to access capital markets for general corporate purposes, subject to market conditions and our capital needs.  The Form S-3 permits us to sell in one or more registered transactions up to an aggregate of $50.0 million of various securities not to exceed one-third of our public float in any 12-month period.  At   June 30, 2018  , we had sold an aggregate of $3.1 million using the Form S-3.  In July 2018, we sold approximately $2.2 million of common stock in a rights offering to existing shareholders utilizing the Form S-3. 
+    
+  Based on our current cash levels and our current and anticipated usage of cash resources, we will require additional financing in the form of funding from outside sources during the first quarter of 2019. We will evaluate the amount of cash needed, and the manner in which such cash will be raised, on an ongoing basis.  Our continuation as a going concern is dependent upon our ability to obtain adequate additional financing, including financing from equity sales. As a result there is substantial doubt as to whether our existing cash resources and working capital are sufficient to enable us to continue operations within one year from the financial statement issuance date. If necessary, we will seek to raise additional capital from the sale of equity securities or the increase of indebtedness. There can be no assurance that additional financing will be available to us on acceptable terms, or at all. Additionally, if we issue additional equity securities to raise funds, whether to potential customers or other investors, the ownership percentage of our existing stockholders would be reduced.  New investors may demand rights, preferences or privileges senior to those of existing holders of common stock.  Additionally, we may be limited as to the amount of funds we can raise pursuant to SEC rules and the continued listing requirements of The NASDAQ Stock Market LLC (NASDAQ).  Presently, we are not in compliance with continued listing requirements of NASDAQ, as discussed in   Part II - Item 1A. Risk Factors   of this quarterly report, and our common stock is at risk of being delisted from The NASDAQ Capital Market.  If we cannot raise needed funds, we might be forced to license or liquidate our assets, significantly curtail or cease our operations and/or seek reorganization under the U.S. Bankruptcy Code, which would adversely affect our ability to implement our business plan and ultimately our viability as a company. These consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or amounts and classification of liabilities that might result from this uncertainty. 
+    
+  If we cannot raise needed funds, we might be forced to make substantial reductions in our operating expenses, which could adversely affect our ability to implement our business plan and ultimately our viability as a company. These consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or amounts and classification of liabilities that might result from this uncertainty. 
+    
+  The following table summarizes our cash flows for the periods indicated. 
+
+* Percentage not meaningful 
+    
+  Cash from operating activities 
+    
+  Our largest source of operating cash flows is cash collections from our customers following the sale of our products and services. Our primary uses of cash for operating activities are for purchasing inventory in support of the products that we sell, personnel related expenditures, facilities costs and payments for general operating matters. During the six months ended   June 30, 2018  , cash used in continuing operations was   $1.8 million  . Cash flows were largely impacted by the loss from  
+  
+   17 
+
+     Table of Contents  
+
+operations, adjusted for non-cash items, including depreciation and amortization, stock-based compensation, change in the fair value of the liability-classified warrants as well as the net effect of changes in net working capital and other balance sheet accounts.   These changes include decreases in operating cash flows associated with higher accounts receivable.  This decrease was partially offset by a decrease in our inventory balances.  
+    
+  Cash from investing activities 
+    
+  Cash provided by investing activities was   $27.0 thousand   for the six months ended   June 30, 2018   and related to the sale of fixed assets. There was no investing-related cash flow activity for the six months ended   June 30, 2017  . 
+    
+  Cash from by financing activities 
+    
+  There was no financing-related cash flow activity for the six months ended   June 30, 2018  .  Cash used in financing activities for was due to a   $2.7 million   repayment of outstanding debt as well as net payments under our demand line of credit during the six months ended   June 30, 2017  .  
+    
+  Capital Expenditures 
+    
+  As of   June 30, 2018  , we had no material commitments for capital expenditures and no material commitments are anticipated in the near future. 
+    
+  Off-Balance Sheet Arrangements 
+    
+  As of   June 30, 2018   and   December 31, 2017  , we had no off-balance sheet arrangements. 
+    
+  Commitments and Contingencies 
+    
+  As of   June 30, 2018  , other than office leases, we had no material commitments other than the liabilities reflected in our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. For additional information, refer to Note 12,  Commitments and Contingencies . 
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk 
+    
+  Not applicable.  
+
+Item 4.  Controls and Procedures 
+    
+  Disclosure Controls and Procedures  
+  We maintain disclosure controls and procedures that are designed to provide reasonable assurance that the information required to be disclosed in our filings under the Securities Exchange Act of 1934, as amended, or the Exchange Act, is (1) recorded, processed, summarized and reported within the time periods specified in SEC s rules and forms, and (2) accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow for timely decisions regarding required disclosure. 
+  Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our procedures or our internal controls will prevent or detect all errors and all fraud. Any internal control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of our controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. 
+  Evaluation of Disclosure Controls and Procedures 
+  As required by Rule 13a-15(b) of the Exchange Act, we carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and our Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the quarter covered by this report. Based on the foregoing, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were effective at the reasonable assurance level. 
+  Changes in Internal Control over Financial Reporting 
+  There has been no change in our internal control over financial reporting during our most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.  
+   
+  PART II OTHER INFORMATION 
+
+Item 1.           Legal Proceedings 
+    
+  Refer to Note 12,  Commitments and Contingencies  to the unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q, which is incorporated herein by reference. 
+
+Item 1A.        Risk Factors 
+
+18 
+
+     Table of Contents  
+
+This Quarterly Report on Form 10-Q contains forward-looking statements, which are subject to a variety of risks and uncertainties. Other actual results could differ materially from those anticipated in those forward-looking statements as a result of various factors, including those set forth in the risk factors relating to our business and common stock contained in Item 1A of our Annual Report on Form 10-K for the year ended   December 31, 2017  . There are no material changes to such risk factors during the six months ended June 30, 2018, except as follows: 
+    
+  We could be delisted from NASDAQ, which could seriously harm the liquidity of our stock and our ability to raise capital. 
+  During 2016, we received two separate notifications from the Listing Qualifications staff of The NASDAQ Stock Market LLC indicating that we no longer met the requirements to maintain a minimum bid price of $1 per share and a minimum stockholders  equity of $2.5 million.  We remedied both deficiencies by August 30, 2016 and regained compliance with NASDAQ s requirements for continued listing on the exchange. 
+  On May 10, 2018, we received a notification from the Listing Qualifications staff of The NASDAQ Stock Market LLC indicating that we no longer met the requirements to maintain a minimum bid price of $1.00 per share.  The notice has no immediate effect on the listing of our common stock, and our common stock will continue to trade on the NASDAQ Capital Market under the symbol  CDTI .  We have a period of 180 calendar days, or until November 6, 2018, to regain compliance with the minimum bid price requirement.  To regain compliance, the closing bid price of our common stock must meet or exceed $1.00 per share for at least ten consecutive business days during this 180-day period.  If we are not in compliance by November 6, 2018, we may be afforded a second 180 calendar day period to regain compliance.  To qualify, we would be required to meet the continued listing requirement for market value of publicly held shares and all other initial listing standards for The NASDAQ Capital Market except for the minimum bid price requirement.  In addition, we would be required to notify NASDAQ of our intent to cure the minimum bid price deficiency, which may include, if necessary, implementing a reverse stock split.  If we do not regain compliance within the allotted compliance period(s), including any extensions that may be granted by NASDAQ, NASDAQ will provide notice that our common stock will be subject to delisting.  We would then be entitled to appeal the NASDAQ staff s determination to a NASDAQ Hearings Panel and request a review of the delisting determination.  We intend to monitor the closing bid price of our common stock and consider our available options to resolve the noncompliance with the minimum bid price requirement.  No determination regarding our response has been made at this time.  There can be no assurance that we will be able to regain compliance with the minimum bid price requirement or will otherwise be in compliance with other NASDAQ listing criteria. 
+  The effects of losing the NASDAQ listing could materially harm our ability to raise capital, by, among other things, negatively affecting the market liquidity of our common stock.  Investors would likely find it more difficult to purchase, dispose of or obtain accurate quotations as to the market value of our common stock, and the price of our common stock may be adversely affected.  Delisting from NASDAQ could also result in negative publicity and a loss of confidence by investors, customers, suppliers or employees. 
+
+Item 2.           Unregistered Sales of Equity Securities and Use of Proceeds 
+    
+  None. 
+
+Item 3.           Defaults Upon Senior Securities 
+    
+  None. 
+
+Item 4.           Mine Safety Disclosures 
+    
+  Not applicable. 
+
+Item 5.           Other Information. 
+    
+  None. 
+
+19 
+
+Table of Contents  
+
+Item 6.           Exhibits 
+
+#      - 
+    The information in this exhibit is furnished and deemed not filed with the Securities and Exchange Commission for purposes of section 18 of the Exchange Act of 1934, as amended, and is not to be incorporated by reference into any filing of Registrant under the Securities Act of 1933, as amended, or the Exchange Act of 1934, as amended, whether made before or after the date hereof, regardless of any general incorporation language in such filing. 
+
+20 
+
+Table of Contents  
+
+SIGNATURES 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+CDTi ADVANCED MATERIALS, INC. 
+
+Date: 
+    August 14, 2018 
+    By: 
+    /s/ Matthew Beale 
+
+Matthew Beale 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: 
+    August 14, 2018 
+    By: 
+    /s/ Tracy Kern 
+
+Tracy Kern 
+
+Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+21 
+
+<EX-31.1>
+ 2
+ cdti-63018exhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  Certification of Principal Executive Officer Pursuant to Securities Exchange Act 
+    
+  Rules 13a-14(a) and 15d-14(a) As Adopted Pursuant 
+    
+  to Section 302 of the Sarbanes-Oxley Act of 2002 
+    
+  I, Matthew Beale, certify that: 
+    
+  1.                  I have reviewed this Quarterly Report on Form 10-Q (this  report ) of CDTi Advanced Materials, Inc. (the  registrant  
+    
+  2.                  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+    
+  3.                  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+    
+  4.                  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+    
+  a)                 Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+    
+  b)                 Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+    
+  c)                  Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; 
+    
+  d)                 Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+    
+  5.                  The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s Board of Directors (or persons performing the equivalent functions): 
+    
+  a)                 All significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+    
+  b)                 Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+    
+                   Date: August 14, 2018 
+    By: 
+    /s/ Matthew Beale 
+
+Matthew Beale 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ cdti-63018exhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  Certification of Principal Financial Officer Pursuant to Securities Exchange Act 
+    
+  Rules 13a-14(a) and 15d-14(a) As Adopted Pursuant 
+    
+  to Section 302 of the Sarbanes-Oxley Act of 2002 
+    
+  I, Tracy A. Kern, certify that: 
+    
+  1.                  I have reviewed this Quarterly Report on Form 10-Q (this  report ) of CDTi Advanced Materials, Inc. (the  registrant  
+    
+  2.                  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+    
+  3.                  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+    
+  4.                  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+    
+  a)                 Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+    
+  b)                 Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+    
+  c)                  Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; 
+    
+  d)                 Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+    
+  5.                  The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s Board of Directors (or persons performing the equivalent functions): 
+    
+  a)                 All significant deficiencies and material weaknesses in the design or operation of internal controls over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+    
+  b)                 Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+    
+                   Date: August 14, 2018 
+    By: 
+    /s/ Tracy A. Kern 
+
+Tracy A. Kern 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ cdti-63018exhibit321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+    
+  Certification of Principal Executive Officer and Principal Financial Officer 
+    
+  Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant 
+    
+  to Section 906 of the Sarbanes-Oxley Act of 2002 
+    
+  Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned, in their capacities as officers of CDTi Advanced Materials, Inc. (the  Registrant ), do each hereby certify, that, to the best of such officer s knowledge: 
+    
+  (1)             The Quarterly Report on Form 10-Q of the Registrant for the period ended   June 30, 2018   (the  Report ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+    
+  (2)             The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Registrant. 
+    
+                 /s/ Matthew Beale 
+      
+      Matthew Beale 
+      
+      Chief Executive Officer 
+      
+      (Principal Executive Officer) 
+      
+      August 14, 2018 
+
+/s/ Tracy A. Kern 
+      
+      Tracy A. Kern 
+      
+      Chief Financial Officer 
+      
+      (Principal Financial Officer) 
+      
+      August 14, 2018 
+
+The foregoing certification is being furnished solely pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, and is not being  filed  as part of the Form 10-Q or as a separate disclosure document for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the  Exchange Act ), or otherwise subject to liability under that section. This certification shall not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act except to the extent that this Exhibit 32 is expressly and specifically incorporated by reference in any such filing. 
+    
+  A signed original of this written statement required by Section 906 has been provided to the Registrant and will be retained by the Registrant and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ cdti-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ cdti-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ cdti-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ cdti-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ cdti-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ cdti-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

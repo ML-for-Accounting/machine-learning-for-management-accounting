@@ -1,0 +1,1281 @@
+STATES  
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+  Washington, D.C. 20549  
+
+FORM 10-Q  
+
+QUARTERLY REPORT UNDER SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the quarterly period ended: June 30,
+2018 
+
+TRANSITION REPORT UNDER SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the transition period from: 
+
+Commission file number: 000-53641 
+
+TRULI TECHNOLOGIES, INC  
+
+ (Exact name
+of registrant as specified in its charter) 
+
+Issuer s telephone number   (866)
+862-2979   
+
+(Former name, former address and former fiscal year, if changed since last report)   
+
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes      No   
+
+Indicate by check mark whether the registrant
+has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted
+and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter
+period than the registrant was required to submit and post such files). Yes      No   
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company, 
+and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer  
+         
+      Accelerated filer  
+
+Non-accelerated filer  
+        (Do not check if a smaller reporting company)  
+      Smaller reporting company  
+
+Emerging growth company  
+
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act.   
+
+Indicate by check mark whether the registrant is a shell company
+(as defined in Rule 12b-2 of the Act). Yes   No   
+
+As of August 14, 2018, the number of shares
+of the registrant s common stock outstanding was 131,554,197. 
+
+Page    
+
+number    
+ 
+       Part I -   
+       Financial Information   
+
+Item 1.  
+      Financial Statements (Unaudited)  
+     1  
+
+Condensed Consolidated Balance Sheets as of June 30, 2018 (unaudited) and March 31, 2018  
+     1  
+
+Unaudited Condensed Consolidated Statements of Operations for the three months ended June 30, 2018 and 2017  
+     2  
+
+Unaudited Condensed Consolidated Statements of Cash Flows for the three months ended June 30, 2018 and 2017  
+     3  
+
+Notes to Unaudited Condensed Consolidated Financial Statements  
+     4  
+
+Forward-Looking Statements  
+
+Item 2.  
+      Management s Discussion and Analysis of Financial Condition and Results of Operations  
+     11  
+ 
+      Item 3.  
+      Quantitative and Qualitative Disclosures About Market Risk  
+     14  
+ 
+      Item 4.  
+      Controls and Procedures  
+     14  
+
+Part II -   
+       Other Information   
+
+Item 1.  
+      Legal Proceedings  
+     15  
+ 
+      Item 1A.  
+      Risk Factors  
+     15  
+ 
+      Item 2.  
+      Unregistered Sales of Equity Securities and Use of Proceeds  
+     15  
+ 
+      Item 3.  
+      Defaults Upon Senior Securities  
+     15  
+ 
+      Item 4.  
+      Mine Safety Disclosures  
+     15  
+ 
+      Item 5.  
+      Other Information  
+     15  
+ 
+      Item 6.  
+      Exhibits  
+     16  
+
+Item 1.   
+       Financial Statements    
+
+Truli
+Technologies, Inc.   
+
+Condensed Consolidated Balance Sheets 
+
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements.  
+
+Truli
+Technologies, Inc.   
+
+Condensed Consolidated Statements of Operations 
+
+(Unaudited)  
+
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements.  
+
+Truli
+Technologies, Inc.   
+
+Condensed Consolidated Statements of Cash Flows 
+
+(Unaudited)  
+
+The
+accompanying footnotes are an integral part of these unaudited condensed consolidated financial statements.  
+
+TRULI
+TECHNOLOGIES, INC.   
+
+   NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+   JUNE
+30, 2018   
+
+   (Unaudited)   
+
+NOTE
+1   ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES   
+
+General   
+
+Truli Technologies, Inc., a Delaware corporation
+initially incorporated on July 28, 2008, (the  Company ) is a holding company based in Bristol, Connecticut. On June
+21, 2018, pursuant to shareholder approval, the Company changed its name to Truli Technologies, Inc. from Truli Media Group, Inc.
+Immediately following the October 30, 2017 closing of the License Agreement (the  License ) and issuance of preferred
+shares described below and in Note 2, Mr. Michael Solomon, our Founder and then a director of the Company, exercised his Option,
+granted to him in September 2016, to purchase the Company s subsidiary, Truli Media Corp ( TMC ) for $5,000.
+As a result, TMC is no longer a subsidiary of the Company. 
+
+On October 17, 2017, the Company formed
+a new, wholly-owned subsidiary, VocaWorks, Inc. ( VocaWorks ), a New Jersey corporation. 
+
+Prior to the exercise of the Option by
+Mr. Solomon to purchase TMC, the Company was focused on the on-demand media and social networking markets as an aggregator of family-friendly,
+faith-based Christian content, media, music and Internet Protocol Television ( IPTV ) programming. With the exercise
+of the Option by Mr. Solomon, the Company has exited those activities. 
+
+Effective October 30, 2017, the Company
+entered into a License with Recruiter.com, Inc., a Delaware corporation ( Recruiter ) under which Recruiter granted
+the Company s newly created subsidiary, VocaWorks, a license to use certain of Recruiter s proprietary software and
+related intellectual property. The Company is rebranding itself under the VocaWorks brand name and moving into the rapidly expanding
+field of online and mobile-enabled staffing and talent acquisition solutions through its entry into the License with Recruiter.
+VocaWorks will offer a native mobile iOS app solution, as well as a web-based SaaS platform offering and will facilitate the hiring
+of personnel, including project-based consultants, focusing initially on specialized technology talent. 
+
+Truli ,  our ,
+ us ,  we  or the  Company  refer to Truli Technologies, Inc. and its subsidiaries. The operations
+of TMC are included through the date of the exercise of the Option by Mr. Solomon. In discussing the business of the Company, we
+refer to the business now operated by VocaWorks except as otherwise made clear from the context. 
+
+From commencement of its former and current
+business operations through the date of these unaudited condensed consolidated financial statements, the Company has not generated
+any revenues and has incurred significant expenses. 
+
+The Company s operations are subject to all the risks and uncertainties inherent
+in the establishment of a new business enterprise, including failing to secure additional funding to carry out the Company s
+business plan. 
+
+Basis
+of Presentation   
+
+The
+accompanying condensed consolidated financial statements are unaudited. The unaudited interim financial statements have been prepared
+in accordance with accounting principles generally accepted in the United States ( GAAP ) and pursuant to the rules
+and regulations of the Securities and Exchange Commission (the  SEC ). Certain information and note disclosures
+normally included in annual consolidated financial statements prepared in accordance with GAAP have been condensed or omitted
+pursuant to those rules and regulations, although the Company believes that the disclosures made are adequate to make the information
+not misleading.  
+
+These interim financial statements as of
+and for the three months ended June 30, 2018 and 2017 are unaudited; however, in the opinion of management, such statements
+include all adjustments (consisting of normal recurring accruals) necessary to present fairly the financial position, results of
+operations and cash flows of the Company for the periods presented. The results for the three months ended June 30, 2018 are
+not necessarily indicative of the results to be expected for the year ending March 31, 2019 ( Fiscal 2019 ) or for
+any future period. All references to June 30, 2018 and 2017 in these footnotes are unaudited. 
+
+These unaudited condensed consolidated
+financial statements should be read in conjunction with our audited consolidated financial statements and the notes thereto for
+the year ended March 31, 2018, included in the Company s annual report on Form 10-K filed with the SEC on June
+29, 2018. 
+
+The condensed consolidated balance sheet
+as of March 31, 2018 has been derived from the audited consolidated financial statements at that date but does not include all
+disclosures required by GAAP. 
+
+Cash
+and Cash Equivalents   
+
+The
+Company considers all short-term highly liquid investments with a remaining maturity at the date of purchase of three months or
+less to be cash equivalents. Cash and cash equivalents are maintained at financial institutions and, at times, balances may exceed
+federally insured limits. The Company has not experienced any losses related to these balances.  
+
+Use
+of Estimates   
+
+The preparation of financial statements in
+conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities
+and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue
+and expenses during the reporting period.  Actual results could differ from those estimates. Included in these estimates
+are assumptions used to estimate useful lives of intangible assets, calculate the beneficial conversion feature of convertible
+notes payable and convertible preferred stock, deferred income tax asset valuation allowances, and valuation of derivative liabilities. 
+
+Income Taxes  
+
+The Company follows Accounting Standards
+Codification subtopic 740-10, Income Taxes for recording the provision for income taxes. Deferred tax assets and liabilities are
+computed based upon the difference between the financial statement and income tax basis of assets and liabilities using the enacted
+marginal tax rate applicable when the related asset or liability is expected to be realized or settled. Deferred income tax expense
+or benefits are based on the changes in the asset or liability during each period. If available evidence suggests that it is more
+likely than not that some portion or all of the deferred tax assets will not be realized, a valuation allowance is required to
+reduce the deferred tax assets to the amount that is more likely than not to be realized. Future changes in such valuation allowance
+are included in the provision for deferred income taxes in the period of change. Deferred income taxes may arise from temporary
+differences resulting from income and expense items reported for financial accounting and tax purposes in different periods. Deferred
+taxes are classified as current or non-current, depending on the classification of assets and liabilities to which they relate.
+Deferred taxes arising from temporary differences that are not related to an asset or liability are classified as current or non-current
+depending on the periods in which the temporary differences are expected to reverse and relate primarily to stock based compensation
+basis differences. As of June 30, 2018 and March 31, 2018, the Company has provided a 100% valuation against the deferred
+tax benefits.  
+
+Earnings (Loss) Per Share  
+
+The Company follows Accounting Standards
+Codification subtopic ASC 260, Earnings Per Share for calculating the basic and diluted earnings (loss) per share. Basic earnings
+(loss) per share are computed by dividing earnings (loss) available to common shareholders by the weighted-average number of common
+shares outstanding. Diluted earnings (loss) per share is computed similar to basic loss per share except that the denominator is
+increased to include the number of additional common shares that would have been outstanding if the potential common shares had
+been issued and if the additional common shares were dilutive. Common share equivalents are excluded from the diluted earnings
+(loss) per share computation if their effect is anti-dilutive. Common share equivalents of 497,039,750 and 108,895,440 were excluded
+from the computation of diluted earnings per share for the three months ended June 30, 2018 and 2017, respectively, because their
+effect is anti-dilutive. 
+
+Fair
+Value   
+
+Accounting Standards Codification subtopic
+825-10, Financial Instruments requires disclosure of the fair value of certain financial instruments. The carrying amount reported
+in the condensed consolidated balance sheet for accounts payable and accrued expenses and notes payable approximates fair value
+because of the immediate or short-term maturity of these financial instruments. 
+
+Convertible
+Instruments   
+
+The Company evaluates and accounts for
+conversion options embedded in its convertible instruments in accordance with Accounting Standards Codification subtopic 815, Derivatives
+and Hedging ( ASC 815 ). 
+
+Professional standards generally provides
+three criteria that, if met, require companies to bifurcate conversion options from their host instruments and account for them
+as free standing derivative financial instruments. These three criteria include circumstances in which (a) the economic characteristics
+and risks of the embedded derivative instrument are not clearly and closely related to the economic characteristics and risks
+of the host contract, (b) the hybrid instrument that embodies both the embedded derivative instrument and the host contract
+is not re-measured at fair value under otherwise applicable GAAP with changes in fair value reported in earnings as they occur
+and (c) a separate instrument with the same terms as the embedded derivative instrument would be considered a derivative
+instrument.  Professional standards also provide an exception to this rule when the host instrument is deemed to be
+conventional as defined under professional standards as  The Meaning of Conventional Convertible Debt Instrument . 
+
+The
+Company accounts for convertible instruments (when it has determined that the embedded conversion options should not be bifurcated
+from their host instruments) in accordance with professional standards when  Accounting for Convertible Securities with
+Beneficial Conversion Features,  as those professional standards pertain to  Certain Convertible Instruments. 
+Accordingly, the Company records, when necessary, discounts to convertible notes for the intrinsic value of conversion options
+embedded in debt instruments based upon the differences between the fair value of the underlying common stock at the commitment
+date of the note transaction and the effective conversion price embedded in the note. Debt discounts under these arrangements
+are amortized over the term of the related debt to their earliest date of redemption. The Company also records when necessary
+deemed dividends for the intrinsic value of conversion options embedded in preferred shares based upon the differences between
+the fair value of the underlying common stock at the commitment date of the preferred shares transaction and the effective conversion
+price embedded in the preferred shares.  
+
+ASC
+815-40 provides that, among other things, generally, if an event is not within the entity s control or could require net
+cash settlement, then the contract shall be classified as an asset or a liability.  
+
+Derivative
+Instruments   
+
+The
+Company s derivative financial instruments consist of embedded derivatives related to the convertible debt and conversion
+features embedded within our convertible debt. The accounting treatment of derivative financial instruments requires that we record
+the derivatives at their fair values as of the inception date of the debt agreements and at fair value as of each subsequent balance
+sheet date. Any change in fair value was recorded as non-operating, non-cash income or expense at each balance sheet date. If
+the fair value of the derivatives was higher at the subsequent balance sheet date, we recorded a non-operating, non-cash charge.
+If the fair value of the derivatives was lower at the subsequent balance sheet date, we recorded non-operating, non-cash income.  
+
+Stock-Based
+Compensation   
+
+The
+Company utilizes the Black-Scholes option-pricing model to determine fair value of options and warrants granted as stock-based
+compensation, which requires us to make judgments relating to the inputs required to be included in the model. In this regard,
+the expected volatility is based on the historical price volatility of the Company s common stock. The dividend yield represents
+the Company s anticipated cash dividend on common stock over the expected life of the stock options. The U.S. Treasury bill
+rate for the expected life of the stock options is utilized to determine the risk-free interest rate. The expected term of stock
+options represents the period of time the stock options granted are expected to be outstanding.  
+
+Intangible
+Assets   
+
+Intangible
+assets consist of the License and related software, website and iPhone App development costs. These costs will be amortized
+over their estimated economic lives once placed in service. The assets have not been placed in service as of June 30, 2018.  
+
+Recently
+Issued Accounting Pronouncements   
+
+With the exception of those discussed below,
+there have not been any recent changes in accounting pronouncements and Accounting Standards Update ( ASU ) issued
+by the Financial Accounting Standards Board ( FASB ) during the three months ended June 30, 2018 that are of significance
+or potential significance to the Company. 
+
+In June 2018, the FASB issued ASU 2018-07,
+ Compensation Stock Compensation (Topic 718) Improvements to Nonemployee Share-based Payment Accounting ,
+as a simplification for the accounting for nonemployee share-based payment transactions resulting from expanding the scope of Topic
+718, Compensation-Stock Compensation. This standard is effective for fiscal years beginning after December 15, 2018, with early
+adoption permitted. We are evaluating the impact that ASU 2018-07 may have on our consolidated financial statements. 
+
+In May 2017, the FASB issued ASU 2017-09,
+ Compensation   Stock Compensation (Topic 718): Scope of Modification Accounting , ( Topic 718 )
+which clarifies when to account for a change to the terms or conditions of a share-based payment award as a modification. Under
+the new guidance, modification accounting is required only if the fair value, the vesting conditions, or the classification of
+the award changes as a result of the change in terms or conditions. If an award is not probable of vesting at the time a change
+is made, the new guidance clarifies that no new measurement date will be required if there is no change to the fair value, vesting
+conditions, and classification. Topic 718 will be applied prospectively and is effective for fiscal years beginning after December
+15, 2017, and interim periods within those years, with early adoption permitted. The adoption of this standard did not have a material
+impact on the financial statements.  
+
+In February 2016, the FASB issued ASU
+No. 2016-02, Leases (Topic 842) ( Topic 842 ) to increase transparency and comparability among organizations by recognizing
+lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. Topic 842 affects
+any entity that enters into a lease, with some specified scope exemptions. The guidance in this update supersedes Topic 840, Leases.
+The core principle of Topic 842 is that a lessee should recognize the assets and liabilities that arise from leases. A lessee
+should recognize in the statement of financial position a liability to make lease payments (the lease liability) and a right-of-use
+asset representing its right to use the underlying asset for the lease term. For public companies, the amendments in this update
+are effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years, which would
+be the Company s fiscal year ending March 31, 2020. The Company does not expect the adoption of Topic 842 to have a material
+effect on its business, its financial position, results of operations or cash flows. 
+
+In
+October 2016, the FASB issued ASU 2016-16, Income Taxes (Topic 740): Intra-Entity Transfers of Assets Other Than Inventory ( Topic
+740 ), to improve and simplify the accounting for the income tax consequences of intra-entity transfers of assets other
+than inventory, requiring companies to recognize income tax consequences upon the transfer of the asset to a third party. Topic
+740 is effective for annual periods beginning after December 15, 2017, and interim periods within those annual periods, which
+would be the Company s fiscal year ending March 31, 2019. While the Company does not expect the adoption of Topic 740 to
+have a material effect on its business, the Company is still evaluating any potential impact that adoption of Topic 740 may have
+on its financial position, results of operations or cash flows. 
+
+In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers (Topic 606) ( Topic
+606 ) which amended the existing accounting standards for revenue recognition. Topic 606 establishes principles for recognizing
+revenue upon the transfer of promised goods or services to customers, in an amount that reflects the expected consideration received
+in exchange for those goods or services. In July 2015, the FASB deferred the effective date for annual reporting periods beginning
+after December 15, 2017 (including interim reporting periods within those periods). Early adoption is permitted to the original
+effective date for annual reporting periods beginning after December 15, 2016 (including interim reporting periods within those
+periods). The amendments may be applied retrospectively to each prior period (full retrospective) or retrospectively with the
+cumulative effect recognized as of the date of initial application (modified retrospective). The Company adopted Topic 606 in
+the first quarter of Fiscal 2019 and applied the full retrospective approach. The adoption of Topic 606 did not have a material
+effect on our business, financial position, results of operations or cash flows. 
+
+NOTE
+2   GOING CONCERN   
+
+The Company s management has evaluated
+whether there is substantial doubt about the Company s ability to continue as a going concern and has determined that substantial
+doubt existed as of the date of the end of the period covered by this Quarterly Report on Form 10-Q (the  Form 10-Q ).
+This determination was based on the following factors: (i) the Company s available cash as of the date of this filing will
+not be sufficient to fund its anticipated level of operations for the next 12 months; (ii) the Company will require additional
+financing for the remainder of Fiscal 2019 to continue at its expected level of operations; and (iii) if the Company fails to obtain
+the needed capital, it will be forced to delay, scale back, or eliminate some or all of its development activities or perhaps cease
+operations. In the opinion of management, these factors, among others, raise substantial doubt about the ability of the Company
+to continue as a going concern as of the date of the end of the period covered by this Form 10-Q and for one year from the issuance
+of the unaudited condensed consolidated financial statements.  
+
+There is no assurance that the Company
+will be successful in any capital-raising efforts that it may undertake to fund operations during the next 12 months. The Company
+anticipates that it will issue equity and/or debt securities as a source of liquidity, until it begins to generate positive cash
+flow to support its operations. Any future sales of securities to finance operations will dilute existing stockholders  ownership.
+The Company cannot guarantee when or if it will generate positive cash flow. 
+
+The Company recently completed another
+round of funding in the first quarter of Fiscal 2019. However, there is no assurance that the Company will be successful in any
+other capital-raising efforts that it may undertake to fund operations during the next 12 months. The Company anticipates that
+it will issue equity and/or debt securities as a source of liquidity, until it begins to generate positive cash flow to support
+its operations. Any future sales of securities to finance operations will dilute existing stockholders  ownership. The Company
+cannot guarantee when or if it will generate positive cash flow.  
+
+The accompanying unaudited condensed consolidated
+financial statements do not include any adjustments that might be necessary should the Company be unable to continue as a going
+concern. 
+
+NOTE 3   INTANGIBLE ASSETS  
+
+Intangible assets consist of the License
+with Recruiter to use certain of Recruiter s proprietary software and related intellectual property. In consideration for
+the License, the Company issued to Recruiter 125,000,000 shares of common stock. We have valued the License at $625,000. Recruiter
+will receive 625,000 shares of Series B Preferred Stock (the  Series B ) upon the launch of a functional software platform
+and receipt of $10,000 in sales revenue. Recruiter is entitled to receive up to an additional 1,250,000 shares of Series B following
+the achievement of certain milestones as provided for in the License. Recruiter shall provide VocaWorks with support services free
+of charge, which shall include (i) a total of 2,400 hours of technology and development services to be provided by Recruiter personnel
+during the two year period following the effective date, with a total value of $200,000; and (ii) marketing and advertising services,
+which are available to Recruiter s general customers, and strategic marketing services, to be provided by Recruiter each
+year during the four year period following the effective date, with a total value of $500,000. 
+
+We also have capitalized software costs
+of $69,000 related to the development of our website and iPhone app, both to be used in conjunction with the License acquired from
+Recruiter. 
+
+These assets have not been placed in service at June 30, 2018. 
+
+NOTE
+4   SHAREHOLDERS EQUITY   
+
+Preferred stock  
+
+The Company is authorized to issue 10,000,000
+shares of $0.0001 par value preferred stock. As of June 30, 2018 and March 31, 2018, the Company has 1,016,939 and 716,939 shares
+of preferred stock issued and outstanding, respectively. 
+
+Series A Convertible Redeemable Preferred
+Stock  
+
+On October 24, 2017, the Company filed a Certificate
+of Designations (a  COD ) with the Delaware Secretary of State designating 700,000 shares of the Company s authorized
+preferred stock as Series A Convertible Preferred Stock (the  Series A ), which converts into 200 shares of common
+stock per share of Series A, subject to adjustment in the event of stock splits, stock dividends or reverse splits and issuances
+of securities at prices below the prevailing conversion price of the Series A. During the year ended March 31, 2018, the Company
+entered into Securities Purchase Agreements (each a  SPA ) with the two Investors who converted their Notes into Series
+C Convertible Preferred Stock (the  Series C ) and Series C-1 Convertible Preferred Stock (the  Series C-1 ).
+Pursuant to the SPAs, the Investors paid the Company a total of $600,000 and purchased in the aggregate 600,000 of shares of Series
+A and Warrants to purchase 120,000,000 shares of the Company s common stock. 
+
+Dividends accrue on the Series A at a rate
+of 10% per annum. Holders of Series A are entitled to vote together with holders of the common stock on an as-converted basis,
+subject to a beneficial ownership limitation of 4.99%. The Series A is redeemable in the same manner as the Series C and C-1, defined
+below. The Series A is senior to all other preferred stock, except the Company s Series A-1 Convertible Preferred Stock (the
+ Series A-1 ) and the common stock upon liquidation of the Company. The Warrants have a five year term and an exercise
+price of $0.01 per share, subject to adjustment in the event of stock splits, stock dividends or reverse splits and issuances of
+securities at prices below the prevailing exercise price of the Warrants. 
+
+Series A-1 Convertible Redeemable Preferred
+Stock  
+
+On May 25, 2018, the Company filed a COD
+authorizing 600,000 shares of the Company s preferred stock as the Series A-1. The Series A-1 converts into 200 shares of
+common stock per share of Series A-1, subject to adjustment in the event of stock splits, stock dividends or reverse splits, and
+issuances of securities at prices below the prevailing conversion price of the Series A-1. Dividends accrue on the Series
+A-1 at a rate of 10% per annum. Holders of Series A-1 are entitled to vote together with holders of the common stock on an as-converted
+basis, subject to a beneficial ownership limitation of 4.99%. The Series A-1 is redeemable upon the occurrence of certain triggering
+events. 
+
+On June 1, 2018, the Company entered into
+SPAs with the Investors. Pursuant to the SPA, the Investors purchased a total of 300,000 of shares of Series A-1 and Warrants to
+purchase 60,000,000 shares of the Company s common stock in exchange for a total of $300,000. 
+
+The Investors agreed to waive the Series A,
+Series C and Series C-1 conversion price adjustments as they relate to the sale of the Series A-1 preferred stock. 
+
+The Warrants have a five year term and an exercise
+price of $0.01 per share, subject to adjustment in the event of stock splits, stock dividends or reverse splits and issuances of
+securities at prices below the prevailing exercise price of the Warrants. 
+
+Series B Convertible Preferred Stock  
+
+On October 24, 2017, the Company filed
+a COD with the Delaware Secretary of State designating 1,875,000 shares of the Company s authorized preferred stock as Series
+B which converts into 200 shares of common stock per share of Series B, subject to adjustments in the event of stock splits, stock
+dividends and reverse splits. Recruiter will receive 625,000 shares of Series B upon the launch of a functional software platform
+and receipt of $10,000 in sales revenue. Recruiter is entitled to receive up to an additional 1,250,000 shares of Series B following
+the achievement of certain milestones as provided for in the License. 
+
+Series C and Series C-1 Convertible
+Redeemable Preferred Stock  
+
+On October 24, 2017, the Company filed a COD
+with the Delaware Secretary of State designating 102,100 shares of the Company s authorized preferred stock as Series C which
+converts into 1,000 shares of common stock per share of Series C, subject to adjustments in the event of stock splits, stock dividends
+and reverse splits and issuances of securities at prices below the prevailing conversion price of the Series C. In accordance with
+the terms of the License, on October 30, 2017 holders of the Company s outstanding 4% Convertible Notes converted their 4%
+Convertible Notes and accrued interest into 102,099.752 shares of Series C. 
+
+Also on October 24, 2017, the Company filed
+a COD with the Delaware Secretary of State designating 18,839 shares of the Company s authorized preferred stock as Series
+C-1 which converts into 1,000 shares of common stock per share of Series C-1, subject to adjustments in the event of stock splits,
+stock dividends and reverse splits and issuances of securities at prices below the prevailing conversion price of the Series C-1.
+In accordance with the terms of the License, on October 30, 2017 holders of the Company s 10% Convertible Notes converted
+their 10% Convertible Notes and accrued interest into 18,839 shares of Series C-1. 
+
+Holders of shares of Series C and Series
+C-1 may cause the Company to redeem in cash the outstanding shares of Series C and C-1 beginning on October 30, 2019, and earlier
+than that date upon the occurrence of certain triggering events contained in the COD for the Series C and Series C-1, at a redemption
+price based upon a formula contained in the COD for each series. Subject to the prior conversion, the total redemption price if
+redeemed after two years from issuance is equal to the amount of the principal and accrued interest on the 4% Convertible Notes
+and 10% Convertible Notes due as of the closing date plus potential additional amounts. 
+
+During February 2018, the Company filed
+an amendment to the Certificates of Designations for the Series C and Series C-1 extending the redemption date to October 2022
+and reducing the redemption amount of the preferred shares then outstanding at a redemption price equal to one-half of the Conversion
+Amount (as defined) of such preferred shares. During the three months ended June 30, 2018 we recorded a credit to additional paid
+in capital of $25,702 as a result of the reduction in the redemption amount. During the year ended March 31, 2018 we recorded a
+credit to additional paid in capital of $1,071,932 as a result of the reduction in the redemption amount. 
+
+On February 1, 2018, the Company issued
+4,000,000 shares of common stock upon the conversion of 4,000 shares of Series C. 
+
+Common stock  
+
+The Company is authorized to issue 250,000,000
+shares of common stock, par value $0.0001 per share. As of June 30, 2018 and March 31, 2018 the Company had 131,554,197 shares
+of common stock outstanding.  
+
+On June 21, 2018, pursuant to shareholder approval,
+the shareholders approved a reverse stock split in the range of one-for-50 to one-for-100 or any amount in between and a reduction
+of its authorized common stock in order to save annual fees in Delaware. The reverse stock split has not yet been implemented. 
+
+Common stock options  
+
+During the three months ended June 30,
+2018 the Company granted to various advisors an aggregate of 1,200,000 options to purchase common stock, exercisable at $0.06 per
+share, under the terms of the 2017 Equity Incentive Plan. The options have a term of five years. The options vest on the one year
+anniversary of grant. 
+
+Common stock warrants  
+
+In connection with the sale of our Series A-1
+preferred stock, we issued an aggregate of 60,000,000 common stock purchase warrants to the Investors. The warrants are exercisable
+any time on or after 90 days after the issuance date at an exercise price of $0.01 and expire, if unexercised, on June 1, 2023.
+The exercise price and number of warrants are subject to adjustment in the event of stock splits, stock dividends or reverse splits
+and issuances of securities at prices below the prevailing conversion price of the warrants. 
+
+NOTE 5   STOCK OPTIONS AND WARRANTS  
+
+Stock options  
+
+The Company granted to six nonemployee
+advisors an aggregate of 1,200,000 options to purchase common stock, exercisable at $0.06 per share, under the terms of the 2017
+Equity Incentive Plan. The options have a term of five years. The options vest upon the first anniversary of their grant. We have
+recorded compensation expense of $25,000 related to the options during the three months ended June 30, 2018. We valued the options
+using the Black Scholes Model with the following assumptions: (1) risk free interest rate of 2.73%; (2) dividend yield of 0%; (3)
+volatility factor of the expected market price of our common stock of 381%; and (4) an expected life of 5 years.   
+
+We recorded compensation expense of $37,617
+related to options granted to an officer and directors during the previous fiscal year. 
+
+Warrants   
+
+In connection with the sale of our Series A-1
+preferred stock, we issued an aggregate of 60,000,000 common stock purchase warrants to the purchasers of the preferred stock.
+The warrants are exercisable any time on or after 90 days after the issuance date at an exercise price of $0.01 and expire, if
+unexercised, on June 1, 2023. The exercise price and number of warrants are subject to adjustment in the event of stock splits,
+stock dividends or reverse splits and issuances of securities at prices below the prevailing conversion price of the warrants. 
+
+NOTE
+6   REDEEMABLE CONVERTIBLE PREFERRED STOCK   
+
+As
+described in Note 4, we have issued shares of Series A, Series A-1, Series C, and Series C-1 convertible preferred stock. Since
+the convertible preferred stock may ultimately be redeemable at the option of the holder, the carrying value of the preferred
+stock has been classified as temporary equity on the balance sheet at June 30, 2018 and March 31, 2018. 
+
+A portion of the proceeds from the sale
+of our Series A-1 were allocated to the warrants based on their relative fair value, which totaled $288,000 using the Black Scholes
+option pricing model. Further, we attributed a beneficial conversion feature of $7,188,000 to the Series A-1 based upon the difference
+between the effective conversion price of those shares and the closing price of our common shares on the date of issuance. The
+assumptions used in the Black Scholes model are as follows: (1) dividend yield of 0%; (2) expected volatility of 380%, (3) risk-free
+interest rate of 2.74%, (4) expected term of 5 years. The amount attributable to the warrants and beneficial conversion feature,
+aggregating $7,476,000, has been recorded as a deemed dividend to the preferred shareholders and as a charge to additional paid-in
+capital (since there is a deficit in retained earnings). 
+
+For the three months ended June 30, 2018, we
+have accrued dividends in the amount of $68,905. The accrued dividends have been charged to additional paid-in capital (since there
+is a deficit in retained earnings) and the net unpaid accrued dividends have been added to the carrying value of the preferred
+stock. Further, we attributed a beneficial conversion feature of $532,696 to the preferred dividends based upon the difference
+between the effective conversion price of those dividends and the quarterly average closing price of our common shares. The amount
+attributable to the beneficial conversion feature has been recorded as a deemed dividend to the preferred shareholders and as a
+charge to additional paid-in capital (since there is a deficit in retained earnings). 
+
+NOTE 7   ACCOUNTS PAYABLE AND
+ACCRUED LIABILITIES  
+
+As of June 30, 2018 and March 31, 2018,
+accounts payable and accrued liabilities for the period ending are comprised of the following: 
+
+NOTE 8   COMMITMENTS AND CONTINGENCIES    
+
+The Company is subject to legal proceedings
+and claims from time to time which arise in the ordinary course of its business. Although occasional adverse decisions or settlements
+may occur, the Company believes that the final disposition of such matters should not have a material adverse effect on its consolidated
+financial position, results of operations or liquidity.  
+
+Recruiter will receive 625,000 shares of
+Series B upon the launch of a functional software platform and receipt of $10,000 in sales revenue. Recruiter is entitled to receive
+up to an additional 1,250,000 shares of Series B following the achievement of certain milestones as provided for in the License. 
+
+NOTE 9    SUBSEQUENT
+EVENTS  
+
+Management evaluated all activities of the
+Company through the issuance date of the Company s unaudited condensed consolidated financial statements and concluded that
+no subsequent events have occurred that would require adjustments or disclosure into the unaudited condensed consolidated financial
+statements. 
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND
+ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+The following discussion
+and analysis should be read in conjunction with our unaudited interim condensed consolidated financial statements and related notes
+appearing elsewhere in this report on Form 10-Q. In addition to historical information, this discussion and analysis contains forward-looking
+statements that involve risks, uncertainties, and assumptions. Our actual results may differ materially from those anticipated
+in these forward-looking statements as a result of certain factors, including but not limited to those set forth under  Risk
+Factors  in our Annual Report on Form 10-K for the year ended March 31, 2018 as filed with the SEC. 
+
+As used in this report,
+the terms  Company ,  we ,  our ,  us  and  Truli  refer to Truli Technologies,
+Inc. and its subsidiary, VocaWorks, Inc. and its former subsidiary TMC. 
+
+Overview   
+
+As described in Note 1
+to the Unaudited Condensed Consolidated Financial Statements, on October 30, 2017 the Company entered into the License under which
+Recruiter granted the Company s wholly-owned subsidiary, VocaWorks, the License to use Recruiter s proprietary software
+and related intellectual property. In consideration for the License, the Company issued Recruiter 125,000,000 shares of its common
+stock. In addition, the Company created the Series B and agreed to issue Recruiter 625,000 shares of the Series B upon the launch
+of a functional software platform and receipt of $10,000 in sales revenue. Recruiter is entitled to receive an additional 1,250,000
+shares of Series B on the achievement of certain milestones as provided in the License. The Chief Executive Officer of Recruiter,
+Miles Jennings, was appointed Chief Executive Officer and a director of the Company in conjunction with entry into the License. 
+
+Business of the Company  
+
+The Company is developing
+a software and mobile based platform and business under the VocaWorks brand name and moving into the rapidly expanding field of
+online and mobile-enabled staffing and talent acquisition solutions, facilitated in part through its entry into the License. VocaWorks
+will initially offer a native mobile iOS app solution, as well as a web-based SaaS platform offering and will facilitate the hiring
+of personnel, including project-based consultants, focusing initially on specialized technology talent for tech projects. On June
+12, 2018, we announced the alpha launch of our software platform. The Company intends to conduct a beta stage testing of VocaWorks
+this year and launch a final version of VocaWorks by the end of Fiscal 2019. The VocaWorks platform is an on-demand, cloud and
+mobile-based platform. Its key differentiator is its ability to source candidates directly from educational partners and a SaaS-based
+model for onboarding technology consultants. Its initial focus will be a number of industries in the New York City market. 
+
+Truli has not generated
+any revenue from its former or new business strategy and there can be no assurances that we will do so in the future. 
+
+Results of Operations  
+
+The results of operations
+include TMC through October 30, 2017 and VocaWorks from that date forward. 
+
+Three Months Ended June 30, 2018 Compared
+to Three Months Ended June 30, 2017:  
+
+The Company had no revenue
+for the three-month periods ended June 30, 2018 or 2017. VocaWorks has recently begun to implement its new business plan commencing
+with the execution of the License agreement with Recruiter. Truli officially launched its website on July 10, 2012 but did not
+generate revenue through the date of disposition of TMC. Net loss (before dividends on preferred stock) of $280,603 and net loss
+of $102,752 for the three-month periods ended June 30, 2018 and 2017, respectively, resulted from the operational activities described
+below. 
+
+Operating expenses
+totaled $280,603 and $108,320 during the three-month periods ended June 30, 2018 and 2017, respectively. The increase in operating
+expenses is the result of the following factors. 
+
+The Company incurred marketing,
+general and administrative expenses of $280,603 and $108,320 for the three-month periods ended June 30, 2018 and 2017, respectively,
+principally comprised of marketing, employee compensation, website development costs, and professional, legal, administrative,
+and consulting fees. The increase of 159% in 2018 compared to 2017 was primarily attributable to increased compensation (including
+stock based compensation), professional fees and other fees. 
+
+Other Income (Expense)  
+
+Other income (expense)
+is comprised of interest and financing costs and income related to the change in fair value of our derivative liabilities. The
+decrease in interest expense in the 2018 three month period compared to the 2017 three month period results from the settlement
+of debt. The change in the fair value of our derivative liabilities results primarily from the changes in our stock price and
+the volatility of our common stock during the reported periods. We had no debt and no derivative liabilities in the 2018 period.  
+
+Preferred Stock Dividends  
+
+We have recorded dividends
+and deemed dividends on our preferred stock in the amount of $8,077,600 during the three months ended June 30, 2018, consisting
+of accrued dividends and the beneficial conversion feature of the preferred stock. Please see Note 6 to the accompanying unaudited
+condensed consolidated financial statements for more information. 
+
+Liquidity and Capital Resources  
+
+We expect to continue
+to incur operating losses for the foreseeable future. As of June 30, 2018, we had an accumulated deficit of $6,511,810 compared
+to $6,231,207 as of March 31, 2018. The increase is attributable to the net loss for the three months ended June 30, 2018. 
+
+Our net cash used in operating
+activities was $213,093 and $84,339 for the three months ended June 30, 2018 and 2017, respectively. The increase in cash used
+is primarily attributable to an increase in loss (after adjusting for non-cash items) of approximately $82,000 and a decrease in
+accounts payable and accrued liabilities of approximately $51,000. Cash used in investing activities during the three months ended
+June 30, 2018 consisted of expenditures for software development of approximately $12,000. There were no cash flows from investing
+activities for the three months ended June 30, 2017. Net cash provided by financing activities was $300,000 for the three months
+ended June 30, 2018, from the sale of preferred stock. Net cash provided by financing activities was $101,000 for the three months
+ended June 30, 2017 with the funding coming from $61,000 advanced by the Founder and $40,000 from the sale of convertible notes. 
+
+The Company had previously
+funded its operations primarily through advances from the Founder. The Company s recent funding has come through the sale
+of convertible preferred stock. 
+
+The audit report prepared
+by our independent registered public accounting firm relating to the Company s consolidated financial statements for the
+year ended March 31, 2018 included an explanatory paragraph expressing substantial doubt about our ability to continue as a going
+concern. 
+
+The Company s
+management has evaluated whether there is substantial doubt about the Company s ability to continue as a going concern and
+has determined that substantial doubt existed as of the date of the end of the period covered by this Report. This determination
+was based on the following factors: (i) the Company s available cash as of the date of this filing will not be sufficient
+to fund its anticipated level of operations for the next 12 months; (ii) the Company will require additional financing for Fiscal
+2019 to continue at its expected level of operations; and (iii) if the Company fails to obtain the needed capital, it will be forced
+to delay, scale back, or eliminate some or all of its development activities or perhaps cease operations. In the opinion of management,
+these factors, among others, raise substantial doubt about the ability of the Company to continue as a going concern as of the
+date of the end of the period covered by this Report. 
+
+The Company does not
+have sufficient cash resources to meet its working capital needs for the next 12 months. Accordingly, it needs to raise capital
+to remain operational. 
+
+There is no assurance
+that the Company will be successful in any capital-raising efforts that it may undertake to fund operations during the next 12
+months. The Company anticipates that it will issue equity and/or debt securities as a source of liquidity, until it begins to generate
+positive cash flow to support its operations. Any future sales of securities to finance operations will dilute existing stockholders 
+ownership. The Company cannot guarantee when or if it will generate positive cash flow. 
+
+Cautionary Note Regarding Forward-Looking Statements  
+
+This report includes forward-looking
+statements including statements regarding our new VocaWorks business, the launch of a beta and final VocaWorks platform and our
+liquidity. 
+
+The words  believe, 
+ may,   estimate,   continue,   anticipate,   intend,   should, 
+ plan,   could,   target,   potential,   is likely,   will, 
+ expect  and similar expressions, as they relate to us, are intended to identify forward-looking statements. We have
+based these forward-looking statements largely on our current expectations and projections about future events and financial trends
+that we believe may affect our financial condition, results of operations, business strategy and financial needs. 
+
+The results anticipated
+by any or all of these forward-looking statements might not occur. Important factors, uncertainties and risks that may cause actual
+results to differ materially from these forward-looking statements include delays affecting the development and functionality of
+the software we are licensing, competition, our management s ability to deal with conflicts of interest and events affecting
+capital markets in general and microcap companies in particular. Further information on our risk factors is contained in our filings
+with the SEC, including the Form 10-K for the year ended March 31, 2018. Factors or events that could cause our actual results
+to differ may emerge from time to time, and it is not possible for us to predict all of them. We undertake no obligation to publicly
+update or revise any forward-looking statements, whether as the result of new information, future events or otherwise. 
+
+Off-Balance Sheet Arrangements  
+
+None 
+
+Critical Accounting Estimates and Recent Accounting Pronouncements  
+
+Critical Accounting Estimates  
+
+The preparation of
+financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts
+of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported
+amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates. Included in these
+estimates are assumptions about inputs used to estimate useful lives of intangible assets, calculate beneficial conversion of convertible
+notes payable and convertible preferred stock, deferred income tax asset valuation allowances, and valuation of derivative liabilities. 
+
+Convertible Instruments  
+
+The Company evaluates
+and accounts for conversion options embedded in its convertible instruments in accordance with professional standards for  Accounting
+for Derivative Instruments and Hedging Activities . 
+
+Professional standards
+generally provide three criteria that, if met, require companies to bifurcate conversion options from their host instruments and
+account for them as free-standing derivative financial instruments. These three criteria include circumstances in which (a) the
+economic characteristics and risks of the embedded derivative instrument are not clearly and closely related to the economic characteristics
+and risks of the host contract, (b) the hybrid instrument that embodies both the embedded derivative instrument and the host contract
+is not re-measured at fair value under otherwise applicable GAAP with changes in fair value reported in earnings as they occur
+and (c) a separate instrument with the same terms as the embedded derivative instrument would be considered a derivative instrument.
+Professional standards also provide an exception to this rule when the host instrument is deemed to be conventional as defined
+under professional standards as  The Meaning of  Conventional Convertible Debt Instrument . 
+
+The Company accounts
+for convertible instruments (when it has determined that the embedded conversion options should not be bifurcated from their host
+instruments) in accordance with professional standards when  Accounting for Convertible Securities with Beneficial Conversion
+Features,  as those professional standards pertain to  Certain Convertible Instruments.  Accordingly, the Company
+records, when necessary, discounts to convertible notes for the intrinsic value of conversion options embedded in debt instruments
+based upon the differences between the fair value of the underlying common stock at the commitment date of the note transaction
+and the effective conversion price embedded in the note. Debt discounts under these arrangements are amortized over the term of
+the related debt to their earliest date of redemption. The Company also records when necessary deemed dividends for the intrinsic
+value of conversion options embedded in preferred shares based upon the differences between the fair value of the underlying common
+stock at the commitment date of the preferred shares transaction and the effective conversion price embedded in the preferred shares. 
+
+ASC 815-40 provides
+that, among other things, generally, if an event is not within the entity s control or could require net cash settlement,
+then the contract shall be classified as an asset or a liability. 
+
+Derivative Instruments  
+
+The Company s
+derivative financial instruments consist of embedded derivatives related to the convertible debt and conversion features embedded
+within our convertible debt. The accounting treatment of derivative financial instruments requires that we record the derivatives
+at their fair values as of the inception date of the debt agreements and at fair value as of each subsequent balance sheet date.
+Any change in fair value was recorded as non-operating, non-cash income or expense at each balance sheet date. If the fair value
+of the derivatives was higher at the subsequent balance sheet date, we recorded a non-operating, non-cash charge. If the fair value
+of the derivatives was lower at the subsequent balance sheet date, we recorded non-operating, non-cash income. 
+
+Stock-Based Compensation  
+
+The Company utilizes
+the Black-Scholes option-pricing model to determine fair value of options and warrants granted as stock-based compensation, which
+requires us to make judgments relating to the inputs required to be included in the model. In this regard, the expected volatility
+is based on the historical price volatility of the Company s common stock. The dividend yield represents the Company s
+anticipated cash dividend on common stock over the expected life of the stock options. The U.S. Treasury bill rate for the expected
+life of the stock options is utilized to determine the risk-free interest rate. The expected term of stock options represents the
+period of time the stock options granted are expected to be outstanding. 
+
+Recently Issued Accounting Pronouncements  
+
+With the exception of those discussed below,
+there have not been any recent changes in accounting pronouncements and Accounting Standards Update ( ASU ) issued
+by the Financial Accounting Standards Board ( FASB ) during the three months ended June 30, 2018 that are of significance
+or potential significance to the Company. 
+
+In June 2018, the FASB
+issued ASU 2018-07,  Compensation Stock Compensation (Topic 718) Improvements to Nonemployee Share-based Payment
+Accounting , as a simplification for the accounting for nonemployee share-based payment transactions resulting from expanding
+the scope of Topic 718, Compensation-Stock Compensation. This standard is effective for fiscal years beginning after December 15,
+2018, with early adoption permitted. We are evaluating the impact that ASU 2018-07 may have on our consolidated financial statements. 
+
+In May 2017, the FASB issued
+ASU 2017-09,  Compensation   Stock Compensation (Topic 718): Scope of Modification Accounting , ( Topic
+718 ) which clarifies when to account for a change to the terms or conditions of a share-based payment award as a modification.
+Under the new guidance, modification accounting is required only if the fair value, the vesting conditions, or the classification
+of the award changes as a result of the change in terms or conditions. If an award is not probable of vesting at the time a change
+is made, the new guidance clarifies that no new measurement date will be required if there is no change to the fair value, vesting
+conditions, and classification. Topic 718 will be applied prospectively and is effective for fiscal years beginning after December
+15, 2017, and interim periods within those years, with early adoption permitted. The adoption of this standard did not have a material
+impact on the financial statements.  
+
+In February 2016, the FASB
+issued ASU No. 2016-02, Leases (Topic 842) ( Topic 842 ) to increase transparency and comparability among organizations
+by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements.
+Topic 842 affects any entity that enters into a lease, with some specified scope exemptions. The guidance in this update supersedes
+Topic 840, Leases. The core principle of Topic 842 is that a lessee should recognize the assets and liabilities that arise from
+leases. A lessee should recognize in the statement of financial position a liability to make lease payments (the lease liability)
+and a right-of-use asset representing its right to use the underlying asset for the lease term. For public companies, the amendments
+in this update are effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal
+years, which would be the Company s fiscal year ending March 31, 2020. The Company does not expect the adoption of Topic
+842 to have a material effect on its business, its financial position, results of operations or cash flows. 
+
+In October 2016, the FASB
+issued ASU 2016-16, Income Taxes (Topic 740): Intra-Entity Transfers of Assets Other Than Inventory ( Topic 740 ),
+to improve and simplify the accounting for the income tax consequences of intra-entity transfers of assets other than inventory,
+requiring companies to recognize income tax consequences upon the transfer of the asset to a third party. Topic 740 is effective
+for annual periods beginning after December 15, 2017, and interim periods within those annual periods, which would be the Company s
+fiscal year ending March 31, 2019. While the Company does not expect the adoption of Topic 740 to have a material effect on its
+business, the Company is still evaluating any potential impact that adoption of Topic 740 may have on its financial position, results
+of operations or cash flows. 
+
+In May 2014, the FASB issued
+ASU 2014-09, Revenue from Contracts with Customers (Topic 606) ( Topic 606 ) which amended the existing accounting
+standards for revenue recognition. Topic 606 establishes principles for recognizing revenue upon the transfer of promised goods
+or services to customers, in an amount that reflects the expected consideration received in exchange for those goods or services.
+In July 2015, the FASB deferred the effective date for annual reporting periods beginning after December 15, 2017 (including interim
+reporting periods within those periods). Early adoption is permitted to the original effective date for annual reporting periods
+beginning after December 15, 2016 (including interim reporting periods within those periods). The amendments may be applied retrospectively
+to each prior period (full retrospective) or retrospectively with the cumulative effect recognized as of the date of initial application
+(modified retrospective). The Company adopted Topic 606 in the first quarter of Fiscal 2019 and applied the full retrospective
+approach. The adoption of Topic 606 did not have a material effect on our business, financial position, results of operations or
+cash flows. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE
+DISCLOSURES ABOUT MARKET RISK  
+
+Not applicable as we
+are a smaller reporting company as defined by Rule 229.10(f) (1). 
+
+ITEM 4. CONTROLS AND PROCEDURES  
+
+Evaluation of Disclosure Controls and
+Procedures  
+
+We are required to
+maintain  disclosure controls and procedures  as such term is defined in Rule 13a-15(e) under the Securities Exchange
+Act of 1934. Based on an evaluation as of the end of the period covered by this Report on Form 10-Q, our Chief Executive Officer
+who also serves as our Chief Financial Officer, has concluded that our disclosure controls and procedures were not effective to
+ensure that the information relating to our company, required to be disclosed in our SEC reports (i) is recorded, processed, summarized
+and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to our management
+to allow timely decisions regarding required disclosure as a result of material weaknesses in our internal control over financial
+reporting. 
+
+Changes in Internal Control over
+Financial Reporting   
+
+There were no changes
+in our internal control over financial reporting (as defined in Rule 13a-15f of the Exchange Act) that occurred during the three
+months ended June 30, 2018 that has materially affected, or are reasonably likely to materially affect, our internal control over
+financial reporting. 
+
+PART II: OTHER INFORMATION  
+
+ITEM 1 - LEGAL PROCEEDINGS  
+
+As of the date of this
+Report, there are no material pending legal or governmental proceedings relating to our Company or properties to which we are a
+party, and, to our knowledge, there are no material proceedings to which any of our directors, executive officers or affiliates
+are a party adverse to us or which have a material interest adverse to us. 
+
+ITEM 1A. - RISK FACTORS  
+
+Not required. 
+
+ITEM 2 - UNREGISTERED SALES OF EQUITY
+SECURITIES AND USE OF PROCEEDS  
+
+Except as disclosed
+below we have previously disclosed all sales of securities without registration under the Securities Act of 1933. 
+
+During the three months
+ended June 30, 2018 the Company granted to various advisors an aggregate of 1,200,000 options to purchase common stock, exercisable
+at $0.06 per share, under the terms of the 2017 Equity Incentive Plan. The options have a term of five years. The options vest
+on the one year anniversary of grant. 
+
+ITEM 3 - DEFAULTS UPON SENIOR SECURITIES  
+
+None. 
+
+ITEM 4 - MINE SAFETY DISCLOSURES  
+
+Not applicable 
+
+ITEM 5 - OTHER INFORMATION  
+
+None. 
+
+ITEM 6 -  EXHIBITS  
+
+The following exhibits
+are filed as part of this quarterly report on Form 10-Q: 
+
+*  
+      Management contract or compensatory plan or arrangement.   
+
+**  
+      This exhibit is being furnished rather than filed and shall not be deemed incorporated by reference into any filing, in accordance with Item 601 of Regulation S-K.   
+
++  
+      Certain schedules, appendices and exhibits to this agreement have been omitted in accordance with Item 601(b)(2) of Regulation S-K. A copy of any omitted schedule and/or exhibit will be furnished supplemental to the Securities and Exchange Commission staff upon request.   
+
+Copies of this
+report (including the financial statements) and any of the exhibits referred to above will be furnished at no cost to our shareholders
+who make a written request to Truli Technologies, Inc., at the address on the cover page of this report, Attention: Corporate Secretary. 
+
+SIGNATURES  
+
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized. 
+
+Dated: August 14,
+    2018  
+       TRULI TECHNOLOGIES, INC.    
+
+By:  
+      /s/ Miles Jennings   
+
+Miles Jennings   
+
+Chief Executive Officer  
+ (Principal Executive Officer)   
+
+17 
+
+<EX-31.1>
+ 2
+ f10q0618ex31-1_trulitech.htm
+ CERTIFICATION
+
+Exhibit 31.1  
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE
+OFFICER  
+
+I, Miles Jennings, certify that: 
+
+1. I
+have reviewed this quarterly report on Form 10-Q of Truli Technologies, Inc.; 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to
+the period covered by this report; 
+
+3. Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+in this report; 
+
+4. The
+registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; 
+
+b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The
+registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or
+persons performing the equivalent functions): 
+
+a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Date: August 14, 2018 
+
+/s/ Miles Jennings  
+
+Miles Jennings 
+         Chief Executive Officer 
+         (Principal Executive Officer)  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ f10q0618ex31-2_trulitech.htm
+ CERTIFICATION
+
+Exhibit 31.2  
+
+CERTIFICATION OF PRINCIPAL FINANCIAL
+OFFICER  
+
+I, Miles Jennings, certify that: 
+
+1. I
+have reviewed this quarterly report on Form 10-Q of Truli Technologies, Inc.; 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report; 
+
+3. Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented
+in this report; 
+
+4. The
+registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; 
+
+b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and 
+
+d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The
+registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or
+persons performing the equivalent functions): 
+
+a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Date: August 14, 2018 
+
+/s/
+    Miles Jennings  
+
+Miles Jennings 
+         Chief Financial Officer 
+         (Principal Financial Officer)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ f10q0618ex32-1_trulitech.htm
+ CERTIFICATION
+
+Exhibit 32.1  
+
+CERTIFICATION PURSUANT TO 18 U.S.C.
+SECTION 1350,  
+
+  AS ADOPTED PURSUANT TO SECTION 906 OF
+THE SARBANES-OXLEY ACT OF 2002  
+
+In
+connection with the quarterly report of Truli Technologies, Inc. (the  Company ) on Form 10-Q for the quarter ended
+June 30, 2018, as filed with the Securities and Exchange Commission on the date hereof, I, Miles Jennings, certify, pursuant to
+18 U.S.C.  1350, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+
+1.  
+      The
+    quarterly report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and   
+
+2.  
+      The
+    information contained in the quarterly report fairly presents, in all material respects, the financial condition and results
+    of operations of the Company.   
+
+/s/
+    Miles Jennings  
+
+Miles Jennings 
+         Chief Executive Officer 
+         (Principal Executive
+        Officer)  
+
+Dated: August 14, 2018 
+
+In connection with
+the quarterly report of Truli Technologies, Inc. (the  Company ) on Form 10-Q for the quarter ended June 30, 2018,
+as filed with the Securities and Exchange Commission on the date hereof, I, Miles Jennings, certify, pursuant to 18 U.S.C.  1350,
+as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+
+1.  
+      The
+    quarterly report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and   
+
+2.  
+      The
+    information contained in the quarterly report fairly presents, in all material respects, the financial condition and results
+    of operations of the Company.   
+
+/s/
+    Miles Jennings  
+
+Miles Jennings 
+         Chief Financial Officer 
+         (Principal Financial Officer)  
+
+Dated: August 14, 2018 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ trli-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ trli-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ trli-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ trli-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ trli-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ trli-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

@@ -1,0 +1,1449 @@
+ EXCHANGE COMMISSION  
+
+  Washington,
+D.C. 20549  
+
+  FORM
+10-Q  
+
+  (Mark
+One)  
+
+  [ X ] QUARTERLY
+REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the
+quarterly period ended June 30, 2018  
+
+  [
+] TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT  
+
+  For the
+transition period from _____________ to ______________  
+
+  Commission
+File Number: 0-27445  
+
+   Enviro
+Technologies, Inc.  
+(Exact name of Registrant as specified in its Charter)  
+
+IDAHO       
+      82-0266517   
+ 
+      (State or other jurisdiction of       
+      (I.R.S. Employer   
+ 
+      incorporation or organization)       
+      Identification No.)   
+
+821
+NW 57 th  Place, Fort Lauderdale, Florida 33309 
+(Address of principal executive offices)  
+
+  (954) 958-9968 
+(Issuer's telephone number)   
+
+  ___________________________  
+
+  (Former
+Name, former address and former fiscal year, if changed since last Report.)  
+
+  Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities
+Exchange Act of 1934 during the past 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes  x    No
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T during the preceding 12 months (or such shorter period that the registrant was required to submit
+and post such files). Yes    No  x   
+
+  Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer, 
+ smaller reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act.  
+
+       Large
+accelerated filer                 Accelerated filer    
+
+       Non-accelerated
+filer                   Smaller reporting company  x   
+
+       Emerging
+growth company    
+
+If an emerging
+growth company, indicate by checkmark if the registrant has not elected to use the extended transition period for complying with
+any new or revised financial accounting standards pursuant to Section 7(a)(2)(B) of the Securities Act:    
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes      No
+ x   
+
+APPLICABLE
+ONLY TO CORPORATE ISSUERS  
+
+  State the number
+of shares outstanding of each of the issuer's classes of common equity, as of the latest practicable date: August 10, 2018, we
+had 35,784,497 shares of our common stock outstanding.  
+
+Table of Contents  
+
+INDEX  
+
+PART
+    I.      FINANCIAL INFORMATION    
+           1   
+
+Item
+    1.     Financial Statements.   
+           1   
+
+Condensed Consolidated Balance Sheets   
+           1   
+
+Condensed Consolidated Statements of Operations   
+           2   
+
+Condensed Consolidated Statements of Changes in Shareholders  Deficiency   
+           3   
+
+Condensed Consolidated Statements of Cash Flows   
+           4   
+
+Notes to Condensed Consolidated Financial Statements     
+           5   
+ 
+      Item
+    2.     Management's Discussion and Analysis of Financial Condition and Results of Operations   
+           15   
+ 
+      Item
+    3.     Quantitative and Qualitative Disclosures About Market Risk   
+           20   
+ 
+      Item
+    4.     Controls and Procedures   
+           20   
+
+PART
+    II.    OTHER INFORMATION    
+           22   
+
+Item
+    1.     Legal Proceedings   
+           22   
+ 
+      Item
+    1A.  Risk Factors   
+           22   
+ 
+      Item
+    2.     Unregistered Sales of Equity Securities and Use of Proceeds   
+           22   
+ 
+      Item
+    3.     Defaults Upon Senior Securities   
+           22   
+ 
+      Item
+    4.     Mine Safety Disclosure   
+           22   
+ 
+      Item
+    5.     Other Information   
+           22   
+ 
+      Item
+    6.     Exhibits   
+           22   
+ 
+      Signatures  
+         23   
+
+Table of Contents  
+
+PART
+I.     FINANCIAL INFORMATION     
+
+Item 1.      Financial
+                                         Statements .     
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY  
+
+    CONDENSED
+CONSOLIDATED BALANCE SHEETS  
+
+The accompanying notes are an integral part of the condensed
+consolidated unaudited financial statements.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY  
+
+    CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS  
+
+  (U naudited)   
+
+The accompanying notes are an integral part of the condensed
+consolidated unaudited financial statements.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY  
+
+  CONDENSED
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS  DEFICIENCY  
+
+  FOR
+THE SIX MONTHS ENDED JUNE 30, 2018   
+
+  (  U naudited)   
+
+The accompanying notes are an integral part of the condensed
+consolidated unaudited financial statements.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY  
+
+  CONDENSED
+CONSOLIDATED STATEMENTS OF CASH FLOWS  
+
+  (U naudited)    
+
+The accompanying notes are an integral part of the condensed
+consolidated unaudited financial statements.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+NOTE
+A - ORGANIZATION AND OPERATIONS  
+
+Enviro Technologies,
+Inc., an Idaho corporation (the  Company ), is a manufacturer of environmental and industrial separation technology.
+The Company developed, and now manufactures the Voraxial    Separator for Cameron Solutions, Inc., an affiliate of
+Schlumberger Technology Corporation. The Voraxial is a patented technology that was developed by the Company and sold to Schlumberger
+Technology Corporation, a Texas corporation. Pursuant to the agreements we signed with Schlumberger Technology Corporation, we
+received a Grant Back license to manufacture, market and sell the technology for industries outside of the oil and gas markets
+such as mining, sewage, wastewater, among others.  
+
+Florida Precision
+Aerospace, Inc., a Florida corporation ( FPA ), is the wholly-owned subsidiary of the Company and is used to manufacture,
+assemble and test the Voraxial Separator. Effective November 10, 2017 the Company amended its Articles of Incorporation,
+changing the Company s name from  Enviro Voraxial Technology, Inc.  to  Enviro Technologies, Inc. 
+and increasing its authorized common stock to 250,000,000 shares.  
+
+NOTE
+B   GOING CONCERN  
+
+While the Company
+has historically experienced recurring net losses, on June 8, 2017, the Company completed a Technology Purchase Agreement with
+Schlumberger Technology Corporation, Schlumberger Canada Limited, a Canadian entity, and Schlumberger B.V., an entity organized
+under the laws of the Netherlands (collectively,  Schlumberger ) for the sale of the Company s
+intellectual property in consideration of up to $4,000,000, of which $3,000,000 was paid at closing and $1,000,000 is payable
+upon the completion of both: (i) the complete transfer of the intellectually property to Schlumberger; and (ii) the provision
+to transfer information, assets and services to Schlumberger, which is estimated to be completed by September 2018. In addition,
+at closing FPA entered into a Framework Agreement (the  Supply Agreement ) with Cameron Solutions, Inc. ( Cameron
+Solutions ), a Houston, Texas-based company engaged in the development, manufacture and sale of equipment used in the oil
+and gas industry. Under the terms of the three-year Supply Agreement, FPA is the exclusive supplier to Cameron Solutions of certain
+Voraxial series products for use in the oil and gas industry. Pursuant to the Technology Purchase Agreement, Schlumberger also
+granted us non-exclusive, worldwide, royalty-free licenses (the  Grant Back Licenses ) for the sale of Voraxial products
+outside the oil and gas industry. Our management believes that the Grant Back Licenses will provide us the opportunity to possibly
+leverage future Schlumberger sales in the oil and gas market to penetrate the sale and use of licensed Voraxial products to other
+industries, including, but not limited to mining, sewage and wastewater.  
+
+We believe that
+including our current cash resources and anticipated revenue to be generated under the Grant Back Licenses and Supply Agreement,
+we will have sufficient resources to continue business operations in excess of 12 months. However, we have not yet generated significant
+revenues from the Supply Agreement or Grant Back Licenses. There is no assurance that the Supply Agreement will generate sufficient
+revenues and income, nor is there any assurance that we will be able to leverage the Grant Back Licenses and generate sufficient
+revenues from other industries.  
+
+At June 30,
+2018, we had an accumulated deficit of $15,613,636 including a net loss of $624,842 for the six months ended June 30, 2018. We
+may not be able to achieve profitability on a quarterly or annual basis. If we fail to achieve profitability on a quarterly or
+annual basis, or to raise additional funds when needed, or do not have sufficient cash flows from sales, we may be required to
+scale back or cease operations, sell or liquidate our assets and possibly seek bankruptcy protection. As a result of the above,
+there is substantial doubt about the ability of the Company to continue as a going concern and the accompanying consolidated financial
+statements have been prepared assuming that the Company will continue as a going concern.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)  
+
+NOTE
+C - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES  
+
+Interim
+Financial Statements   
+
+The
+interim financial statements presented herein have been prepared pursuant to the rules and regulations of the Securities and Exchange
+Commission ( SEC ). Certain information and footnote disclosures normally included in financial statements prepared
+in accordance with accounting principles generally accepted in the United States of America have been condensed or omitted pursuant
+to such rules and regulations. The interim financial statements should be read in conjunction with the company s annual
+financial statements, notes and accounting policies included in the Company s Annual Report on Form 10-K for the year ended
+December 31, 2017, as filed with the SEC on April 12, 2018. In the opinion of management, all adjustments, which are necessary
+to provide a fair presentation of financial position as of June 30, 2018, and the related operating results and cash flows for
+the interim period presented, have been made. The results of operations, for the period presented are not necessarily indicative
+of the results to be expected for the year.  
+
+Principles
+of Consolidation   
+
+The unaudited
+condensed consolidated financial statements include the accounts of the parent company, Enviro Technologies, Inc., and its wholly-owned
+subsidiary, FPA. All significant intercompany accounts and transactions have been eliminated.  
+
+Estimates   
+
+The preparation
+of condensed consolidated financial statements in conformity with accounting principles generally accepted in the United States
+of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and
+disclosures of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and
+expenses during the reporting period. Actual results may differ. Significant estimates include allowance for doubtful accounts,
+deferred tax asset, allowance for inventory obsolescence and valuation of stock-based compensation.  
+
+Revenue
+Recognition   
+
+The
+Company derives its revenue from the sale and short-term rental of the Voraxial Separator. We account for revenue in accordance
+with ASC Topic 606, which we adopted on January 1, 2018, using the modified retrospective method. The adoption of ASC Topic 606
+did not have a material impact on the timing or amounts of revenue recognized in our unaudited condensed consolidated financial
+statements and therefore did not have a material impact on our financial position, results of operations, equity or cash flows
+as of the adoption date or for the three and six months ended June 30, 2018. We did not recognize any cumulative-effect adjustment
+to retained earnings upon adoption as the impact was immaterial. Also, the comparative information has not been restated and continues
+to be reported under the accounting standards in effect for those periods.  
+
+Revenues are
+recognized when we satisfy a performance obligation by transferring control of the promised goods or services to our customers
+at a point in time, in an amount specified in the contract with our customer and that reflects the consideration we expect to
+be entitled to in exchange for those goods or services. The Company also assesses our customer s ability and intention to
+pay, which is based on a variety of factors including our customer s historical payment experience and financial condition.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+Revenues that
+are generated from sales of equipment are typically recognized upon shipment. Our standard agreements generally do not include
+customer acceptance or post shipment installation provisions. However, if such provisions have been included or there is an uncertainty
+about customer order, revenue is deferred until we have evidence of customer order and all terms of the agreement have been complied
+with. As of June 30, 2018 and December 31, 2017, there was $690,471 and $32,090, respectively, of deposits from customers. The
+increase in deposit from customer is mostly attributable to the purchase order we received from a utility company for a wastewater
+treatment system that is comprised of 3 Voraxial Separators.  
+
+The Company
+recognizes revenue from the short-term rental of equipment, ratably over the life of the agreement, which is usually one to twelve
+months.  
+
+ACCOUNTS
+RECEIVABLE   
+
+Accounts
+receivable are presented net of an allowance for doubtful accounts. The Company maintains allowances for doubtful accounts for
+estimated losses. The Company reviews the accounts receivable on a periodic basis and makes general and specific allowance when
+there is a doubt as to the collectability of individual balances. In evaluating the collectability of individual receivable balances,
+the Company considers many factors, including the age of the balance, customer s historical payment history, and its current
+credit-worthiness and current economic trends. Accounts are written off after exhaustive efforts at collections. At June 30, 2018
+and December 31, 2017, the Company had $60,254 and $60,254 in the allowance for doubtful accounts, respectively.  
+
+Fair
+Value of Instruments   
+
+The carrying
+amounts of the Company's financial instruments, including cash and cash equivalents, inventory, accounts payable and accrued expenses
+at June 30, 2018 and December 31, 2017, approximate their fair value because of their relatively short-term nature.  
+
+ASC 820  Disclosures
+about Fair Value of Financial Instruments,  requires disclosures of information regarding the fair value of certain financial
+instruments for which it is practicable to estimate the value. For purpose of this disclosure, the fair value of a financial instrument
+is the amount at which the instrument could be exchanged in a current transaction between willing parties, other than in a forced
+sale of liquidation.  
+
+The Company
+accounts for certain assets and liabilities at fair value. The hierarchy below lists three levels of fair value based on the extent
+to which inputs used in measuring fair value is observable in the market. We categorize each of our fair value measurements
+in one of these three levels based on the lowest level input that is significant to the fair value measurement in its entirety.
+These levels are:  
+
+Level 1 inputs
+are based upon unadjusted quoted prices for identical instruments traded in active markets. We have no Level 1 instruments as
+of June 30, 2018 and December 31, 2017.  
+
+Level 2 inputs
+are based upon quoted prices for similar instruments in active markets, quoted prices for identical or similar instruments in
+markets that are not active, and model-based valuation techniques (e.g. the Black-Scholes model) for which all significant inputs
+are observable in the market or can be corroborated by observable market data for substantially the full term of the assets or
+liabilities. Where applicable, these models project future cash flows and discount the future amounts to a present value using
+market-based observable inputs including interest rate curves, foreign exchange rates, and forward and spot prices for currencies
+and commodities. We have no Level 2 instruments as of June 30, 2018 and December 31, 2017.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+Level 3 inputs
+are generally unobservable and typically reflect management s estimates of assumptions that market participants would use
+in pricing the asset or liability. The fair values are therefore determined using model-based techniques, including option pricing
+models and discounted cash flow models. We have no Level 3 instruments as of June 30, 2018 and December 31, 2017.  
+
+Cash
+and Cash Equivalents   
+
+The Company
+considers all highly liquid investments with a maturity of three months or less at the date of purchase to be cash equivalents.
+The Company maintains its cash balances with various financial institutions. Balances at these institutions may at times exceed
+the Federal Deposit Insurance Corporate ( FDIC ) limits. As of June 30, 2018, the Company has a cash concentration
+of $715,943 in excess of FDIC limits.  
+
+Inventory   
+
+Inventory consists
+of components for the Voraxial Separator and is priced at lower of cost or market. Inventory may include units being rented on
+a short-term basis or components held by third parties in connection with pilot programs as part of the continuing evaluation
+by such third parties as to the effectiveness and usefulness of the service to be incorporated into their respective operations.
+The third parties do not have a contractual obligation to purchase the equipment. The Company maintains the title and risk of
+loss. Therefore, these units are included in the inventory of the Company. As of June 30, 2018 and December 31, 2017:  
+
+Inventory amounts
+are presented net of impairment of $42,752 and $42,752 as of June 30, 2018 and December 31, 2017, respectively.  
+
+Fixed
+Assets   
+
+Fixed assets
+are stated at cost less accumulated depreciation. The cost of maintenance and repairs is expensed to operations as incurred. Depreciation
+is computed by the straight-line method over the estimated economic useful life of the assets (5-10 years). Gains and losses recognized
+from the sales or disposal of assets is the difference between the sales price and the recorded cost less accumulated depreciation
+less costs of disposal.  
+
+In July 2017,
+the Company entered into a financing agreement for the purchase of CNC machining equipment valued at approximately $426,000. The
+machining equipment was received in July 2017 and is being used for the manufacture of Voraxial Separators in manufacturing current
+and potential future orders under the Supply Agreement and sales pursuant to the Grant Back Licenses. Under the terms of the agreement
+the Company made an initial down payment of $85,661 and is required to make monthly payments of $6,788 through January 2023. In
+addition, the Company incurred $24,281 of installation costs.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+Net
+INCOME (Loss) Per Share   
+
+In accordance
+with the accounting guidance now codified as ASC Topic 260,   Earnings per Share   basic earnings (loss) per
+share is computed by dividing net income (loss) by weighted average number of shares of common stock outstanding during each period.
+Diluted earnings (loss) per share is computed by dividing net income (loss) by the weighted average number of shares of common
+stock, common stock equivalents and potentially dilutive securities outstanding during the period.  
+
+As the
+Company had net loss for the three and six month periods ended June 30, 2018, the effect of 13,465,000 and 13,465,000
+options, respectively, are anti-dilutive. A separate computation of diluted loss per share is not presented. The Company had
+net income for the three and six month periods ended June 30, 2017, the effect of 13,465,000 and 13,645,000 options,
+respectively are dilutive. A separate computation of diluted earnings per share is presented using the treasury stock
+method.  
+
+INCOME TAXES   
+
+The Company
+accounts for income taxes under ASC 740-10-25 ( ASC 740-10-25 ). Under ASC 740-10-25, deferred tax assets and liabilities
+are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using enacted
+tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or
+settled. Under ASC 740-10-25, the effect on deferred tax assets and liabilities of a change in tax rates is recognized in income
+in the period that includes the enactment date.  
+
+BUSINESS
+SEGMENTS   
+
+  The Company
+operates in one segment and therefore segment information is not presented.  
+
+Research
+and Development Expenses   
+
+Research and
+development costs, which includes travel expenses, consulting fees, subcontractors and salaries are expensed as incurred.  
+
+Advertising
+Costs   
+
+Advertising
+costs are expensed as incurred and are included in general and administrative expenses.  
+
+Stock-Based
+Compensation   
+
+The Company
+accounts for stock-based instruments issued to employees for services in accordance with ASC 718  Compensation   Stock
+Compensation.  ASC 718 requires companies to recognize in the statement of operations the grant-date fair value of stock
+options and other equity based compensation issued to employees. The value of the portion of an employee award that is ultimately
+expected to vest is recognized as an expense over the requisite service periods using the straight-line attribution method. The
+Company accounts for non-employee share-based awards in accordance with the measurement and recognition criteria of ASC 505-50,
+ Equity-Based Payments to Non-Employees.   
+
+RECLASSIFICATIONS   
+
+Certain amounts
+from prior periods have been reclassified to conform to the current period presentation. These reclassifications had no impact
+on the Company s net loss or cashflows.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+Recent
+Accounting Pronouncements   
+
+In February
+2016, the FASB issued ASU 2016-02, Leases, which will amend current lease accounting to require lessees to recognize (i) a lease
+liability, which is a lessee s obligation to make lease payments arising from a lease, measured on a discounted basis, and
+(ii) a right-of-use asset, which is an asset that represents the lessee s right to use, or control the use of, a specified
+asset for the lease term. ASU 2016-02 does not significantly change lease accounting requirements applicable to lessors; however,
+certain changes were made to align, where necessary, lessor accounting with the lessee accounting model. This standard will be
+effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. We are currently
+reviewing the provisions of this ASU to determine if there will be any impact on our results of operations, cash flows or financial
+condition.  
+
+In
+August 2015, FASB issued Accounting Standards Update ( ASU ) No. 2015-14,   Revenue from Contracts with Customers
+(Topic 606): Deferral of the Effective Date   defers the effective date ASU No. 2014-09 for all entities by one year.
+Public business entities, certain not-for-profit entities, and certain employee benefit plans should apply the guidance in Update
+2014-09 to annual reporting periods beginning after December 15, 2017, including interim reporting periods within that reporting
+period. Earlier application is permitted only as of annual reporting periods beginning after December 15, 2016, including interim
+reporting periods within that reporting period. All other entities should apply the guidance in Update 2014-09 to annual reporting
+periods beginning after December 15, 2018, and interim reporting periods within annual reporting periods beginning after December
+15, 2019. All other entities may apply the guidance in ASU No. 2014-09 earlier as of an annual reporting period beginning after
+December 15, 2016, including interim reporting periods within that reporting period. All other entities also may apply the guidance
+in Update 2014-09 earlier as of an annual reporting period beginning after December 15, 2016, and interim reporting periods within
+annual reporting periods beginning one year after the annual reporting period in which the entity first applies the guidance in
+ASU No. 2014-09.  The Company adopted these standards on January 1, 2018.  The
+adoption did not have a material impact on the timing or amounts of revenue recognized in our unaudited condensed consolidated
+financial statements and therefore did not have a material impact on our financial position, results of operations, equity or
+cash flows as of the adoption date or for the three months ended June 30, 2018. We did not recognize any cumulative-effect adjustment
+to retained earnings upon adoption as the impact was immaterial. Also, the comparative information has not been restated and continues
+to be reported under the accounting standards in effect for those periods.  
+
+All other newly
+issued accounting pronouncements, but not yet effective, have been deemed either immaterial or not applicable.  
+
+NOTE
+D - RELATED PARTY TRANSACTIONS  
+
+For the three
+and six months ended June 30, 2018, the Company incurred salary expenses for the chief executive officer of $52,500 and $105,000,
+respectively. Of these amounts, $36,000 has been paid for the six months ended June 30, 2018. The total unpaid balance as
+of June 30, 2018 is $1,278,761 and is included in accrued expenses   related party. For the three and six months ended June
+30, 2017, the Company incurred salary expenses for the chief executive officer of the Company of $76,250 and $152,500, respectively.
+Of these amounts, $5,000 had been paid for the six months ended June 30, 2017. Effective January 1, 2018, the board of directors approved
+the reduction of the chief executive officer s annual salary by $95,000 from $305,000 to $210,000.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+Effective July
+1, 2017, Raynard Veldman, a member of the Company s board of directors receives a fee of $2,500 per month for consulting
+services. During the three and six months ended June 30, 2018, Mr. Veldman received consulting fees of $7,500 and $15,000, respectively.  
+
+On May 25, 2018
+the Company issued an aggregate of 2,000,000 restricted shares of common stock to Messrs. John A. DiBella and Raynard Veldman.
+The shares were issued to them as bonus compensation for their efforts in connection with the closing of the Technology Purchase
+Agreement. The fair value of these shares is $100,000.  
+
+NOTE E  
+FIXED ASSETS  
+
+Fixed
+assets as of June 30, 2018 and December 31, 2017 consist of:  
+
+Depreciation expense was $11,265
+and $5,475 for the three months ended June 30, 2018 and 2017, respectively.  
+
+Depreciation expense was $22,529
+and $10,984 for the six months ended June 30, 2018 and 2017, respectively.  
+
+In July 2017,
+the Company entered into a financing agreement for the purchase of CNC machining equipment valued at approximately $426,000. The
+machining equipment was received in July 2017 and will be used for the manufacture of Voraxial Separators in preparation of potential
+future orders under the Supply Agreement and sales pursuant to the Grant Back Licenses. As of June 30, 2018 and December 31, 2017,
+the amount owed is $320,344 and $340,644 respectively.  
+
+note
+f   shareholders  equity  
+
+Common
+Stock  
+
+On April 16,
+2018, we entered into a 12-month business advisory consulting agreement. Under the terms of the agreement, the Company issued
+250,000 restricted shares of common stock for services. The fair value of these shares is $15,000.  
+
+On May 25, 2018
+the Company issued an aggregate of 2,000,000 restricted shares of common stock to Messrs. John A. DiBella and Raynard Veldman
+as bonus compensation for their efforts in connection with the closing of the Technology Purchase Agreement. The fair value of
+these shares is $100,000.  
+
+Options  
+
+The Company
+accounts for stock-based instruments issued to employees for services in accordance with ASC 718  Compensation   Stock
+Compensation.  ASC 718 requires companies to recognize in the statement of operations the grant-date fair value of stock
+options and other equity based compensation issued to employees. The value of the portion of an employee award that is ultimately
+expected to vest is recognized as an expense over the requisite
+service periods   
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+using  the
+straight-line attribution method. The Company accounts for non-employee share-based awards in accordance with the measurement
+and recognition criteria of ASC 505-50,  Equity-Based Payments to Non-Employees.  The Company estimates the fair
+value of stock options by using the Black-Scholes option-pricing model.  
+
+The
+Black-Scholes option-pricing model was developed for use in estimating the fair value of traded options, which have no vesting
+restrictions and are fully transferable. In addition, option valuation models require the input of highly subjective assumptions
+including the expected stock price volatility. Because the Company s stock options and warrants have characteristics different
+from those of its traded stock, and because changes in the subjective input assumptions can materially affect the fair value estimate,
+in management s opinion, the existing models do not necessarily provide a reliable single measure of the fair value of such
+stock options. The risk-free interest rate is based upon quoted market yields for United States Treasury debt securities with
+a term similar to the expected term. The expected dividend yield is based upon the Company s history of having never issued
+a dividend and management s current expectation of future action surrounding dividends. Expected volatility was based on
+historical data for the   trading  of
+our stock on the open market. The expected lives for such grants were based on the simplified method for employees and officers.   
+
+Information
+with respect to options outstanding and exercisable at June 30, 2018 is as follows:  
+
+The aggregate
+intrinsic value represents the excess amount over the exercise price optionees would have received if all the options have been
+exercised on the last business day of the period indicated based on the Company s closing stock price of for such day. The
+aggregate intrinsic value as of June 30, 2018 is $387,850.  
+
+NOTE
+G   COMMITMENTS AND CONTINGENCIES  
+
+OPERATING
+LEASE   
+
+In October 2015,
+the Company entered into a three (3) year lease for an office and manufacturing facility located at 821 NW 57 th  Place,
+Fort Lauderdale, FL 33309. The lease is $6,100 per month, which includes common area maintenance, taxes and insurance. The Company
+has the option to terminate the lease with three months  notice. During the six months ended June 30, 2018 and 2017, the
+rent expense was $38,167 and $37,336, respectively.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+EQUIPMENT
+FINANCING   
+
+In
+July 2017, the Company entered into a financing agreement for the purchase of CNC machining equipment valued at approximately
+$426,000. The machining equipment was received in July 2017 and will be used for the manufacture of Voraxial Separators in preparation
+of potential future orders under the Supply Agreement and sales pursuant to the Grant Back Licenses. As of June 30, 2018 and December
+31, 2017, the amount owed is $  320,344  and
+$340,644 respectively.   
+
+Litigation   
+
+On or about
+October 23, 2017, a claim was filed in the 17 th  Judicial Circuit Court in and for Broward County in Fort Lauderdale,
+Florida, by the plaintiff, Industrial and Oilfield Procurement Services, LLC, against the Company. The case involves an
+alleged breach of contract between the parties relating to the purchase and sale of a Voraxial unit in 2015. The plaintiff
+has demanded a refund and damages. We are defending this action, as we believe this claim is without merit.  
+
+SALE OF INTELLECTUAL
+PROPERTY   
+
+On June 8, 2017,
+the Company and FPA, our wholly owned subsidiary,  closed the transactions contemplated
+by the Technology Purchase Agreement dated March 13, 2017 with Schlumberger.  
+
+At closing,
+we sold our intellectual property (the  Purchased Intellectual Property ), substantially consisting of the Voraxial
+patents, marks, software and copyrights, to Schlumberger in consideration of up to $4,000,000, of which $3,000,000 was paid to
+us at closing and $1,000,000 is payable upon the completion of both: (i) the complete transfer of the Purchased Intellectually
+Property to Schlumberger; and (ii) the provision to transfer information, assets and services to Schlumberger, which is estimated
+to be by September 2018. We recognized a gain on the sale of our intellectual property of $3,000,000 less direct costs of $80,000,
+consisting of a termination fee and consulting fees.  
+
+We utilized
+a portion of the proceeds from this transaction to pay some of our outstanding debt and are using the balance for general working
+capital. We are also using some of the proceeds to buy additional manufacturing equipment to meet potential future sales.  
+
+As part of the
+agreement, Schlumberger granted us Grant Back Licenses to make, use, sell, offer for sale, and import products and processes embodying
+the Purchase Intellectual Property outside the oil and gas market. In addition to the proceeds from the sale of our intellectual
+property, our management believes that the Grant Back License will provide for the potential increase of revenues through the
+sale of Voraxial Separators, possibly leveraging future sales by Schlumberger in the oil and gas market to penetrate the sale
+and use of licensed Voraxial products to other industries, including, but not limited to mining, sewage and wastewater.  
+
+In addition,
+at closing FPA entered into the Supply Agreement with Cameron Solutions. Under the terms of the three-year Supply Agreement, FPA
+is the exclusive supplier to Cameron Solutions of certain Voraxial series products for use in the oil and gas industry. Sales
+will be made from time to time in accordance with the terms of purchase orders. The Supply Agreement is cancellable by Cameron
+Solutions upon 15 days  notice if FPA fails to meet delivery or performance schedules or breaches any of the terms of the
+agreement, including the warranties. Cameron Solutions may also cancel the Supply Agreement without notice in the event FPA becomes
+insolvent or commits any act of bankruptcy. The Supply Agreement contains customary indemnification and confidentiality provisions.  
+
+Table of Contents   
+
+ENVIRO
+TECHNOLOGIES, INC. AND SUBSIDIARY   
+
+   Notes
+to Condensed Consolidated Financial Statements     
+
+   JUNE
+30, 2018   
+
+   (U naudited)     
+
+For a period
+of three years following the closing of the Agreement, the Company and Raynard Veldman and John Di Bella have agreed to not participate
+or cause participation in the oil-and-gas market in relation to phase or constituent sensing or separation which is defined as,
+liquid-liquid, liquid-solid or liquid-gas separation and gas or liquid sensing, including all product lines and services related
+thereto and including the Voraxial product line and services, except to the extent necessary to: (i) repair or service, but not
+remanufacture, any goods the Company sold to third persons prior to closing; (ii) fulfill, on or after closing, any customer obligation;
+or (iii) comply with any term or condition of the Agreement. In addition, the Company shall take all reasonable measures to ensure
+the confidentiality and prevent the improper use of all trade secrets.  
+
+NOTE
+H   MAJOR CUSTOMERS  
+
+During the three
+and six months ended June 30, 2018, the Company recorded 99% and 99% of our revenues from one customer, respectively.  
+
+During the three
+and six months ended June 30, 2017, the Company recorded 87% of our revenues from two customers and 77% of our revenues from one
+customer, respectively.  
+
+As of June 30,
+2018, one of the Company s customers represents 99% of the total accounts receivable.  
+
+As of December
+31, 2017, one of the Company s customers represents 98% of the total accounts receivable.  
+
+Table of Contents   
+
+Item 2.      Management's
+                                         Discussion and Analysis of Financial Condition and Results of Operations    
+
+Forward-Looking
+Statements   
+
+The following
+discussion of the financial condition and results of operations should be read in conjunction with our consolidated financial
+statements and related notes thereto. The following discussion contains forward-looking statements. Enviro Technologies, Inc.
+is referred to herein as  the Company ,  we  or  our.  The words or phrases  would be, 
+ will allow,   intends to,   will likely result,   are expected to,   will
+continue,   is anticipated,   estimate,   project,  or similar expressions are intended
+to identify  forward-looking statements . Such statements include those concerning our expected financial performance,
+our corporate strategy and operational plans. Actual results and the timing of events could differ materially from those anticipated
+in these forward-looking statements as a result of a number of factors, including those set forth under Item 1A. Risk Factors
+in our Annual Report on Form 10-K for the year ended December 31, 2017 as filed with the SEC on April 12, 2018, and our subsequent
+filings with the SEC. All information in this section for the three and six months ended June 30, 2018 and 2017 is unaudited and
+derived from the unaudited condensed consolidated financial statements appearing elsewhere in this report; unless otherwise noted,
+all information for the year ended December 31, 2017 is derived from our audited consolidated financial statements appearing in
+the Annual Report on Form 10-K for the year ended December 31, 2017.  
+
+Application
+of Critical Accounting Policies   
+
+The Company s
+unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted
+in the United States of America. Certain accounting policies have a significant impact on amounts reported in the financial statements.
+A summary of these significant accounting policies can be found in Note C to the Company s financial statements in the Company s
+2017 Annual Report on Form 10-K for the year ended December 31, 2017. The Company has adopted Topic 606 to account for revenue
+during the period ended June 30, 2018. Refer to Note C.  
+
+Among the significant
+judgments made in preparation of the Company s financial statements are the determination of the allowance for doubtful
+accounts, value of equity instruments and adjustments of inventory valuations. These adjustments are made each quarter in the
+ordinary course of accounting.  
+
+Overview  
+
+Enviro Technologies,
+Inc. was incorporated in Idaho on October 19, 1964, under the name Idaho Silver, Inc. Florida Precision Aerospace, Inc.,
+our wholly owned subsidiary, was incorporated on February 26, 1993. The Company developed and now manufactures and sells the patented
+Voraxial    Separator pursuant to the agreements discussed below. The Voraxial    Separator is a proprietary
+technology now owned by Cameron Solutions, Inc., an affiliate of Schlumberger Technology Corporation that efficiently separates
+large volumes of liquid/liquid, liquid/solids or liquid/liquid/solids fluid mixtures with distinct specific gravities.  
+
+On March 13,
+2017, we entered into a Technology Purchase Agreement with Schlumberger Technology Corporation, a Texas corporation, Schlumberger
+Canada Limited, a Canadian entity, and Schlumberger B.V., an entity organized under the laws of the Netherlands (collectively,
+ Schlumberger ) which was approved by the Company s shareholders on May 31, 2017 and completed on June 8, 2017.
+Under the agreement we sold our intellectual property (the  Purchased Intellectual Property ), substantially consisting
+of the Voraxial patents, marks, software and copyrights, to Schlumberger in consideration of up to $4,000,000, of which $3,000,000
+was paid to us at closing. The remaining $1,000,000 is payable upon the completion of both: (i) the complete transfer of the Purchased
+Intellectually Property to Schlumberger; and (ii) the provision to transfer information, assets and services
+to Schlumberger, which is estimated to be completed by September, 2018.  
+
+Table of Contents   
+
+Pursuant to
+the agreements we signed with Schlumberger, we shall continue to manufacture the technology for Schlumberger for the oil and gas
+industry and are able to pursue other industries independent of Schlumberger, which include mining, sewage, wastewater as well
+as other markets. We have focused our resources immediately after the transaction developing the relationship with Schlumberger
+and preparing and upgrading our manufacturing capabilities to meet the potential increase in Voraxial demand from the oil and
+gas markets resulting in an increase in our SG A.  
+
+As part of the
+agreement, Schlumberger granted us a non-exclusive, non-transferable, worldwide, royalty-free licenses (the  Grant Back
+Licenses ), to make, use, sell, offer for sale, and import products and processes embodying the Purchase Intellectual Property
+outside the oil and gas market. We believe that the Grant Back Licenses will provide for potential revenue growth through the
+sale of Voraxial Separators outside the oil and gas industry, including, but not limited to mining, sewage and industrial wastewater.
+Although there are no assurances that we will generate substantial revenues under the Grant Back License we believe these opportunities
+to serve industries outside of the oil and gas markets will continue to increase.  
+
+We have started
+transitioning our sales and marketing activities to market outside of oil and gas. We received a purchase order from a utility
+company for a wastewater system that will require multiple Voraxial Separator units. The wastewater system we anticipate shipping
+by first quarter of 2019 will be utilized to separate oil and solids prior to the water being discharged into the environment.
+The increase in our deposits is a result of this purchase order.  
+
+In addition,
+at closing FPA entered into a Framework Agreement (the  Supply Agreement ) with Cameron Solutions, Inc. ( Cameron
+Solutions ), a Houston, Texas-based company engaged in the development, manufacture and sale of equipment used in the oil
+and gas industry. Under the terms of the three-year Supply Agreement, FPA is the exclusive supplier to Cameron Solutions of certain
+Voraxial series products for use in the oil and gas industry. The Supply Agreement is cancellable by Cameron Solutions upon 15
+days  notice if FPA fails to meet delivery or performance schedules or breaches any of the terms
+of the agreement, including the warranties. The Supply Agreement contains customary indemnification and confidentiality provisions.
+Although there are no assurances that we will generate substantial revenues under the Supply Agreement, we have begun receiving
+orders from and shipping to Cameron Solutions.  
+
+For a period
+of three years following the closing of the Technology Purchase Agreement, the Company and Raynard Veldman and John Di Bella have
+agreed to not participate or cause participation in the oil-and-gas market in relation to phase or constituent sensing or separation
+which is defined as, liquid-liquid, liquid-solid or liquid-gas separation and gas or liquid sensing, including all product lines
+and services related thereto and including the Voraxial product line and services, except to the extent necessary to: (i) repair
+or service, but not remanufacture, any goods the Company sold to third persons prior to closing; (ii) fulfill, on or after closing,
+any customer obligation; or (iii) comply with any term or condition of the agreement. In addition the Company shall take all reasonable
+measures to ensure the confidentiality and prevent the improper use of all trade secrets.  
+
+Table of Contents   
+
+Results
+of Operations for the Three Months ended June 30, 2018 and 2017:  
+
+Revenue   
+
+Our revenues
+decreased by $16,998 or approximately 58% to $12,063 for the three months ended June 30, 2018 as compared to $29,061 for the three
+months ended June 30, 2017.  The decrease in revenues corresponds with
+the transition we are experiencing due to the Technology Purchase Agreement we consummated with Schlumberger and related transactions.
+We believe there is a market for the Voraxial Separator and that  these agreements will provide us with the opportunity
+to substantially increase revenues in the future in both the oil and gas industry and potentially other industries as well, such
+as mining, sewage and industrial wastewater through the Grant Back Licenses. Although we have begun receiving orders as a result
+of the  Technology Purchase Agreement,  there are no assurances
+that we are correct and it is possible we will not be successful in our efforts to exploit these additional opportunities.  
+
+Additionally,
+we received a purchase order from a utility company for a wastewater system that will require multiple Voraxial
+Separator units. The wastewater system we anticipate shipping by first quarter of 2019 will be utilized to separate oil and
+solids prior to the water being discharged into the environment. The increase in our deposits from customer is a result of
+this purchase order.  
+
+Cost
+of Goods    
+
+Our cost of
+goods decreased by 83% to $3,091 for the three months ended June 30, 2018 as compared to $18,404 for the three months ended June
+30, 2017. This decrease is mainly due to the decrease in sales and the use of previously written off inventory during the three
+months ended June 30, 2018. Our cost of goods continues to be reviewed by management in effort to obtain the best available pricing
+while maintaining high quality standards.  
+
+Costs
+and Expenses   
+
+Total costs
+and expenses increased by $217,010 or approximately 108% to $416,927 for the three months ended June 30, 2018 as compared to $199,917
+for the three months ended June 30, 2017. Our costs and expenses increased from the second quarter of the previous year as we
+incurred an increase in SG A which is due to the increase activity in the sales and marketing of the Voraxial, increase in
+maintenance and repair associated with the increase use of equipment and manufacturing activity, and an increase in depreciation
+expense from recently acquired manufacturing equipment. The increase in our professional fees and payroll reflects the increase
+in consulting payments and a non-cash expense of $115,000 associated with the restricted stock issuance to Messrs. DiBella and
+Veldman and as compensation for services pursuant to the terms of a business advisory consulting agreement. This was offset partially
+by a decrease in our payroll as our CEO reduced his salary by $23,750 during the three months ended June 30, 2018.  
+
+Results of Operations for
+the Six Months ended June 30, 2018 and 2017:   
+
+   Revenue   
+
+Our revenues increased by 5% to $125,990
+for the six months ended June 30, 2017 as compared to $120,412 for the six months ended June 30, 2016.  
+
+Our revenues
+were relatively flat year over year.  The modest increase in revenues
+corresponds with the transition we are experiencing due to the Technology Purchase Agreement we consummated with Schlumberger
+and related transactions. We believe there is a market for the Voraxial Separator and that  these agreements will provide
+us with the opportunity to substantially increase revenues in the future in both the oil and gas industry and potentially other
+industries as well, such as mining, sewage and industrial wastewater through the Grant Back Licenses. Although we have begun receiving
+orders   
+
+Table of Contents   
+
+as a result of the  Technology
+Purchase Agreement,  there are no assurances that we are correct and it is possible we will not be successful in our efforts
+to exploit these additional opportunities. 
+
+Additionally,
+we received a purchase order from a utility company for a wastewater system that will require multiple Voraxial
+Separator units. The wastewater system we anticipate shipping by first quarter of 2019 will be utilized to separate oil and
+solids prior to the water being discharged into the environment. The increase in our deposits from customer is a result of
+this purchase order.  
+
+Cost
+of Goods   
+
+Our cost of
+goods increased to $70,288 for the six months ended June 30, 2018 as compared to $42,563 for the six months ended June 30, 2017.
+This increase is due to the different models and parts sold during the six months ended June 30, 2017. Additionally, in the six
+months ended June 30, 2017, we were able to use previously written off inventory which reduced our cost of goods for that period.
+Our cost of goods continues to be reviewed by management to guarantee the best available pricing while maintaining high quality
+standards.  
+
+Costs
+and Expenses   
+
+Total
+costs and expenses increased by $276,854 or approximately 70% to $666,904 for the six months ended June 30, 2018 from $390,050
+for the six months ended June 30, 2017.   
+
+Our costs and
+expenses increased from the previous year as we incurred an increase in SG A which is due to the increase activity in the
+sales and marketing of the Voraxial, increase in maintenance and repair associated with the increase use of equipment for manufacturing
+activity, and an increase in depreciation expense from recently acquired equipment used to manufacture the Voraxial Separator.
+The increase in our professional fees and payroll reflects the increase in consulting payments and a non-cash expense of $115,000
+associated with the restricted stock issuance to Messrs. DiBella and Veldman and as compensation for services pursuant to the
+terms of a business advisory consulting agreement. This was offset partially by a decrease in our payroll as our CEO reduced his
+salary by $47,500 during the six months ended June 30, 2018.  
+
+Liquidity
+and Capital Resources:  
+
+Cash at June
+30, 2018 was $953,055 as compared to $1,010,434 at December 31, 2017. Working capital deficit at June 30, 2018 was $684,829 as
+compared to a working capital deficit at December 31, 2017 of $166,137. At June 30, 2018, we had an accumulated deficit of $15,613,636.
+Our current assets increased by 21.4% at June 30, 2018 as compared to December 31, 2017, which reflects increases in our inventory
+as a result of the units we are manufacturing in fulfillment of orders we received and units we are manufacturing in fulfillment
+of the Technology Purchase Agreement. Our current liabilities increased 53.4% at June 30, 2018 as compared to December 31, 2017,
+which is primarily attributable to a significant increase in deposits from customers as a result of the purchase order we received
+from a utility company.  
+
+Table of Contents   
+
+Summary of
+cash flows   
+
+Net
+cash used in operating activities in the six months ended June 30, 2018 was primarily attributable to net loss and increase in
+inventory, offset in part by an increase in deposit from customer. Increase in our inventory is a result of the units we are manufacturing
+in fulfillment of orders we received and units we are manufacturing in fulfillment of the Technology Purchase Agreement. Increase
+in deposit from customer is primarily attributable to deposit received on a purchase order we received from a utility company.
+Net cash used in operating activities in the six months ended June 30, 2017 was primarily attributable to the completion of the
+Technology Purchase Agreement resulting in a gain on the sale of our intellectual property of $3,000,000 less direct costs of
+$80,000, offset by an increase in accounts receivable and a decrease in accounts payable and accrued expenses.  
+
+Net
+cash used in financing activities during the six months ended June 30, 2018 was primarily attributable to the repayment of the
+equipment note payable. Net cash provided by financing activities during the six months ended June 30, 2017 was primarily attributable
+to the proceeds from unsecured notes payable and advances from the Company s Chief Executive Officer, offset by repayments
+of unsecured notes payable and advances from the Company s Chief Executive Officer.  
+
+Continuing
+Losses  
+
+While
+the Company has historically experienced recurring net losses, our management believes that the Grant Back Licenses will provide
+us the opportunity to possibly leverage future Schlumberger sales in the oil and gas market to penetrate the sale and use of licensed
+Voraxial products to other industries, including, but not limited to mining, sewage and wastewater. We believe that including
+our current cash resources and anticipated revenue to be generated under the Grant Back Licenses and Supply Agreement, we will
+have sufficient resources to continue business operations in excess of 12 months. However, there are no assurances
+that we will generate any or significant revenues under the Supply Agreement or Grant Back Licenses and there is limited historical
+financial data and operating results with which to evaluate our business and our prospects under the new agreements.  
+
+Our
+ability to generate future revenues will depend on a number of factors, many of which are beyond our control. These factors include
+competitive efforts and general economic trends. Due to these factors, we cannot anticipate with any degree of certainty what
+our revenues will be in future periods. Our independent auditors have included in their audit report for the years ended December
+31, 2017 and 2016 an explanatory paragraph that states that our continuing losses from operations raises substantial doubt about
+our ability to continue as a going concern. Although we achieved profitability in 2017, such profit was due to the closing of
+the Technology Purchase Agreement. At June 30, 2018, we had an accumulated deficit of $15,613,636 including a net loss of $624,842
+for the six months ended June 30, 2018. We anticipate receiving the remaining $1,000,000 by September 2018 in fulfillment of the
+Technology Purchase Agreement signed with Schlumberger in June 2017. We may not be able to achieve profitability on a quarterly
+or annual basis. If we fail to achieve profitability on a quarterly or annual basis, or to receive the remaining fund from the
+Technology Purchase Agreement, or to raise additional funds when needed, or do not have sufficient cash flows from sales, we may
+be required to scale back or cease operations, sell or liquidate our assets and possibly seek bankruptcy protection.  
+
+Table of Contents   
+
+As
+a result of the above, there is substantial doubt about the ability of the Company to continue as a going concern and the accompanying
+consolidated financial statements have been prepared assuming that the Company will continue as a going concern. The accompanying
+consolidated financial statements do not include any adjustments that may result from the outcome of this uncertainty.   
+
+Off balance
+sheet arrangements   
+
+As
+of the date of this report, we do not have any off-balance sheet arrangements that have or are reasonably likely to have a current
+or future effect on our financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity,
+capital expenditures or capital resources that are material to investors. The term  off-balance sheet arrangement 
+generally means any transaction, agreement or other contractual arrangement to which an entity unconsolidated with us is a party,
+under which we have any obligation arising under a guarantee contract, derivative instrument or variable interest or a retained
+or contingent interest in assets transferred to such entity or similar arrangement that serves as credit, liquidity or market
+risk support for such assets.  
+
+Recent Accounting
+Pronouncements   
+
+For a
+discussion of new accounting pronouncements affecting the Company, refer to Note C to the Condensed Consolidated Financial
+Statements.  
+
+Item 3.      Quantitative
+                                         and Qualitative Disclosures About Market Risk    
+
+Not applicable
+to smaller reporting company.  
+
+Item 4.      Controls
+                                         and Procedures    
+
+Evaluation
+of Disclosure Controls and Procedures   
+
+We maintain
+disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended
+(the  Exchange Act ) that are designed to be effective in providing reasonable assurance that information required
+to be disclosed in our reports under the Exchange Act is recorded, processed, summarized and reported within the time periods
+specified in the rules and forms of the SEC, and that such information is accumulated and communicated to our management to allow
+timely decisions regarding required disclosure.  
+
+The Company s
+management, under the supervision and with the participation of the Company's Chief Executive Officer who also serves as our Chief
+Financial (and principal accounting) Officer, carried out an evaluation of the effectiveness of the design and operation of the
+Company's disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) of the Exchange Act) as of June 30, 2018.
+Based upon continuing material weakness in the Company s internal control over financial reporting as described in our Annual
+Report on Form 10-K for the year ended December 31, 2017, our management concluded that the Company s disclosure controls
+and procedures were ineffective as of the end of the period covered by this report.  
+
+Table of Contents   
+
+Limitations
+on Effectiveness of Controls and Procedures  
+
+Our management,
+including our Chief Executive Officer who also serves as our Chief Financial Officer, does not expect that our disclosure controls
+and procedures or our internal controls will prevent all errors and all fraud. A control system, no matter how well conceived
+and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further,
+the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be
+considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can
+provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These
+inherent limitations include, but are not limited to, the realities that judgments in decision-making can be faulty and that breakdowns
+can occur because of simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons,
+by collusion of two or more people, or by management override of the control. The design of any system of controls also is based
+in part upon certain assumptions about the likelihood of future events and there can be no assurance that any design will succeed
+in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes
+in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations
+in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.  
+
+Changes
+in Internal Control over Financial Reporting  
+
+There were no
+changes to our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange
+Act) that occurred during the period covered by this report that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting.  
+
+Table of Contents   
+
+PART II.      OTHER INFORMATION     
+
+Item 1.       Legal
+                                         Proceedings    
+
+As
+previously discussed, on or about October 23, 2017, a claim was filed in the 17 th  Judicial Circuit Court in and for
+Broward County in Fort Lauderdale, Florida, by the plaintiff, Industrial and Oilfield Procurement Services, LLC, against our company.
+ The case involves an alleged breach of contract between the parties relating to the purchase and sale of a Voraxial unit
+in 2015. The plaintiff has demanded a refund and damages. We are defending this action, as we believe this claim is without
+merit.  
+
+Item 1A.      Risk
+                                         Factors    
+
+Smaller
+reporting companies are not required to provide the information required by this item.  
+
+Item 2.      Unregistered
+                                         Sales of Equity Securities and Use of Proceeds    
+
+None,
+except as previously reported.  
+
+Item 3.      Defaults
+                                         Upon Senior Securities    
+
+None.  
+
+Item 4.      Mine
+                                         Safety Disclosure    
+
+None.  
+
+Item 5.      Other
+                                         Information    
+
+None.  
+
+Item 6.      Exhibits    
+
+Exhibits
+required by Item 601 of Regulation S-K.  
+
+Table of Contents   
+
+SIGNATURE  
+
+  Pursuant to the requirements of the
+Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned as a
+duly authorized officer of the Registrant.  
+
+Enviro Technologies, Inc.  
+
+By:  /s/ John A. Di Bella    
+
+  John A. Di Bella  
+
+  Chief Executive Officer
+and  
+
+  Chief Financial Officer  
+
+DATED: August 10, 2018  
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+EXHIBIT 31.1 
+
+ CERTIFICATION 
+
+ I, John A. Di Bella, certify that: 
+
+  1.                
+  I have reviewed this report on Form 10-Q of Enviro Technologies, Inc. for the period ended June 30, 2018; 
+
+  2.                
+  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading
+with respect to the period covered by this report; 
+
+  3.                
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly
+present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+the periods presented in this report; 
+
+  4.                
+  The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure
+controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+  (a)              
+  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed
+under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+  (b)              
+  Designed such internal control over financial reporting, or cause such internal control over financial reporting
+to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+  (c)              
+  Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report
+our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; 
+
+  (d)              
+  Disclosed in this report any change in the registrant s internal control over financial reporting that occurred
+during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over
+financial reporting; and 
+
+  5.                
+  The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal
+control over financial reporting, to the registrant s auditor and the audit committee of the registrant s board of
+directors (or persons performing the equivalent functions): 
+
+  (a)              
+  All significant deficiencies and material weaknesses in the design or operation of internal control over financial
+reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report
+financial information; and 
+
+  (b)              
+  Any fraud, whether or not material, that involves management or other employees who have a significant role in the
+registrant s internal control over financial reporting. 
+
+ Date: August 10, 2018 
+
+  /s/ John A. Di Bella   
+
+ John A. Di Bella 
+
+ Chief Executive Officer, principal executive officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+EXHIBIT 31.2 
+
+ CERTIFICATION 
+
+ I, John A. Di Bella, certify that: 
+
+  1.                
+  I have reviewed this report on Form 10-Q of Enviro Technologies, Inc. for the period ended June 30, 2018; 
+
+  2.                
+  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading
+with respect to the period covered by this report; 
+
+  3.                
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly
+present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for,
+the periods presented in this report; 
+
+  4.                
+  The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure
+controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+  (a)              
+  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed
+under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries,
+is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+  (b)              
+  Designed such internal control over financial reporting, or cause such internal control over financial reporting
+to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+  (c)              
+  Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report
+our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; 
+
+  (d)              
+  Disclosed in this report any change in the registrant s internal control over financial reporting that occurred
+during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over
+financial reporting; and 
+
+  5.                
+  The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal
+control over financial reporting, to the registrant s auditor and the audit committee of the registrant s board of
+directors (or persons performing the equivalent functions): 
+
+  (a)              
+  All significant deficiencies and material weaknesses in the design or operation of internal control over financial
+reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report
+financial information; and 
+
+  (b)              
+  Any fraud, whether or not material, that involves management or other employees who have a significant role in the
+registrant s internal control over financial reporting. 
+
+ Date: August 10, 2018 
+
+  /s/ John A. Di Bella   
+
+ John A. Di Bella 
+
+ Chief Financial Officer, principal financial officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER
+
+EXHIBIT 32.1 
+SECTION 1350 CERTIFICATION 
+
+ In connection with the quarterly report
+of Enviro Technologies, Inc. (the  Company ) on Form 10-Q for the period ended June 30, 2018 as filed with the Securities
+and Exchange Commission on the date hereof (the  Report ), I, John A. Di Bella, Chief Executive Officer and Chief Financial
+Officer of the Company, certify, pursuant to 13 U.S.C.   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002, that: 
+
+ (1) The Report fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+ (2) The information contained in the Report
+fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+ Date: August 10, 2018 
+
+/s/ John A. Di Bella   
+
+ John A. Di Bella 
+
+ Chief Executive Officer and Chief Financial Officer 
+
+A signed original of this written statement required by Section
+906, or other document authenticating, acknowledging, or otherwise adopting the signature that appears in typed form within the
+electronic version of this written statement has been provided to the Company and will be retained by the Company and furnished
+to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ evtn-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ evtn-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ evtn-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ evtn-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ evtn-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ evtn-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

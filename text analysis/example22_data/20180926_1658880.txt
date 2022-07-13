@@ -1,0 +1,2118 @@
+HANGE COMMISSION  
+
+  Washington, D.C. 20549  
+
+Form 10-K  
+
+Annual
+Report PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For the fiscal year ended October 31, 2017  
+
+or  
+
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the Transition Period from               
+  to                 .  
+
+Commission file number 000-1658880  
+
+BARE METAL STANDARD, INC.   
+
+  (Exact name of registrant as specified in its charter)  
+
+IDAHO    
+        47-5572388     
+ 
+       (State or other jurisdiction of   
+       (I.R.S. Employer    
+ 
+       incorporation or organization)   
+       Identification No.)    
+
+3604 S. Banner Street  
+
+  Boise, Idaho  
+
+    (Address of principal executive offices,
+including zip code.) 
+
+(208) 898-9379   
+
+ (Telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the
+Act: 
+
+Title of each class  
+      Name of each exchange on which registered   
+ 
+       Common   
+       OTC Markets    
+
+Securities registered pursuant to Section 12(g) of the
+Act: 
+
+Common Stock, par value $0.001 per share   
+
+ (Title of class) 
+
+Indicate by check mark if the registrant is a well-known
+seasoned issuer as defined in Rule 405 of the Securities Act. Yes     No     
+
+Indicate by check mark if the registrant is not required
+to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes     No     
+
+Indicate by check mark whether the registrant (1) has
+filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes     No     
+
+Indicate by check mark whether the registrant has submitted
+electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant
+to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit
+and post such files). Yes     No     
+
+Indicate by check mark if disclosure of delinquent filers
+pursuant to Item 405 of Regulation S-K is not contained herein, and will not be contained, to the best of the Registrant s
+knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment
+to this Form 10-K.     
+
+Indicate by check mark whether the registrant is a large
+accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of  large
+accelerated filer,  accelerated filer,  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer      
+      Accelerated filer       
+ 
+      Non-accelerated filer      
+      Smaller reporting company       
+
+Emerging Growth Company       
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.          
+
+Indicate by check mark whether the registrant is a shell
+company (as defined in Rule 12b-2 of the Exchange Act). 
+
+ Yes         No     
+
+State the aggregate market value of
+the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was
+last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most
+recently completed second fiscal quarter: $1,645,000 as of April 30, 2017. 
+
+Indicate the number of shares outstanding of each of
+the registrant s classes of common stock, as of the latest practicable date: 31,845,000 shares of common stock as of September
+21, 2018. 
+
+Documents Incorporated By Reference:  None  
+
+BARE METAL STANDARD, INC.   
+
+  OCTOBER 31, 2017  
+
+INDEX TO FORM 10-K  
+
+Page No.    
+
+PART I     
+     4  
+ 
+      Item 1.  
+       
+       Business   
+     4  
+ 
+      Item 1A.  
+       
+       Risk Factors   
+     6  
+ 
+      Item 1B.  
+       
+       Unresolved Staff Comments   
+     6  
+ 
+      Item 2.  
+       
+       Properties   
+     6  
+ 
+      Item 3.  
+       
+       Legal Proceedings   
+     6  
+ 
+      Item 4.  
+       
+       Mine Safety Disclosures   
+     6  
+
+PART II    
+     7  
+ 
+      Item 5.  
+       
+      Market for Registrant s Common Equity, Related Stockholder Matters and Issuer    Purchases of Equity Securities   
+     7  
+ 
+      Item 6.  
+       
+       Selected Financial Data   
+     8  
+ 
+      Item 7.  
+       
+      Management s Discussion and Analysis of Financial Condition and Results of Operations  
+     8  
+ 
+      Item 7A.  
+       
+       Quantitative and Qualitative Disclosures About Market Risk   
+     13  
+ 
+      Item 8.  
+       
+       Financial Statements and Supplementary Data   
+     13  
+ 
+      Item 9.  
+       
+      Changes in and Disagreements with Accountants on Accounting and Financial Disclosure  
+     14  
+ 
+      Item 9A.  
+       
+       Controls and Procedures   
+     14  
+ 
+      Item 9B.  
+       
+       Other Information   
+     15  
+
+PART III    
+     15  
+ 
+      Item 10.  
+       
+       Directors, Executive Officers and Corporate Governance   
+     15  
+ 
+      Item 11.  
+       
+       Executive Compensation   
+     16  
+ 
+      Item 12.  
+       
+       Security Ownership of Certain Beneficial Owners and Management and Related     Stockholder Matters   
+     17  
+ 
+      Item 13.  
+       
+       Certain Relationships and Related Transactions, and Director Independence   
+     18  
+ 
+      Item 14.  
+       
+       Principal Accounting Fees and Services   
+     18  
+
+PART IV    
+     19  
+ 
+      Item 15.  
+       
+       Exhibits and Financial Statement Schedules   
+     19  
+
+Signatures   
+     20  
+
+PART I  
+
+  Note about Forward-Looking Statements  
+
+Certain statements in this report, other than purely
+historical information, including estimates, projections, statements relating to our business plans, objectives, and expected operating
+results, and the assumptions upon which those statements are based, are  forward-looking statements  within the meaning
+of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities
+Exchange Act of 1934. Forward-looking statements may appear throughout this report, including without limitation, the following
+sections:  Business,   Management's Discussion and Analysis,  and  Risk Factors.  These forward-looking
+statements generally are identified by the words  believe,   project,   expect,   anticipate, 
+ estimate,   intend,   strategy,   future,   opportunity,   plan, 
+ may,   should,   will,   would,   will be,   will continue,   will
+likely result,  and similar expressions. Forward-looking statements are based on current expectations and assumptions that
+are subject to risks and uncertainties which may cause actual results to differ materially from the forward-looking statements.
+We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future
+events, or otherwise. 
+
+Item 1, Business  
+
+On November 12, 2015 Bare Metal
+Standard ( Bare Metal ,  BMS  or the  Company ) was incorporated under the laws of the State
+of Idaho as a corporation capitalizing on the current growth in commercial kitchen. With the core competency of servicing commercial
+kitchen grease exhaust systems the Company s strategy is to leverage this required service to capture a national footprint
+of commercial kitchen customers through the franchise model of their Bare Metal Standard brand. The Company is focused exclusively
+on the restaurant industry and specifically the engine that drives this business the commercial kitchen. The Company seeks to develop
+synergistic services required by commercial kitchens to keep them Safe, Health and Efficient. The Company views the market in three
+customer categories; a. Healthcare, b. Institutional and c. Restaurants.   
+
+Bare Metal Standard provides
+franchise opportunities in the services of commercial kitchen grease exhaust systems (GES). 
+
+Bare Metal Standard supports
+all its franchises through a centralized workflow system named Shifts Software that the company created and owns.  This
+application is capable of managing hundreds of franchisees and thousands of customer locations.  The workflow system
+exists on redundant servers throughout the USA to ensure connectivity. The company purchases consumables to leverage its buying
+power and maintain its uniformity. Our franchisees will purchase, directly from us, to maintain the same quality products
+and uniformity in our cleaning process. 
+
+The Company s business
+model comes from the traditional franchise model that has proven to be successful for many service focused offerings.  The
+primary value of our business model is to leverage the knowledge, capital and passion, equipment and processes to build a national
+brand to deliver a consistent level of services throughout the United States and beyond. Once we are operational with clients
+the business model is secure with recurring revenue from the required service (by code NFPA 96) on a quarterly basis (quarterly
+is typical, some potential customers are monthly, every 2, 4, 6 months to a few who go annually). The NFPA (National
+Fire Protection Associations) guidelines are adopted by insurance companies and local fire departments for the safety of the public.
+It has become mandatory for industrial kitchens to maintain a monthly, quarterly or semiannual cleaning schedule depending on what
+they cook.   A barbecue restaurant would be required to clean their hoods monthly compared to a nursing homes semiannual
+cleaning. Local authority departments monitor these schedules with onsite inspections. Our mission is to transform this business
+sector into a rationalized national brand that will have the strength to expand throughout the United States and beyond. 
+
+Our principal service is providing support and training
+for our franchisees helping them to become successful utilizing our proven track record. We do not own any patents or trademarks
+but we are licensed in the appropriate states that we offer under the franchising laws of that State. 
+
+We are registered in all the
+States in the United States to sell and operate our franchises except the following 10 States; 
+
+California  
+      Hawaii  
+      Illinois  
+
+Maryland  
+      Michigan  
+      New York  
+
+North Dakota  
+      South Dakota  
+      Rhode Island  
+
+Wisconsin  
+
+We intend to register
+in the remaining States as needed. 
+
+We have entered into an agreement
+with Taylor Brothers Inc. (a company with common officers and shareholders) to use three of their offices. The rent will be $5,000
+per month, when Bare Metal Standard completes required funding to support ongoing operations. 
+
+On March 1, 2017,
+we entered into a management agreement with Taylor Brothers Holdings Inc.  Taylor Brothers  or Taylor
+Brothers Holdings , which is an operating company and has common majority shareholders and directors. The officers and
+directors of Bare Metal Standard were officers and directors of Taylor Brothers. James Bedal and Mike Taylor have resigned
+their positions with Taylor Brothers and work full time for Bare Metal Standard. The agreement term has no expiration and can
+be terminated by the Company at any time with written notice to the other partner. As a result of the management agreement,
+Bare Metal is to provide, on behalf of Taylor Brothers, certain management services, having full authorization, on behalf
+of Taylor Brothers to provide all the services and all the activities, normally provided by Taylor Brothers, under the
+Taylor Brothers franchise agreements, previously entered into by Taylor Brothers and the franchisees Bare Metal became
+responsible for servicing franchisee agreements and receiving 100% of the revenues associated with those agreements assumed
+for the support and maintenance of the preexisting franchise agreements of Taylor Brothers Holdings franchisees as
+Taylor Brothers Holdings has ceased selling franchises. Bare Metal is due all collections from franchisees. Bare Metal
+Standard assumed the business operations of the existing franchise agreements while potential liabilities arising from said
+agreements will remain with Taylor Brothers. Additionally, on November 1, 2017 Bare Metal, entered into a royalty free
+license agreement with Taylor Brothers Holdings Inc. with the right to sublease, the use of Trade Name Bare Metal Standard
+and related industry know-how including proprietary software in exchange for a monthly fee of $2,000 paid in arrears. As a
+result of the above transactions with Taylor Brothers Holdings Inc., under Regulation S-X for reporting purposes Taylor
+Brother Holdings Inc. is considered a business. Thus, Taylor Brothers Holdings Inc. is viewed as Predecessor entity for
+reporting purposes, and Bare Metal is viewed as a Successor entity. For purposes of the following discussion, we compare the
+combined results of Bare Metal Standard Inc. for the eight months ended October 31, 2017 and Taylor Brothers Holdings for the
+four months ended February 28, 2017, to the results of Taylor Brothers Holdings Inc. for the 12 months ended October 31,
+2016.  A black line separates the Predecessor and Successor financial statements to
+highlight the lack of comparability between these periods.  
+
+We believe that our potential customers
+understand the financial and reputational risks associated with inadequate maintenance of their kitchen hoods and that our high-quality,
+professional services are low-cost expenditures when compared to the alternative of failing to perform essential maintenance. We
+strive to be the service provider of choice and believe the commercial kitchen industry of over 1million locations in the United
+States collectively have recognized the value proposition of complying with the required fire and insurance regulations. As evidenced
+by our long-standing customer relationships our management team has and the high rate at which our customers renew their contracts
+from year to year we are confident Bare Metal Standard possesses the tools required to develop a national brand with franchisees
+in every major market within the United States. 
+
+Our focus on attracting and
+retaining new customers as our franchisees begins with our associates in the field, who interact with commercial kitchen managers,
+fire departments, insurance companies and facility managers every day. Our associates bring a strong level of passion and commitment
+to the Bare Metal Standard brand. We have extensive experience to bring to our new company. Our field organization is supported
+by dedicated customer service and call center personnel. Our culture of continuous improvement drives an intense focus on the quality
+of the services delivered, which we believe produces high levels of customer satisfaction and, ultimately, customer retention and
+referrals. 
+
+Our expansion, both in existing
+markets of potential franchisees, where we have capacity to increase our local market position with franchises, and in new
+markets through detailed assessments of local economic conditions and demographics, we have identified target markets where we
+see opportunities. We intend to grow our presence through strategic franchise expansions and additional licensing agreements. 
+
+Competition  
+
+We may not have the resources
+to compete with our existing competitors or with any new competitors. We intend to complete our raise of capital so that we can
+award franchisees in all major markets inside the United States and are confident our process and procedures are capable of supporting
+a healthy competition for customers in all three customer categories; Healthcare, Institutional and Restaurant. 
+
+Moreover, as compliance to authority
+having jurisdiction (fire dept. insurance co. health dept.) requirements increase demand for the servicing of commercial kitchen
+grease exhaust systems increases, new companies may enter the market and the influx of added competition will pose an increased
+risk to our Company. Increased competition may lead to price wars at the Restaurant category; however, at this point we have a
+technological advantage on the more complicated systems found in Healthcare and Institutional customer categories. Thus, there
+is a significant risk of for markets where we have yet to place a franchisee, providing new competitors the time to improve their
+technology and gain a foothold in markets we are absent. 
+
+Intellectual Property  
+
+We rely or plan to rely on a
+combination of trademark, copyright, trade secret and patent laws in the United States, as well as confidentiality procedures and
+contractual provisions to protect our commercial kitchen grease exhaust system maintenance methodologies and any new methodologies
+we might develop in the future. We currently have no pending patents nor trademarks. 
+
+From time to time, we expect
+that we may encounter disputes over rights and obligations concerning intellectual property. Also, the efforts management has taken
+to protect its proprietary rights may not be sufficient or effective. Any significant impairment of its intellectual property rights
+could harm the existing business, the brand and reputation, and the ability of the business to compete on a going forward basis.
+Also, protecting our intellectual property rights could be costly and time consuming. 
+
+Employees  
+
+We currently have six employees.
+Our CEO performs all duties related to the operations of this business. We also plan to utilize additional independent contractors
+on a part-time/as needed basis. 
+
+Item 1A, Risk Factors  
+
+The Company is a smaller reporting company as defined
+by Rule 12b-2 of the Securities Exchange Act of 1934 and is not required to provide the information under this item. 
+
+Item 1B, Unresolved Staff Comments   
+
+The Company is a smaller reporting company as defined
+by Rule 12b-2 of the Securities Exchange Act of 1934 and is not required to provide the information under this item. 
+
+Item 2, Properties  
+
+Our corporate headquarters are
+located at: 3604 S. Banner Street, Boise, Idaho 83709. We do not own any real property. Management believes that its current facilities
+are adequate for its needs through the next twelve months, and that, should it be needed, suitable additional space will be available
+to accommodate expansion of the Company's operations on commercially reasonable terms, although there can be no assurance in this
+regard. 
+
+Item 3, Legal Proceedings  
+
+From time to time, we may become involved in various
+lawsuits and legal proceedings that arise in the ordinary course of business. However, litigation is subject to inherent uncertainties,
+and an adverse result in these or other matters may arise from time to time that may harm our business. We are currently not aware
+of any such legal proceedings or claims that we believe will have, individually or in the aggregate, a material adverse effect
+on our business, financial condition or operating results. 
+
+Item 4, Mine Safety Disclosures  
+
+Not applicable. 
+
+PART II  
+
+Item 5, Market for Registrant's Common Equity, Related Stockholder Matters
+and Issuer Purchases of Equity Securities  
+
+Our Common Stock is listed to trade in the over-the-counter
+securities market through the Financial Industry Regulatory Authority ( FINRA ) Automated Quotation Bulletin Board System,
+under the symbol  BRMT . 
+
+The following table sets forth the quarterly high and
+low closing prices for our Common Stock during the last fiscal year, as reported by OTC Markets. The quotations reflect inter-dealer
+prices, without retail mark-up, markdown or commission, and may not necessarily represent actual transactions. 
+
+The Company became effective on January 18, 2017 and
+first listed its common stock for trading on June 22, 2017. 
+
+Holders  
+
+As of October 31, 2017, we had 103
+holders of our common stock and an unknown number of shareholders who hold stock in street name (CEDE  
+Co.)  As of such date, 31,645,000 shares were issued and outstanding. 
+
+Dividend Policy   
+
+We have not declared or paid any cash dividends on our
+common stock or other securities and do not anticipate paying any cash dividends in the foreseeable future. Any future determination
+to pay cash dividends will be at the discretion of the board of directors and will be dependent upon our financial condition, results
+of operations, capital requirements, and such other factors as the board of directors deem relevant. 
+
+Equity Compensation Plan Information  
+
+None 
+
+Recent Sales of Unregistered Securities  
+
+Successor  
+
+Common Stock  
+
+On January 21, 2016, the Company issued 30,000,000
+common shares, at a cost of $0.001 per share, to its three officers and directors and 1,000,000 common shares to a consultant to
+reimburse them for expenses incurred and for services provided. 
+
+Between February 8, 2016 and
+October 31, 2016, the Company sold 475,000 common shares units to third party investors at a cost of $0.50 per unit for total proceeds
+of $237,500. Each unit consists of one share of our common stock, and one warrant to purchase one share of common stock within
+24 months of issuance, for $2.00. During the eight months ended October 31, 2017 (Successor) the Company issued 60,000 common shares
+at a cost of $0.50 per share for cash proceeds of $30,000 and 70,000 common shares issued for services and valued at $35,000 and
+accounted for as stock based compensation. 
+
+Predecessor 
+
+On October 31, 2016 Taylor Brothers Holdings, Inc had
+10,000 authorized with a par value of $1.00 each and 1,200 issued and fully paid. 
+
+Common Stock Warrants  
+
+Between February 8, 2016 and October 31, 2016, the
+Company sold 475,000 common share units for $0.50 per unit, for a total of $237,500.  E ach
+unit consists of one share of our common stock, and one warrant to purchase one share of common stock within 24 months of
+issuance, for $2.00.  The warrants vest upon grant date and expire between February 8, 2018 and October 31, 2018.  
+
+Transfer Agent  
+
+The transfer agent and registrar
+for our common stock is QuickSilver Stock Transfer located at 1980 Festival Plaza Dr., Ste. 530 Las Vegas, Nevada. 
+
+Use of Proceeds from Registered Securities  
+
+The Company is using the proceeds from the sale of its
+units of common stock and warrants for general working capital purposes. 
+
+Purchases of Equity Securities by the Issuer and Affiliated
+Purchasers  
+
+None 
+
+Item 6, Selected Financial Data  
+
+Not required for smaller reporting companies. 
+
+Item 7, Management's Discussion and Analysis of Financial
+Condition and Results of Operations  
+
+Results of Operations  
+
+Successor and Predecessor
+Financial Presentation  
+
+The following discussion of the financial condition and
+results of operations should be read in conjunction with the financial statements included herewith. This discussion should not
+be construed to imply that the results discussed herein will necessarily continue into the future, or that any conclusion reached
+herein will necessarily be indicative of actual operating results in the future. 
+
+For the eight month ended October 31, 2017, Bare Metal
+Inc. (Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor): 
+
+On March 1, 2017, we entered into a management
+agreement with Taylor Brothers Holdings Inc., which is an operating company and has common majority shareholders and
+directors. The officers and directors of Bare Metal Standard were officers and directors of Taylor Brothers. James Bedal and
+Mike Taylor have resigned their positions with Taylor Brothers and work full time for Bare Metal Standard. The agreement term
+has no expiration and can be terminated by the Company at any time with written notice to the other partner. As a result of
+the management agreement, Bare Metal is to provide, on behalf of Taylor Brothers, certain management services, having full
+authorization, on behalf of Taylor Brothers to provide all the services and all the activities, normally provided by Taylor
+Brothers, under the Taylor Brothers franchise agreements, previously entered into by Taylor Brothers and the franchisees Bare
+Metal became responsible for servicing franchisee agreements and receiving 100% of the revenues associated with those
+agreements assumed for the support and maintenance of the preexisting franchise agreements of Taylor Brothers Holdings
+franchisees as Taylor Brothers Holdings has ceased selling franchises. Bare Metal is due all collections from franchisees.
+Bare Metal Standard assumed the business operations of the existing franchise agreements while potential liabilities arising
+from said agreements will remain with Taylor Brothers. Additionally, on November 1, 2017 Bare Metal ,  entered
+into a royalty free license agreement with Taylor Brothers Holdings Inc. with the right to sublease, the use of Trade Name
+Bare Metal Standard and related industry know-how including proprietary software in exchange for a monthly fee of $2,000 paid
+in arrears. As a result of the above transactions with Taylor Brothers Holdings Inc., under Regulation S-X for reporting
+purposes Taylor Brother Holdings Inc. is considered a business. Thus, Taylor Brothers Holdings Inc. is viewed as Predecessor
+entity for reporting purposes, and Bare Metal is viewed as a Successor entity. For purposes of the following discussion, we
+compare the combined results of Bare Metal Standard Inc. for the eight months ended October 31, 2017 and Taylor Brothers
+Holdings for the four months ended February 28, 2017, to the results of Taylor Brothers Holdings Inc. for the 12 months ended
+October 31, 2016.  A black line separates the Predecessor and Successor financial
+statements to highlight the lack of comparability between these periods.  
+
+Revenue  
+
+During the eight months ended
+October 31, 2017, Bare Metal (Successor) generated franchise fee revenue, from non-related parties of $292,996 plus $87,925, generated
+by Taylor Brothers Holdings (Predecessor) for the four months ended February 28, 2017, compared to $292,788 generated by Taylor
+Brothers Holdings (Predecessor) during the fiscal year ended October 31, 2016. During the eight months ended October 31, 2017,
+Bare Metal (Successor) generated $201,429 plus $59,363, by Taylor Brothers Holdings (Predecessor) during the four months ended
+February 28, 2017, from related party franchisees while Taylor Brothers Holdings (Predecessor) generated $323,019, from related
+parties, during the twelve months ended October 31, 2016. Total revenue from franchise fees, from all franchisees, totaled $494,425
+for the eight months ended October 31, 2017 plus $147,288 compared to $615,807 for the year ended October 31, 2016. Although revenue
+from related party franchisees decreased, due to the acquisition of long term equipment, by Taylor Brothers (Predecessor) during
+the year ended October 31, 2016, organic growth from other franchisees more than offset the decrease. Management anticipates revenues
+to increase once the franchise initiatives are funded and underway. None of the initiatives have begun. 
+
+For the eight months ended October
+31, 2017, Bare Metal (Successor) experienced a net loss of $79,822 plus $64,074 by Taylor Brothers. Holdings for the four months
+ended February 28, 2017, as compared to Taylor Brothers Holdings (Predecessor) net income of $2,149 for the previous year. This
+primarily resulted from higher general   administrative expenses $255,688 during fiscal 2017 compared to $152,976 for fiscal
+2016. Also, administrative and officer compensation increased slightly to $438,917 for the year ended October 31, 2017 from $428,441
+for the year ended October 31, 2016. The higher level of general and administrative expense is likely to continue given the costs
+of maintaining the company as a public company. 
+
+Bare Metal (Successor) generated
+total revenues of $494,425 for the eight months ended October 31, 2017, plus $147,288, generated by Taylor Brothers Holdings (Predecessor)
+for the four months ended February 28, 2017 compared to $615,807 of revenue generated by Taylor Brothers (Predecessor) during the
+year ended October 31, 2016. As of October 31, 2017, Bare Metal (Successor) had an accumulated deficit of $314,061. There can be
+no assurances that the Company can achieve or sustain profitability or that the Company's operating losses will not increase in
+the future. 
+
+Liquidity and Capital Resources  
+
+The Company is authorized to
+issue 80,000,000 shares of its $0.001 par value common stock. As of October 31, 2017, the Company has 31,645,000 shares of common
+stock issued and outstanding. As of October 31, 2017, the Company had current assets of $85,839 and current liabilities of $46,350. 
+
+The Company has limited financial
+resources available, which has had an adverse impact on the Company's liquidity, activities and operations. In order for the Company
+to remain a going concern it will need to find additional capital or generate revenues. Additional working capital may be sought
+through additional debt or equity private placements, additional notes payable to banks or related parties (officers, directors
+or stockholders), or from other available funding sources at market rates of interest, or a combination of these. The ability to
+raise necessary financing will depend on many factors, including the nature and prospects of any business to be acquired and the
+economic and market conditions prevailing at the time financing is sought. No assurances can be given that any necessary financing
+can be obtained on terms favorable to the Company, or at all. 
+
+Management believes the Company
+has sufficient cash assets, coupled with Managements  ability to provide additional funds through the sale of equity securities,
+to fund its operations and keep the Company fully reporting for the next twelve (12) months. 
+
+Working Capital  
+
+Bare Metal (Successor) as of
+October 31, 2017 had current assets of $85,839 and current liabilities of $46,350 or working capital of $38,489 compared to Taylor
+Brothers (Predecessor) as of October 31, 2016, which had current assets of $109,256 and current liabilities of $205,969 or a negative
+working capital of $96,713. 
+
+Operating Activities  
+
+During the eight months ended October 31, 2017, Bare
+Metal (Successor) utilized cash in the amount of $75,038 and $17,953 used by Taylor Brothers Holdings Inc. (Predecessor) for the
+four months ended February 28, 2017, to pay for operating activities, compared to $4,739 of cash provided by Taylor Brothers (Predecessor)
+operations for the twelve months ended October 31, 2016 (Predecessor). 
+
+Investing Activities  
+
+Neither Bare Metal (Successor) nor Taylor Brothers (Predecessor)
+generated any funds from investing activities during the eight months ended October 31, 2017, the four months ended February 28,
+2017 nor the year ended October 31, 2016 (Predecessor). 
+
+Financing Activities   
+
+During the eight months ended October 31, 2017 Bare Metal
+(Successor) sold 60,000 common stock for $30,000 cash. During the four months ended February 28, 2017 Taylor Brothers Holdings
+(Predecessor) repaid $34,587 of related party notes payable and $2,839 of notes payable. During that same time period Taylor Brothers
+received $2,250 from a related party note payable. As a result, Bare Metal (Successor) received $30,000 from financing activities
+during the eight months ended October 31, 2017, while Taylor Brothers Holdings, (Predecessor) used $35,176 during the four months
+ended February 28, 2017 compared to Taylor Brothers (Predecessor) receiving $28,635 during the year ended October 31, 2016. The
+change is mainly due to the borrowings of approximately $109,000 and repayments of approximately $80,000 during October 31, 2016
+(Predecessor) compared to no borrowings or loan repayments during the eight months ended October 31, 2017 (Successor). . 
+
+Plan of Operation  
+
+Bare Metal s (Successor)
+plan of operation is to provide franchise opportunities in the services of commercial kitchen grease exhaust systems (GES)
+as well as providing franchisee management systems in other industries. As of October 31, 2017, we had $6,509 cash on hand and
+accounts receivable of $31,004 plus $16,355 accounts receivable from a related party. Management believes, without any additional
+funding or revenues, the Company has to continue to sell equity securities to finance its operations and continued growth. We will
+apply any proceeds from future revenues to help cover our expenditures. At this time, management anticipates it will be required
+to seek outside funding to keep its business operational for the next twelve months, and will continue its efforts to seek additional
+funding. 
+
+Future funding could result
+in potentially dilutive issuances of equity securities, the incurrence of debt, contingent liabilities and/or amortization expenses
+related to goodwill and other intangible assets, which could materially adversely affect the Company's business, results of operations
+and financial condition. Any future acquisitions of other businesses, technologies, services or product(s) might require the Company
+to obtain additional equity or debt financing, which might not be available on terms favorable to the Company, or at all, and such
+financing, if available, might be dilutive. 
+
+Going Concern  
+
+Our independent auditors included
+an explanatory paragraph in their report on the October 31, 2017 audited financial statements regarding concerns about our ability
+to continue as a going concern. Our financial statements contain additional note disclosures describing the circumstances that
+lead to this disclosure by our independent auditors. Our ability to continue as a going concern is contingent upon the successful
+completion of additional financing arrangements and our ability to achieve and maintain profitable operations. 
+
+Therefore, management plans
+to raise equity capital to finance the operating and capital requirements of the Company. While the Company is devoting its best
+efforts to achieve the above plans, there is no assurance that any such activity will generate funds that will be available for
+operations. These conditions raise substantial doubt about the Company's ability to continue as a going concern. 
+
+Summary of any product research
+and development that we will perform for the term of our plan of operation.  
+
+We do not anticipate performing
+any product research and development under our current plan of operation. 
+
+Expected purchase or sale
+of plant and significant equipment.  
+
+We do not anticipate the purchase
+or sale of any plant or significant equipment; as such items are not required by us at this time. 
+
+Significant changes in the
+number of employees.  
+
+As of October 31, 2017, Bare
+Metal (Successor) had four full time employees and two officers. We are dependent upon our two officers for our future business
+development. As our operations expand we anticipate the need to hire additional employees, consultants and professionals; however,
+the exact number is not quantifiable at this time.  
+
+Off-Balance Sheet Arrangements  
+
+We do not have any off-balance
+sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition, changes in
+financial condition, revenues or expenses, results or operations, liquidity, capital expenditures or capital resources that is
+material to investors.  
+
+Critical Accounting Policies
+and Estimates  
+
+Revenue Recognition: The Company's revenue is derived
+from the sale of franchises, and products, services and the training necessary to support the franchisees under its Management
+agreement with Taylor Brothers, and a percentage of franchisees  revenue invoiced to their clients, plus specific charges
+for software usage, sale of consumables and consulting services.  
+
+The Company recognizes revenue when it is realized or
+realizable and earned, and therefore only recognizes revenue when a franchise agreement has been entered into and the franchise
+fee received. The Company recognizes revenue from the sale of products, royalties, and services when the product has been shipped
+or the services have been provided in accordance with the contract entered into with the customer. Payments received in advance
+of satisfaction of the relevant criteria for revenue recognition are recorded as advances from customers. The Company has no responsibility
+for collections, of trade debt, owed to a franchisee by the franchisees  clients and therefore will not create an allowance
+for potential uncollectable obligations owing to it by the franchisee, unless it is determined that the franchisee will default
+on its obligation the Company. In accordance with the guidance in FASB Topic ASC 605,  Revenue Recognition , the Company recognizes
+revenue when (a) persuasive evidence of an arrangement exists, (b) delivery has occurred or services have been rendered, (c) the
+fee is fixed or determinable, and (d) collectability is reasonable assured. 
+
+New Accounting Standards  
+
+The Company's management has
+evaluated all the recently issued accounting pronouncements through the filing date of these financial statements and does not
+believe that any of these pronouncements will have a material impact on the Company's financial position and results of operations. 
+
+Summary of Significant Accounting Policies  
+
+Our financial statements and related public financial
+information are based on the application of accounting principles generally accepted in the United States ( GAAP ). GAAP
+requires the use of estimates; assumptions, judgments and subjective interpretations of accounting principles that have an impact
+on the assets, liabilities, revenues and expense amounts reported. These estimates can also affect supplemental information contained
+in our external disclosures including information regarding contingencies, risk and financial condition. We believe our use of
+estimates and underlying accounting assumptions adhere to GAAP and are consistently and conservatively applied. We base our estimates
+on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results
+may differ materially from these estimates under different assumptions or conditions. We continue to monitor significant estimates
+made during the preparation of our consolidated financial statements. 
+
+Our significant accounting policies are summarized in
+Note 2 of our consolidated financial statements. While all these significant accounting policies impact our financial condition
+and results of operations, we view certain of these policies as critical. Policies determined to be critical are those policies
+that have the most significant impact on our consolidated financial statements and require management to use a greater degree of
+judgment and estimates. Actual results may differ from those estimates. Our management believes that given current facts and circumstances,
+it is unlikely that applying any other reasonable judgments or estimate methodologies would cause effect on our results of operations,
+financial position or liquidity for the periods presented in this report. 
+
+Item 7A Quantitative and Qualitative Disclosures about
+Market Risk  
+
+Not required for smaller reporting companies. 
+
+Item 8 Financial Statements and Supplementary Data
+
+See F-1. 
+
+BARE METAL STANDARD, INC.  
+
+REPORT OF INDEPENDENT REGISTERED  
+
+  PUBLIC ACCOUNTING FIRM  
+
+  AND  
+
+  FINANCIAL STATEMENTS   
+
+ As of October 31, 2017 Bare Metal Inc. (Successor) and
+October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Inc. (Successor) and four months ended
+February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor): 
+
+TABLE OF CONTENTS  
+
+Report of Independent Registered Public Accounting Firm   
+      F-3   
+
+Balance Sheets   
+      F-4   
+
+Statements of Operations   
+      F-5   
+
+Statements of Changes in Stockholders' Equity (Deficit)   
+      F-6   
+
+Statements of Cash Flows   
+      F-7   
+
+Notes to Financial Statements   
+      F-8   
+
+REPORT OF INDEPENDENT
+REGISTERED PUBLIC ACCOUNTING FIRM  
+
+To the Shareholders and Board of Directors of 
+
+ Bare Metal Standard, Inc. 
+
+Opinion on the Financial Statements   
+
+We have audited the accompanying
+balance sheet of Bare Metal Standard, Inc. (the  Company  or  Successor ) as of October 31, 2017 and the
+related statements of operations, changes in stockholders  equity (deficit), and cash flows for the eight months ended October
+31, 2017, and the related notes (collectively referred to as the  financial statements ). We have also audited the
+accompanying balance sheet of Taylor Brothers Holdings, Inc. (the  Predecessor ) as of October 31, 2016 and the related
+statements of operations, changes in stockholders  equity (deficit), and cash flows for the four months ended February 28,
+2017 and the year ended October 31, 2016, and the related notes (collectively referred to as the  financial statements ).
+In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of
+October 31, 2017 and the Predecessor as of October 31, 2016, and the results of their operations and their cash flows for the eight
+months ended October 31, 2017 and the four months ended February 28, 2017 and the year ended October 31, 2016, in conformity with
+accounting principles generally accepted in the United States of America. 
+
+Going Concern Matter   
+
+The accompanying financial
+statements have been prepared assuming that the Company and the Predecessor will continue as a going concern. As discussed in
+Note 1  to the financial statements, the Company and the Predecessor have suffered recurring losses from operations and have
+a net capital deficiency that raises substantial doubt about its ability to continue as a going concern. Management's plans
+in regard to these matters are also described in Note 1. The financial statements do not include any adjustments that might
+result from the outcome of this uncertainty. 
+
+Basis for Opinion   
+
+These financial statements are
+the responsibility of the Company s and the Predecessor s management. Our responsibility is to express an opinion on
+the Company s and the Predecessor s financial statements based on our audits. We are a public accounting firm registered
+with the Public Company Accounting Oversight Board (United States) ( PCAOB ) and are required to be independent with
+respect to the Company and the Predecessor in accordance with the U.S. federal securities laws and the applicable rules and regulations
+of the Securities and Exchange Commission and the PCAOB. 
+
+We conducted our audits in accordance
+with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about
+whether the financial statements are free of material misstatement, whether due to error or fraud. The Company and the Predecessor
+are not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of
+our audits we are required to obtain an understanding of internal control over financial reporting but not for the purpose of expressing
+an opinion on the effectiveness of the Company's and the Predecessor s internal control over financial reporting. Accordingly,
+we express no such opinion. 
+
+Our audits included performing
+procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing
+procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates
+made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide
+a reasonable basis for our opinion. 
+
+/s/ MaloneBailey, LLP  
+
+ www.malonebailey.com 
+
+ We have served as the Company's
+auditor since 2016. 
+
+ Houston, Texas 
+
+ September 25, 2018 
+
+Bare Metal Standard, Inc.  
+
+   Balance Sheets 
+
+See accompanying notes which are an integral part
+of these financial statements  
+
+Bare Metal Standard, Inc.  
+
+   Statements of Operations 
+
+See accompanying notes which are an integral part of
+these financial statements  
+
+BARE METAL STANDARD, INC.  
+
+   Statements of Stockholders' Equity (Deficit) 
+
+ For the year ended October 31, 2016 and four months ended
+February 28, 2017 (Predecessor) and for the eight months ended October 31, 2017 (Successor) 
+
+See accompanying notes which are an integral part
+of these financial statements  
+
+Bare Metal Standard, Inc.  
+
+   Statements of Cash Flows 
+
+See accompanying notes which are an integral part of
+these financial statements  
+
+BARE METAL STANDARD, INC.  
+
+   Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+NOTE 1 - ORGANIZATION AND BASIS OF PRESENTATION  
+
+The Company was incorporated, as Bare Metal
+Standard, Inc., (the Company) on November 12, 2015 under the laws of the State of Idaho. Bare Metal Standard provides management
+services for franchisees who perform fire prevention and mitigation services to commercial kitchens by cleaning their exhaust systems
+on a mandated schedule enforced by insurance and fire and safety prevention codes. 
+
+On March 1, 2017, Bare Metal
+Standard, Inc. entered into a Management Agreement with Taylor Brothers Holdings, Inc. which  is
+an operating company and has common majority shareholders and directors. The officers and directors of Bare Metal Standard
+were officers and directors of Taylor Brothers. James Bedal and Mike Taylor have resigned their positions with Taylor
+Brothers and work full time for Bare Metal Standard. The agreement term has no expiration and can be terminated by the
+Company at any time with written notice to the other partner. As a result of the management agreement, Bare Metal is to
+provide, on behalf of Taylor Brothers, certain management services, having full authorization, on behalf of Taylor Brothers
+to provide all the services and all the activities, normally provided by Taylor Brothers, under the Taylor Brothers franchise
+agreements, previously entered into by Taylor Brothers and the franchisees Bare Metal became responsible for servicing
+franchisee agreements and receiving 100% of the revenues associated with those agreements assumed for the support and
+maintenance of the preexisting franchise agreements of Taylor Brothers Holdings franchisees as Taylor Brothers Holdings
+has ceased selling franchises. Bare Metal is due all collections from franchisees. Bare Metal Standard assumed the business
+operations of the existing franchise agreements while potential liabilities arising from said agreements will remain with
+Taylor Brothers. Additionally, on November 1, 2017 Bare Metal, entered into a royalty free license agreement with Taylor
+Brothers Holdings Inc. with the right to sublease, the use of Trade Name Bare Metal Standard and related industry know-how
+including proprietary software in exchange for a monthly fee of $2,000 paid in arrears. As a result of the above transactions
+with Taylor Brothers Holdings Inc., under Regulation S-X for reporting purposes Taylor Brother Holdings, Inc. is considered a
+business. Thus, Taylor Brothers Holdings, Inc. is viewed as Predecessor entity for reporting purposes, and Bare Metal is
+viewed as a Successor entity.   
+
+Bare Metal Standard is, currently, seeking
+the same management opportunities in other industries. The Company intends to sell franchises in the commercial kitchen fire prevention
+and mitigation services environment, but, in addition, is looking for the same opportunities in other discipline 
+
+Basis of Presentation   
+
+The
+ accompanying audited financial statements and related footnotes ha ve been presented
+on a comparative basis  in accordance with accounting principles generally accepted in the United States of America (or U.S.
+GAAP) and with the Securities and Exchange Commission s (or SEC) instructions for the Form 10-K. 
+
+For
+periods after the commencement of the Management Agreement (March 1, 2017), the Company is referred to as the Successor and its
+results of operations includes, only, the results of operations from Bare Metal Standard for the eight months subsequent to March
+1, 2017.   For periods previous to the inception of the Management Agreement ,  the
+Company is referred to as the Predecessor and its results of operations includes only Taylor Brothers Holdings Inc.  operations . 
+A black line separates the Predecessor and Successor financial statements to highlight the lack of comparability between these
+periods.  
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+Going Concern   
+
+The accompanying financial statements have
+been prepared assuming the Company will continue as a going concern, which contemplates, among other things, the realization of
+assets and satisfaction of liabilities in the normal course of business.  The Company had an accumulated deficit of $314,061,
+(Successor) as of October 31, 2017 and $86,940 as of as of October 31, 2016 (Predecessor), respectively, and had net losses of
+$79,822 for the eight months ended October 31, 2017 (Successor); $66,941 for the four months ended February 28, 2017 (Predecessor);
+and net income of $2,149 (Predecessor) for the year ended October 31, 2016. These matters, among others, raise substantial doubt
+about the Company's ability to continue as a going concern. 
+
+While the Company is attempting to increase
+sales and generate additional revenues, the Company's cash position may not be significant enough to support the Company's daily
+operations.  If the Company is unable to obtain additional financing through the issuance of debt or equity, the Company
+may be unable to continue as a going concern.  While the Company believes in the viability of its strategy to generate additional
+revenues and in its ability to raise additional funds, there can be no assurances to that effect.  The financial statements
+do not include any adjustments relating to the recoverability and classification of assets or the amounts and classifications
+of liabilities that may result should the Company be unable to continue as a going concern.  
+
+NOTE 2   SIGNIFICANT ACCOUNTING
+POLICIES   
+
+This summary of significant accounting
+policies is presented to assist the reader in understanding and evaluating the Company's financial statements.  These accounting
+policies conform to generally accepted accounting principles and have been consistently applied in the preparation of the financial
+statements.  
+
+Use of Estimates    
+
+The preparation of the financial statements
+in conformity with U.S. generally accepted accounting principles requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenue and expenses during the reporting period.  Actual results could differ from
+those estimates.  The more significant estimates and assumptions made by management include allowance for doubtful accounts,
+inventory valuation, and provision for excess or expired inventory, depreciation of property and equipment, realization of long-lived
+assets and fair market value of equity instruments issued for goods or services.   
+
+Cash and Cash Equivalents    
+
+Cash as of October 31, 2017 (Successor)
+and October 31, 2016 (Predecessor) included cash on-hand.  
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+Accounts Receivable and Allowance
+for Doubtful Accounts    
+
+The Company's accounts receivable consists,
+of amounts  owing by franchisees for monthly royalty commitments and for product sales to
+customers, including the cost of freight incurred to ship the product and other services provided by virtue of the management agreement
+with Taylor Brothers. Accounts receivable are stated at the amount   management expects to
+collect from the outstanding balances. Accounts receivable as of October 31, 2017, (Successor) consists of $31,004 due from non-related
+parties and $16,355 due from Taylor Brothers, Inc. a related party. Receivables at October 31, 2016 (Predecessor) consists of $38,526
+due from non-related parties and $15,274 from Taylor Brothers, Inc. a related party.  
+
+An allowance for doubtful accounts will
+be provided for those accounts receivable considered to be uncollectable based on historical experience, and management's evaluation
+at the end of the period.  Bad debts are written off against the allowance when identified. Bare Metal (Successor) determined
+that no allowance was necessary for the eight months ended October 31, 2017 (Successor), nor the four months ended February 28,
+2017, Taylor Brothers Holdings (Predecessor) nor the year ended October 31, 2016 by Taylor Brothers Holdings (Predecessor)  
+
+Concentrations of Credit Risk    
+
+Financial instruments that potentially
+subject the Company to concentrations of credit risk consist principally of cash and accounts receivables.  The Company places
+its cash with high credit quality financial institutions.  At times such amounts may exceed federally insure limits.  
+
+Receivables arising from sales of the
+Company's products are not collateralized. As of October 31, 2017 (Successor), total accounts receivable were $47,359 of which
+$16,355 was owed by a related party.  As of October 31, 2017 (Successor), four customers
+represented approximately 91%(40%, 25%, 16%, 11%) of non-related accounts receivable.     As
+of October 31, 2016 (Predecessor), total accounts receivable were $53,800 of which $15,274 was owed by a related party. As of
+October 31, 2016 (Predecessor), four customers represented approximately 96%% (40%, 30%, 16%, and 10%) of non-related accounts
+receivable. (See note 3)  
+
+Fair Value of Financial Instruments    
+
+The Company's financial instruments consist
+of cash and cash equivalents, accounts payable and accrued expenses and shareholder loans.  The carrying amount of these financial
+instruments approximates fair value due either to length of maturity or interest rates that approximate prevailing market rates
+unless otherwise disclosed in these financial statements. 
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+Accounting for Derivative Liabilities    
+
+The Company evaluates stock options, stock
+warrants or other contracts to determine if those contracts or embedded components of those contracts qualify as derivatives to
+be separately accounted for under the relevant sections of ASC Topic 815-40,  Derivative Instruments and Hedging: Contracts
+in Entity's Own Equity .  The result of this accounting treatment could be that the fair value of a financial instrument
+is classified as a derivative instrument and is marked-to-market at each balance sheet date and recorded as a liability. 
+In the event that the fair value is recorded as a liability, the change in fair value is recorded in the statement of operations
+as other income or other expense.  Upon conversion or exercise of a derivative instrument, the instrument is marked to fair
+value at the conversion date and then that fair value is reclassified to equity.  Financial instruments that are initially
+classified as equity that become subject to reclassification under ASC Topic 815-40 are reclassified to a liability account at
+the fair value of the instrument on the reclassification date.  The Company determined that it has no financial instruments
+that meet the criteria for derivative accounting as of October 31, 2017 (Successor) nor as of October 31, 2016 (Predecessor).  
+
+Beneficial Conversion Features    
+
+The Company, may, from time to time issue
+convertible notes that may have conversion prices that create an embedded liability pursuant to accounting guidance.  A beneficial
+conversion feature exists on the date a convertible note is issued when the fair value of the underlying common stock to which
+the note is convertible into is in excess of the remaining unallocated proceeds of the note after first considering the allocation
+of a portion of the note proceeds to the fair value of any attached equity instruments, if any related equity instruments were
+granted with the debt. In accordance with this guidance, the intrinsic value of the beneficial conversion feature is recorded
+as a debt discount with a corresponding amount to additional paid in capital.  The debt discount is amortized to interest
+expense over the life of the note using the effective interest method. The Company determined that it has no financial instruments
+that meet the criteria for beneficial conversion as of October 31, 2017 (Successor) nor as of October 31, 2016 (Predecessor).  
+
+Share-Based
+Compensation    
+
+The Company accounts for stock-based compensation
+to employees in accordance with FASB ASC 718 Compensation Stock Compensation.  Stock-based compensation to employees
+is measured at the grant date, based on the fair value of the award, and is recognized as expense over the requisite employee service
+period.  The Company accounts for stock-based compensation to other than employees in accordance with FASB ASC 505-50. 
+Equity instruments issued to other than employees are valued at the earlier of a commitment date or upon completion of the services,
+based on the fair value of the equity instruments and is recognized as expense over the service period.  The Company estimates
+the fair value of stock-based payments using the Black-Scholes option-pricing model for common stock options and warrants and the
+latest fair market price of the Company's common stock for common share issuances. 
+
+Inventories and Provision for Excess
+or Expired Inventory    
+
+Inventory consists of finished goods and
+consumables held for resale to franchisees, and is valued on an average cost basis.  Provisions for excess inventory are included
+in cost of goods sold and have historically been immaterial but adequate to provide for losses.  It is reviewed, at least,
+quarterly and the Company has determined that there was no need to reserve for obsolescence as of October 31, 2017 (Successor)
+and October 31, 2016 (Predecessor). 
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+Property and Equipment    
+
+The Company (Successor) does not possess
+any property or equipment.  Property and equipment owned by Taylor Brothers (Predecessor) consists primarily of vehicles,
+leasehold improvements and computer equipment and is stated at cost.  Depreciation is computed using straight line accounting
+amortized over the useful life of the underlying asset.  Expenditures for repairs and maintenance are expensed as incurred  
+
+Long-lived Assets     
+
+The Company does not possess any long-lived
+assets.  
+
+Revenue Recognition    
+
+The Company's revenue is derived from
+the sale of products, services and training to support the franchisees under its Management agreement with Taylor Brothers, as
+a percentage of franchisees  revenue invoiced to their clients, plus specific charges for software usage, sale of consumables
+and consulting services.  The Company recognizes revenue when it is realized or realizable and earned, and therefore only
+recognizes revenue when a franchise agreement has been entered into and the franchise fee received. The Company recognizes revenue
+from the sale of products, royalties, and services when the product has been shipped or the services have been provided in accordance
+with the contract entered into with the customer. Payments received in advance of satisfaction of the relevant criteria for revenue
+recognition are recorded as advances from customers. The Company has no responsibility for collections, of trade debt, owed to
+a franchisee by the franchisees  clients and therefore will not create an allowance for potential uncollectable obligations
+owing to it by the franchisee, unless it is determined that the franchisee will default on its obligation the Company. In accordance
+with the guidance in FASB Topic ASC 605,  Revenue Recognition , the Company recognizes revenue when (a) persuasive evidence
+of an arrangement exists, (b) delivery has occurred or services have been rendered, (c) the fee is fixed or determinable, and
+(d) collectability is reasonable assured.  
+
+Cost of Goods Sold     
+
+The Company derives its revenue, primarily,
+from services and consulting. Therefore there are no direct costs, other than labor, associated with those activities. The cost
+of consumables, which are provided to promote consistency amongst franchisees consists of expendable materials and equipment,
+designed to provide consistency within operations. Costs are recognized when the related revenue is recorded.  Shipping and
+handling costs for all sales transactions are billed to the franchisee and are included in cost of goods sold for all periods
+presented.  
+
+General and Administrative Expenses    
+
+General and administrative expenses which
+includes advertising, promotional and selling expenses, consists of rent and utility expenses, meals, travel and entertainment
+expenses, and other general and administrative overhead costs.  Expenses are recognized when incurred. 
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+Administrative and Officer Compensation    
+
+Administrative and officer compensation
+includes our officers, who are directly involved in management and our employees who provide daily supervision and management
+of operations. Expenses are recognized as incurred. Where necessary, unpaid compensation was accrued to coincide with reporting
+periods.  
+
+Income Taxes    
+
+Successor    
+
+The Company uses the liability method
+of accounting for income taxes under the asset and liability method prescribed under  ASC 740, Income Taxes.   The liability
+method measures deferred income taxes by applying enacted statutory rates in effect at the balance sheet date to the differences
+between the tax basis of assets and liabilities and their reported amounts on the financial statements.  The resulting deferred
+tax assets or liabilities have been adjusted to reflect changes in tax laws as they occur.  A valuation allowance is provided
+when it is more likely than not that a deferred tax asset will not be realized.  
+
+The Company expects to recognize the financial
+statement benefit of an uncertain tax position only after considering the probability that a tax authority would sustain the position
+in an examination.  For tax positions meeting a  more-likely-than-not  threshold, the amount to be recognized in
+the financial statements will be the benefit expected to be realized upon settlement with the tax authority.  For tax positions
+not meeting the threshold, no financial statement benefit is recognized.  As of October 31, 2017, the Company had no uncertain
+tax positions.  The Company recognizes interest and penalties, if any, related to uncertain tax positions as general and
+administrative expenses.  The Company currently has no federal tax examinations nor has it had any federal income tax penalties
+since its inception.  
+
+Predecessor    
+
+The Predecessor is a corporation; reports
+its own profits and losses, and has not had taxable income during the current reporting period.  Accordingly, no provision
+for income taxes has been reflected in these financial statements.  The Predecessor has no unrecognized tax benefits as of
+October 31, 2016.      
+
+Net Income (Loss) Per Share    
+
+Basic net income (loss) per share is calculated
+by dividing net income (loss) by the weighted-average common shares outstanding.  Diluted net income per share is calculated
+by dividing net income by the weighted-average common shares outstanding during the period using the treasury stock method.  
+As the Company incurred a net loss the eight months ended (Successor) and four months ended October 31, 2017 (Predecessor)) and
+minimal net income for the year ended October 31, 2016 (Predecessor), no potentially dilutive securities were included in the calculation
+of diluted earnings per share as the impact would have been anti-dilutive.  Therefore, basic and dilutive net income (loss)
+per share were the same.  
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+New Accounting Pronouncements    
+
+The Financial Accounting Standards
+Board, or FASB, has issued Accounting Standards Update No. 2014-09,  Revenue from contracts with Customers (Topic 606) ,
+or ASU 606. ASU 606 provides guidance outlining a single comprehensive model for entities to use in accounting for revenue
+arising from contracts with customers in an amount that supersedes most current revenue recognition guidance. This guidance
+requires us to recognize revenue when we transfer promised goods or services to customers in an amount that reflects the
+consideration to which the entity expects to be entitled in exchange for those goods or services. We are required to adopt
+ASU 606 at the beginning of our first quarter of fiscal 2019. The new guidance requires enhanced disclosures, including
+revenue recognition policies to identify performance obligations to customers and significant judgments in measurement and
+recognition. The new guidance may be applied retrospectively to each prior period presented or retrospectively with the
+cumulative effect recognized as of the date of the adoption. We will apply the guidance when adopted, and provide the
+relevant disclosures in the first interim and annual periods in which we adopt the guidance. We do not expect the adoption of
+this guidance to have a material impact on our financial statements within any accounting period presented. Starting in the
+second quarter of 2014, the FASB issued guidance applicable to revenue recognition that will be effective for the Company for
+the year ending January 31, 2019. The new guidance must be adopted using either a full retrospective approach for all periods
+presented or a modified retrospective approach. The Company believes that there will not be a material impact on its
+financial statements.  
+
+The FASB issued ASU No. 2014-15,  Presentation
+of Financial Statements Going Concern, Disclosure of Uncertainties about an Entity s Ability to Continue as a Going
+Concern.  The core principle of the new guidance is that management of public and private companies is required to evaluate
+whether there are conditions and events that raise substantial doubt about the entity s ability to continue as a going concern
+within one year after the financial statements are issued (or available to be issued when applicable) and, if so, disclose that
+fact. Management will be required to make this evaluation.  
+
+In March 2016, the FASB issued ASU No.
+2016-09, Compensation- Stock Compensation (Topic 718): Improvements to Employee Share-Based Payment Accounting. The new standard
+requires recognition of the income tax effects of vested or settled awards in the income statement and involves several other
+aspects of the accounting for share-based payment transactions, including the income tax consequences, classification of awards
+as either equity or liabilities and classification on the statement of cash flows. This new standard was effective for the Company
+on February 1, 2017. The adoption of this standard is not expected to have a material impact on its financial position, results
+of operations or statements of cash flows upon adoption.  
+
+In August 2016, the FASB issued
+Accounting Standards Update No. 2016-15,  Classification of Certain Cash Receipts and Cash Payments (a consensus of the
+Emerging Issues Task Force)  ( ASU 201615 ). The amendments in ASU 2016-15 address eight specific cash flow
+issues and apply to all entities that are required to present a statement of cash flows under ASC Topic 230,  Statement of
+Cash Flows . The amendments in ASU 2016-15 are effective for public business entities for fiscal years beginning after
+December 15, 2017, and interim periods within those fiscal years. Early adoption is permitted, including adoption during an
+interim period. The Company has not yet completed the analysis of how adopting this guidance will affect its consolidated
+financial statements. 
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+In October 2016, the FASB issued ASU No.
+2016-16, Income Taxes (Topic 740): Intra-Entity Transfer of Assets Other Than Inventory. This new standard eliminates the exception
+for an intra-entity transfer of an asset other than inventory. Under the new standard, entities should recognize the income tax
+consequences on an intra-entity transfer of an asset other than inventory when the transfer occurs. This new standard will be
+effective for the Company on February 1, 2018 and will be applied on a modified retrospective basis through a cumulative effect
+adjustment directly to retained earnings as of the beginning of the period of adoption. The Company is currently evaluating the
+potential impact this standard may have on its financial position and results of operations.  
+
+In November 2016, the FASB issued Accounting
+Standards Update No. 201618,  Restricted Cash (a consensus of the FASB Emerging Issue Task Force)  ( ASU 2016-18 ).
+This new standard addresses the diversity that exists in the classification and presentation of changes in restricted cash on
+the statement of cash flows. The amendments in ASU 2016-18 require that a statement of cash flows explain the change during the
+period in the total of cash, cash equivalents, and amounts generally described as restricted cash or restricted cash equivalents.
+Therefore, amounts generally described as restricted cash and restricted cash equivalents should be included with cash and cash
+equivalents when reconciling the beginning of period and end of period total amounts shown on the statement of cash flows. This
+guidance is effective for fiscal years beginning after December 15, 2017, including interim periods within the year of adoption,
+with early adoption permitted. The Company does not expect that the adoption of ASU 2016-18 will have a material impact on its
+financial statements.  
+
+In January 2017, the FASB issued ASU No.
+2017-01, Business Combinations (Topic 805): Clarifying the Definition of a Business. This new standard clarifies the definition
+of a business and provides a screen to determine when an integrated set of assets and activities is not a business. The screen
+requires that when substantially all of the fair value of the gross assets acquired (or disposed of) is concentrated in a single
+identifiable asset or a group of similar identifiable assets, the set is not a business. This new standard will be effective for
+the Company on February 1, 2018; however, early adoption is permitted with prospective application to any business development
+transaction.  
+
+In January 2017, the FASB issued
+Accounting Standards Update No. 2017-04,  Simplifying the Test for Goodwill Impairment  ( ASU 2017-04 ). ASU
+201704 simplifies the accounting for goodwill impairment by removing Step 2 of the goodwill impairment test, which requires a
+hypothetical purchase price allocation. ASU 2017-04 is effective for annual or interim goodwill impairment tests in fiscal
+years beginning after December 15, 2019 and should be applied on a prospective basis. Early adoption is permitted for interim
+or annual goodwill impairment tests performed on testing dates after January 1, 2017. The Company does not anticipate the
+adoption of ASU 2017-04 will have a material impact on its financial statements for both annual and interim reporting
+periods, if applicable. Management also is required to evaluate and disclose whether its plans alleviate that doubt. The
+standard is effective for the Company on February 1, 2018 and will be implemented using the modified retrospective approach.
+The Company does not expect the adoption of this guidance to have a material effect on the Company s financial
+statements. 
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+In November 2015, the FASB issued Accounting
+Standards Update No. 2015-17,  Balance Sheet Classification of Deferred Taxes  ( ASU 2015-17 ). ASU 2015-17 requires
+companies to classify all deferred tax assets and liabilities as noncurrent on the balance sheet instead of separating deferred
+taxes into current and noncurrent amounts. The guidance is effective for financial statements issued for annual periods beginning
+after December 15, 2016, and interim periods within those annual periods. Early adoption is permitted. The guidance may be adopted
+on either a prospective or retrospective basis. The Company does not expect the adoption of this guidance to have a material effect
+on the Company s financial statements  
+
+NOTE 3  
+MAJOR CUSTOMERS AND ACCOUNTS RECEIVABLE  
+
+Bare Metal (Successor)
+has unrelated customers and one related party customer, whose revenue, during the eight months ended October 31, 2017 represented
+in excess of 10% of the total revenue and in excess of 10% of total accounts receivable. 
+
+Concentration
+of revenue and related party revenue- 
+
+During the eight
+months ended October 31, 2017 Bare Metal (Successor) invoiced royalties and sold product and services, including freight, totaling
+$201,429 or 41% of its total revenue, to one related company, Taylor Brothers Inc. and $243,455 of non-related party revenue or (35%,17%,16% and 12%), respectively, to
+four non-related parties. During the four months ended February 28, 2017, Taylor Brothers Holdings (Predecessor) invoiced $58,741 of non-related party revenue,
+or (34%,21%,19% and 18%), respectively, to four unrelated parties, and $59,363 or 41% to one related party. During the year ended October
+31, 2016 Taylor Brothers Holdings (Predecessor) invoiced $247,138 of non-related party revenue or (31%,28%,15% and 10%) respectively, to four unrelated company and $323,019 or 53% to one related party
+Company. 
+
+Concentration
+of accounts receivable and related party accounts receivable- 
+
+Receivables arising
+from sales of the Company's products are not collateralized. As of October 31, 2017 (Successor), total accounts receivable were
+$47,359 of which $16,355 was owed by a related party. As of October 31, 2017 (Successor), four customers represented approximately
+91% (40%, 25%, 16%, 11%) of non-related accounts receivable.  As of October 31, 2016 (Predecessor), total accounts receivable
+were $53,800 of which $15,274 was owed by a related party. As of October 31, 2016 (Predecessor), four customers represented approximately
+96% (40%, 30%, 16%, and 10%) of non-related accounts receivable. 
+
+NOTE 4   INVENTORY   
+
+Inventories consist of finished goods
+consumables that are provided to franchisees as a vehicle to maintain consistency of operations.  The items are recorded
+at cost and sold to the franchisees with a nominal mark-up.  Provisions for excess inventory are included in cost of goods
+sold and have historically been immaterial.  Inventories are stated at the lower of cost, determined by average cost, or
+market.  
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+NOTE 5   NOTES PAYABLE (PREDECESSOR)   
+
+Notes payable, by Taylor Brothers Holdings
+(Predecessor) at October 31, 2016, consists of a working capital loan, in the amount of $156,026, secured by predecessor s
+assets and personally guaranteed by our directors. The loan originated on July 18, 2016, bears interest at the rate of 5.5% and
+had a maturity date of March 5, 2018. The balance, including accrued interest, was due in a single payment on March 5, 2018. Interest,
+only, was paid during the year ended October 31, 2016. The loan is presently in default and is being restructured.  
+
+Note payable, by Taylor Brothers Holdings,
+(Predecessor) at October 31, 2016 in the amount of $29,479, consists of a vehicle loan, originated on January 30, 2015 with 59
+equal monthly payments of $813, bearing interest at the rate of 4.34%, and collateralized by the vehicle and personally guaranteed
+by our directors. $9,752 is due in monthly payments and is a current liability with the remainder of $19, 727 being disclosed
+as long term debt. Principal was reduced by $8,252 during the year ended October 31, 2016 and $2,839 during the four months ended
+February 28, 2017.    
+
+NOTE 6   RELATED PARTY DEBT AND
+TRANSACTIONS   
+
+Related party debt, in the amount of $24,387
+at October 31, 2016 (Predecessor) consisted of unsecured non interest bearing and due on demand working capital advances
+from a related party   Taylor Brothers Distributing, Inc. (a Company with common officers and directors) During the eight
+months ended October 31, 2017, Bare Metal (Successor) purchased $7,602 worth of inventory from Taylor Brothers Distributing.  
+
+The related party payable, in the amount
+of $1,924, Taylor Brothers Holdings, (Predecessor) resulted from the acquisition of supplies and products from two related companies.
+A total of $1,760 owing to Taylor Brothers Distributing, Inc. was repaid in two instalments on November 11 and November 16, 2016.
+The remaining total, of $164, was repaid to a Taylor Brothers, Inc. a franchisee on November 14, 2016.  
+
+We have entered
+into an agreement with Taylor Brothers Inc. (a Company with common officers and directors) to use their offices. The rent will
+be $5,000 per month, when Bare Metal Standard completes required funding to support ongoing operations. 
+
+NOTE 7   STOCKHOLDER'S EQUITY   
+
+Predecessor   
+
+Common stock   
+
+Taylor Brothers Holdings (Predecessor)
+is authorized to issue 12,000 shares of common stock, par value of $1.00. There are 1,200 issued. 
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+Successor   
+
+Preferred Stock    
+
+The Company is authorized to issue 20,000,000
+shares of preferred stock, par value of $0.001. There are none issued. 
+
+Common Stock    
+
+The Company is authorized to issue 80,000,000
+shares of common stock, $0.001 par value. During the eight months ended October 31, 2017, the Company (Successor) sold, for cash,
+60,000 of its common shares, at a cost of $0.50 per share for total proceeds of $30,000, and issued 70,000 common shares for services
+with a value $35,000 and accounted for as stock based compensation.  
+
+NOTE 8   COMMON STOCK WARRANTS   
+
+Between March
+1, 2017 and October 31, 2017 the Company (Successor) did not sell any commons stock units, each unit outstanding as of October
+31, 2017 consists of one share of our common stock, and one warrant to purchase one share of common stock within 24 months
+of issuance, for $2.00.The warrants vested upon grant date and will expire between February 8, 2018 and October 31, 2018. None
+expired during the eight months ended October 31, 2017. 
+
+A summary of our stock warrant
+activity for the period from March 1, 2017 through October 31, 2017 is as follows: 
+
+NOTE 9  
+COMMITMENTS AND CONTINGENCIES   
+
+Management agreement    
+
+On March 1, 2017, the Company entered into
+a management agreement with Taylor Brothers Holdings, Inc. to provide all of the services and to conduct all of the activities
+that were agreed to be undertaken by Taylor Brothers under the Franchise Agreements for providing certain administrative support,
+including Franchisee training, development of operations manuals and other materials for use by Taylor Brothers  franchisees;
+and develop and establish support infrastructures that the Company determines are necessary and appropriate to satisfy Taylor Brothers
+obligations under the Franchise Agreements. In consideration of the services provided Bare Metal shall be responsible to invoice
+and collect, per the terms of the Franchise Agreements, under management. All fees so collected will constitute the fees owing
+under the management agreement. The Agreement does not have a termination date but may be cancelled by either party with appropriate
+notice. 
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+NOTE 10   INCOME TAXES  
+
+Successor    
+
+The Company s
+net operating loss carryover of $283,061 as of October 31, 2017, will expire in 2037. Due to the change in ownership provisions
+of the Tax Reform Act of 1986, net operating loss carry forward for Federal income tax reporting purposes are subject to annual
+limitations. Should a change in ownership occur, net operating loss carry forward may be limited as to its use in future years.
+The Company s tax returns for the years ended October 31, 2015 through October 31, 2017 are open for IRS audit. 
+
+On December 22, 2017, the Tax Act was signed
+into law making significant changes to the Internal Revenue Code. Changes include, but are not limited to, a corporate tax rate
+decrease from 35% to 21%, effective for tax years beginning after December 31, 2017. We use the asset and liability method of accounting
+for income taxes. Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable
+to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax basis.
+Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which
+those temporary differences are expected to reverse. As a result of the reduction in the U.S. corporate income tax rate from 35%
+to 21% under the Tax Act, we revalued our ending net deferred tax assets at October 31, 2017, which were fully offset by a valuation
+allowance. 
+
+Future tax benefits for these net operating
+loss carry-forwards are recognized to the extent that realization of these benefits is considered more likely than not. 
+To the extent that we will not realize a future tax benefit, a valuation allowance is established.  The tax effects of temporary
+differences that give rise to significant portions of the deferred tax assets and deferred tax liabilities are presented below:  
+
+The cumulative tax effect at the expected rate of 34% of significant
+items comprising our net deferred tax amount is as follows: 
+
+BARE METAL STANDARD, INC.  
+
+ Notes to Financial Statements 
+
+ As of October 31, 2017 Bare Metal Standard, Inc.
+(Successor) and October 31, 2016 (Predecessor) and for the eight months ended October 31, 2017, Bare Metal Standard, Inc.
+(Successor) and four months ended February 28, 2017 (Predecessor) and the year ended October 31, 2016 (Predecessor)  
+
+Predecessor   
+
+Taylor Brothers
+Holdings, Inc., (Predecessor) is a corporation and is responsible for income tax purposes to report its own operations. 
+Accordingly, no provision for income taxes has been reflected in these financial statements.  Previous to its 2016 tax year
+the Predecessor was an S corporation for tax purposes and, therefore, did not require a valuation allowance. The Predecessor has
+no unrecognized tax benefits.  
+
+NOTE 11   SUBSEQUENT EVENTS   
+
+On November 1, 2017 Bare Metal entered
+into an Intellectual Property License Agreement with Taylor Brothers Holdings, Inc. to license certain intellectual property.
+The agreement is for ninety-nine years at a cost of $2,000 per month.  
+
+On November 14, 2017 the Company opened
+a $40,000 line of credit with Wells Fargo Bank. Interest is charged at the rate of Wells Fargo prime plus 8.5% plus an annual
+fee of $175.  
+
+On June 13, 2018, the Company borrowed
+$100,000 from an unrelated third party. The loan was collateralized by 200,000 units of Bare Metal equity consisting of one share
+of common stock and the right to acquire, within twenty-four months, one additional share of common stock at a cost of $2.00 per
+warrant. The note is to be repaid at the rate of $1,435 per month, commencing July 10, 2018, and has a maturity date of the earlier
+of May 31, 2018 or a change of control. During periods in which there is no default, interest is calculated at the rate of 12%
+per annum.  
+
+On July 10, 2018, the Company borrowed
+$5,000 from the Company s president. The note is to be repaid at the rate of $154 per month, commencing July 20, 2018, and
+has a maturity date of the earlier of June 10, 2018 or a change of control. During periods in which there is no default, interest
+is calculated at the rate of 7% per annum. 
+
+Item 9. Changes in and Disagreements
+with Accountants on Accounting and Financial Disclosure  
+
+None. 
+
+Item 9A Controls and Procedures  
+
+Management's Report on Disclosure Controls and Procedures  
+
+Disclosure controls and procedures, as
+defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the  Exchange Act ), are our controls
+and other procedures that are designed to ensure that information required to be disclosed by us in the reports that we file or
+submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC's rules
+and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information
+required to be disclosed by us in the reports that we file or submit under the Act is accumulated and communicated to our management
+to allow timely decisions regarding required disclosure. Rules 13a-15(b) and 15d-15(b) under the Exchange Act, requires us to carry
+out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures as of October 31,
+2017. This evaluation was implemented under the supervision and with the participation of our officers and directors. 
+
+Based on this evaluation, management concluded
+that, as of October 31, 2017, our disclosure controls and procedures are ineffective in ensuring that information required to be
+disclosed in our Exchange Act reports is (1) recorded, processed, summarized and reported in a timely manner and (2) accumulated
+and communicated to our management to allow timely decisions regarding required disclosure. 
+
+Our officers and directors have concluded
+that our disclosure controls and procedures had the following material weaknesses: 
+
+We were unable to maintain any segregation
+of duties within our financial operations due to our reliance on limited personnel in the finance function. While this control
+deficiency did not result in any audit adjustments to our financial statements, it could have resulted in a material misstatement
+that might have been prevented or detected by a segregation of duties; 
+
+We do not have an independent Board of
+Directors, nor do we have a board member designated as an independent financial expert. The Board of Directors is comprised of
+two members who also serve as executive officers. As a result, there is a lack of independent oversight of the management team,
+lack of independent review of our operating and financial results, and lack of independent review of disclosures made by us; and
+documentation of all proper accounting procedures is not yet complete. 
+
+To the extent reasonably possible given
+our limited resources, we intend to take measures to cure the aforementioned weaknesses, including, but not limited to, the following: 
+
+ Engaging consultants to assist in ensuring
+that accounting policies and procedures are consistent across the organization and that we have adequate control over financial
+statement disclosures; 
+
+   Hiring additional qualified financial
+personnel; 
+
+   Expanding our current board of
+directors to include additional independent individuals willing to perform directorial functions; and 
+
+   Increasing our workforce in preparation for exiting
+the development stage and commencing revenue producing operations. 
+
+Since the recited remedial actions will require that we hire
+or engage additional personnel, these material weaknesses may not be overcome in the near-term due to our limited financial resources.
+Until such remedial actions can be realized, we will continue to rely on the limited advice of outside professionals and consultants.
+These initiatives will be subject to our ability to obtain sufficient future financing and subject to our ability to start generating
+revenue. 
+
+Management's Annual Report on Internal Control over Financial
+Reporting  
+
+Management is responsible for establishing
+and maintaining adequate internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange
+Act. Our internal control system was designed to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation and fair presentation of our financial statements for external purposes in accordance with generally accepted
+accounting principles. Because of its inherent limitations, internal control over financial reporting may not prevent or detect
+misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+
+Our officers have assessed the effectiveness
+of our internal controls over financial reporting as of October 31, 2017. In making this assessment, management used the criteria
+established in Internal Control   Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (COSO). Based upon its assessment, management concluded that, as of October 31, 2017, our internal control over financial
+reporting was ineffective. 
+
+Management has identified a lack of sufficient
+personnel in the accounting function due to our limited resources with appropriate skills, training and experience to perform the
+review processes to ensure the complete and proper application of generally accepted accounting principles. We are in the process
+of developing and implementing remediation plans to address our material weaknesses in our internal controls. 
+
+Management has identified specific remedial
+actions to address the material weaknesses described above: 
+
+Improve the effectiveness of the
+accounting group by augmenting our existing resources with additional consultants or employees to improve segregation procedures
+and to assist in the analysis and recording of complex accounting transactions and preparation of tax disclosures. We plan to mitigate
+the segregation of duties issue by hiring additional personnel in the accounting department once we have achieved positive cash
+flow from operations and/or have raised significant additional working capital; and 
+
+   Improve segregation procedures
+by strengthening cross approval of various functions including cash disbursements and quarterly internal audit procedures where
+appropriate. 
+
+Due to its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject
+to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies
+or procedures may deteriorate. All internal control systems, no matter how well designed, have inherent limitations. Therefore,
+even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation
+and presentation. 
+
+This Annual Report does not include an
+attestation report of our registered public accounting firm regarding internal control over financial reporting. Management's report
+was not subject to attestation by our registered public accounting firm pursuant to an exemption for smaller reporting companies
+under Section 989G of the Dodd-Frank Wall Street Reform and Consumer Protection Act. 
+
+Changes in Internal Control over Financial Reporting  
+
+During the fourth quarter ended October 31, 2017, there were
+no changes in our internal control over financial reporting that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting. 
+
+Item 9B Other Information  
+
+None 
+
+PART
+III   
+
+Item 10. Directors, Executive Officers and Corporate Governance  
+
+Below are the names and certain information regarding our executive
+officers and directors as at October 31, 2017. 
+
+James Bedal  
+      CEO, Director   
+ 
+      Michael Taylor  
+      President, Director   
+ 
+      Jeffrey Taylor  
+      Secretary, Director   
+
+James Bedal -
+CEO   
+
+James Bedal, 55, has been involved
+in business development since 1991. He began his product and market development career by introducing products into Japan, Korea,
+Australia, Singapore and China. James has served as an international market manager for Trus Joist and Extended Systems both Idaho
+Companies. James shifted his focus from international to domestic in 2002 when he began consulting and working in on a variety
+of new start-ups. As the VP of Marketing James launched products for law enforcement in 2003, 2004, and began working in the Commercial
+Kitchen Exhaust industry in 2005.  
+
+Jeffrey Taylor -
+Secretary   
+
+Jeff Taylor, 60, is the brother of
+Mike Taylor and also grew up in the family business in 2004 and has since been developing his skills in both operations to
+include purchasing. Jeff s personality and skills make him a great fit for the detailed requirements of supporting
+our franchisees.   
+
+Michael Taylor - President   
+
+Mike Taylor, 57, grew up in the family
+business of commercial kitchen exhaust service. Mike has never left the business and has been instrumental in creating and integrating
+his unique techniques and process that will Make Bare Metal Standard a leader in its category of commercial kitchen exhaust service
+companies. In 1989 Mike Taylor became founding members of International Kitchen Exhaust Cleaning Association, an organization
+that helped organize many small businesses performing kitchen exhaust cleaning in the United States of America. Mike has the experience
+required to train and maintain a level of quality Bare Metal Standard will build its brand around.  
+
+Directors  
+
+The authorized number of directors of the corporation shall
+be fixed from time to time by resolution adopted by the Board. 
+
+Term of Office  
+
+Directors shall be elected at the annual meeting of stockholders
+and each director shall hold office until his successor is elected and qualified or until his death, retirement, earlier resignation
+or removal. 
+
+Board of Director Committees  
+
+We do not have any board committees due to the limited size
+of the Board and the Company, and as such the board as a whole carries out the functions of audit, nominating and compensation
+committees. 
+
+Item 11.   Executive Compensation  
+
+The following
+table sets forth the compensation paid to our officers and directors for the years ended October 31, 2016 and 2017:     
+
+Employment Agreements  
+
+None 
+
+Director Compensation  
+
+None 
+
+Equity Compensation Plans  
+
+The following table set forth information regarding the outstanding
+equity awards as of October 31, 2017 for our officers and directors: 
+
+Name   
+
+Number  
+          of  
+          Securities  
+          Underlying  
+          Unexercised  
+          options  
+          (#)   
+
+Equity  
+          Incentive  
+          Plan  
+          Awards:  
+          Number of  
+          Securities  
+          Underlying  
+          Unexercised  
+          Unearned  
+          Options  
+          (#)   
+
+Equity  
+          Incentive  
+          Plan  
+          Awards:  
+          Number of  
+          Securities  
+          Underlying  
+          Unexercised  
+          Unearned  
+          Options  
+          (#)   
+
+Option  
+          Exercise  
+          Price ($)   
+
+Option  
+          Expiration  
+          Date   
+
+Number  
+          of Shares  
+          or Units  
+          of Stock  
+          That  
+          Have Not  
+          Vested (#)   
+
+Market  
+          Value of  
+          Shares  
+          or Units  
+          of Stock  
+          That  
+          Have  
+          Not  
+          Vested  
+          ($)   
+
+Equity  
+          Incentive  
+          Plan  
+          Awards:  
+          Number of  
+          Unearned  
+          Shares,  
+          Units or  
+          Other  
+          Rights That  
+          Have Not  
+          Vested (#)   
+
+Equity  
+          Incentive  
+          Plan  
+          Awards:  
+          Market or  
+          Payout  
+          Value of  
+          Unearned  
+          Shares,  
+          Units or  
+          Other  
+          Rights That  
+          Have Not  
+          Vested ($)   
+
+James Bedal  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+Michael Taylor  
+
+Jeffrey Taylor  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+-  
+
+Item 12.      Security
+Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters  
+
+The following table sets forth certain
+information regarding beneficial ownership of our common stock as of October 31, 2017. 
+
+By each person who is known by us to beneficially own more than 5% of our common stock;   
+
+By each of our officers and directors; and   
+
+By all of our officers and directors as a group.   
+
+As used in this table,  beneficial
+ownership  means the sole or shared power to vote, or to direct the voting of, a security, or the sole or shared investment
+power with respect to a security (i.e., the power to dispose of, or to direct the disposition of, a security). 
+
+In addition, for purposes of this table,
+a person is deemed, as of any date, to have  beneficial ownership  of any security that such person has the right to
+acquire within 60 days after such date. 
+
+Other than the shareholders listed
+above, we know of no other person who is the beneficial owner of more than five percent (5%) of our common stock. 
+
+The persons named above have full voting
+and investment power with respect to the shares indicated. Under the rules of the Securities and Exchange Commission, a person
+(or group of persons) is deemed to be a  beneficial owner  of a security if he or she, directly or indirectly, has or
+shares the power to vote or to direct the voting of such security, or the power to dispose of or to direct the disposition of such
+security. Accordingly, more than one person may be deemed to be a beneficial owner of the same security. A person is also deemed
+to be a beneficial owner of any security, which that person has the right to acquire within 60 days, such as options or warrants
+to purchase our common stock. 
+
+Item 13. Certain Relationships and Related
+Transactions, and Director Independence 
+
+Related party debt, in the amount of $24,387
+at October 31, 2016 (Predecessor) consisted of unsecured non interest bearing and due on demand working capital advances
+from a related party   Taylor Brothers Distributing, Inc. (a Company with common officers and directors) During the eight
+months ended October 31, 2017, Bare Metal (Successor) purchased $7,602 worth of inventory from Taylor Brothers Distributing. 
+
+The related party payable, in the amount
+of $1,924, Taylor Brothers Holdings, (Predecessor) resulted from the acquisition of supplies and products from two related companies.
+A total of $1,760 owing to Taylor Brothers Distributing, Inc. was repaid in two instalments on November 11 and November 16, 2016.
+The remaining total, of $164, was repaid to a Taylor Brothers, Inc. a franchisee on November 14, 2016. 
+
+We have entered into an agreement with
+Taylor Brothers Inc. (a Company with common officers and directors) to use their offices. The rent will be $5,000 per month, when
+Bare Metal Standard completes required funding to support ongoing operations. 
+
+We currently operate with three directors, James Bedal, Michael
+Taylor and Jeffrey Taylor. We have determined that none of our directors are  independent directors  as defined in NASDAQ
+Marketplace Rule 4200(a) (15). 
+
+Item 14.   Principal Accounting
+Fees and Services  
+
+The fees billed for professional services
+rendered by our principal accountant are as follows: 
+
+Pre-Approval Policies and Procedures  
+
+The board of directors must pre-approve
+any use of our independent accountants for any non-audit services.  All services of our auditors are approved by our
+whole board and are subject to review by our whole board. 
+
+PART
+IV   
+
+Item 15   Exhibits, Financial Statement Schedules  
+
+Number  
+      Exhibit   
+ 
+      31.1  
+       Rule 13a-14(a) Certification of Principal Executive Officer    
+ 
+      32.1  
+       Certification Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 of Principal Executive Officer    
+ 
+      101.INS*  
+      XBRL Instance Document   
+ 
+      101.SCH*  
+      XBRL Taxonomy Extension Schema Document   
+ 
+      101.CAL*  
+      XBRL Taxonomy Extension Calculation Linkbase Document   
+ 
+      101.LAB*  
+      XBRL Taxonomy Extension Label Linkbase Document   
+ 
+      101.PRE*  
+      XBRL Taxonomy Extension Presentation Linkbase Document   
+ 
+      101.DEF*  
+      XBRL Taxonomy Extension Definition Linkbase Document   
+
+*  
+      Pursuant to applicable securities laws and regulations, we are deemed to have complied with the reporting obligation relating to the submission of interactive data files in such exhibits and are not subject to liability under any anti-fraud provisions of the federal securities laws as long as we have made a good faith attempt to comply with the submission requirements and promptly amend the interactive data files after becoming aware that the interactive data files fail to comply with the submission requirements. Users of this data are advised that, pursuant to Rule 406T, these interactive data files are deemed not filed and otherwise are not subject to liability.   
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, this report has been signed below by the following person on behalf of the Registrant and in the capacities on this 25th
+day of September 2018.  
+
+BARE METAL STANDARD INC.   
+
+BY:  
+      James Bedal   
+
+/s/  
+      James Bedal   
+
+Principal Executive Officer   
+
+Principal Financial Officer and   
+
+Principal Accounting Officer   
+
+20   
+
+<EX-31.1>
+ 2
+ ex31_1.htm
+ EXHIBIT 31.1
+
+EXHIBIT 31.1  
+
+CERTIFICATION   
+
+  Pursuant to 18 U.S.C. 1350   
+
+  (Section 302 of the Sarbanes-Oxley
+Act of 2002)   
+
+I, James Bedal, certify that: 
+
+1.         I have reviewed
+this annual report on Form 10-K of BARE METAL STANDARD INC.; 
+
+2.        Based on my knowledge,
+this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by
+this report; 
+
+3.        Based on my knowledge,
+the financial statements, and other financial information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4.        The registrant's
+other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a)    Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared; 
+
+b)    Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles; 
+
+c)   Evaluated
+the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d)   Disclosed
+in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or
+is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5.         The registrant's
+other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting,
+to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent
+functions): 
+
+a)   All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information;
+and 
+
+b)   Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal
+control over financial reporting. 
+
+Date: September 25, 2018 
+
+BY:  
+           
+          /s/   
+     
+          James Bedal   
+           
+          James Bedal     
+
+Principal Executive Officer   
+          Principal Financial Officer and   
+          Principal Accounting Officer     
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32_1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1  
+
+CERTIFICATION  
+
+  Pursuant to 18 U.S.C. 1350  
+
+  (Section 906 of the Sarbanes-Oxley
+Act of 2002)  
+
+In connection with the Annual Report of BARE METAL STANDARD
+INC. (the  Company ) for the period ended October 31, 2017, as filed with the Securities and Exchange Commission on
+the date hereof (the  Report ), Jung Choung Hun, as Principal Executive Officer and Principal Financial Officer of the
+Company, hereby certifies, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(1) 
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) 
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Company. 
+
+Date: September 25, 2018 
+
+BY:  
+           
+          /s/   
+     
+          James Bedal  
+           
+          James Bedal    
+
+Principal Executive Officer   
+          Principal Financial Officer and   
+          Principal Accounting Officer     
+
+This certification accompanies each Report pursuant to
+ss. 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley Act of 2002, be deemed
+filed by the Company for purposes of ss.18 of the Securities Exchange Act of 1934, as amended. 
+
+A signed original of this written statement required
+by Section 906 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange
+Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ brrm-20171031.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ brrm-20171031.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ brrm-20171031_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ brrm-20171031_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ brrm-20171031_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ brrm-20171031_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

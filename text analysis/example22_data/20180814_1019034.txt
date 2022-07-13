@@ -1,0 +1,878 @@
+tm 
+
+U.S. SECURITIES  AND EXC HANGE COMMISSION  
+
+  WASHINGTON, D.C. 20549  
+
+FORM 10-Q  
+
+For the quarterly period ended June 30, 201  8  
+
+  or  
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(D) OF THE EXCHANGE ACT  
+
+For the Transition Period from              to  
+
+Commission file number 1-13463  
+
+BIO-KEY INTERNATIONAL, INC.  
+
+ (Exact Name of Registrant as Specified in Its Charter) 
+
+DELAWARE  
+
+41-1741861  
+
+(State or Other Jurisdiction of Incorporation of Organization) 
+
+(IRS Employer Identification Number) 
+
+3349 HIGHWAY 138, BUILDING A, SUITE E, WALL, NJ  07719  
+
+ (Address of Principal Executive Offices) 
+
+(732) 359-1100  
+
+ (Issuer s Telephone Number) 
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes      No    
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes     No    
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer   
+
+Accelerated filer   
+
+Smaller Reporting Company   
+
+Non-accelerated filer   (Do not check if a smaller reporting company) 
+
+Emerging growth company    
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   
+
+Indicate by check mark whether the registrant is a shell company (as defined by rule 12b-2 of the Exchange Act)  Yes     No    
+
+Number of shares of Common Stock, $.0001 par value per share, outstanding as of August 13, 2018 is 12,591,279.  
+
+BIO-KEY INTERNATIONAL, INC. AND SUBSIDIARY  
+
+INDEX  
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1 
+
+Financial Statements. 
+
+Condensed consolidated balance sheets as of June 30, 2018 (unaudited) and December 31, 2017 
+
+3 
+
+Condensed consolidated statements of operations for the three and six months ended June 30, 2018 and 2017 (unaudited) 
+
+4 
+
+Condensed consolidated statements of cash flows for the six months ended June 30, 2018 and 2017 (unaudited) 
+
+5 
+
+Notes to condensed consolidated financial statements (unaudited) 
+
+7 
+
+Item 2 
+
+Management s Discussion and Analysis of Financial Conditions and Results of Operations. 
+
+19 
+
+Item 4 
+
+Controls and Procedures. 
+
+26 
+
+PART II. OTHER INFORMATION 
+
+Item 2 
+
+Unregistered Sales of Equity Securities and Use of Proceeds. 
+
+26 
+
+Item 6 
+
+Exhibits. 
+
+26 
+
+Signatures 
+			 
+			 27 
+
+PART I -- FINANCIAL INFORMATION  
+
+BIO-KEY INTERNATIONAL, INC. AND SUBSIDIARY  
+
+  CONDENSED CONSOLIDATED BALANCE SHEETS  
+
+The accompanying notes to the condensed consolidated financial statements are an integral part of these statements. 
+
+3
+
+BIO-KEY INTERNATIONAL, INC. AND SUBSIDIARY  
+
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS  
+
+  (Unaudited)  
+
+The accompanying notes to the condensed consolidated financial statements are an integral part of these statements.  
+
+4
+
+BIO-KEY INTERNATIONAL, INC. AND SUBSIDIARY  
+
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS  
+
+  (Unaudited)  
+
+The accompanying notes to the condensed consolidated financial statements are an integral part of these statements.  
+
+5
+
+BIO-KEY I nternational, Inc. and Subsidiary  
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(Unaudited)  
+
+SUPPLEMENTARY DISCLOSURES OF CASH FLOW INFORMATION 
+
+The accompanying notes to the condensed consolidated financial statements are an integral part of these statements.  
+
+6
+
+BIO-KEY INTERNATIONAL, INC. AND SUBSIDIARY  
+
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+
+  June 30, 201  8   (Unaudited)  
+
+1. 
+
+NATURE OF BUSINESS AND BASIS OF PRESENTATION 
+
+Nature of Business  
+
+BIO-key International, Inc., founded in 1993, develops and markets proprietary fingerprint identification biometric technology and software solutions. The Company was a pioneer in developing automated, finger identification technology that supplements or compliments other methods of identification and verification, such as personal inspection identification, passwords, tokens, smart cards, ID cards, PKI, credit card, passports, driver s licenses, OTP or other form of possession or knowledge-based credentialing. Additionally, advanced BIO-key  technology has been, and is, used to improve both the accuracy and speed of competing finger-based biometrics. 
+
+Basis of Presentation  
+
+The accompanying unaudited interim condensed consolidated financial statements include the accounts of BIO-key International, Inc. and its wholly-owned subsidiary (collectively, the  Company  or  BIO-key ) and are stated in conformity with accounting principles generally accepted in the United States of America, pursuant to the rules and regulations of the Securities and Exchange Commission (the  SEC ). The operating results for interim periods are not necessarily indicative of results that may be expected for any other interim period or for the full year. Pursuant to such rules and regulations, certain financial information and footnote disclosures normally included in the financial statements have been condensed or omitted. Significant intercompany accounts and transactions have been eliminated in consolidation. 
+
+In the opinion of management, the accompanying unaudited interim consolidated financial statements contain all necessary adjustments, consisting only of those of a recurring nature, and disclosures to present fairly the Company s financial position and the results of its operations and cash flows for the periods presented. The balance sheet at June 30, 2018 was derived from the audited financial statements, but does not include all of the disclosures required by accounting principles generally accepted in the United States of America. These unaudited interim condensed consolidated financial statements should be read in conjunction with the financial statements and the related notes thereto included in the Company s Annual Report on Form 10-K for the year ended December 31, 2017, filed with the SEC on April 2, 2018.  
+
+Recently Issued Accounting Pronouncements  
+
+In May 2014, ASU No. 2014-09,  Revenue from Contracts with Customers  was issued. The Company adopted ASU 2014-09 and its related amendments (collectively known as ASC 606) effective on January 1, 2018 using the modified retrospective method. Please see Note 3  Revenue from Contracts with Customers  for the required disclosures related to the impact of adopting this standard and a discussion of the Company s updated policies related to revenue recognition and accounting for costs to obtain and fulfill a customer contract. 
+
+In February 2016, the FASB issued ASU 2016-02,  Leases . The new standard establishes a right-of-use (ROU) model that requires a lessee to record a ROU asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the income statement. The new standard is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years. A modified retrospective transition approach is required for capital and operating leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements, with certain practical expedients available. The Company is currently evaluating the impact of its pending adoption of the new standard on its consolidated financial statements, and expects that it will increase its assets and liabilities for amounts yet to be determined. 
+
+In July 2017, the FASB issued ASU 2017-11, Earnings Per Share (Topic 260), Distinguishing Liabilities from Equity (Topic 480) and Derivatives and Hedging (Topic 815): I. Accounting for Certain Financial Instruments with Down Round Features; II. Replacement of the Indefinite Deferral for Mandatorily Redeemable Financial Instruments of Certain Nonpublic Entities and Certain Mandatorily Redeemable Non-controlling Interests with a Scope Exception. Part I of this update addresses the complexity of accounting for certain financial instruments with down round features. Down round features are features of certain equity-linked instruments (or embedded features) that result in the strike price being reduced on the basis of the pricing of future equity offerings. Current accounting guidance creates cost and complexity for entities that issue financial instruments (such as warrants and convertible instruments) with down round features that require fair value measurement of the entire instrument or conversion option. Under ASU 2017-11, down round features do not meet the criteria for derivative accounting and no liability is to be recorded until an actual issuance of securities triggers the down-round feature. Part II of this update addresses the difficulty of navigating Topic 480, Distinguishing Liabilities from Equity, because of the existence of extensive pending content in the FASB Accounting Standards Codification. This pending content is the result of the indefinite deferral of accounting requirements about mandatorily redeemable financial instruments of certain nonpublic entities and certain mandatorily redeemable non-controlling interests. The amendments in Part II of this update do not have an accounting effect. This ASU is effective for fiscal years, and interim periods within those years, beginning after December 15, 2018, with early adoption permitted. The adoption of ASU 2017-11, during the fiscal 2017 year did not have any impact on the condensed consolidated financial statements, however our disclosures with respect to equity instruments with down round features have been updated.    
+
+7
+
+Management does not believe that any other recently issued, but not yet effective, accounting standard if currently adopted would have a material effect on the accompanying consolidated financial statements. 
+
+Reclassification  
+
+Reclassifications occurred to certain prior year amounts in order to conform to the current year classifications including segregating the hardware revenues. The reclassifications have no effect on the reported net loss. 
+
+2. 
+
+GOING CONCERN 
+
+The Company has incurred significant losses to date and at June 30, 2018 had an accumulated deficit of approximately $71 million. In addition, broad commercial acceptance of the Company s technology is critical to the Company s success and ability to generate future revenues. At June 30, 2018, the Company s total cash and cash equivalents were approximately $304,000, as compared to approximately $289,000 at December 31, 2017. 
+
+The Company has financed operations in the past through access to the capital markets by issuing secured and convertible debt securities, convertible preferred stock, common stock, and through factoring receivables. The Company estimates that it currently requires approximately $592,000 per month to conduct operations, a monthly amount that it has been unable to achieve consistently through revenue generation. 
+
+If the Company is unable to generate sufficient revenue to meet its goals, it will need to obtain additional third-party financing to (i) conduct the sales, marketing and technical support necessary to execute its plan to substantially grow operations, increase revenue, and serve a significant customer base; and (ii) provide working capital. No assurance can be given that any form of additional financing will be available on terms acceptable to the Company, that adequate financing will be obtained by the Company, in order to meet its needs, or that such financing would not be dilutive to existing shareholders. 
+
+The accompanying financial statements have been prepared in conformity with accounting principles generally accepted in the United States of America ( GAAP ), which contemplate continuation of the Company as a going concern, and assumes continuity of operations, realization of assets and the satisfaction of liabilities and commitments in the normal course of business. The matters described in the preceding paragraphs raise substantial doubt about the Company s ability to continue as a going concern. Recoverability of a major portion of the recorded asset amounts shown in the accompanying balance sheet is dependent upon the Company s ability to meet its financing requirements on a continuing basis, and become profitable in its future operations. The accompanying consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded assets or the amounts and classification of liabilities that might be necessary should the Company be unable to continue in existence. 
+
+3. 
+
+REVENUE FROM CONTRACTS WITH CUSTOMERS 
+
+The Company adopted ASC 606 on January 1, 2018 using the modified retrospective method for all contracts not completed as of the date of adoption. The reported results for 2018 reflect the application of ASC 606 guidance while the reported results for 2017 were prepared under the guidance of ASC 605,  Revenue Recognition  (ASC 605), which is also referred to herein as  legacy GAAP  or the  previous guidance . The adoption of ASC 606 represents a change in accounting principle that will more closely align revenue recognition with the delivery of the Company s services and will provide financial statement readers with enhanced disclosures. In accordance with ASC 606, revenue is recognized when a customer obtains control of promised services. The amount of revenue recognized reflects the consideration to which the Company expects to be entitled to receive in exchange for these services. To achieve this core principle, the Company applies the following five steps: 
+
+Identify the contract with a customer 
+
+Identify the performance obligations in the contract 
+
+Determine the transaction price 
+
+Allocate the transaction price to performance obligations in the contract 
+
+Recognize revenue when or as the Company satisfies a performance obligation 
+
+8
+
+Disaggregation of Revenue   
+
+The following table summarizes revenue from contracts with customers for the three month periods ended: 
+
+The following table summarizes revenue from contracts with customers for the six month periods ended: 
+
+*EMEA   Europe, Middle East, Africa 
+
+All of the Company s performance obligations, and associated revenue, are generally transferred to customers at a point in time, with the exception of support and maintenance, and professional services, which are generally transferred to the customer over time. 
+
+Software licenses  
+
+ Software license revenue consist of fees for perpetual software licenses for one or more of the Company s biometric fingerprint solutions. Revenue is recognized at a point in time once the software is available to the customer for download. Software license contracts are generally invoiced in full on execution of the arrangement. 
+
+Hardware  
+
+ Hardware revenue consists of fees for associated equipment sold with or without a software license arrangement, such as servers, locks and fingerprint readers. Customers are not obligated to buy third party hardware from the Company, and may procure these items from a number of suppliers. Revenue is recognized at a point in time once the hardware is shipped to the customer. Hardware items are generally invoiced in full on execution of the arrangement. 
+
+Support and Maintenance  
+
+ Support and Maintenance revenue consists of fees for unspecified upgrades, telephone assistance and bug fixes. The Company satisfies its Support and Maintenance performance obligation by providing  stand-ready  assistance as required over the contract period. The Company records deferred revenue (contract liability) at time of invoice until the contracts term occurs. Revenue is recognized over time on a ratable basis over the contract term. Support and Maintenance contracts are up to one year in length and are generally invoiced either annually or quarterly in advance. 
+
+Professional Services  
+
+ Professional services revenues consist primarily of fees for deployment and optimization services, as well as training. The majority of the Company s consulting contracts are billed on a time and materials basis, and revenue is recognized based on the amount billable to the customer in accordance with practical expedient ASC 606-10-55-18. For other professional services contracts, the Company utilizes an input method and recognizes revenue based on labor hours expended to date relative to the total labor hours expected to be required to satisfy its performance obligation. 
+
+9
+
+Contracts with Multiple Performance Obligations  
+
+ Some contracts with customers contain multiple performance obligations. For these contracts, the Company accounts for individual performance obligations separately if they are distinct. The transaction price is allocated to the separate performance obligations on a relative standalone selling price basis.  The standalone selling prices are determined based on overall pricing objectives, taking into consideration market conditions and other factors, including the value of the contracts, the cloud applications sold, customer demographics, geographic locations, and the number and types of users within the contracts. 
+
+The Company considered several factors in determining that control transfers to the customer upon shipment of hardware and availability of download of software.  These factors include that legal title transfers to the customer, the Company has a present right to payment, and the customer has assumed the risks and rewards of ownership. 
+
+Accounts receivable from customers are typically due within 30 days of invoicing.  The Company does not record a reserve for product returns or warranties as amounts are deemed immaterial based on historical experience. 
+
+Costs to Obtain and Fulfill a Contract  
+
+ Costs to obtain and fulfill a contract are predominantly sales commissions earned by the sales force and are considered incremental and recoverable costs of obtaining a contract with a customer. These costs are deferred and then amortized over a period of benefit determined to be four years. These costs are included as capitalized contract costs on the balance sheet.   The period of benefit was determined by taking into consideration customer contracts, technology, and other factors based on historical evidence. Amortization expense is included in selling, general and administrative expenses in the accompanying condensed consolidated statements of operations. 
+
+Financial Statement Impact of Adopting ASC 606   
+
+ The Company adopted ASC 606 using the modified retrospective method. The cumulative effect of applying the new guidance to all contracts with customers that were not completed as of January 1, 2018 was recorded as an adjustment to accumulated deficit as of the adoption date. The cost of obtaining the contract reflects the outcome of the sales effort in educating, demonstrating and selling our solutions. Accordingly under ASC 606, commissions are a capitalized cost due to the acquisition of a new customer. 
+
+As a result of applying the modified retrospective method to adopt the new revenue guidance, the following adjustments were made to the following select condensed consolidated balance sheet line items as of January 1, 2018: 
+
+Impact of New Revenue Guidance on Financial Statement Line Items   
+
+ The following table compares selected reported condensed consolidated balance sheet, statement of operations and cash flows, as of and for the three and six months ended June 30, 2018, to the pro-forma amounts had the previous guidance still been applied: 
+
+10
+
+Revenue recognized during the three and six months ended June 30, 2018 from amounts included in deferred revenue at the beginning of the period was approximately $79,000 and $197,000 respectively. The Company did not recognize any revenue from performance obligations satisfied in prior periods. Total deferred revenue (contract liability) was $328,183 and $507,866 at June 30, 2018 and December 31, 2017, respectively. 
+
+Transaction Price Allocated to the Remaining Performance Obligations   
+
+ ASC 606 requires that the Company disclose the aggregate amount of transaction price that is allocated to performance obligations that have not yet been satisfied as at June 30, 2018. The guidance provides certain practical expedients that limit this requirement, which the Company s contracts meet as follows: 
+
+The performance obligation is part of a contract that has an original expected duration of one year or less, in accordance with ASC 606-10-50-14. 
+
+At June 30, 2018 deferred revenue represents our remaining performance obligations related to support and maintenance, all of which is expected to be recognized within one year. 
+
+4. 
+
+ACCOUNTS RECEIVABLE 
+
+Accounts receivable are carried at original amount less an estimate made for doubtful receivables based on a review of all outstanding amounts on a monthly basis. Management determines the allowance for doubtful receivables by regularly evaluating individual customer receivables and considering a customer s financial condition, credit history, and current economic conditions. Accounts receivable are written off when deemed uncollectible. As a result of the payment delays for a large customer, the Company has continued to reserve $1,000,000 at June 30, 2018, which represents 58% of the remaining balance owed under the contract. Recoveries of accounts receivable previously written off are recorded when received. Accounts receivable at June 30, 2018 and December 31, 2017 consisted of the following: 
+
+11
+
+5. 
+
+SHARE BASED COMPENSATION 
+
+The following table presents share-based compensation expenses included in the Company s unaudited condensed interim consolidated statements of operations: 
+
+6. 
+
+FACTORING 
+
+Due from factor consisted of the following as of:  
+
+The Company entered into an accounts receivable factoring arrangement with a financial institution (the  Factor ) which has been extended to October 31, 2018. Pursuant to the terms of the arrangement, the Company, from time to time, sells to the Factor a minimum of $150,000 per quarter of certain of its accounts receivable balances on a non-recourse basis for credit approved accounts. The Factor remits 35% of the foreign and 75% of the domestic accounts receivable balance to the Company (the  Advance Amount ), with the remaining balance, less fees to be forwarded to the Company once the Factor collects the full accounts receivable balance from the customer. In addition, the Company, from time to time, receives over advances from the factor. Factoring fees range from 2.75% to 15% of the face value of the invoice factored, and are determined by the number of days required for collection of the invoice. The cost of factoring is included in selling, general and administrative expenses. The cost of factoring was as follows:  
+
+7. 
+
+INVENTORY 
+
+Inventory is stated at the lower of cost, determined on a first in, first out basis, or net realizable value, and consists primarily of fabricated assemblies and finished goods. Inventory is comprised of the following as of:  
+
+12
+
+8. 
+
+RESALABLE SOFTWARE LICENSE RIGHTS 
+
+On November 11, 2015, the Company entered into a license agreement for the rights to all software and documentation regarding the technology currently known as or offered under the FingerQ name. The license agreement grants the Company the exclusive right to reproduce, create derivative works and distribute copies of the FingerQ software and documentation, create new FingerQ related products, and grant sub-licenses of the licensed technology to end users. The license rights have been granted to the Company in perpetuity, with a stated number of end-user resale sub-licenses allowed under the contract for a total of $12,000,000. The cost of sub-license rights expected to be amortized in the following 12 months is $2,820,000 and is classified as current, with remainder as non-current. 
+
+The Company has determined the software license rights to be a finite lived intangible asset, and estimated that the software license rights shall be economically used over a 10 year period, with a weighting towards the beginning years of that time-frame. The license rights were acquired during the fourth quarter of 2015, but the usage of such rights in the Company s products was not generally available until January 2017. Accordingly, amortization began in the first quarter of 2017. 
+
+The remaining license rights are to be amortized over the greater of the following: 1) an estimate of the economic use of such license rights, 2) straight line method over ten years or 3) the actual usage of such rights. The Company believes categorizing the amortization expense under Cost of Sales more closely reflects the nature of the license right arrangement and the use of the technology. A total of $660,000 and $390,000 was expensed during the three month periods ended June 30, 2018 and 2017, respectively. A total of $1,320,000 and $778,092 was expensed during the six month periods ended June 30, 2018 and 2017, respectively.  The 2018 expense was recorded based on the economic use model.  Since the license purchase, a cumulative amount of $2,878,596 has been expensed, with a carrying balance of $9,121,404 as of June 30, 2018. 
+
+On December 31, 2015, the Company purchased third-party software licenses in the amount of $180,000 in anticipation of a large pending deployment that has yet to materialize. The Company is amortizing the total cost over the same methodology described above with the greatest of the three approaches being the amortization for the periods. A total of $20,642 and $22,020 was expensed during the three month periods ended June 30, 2018 and 2017, respectively. A total of $8,102 (net of credits of $14,400) and $28,716 was expensed during the six month periods ended June 30, 2018 and 2017, respectively. Since the license purchase, the actual per unit cost (actual usage) of such license rights in the cumulative amount of $55,698 net of credits has been expensed, with a carrying balance of $124,302 as of June 30, 2018. The Company has classified the balance as non-current until a larger deployment occurs. Software license rights is comprised of the following as of: 
+
+9. 
+
+EARNINGS (LOSS) PER SHARE - COMMON STOCK ( EPS ) 
+
+The Company s basic EPS is calculated using net loss available to common shareholders and the weighted-average number of shares outstanding during the reporting period. Diluted EPS includes the effect from potential issuance of common stock, such as stock issuable pursuant to the exercise of stock options and warrants and the assumed conversion of convertible preferred stock. 
+
+The reconciliation of the numerator of the basic and diluted EPS calculations was as follows for both of the following three and six month periods ended June 30, 2018 and 2017: 
+
+13
+
+The following table summarizes the weighted average securities that were excluded from the diluted per share calculation because the effect of including these potential shares was antidilutive due to the net losses for the three and six months ended June 30, 2018 and 2017: 
+
+Items excluded from the diluted per share calculation because the exercise price was greater than the average market price of the common shares: 
+
+10. 
+
+STOCKHOLDERS  EQUITY 
+
+Preferred Stock  
+
+Within the limits and restrictions provided in the Company s Certificate of Incorporation, the Board of Directors has the authority, without further action by the shareholders, to issue up to 5,000,000 shares of preferred stock, $.0001 par value per share, in one or more series, and to fix, as to any such series, any dividend rate, redemption price, preference on liquidation or dissolution, sinking fund terms, conversion rights, voting rights, and any other preference or special rights and qualifications. As of June 30, 2018, 100,000 shares of preferred stock have been designated as Series A-1 Convertible Preferred Stock, of which 0 shares are issued and outstanding, and 105,000 shares of preferred stock have been designated as Series B-1 Convertible Preferred Stock, of which 0 are issued and outstanding.     
+
+Series A-1 Convertible Preferred Stock  
+
+On October 22 and 29, 2015, the Company issued 84,500 shares of Series A-1 Convertible Preferred Stock ( Series A-1 Stock ) at a purchase price of $100.00 per share, for aggregate gross proceeds of $8,450,000. On November 11, 2015, 5,500 additional shares of Series A-1 Stock were issued at a purchase price of $100.00 per share, for gross cash proceeds of $550,000. Shares of Series A-1 Stock are convertible at any time at the option of the holder into shares of common stock by dividing the Series A-1 Original Issue Price by an initial conversion price of $3.60 per share, subject to adjustment for stock dividends, stock splits, combinations, and reclassifications of the Company s capital stock, and subject to a  blocker provision  which prohibits conversion if such conversion would result in the holder being the beneficial owner of in excess of 9.99% of the Company s common stock.   In connection with the request of the sole holder of the Series A-1 Stock, on August 7, 2017 the Company waived a standstill agreement to permit the holder to increase his conversion cap to 35% effective 61 days after such waiver request. The Series A-1 Stock accrues dividends at the rate of 6% per annum payable quarterly on April 1, July, 1, October 1, and January 1 of each year. Until October 1, 2017, the dividends were payable in cash provided that if payment in cash would be prohibited under applicable Delaware corporation law or cause the Company to breach any agreement for borrowed money, such dividends are payable in kind through the issuance of additional shares of common stock having a value equal to the volume weighted average trading price of the Company s common stock for the ten (10) days preceding the applicable dividend payment date. Commencing January 1, 2018, dividends are payable at the option of the Company in cash or kind through the issuance of additional shares of common valued as described above. 
+
+The holders of the Series A-1 Stock are entitled to designate one person to serve on the Board of Directors of the Company.  The holders of the Series A-1 Stock are entitled to vote on an as converted to common stock basis together with the holders of our common stock on all matters presented to our stockholders. Upon any liquidation or dissolution of the Company, any merger or consolidation involving the Company or any subsidiary of the Company in which the shares of capital stock of the Company outstanding immediately prior to such merger or consolidation do not represent immediately following such merger or consolidation at least a majority of the voting power of the capital stock of the resulting or surviving corporation, or the sale of all or substantially all assets in a single transaction or a series of related transactions, unless the holders of at least a majority of the outstanding Series A-1 Stock elect otherwise, holders of Series A-1 Stock shall be entitled to receive prior to any payment to any holders of the Company s common stock an amount per share equal to $100.00 per share plus any declared and unpaid dividends (pari-passu with the Series B-1 holders).  
+
+14
+
+Between September 22, 2017 and May 31, 2018, the holder of the Series A-1 Stock converted all shares of Series A-1 Stock into an aggregate of 2,500,000 shares of common stock and purchased an aggregate of 248,893 shares of common stock in consideration of the conversion of $896,015 of accrued dividends payable on the Series A-1 Stock   
+
+As a result of the forgoing conversions, there are no longer any issued and outstanding shares of Series A-1 Stock. 
+
+Overall balances and conversion of Series A-1 shares and accrued dividends into common stock has been as follows: 
+
+The Series A-1 Stock contains options that based on an evaluation of FASB ASC 815-15,  Embedded Derivatives  and FASB ASC 815-40-15,  Contracts in Entity s Own Equity - Scope and Scope Exceptions,  are considered embedded features:  Preferred Stock s conversion option:  The Series A-1 Stock is convertible at the holder s option at any time at the fixed conversion price of $3.60 per share; Quarterly Dividend Conversion Option:  From issuance until December 31, 2017, the majority of holders could have  elected to have the quarterly dividend payment made in shares of common stock, having a value equal to the volume weighted average trading price of the common stock during the ten (10) trading day period preceding the applicable dividend payment date. These features were analyzed by the Company and determined that they were not required to be bifurcated from the preferred stock and recorded as derivatives as they are clearly and closely related to an equity host. 
+
+Series B-1 Convertible Preferred Stock  
+
+On November 11, 2015, the Company issued 105,000 shares of Series B-1 Convertible Preferred Stock (the  Series B-1 Stock ) at a purchase price of $100.00 per share, for gross proceeds of $10,500,000.  Shares of the Series B-1  Stock are convertible at any time at the option of the holder into shares of common stock by dividing the Series B-1 Original Issue Price by an initial conversion price of $3.60 per share, subject to adjustment for stock dividends, stock splits, combinations, and reclassifications of the Company s capital stock, and subject to a  blocker provision  which prohibits conversion if such conversion would result in the holder being the beneficial owner of in excess of 9.99% of the Company s common stock.  During a conversion detailed in the table below, the Company waived a standstill provision to permit a holder of Series B-1 Stock to increase conversion limitation to 19.99% of the Company s issued and outstanding shares of common stock to be effective 61 days after such waiver.  The Series B-1 Stock accrues dividends at the rate of 2.5% per annum payable quarterly on April 1, July, 1, October 1, and January 1 of each year payable in cash provided that if payment in cash would be prohibited under applicable Delaware corporation law or cause the Company to breach any agreement for borrowed money, or if the majority of the outstanding shares of the Series B-1 Stock elect otherwise, such dividends are payable in kind through the issuance of additional shares of common stock having a value equal to the volume weighted average trading price of the Company s common stock for the ten (10) days preceding the applicable dividend payment date.  
+
+15
+
+The holders of the Series B-1 Stock are entitled to designate one person to serve on the Board of Directors of the Company. The holders of the Series B-1 Stock are entitled to vote on an as converted to common stock basis together with the holders of our common stock on all matters presented to our stockholders. Upon any liquidation or dissolution of the Company, any merger or consolidation involving the Company or any subsidiary of the Company in which the shares of capital stock of the Company outstanding immediately prior to such merger or consolidation do not represent immediately following such merger or consolidation at least a majority of the voting power of the capital stock of the resulting or surviving corporation, or the sale of all or substantially all assets in a single transaction or a series of related transactions, unless the holders of at least a majority of the outstanding Series B-1 Stock elect otherwise, holders of Series B-1 Stock shall be entitled to receive prior to any payment to any holders of the Company s common stock an amount per share equal to $100.00 per share plus any declared and unpaid dividends (pari-passu with the Series A-1 holders).  
+
+Between March 23, 2018 and May 23, 2018, holders of shares of Series B-1 Stock converted all shares of Series B-1 Stock into an aggregate of 2,916,668 shares of common stock and purchased an aggregate of 131,230 shares of common stock in consideration of the conversion of $472,426 of accrued dividends payable on the Series B-1 Stock. 
+
+As a result of the forgoing conversions, there are no longer any issued and outstanding shares of Series B-1 Stock. 
+
+Overall balances and conversion of Series B-1 shares and accrued dividends into common stock has been as follows: 
+
+The Series B-1 Stock contains options that based on an evaluation of FASB ASC 815-15,  Embedded Derivatives  and FASB ASC 815-40-15,  Contracts in Entity s Own Equity - Scope and Scope Exceptions,  are considered embedded features:  Preferred Stock s conversion option:  The Series B-1 Stock is convertible at the holder s option at any time at the fixed conversion price of $3.60 per share; Quarterly Dividend Conversion Option:  The majority of holders may elect to have the quarterly dividend payment made in shares of common stock, having a value equal to the volume weighted average trading price of the common stock during the ten (10) trading day period preceding the applicable dividend payment date. These features were analyzed by the Company and determined that they were not required to be bifurcated from the preferred stock and recorded as derivatives as they are clearly and closely related to an equity host.   
+
+16
+
+Common Stock  
+
+On March 23, 2018, in addition to the conversion of Series B-1 Stock and accrued dividends payable into a total of 1,794,191 shares of common stock, the Company issued 7,659 shares of common stock to its directors in payment of board and board committee fees valued at $15,011.   
+
+On March 28, 2018, the Company issued 762 shares of common stock to its directors in payment of committee fees valued at $1,501. 
+
+On April 3, 2018, the holder of Series A-1 Stock converted shares and accrued dividends payable into a total of 1,177,598 shares of common stock. 
+
+On May 10, 2018, the Company issued 2,035 shares of common stock to its directors in payment of board fees.   
+
+On May 14, 2018, the Company issued 648 shares of common stock to its directors in payment of committee fees. 
+
+On May 23, 2018, the holders of Series B-1 Stock converted shares and accrued dividends payable into a total of 1,253,707 shares of common stock. 
+
+On May 31, 2018, the holder of Series A-1 Stock converted shares and accrued dividends payable into a total of 660,073 shares of common stock. 
+
+Derivative Liabilities  
+
+In connection with the issuances of equity instruments or debt, the Company may issue options or warrants to purchase common stock. In certain circumstances, these options or warrants may be classified as liabilities, rather than as equity. In addition, the equity instrument or debt may contain embedded derivative instruments, such as conversion options or listing requirements, which in certain circumstances may be required to be bifurcated from the associated host instrument and accounted for separately as a derivative liability instrument. The Company early-adopted the new provisions issued July 2017, for derivative liability instruments under FASB ASU 2017-11, Earnings Per Share (Topic 260), Distinguishing Liabilities from Equity (Topic 480) and Derivatives and Hedging (Topic 815): I. Accounting for Certain Financial Instruments with Down Round Features; II. Replacement of the Indefinite Deferral for Mandatorily Redeemable Financial Instruments of Certain Nonpublic Entities and Certain Mandatorily Redeemable Non-controlling Interests with a Scope Exception. Under ASU 2017-11, down round features do not meet the criteria for derivative accounting and no liability is to be recorded until an actual issuance of securities triggers the down-round feature. Prior to these provisions, the liabilities were recorded without the actual issuance of the securities triggering the down-round feature.  
+
+Securities Purchase Agreement dated November 13, 2014   
+
+Pursuant to a Securities Purchase Agreement, dated November 13, 2014, by and between the Company and a number of private and institutional investors, the Company issued to certain private investors 664,584 shares of common stock and warrants to purchase an additional 996,877 shares of common stock for aggregate gross proceeds of $1,595,000. 
+
+The warrants have a term of five years and an exercise price of $3.60 per share, and have been fully exercisable since February 2015. The warrants have customary anti-dilution protections including a  full ratchet  anti-dilution adjustment provision which are triggered in the event the Company sells or grants any additional shares of common stock, options, warrants or other securities that are convertible into common stock at a price lower than $3.60 per share, The anti-dilution adjustment provision is not triggered by certain  exempt issuances  which among other issuances, includes the issuance of shares of common stock, options or other securities to officers, employees, directors, consultants or service providers. 
+
+As a result of the early adoption of ASU 2017-11, the  full ratchet  anti-dilution feature is no longer a determinant for derivative liability accounting. As the  full ratchet  anti-dilution feature was determined to have no value in the past, the adoption had no effect on the balance sheets or statements of operations.  
+
+Securities Purchase Agreement dated September 23, 2015   
+
+On September 23, 2015, the Company issued a warrant to purchase 69,445 shares of common stock in connection with the issuance of a promissory note. The warrants are immediately exercisable at an exercise price of $3.60 per share and have a term of five years.  
+
+17
+
+The warrants have customary anti-dilution protections including a  full ratchet  anti-dilution adjustment provision which are triggered in the event the Company sells or   grants any additional shares of common stock, options, warrants or other securities that are convertible into common stock at a price lower than $3.60 per share. The anti-dilution adjustment provision is not triggered by certain  exempt issuances  which among other issuances, includes the issuance of shares of common stock, options or other securities to officers, employees, directors, consultants or service providers. 
+
+As a result of the early adoption of ASU 2017-11, the  full ratchet  anti-dilution feature is no longer a determinant for derivative liability accounting. As the  full ratchet  anti-dilution feature was determined to have no value in the past, the adoption had no effect on the balance sheets or statements of operations. 
+
+Issuances of Stock Options  
+
+On March 23, 2018, the Company issued options to purchase 9,000 shares of common stock to six non-employee members of the Board of Directors.  The options have a three year vesting period, seven year term, and exercise price of $1.96.   
+
+On March 23, 2018, the Company issued options to purchase 212,918 shares of the Company s common stock to certain officers, employees, and contractors. The options have a three year vesting period, seven year term, and exercise price of $1.96.   
+
+The fair value of the options issued during the three months ended March 31, 2018 was estimated on the date of grant at $381,876 using the Black-Scholes option-pricing model with the following assumptions: risk free interest rate: 2.56%, expected life of options in years: 4.5, expected dividends: 0, volatility of stock price: 143%. 
+
+There were no additional options issued during the three months ended June 30, 2018. 
+
+11. 
+
+SEGMENT INFORMATION 
+
+The Company has determined that its continuing operations are one discrete segment consisting of biometric products. Geographically, North American sales accounted for approximately 56% and 58% of the Company s total sales for the three months ended June 30, 2018 and 2017, respectively, and were approximately 54% and 73% of the Company s total sales for the six months ended June 30, 2018 and 2017, respectively. 
+
+12. 
+
+FAIR VALUES OF FINANCIAL INSTRUMENTS 
+
+Cash and cash equivalents, accounts receivable, accounts payable, accrued liabilities, and due from factor, are carried at, or approximate, fair value because of their short-term nature. 
+
+13. 
+
+MAJOR CUSTOMERS AND ACCOUNTS RECEIVABLE 
+
+For the three months ended June 30, 2018 and 2017, two customers accounted for 34% and three customers accounted for 52% of revenue, respectively. For the six months ended June 30, 2018 and 2017, two customers accounted for 37% and three customers accounted for 44% of revenue, respectively. 
+
+Four customers accounted for 53% of current accounts receivable as of June 30, 2018. One customer accounted for 100% of non-current accounts receivable as of June 30, 2018 and December 31, 2017. Based on prior history with this customer, the Company believes the amount is fully collectable, however, the Company has reserved $1,000,000 which represents 58% of the remaining balance owed under the contract, due to the length of time the receivable has been outstanding.  At December 31, 2017, one customer accounted for 55% of current accounts receivable.   
+
+On August 9, 2018, the Company issued 3,282 shares of common stock to its directors in payment of board fees.   
+
+18
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITIONS AND RESULTS OF OPERATIONS   
+
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS  
+
+All statements other than statements of historical facts contained in this Report on Form 10-Q, including statements regarding our future financial position, business strategy and plans and objectives of management for future operations, are forward-looking statements. The words  anticipate,   believe,   estimate,   will,   may,   future,   plan,   intend  and  expect  and similar expressions generally identify forward-looking statements. These forward-looking statements are not guarantees and are subject to known and unknown risks, uncertainties and assumptions that may cause our actual results, levels of activity, performance or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by such forward-looking statements. Although we believe that our plans, intentions and expectations reflected in the forward-looking statements are reasonable, we cannot be sure that they will be achieved. Particular uncertainties that could cause our actual results to be materially different than those expressed in our forward-looking statements include: our history of losses and limited revenue; our ability to raise additional capital; our ability to protect our intellectual property; changes in business conditions; changes in our sales strategy and product development plans; changes in the marketplace; continued services of our executive management team; security breaches; competition between us and other companies in the biometric technology industry; market acceptance of biometric products generally and our products under development; our ability to expand into the Asian market; delays in the development of products and statements of assumption underlying any of the foregoing, as well as other factors set forth under the caption  Risk Factors  in our Annual Report on Form 10-K for the year ended December 31, 2017 filed with the Securities and Exchange Commission. All subsequent written and oral forward-looking statements attributable to us, or persons acting on our behalf, are expressly qualified in their entirety by the foregoing. Except as required by law, we undertake no obligation to update or revise any forward-looking statement, whether as a result of new information, future events or otherwise. 
+
+The following discussion and analysis summarizes the significant factors affecting the operating results, financial condition, liquidity and cash flows of our Company as of and for the periods presented below and should be read in conjunction with our unaudited condensed consolidated financial statements and related information contained herein and in our audited financial statements as of December 31, 2017.  
+
+OVERVIEW  
+
+We develop and market advanced fingerprint biometric identification and identity verification technologies, as well as related identity management and credentialing fingerprint biometric hardware and software solutions. We were pioneers in developing automated, finger identification technology that supplements or compliments other methods of identification and verification, such as personal inspection identification, passwords, tokens, smart cards, ID cards, PKI, credit card, passports, driver s licenses, OTP or other form of possession or knowledge-based credentialing.  Advanced BIO-key technology has been and is used to improve both the accuracy and speed of competing finger-based biometrics. Our solutions are used by many customers in every sector of our economy including government, retail, healthcare and financial services. 
+
+In partnerships with OEMs, integrators, and solution providers, we provide biometric software solutions to private and public sector customers.  We provide the ability to positively identify and authenticate individuals before granting access to valuable corporate resources, web portals or applications in seconds.  Powered by our patented Vector Segment Technology or VST, WEB-key and BSP development kits are fingerprint biometric solutions that provide interoperability with all major reader manufacturers, enabling application developers and integrators to integrate fingerprint biometrics into their applications.  
+
+In 2016, we began to sell through distributors and directly to consumers and commercial users our SideSwipe, SideTouch and EcoID products. SideSwipe, SideTouch and EcoID are stand-alone fingerprint readers that can be used on any laptop, tablet or other device with a USB port. In 2017, we expanded our consumer product line to include biometric and blue tooth enabled pad locks, TSA approved luggage locks, and bicycle locks. In 2018, we introduced OmniPass Consumer, a secure biometric-enabled application to manage multiple passwords for online apps, services or accounts. 
+
+We have developed what we believe is the most discriminating and effective commercially available finger-based biometric technology. Our primary focus is in marketing and selling our technology into commercial logical and physical privilege entitlement   access control markets and our products in both consumer and commercial markets.  Our primary market focus includes, among others, enterprise access, mobile payments   credentialing, online payments, and healthcare record and payment data security.  Our secondary focus includes government and educational markets. 
+
+19
+
+STRATEGIC OUTLOOK AND RECENT DEVELOPMENTS  
+
+Historically, our largest market has been access control within highly regulated industries such as healthcare.  However, we believe the mass adoption of advanced smart-phone and hand-held wireless devices have caused commercial demand for advanced user authentication to emerge as viable.  The introduction of smart-phone capabilities, like mobile payments and credentialing, could effectively require biometric user authentication on mobile devices to reduce risks of identity theft, payment fraud and other forms of fraud in the mobile or cellular based world wide web. As more services and payment functionalities, such as mobile wallets and near field communication (NFC), migrate to smart-phones, the value and potential risk associated with such systems should grow and drive demand and adoption of advanced user authentication technologies, including fingerprint biometrics and BIO-key solutions. 
+
+As devices with onboard fingerprint sensors continue to deploy to consumers, we expect that third party application developers will demand the ability to authenticate users of their respective applications (app s) with the onboard fingerprint biometric. We further believe that authentication will occur on the device itself for potentially low-value and, therefore low-risk, use-transactions and that user authentication for high-value transactions will migrate to the application provider s authentication server, typically located within their supporting technology infrastructure, or Cloud. We have developed our technology to enable, on-device authentication as well as network or cloud-based authentication and believe we may be the only technology vendor capable of providing this flexibility and capability. Our core technology works on over 40 commercially available fingerprint readers, across both Windows and Linux platforms, and Apple iOS and Android mobile operating systems. This interoperability, coupled with the ability to authentic users via the device or cloud, is unique in the industry, provides a key differentiator for us, and in our opinion, makes our technology more viable than competing technologies and expands the size of the overall market for our products. 
+
+We believe there is potential for significant market growth in the following key areas: 
+
+Corporate network access control, including corporate campuses, computer networks and applications; 
+
+Consumer mobile credentialing, including mobile payments, credit and payment card programs, data and application access, and commercial loyalty programs; 
+
+Government services and highly regulated industries including, Medicare, Medicaid, Social Security, drivers  licenses, campus and school ID, passports/visas; 
+
+Direct sales of fingerprint readers to consumers and commercial customers; 
+
+Growth in the Asia Pacific region; and 
+
+Biometric based consumer products. 
+
+In the near-term, we expect to grow our business within government services and highly-regulated industries in which we have historically had a strong presence, such as the healthcare industry.  We believe that continued heightened security and privacy requirements in these industries will generate increased demand for security solutions, including biometrics. In addition, we expect that the integration of our technology into Windows 10, will accelerate the demand for our computer network log-on solutions and fingerprint readers. Finally, our entry into the Asian market and licensing arrangement with CGG has further expanded our business by opening new markets along with the new and innovative hardware offerings. We expect our SideSwipe, EcoID and SideTouch finger readers, and our biometric and Bluetooth enabled padlocks, luggage locks, and bicycle locks to continue to drive incremental revenue and growth. 
+
+We intend to expand our business into the cloud and mobile computing industries. The emergence of cloud computing and mobile computing are primary drivers of commercial and consumer adoption of advanced authentication applications, including biometric and BIO-key authentication capabilities.  As the value of assets, services and transactions increases on such networks, we expect that security and user authentication demand should rise proportionately. Our integration partners include major web and network technology providers, who we believe will deliver our cloud-applicable solutions to interested service-providers. These service-providers could include, but are not limited to, financial institutions, web-service providers, consumer payment service providers, credit reporting services, consumer data service providers, healthcare providers and others. Additionally, our integration partners include major technology component providers and OEM manufacturers, who we believe will deliver our device-applicable solutions to interested hardware manufacturers. Such manufacturers could include cellular handset and smartphone manufacturers, tablet manufacturers, laptop and PC manufacturers, among other hardware manufacturers. Our recently introduced SAML (Security Assertion Markup Language) and Open ID solutions will create new opportunities for us in 2018. 
+
+20
+
+CRITICAL ACCOUNTING POLICIES  
+
+For detailed information regarding our critical accounting policies and estimates, see our financial statements and notes thereto included in this Report and in our Annual Report on Form 10-K for the year ended December 31, 2017.  There have been no material changes to our critical accounting policies (except where described in note 3) and estimates from those disclosed in our most recent Annual Report on Form 10-K.  
+
+RECENT ACCOUNTING PRONOUNCEMENTS  
+
+For detailed information regarding recent account pronouncements, see Notes to Condensed Consolidated Financial Statements included in Part I, Item 1 of this report. 
+
+RESULTS OF OPERATIONS  
+
+THREE MONTHS ENDED JUNE 30, 201  8   AS COMPARED TO JUNE 30, 201  7  
+
+Consolidated Results of Operations    -    Percent Trend   
+
+Revenues and cost of goods sold    
+
+21
+
+Revenues   
+
+For the three months ended June 30, 2018 and 2017, service revenues included approximately $241,000 and $124,000, respectively, of recurring maintenance and support revenue, and approximately $8,000 and $10,000 respectively, of non-recurring custom services revenue.  Recurring service revenue increased 95% in 2018 as we continued to bundle maintenance agreements to our expanding customer license base, including one large new customer and renewed existing maintenance agreements from our legacy customers. Non-recurring custom services decreased 22% for custom services due to fewer customized installations. 
+
+For the three months ended June 30, 2018 and 2017, license revenue increased 21% from the corresponding period in 2017. The higher revenue included revenue from both new and existing customers.  
+
+For the three months ended June 30, 2018, hardware sales decreased by 45%, as a result of smaller new customer deployments and an increased volume of smaller lock orders.  
+
+Costs of goods sold   
+
+For the three months ended June 30, 2018, cost of service increased 117%, due to engineering support for maintenance services.  
+
+License, hardware, and other costs for the three months ended June 30, 2018 increased approximately 23%. The increase was directly associated with the amortization of the software rights. 
+
+Selling, general and administrative   
+
+Selling, general and administrative costs for the three months ended June 30, 2018 decreased 25% from the corresponding period in 2017. The decrease is attributable to reduced factoring fees, personnel and related costs, and commitment fees, which was offset by higher non-cash compensation, and legal fees.   
+
+Research, development and engineering   
+
+For the three months ended June 30, 2018, research, development and engineering costs decreased 34% as compared to the corresponding period in 2017, as a result of decreased temporary outside services, and decrease in personnel and related costs. 
+
+22
+
+SIX MONTHS ENDED JUNE 30, 201  8   AS COMPARED TO JUNE 30, 201  7  
+
+Consolidated Results of Operations    -    Percent Trend   
+
+Revenues and cost of goods sold    
+
+Revenues   
+
+For the six months ended June 30, 2018 and 2017, service revenues included approximately $442,000 and $264,000, respectively, of recurring maintenance and support revenue, and approximately $110,000 and $191,000, respectively, of non-recurring custom services revenue.  Recurring service revenue increase 67% from 2017 as we continued to bundle maintenance agreements to our expanding customer license base including one large new customer and renewed existing maintenance agreements from our legacy customers. Non-recurring custom services decreased 42% for custom services due to fewer customized installations and software. 
+
+For the six months ended June 30, 2018, license revenue decreased as a result of the following contributing factors.  First, we received a large order in the first quarter of 2017 and no comparable orders in the first half of 2018.  Second, although we increased the number of new customer orders in 2018, they were for smaller total values.  
+
+For the six months ended June 30, 2018, hardware sales decreased by 36%, as a result of smaller new customer deployments and an increased volume of smaller lock orders.  
+
+23
+
+Costs of goods sold   
+
+For the six months ended June 30, 2018 and 2017, cost of service increased 192%, due to engineering support for customized software and maintenance services.  
+
+License, hardware, and other costs for the six months ended June 30, 2018 increased approximately 42%. The increase was directly associated with the amortization of the software rights. 
+
+Selling, general and administrative   
+
+Selling, general and administrative costs for the three months ended June 30, 2018 decreased 17% from the corresponding period in 2017. The decrease is attributable to reduced factoring fees personnel and related expenses, and commitment fees which was offset by higher non-cash compensation, and legal fees. 
+
+Research, development and engineering   
+
+For the six months ended June 30, 2018, research, development and engineering costs decreased 27% from to the corresponding period in 2017, as a result of decreased temporary outside services, personnel and related costs, and recruiting expenses, offset by an increase in non-cash compensation costs. 
+
+LIQUIDITY AND CAPITAL RESOURCES  
+
+Cash Flows  
+
+Net cash provided by operations during the six months ended June 30, 2018 was approximately $99,000. The cash provided by operating activities was attributable primarily to the following items: 
+
+Net positive cash flows related to adjustments for non-cash expenses for depreciation, amortization, share-based compensation, and issuance of common stock to our non-employee directors of approximately $2,130,000, and a decrease in accounts receivable of approximately $2,424,000. 
+
+Net negative cash flows related to payments for liabilities and reductions of deferred revenue of approximately $552,000. 
+
+Approximately $68,000 was used for investing activities during the six months ended June 30, 2018 related to capital expenditures. 
+
+Approximately $15,000 was used for financing activities during the six months ended June 30, 2018 related to costs of converting the preferred stock to common stock.  
+
+At June 30, 2018, we had net working capital of approximately $3,587,000 as compared to net working capital of approximately $4,689,000 at December 31, 2017.  At June 30, 2018, net working capital excluding resalable software license rights was approximately $767,000 as compared to net working capital excluding resalable software license rights of approximately $2,049,000 at December 31, 2017.  
+
+24
+
+Liquidity and Capital Resources  
+
+Since our inception, our capital needs have been principally met through proceeds from the sale of equity and debt securities.  We expect capital expenditures to be less than $100,000 during the next twelve months.   
+
+The following sets forth our primary sources of capital during the previous two years: 
+
+We entered into an accounts receivable factoring arrangement with a financial institution (the  Factor ) which has since been extended through October 31, 2018. Pursuant to the terms of the arrangement, from time to time, we sell to the Factor a minimum of $150,000 per quarter of certain of our accounts receivable balances on a non-recourse basis for credit approved accounts. The Factor remits 35% of the foreign and 75% of the domestic accounts receivable balance to us (the  Advance Amount ), with the remaining balance, less fees, to be forwarded to us once the Factor collects the full accounts receivable balance from the customer. In addition, from time to time, we receive over advances from the Factor. Factoring fees range from 2.75% to 15% of the face value of the invoice factored, and are determined by the number of days required for collection of the invoice. We expect to continue to use this factoring arrangement periodically to assist with our general working capital requirements due to contractual requirements.    
+
+On November 18, 2016, we issued to Wong Kwok Fong (Kelvin), a director, executive officer and principal stockholder of the Company, 516,667 shares of common stock at a purchase price of $3.60 per share for gross cash proceeds of $1,860,000. 
+
+On April 28, 2017, we issued to Wong Kwok Fong (Kelvin), a director, executive officer and principal stockholder of the Company, 277,778 shares of common stock at a purchase price of $3.60 per share for gross cash proceeds of $1,000,000. 
+
+On May 2, 2017, we entered into a committed equity facility pursuant to which we may issue and sell up to $5.0 million worth of shares of common stock, subject to certain limitations and satisfaction of certain conditions, over a 36-month term following the effectiveness of a registration statement covering the public resale of the shares of common stock issued under the facility. As of the date of this report, the registration statement has not been filed. From time to time over the term of the facility, we may issue requests to the investor to purchase a specified dollar amount of shares up to a maximum of $100,000 over a five trading day period based on the daily volume weighted average price of our common stock (VWAP) to the extent the VWAP equals or exceeds the greater of a formula amount or $3.83 per share. The per share purchase price for the shares issued under the facility will be equal to 94% of the lowest VWAP that equals or exceeds $3.83 per share. Aggregate sales under the facility are limited to 19.99% of the total outstanding shares of the Company s common stock as of May 2, 2017, unless stockholder approval is obtained, and sales under the facility are prohibited if such a sale would result in beneficial ownership by the investor of more than 9.99% of the Company s common stock.  
+
+On September 22, 2017, we issued to Wong Kwok Fong (Kelvin), a director, executive officer and principal stockholder of the Company, 427,778 shares of common stock and warrants to purchase 138,889 shares of common stock for an aggregate purchase price of $1,540,000, or $3.60 per share. The purchase consisted of a cash payment of $1,000,000 and the conversion of accrued dividends payable on the Company s Series A-1 Convertible Preferred Stock of $540,000. 
+
+Liquidity outlook   
+
+At June 30, 2018, our total cash and cash equivalents were approximately $304,000, as compared to approximately $289,000 at December 31, 2017. 
+
+As discussed above, we have historically financed our operations through access to the capital markets by issuing secured and convertible debt securities, convertible preferred stock, common stock, and through factoring receivables. We estimate that we currently require approximately $592,000 per month to conduct our operations, a monthly amount that we have been unable to consistently achieve through revenue generation. During the first half of 2018, we generated approximately $1,590,000 of revenue, which is below our average monthly requirements. 
+
+If we are unable to continue to generate sufficient revenue to meet our goals, we will need to obtain additional third-party financing to (i) conduct the sales, marketing and technical support necessary to execute our plan to substantially grow operations, increase revenue and serve a significant customer base; and (ii) provide working capital. We expect that we will, need to obtain additional financing through the issuance of debt or equity securities.  
+
+Due to several factors, including our history of losses and limited revenue, our independent auditors have included an explanatory paragraph in their opinion related to our annual financial statements as to the substantial doubt about our ability to continue as a going concern. Our long-term viability and growth will depend upon the successful commercialization of our technologies and our ability to obtain adequate financing. To the extent that we require such additional financing, no assurance can be given that any form of additional financing will be available on terms acceptable to us, that adequate financing will be obtained to meet our needs, or that such financing would not be dilutive to existing stockholders. If available financing is insufficient or unavailable or we fail to continue to generate sufficient revenue, we may be required to further reduce operating expenses, delay the expansion of operations, be unable to pursue merger or acquisition candidates, or in the extreme case, not continue as a going concern. 
+
+25
+
+ITEM 4.  CONTROLS AND PROCEDURES  
+
+Disclosure Controls and Procedures  
+
+Our management, with the participation of our Chief Executive Officer ( CEO ) and Chief Financial Officer ( CFO ), evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) as of June 30, 2018. Based on the evaluation of our disclosure controls and procedures as of June 30, 2018, our CEO and CFO concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level.  
+
+Changes in Internal Control Over Financial Reporting  
+
+No change in our internal control over financial reporting occurred during the fiscal quarter ended June 30, 2018, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II   OTHER INFORMATION  
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS  
+
+On May 10, 2018, we issued 2,035 shares of common stock to certain of our non-employee directors in payment of directors  fees. 
+
+On May 14, 2018, we issued 648 shares of common stock to certain of our non-employee directors in payment of board committee fees 
+
+The foregoing securities were issued in private placement transactions pursuant to the exemption from registration provided by Section 4(a)(2) of the Securities Act of 1933, as amended, without general solicitation or advertising of any kind and without payment of placement agent or brokerage fees to any person. 
+
+ITEM 6. EXHIBITS  
+
+The exhibits listed in the Exhibits Index immediately preceding such exhibits are filed as part of this Report.  
+
+26
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+BIO-Key International, Inc.  
+
+Dated: August 14, 2018 
+
+/s/ Michael W. DePasquale 
+
+Michael W. DePasquale 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Dated: August 14, 2018 
+
+/s/ Cecilia C. Welch 
+
+Cecilia C. Welch 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+27
+
+EXHIBIT INDEX  
+
+28 
+
+<EX-31.1>
+ 2
+ ex_121173.htm
+ EXHIBIT 31.1
+
+ex_121173.htm 
+
+Exhibit 31.1  
+
+CERTIFICATION  
+
+I, Michael W. DePasquale, certify that:  
+
+1. I have reviewed this quarterly report on Form 10-Q of BIO-key International, Inc. (the  Company ); 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in this report; 
+
+4. The Company s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the Company s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+
+(d) Disclosed in this report any change in the Company s internal control over financial reporting that occurred during the Company s most recent fiscal quarter (the Company s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the company s internal control over financial reporting;  
+
+5. The Company s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Company s auditors and the audit committee of the Company s board of directors (or persons performing the equivalent functions):  
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information; and  
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Company s internal control over financial reporting. 
+
+Dated: August 14, 2018 
+
+/s/ Michael W. DePasquale 
+
+Michael W. DePasquale 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex_121174.htm
+ EXHIBIT 31.2
+
+ex_121174.htm 
+
+Exhibit 31.2  
+
+CERTIFICATION  
+
+I, Cecilia C. Welch, certify that:  
+
+1. I have reviewed this quarterly report on Form 10-Q of BIO-key International, Inc. (the  Company ); 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Company as of, and for, the periods presented in this report; 
+
+4. The Company s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Company and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Company, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the Company s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the Company s internal control over financial reporting that occurred during the Company s most recent fiscal quarter (the Company s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the company s internal control over financial reporting;  
+
+5. The Company s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Company s auditors and the audit committee of the Company s board of directors (or persons performing the equivalent functions):  
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Company s ability to record, process, summarize and report financial information; and  
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Company s internal control over financial reporting. 
+
+Dated: August 14, 2018 
+
+/s/ CECILIA C. WELCH 
+
+Cecilia C. Welch 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex_121175.htm
+ EXHIBIT 32.1
+
+ex_121175.htm 
+
+Exhibit 32.1  
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+
+In connection with the Quarterly Report of BIO-key International, Inc. (the  Company ) on Form 10-Q for the period ended June 30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Michael W. DePasquale, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+
+(1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+---   
+
+BIO-KEY INTERNATIONAL, INC. 
+
+By: 
+
+/s/ Michael W. DePasquale 
+
+Michael W. DePasquale 
+
+Chief Executive Officer 
+
+Dated: August 14, 2018 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex_121176.htm
+ EXHIBIT 32.2
+
+ex_121176.htm 
+
+Exhibit 32.2  
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+
+In connection with the Quarterly Report of BIO-key International, Inc. (the  Company ) on Form 10-Q for the period ended June 30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Cecilia Welch, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of The Sarbanes-Oxley Act of 2002, that to my knowledge: 
+
+(1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+
+BIO-KEY INTERNATIONAL, INC. 
+
+By: 
+
+/s/ CECILIA C. WELCH 
+
+Cecilia C. Welch 
+
+Chief Financial Officer 
+
+Dated: August 14, 2018 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ bkyi-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ bkyi-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ bkyi-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ bkyi-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ bkyi-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ bkyi-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

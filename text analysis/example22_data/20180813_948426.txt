@@ -1,0 +1,2268 @@
+
+UNITED
+STATES    
+
+   SECURITIES
+AND EXCHANGE COMMISSION   
+
+   Washington,
+D.C. 20549   
+
+FORM
+10-Q   
+
+(Mark
+One)  
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934  
+
+For
+the quarterly period ended  June 30, 2018   
+
+OR  
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE EXCHANGE ACT OF 1934  
+
+For
+    the transition period from _________________ to _________________   
+
+Commission
+File Number: 000-33155   
+
+COATES
+INTERNATIONAL, LTD.   
+
+  (Exact
+name of registrant as specified in its charter)  
+
+Nevada   
+         
+       22-2925432    
+ 
+      (State or other jurisdiction
+    of   
+         
+      (I.R.S. Employer   
+ 
+      incorporation or
+    organization)  
+         
+      Identification
+    No.)   
+
+2100
+Highway 34, Wall Township, New Jersey 07719   
+
+  (Address
+of principal executive offices) (Zip Code)  
+
+(732)
+449-7717   
+
+  (Registrant s
+telephone number, including area code)  
+
+N/A   
+
+  (Former
+name, former address and former fiscal year, if changed since last report)  
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports)
+and (2) has been subject to such filing requirements for the past 90 days.   
+
+  Yes   No    
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).   
+
+  Yes   No    
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See the definitions of  large accelerated filer,   accelerated filer  and  smaller
+reporting company  in Rule 12b-2 of the Exchange Act.  
+
+Large accelerated
+    filer   
+         
+      Non-accelerated
+    filer   
+
+Non-accelerated filer   
+         (Do
+    not check if a smaller reporting company)   
+      Smaller reporting
+    company  
+
+Emerging Growth Company  
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.)   
+
+  Yes
+  No    
+
+As
+of August 10, 2018, the Registrant had 188,934,066 shares of its common stock, par value $0.0001 per share issued and outstanding.  
+
+COATES
+INTERNATIONAL, LTD.    
+
+   QUARTERLY
+REPORT ON FORM 10-Q   
+
+CONTENTS   
+
+JUNE
+30, 2018   
+
+Page     
+ 
+       PART 1   FINANCIAL INFORMATION   
+
+Item 1. 
+       Financial Statements:  
+
+Balance Sheets  
+      1   
+
+Statements of Operations  
+      2   
+
+Condensed Statements of Cash Flows  
+      3   
+
+Notes to Financial Statements  
+      4-22   
+ 
+      Item 2.  
+      Management s Discussion and Analysis of Financial Condition and Results of Operations  
+      23-33   
+ 
+      Item 3.  
+      Quantitative and Qualitative Disclosures About Market Risk  
+      33   
+ 
+      Item 4.  
+      Controls and Procedures  
+      33   
+
+PART II  -  OTHER INFORMATION   
+
+Item 1.  
+      Legal Proceedings  
+      34   
+ 
+      Item 1A.  
+      Risk Factors  
+      34   
+ 
+      Item 2.  
+      Unregistered Sales of Equity Securities and Use of Proceeds  
+      34   
+ 
+      Item 3.  
+      Defaults Upon Senior Securities  
+      34   
+ 
+      Item 4.  
+      Mine Safety Disclosures  
+      34   
+ 
+      Item 5.  
+      Other Information  
+      34   
+ 
+      Item 6.  
+      Exhibits  
+      35   
+
+SIGNATURES   
+      36    
+
+i  
+
+PART
+I   FINANCIAL INFORMATION   
+
+Item
+1. Financial Statements   
+
+Coates
+International, Ltd.   
+
+   Balance
+Sheets   
+
+The accompanying notes are an integral part of these financial statements.  
+
+Coates
+International, Ltd.   
+
+   Statements
+of Operations   
+
+   (Unaudited)   
+
+The
+accompanying notes are an integral part of these financial statements.  
+
+Coates
+International Ltd.   
+
+   Statements
+of Cash Flows   
+
+   (Unaudited)   
+
+The
+accompanying notes are an integral part of these financial statements.  
+
+Coates
+International, Ltd.   
+
+   Notes
+to Financial Statements   
+
+   June
+30, 2018   
+
+   (All
+amounts rounded to thousands of dollars)   
+
+   (Unaudited)   
+
+1.      THE
+                                         COMPANY AND BASIS OF PRESENTATION     
+
+Nature
+of Organization   
+
+Coates
+International, Ltd. (the  Company  or  CIL ) has acquired the exclusive licensing rights to the
+patented Coates spherical rotary valve ( CSRV    ) system technology in North America, Central
+America and South America (the  CSRV    License ). The CSRV    system technology has
+been developed over a period of more than 20 years by the Company s founder George J. Coates, President and Chief
+Executive Officer, and his son Gregory G. Coates. The CSRV    system technology is adaptable for use in
+piston-driven internal combustion engines of many types and has been patented in the United States and numerous countries
+throughout the world. The Company is endeavoring to raise working capital to commence production of hydrogen gas and natural
+gas powered CSRV    industrial electric power generator sets ( Gen Sets)  and is also seeking to
+enter into sublicense agreements with third party, original equipment manufacturers ( OEM s ) which provide
+for licensing fees. George  J. Coates is also continuing with research and development of a hydrogen reactor to harvest
+Hydrogen Gas from water with the intent to power the Company s products, including large industrial Gen Sets. George J.
+Coates, owner of the hydrogen reactor technology, has committed to license this technology to the Company to manufacture
+Hydrogen Gas powered products, once the related patent protection is in place.  
+
+Management
+believes the CSRV    engines provide the following advantages as compared to conventional internal combustion
+engines designed with  poppet valves :  
+
+Improved
+                                         fuel efficiency    
+
+Lower
+                                         levels of harmful emissions    
+
+Adaptability
+                                         to numerous types of engine fuels    
+
+Longer
+                                         engine life    
+
+Longer
+                                         intervals between engine servicing    
+
+The
+CSRV    system technology is designed to replace the intake and exhaust conventional  poppet valves 
+currently used in almost all piston-driven, automotive, truck, motorcycle, marine and electric power generator engines, among
+others. Unlike conventional valves which protrude into the engine combustion chamber, the CSRV    system technology
+utilizes spherical valves that rotate in a cavity formed between a two-piece cylinder head. The CSRV    system technology
+utilizes significantly fewer moving parts than conventional poppet valve assemblies. As a result of these design improvements,
+management believes that engines incorporating the CSRV    system technology ( CSRV    Engines )
+will last significantly longer and will require less lubrication over the life of the engine, as compared to conventional engines.
+In addition, CSRV    Engines can be designed with larger openings into the engine cylinder than with conventional
+valves so that more fuel and air can be inducted into, and expelled from the cylinder in a shorter period of time. Larger valve
+openings permit higher revolutions-per-minute (RPM s) and permit higher compression ratios with lower combustion chamber
+temperatures, allowing the Coates Engine    to produce more power than equivalent conventional engines. The extent
+to which CSRV    Engines operating with the CSRV    system technology achieve (i) higher RPM s,
+(ii) greater volumetric efficiency and (iii) thermal efficiency than conventional engines, is a function of the engine design
+and application.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+Basis
+of Presentation   
+
+The
+accompanying condensed financial statements include the accounts of the Company. In the opinion of the Company s management,
+the condensed consolidated financial statements reflect all adjustments, which are normal and recurring in nature, necessary for
+fair financial statement presentation. The preparation of these condensed consolidated financial statements in conformity with
+U.S. generally accepted accounting principles ( GAAP ) requires management to make estimates and assumptions that
+affect the amounts reported in these condensed consolidated financial statements and accompanying notes. Actual results could
+differ materially from those estimates. Certain prior period amounts in the condensed financial statements have been reclassified
+to conform to the current period s presentation.  
+
+These
+condensed financial statements and accompanying notes should be read in conjunction with the Company s annual financial
+statements and the notes thereto included in its Annual Report on Form 10-K for the year ended December 31, 2017 and the Company s
+quarterly financial statements and the notes thereto included in its Quarterly Reports.  
+
+Since
+the Company s inception, the Company has been responsible for the development costs of the CSRV    technology
+in order to optimize the value of the licensing rights and has incurred related operational costs, the bulk of which have been
+funded primarily through cash generated from licensing fees, sales of stock, short term convertible promissory notes, capital
+contributions, loans made by George J. Coates, Bernadette Coates, his spouse, Gregory G. Coates and certain directors, fees received
+from research and development of prototype models and a small number of CSRV    engine generator sales. The Company
+has incurred substantial cumulative losses from operations since its inception. Losses from operations are expected to continue
+until the CSRV    Engines    are successfully introduced into the marketplace, enabling the Company to
+generate substantial sales and/or receive substantial licensing revenues. These losses from operations were primarily related
+to research and development of the Company s intellectual property rights, patent filing and maintenance costs and general
+and administrative expenses. The Company has also reported substantial non-cash expenses for stock-based compensation, remeasurement
+of the estimated fair value of embedded derivative liabilities related to convertible promissory notes issued and interest expense
+and losses on conversion of convertible promissory notes.  
+
+As
+shown in the accompanying financial statements, the Company has incurred recurring losses from operations and, as of June
+30, 2018, had a stockholders  deficiency of ($6,546,000). In addition, a mortgage loan which had a principal balance
+of $1,243,000 at June 30, 2018, matured in July 2018. The lender is working with us on an extension of the mortgage loan and
+has not demanded repayment of the balance. As directed by the lender, we are continuing to make payments on the mortgage loan
+on the same terms that were in effect prior to the maturity date. If the lender does not ultimately agree to extend the term
+of the mortgage loan, we would be required to refinance the property with another mortgage lender, if possible. Failure to do
+so could adversely affect our financial position and results of operations. In addition, the recent trading price range of
+the Company s common stock at a fraction of a penny, has introduced additional difficulty to the Company s
+challenge to secure needed additional working capital. These factors raise substantial doubt about the Company s
+ability to continue as a going concern. Management has instituted a cost control program intended to restrict variable costs
+to only those expenses that are necessary to complete its activities related to entering the production phase of operations,
+develop additional commercially feasible applications of the CSRV    system technology, seek additional sources
+of working capital and cover general and administrative costs in support of such activities. The Company has been actively
+undertaking efforts to secure new sources of working capital. At June 30, 2018, the Company had negative working capital of
+($7,951,000) compared with negative working capital of ($7,467,000) at the end of 2017.  
+
+The
+Company continues to actively seek out new sources of working capital; however, there can be no assurance that it will be successful
+in these efforts. The accompanying financial statements do not include any adjustments that might be necessary if the Company
+is unable to continue as a going concern.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+Reverse
+Stock Split   
+
+The
+Company effected a one-for-200 reverse stock split of all of its outstanding shares of common stock, Series A Preferred Stock,
+Series B Convertible Preferred Stock, common stock warrants and stock options as of the close of trading on December 1, 2017.
+All prior year balances of shares of capital stock, warrants and stock options outstanding and all presentations and disclosures
+of transactions in shares of capital stock, warrants and stock options have been restated on a pro forma basis as if the reverse
+stock split had occurred prior to January 1, 2017. Such restatements include calculations regarding the Company s weighted
+average shares outstanding and loss per share.  
+
+Inventory   
+
+Inventory
+consists of raw materials. Inventory is stated at the lower of cost or net realizable value. Inventory is accounted for on the
+first-in, first-out method.  
+
+Use
+of Estimates   
+
+The
+preparation of the Company s financial statements in conformity with GAAP requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities, disclosures of contingent assets and liabilities at the date of the
+financial statements and the reported amounts of revenues and expenses during the reporting period. These significant estimates
+include determining the fair value of convertible promissory notes containing embedded derivatives and variable conversion rates,
+determining a value for shares of Series A Preferred Stock and Series B Convertible Preferred Stock issued, assigning useful lives
+to the Company s property, plant and equipment, determining an appropriate amount to reserve for obsolete and slow moving
+inventory, estimating a valuation allowance for deferred tax assets, assigning expected lives to, and estimating the rate of forfeitures
+of, stock options granted and selecting a trading price volatility factor for the Company s common stock in order to estimate
+the fair value of the Company s stock options on the date of grant or other appropriate measurement date. Actual results
+could differ from those estimates.  
+
+2.      CONCENTRATIONS
+OF CREDIT AND BUSINESS RISK   
+
+The
+Company maintains cash balances with one financial institution. Monies on deposit are fully insured by the Federal Deposit Insurance
+Corporation.  
+
+The
+Company s operations are devoted to the development, application, licensing and marketing of the CSRV    system
+technology which was invented by George J. Coates, the Company s founder, Chairman, Chief Executive Officer, President and
+controlling stockholder. Development efforts have been conducted continuously during this time. From July 1982 through May 1993,
+seven U.S. patents as well as a number of foreign patents were issued with respect to the CSRV    system technology.
+Since inception of the Company in 1988, all aspects of the business have been completely dependent upon the activities of George
+J. Coates. The loss of George J. Coates  availability or service due to death, incapacity or otherwise would have a material
+adverse effect on the Company s business and operations. The Company does not presently have any key-man life insurance in force
+for Mr. Coates.  
+
+3.      FAIR
+VALUE OF FINANCIAL INSTRUMENTS   
+
+Cash,
+Other Assets, Accounts Payable and Accrued Liabilities and Other Liabilities   
+
+With
+the exception of convertible promissory notes, the carrying amount of these items approximates their fair value because of the
+short term maturity of these instruments. The convertible promissory notes are reported at their estimated fair value, determined
+as described in more detail in Note 14.  
+
+Limitations   
+
+Fair
+value estimates are made at a specific point in time, based on relevant market information and information about the financial
+instrument. These estimates are subjective in nature and involve uncertainties and matters of significant judgment and therefore
+cannot be determined with precision. Changes in assumptions could significantly affect the estimates.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+4.      LICENSING
+AGREEMENT AND DEFERRED LICENSING COSTS   
+
+The
+Company holds a manufacturing, use, lease and sale license from George J. Coates and Gregory G. Coates for the CSRV  
+ system technology in the territory defined as the Western Hemisphere (the  License Agreement ). Under the License
+Agreement, George J. Coates and Gregory G. Coates granted to the Company an exclusive, perpetual, royalty-free, fully paid-up
+license to the patented intellectual property that specifically relates to an internal combustion engine that incorporates the
+CSRV    system technology (the  CSRV    Engine ) and that is currently owned or controlled
+by them (the  CSRV    Intellectual Property ), plus any CSRV    Intellectual Property that
+is developed by them during their employment with the Company. In the event of insolvency or bankruptcy of the Company, the licensed
+rights would terminate and ownership would revert back to George J. Coates and Gregory G. Coates.  
+
+Under
+the License Agreement, George J. Coates and Gregory G. Coates agreed that they will not grant any Western Hemisphere licenses
+to any other party with respect to the CSRV    Intellectual Property.  
+
+At
+June 30, 2018 and December 31, 2017, deferred licensing costs, comprised of expenditures for patent costs incurred pursuant to
+the CSRV    licensing agreement, net of accumulated amortization, amounted to $32,000 and $34,000, respectively.
+Amortization expense for the six months ended June 30, 2018 and 2017 amounted to $2,000 and $2,000, respectively. Amortization
+expense for the three months ended June 30, 2018 and 2017 amounted to $1,000 and $1,000, respectively.  
+
+5.      AGREEMENT
+ASSIGNED TO ALMONT ENERGY, INC.   
+
+In 2010, Almont Energy Inc. ( Almont ),
+a privately held, independent third-party entity based in Alberta, Canada became the assignee of a sublicense which covers the
+use of the CSRV    system technology in the territory of Canada in the oil and gas industry (the  Canadian License ).
+This sublicense is currently inactive because the parties have not fulfilled their obligations thereunder due to the Company s
+delay in starting up production and delivery of CSRV    products to Almont. The parties mutually agreed to consider
+the basis on which the license could be reactivated at such time that the Company is successful in starting up its manufacturing
+operations. 
+
+In prior years, the Company received a
+non-refundable $300,000 deposit on the Canadian License. As the Company continues to be desirous of commencing shipments of its
+CSRV    products to Almont under the sublicense at such time that it is able to start up production operations, it
+has continued to amortize this deposit into income over the period until expiration of the last CSRV    system technology
+patent in force. At June 30, 2018, amortization of the unamortized balance is as follows: 
+
+At  June
+30, 2018 and December 31, 2017, the unamortized balance of this license deposit was $161,000 and $170,000, respectively. The
+current portion of $19,000 is included in sublicense deposits under current assets and the remainder of the balance is
+included in non-current sublicense deposits on the accompanying balance sheets at June 30, 2018 and December 31, 2017,
+respectively. For the three months ended June 30, 2018 and 2017, amortization of the license deposit which was recorded as
+sublicensing fee revenue amounted to $5,000 and $5,000, respectively. For the six months ended June 30, 2018 and 2017,
+amortization of the license deposit which was recorded as sublicensing fee revenue amounted to $10,000 and $10,000,
+respectively.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+6.      NON-EXCLUSIVE
+DISTRIBUTION SUBLICENSE WITH RENOWN POWER DEVELOPMENT, LTD.   
+
+In
+February 2015, the Company granted a non-exclusive distribution sublicense to Renown Power Development, Ltd., a China-based sales
+and distribution company ( Renown ) covering the territory defined as the Western Hemisphere. Under this sublicense,
+Renown will be permitted to sell, lease and distribute CSRV    products. Renown intends to source CSRV  
+ products from Coates Power, Ltd., a China-based company formed for the purpose of manufacturing CSRV    products
+( Coates Power ). Coates Power has not been able to commence operations due to ongoing delays in obtaining necessary
+support and approval from the Chinese government in spite of continuing efforts by Renown to do so on its behalf. This has been
+and continues to be a long, arduous process because the government is addressing this at a very slow pace. As of June 30, 2018,
+the Company has only received an initial non-refundable deposit of $500,000. Until Coates Power can begin production of CSRV  
+ products for Renown, the Company will not receive any further monies from its sublicense with Renown.  
+
+At
+this time, as the Company s intellectual property rights only cover the territory of North America, it does not have any
+rights to enter into a manufacturing and sale license agreement with Coates Power. These rights are currently held by George J.
+Coates, Gregory G. Coates and The Coates Trust, a trust controlled by George J. Coates. Coates Power and Renown are controlled
+and managed by Mr. James Pang, the Company s liaison agent in China.  
+
+The
+Company received a $131,000 cash deposit with an order from Coates Power to produce two Gen Sets. This amount is included in Deposits
+in the accompanying balance sheets at June 30, 2018 and December 31, 2017. The Company intends to build and ship these two generators
+at such time that Coates Power is able to commence production in accordance with the manufacturing license agreement and there
+is sufficient working capital for this purpose.  
+
+7.      OTHER
+CURRENT ASSETS   
+
+Other
+current assets at June 30, 2018 and December 31, 2017 amounted to $50,000 and $1,000, respectively. The balance at June 30, 2018
+included $48,000 for inventory billed, but not received.  
+
+8.      INVENTORY   
+
+Inventory
+consisted of the following:  
+
+9.      PROPERTY,
+PLANT AND EQUIPMENT   
+
+Property,
+plant and equipment at cost, less accumulated depreciation, consisted of the following:  
+
+Depreciation
+expense amounted to $9,000 and $11,000 for the three months ended June 30, 2018 and 2017, respectively. Depreciation expense amounted
+to $19,000 and $22,000 for the six months ended June 30, 2018 and 2017, respectively.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+10.      MORTGAGE
+LOAN PAYABLE   
+
+The
+Company has a mortgage loan on the land and building that serves as its headquarters and research and development facility which
+bears interest at the rate of 7.5% per annum, which matured in July 2018. The lender is working with the Company on an extension
+of the mortgage loan and has not demanded repayment of the balance. As directed by the lender, the Company is continuing to make
+payments on the mortgage loan on the same terms that were in effect prior to the maturity date. If the lender does not ultimately
+agree to extend the term of the mortgage loan, the Company would be required to refinance the property with another mortgage lender,
+if possible. Failure to do so could adversely affect the Company s financial position and results of operations. Interest
+expense for the three months ended June 30, 2018 and 2017 amounted to $24,000 and $25,000, respectively. Interest expense for
+the six months ended June 30, 2018 and 2017 amounted to $48,000 and $50,000, respectively. The loan requires monthly payments
+of interest, plus $5,000 which is being applied to the principal balance. The remaining principal balance at June 30, 2018 and
+December 31, 2017 was $1,243,000 and $1,273,000, respectively. The mortgage loan may be prepaid in whole, or, in part, at any
+time without penalty.  
+
+The
+loan is collateralized by a security interest in all of the Company s assets, the pledge of 25,000 shares of common stock
+of the Company owned by George J. Coates, which were deposited into escrow for the benefit of the lender and the personal guarantee
+of George J. Coates. The Company is not permitted to create or permit any secondary mortgage or similar liens on the property
+or improvements thereon without prior consent of the lender.  
+
+11.      ACCOUNTS
+PAYABLE AND ACCRUED LIABILITIES   
+
+Accounts
+payable and accrued liabilities are as follows:  
+
+12.      PROMISSORY
+NOTES TO RELATED PARTIES   
+
+Promissory
+Notes Issued to George J. Coates   
+
+During
+the six months ended June 30, 2018 and 2017, the Company issued, in a series of transactions, promissory notes to George J. Coates
+and received cash proceeds of $47,000 and $19,000, respectively and repaid promissory notes to George J. Coates in the aggregate
+principal amount of $23,000 and $23,000, respectively. Interest expense for the three months ended June 30, 2018 and 2017 amounted
+to $15,000 and $12,000, respectively. Interest expense for the six months ended June 30, 2018 and 2017 amounted to $27,000 and
+$25,000, respectively.  
+
+The
+promissory notes are payable on demand and provide for interest at the rate of 17% per annum, compounded monthly. At June 30,
+2018, the outstanding principal balance was $45,000 and the balance of unpaid accrued interest was $346,000.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+Promissory
+Note Issued to Gregory G. Coates   
+
+The
+Company has a non-interest bearing promissory note due to Gregory G. Coates which is payable on demand. Interest is being imputed
+on this promissory note at the rate of 10% per annum. During the six months ended June 30, 2018 and 2017, the Company, partially
+repaid $15,000 and $20,000, respectively of this promissory note. Imputed interest expense for the three months ended June 30,
+2018 and 2017, amounted to $35,000 and $36,000, respectively. Imputed interest expense for the six months ended June 30, 2018
+and 2017, amounted to $70,000 and $71,000, respectively. At June 30, 2018, the outstanding principal balance was $1,403,000.  
+
+Promissory
+Notes Issued to Bernadette Coates   
+
+During
+the six months ended June 30, 2018 and 2017, the Company issued promissory notes to Bernadette Coates, spouse of George J. Coates
+and received cash proceeds of $14,000 and $24,000, respectively. The Company repaid promissory notes to Bernadette Coates in the
+principal amount of $15,000 and $31,000, respectively. The promissory notes are payable on demand and provide for interest at
+the rate of 17% per annum, compounded monthly. Interest expense for the three months ended June 30, 2018 and 2017, amounted to
+$5,000 and $4,000, respectively. Interest expense for the six months ended June 30, 2018 and 2017, amounted to $12,000 and $7,000,
+respectively. At June 30, 2018, the outstanding principal balance was $27,000.  
+
+Promissory
+Note Issued to Employee   
+
+The Company issued promissory notes to an employee in 2016, aggregating $5,000, which were payable on demand and provided
+for interest at the rate of 17% per annum, compounded monthly. In February 2018, these notes were repaid in full along with
+accrued interest thereon of $1,000. 
+
+The
+aggregate amount of unpaid accrued interest on all promissory notes to related parties amounting to $452,000 is included in accounts
+payable and accrued liabilities in the accompanying balance sheet at June 30, 2018.  
+
+In
+March 2017, the Company issued a $25,000 promissory note with a maturity date of May 13, 2017. Interest was payable upon maturity
+in the form of 50,000 shares of unregistered, restricted shares of the Company s common stock. In addition, the Company agreed
+to extend warrants held by the lender to purchase 54,199 shares of common stock that were scheduled to expire in 2017 for an additional
+five years and modify the exercise price to $0.03 per share. On May 5, 2017, the Company prepaid the note in full and issued 43,443
+shares of its common stock representing the prorated number of shares for interest on the note, as a result of the prepayment.
+Interest expense of $4,000 was recorded for issuance of these shares based on the closing trading price on the date of issuance.  
+
+14.      CONVERTIBLE
+PROMISSORY NOTES AND EMBEDDED DERIVATIVE LIABILITY   
+
+From
+time to time, the Company issues convertible promissory notes, the proceeds of which are used for general working capital purposes.
+At June 30, 2018, there was $351,000 principal amount of convertible promissory notes outstanding. During the six months ended
+June 30, 2018 and 2017, $325,000 and $670,000 of convertible promissory notes were issued, respectively. Outstanding notes may
+be converted into unregistered shares of the Company s common stock at a discount ranging from 30% to 39% of the defined
+trading price of the common stock on the date of conversion. The defined trading prices are based on the trading price of the
+stock during a defined period ranging from ten to twenty-five trading days immediately preceding the date of conversion. The conversion
+rate discount establishes a beneficial conversion feature ( BCF ) or unamortized discount, which is required to be
+valued and accreted to interest expense over the six-month period until the conversion of the notes into restricted shares of
+common stock is permitted. In addition, the conversion formula meets the conditions that require accounting for convertible notes
+as derivative liability instruments. The effective interest rate on the outstanding convertible notes at June 30, 2018 ranged
+from 85% to 147%. The unamortized discount on the outstanding convertible notes at June 30, 2018 and December 31, 2017 amounted
+to $60,000 and $141,000, respectively.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+The
+convertible notes generally become convertible, in whole, or in part, beginning on the six month anniversary of the issuance date
+and may be prepaid at the option of the Company, with a prepayment penalty ranging from 15% to 50% of the principal amount of
+the convertible note at any time prior to becoming eligible for conversion.  
+
+One
+convertible promissory note with an aggregate outstanding balance of $53,000 is convertible in monthly installments in an amount
+determined by the noteholder, plus accrued interest. The Company may elect, at its option to repay each monthly installment in
+whole, or in part, in cash, without penalty. The amount of each installment not paid in cash is converted into shares of the Company s
+common stock. This convertible note also requires that the conversion price be re-measured 23 trading days after the conversion
+shares are originally delivered. If the re-measured conversion price is lower, then the Company is required to issue additional
+conversion shares to the noteholder.  
+
+In
+accordance with GAAP, the estimated fair value of the embedded derivative liability related to the convertible notes is required
+to be remeasured at each balance sheet date. The fair value measurement accounting standard establishes a valuation hierarchy
+for inputs used in measuring fair value that maximizes the use of observable inputs and minimizes the use of unobservable inputs
+by requiring that the most observable inputs be used, when available. Observable inputs are inputs market participants would use
+in valuing the asset or liability developed based on independent market data sources. Unobservable inputs are inputs that reflect
+the Company s assumptions about the factors market participants would use in valuing the asset or liability developed based
+upon the best information available. The valuation hierarchy is composed of three categories, which are as follows:  
+
+Level
+                                         1   Inputs are quoted prices (unadjusted) in active markets for identical assets
+                                         or liabilities.    
+
+Level
+                                         2   Inputs include quoted prices in active markets for similar assets or liabilities,
+                                         quoted prices for identical or similar assets or liabilities in markets that are not
+                                         active, and inputs other than quoted prices that are observable for the asset or liability,
+                                         either directly or indirectly.    
+
+Level
+                                         3   Inputs to the fair value measurement are unobservable inputs or valuation techniques.    
+
+The
+estimated fair value of the embedded derivative liabilities related to promissory notes outstanding was measured as the aggregate
+estimated fair value, based on Level 2 inputs, which included quoted daily yield curve rates of treasury securities with comparable
+maturities and, because the actual volatility rate on the Company s common stock is not available, a conservative estimated
+volatility rate of 200%.  
+
+The
+embedded derivative liability arises because, based on historical trading patterns of the Company s stock, the formula for
+determining the Conversion Rate is expected to result in a different Conversion Rate than the closing price of the stock on the
+actual date of conversion (hereinafter referred to as the  Variable Conversion Rate Differential ). The estimated
+fair values of the derivative liabilities have been calculated based on a Black-Scholes option pricing model.  
+
+The
+following table presents the Company s fair value hierarchy of financial assets and liabilities measured at fair value at:  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+In
+a series of transactions, during the six months ended June 30, 2018, convertible promissory notes with an aggregate principal
+balance of $164,000, including accrued interest thereon were converted into 27,066,279 unregistered shares of common stock. The
+Company incurred a loss on these conversions amounting to $29,000 for the six months ended June 30, 2018.  
+
+In
+a series of transactions, during the six months ended June 30, 2017, convertible promissory notes with an aggregate principal
+balance of $448,000, including accrued interest thereon were converted into 8,324,280 unregistered shares of common stock. The Company
+incurred a loss on these conversions amounting to $161,000 for the six months ended June 30, 2017.  
+
+The
+Company made the private placement of these securities in reliance upon Section 4(2) of the Securities Act of 1933, as amended
+(the  Act ), Rule 506 of Regulation D, and the rules and regulations promulgated thereunder, and/or upon any other
+exemption from the registration requirements of the Act, as applicable.  
+
+Common
+Stock   
+
+The
+Company s common stock is traded on OTC Pink Sheets. Investors can find real-time quotes and market information for the
+Company at  www.otcmarkets.com  market system under the ticker symbol COTE. The Company is authorized to issue up to 2,400,000,000
+shares of common stock, par value, $0.0001 per share (the  common stock ). At June 30, 2018 and December 31, 2017,
+there were 72,979,521 and 36,943,242 shares of common stock issued and outstanding, respectively.  
+
+Reverse
+Stock Split   
+
+At
+the close of trading in the Company s common stock on December 1, 2017, a 1:200 reverse stock split of all of the Company s
+shares of common stock, shares of preferred stock, common stock warrants and stock options became effective. Shareholders were
+paid cash-in-lieu of any fractional shares that would have resulted in connection with the reverse stock split. The reverse stock
+split was approved by the board of directors and George J. Coates, the majority stockholder by means of a written consent. For
+purposes of presenting the accompanying financial statements as of June 30, 2018 and December 31, 2017 and for the six months
+ended June 30, 2018, all balances, transactions and calculations were restated on a pro forma basis as if the reverse stock split
+occurred prior to the beginning of the year ended December 31, 2017.  
+
+Certificate
+of Validation   
+
+On
+April 2, 2018, the Company filed a certificate of validation with the state of Delaware which had retroactive effect to the close
+of trading in the Corporation s common stock on December 1, 2017, in order to:  
+
+(i)    cure
+                                         certain technical, procedural defects related to the 1:200 reverse stock split, which
+                                         became effective at the close of trading on December 31, 2017,     
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+The
+above corporate action was authorized by the board of directors on February 28, 2018, and by means of obtaining the written consent
+of George J. Coates, the sole majority stockholder, was approved by the shareholders on March 1, 2018.  
+
+Certificate
+of Conversion and Certificate of Designation   
+
+On
+May 9, 2018, the Company filed a Certificate of Conversion and a Certificate of Designation which caused the following corporate
+actions to become effective:  
+
+(i)    The
+                                         Corporation s State of Domicile was converted from the State of Delaware to the
+                                         State of Nevada.    
+
+(ii)    The
+                                         number of authorized shares of capital stock of the Company was increased to:    
+
+(iii)    The
+                                         series and number of shares of preferred stock designated from the 100,000,000 shares
+                                         of preferred stock authorized, was increased to:    
+
+Section
+3(a)10 Exempt Securities Transaction   
+
+On
+March 19, 2018, the Company entered into a Settlement Agreement and Stipulation (the  Settlement Agreement ) with
+Livingston Asset Management LLC, a Florida limited liability company ( LAM ), pursuant to which the Company agreed
+to issue common stock to LAM in exchange for the settlement of $69,000 (the  Settlement Amount ) of past-due obligations
+and accounts payable of the Company. LAM purchased the obligations and accounts payable from certain vendors of the Company as
+described below.  
+
+On
+April 2, 2018, the Circuit Court of Baltimore County, Maryland (the  Court ), entered an order (the  LAM Order )
+approving, among other things, the fairness of the terms and conditions of an exchange in reliance upon an exemption from registration
+provided for in Section 3(a)(10) of the Securities Act of 1933, as amended (the  Securities Act ), in accordance with
+a stipulation of settlement, pursuant to the Settlement Agreement between the Company and LAM. Pursuant to the court order, LAM
+commenced an action against the Company to recover an aggregate of $69,000 of past-due obligations and accounts payable of the
+Company, which LAM had purchased from certain vendors of the Company pursuant to the terms of separate claim purchase agreements
+between LAM and each of such vendors (the  LAM Assigned Accounts ). The LAM Assigned Accounts relate to certain accounting
+services provided to the Company and a supplier invoice. The Settlement Agreement became effective and binding upon the Company
+and LAM upon execution of the Order by the Court on April 2, 2018.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+Pursuant
+to the terms of the Settlement Agreement approved by the LAM Order, on April 2, 2018, the Registrant agreed to issue shares to
+LAM (the  LAM Settlement Shares ) of the Registrant s common stock at a 30% discount from the selling price
+of the settlement shares sold by LAM, as defined in the settlement agreement. The Settlement Agreement provides that the LAM Settlement
+Shares will be issued in one or more tranches, as necessary, sufficient to satisfy the settlement amount through the issuance
+of freely trading securities issued in reliance upon an exemption provided for in Section 3(a)(10) of the Securities Act. The
+parties reasonably estimate that the fair market value of the LAM Settlement Shares to be received by LAM is equal to approximately
+$99,000. Additional tranche requests shall be made as requested by LAM until the LAM Settlement Amount is paid in full.  
+
+The
+Settlement Agreement provides that in no event shall the number of shares of common stock issued to LAM or its designee in connection
+with the Settlement Agreement, when aggregated with all other shares of common stock then beneficially owned by LAM and its affiliates
+(as calculated pursuant to Section 13(d) of the Securities Exchange Act of 1934, as amended (the  Exchange Act ),
+and the rules and regulations thereunder), result in the beneficial ownership by LAM and its affiliates (as calculated pursuant
+to Section 13(d) of the Exchange Act and the rules and regulations thereunder) at any time of more than 9.99% of the Common Stock.  
+
+The
+Company is required to reserve a sufficient number of shares of its common stock to provide for issuances thereof, upon full satisfaction
+of the Settlement Amount.  
+
+The
+following common stock transactions occurred during the six months ended June 30, 2018:  
+
+In
+                                         a series of transactions, convertible promissory notes with an aggregate principal balance
+                                         of $164,000, including accrued interest thereon were converted into 27,066,279 unregistered
+                                         shares of common stock.    
+
+In
+                                         a series of transactions, the Company issued 8,970,000 shares of its common stock to
+                                         LAM to be sold in the open market in reliance upon an exemption provided for in Section
+                                         3(a)(10) of the Securities Act. Proceeds from the sales are to be used to satisfy past-due
+                                         obligations of the Company previously assigned to LAM. During the six months ended June
+                                         30, 2018, Lam has paid $40,000 of the Settlement Amount of the Company s past due obligations
+                                         in accordance with the Settlement Agreement.    
+
+The
+following common stock transactions occurred during the six months ended June 30, 2017:  
+
+In
+                                         a series of transactions, convertible promissory notes with an aggregate principal balance
+                                         of $448,000, including accrued interest thereon were converted into 8,324,430 unregistered
+                                         shares of common stock.    
+
+Barry
+                                         C. Kaye converted 6.86 shares of Series B Convertible Preferred Stock ( Series
+                                         B ) into 6,860 unregistered, restricted shares of the Company s common stock.    
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+Preferred
+Stock and anti-dilution rights   
+
+The
+Company is authorized to issue 100,000,000 shares of preferred stock, par value, $0.001 per share (the  Preferred Stock ).
+The Company may issue any class of the Preferred Stock in any series. The board is authorized to establish and designate series,
+and to fix the number of shares included in each such series and the relative rights, preferences and limitations as between series,
+provided that, if the stated dividends and amounts payable on liquidation are not paid in full, the shares of all series of the
+same class shall share ratably in the payment of dividends including accumulations, if any, in accordance with the sums which
+would be payable on such shares if all dividends were declared and paid in full and in any distribution of assets other than by
+way of dividends in accordance with the sums which would be payable on such distribution if all sums payable were discharged in
+full. Shares of each such series when issued, shall be designated to distinguish the shares of each series from shares of all
+other series.  
+
+There
+are two series of Preferred Stock that have been designated to date from the total 100,000,000 authorized shares of Preferred
+Stock. These are as follows:  
+
+Series A Preferred Stock, par value $0.001 per share ( Series A ), 50,000 shares designated,
+15,620 and 3,601 shares issued and outstanding as of June 30, 2018 and December 31, 2017, respectively. Shares of Series A entitle
+the holder to 10,000 votes per share on all matters brought before the shareholders for a vote. These shares are not entitled to
+receive dividends or share in distributions of capital and have no liquidation preference. All outstanding shares of Series A are
+owned by George J. Coates, which entitle him to 152,620,000 votes in addition to his voting rights from the shares of common stock
+and the shares of Series B he holds.   
+
+The
+Company may issue additional shares of Series A Preferred Stock to Mr. Coates if deemed necessary to provide anti-dilution protection
+and maintain his ownership percentage of eligible votes.  
+
+Issuances
+of shares of Series A to George J. Coates do not have any effect on the share of dividends or liquidation value of the holders
+of the Company s common stock. However, the voting rights of the holders of the Company s common stock are diluted
+with each issuance.  
+
+During
+the six months ended June 30, 2018 and 2017, the Company issued 12,019 and 3,351 shares, respectively, of Series A Preferred Stock
+to George J. Coates representing anti-dilution shares to maintain Mr. Coates  percentage of eligible votes at 85.7%.  
+
+Series
+                                         B Convertible Preferred Stock, par value $0.001 per share, 950,000 and 345,000 shares
+                                         designated and 381,184 and 228,471 shares issued and outstanding at June 30, 2018 and
+                                         December 31, 2017, respectively. Shares of Series B do not earn any dividends and may
+                                         be converted at the option of the holder at any time beginning on the second annual anniversary
+                                         date after the date of issuance into 1,000 unregistered shares of the Company s
+                                         common stock. Holders of the Series B are entitled to one thousand votes per share held
+                                         on all matters brought before the shareholders for a vote.     
+
+In
+the event that either (i) the Company enters into an underwriting agreement for a secondary public offering of securities, or
+(ii) a change in control of the Company is consummated representing 50% more of the then outstanding shares of Company s
+common stock, plus the number of shares of common stock into which any convertible preferred stock is convertible, regardless
+of whether or not such shares are otherwise eligible for conversion, then the Series B may be immediately converted at the option
+of the holder into restricted shares of the Company s common stock.   
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+The
+Company provides anti-dilution protection for certain of its key employees. For each new share of common stock issued by the Company
+to non-Coates family members in the future, additional shares of Series B will be issued to maintain their fixed ownership percentage
+of the Company. The fixed ownership percentage is adjusted for acquisitions and dispositions of common stock, not related to conversions
+of Series B Convertible Preferred Stock, by these key employees. At June 30, 2018, the fixed ownership percentages were as follows:  
+
+These
+anti-dilution provisions do not apply to new shares of common stock issued in connection with exercises of employee stock options,
+a secondary public offering of the Company s securities or a merger or acquisition.  
+
+The
+following presents by year, the number of shares of Series B held and the year that they become eligible for conversion into shares
+of common stock, as of June 30, 2018.  
+
+For
+the six months ended June 30, 2018, 141,189, 10,687 and 837 shares of Series B were issued to George J. Coates, Gregory G. Coates
+and Barry C. Kaye, respectively, having an estimated fair value of $545,000, $41,000 and $3,000, respectively. These amounts were
+included in stock-based compensation expense in the accompanying statement of operations for the three months ended June 30,
+2018.  
+
+For
+the six months ended June 30, 2017, 45,381, 3,739 and 293 shares of Series B were issued to George J. Coates, Gregory G. Coates
+and Barry C. Kaye, respectively, having an estimated fair value of $2,925,000, $250,000 and $20,000, respectively. These amounts
+were included in stock-based compensation expense in the accompanying statement of operations for the six months ended June 30,
+2017.  
+
+During
+the six months ended June 30, 2017, Barry C. Kaye converted 6.86 shares of Series B into 6,868 unregistered, restricted shares
+of the Company s common stock.  
+
+In
+the event that all of the 381,184 shares of Series B outstanding at June 30, 2018 were converted, once the conversion restrictions
+lapse, an additional 381,184,000 new restricted shares of common stock would be issued. On a pro forma basis, based on the number
+of shares of common stock outstanding at June 30, 2018, this would dilute the ownership percentage of non-affiliated stockholders
+from 88.8% to 12.8%.  
+
+To
+the extent that additional shares of Series B are issued under the anti-dilution plan, the non-affiliated stockholders 
+percentage ownership of the Company would be further diluted.  
+
+16.
+LOSS PER SHARE   
+
+At
+June 30, 2018, there were stock warrants outstanding to purchase 733,393 shares of common stock at exercise prices ranging
+from $0.10 to $13.50 per share, vested stock options outstanding to acquire 62,351 shares of common stock at exercise prices
+ranging from $5.60 to $88.00 per share and $385,000 of convertible promissory notes outstanding, which on a pro forma basis
+assuming all such promissory notes were converted into shares of common stock using the contractual conversion price
+determined as of the close of trading on the last trading in June 2018, would have been convertible into 197,472,443 shares
+of common stock  
+
+At June 30, 2017, there were stock warrants outstanding to purchase 751,725 shares of common stock at
+exercise prices ranging from $0.10 to $13.50 per share, vested stock options outstanding to acquire 62,351 shares of common
+stock at exercise prices ranging from $5.60 to $88.00 per share and $80,000 of convertible promissory notes outstanding,
+which on a pro forma basis assuming all such promissory notes were converted into shares of common stock using the
+contractual conversion price determined as of the close of trading on the last trading in June 2017, would have been
+convertible into 4,843,465 shares of common stock.  
+
+For
+the three and six-month periods ended June 30, 2018 and 2017, none of the potentially issuable shares of common stock were assumed
+to be converted because the Company incurred a net loss in those periods and the effect of including them in the calculation of
+earnings per share would have been anti-dilutive.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+The
+Company s 2006 Stock Option and Incentive Plan (the  Stock Plan ) was adopted by the Company s board in
+October 2006. In September 2007, the Stock Plan, by consent of George J. Coates, majority shareholder, was adopted by our shareholders.
+The Stock Plan provides for the grant of stock-based awards to employees, officers and directors of, and consultants or advisors
+to, the Company and its subsidiaries, if any. Under the Stock Plan, the Company may grant options that are intended to qualify
+as incentive stock options within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended ( ISO s ),
+options not intended to qualify as incentive stock options ( non-statutory options ), restricted stock and other stock-based
+awards. ISO s may be granted only to employees of the Company. All of the shares of common stock authorized under the Stock
+Plan have been granted and no further grants may be awarded thereunder.  
+
+The
+Company established a 2014 Stock Option and Incentive Plan (the  2014 Stock Plan ) which was adopted by the Company s
+board on May 30, 2014. On March 2, 2015, the 2014 Stock Plan, by consent of George J. Coates, majority shareholder, was adopted
+by our shareholders. The 2014 Stock Plan provides for the grant of stock-based awards to employees, officers and directors of,
+and consultants or advisors to, the Company and its subsidiaries, if any. Under the 2014 Stock Plan, the Company may grant ISO s,
+non-statutory options, restricted stock and other stock-based awards. ISO s may be granted only to employees of the Company.
+A total of 250,000 shares of common stock may be issued upon the exercise of options or other awards granted under the 2014
+Stock Plan. The maximum number of shares with respect to which awards may be granted during any one year to any employee under
+the 2014 Stock Plan shall not exceed 25% of the 250,000 shares of common stock covered by the 2014 Stock Plan. At June 30, 2018,
+none of the shares of common stock authorized under the 2014 Stock Plan had been granted as stock options or awards.  
+
+The
+Stock Plan and the 2014 Stock Plan (the  Stock Plans ) are administered by the board and the Compensation Committee.
+Subject to the provisions of the Stock Plans, the board and the Compensation Committee each has the authority to select the persons
+to whom awards are granted and determine the terms of each award, including the number of shares of common stock subject to the
+award. Payment of the exercise price of an award may be made in cash, in a  cashless exercise  through a broker, or
+if the applicable stock option agreement permits, shares of common stock, or by any other method approved by the board or Compensation
+Committee. Unless otherwise permitted by the Company, awards are not assignable or transferable except by will or the laws of
+descent and distribution.  
+
+Upon
+the consummation of an acquisition of the business of the Company, by merger or otherwise, the board shall, as to outstanding
+awards (on the same basis or on different bases as the board shall specify), make appropriate provision for the continuation
+of such awards by the Company or the assumption of such awards by the surviving or acquiring entity and by substituting on an
+equitable basis for the shares then subject to such awards either (a) the consideration payable with respect to the outstanding
+shares of common stock in connection with the acquisition, (b) shares of stock of the surviving or acquiring corporation,
+or (c) such other securities or other consideration as the board deems appropriate, the fair market value of which (as determined
+by the board in its sole discretion) shall not materially differ from the fair market value of the shares of common stock subject
+to such awards immediately preceding the acquisition. In addition to, or in lieu of the foregoing, with respect to outstanding
+stock options, the board may, on the same basis or on different bases as the board shall specify, upon written notice to the affected
+optionees, provide that one or more options then outstanding must be exercised, in whole or in part, within a specified number
+of days of the date of such notice, at the end of which period such options shall terminate, or provide that one or more options
+then outstanding, in whole or in part, shall be terminated in exchange for a cash payment equal to the excess of the fair market
+value (as determined by the board in its sole discretion) for the shares subject to such stock options over the exercise price
+thereof. Unless otherwise determined by the board (on the same basis or on different bases as the board shall specify), any
+repurchase rights or other rights of the Company that relate to a stock option or other award shall continue to apply to consideration,
+including cash, that has been substituted, assumed or amended for a stock option or other award pursuant to these provisions.
+The Company may hold in escrow all or any portion of any such consideration in order to effectuate any continuing restrictions.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+The
+board may at any time provide that any stock options shall become immediately exercisable in full or in part, that any restricted
+stock awards shall be free of some or all restrictions, or that any other stock-based awards may become exercisable in full or
+in part or free of some or all restrictions or conditions, or otherwise realizable in full or in part, as the case may be.  
+
+The
+board or Compensation Committee may, in its sole discretion, amend, modify or terminate any award granted or made under the Stock
+Plan, so long as such amendment, modification or termination would not materially and adversely affect the participant.  
+
+During
+the six months ended June 30, 2018 and 2017, no stock options were granted. There were no unvested stock options outstanding at
+June 30, 2018.  
+
+During
+the six months ended June 30, 2018 and 2017, the Company did not incur any stock-based compensation expense related to employee
+stock options. At June 30, 2018, all stock-based compensation expense related to outstanding stock options had been fully
+recognized.  
+
+Details
+of the stock options outstanding under the Company s Stock Option Plans are as follows:  
+
+No
+stock options were exercised, forfeited or expired during the six months ended June 30, 2018 and 2017.  
+
+The
+weighted average fair value of the Company s stock options was estimated using the Black-Scholes option pricing model which requires
+highly subjective assumptions including the expected stock price volatility. These assumptions were as follows:  
+
+The
+valuation assumptions were determined as follows:  
+
+Historical
+    stock price volatility: The Company utilized the volatility in the trading of its common stock computed for the 12 months
+    of trading immediately preceding the date of grant.   
+
+Risk-free interest
+    rate: The Company bases the risk-free interest rate on the interest rate payable on U.S. Treasury securities in effect at
+    the time of the grant for a period that is commensurate with the assumed expected option life.   
+
+Expected life: The
+    expected life of the options represents the period of time options are expected to be outstanding. The Company has very limited
+    historical data on which to base this estimate. Accordingly, the Company estimated the expected life based on its assumption
+    that the executives will be subject to frequent blackout periods during the time that the stock options will be
+    exercisable and based on the Company s expectation that it will complete its research and development phase and commence
+    its initial production phase. The vesting period of these options was also considered in the determination of the expected
+    life of each stock option grant.   
+
+No expected dividends.   
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+Deferred
+income taxes are determined using the liability method for the temporary differences between the financial reporting basis and
+income tax basis of the Company s assets and liabilities. Deferred income taxes are measured based on the tax rates expected
+to be in effect when the temporary differences are included in the Company s tax return. Deferred tax assets and liabilities
+are recognized based on anticipated future tax consequences attributable to differences between financial statement carrying amounts
+of assets and liabilities and their respective tax bases.  
+
+Deferred
+tax assets increased by $458,000 and $1,418,000 for the three months ended June 30, 2018 and 2017, respectively. Deferred tax
+assets increased by $705,000 and $1,627,000 for the six months ended June 30, 2018 and 2017, respectively. These amounts were
+fully offset by a corresponding increase in the tax valuation allowance resulting in no net change in deferred tax assets, respectively,
+during these periods.  
+
+No
+liability for unrecognized tax benefits was required to be reported at June 30, 2018 and December 31, 2017.  Based on
+the Company s evaluation, it has concluded that there are no significant uncertain tax positions requiring recognition in the
+Company s financial statements. The Company s evaluation was performed for tax years ended 2014 through 2016, the only periods
+subject to examination. The Company believes that its income tax positions and deductions will be sustained on audit and
+does not anticipate that adjustments, if any, will result in a material change to its financial position. For the six months ended
+June 30, 2018 and 2017, there were no penalties or interest related to the Company s income tax returns.  
+
+At
+June 30, 2018, the Company had available, $21,107,000 of net operating loss carryforwards which may be used to reduce future federal
+taxable income, expiring between 2018 and 2038 and $10,723,000 of net operating loss carryforwards which may be used to reduce
+future state taxable income, expiring between 2029 and 2038.  
+
+19.      RELATED
+PARTY TRANSACTIONS   
+
+Licensing
+Agreement for CSRV    System Technology   
+
+The
+Company s intellectual property rights for the CSRV    System Technology are derived from the licensing agreement
+with George J. Coates and Gregory G. Coates, as more fully discussed in Note 4. The Company pays for all costs of new patent filings
+and patent maintenance on intellectual properties licensed to it by George J. Coates and Gregory G. Coates. For the three months
+ended June 30, 2018 and 2017, these costs amounted to $1,000 and $1,000, respectively. For the six months ended June 30, 2018
+and 2017, these costs amounted to $2,000 and $2,000, respectively.  
+
+Non-Exclusive
+distribution sublicense to Renown Power Development, Ltd.   
+
+The
+Company has granted a non-exclusive distribution sublicense to Renown, as more fully discussed in Note 6. Renown is controlled
+by James Pang, the Company s exclusive liaison agent in China.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+Issuances
+and Repayments of Promissory Notes to Related Parties   
+
+Issuances
+and repayments of promissory notes to related parties during the six months ended June 30, 2018 and 2017, are discussed in detail
+in Note 13.  
+
+Promissory
+notes issued to George J. Coates and Bernadette Coates are payable on demand and provide for interest at the rate of 17% per annum,
+compounded monthly. The promissory note issued to Gregory G. Coates is non-interest bearing, however, the Company imputes interest
+at a rate of 10% per annum, which has been charged to interest expense in the accompanying statements of operations.  
+
+Stock
+Options    
+
+Stock
+options previously granted to related parties, all of which are fully vested are more fully discussed in Note 17.  
+
+Issuances
+and Conversions of Preferred Stock   
+
+Shares
+of Series A Preferred Stock awarded to George J. Coates during the six months ended June 30, 2018 and 2017, are discussed in detail
+in Note 15.  
+
+Shares
+of Series B Convertible Preferred Stock awarded to George J. Coates, Gregory G. Coates and Barry C. Kaye and shares converted
+during the six months ended June 30, 2018 and 2017, are discussed in detail in Note 15.  
+
+Personal
+Guaranty and Stock Pledge   
+
+In
+connection with the Company s mortgage loan on the Company s headquarters facility, George J. Coates has pledged certain
+of his shares of common stock of the Company to the extent required by the lender and provided a personal guaranty as additional
+collateral.  
+
+Compensation
+and Benefits Paid   
+
+The
+approximate amount of compensation and benefits, all of which were approved by the board, paid to George J. Coates, Gregory G.
+Coates and Bernadette Coates, exclusive of stock-based compensation for unregistered, restricted shares of Preferred Stock awarded
+to George J. Coates and Gregory G. Coates is summarized as follows:  
+
+(b)    During
+                                         the six months ended June 30, 2018 and 2017, George J. Coates was awarded Series A Preferred
+                                         Stock and Series B Converted Preferred Stock for anti-dilution. The details are presented
+                                         in Note 15.    
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+(d)    During
+                                         the six months ended June 30, 2018 and 2017, Gregory G. Coates was awarded Series B Converted
+                                         Preferred Stock for anti-dilution. The details are presented in Note 15.    
+
+The Company had been deferring base compensation for Bernadette Coates, who retired in 2016, until it has sufficient working capital. The total amount of deferred compensation included in the accompanying balance sheets at June 30, 2018 and December 31, 2017, was $242,000.  
+
+During
+the six months ended June 30, 2018 and 2017, Barry C. Kaye, Treasurer and Chief Financial Officer was paid compensation of $35,000
+and $50,000, respectively. For the six months ended June 30, 2018 and 2017, Mr. Kaye earned compensation of $63,000 and $60,000,
+respectively, which was not paid and is being deferred until the Company has sufficient working capital to remit payment to him.
+During the six months ended June 30, 2018 and 2017, interest accrued on Mr. Kaye s deferred compensation amounted to $37,000
+and $27,000, respectively. At June 30, 2018, the total amount of Mr. Kaye s unpaid, deferred compensation, including accrued
+interest thereon, was $483,000. This amount is included in accounts payable and accrued liabilities in the accompanying balance
+sheet at June 30, 2018. During the six months ended June 30, 2018 and 2017, Barry C. Kaye was awarded Series B Converted Preferred
+Stock for anti-dilution. The details are presented in Note 15.  
+
+At
+June 30, 2018 the Company owed deferred compensation to an employee in the amount of $30,000, payment of which is being deferred
+until the Company has sufficient working capital. This amount is included in deferred compensation in the accompanying balance
+sheet at June 30, 2018.  
+
+20.      CONTRACTUAL
+OBLIGATIONS AND COMMITMENTS   
+
+The
+following table summarizes the Company s contractual obligations and commitments at March 31, 2018:  
+
+21.      LITIGATION
+AND CONTINGENCIES   
+
+The
+Company is not a party to any litigation that is material to its business.  
+
+22.      RECENTLY
+ISSUED ACCOUNTING STANDARDS   
+
+Revenue
+Recognition   
+
+In
+May 2014, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU )
+No. 2014-09, Revenue from Contracts with Customers (Topic 606) ( ASU 2014-09 ), which amends the existing accounting
+standards for revenue recognition. ASU 2014-09 is based on principles that govern the recognition of revenue at an amount an entity
+expects to be entitled to when products are transferred to customers. In August 2015, the FASB issued ASU No. 2015-14, Revenue
+from Contracts with Customers (Topic 606)   Deferral of the Effective Date, which defers the effective date of ASU 2014-09
+for one year and permits early adoption. The Company intends to adopt this standard in its first quarter of 2019.  
+
+In April 2016,
+the FASB issued ASU No. 2016-10, Revenue from Contracts with Customers (Topic 606)   Identifying Performance Obligations
+and Licensing ( ASU 2016-10 ), which amends the guidance in ASU 2014-09 related to identifying performance obligations
+and accounting for licenses of intellectual property. The Company will adopt ASU 2016-10 with ASU 2014-09. The Company is currently
+evaluating the impact of adopting the new revenue recognition standard, as amended, but does not expect it to have a material
+impact on its financial statements.  
+
+Coates International, Ltd. 
+Notes to Financial Statements - (Continued) 
+
+Financial
+Instruments   
+
+In
+January 2016, the FASB issued ASU No. 2016-01, Financial Instruments   Overall (Subtopic 825-10) ( ASU 2016-01 ),
+which updates certain aspects of recognition, measurement, presentation and disclosure of financial instruments. ASU 2016-01 will
+be effective for the Company beginning in its first quarter of 2019. The Company does not believe the adoption of the new financial
+instruments standard will have a material impact on its financial statements.  
+
+Conversion
+of Convertible Promissory Notes   
+
+During
+the period from July 1, 2018 to August 13, 2018, $97,000 principal amount of convertible promissory notes, including accrued interest,
+was converted into 115,304,620 unregistered, restricted shares of the Company s common stock.  
+
+Issuances
+and Repayments of Promissory Notes to Related Parties   
+
+During
+the period from July 1, 2018 to August 13, 2018, the Company issued promissory notes to George J. Coates and received aggregate
+cash proceeds of $8,000. During the period from July 1, 2018 to August 13, 2018, the Company repaid $10,000 and $5,000 of promissory
+notes to George J. Coates and Gregory G. Coates, respectively. The promissory notes are payable on demand and provide for interest
+at the rate of 17% per annum, compounded monthly.  
+
+Deferred
+Compensation   
+
+During
+the period from July 1, 2018 to August 13, 2018, George J. Coates, Gregory G. Coates, Barry C. Kaye and one employee agreed to
+additional deferral of their compensation amounting to $30,000, $9,000, $13,000 and $4,000, respectively. During the period from
+July 1, 2018 to August 13, 2018, Barry C. Kaye was paid compensation of $3,000.  
+
+Deposit  
+
+On July 23, 2018, the Company entered into a non-binding letter of intent and received a $50,000 refundable deposit for the
+potential sale of a 3.6-acre undeveloped parcel of land that it is not currently using in its operations at its headquarters
+facility in New Jersey. 
+
+Item 2. Management s Discussion and Analysis of Financial Condition
+and Results of Operations  
+
+THE
+FOLLOWING DISCUSSION OF OUR PLAN OF OPERATION AND RESULTS OF OPERATIONS SHOULD BE READ IN CONJUNCTION WITH THE FINANCIAL STATEMENTS
+AND RELATED NOTES TO THE FINANCIAL STATEMENTS INCLUDED ELSEWHERE IN THIS REPORT. THIS DISCUSSION CONTAINS FORWARD-LOOKING STATEMENTS
+THAT RELATE TO FUTURE EVENTS OR OUR FUTURE FINANCIAL PERFORMANCE. THESE STATEMENTS INVOLVE KNOWN AND UNKNOWN RISKS, UNCERTAINTIES
+AND OTHER FACTORS THAT MAY CAUSE OUR ACTUAL RESULTS, LEVELS OF ACTIVITY, PERFORMANCE OR ACHIEVEMENTS TO BE MATERIALLY DIFFERENT
+FROM ANY FUTURE RESULTS, LEVELS OF ACTIVITY, PERFORMANCE OR ACHIEVEMENTS EXPRESSED OR IMPLIED BY THESE FORWARD-LOOKING STATEMENTS.
+THESE RISKS AND OTHER FACTORS INCLUDE, AMONG OTHERS, THOSE LISTED UNDER  FORWARD-LOOKING STATEMENTS  AND  RISK
+FACTORS  INCLUDED IN THE COMPANY S ANNUAL REPORT ON FORM 10-K FILED WITH THE SECURITIES AND EXCHANGE COMMISSION FOR
+THE YEAR ENDED DECEMBER 31, 2017.   
+
+Background   
+
+We
+have completed development of the Coates spherical rotary valve engine ( CSRV    ) system technology.
+This technology has been successfully applied to natural gas fueled industrial electric power CSRV    generator engines
+( Gen Sets ), automobile engines, residential generators and high-performance racing car engines. We have also designed
+and retrofitted the CSRV    system technology into a diesel engine which is suitable for and can be applied to heavy
+trucks. Provided we can raise sufficient new working capital, we intend to devote a substantial amount of resources during the
+remainder of 2018 to develop Hydrogen Gen Sets, capable of producing up to 1MW of electrical power output.  
+
+We
+have completed production of an initial next generation 855 cubic inch industrial Gen Set. If we are able to raise sufficient
+new working capital, we intend to begin ramping up production for sales and distribution to end users. We have not sold any of
+these Gen Sets to date.  
+
+In
+February 2015, we granted a non-exclusive distribution sublicense to a China-based sales and distribution company that covers
+distribution in the territory of the Western Hemisphere. Under this sublicense, Renown will be permitted to sell, lease and distribute
+CSRV    products. Renown intends to source CSRV    products from Coates Power, Ltd., a China-based company
+formed for the purpose of manufacturing CSRV    products ( Coates Power ). Coates Power has not been
+able to commence operations due to ongoing delays in obtaining necessary support and approval from the Chinese government in spite
+of continuing efforts by Renown to do so on its behalf. This has been and continues to be a long, arduous process because the
+government is addressing this at a very slow pace. We have only received, in prior years, an initial non-refundable deposit of
+$500,000 towards this license. Until Coates Power can begin production of CSRV    products for Renown, we will
+not receive any further monies from our sublicense with Renown.  
+
+At
+this time, as our intellectual property rights only cover the territory of North America, we do not have any rights to enter into
+a manufacturing and sale license agreement with Coates Power. These rights are currently held by George J. Coates, Gregory G.
+Coates and The Coates Trust, a trust controlled by George J. Coates. Coates Power and Renown are controlled and managed by Mr.
+James Pang, the Company s liaison agent in China.  
+
+Independent
+testing on internal combustion engines incorporating the CSRV    system technology indicated the following advantages
+would be derived from this technology:  
+
+Better
+    fuel efficiency   
+
+Reduced
+    harmful emissions   
+
+Based
+on more than ten years of operating a Mercedes 300 with an SE 280 engine retrofitted with the CSRV    system technology,
+the following advantages were demonstrated:  
+
+Longer
+    intervals between engine servicing, and   
+
+Longer
+    engine life than conventional internal combustion engines.   
+
+We
+continue to be engaged in new research and development activities from time-to-time in connection with applying this technology
+to other commercially feasible internal combustion engine applications and intend to manufacture engines and/or license the CSRV  
+ system technology to third party Original Equipment Manufacturers ( OEM s ) for multiple other applications
+and uses.  
+
+Hydrogen
+Reactor Technology Based on Hydrogen Gas Owned by George J. Coates   
+
+George
+J. Coates is nearing completion of the latest stage of a 3-year project to develop a hydrogen reactor that generates Hydrogen
+Gas (H 2 ) from H 2 O water molecules. Upon completion, the Hydrogen Gas is expected to be able be used to power
+the Company s various CSRV    system technology Hydrogen Engines and CSRV    system technology
+Hydrogen Gen Sets.  
+
+Conventional
+internal combustion engines employing poppet valve assemblies require lubrication and would experience excessive heat and friction
+if powered with Hydrogen Gas. This, in turn, would cause the engines to burn out in a rather short period of time. The materials
+and components of the CSRV    engines do not require such lubrication and because of their design, are able to operate
+relatively trouble-free on Hydrogen Gas as the engine fuel. There can be no assurance that this technology can be developed successfully,
+or that if developed, it will be feasible to penetrate the internal combustion engine market with this technology.  
+
+Applications
+for patent protection of this technology would be filed upon completion of the research and development. Although at this
+time no arrangements have been made between us and George J. Coates, owner of the technology, regarding licensing of the
+hydrogen reactor, Mr. Coates has provided his commitment to license this technology to us to manufacture Hydrogen Gas powered
+products, once the related patent protection is in place. Accordingly, we do not currently have any rights to manufacture,
+use, sell and distribute the hydrogen reactor technology, should it become commercially feasible to manufacture and
+distribute products powered by the Hydrogen Gas fuel. We have been responsible for all costs incurred to date related to the
+development of this technology.   
+
+Plan
+of Operation   
+
+Manufacturing,
+Sales and Distribution   
+
+We
+have completed development of the CSRV    system technology-based generator engine, including retrofitting a next
+generation Cummins industrial engine with our CSRV    engine technology. This unit is being used to attract new licensing
+transactions and other manufacturing activities. We will need to raise sufficient new working capital to ramp up our own manufacturing
+and distribution operations.  
+
+As
+discussed above, we plan to primarily devote our resources for the remainder of 2018 to completing development of CSRV  
+ Hydrogen Engines and Gen Sets.  
+
+We
+intend to take advantage of the fact that essentially all the parts and components of the CSRV    generator engine
+may be readily sourced and acquired from U.S. based suppliers and subcontractors, and, accordingly, expect to manufacture Gen
+Sets by developing assembly lines within owned manufacturing facilities. The initial limited production will enable us to prove
+our concept for the CSRV    system technology and we expect this will dovetail with the existing demand in the marketplace.
+We plan to address this demand by establishing large scale manufacturing operations in the United States. Transitioning to large
+scale manufacturing is expected to require a substantial increase in our work force, securing additional manufacturing capacity
+and substantial capital expenditures.  
+
+Our
+ability to establish such manufacturing operations, recruit plant workers, finance initial manufacturing inventories and fund
+capital expenditures is highly dependent on our ability to successfully raise substantial new working capital in an amount and
+at a pace which matches our business plans. Potential sources of such new working capital include (i) licensing fees from new
+sublicensing agreements, (ii) positive working capital generated from sales of our CSRV    products and (iii) issuances
+of promissory notes to related parties and issuances of convertible notes. Although we have been successful in raising sufficient
+working capital to continue our ongoing operations, we have encountered very challenging credit and equity investment markets
+and have not been able to raise sufficient new working capital to enable us to commence production of our Gen Sets. There can
+be no assurance that we will be successful in raising adequate new working capital or even any new working capital to carry out
+our business plans.  
+
+Sublicensing   
+
+We
+plan to sublicense the CSRV    system technology to multiple OEM s in order to take advantage of third party
+manufacturers  existing production capacity and resources by entering into OEM agreements.  
+
+Significant
+Estimates   
+
+The
+preparation of our financial statements in conformity with generally accepted accounting principles in the United States ( GAAP )
+requires our management to make estimates and assumptions that affect the reported amount of assets and liabilities, disclosures
+of contingent assets and liabilities at the date of the financial statements and reported amounts of revenues and expenses during
+the reporting period. These significant estimates include determining the fair value of convertible promissory notes containing
+embedded derivatives as a result of variable conversion rate provisions, determining a value for Series A Preferred Stock and
+Series B Convertible Preferred Stock issued in connection with anti-dilution provisions in place, assigning useful lives to our
+property, plant and equipment, determining an appropriate amount to reserve for obsolete and slow moving inventory, providing
+a valuation allowance for deferred tax assets, assigning expected lives to and estimating the rate of forfeitures of stock options
+granted and selecting a volatility factor for the Company s stock options in order to estimate the fair value of the Company s
+stock options on the date of grant. Actual results could differ from those estimates.  
+
+Results
+of Operations for the Three Months Ended June 30, 2018 and 2017   
+
+  Our
+principal business activities and efforts during the three months ended June 30, 2018 and 2017, were devoted to (i) applying the
+CSRV    system technology to optimally fuel industrial engines with hydrogen gas and (ii) undertaking efforts to
+raise additional working capital in order to fund ongoing operations.  
+
+Although
+we incurred substantial net losses for the three months ended June 30, 2018 and 2017 of ($1,668,402) and ($3,972,436), respectively,
+it is important to consider that a substantial portion of these losses resulted from non-cash expenses required to be recorded
+for financial reporting purposes in accordance with GAAP. These net losses should be considered in view of the fact that actual
+cash used in operating activities amounting to ($128,813) and ($406,514) in 2018 and 2017, respectively, was significantly less
+than these reported net losses. The differences between the reported net losses and actual cash losses incurred in 2018 and 2017
+are described in detail in the section   Liquidity and Capital Resources  .  
+
+Revenue   
+
+There
+were no sales for the three months ended June 30, 2018 and 2017.  
+
+Sublicensing
+fee revenue for the three months ended June 30, 2018 and 2017 amounted to $4,800 and $4,800, respectively.  Sublicensing
+fees are being recognized by amortizing the license deposit of $300,000 on the Canadian License over the approximate remaining
+life of the last CSRV    technology patent in force. 
+
+Expenses   
+
+Research
+and Development Expenses   
+
+Research
+and development activities for the three months ended June 30, 2018 and 2017 were devoted to the ongoing development of the Hydrogen
+Reactor technology. Research and development expenses increased by $35,545 to $93,756 from $58,211 in 2017 as more time and expenses
+were devoted to the Hydrogen Reactor project in the 2018 period.  
+
+Stock-based
+Compensation Expense   
+
+Stock-based
+compensation expense decreased by $1,726,181 to $1,294,049 for the three months ended June 30, 2018 from $3,020,230 for the three
+months ended June 30, 2017. This decrease was primarily due to a decrease in issuances of Series B Convertible Preferred Stock
+to George J. Coates, Gregory G. Coates and Barry C. Kaye, for anti-dilution.  
+
+Compensation
+and Benefits   
+
+Compensation
+and benefits decreased by $49,681 to $44,499 for the three months ended June 30, 2018 from $94,180 for the three months ended
+June 30, 2017. This decrease was primarily due to a $34,800 increase in the amount of compensation allocated from compensation
+and benefits expense to research and development costs in the 2018 period and an $18,014 decrease in compensation and benefits
+in 2018 from the retirement of Bernadette Coates.  
+
+General
+and Administrative Expenses     
+
+General
+and administrative expenses increased by $139,497 to $163,767 for the three months ended June 30, 2018 from $24,270 for the three
+months ended June 30, 2017. This net increase in 2018 resulted from increases in legal and professional fees of $119,200 resulting
+from $95,658 of settlement adjustments to legal and accounting fees in 2017 and an increase in legal fees related to real estate
+transactions in 2018, investor relations costs of $16,217, miscellaneous taxes of $4,103  and a reduction in all other expenses, net of ($23). 
+
+Depreciation
+and Amortization   
+
+Depreciation
+and amortization expense decreased to $10,002 for the three months ended June 30, 2018 from $12,249 for the three months ended
+June 30, 2017.  
+
+Loss
+from Operations   
+
+A
+loss from operations of ($1,601,273) was incurred for the three months ended June 30, 2018 compared with a loss from operations
+of ($3,204,340) for the three months ended June 30, 2017. The $1,598,267 decrease in the amount of the loss from operations in
+2018 was primarily attributable to the decrease in non-cash, stock-based compensation expense of $1,726,181, partially offset
+by a $139,497 increase in general and administrative expenses.  
+
+Other
+Income (Expense)   
+
+Decrease
+(Increase) in Estimated Fair Value of Embedded Derivative Liabilities   
+
+The
+estimated fair value of embedded derivative liabilities, which relates to outstanding convertible promissory notes, is remeasured
+at each balance sheet date. For the three months ended June 30, 2018 and 2017, other income (expense) was recorded to reflect
+the decrease (increase) in the fair value of embedded derivative liabilities of $142,623 and ($112,110), respectively.  
+
+Loss
+on Conversion of Convertible Notes   
+
+For
+the three months ended June 30, 2018 and 2017, the Company realized a non-cash loss on conversion of convertible notes of ($7,908)
+and ($149,118), respectively.  
+
+Interest
+Expense   
+
+Interest
+expense decreased to ($201,844) for the three months ended June 30, 2018 from ($506,868) in 2017. Interest expense in 2018 consisted
+of non-cash interest related to convertible promissory notes of $99,741, interest on amounts due to related parties of $74,217,
+mortgage loan interest of $24,028 and other interest of $3,858.  
+
+Interest expense in 2017 consisted of non-cash
+interest related to convertible promissory notes of $402,106, interest on promissory notes to related parties of $80,695, mortgage
+interest of $16,657 and other interest of $7,410. 
+
+Deferred
+Taxes   
+
+For
+the three months ended June 30, 2018 and 2017, the change in deferred taxes was fully offset by a valuation allowance, resulting
+in a $-0- net income tax provision.  
+
+Net
+Loss   
+
+For
+the three months ended June 30, 2018, we incurred a net loss of ($1,668,402) or a basic net loss of ($0.03) per share, as
+compared with net loss of ($3,972,436) or a basic net loss of ($0.20) per share for the three months ended June 30, 2017. The
+$2,304,034 decrease in the amount of the net loss was primarily attributable to a decrease in non-cash, stock-based
+compensation expense of $1,726,181, a decrease in the estimated fair value of embedded derivative
+liabilities of $254,733, a decrease in the loss on conversion of convertible notes of $141,210 and a decrease in interest
+expense of $305,024, partly offset by a $139,497 increase in general and administrative expenses.  
+
+Results
+of Operations for the Six Months Ended June 30, 2018 and 2017   
+
+Our
+principal business activities and efforts during the six months ended June 30, 2018 and 2017 were devoted to (i) applying the
+CSRV    system technology to optimally fuel industrial engines with hydrogen gas and (ii) undertaking efforts to
+raise additional working capital in order to fund ongoing operations.  
+
+Although we incurred substantial net losses for the six months
+ended June 30, 2018 and 2017 of ($3,008,522) and ($4,819,604), respectively, it is important to consider that a substantial portion
+of these losses resulted from non-cash expenses required to be recorded for financial reporting purposes in accordance with GAAP.
+These net losses should be considered in view of the fact that actual cash used in operating activities amounting to ($267,637)
+and ($551,041) in 2018 and 2017, respectively, was significantly less than these reported net losses. The differences between
+the reported net losses and actual cash losses incurred in 2018 and 2017 are described in detail in the section   Liquidity
+and Capital Resources  .  
+
+Revenue   
+
+There
+were no sales for the six months ended June 30, 2018 and 2017.  
+
+Sublicensing
+fee revenue for the six months ended June 30, 2018 and 2017 amounted to $9,600 and $9,600, respectively.  Sublicensing fees
+are being recognized by amortizing the license deposit of $300,000 on the Canadian License over the approximate remaining life
+of the last CSRV    technology patent in force. 
+
+Expenses   
+
+Research
+and Development Expenses   
+
+Research
+and development activities for the six months ended June 30, 2018 and 2017 were devoted to the ongoing development of the
+Hydrogen Reactor technology. Research and development expenses decreased by $101,353 to $95,245 from $196,598 in 2017 as
+research and development efforts were only undertaken during the second quarter of 2018.  
+
+Stock-based
+Compensation Expense   
+
+Stock-based
+compensation expense decreased by $1,328,123 to $1,883,433 for the six months ended June 30, 2018 from $3,211,556 for the six
+months ended June 30, 2017. This decrease was primarily due to a decrease in issuances of Series B Convertible Preferred Stock
+to George J. Coates, Gregory G. Coates and Barry C. Kaye, for anti-dilution.  
+
+Compensation
+and Benefits   
+
+Compensation
+and benefits decreased by $45,091 to $180,836 for the six months ended June 30, 2018 from $225,927 for the six months
+ended June 30, 2017. This decrease was primarily due to a $36,029 reduction in 2018 due to  the retirement of Bernadette
+Coates and a $5,700 increase in the amount of compensation allocated from
+compensation and benefits expense to research and development costs in the 2018 period.  
+
+General
+and Administrative Expenses   
+
+General
+and administrative expenses increased by $143,372 to $286,481 for the six months ended June 30, 2018 from $143,109 for
+the six months ended June 30, 2017. This net increase in 2018 resulted from increases in legal and professional fees of
+$126,127 resulting from $95,658 of settlement adjustments to legal and accounting fees in 2017 and an increase in legal fees
+related to real estate transactions in 2018, investor relations costs of $15,524, property taxes and insurance of $5,153, building
+expenses of $4,531, miscellaneous taxes of $4,103 and all other expenses, net of $1,226, partially offset by decreases in
+utilities of ($6,086), miscellaneous expenses of ($3,891) and financing costs of ($3,315) .  
+
+Depreciation
+and Amortization   
+
+Depreciation
+and amortization expense decreased to $21,009 for the six months ended June 30, 2018 from $24,497 for the six months ended June
+30, 2017.  
+
+Loss
+from Operations   
+
+A
+loss from operations of ($2,457,404) was incurred for the six months ended June 30, 2018 compared with a loss from operations
+of ($3,792,087) for the six months ended June 30, 2017. The $1,334,683 decrease in the amount of the loss from operations in 2018
+was primarily attributable to the decrease in non-cash, stock-based compensation expense of $1,328,123, a $101,353 decrease in
+research and development costs and a $45,091 decrease in compensation and benefits, partially offset by a $143,372 increase in
+general and administrative expenses.  
+
+Other
+Expenses   
+
+Decrease
+(Increase) in Estimated Fair Value of Embedded Derivative Liabilities   
+
+The
+estimated fair value of embedded derivative liabilities, which relates to outstanding convertible promissory notes, is remeasured
+at each balance sheet date. For the six months ended June 30, 2018 and 2017, other income (expense) was recorded to reflect the
+decrease (increase) in the fair value of embedded derivative liabilities of $4,915 and ($163,387), respectively.  
+
+Loss
+on Conversion of Convertible Notes   
+
+For
+the six months ended June 30, 2018 and 2017, the Company realized a non-cash loss on conversion of convertible notes of ($28,586)
+and ($160,747), respectively.  
+
+Interest
+Expense   
+
+Interest
+expense decreased to ($527,447) for the six months ended June 30, 2018 from ($703,383) in 2017. Interest expense in 2018 consisted
+of non-cash interest related to convertible promissory notes of $327,915, interest on amounts due to related parties of $146,026,
+mortgage loan interest of $47,815 and other interest of $5,691.  
+
+Interest
+expense in 2017 consisted of non-cash interest related to convertible promissory notes of $506,396, interest on amounts due to
+related parties of $130,937, mortgage loan interest of $50,131 and other interest of $15,919.  
+
+Deferred
+Taxes   
+
+For
+the six months ended June 30, 2018 and 2017, the change in deferred taxes was fully offset by a valuation allowance, resulting
+in a $-0- net income tax provision.  
+
+Net Loss   
+
+For
+the six months ended June 30, 2018, we incurred a net loss of ($3,008,522) or a basic net loss of ($0.06) per share, as
+compared with net loss of ($4,819,604) or a basic net loss of ($0.27) per share for the six months ended June 30, 2017. The
+$1,811,082 decrease in the net loss in 2018 was primarily attributable to the decrease in
+non-cash, stock-based compensation expense of $1,328,123, a $175,936 decrease
+in interest expense, a $168,302 decrease in other expense related to the change in the embedded derivative liability, a
+$132,161 decrease in the loss on conversion of convertible notes, a $101,353 decrease in research and development costs and a
+$45,091 decrease in compensation and benefits, partially offset by a $143,372 increase in general and
+administrative expenses.  
+
+Liquidity
+and Capital Resources   
+
+Our
+cash position at June 30, 2018 was $8,100, an increase of $1,293 from the cash position of $6,807 at December 31, 2017.
+We had negative working capital of ($7,951,248) at June 30, 2018, which represents a decrease in our working capital
+of ($484,249) compared to the ($7,466,999) of negative working capital at December 31, 2017. Our current liabilities
+of $8,111,828 at June 30, 2018, increased by $533,804 from $7,578,024 at December 31, 2017. This net increase resulted from
+(i) a $194,243 increase in the carrying amount of convertible promissory notes, net of unamortized discount, (ii) a $176,060
+increase in deferred compensation payable, (iii) a $236,711 increase in accounts payable and accrued
+liabilities, (iv) a $3,230 increase in promissory notes to related parties, partially offset by (v) a ($41,525) decrease in
+the current portion of sublicense deposits, (vi) repayment of ($30,000) of principal of the mortgage loan payable and (vii) a
+($4,915) net decrease in the derivative liability related to convertible promissory notes.  
+
+Major
+outlays of cash during the six months ended June 30, 2018 and 2017 were for repayments of principal and interest on the mortgage
+loan, repayments of loans from related parties, patent maintenance expenses, employee compensation and benefits, legal and professional
+fees, property taxes, financing costs, investors relations expenses and other general and administrative expenses.  
+
+Net
+Cash Flows Used in Operating Activities   
+
+Operating
+activities utilized cash of ($267,637) for the six months ended June 30, 2018, a decrease of $283,404 from the cash utilized
+for operating activities of ($551,041) for the six months ended June 30, 2017. Cash utilized by operating activities  for the
+six months ended June 30, 2018 resulted from (i) a cash basis net loss of ($614,569), after adding back (deducting) non-cash
+stock-based compensation expense of $1,883,433, interest accrued, but not paid of $475,440, a non-cash loss on conversion of
+convertible notes of $28,587, depreciation and amortization of $21,009, other non-cash licensing income of ($280,459), a
+decrease in embedded derivative liabilities related to convertible notes of ($4,915) and non-cash licensing revenues of
+($4,800) and (ii) changes in current assets and liabilities, including a decrease in inventory of $1,446, an increase in
+other assets of ($49,709), an increase of $219,135 in accounts payable and accrued liabilities and an increase in deferred
+compensation payable of $176,060.  
+
+Net
+Cash Used in Investing Activities   
+
+No
+cash was used in investing activities for the six months ended June 30, 2018 and 2017.  
+
+Net
+Cash Provided by Financing Activities   
+
+Cash
+provided by financing activities for the six months ended June 30, 2018, amounted to $268,930, a decrease of ($294,054) from
+the cash provided by financing activities of $562,984 for the six months ended June 30, 2017. This was comprised of proceeds from
+issuances of convertible promissory notes aggregating $295,700 and issuances of promissory notes to related parties of $60,730,
+partially offset by partial repayments of principal and interest on promissory notes to related parties of ($57,500) and principal
+repayments of ($30,000) on a mortgage loan payable.  
+
+Going
+Concern   
+
+We
+have incurred net recurring losses since inception, amounting to an accumulated deficit of ($76,721,732) as of June 30, 2018 and
+had a stockholders  deficiency of ($6,546,041). In addition, our mortgage loan which had a principal balance of $1,243,158
+at June 30, 2018, matured in July 2018. The lender is working with us on an extension of the mortgage loan and has not demanded
+repayment of the balance. As directed by the lender, we are continuing to make payments on the mortgage loan on the same terms
+that were in effect prior to the maturity date. If the lender does not ultimately agree to extend the term of the mortgage loan,
+we would be required to refinance the property with another mortgage lender, if possible. Failure to do so could adversely affect
+our financial position and results of operations. Further, the recent trading price range of our common stock at a fraction of
+a penny, has introduced additional risk and difficulty to our challenge to secure needed additional working capital. We will need
+to obtain additional working capital in order to continue to cover our ongoing cash expenses.  
+
+These
+factors raise substantial doubt about our ability to continue as a going concern. Our Independent Registered Public Accountants
+have stated in their Auditor s Report dated April 17, 2018, with respect to our financial statements as of and for the year
+ended December 31, 2017, that these circumstances raise substantial doubt about our ability to continue as a going concern.  
+
+During
+2018, we restricted variable costs to only those expenses that are necessary to perform activities related to efforts to negotiate
+sublicenses for distribution of our CSRV    products, raising working capital to enable us to commence limited production
+of our CSRV    system technology products, research and development and general and administrative costs in support
+of such activities.   
+
+Our
+financial statements do not include any adjustments that might be necessary if we are unable to continue as a going concern.  
+
+Potential
+sources of working capital and new funding being pursued by us include (i) issuances of promissory notes to related parties and
+convertible promissory notes, (ii) licensing fees for CSRV    industrial generators, (iii) proceeds from a pending
+sale of an undeveloped portion of the land comprising our headquarters facility, (iv) new equity investments, (v) new borrowing
+arrangements and (vi) proceeds from sales of CSRV    Gen Sets. There can be no assurance that we will be successful
+in securing any of these sources of additional funding. In this event, we may be required to substantially or completely curtail
+our operations, which could have a material adverse effect on our operations and financial condition.  
+
+At
+June 30, 2018, current liabilities amounted to $8,111,828 comprised of deferred compensation of $1,797,382, promissory
+notes due to related parties aggregating $1,475,639, legal and professional fees of $1,494,684, a mortgage loan amounting to
+$1,243,158, accrued interest expense of $669,869, accrued general and administrative expenses of $501,302, a derivative
+liability related to convertible promissory notes of $354,081, convertible promissory notes, net of unamortized discount of
+$291,059, unearned revenues of $150,595, accrued research and development expenses of $114,859 and a sublicense deposit of $19,200.  
+
+Contractual
+Obligations and Commitments   
+
+The
+following table summarizes our contractual obligations and commitments at June 30, 2018:  
+
+Critical
+Accounting Policies   
+
+Our
+significant accounting policies are presented in the notes to our financial statements for the period ended June 30, 2018, which
+are contained in this filing and notes to financial statements for the year ended December 31, 2017, which are contained in our
+2017 Annual Report on Form 10-K. The significant accounting policies that are most critical and aid in fully understanding and
+evaluating the reported financial results include the following:  
+
+We
+prepare our financial statements in conformity with GAAP. These principals require management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses during the reporting period. Management believes that
+these estimates are reasonable and have been discussed with the board of directors; however, actual results could differ from
+those estimates.  
+
+Long-lived
+assets such as property, equipment and identifiable intangibles are reviewed for impairment whenever facts and circumstances indicate
+that the carrying value may not be recoverable.  When required, impairment losses on assets to be held and used are
+recognized based on the fair value of the asset.  The fair value is determined based on estimates of future cash flows,
+market value of similar assets, if available, or independent appraisals, if required.  If the carrying amount of the
+long-lived asset is not recoverable from its undiscounted cash flows, an impairment loss is recognized for the difference between
+the carrying amount and fair value of the asset.  When fair values are not available, we estimate fair value using the
+expected future cash flows discounted at a rate commensurate with the risk associated with the recovery of the assets. We
+did not recognize any impairment losses for any periods presented.  
+
+Other
+significant estimates include determining the fair value of convertible promissory notes containing embedded derivatives and variable
+conversion rates, determining a value for Series A Preferred Stock and Series B Convertible Preferred Stock issued, assigning
+useful lives to the Company s property, plant and equipment, determining an appropriate amount to reserve for obsolete and
+slow moving inventory, estimating a valuation allowance for deferred tax assets, assigning expected lives to, and estimating the
+rate of forfeitures of, stock options granted and selecting a trading price volatility factor for the Company s common stock
+in order to estimate the fair value of the Company s stock options on the date of grant or other appropriate measurement
+date. Actual results could differ from those estimates.  
+
+New
+Accounting Pronouncements   
+
+Revenue
+Recognition   
+
+In
+May 2014, the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU )
+No. 2014-09, Revenue from Contracts with Customers (Topic 606) ( ASU 2014-09 ), which amends the existing accounting
+standards for revenue recognition. ASU 2014-09 is based on principles that govern the recognition of revenue at an amount an entity
+expects to be entitled to when products are transferred to customers. In August 2015, the FASB issued ASU No. 2015-14, Revenue
+from Contracts with Customers (Topic 606)   Deferral of the Effective Date, which defers the effective date of ASU 2014-09
+for one year and permits early adoption as early as the original effective date. We intend to adopt this standard in the first quarter of 2019.  
+
+In
+April 2016, the FASB issued ASU No. 2016-10, Revenue from Contracts with Customers (Topic 606)   Identifying Performance
+Obligations and Licensing ( ASU 2016-10 ), which amends the guidance in ASU 2014-09 related to identifying performance
+obligations and accounting for licenses of intellectual property. We will adopt ASU 2016-10 with ASU 2014-09. We are currently
+evaluating the impact of adopting the new revenue recognition standard, as amended, but do not expect it to have a material impact
+on our financial statements.  
+
+Financial
+Instruments   
+
+In
+January 2016, the FASB issued ASU No. 2016-01, Financial Instruments   Overall (Subtopic 825-10) ( ASU 2016-01 ),
+which updates certain aspects of recognition, measurement, presentation and disclosure of financial instruments. ASU 2016-01 will
+be effective for the Company beginning in our first quarter of 2019. We do not believe adoption of the new financial instruments
+standard will have a material impact on our financial statements.  
+
+Off-Balance
+Sheet Arrangements   
+
+We
+have no off-balance sheet arrangements.  
+
+Item
+3. Quantitative and Qualitative Disclosures about Market Risk   
+
+We
+are not required to provide the information under this item as we are a smaller reporting company.  
+
+Item
+4. Controls and Procedures   
+
+(a)     Evaluation of Disclosure Controls   
+
+Pursuant
+to Rule 13a-15(b) under the Securities Exchange Act of 1934 (the  Exchange Act ), we carried out an evaluation, with
+the participation of our management, including our Chief Executive Officer ( CEO ) and Chief Financial Officer ( CFO )
+(our principal financial and accounting officer), of the effectiveness of our disclosure controls and procedures (as defined under
+Rule 13a-15(e) under the Exchange Act) as of the end of the period covered by this report. Based upon that evaluation, our CEO
+and CFO concluded that our disclosure controls and procedures are effective to ensure that information required to be disclosed
+by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the
+time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to our management,
+including our CEO and CFO, as appropriate, to allow timely decisions regarding required disclosure.  
+
+(b)
+Changes in Internal Control over Financial Reporting   
+
+There
+have been no changes in our internal control over financial reporting that occurred during the last fiscal quarter that have materially
+affected, or are reasonably likely to materially affect, our internal control over financial reporting.  
+
+PART
+II - OTHER INFORMATION   
+
+Item
+1. Legal Proceedings    
+
+We
+are currently not involved in any litigation that we believe could have a materially adverse effect on our financial condition
+or results of operations. There is no action, suit, proceeding, inquiry or investigation before or by any court, public board,
+government agency, self-regulatory organization or body pending or, to the knowledge of the executive officers of our company
+or any of our subsidiaries, threatened against or affecting our company, our common stock, any of our subsidiaries or of our company s
+or our company s subsidiaries  officers or directors in their capacities as such, in which an adverse decision could have a material
+adverse effect.  
+
+Item
+1A. Risk Factors   
+
+We
+believe there are no changes that constitute material changes from the risk factors previously disclosed in our 2017 Annual Report
+on Form 10-K filed April 17, 2018.  
+
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds   
+
+The
+following issuances of securities during the six months ended June 30, 2018 were exempt from registration pursuant to Section
+4(a)(2), Regulation D promulgated under the Securities Act of 1933, as amended (the  Securities Act ) and Section 3(a)10
+of the Securities Act. We made this determination based on the representations of the Investors which included, in pertinent part,
+that such Investors were  accredited investors  within the meaning of Rule 501 of Regulation D promulgated under the
+Securities Act, and that such Investors were acquiring our common stock for investment purposes for their own respective accounts
+and not as nominees or agents, and not with a view to the resale or distribution thereof, and that the Investors understood that
+the shares of our common stock may not be sold or otherwise disposed of without registration under the Securities Act or an applicable
+exemption therefrom.    
+
+In
+a series of transactions, convertible promissory notes with an aggregate principal balance of $163,662, including accrued interest
+thereon were converted into 27,066,279 unregistered shares of common stock. The net proceeds from the original issuances of convertible
+promissory notes were used for general working capital purposes.  
+
+In
+a series of transactions, the Company issued 8,970,000 shares of its common stock to Livingston Asset Management ( LAM )
+to be sold in the open market in reliance upon an exemption provided for in Section 3(a)(10) of the Securities Act. Proceeds from
+the sales are to be used to satisfy past-due obligations of the Company previously assigned to LAM.  
+
+Item
+3. Defaults upon Senior Securities   
+
+None.  
+
+Item
+4. Mine Safety Disclosures   
+
+Not
+Applicable.  
+
+Item
+5. Other Information   
+
+None.  
+
+Item
+6. Exhibits   
+
+*In accordance with SEC Release 33-8238, Exhibits 32.1 and
+32.2 are being furnished and not filed. 
+
+SIGNATURES   
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.    
+
+COATES
+    INTERNATIONAL, LTD.    
+
+Date:
+    August 13, 2018  
+       /s/
+    George J. Coates    
+
+George
+    J. Coates   
+
+Duly
+Authorized Officer, President and   
+ Chief Executive Officer 
+(Principal Executive Officer)    
+
+Date:
+    August 13, 2018  
+       /s/
+    Barry     C. Kaye    
+
+Barry
+    C. Kaye   
+
+Duly
+Authorized Officer, Treasurer and  
+ Chief Financial Officer 
+(Principal Financial Officer)    
+
+<EX-31.1>
+ 2
+ f10q0618ex31-1_coates.htm
+ CERTIFICATION
+
+Exhibit
+31.1   
+
+CERTIFICATION PURSUANT
+TO   
+
+   SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002   
+
+I,
+George J. Coates, certify that:  
+
+1.
+I have reviewed this Quarterly Report on Form 10-Q of Coates International, Ltd. (the  registrant );  
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report;  
+
+4.
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+a)       Designed
+such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+b)       Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles;  
+
+c)       Evaluated
+the effectiveness of the registrant s disclosure controls and procedures; and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation;
+and  
+
+d)       Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+
+5.
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+(or persons performing the equivalent functions):  
+
+a)       All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and  
+
+b)       Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting.  
+
+Date: August
+    13, 2018  
+        /s/
+    George J. Coates     
+
+George J. Coates   
+
+President
+        and Chief Executive Officer  
+          (Principal
+        Executive Officer)  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ f10q0618ex31-2_coates.htm
+ CERTIFICATION
+
+Exhibit
+31.2   
+
+CERTIFICATION PURSUANT
+TO   
+
+   SECTION
+302 OF THE SARBANES-OXLEY ACT OF 2002   
+
+I,
+Barry C. Kaye, certify that:  
+
+1.
+I have reviewed this Quarterly Report on Form 10-Q of Coates International, Ltd. (the  registrant );  
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report;  
+
+4.
+The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:  
+
+a)       Designed
+such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+b)       Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally accepted accounting principles;  
+
+c)       Evaluated
+the effectiveness of the registrant s disclosure controls and procedures; and presented in this report our conclusions about
+the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation;
+and  
+
+d)       Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and  
+
+5.
+The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+(or persons performing the equivalent functions):  
+
+a)       All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and  
+
+b)       Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting.  
+
+Date: August
+    13, 2018  
+        /s/
+    Barry     C. Kaye     
+
+Barry C. Kaye   
+
+Chief
+        Financial Officer  
+          (Principal
+        Financial Officer)    
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ f10q0618ex32-1_coates.htm
+ CERTIFICATION
+
+Exhibit
+32.1   
+
+CERTIFICATION PURSUANT
+TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+   (18
+U.S.C. SECTION 1350)   
+
+In
+connection with the Quarterly Report of Coates International, Ltd. (the  Company ) on Form 10-Q for the period ended
+June 30, 2018 (the  Report ), I, George J. Coates, Chief Executive Officer of the Company, hereby certify pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that:  
+
+1.       The
+Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934;
+and  
+
+2.       The
+information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Company.  
+
+Date: August
+    13, 2018  
+        /s/
+    George J. Coates     
+
+George J. Coates   
+
+President
+        and Chief Executive Officer  
+          (Principal
+        Executive Officer)    
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ f10q0618ex32-2_coates.htm
+ CERTIFICATION
+
+Exhibit
+32.2   
+
+CERTIFICATION PURSUANT
+TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+   (18
+U.S.C. SECTION 1350)   
+
+In
+connection with the Quarterly Report of Coates International, Ltd. (the  Company ) on Form 10-Q for the period ended
+June 30, 2018 (the  Report ), I, Barry C. Kaye, Chief Financial Officer of the Company, hereby certify pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002, that:  
+
+1.       The
+Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934;
+and  
+
+2.       The
+information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Company.  
+
+Date: August
+    13, 2018  
+        /s/
+    Barry     C. Kaye     
+
+Barry C. Kaye   
+
+Treasurer
+        and Chief Financial Officer  
+          (Principal
+        Financial Officer)    
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ cote-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ cote-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ cote-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ cote-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ cote-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ cote-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

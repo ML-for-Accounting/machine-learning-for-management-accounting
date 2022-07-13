@@ -1,0 +1,697 @@
+tm 
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION  
+
+  Washington, D.C. 20549  
+
+FORM 10-Q  
+
+INTRUSION INC.  
+
+ (Exact name of registrant as specified in its charter) 
+
+Delaware  
+
+75-1911917  
+
+(State or other jurisdiction of 
+			incorporation or organization) 
+
+(I.R.S. Employer 
+			Identification No.) 
+
+1101 East Arapaho Road,   Suite 200,   Richardson, Texas 75081  
+
+ (Address of principal executive offices) 
+
+ (Zip Code) 
+
+(972) 234-6400  
+
+ (Registrant s telephone number, including area code) 
+
+Not Applicable  
+
+ (Former name, former address and former fiscal year, if changed since last report) 
+
+* * * * * * * * * * 
+
+ Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+ Yes   No   
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+
+Yes   No   
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+(Do not check if a smaller reporting company) 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes   No   
+
+The number of shares outstanding of the Registrant s Common Stock, $0.01 par value, on August 1, 2018 was 13,016,836. 
+
+1
+
+INTRUSION INC.   
+
+INDEX 
+
+PART I   FINANCIAL INFORMATION  
+
+Item 1. Financial Statements 
+
+Unaudited Condensed Consolidated Balance Sheets as of June 30, 2018 and December 31, 2017 
+			 
+			 3 
+
+Unaudited Condensed Consolidated Statements of Operations for the three and six months ended June 30, 2018 and 2017 
+			 
+			 4 
+
+Unaudited Condensed Consolidated Statements of Cash Flows for the six months ended June 30, 2018 and 2017 
+			 
+			 5 
+
+Notes to Unaudited Condensed Consolidated Financial Statements 
+			 
+			 6 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+			 
+			 9 
+
+Item 4. Controls and Procedures 
+			 
+			 12 
+
+PART II   OTHER INFORMATION  
+
+Item 1. Legal Proceedings 
+			 
+			 12 
+
+Item 1A. Risk Factors 
+			 
+			 13 
+
+Item 6. Exhibits 
+			 
+			 15 
+
+Signature Page 
+			 
+			 16 
+
+2
+
+PART I   FINANCIAL INFORMATION  
+
+Item 1. FINANCIAL STATEMENTS 
+
+INTRUSION INC. AND SUBSIDIARIES  
+
+ UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+ (In thousands, except par value amounts) 
+
+See accompanying notes. 
+
+3
+
+INTRUSION INC. AND SUBSIDIARIES  
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+(In thousands, except per share amounts) 
+
+See accompanying notes. 
+
+4
+
+INTRUSION INC. AND SUBSIDIARIES  
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(In thousands) 
+
+See accompanying notes. 
+
+5
+
+INTRUSION INC. AND SUBSIDIARIES  
+
+  NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+
+1. 
+
+Description of Business 
+
+We develop, market and support a family of entity identification, high speed data mining, cybercrime and advanced persistent threat detection products. Our product families include: 
+
+TraceCop  for identity discovery and disclosure, 
+
+Savant  for high speed network data mining and analytics, and advanced persistent threat detection. 
+
+We market and distribute our products through a direct sales force to: 
+
+end-users, 
+
+value-added resellers, 
+
+system integrators, 
+
+managed service providers, and 
+
+distributors. 
+
+Our end-user customers include: 
+
+U.S. federal government entities, 
+
+local government entities, 
+
+banks, 
+
+airlines, 
+
+credit unions, 
+
+other financial institutions, 
+
+hospitals and other healthcare providers, and 
+
+other customers. 
+
+Essentially, our end-users can be defined as any end-users requiring network security solutions for protecting their mission critical data. 
+
+We were organized in Texas in September 1983 and reincorporated in Delaware in October 1995. Our principal executive offices are located at 1101 East Arapaho Road, Suite 200, Richardson, Texas 75081, and our telephone number is (972) 234-6400. Our website URL is www.intrusion.com. References to the  Company ,  we ,  us ,  our ,  Intrusion  or  Intrusion Inc.  refer to Intrusion Inc. and its subsidiaries. TraceCop and Savant are trademarks of Intrusion Inc. 
+
+2. 
+
+Basis of Presentation 
+
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States for interim financial information and with the instructions to Form 10-Q and Item 10-01 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by accounting principles generally accepted in the United States for complete financial statements. The December 31, 2017 balance sheet was derived from audited financial statements, but does not include all the disclosures required by accounting principles generally accepted in the United States. However, we believe that the disclosures are adequate to make the information presented not misleading. In our opinion, all the adjustments (consisting of normal recurring adjustments) considered necessary for fair presentation have been included. The results of operations for the three and six month periods ended June 30, 2018 are not necessarily indicative of the results that may be achieved for the full fiscal year or for any future period. The unaudited condensed consolidated financial statements included herein should be read in conjunction with the consolidated financial statements and notes thereto included in our annual report on Form 10-K for the year ended December 31, 2017, filed with the U.S. Securities and Exchange Commission (the  SEC ) on March 29, 2018. 
+
+The Company calculates the fair value of its assets and liabilities which qualify as financial instruments and includes this additional information in the notes to consolidated financial statements when the fair value is different from the carrying value of these financial instruments. The estimated fair value of accounts receivable, accounts payable and accrued expenses, and dividends payable approximate their carrying amounts due to the relatively short maturity of these instruments. Loans payable to officer are with a related party and as a result do not bear market rates of interest.  Management believes based on its current financial position that it could not obtain comparable amounts of third party financing, and as such cannot estimate the fair value of the loans payable to officer. None of these instruments are held for trading purposes. 
+
+6
+
+On January 1, 2018 we adopted ASU No. 2014-09,  Revenue from Contracts with Customers , as amended, using the modified retrospective approach. At the date of adoption there was no impact on the balance sheet or statement of operation. ASU No. 2014-09 did not have a material effect on the Company s financial position, results of operations or cash flows for the three and six month periods ended June 30, 2018. 
+
+3. 
+
+Inventories (In thousands) 
+
+4. 
+
+Loan Payable to Officer 
+
+On February 9, 2017, the Company entered into an unsecured revolving promissory note to borrow up to $3,400,000 from G. Ward Paxton, the Company s Chief Executive Officer (the  CEO Note ). Under the terms of the CEO Note, the Company may borrow, repay and reborrow on the loan as needed up to an outstanding principal balance due of $3,400,000 at any given time through March 2019. 
+
+On March 2, 2017, the Company amended the CEO Note described above on the same terms, with the Company being able to borrow, repay, and re-borrow on the note as needed up to an outstanding principal balance due of $3,700,000 at any given time through March 2019. 
+
+On February 8, 2018, the Company renewed the CEO Note on the same terms, with the Company being able to borrow, repay and reborrow on the CEO Note as needed up to an outstanding principal balance due of $3,700,000 at any given time through March 2020. 
+
+Amounts borrowed under the CEO Note accrue interest at a floating rate per annum equal to Silicon Valley Bank s ( SVB ) prime rate plus 1% (6.00% at June 30, 2018).  All outstanding borrowings and accrued but unpaid interest is due on March 31, 2020.  As of June 30, 2018, the borrowings outstanding totaled $1,815,000 and accrued interest totaled $423,000. 
+
+5. 
+
+Accounting for Stock-Based Compensation 
+
+During the three month periods ended June 30, 2018 and 2017, the Company granted 24,000 and 24,000, respectively, of stock options to employees or directors. The Company recognized $6,000 and $5,000, respectively, of stock-based compensation expense for the three month periods ended June 30, 2018 and 2017. During the six month periods ended June 30, 2018 and 2017, the Company granted 24,000 and 24,000, respectively, of stock options to employees and directors. The Company recognized $11,000 and $10,000, respectively, of stock-based compensation expense for the six month periods ended June 30, 2018 and 2017. 
+
+During the three month periods ended June 30, 2018 and 2017, 5,000 and zero options were exercised under the 2005 Plan, respectively. During the six month periods ended June 30, 2018 and 2017, 219,000 and 50,000 were exercised under the 2005 Plan, respectively. 
+
+Valuation Assumptions  
+
+The fair values of employee and director option awards were estimated at the date of grant using a Black-Scholes option-pricing model with the following assumptions: 
+
+7
+
+Expected volatility is based on historical volatility and in part on implied volatility. The expected term considers the contractual term of the option as well as historical exercise and forfeiture behavior. The risk-free interest rate is based on the rates in effect on the grant date for U.S. Treasury instruments with maturities matching the relevant expected term of the award. Options granted to non-employees are valued using the fair market value on each measurement date of the option. 
+
+6. 
+
+Contract Assets and Contract Liabilities 
+
+Contract assets represent contract billings for sales per contracts with customers and are classified as current. Our contract assets include our accounts receivables. During the three months ended June 30, 2018, contract assets decreased $175,000 due to cash receipts exceeding new contract assets. For the six months ended June 30, 2018, contract assets increased $106,000 due to recognized contract assets exceeding cash receipts. 
+
+Contract liabilities consist of deferred revenue from advanced payments on revenues that have not been recognized on a contract. The Company classifies deferred revenue as current or non-current on the expected timing of sales recognition. For the three months ended June 30, 2018, the Company recognized revenue of $219,000 from its contract liabilities balance at March 31, 2018 due to revenue recognition in accordance with contract terms and was offset advance payments of $1.1 million. For the six month ended on June 30, 2018, advance payments increased $1.1 million offset by recognizing revenue of $549,000. 
+
+7. 
+
+Net Income (Loss) Per Share 
+
+Basic net income (loss) per share is computed by dividing net income (loss) attributable to common stockholders for the period by the weighted average number of common shares outstanding for the period.  Diluted net income (loss) per share is computed by dividing the net income (loss) attributable to common stockholders by the weighted average number of common shares and dilutive common stock equivalents outstanding for the period.  Our common stock equivalents include all common stock issuable upon conversion of preferred stock and the exercise of outstanding options and warrants.  The aggregate number of common stock equivalents excluded from the diluted loss per share calculation for the three month periods ended June 30, 2018 and 2017 are 291,868 and 2,883,965 as they are antidilutive.  The aggregate number of common stock equivalents excluded from the diluted income (loss) per share calculation for the six month periods ended June 30, 2018 and 2017 are 285,967 and 3,072,573 as they are antidilutive. 
+
+8. 
+
+Concentrations 
+
+Our operations are concentrated in one area security software/entity identification.  Sales to the U.S. Government through direct and indirect channels totaled 88.4% of total revenues for the second quarter of 2018 compared to 72.2% of total revenues for the second quarter of 2017.  During the second quarter of 2018, approximately 73.7% of total revenues were attributable to four government customers compared to approximately 54.2% of total revenues attributable to three government customers in the second quarter of 2017. There was one individual commercial customer in the second quarter of 2018 attributable for 10.2% of total revenue compared to 25.9% of total revenue to one individual commercial customer for the same period in 2017.  Our similar product and service offerings are not viewed as individual segments, as our management analyzes the business as a whole and expenses are not allocated to each product offering. 
+
+9. 
+
+Commitments and Contingencies 
+
+We are subject from time to time to various legal proceedings and claims that arise during the ordinary course of our business. We do not believe that the outcome of those  routine  legal matters should have a material adverse effect on our consolidated financial position, operating results or cash flows; however, we can provide no assurances that legal claims that may arise in the future will not have such a material impact on the Company. 
+
+During the quarter ended June 30, 2018, we accrued $13,000 in dividends payable to the holders of our 5% Preferred Stock, $14,000 in dividends payable to the holders of our Series 2 5% Preferred Stock and $8,000 in dividends payable to the holders of our Series 3 5% Preferred Stock. As of June 30, 2018, we have $520,000 in accrued and unpaid dividends. 
+
+Delaware law provides that we may only pay dividends out of our capital surplus or, if no surplus is available, out of our net profits for the fiscal year the dividend is declared and/or the preceding fiscal year. These dividends continue to accrue on all our outstanding shares of preferred stock, regardless of whether we are legally able to pay them. If we are unable to pay dividends on our preferred stock, we will be required to accrue an additional late fee penalty of 18% per annum on the unpaid dividends for the Series 2 Preferred Stock and Series 3 Preferred Stock. Our CEO, CFO and one outside board member who are holders of our Series 2 and Series 3 Preferred Stock have waived any possible late fee penalties. In addition to this late penalty, the holders of our Series 2 Preferred Stock and Series 3 Preferred Stock could elect to present us with written notice of our failure to pay dividends as scheduled, in which case we would have 45 days to cure such a breach. In the event that we failed to cure the breach, the holders of these shares of preferred stock would then have the right to require us to redeem their shares of preferred stock for a cash amount calculated in accordance with their respective certificates of designation. If we were required to redeem all shares of Series 2 Preferred Stock and Series 3 Preferred Stock as of August 1, 2018, the aggregate redemption price we would owe would be $2.4 million. 
+
+8
+
+Item 2.     MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward Looking Statements  
+
+This Quarterly Report on Form 10-Q, including, without limitation, the section entitled  Management s Discussion and Analysis of Financial Condition and Results of Operations,  contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended and Section 21E of the Securities Exchange Act of 1934, as amended (the  Exchange Act ). Such forward-looking statements are generally accompanied by words such as  estimate,   expect,   believe,   should,   would,   could,   anticipate,   may  or other words that convey uncertainty of future events or outcomes. These statements relate to future events or to our future financial performance, and involve known and unknown risks, uncertainties and other factors that may cause our actual results, levels of activity, performance, or achievements to be materially different from any future results, levels of activity, performance or achievements expressed or implied by these forward-looking statements. Factors that may cause actual results to differ materially from current expectations, which we describe in more detail elsewhere in this Quarterly Report on Form 10-Q in Part II Item 1A  Risk Factors , and in our 2017 Annual Report on Form 10-K in Item 1A  Risk Factors  include, but are not limited to: 
+
+insufficient cash to operate our business and inability to meet our liquidity requirements; 
+
+loss of revenues due to the failure of our newer products to achieve market acceptance; 
+
+our need to increase current revenue levels in order to achieve sustainable profitability; 
+
+concentration of our revenues from U.S. government entities or commercial customers and the possibility of loss of one of these customers and the unique risks associated with government customers; 
+
+our dependence on sales made through indirect channels; 
+
+our dependence on equity or debt financing provided primarily by our Chief Executive Officer under the CEO Note in order to meet our cash flow requirements; 
+
+the adverse effect that payment of accrued dividends on our preferred stock would have on our cash resources and the substantial dilution upon the conversion or redemption of our preferred stock; 
+
+the consequences of our inability to pay scheduled dividends on shares of our preferred stock; 
+
+the potentially detrimental impact that the conversion of preferred stock would have on the price of our common stock; 
+
+the ability of our preferred stockholders to hinder additional financing; and 
+
+the influence that our management and larger stockholders have over actions taken by the Company. 
+
+If one or more of these or other risks or uncertainties materialize, or if our underlying assumptions prove to be incorrect, actual results may vary significantly from what we projected. These forward-looking statements and other statements made elsewhere in this report are made in reliance on the Private Securities Litigation Reform Act of 1995. Any forward-looking statement you read in this Quarterly Report on Form 10-Q or our Annual Report on Form 10-K reflects our current views with respect to future events and is subject to these and other risks, uncertainties and assumptions relating to our operations, results of operations, growth strategy and liquidity. We assume no obligation to publicly update or revise these forward-looking statements for any reason, or to update the reasons actual results could differ materially from those anticipated in these forward-looking statements, even if new information becomes available in the future. The section below entitled  Factors That May Affect Future Results of Operations  sets forth and incorporates by reference certain factors that could cause actual future results of the Company to differ materially from these statements. 
+
+9
+
+Results of Operations  
+
+The following table sets forth, for the periods indicated, certain financial data as a percentage of net revenues. The period-to-period comparison of financial results is not necessarily indicative of future results. 
+
+Net Revenues . Net revenues for the quarter and six months ended June 30, 2018 were $2.4 million and $4.6 million, respectively, compared to $1.5 million and $3.1 million for the same periods in 2017. Product revenues increased $0.9 million for the quarter ended June 30, 2018, and $1.5 million for the six months ended June 30, 2018 compared to the same periods in 2017. Increased product revenues were primarily due to an increase in sales of our TraceCop product line. TraceCop sales for the quarters ended June 30, 2018 and 2017 were $2.4 million and $1.5 million, respectively. Savant sales were $29 thousand for the quarter ended June 30, 2018 and were $29 thousand for the quarter ended June 30, 2017. 
+
+Concentration of Revenues . Revenues from sales to various U.S. government entities totaled $2.1 million, or 88.4% of revenues, for the quarter ended June 30, 2018 compared to $1.1 million, or 72.2% of revenues, for the same period in 2017. Revenues from sales to various U.S. government entities totaled $3.9 million, or 84.1% of revenues, for the six months ended June 30, 2018 compared to $2.3 million, or 74.6% of revenues, for the same period in 2017. Sales to commercial customers totaled 11.6% of total revenue for the second quarter of 2018 compared to 27.8% of total revenue for the second quarter of 2017. During the second quarter of 2018, approximately 10.2% of total revenue was attributable to one commercial customer compared to approximately 25.9% to one commercial customer in the second quarter of 2017. Although we expect our concentration of revenues to vary among customers in future periods depending upon the timing of certain sales, we anticipate that sales to government customers will continue to account for a significant portion of our revenues in future periods. Sales to the government present risks in addition to those involved in sales to commercial customers which could adversely affect our revenues, including, without limitation, potential disruption to appropriation and spending patterns and the government s reservation of the right to cancel contracts and purchase orders for its convenience. Although we do not anticipate that any of our revenues with government customers will be renegotiated, a large number of cancelled or renegotiated government orders could have a material adverse effect on our financial results. Currently, we are not aware of any proposed cancellation or renegotiation of any of our existing arrangements with government entities and, historically, government entities have not cancelled or renegotiated orders which had a material adverse effect on our business. 
+
+10
+
+Gross Profit . Gross profit was $1.4 million or 60.9% of net revenues for the quarter ended June 30, 2018, compared to $0.9 million or 59.0% of net revenues for the quarter ended June 30, 2017. Gross profit was $2.9 million or 61.6% of net revenues for the six months ended June 30, 2018 compared to $1.9 million or 60.8% of net revenues for the six months ended June 30, 2017. Gross profit on product revenues for the quarter and six months ended June 30, trended from 59.0% and 60.8%, respectively, in 2017 to 60.9% and 61.6%, respectively, in 2018 mainly due to a change in product mix. Gross profit increases can be attributed to such variables as labor hour rates and department overhead. Gross profit as a percentage of net revenues is impacted by several factors, including shifts in product mix, changes in channels of distribution, revenue volume, pricing strategies, and fluctuations in revenues of integrated third-party products. 
+
+Sales and Marketing . Sales and marketing expenses remained constant at $0.4 million for the quarter ended June 30, 2018 compared to the same period in 2017. Sales and marketing expenses remained constant at $0.8 million for the six months ended June 30, 2018 compared to the same period in 2017. Sales and marketing expenses may vary in the future. We believe that these costs will increase through the end of 2018, with increases in revenue. 
+
+Research and Development . Research and development expenses decreased to $0.2 million for the quarter ended June 30, 2018 compared to $0.6 million for the same period in 2017. Research and development decreased to $0.5 million for the six months ended June 30, 2018 compared $1.2 million in 2017.   Decreases in research and development costs were due to lower payroll expense as payroll was shifted to cost of sales. Research and development costs are expensed in the period incurred. Research and development expenses may vary in the future; however, we believe that these costs will remain relatively constant through the end of 2018, although expenses may be increased relative to increases in revenue. 
+
+General and Administrative . General and administrative expenses remained constant at $0.3 million for the quarters ended June 30, 2018 and 2017. General and administrative expenses remained constant at $0.6 million for the six months ended June 30, 2018 and 2017. It is expected that general and administrative expenses will remain relatively constant throughout the remainder of 2018, although expenses may be increased relative to increases in revenue. 
+
+Interest . Net interest expense decreased to $48 thousand for the quarter ended June 30, 2018 compared to $58 thousand for the same period in 2017. Net interest expense decreased to $101 thousand for the six months ended June 30, 2018 compared to $108 thousand for the same period in 2017. The decrease in interest expense was primarily due to paying down the loan payable to an officer. Net interest expense may vary in the future based on our level of borrowing, which will be affected by our cash flow, operating income and capital expenditures. 
+
+Liquidity and Capital Resources  
+
+Our principal source of liquidity at June 30, 2018, was approximately $376 thousand of cash and cash equivalents. At June 30, 2018, we had a working capital deficiency of $1.0 million compared to a $1.4 million deficiency at June 30, 2017. 
+
+Net cash provided by operations for the six months ended June 30, 2018 was $1.2 million thousand due primarily to a net income of $820 thousand and to the following sources of cash and non-cash items: $541 thousand increase in deferred revenue, $201 thousand increase in accounts payable and accrued expenses, $15 thousand decrease in Inventories, $22 thousand in penalties and waived penalties on dividends, $33 thousand in amortization expense of capital leases, $32 thousand in depreciation expense, and $11 thousand in stock-based compensation. This was partially offset by a $329 thousand increase in prepaid expenses and other assets and a $106 thousand increase in accounts receivable. Net cash provided by operations for the six months ended June 30, 2017 was $265 thousand due to the following sources of cash and non-cash items: $543 thousand increase in deferred revenue, a $256 thousand decrease in accounts receivable, $135 thousand increase in accounts payable and accrued expenses, $15 thousand in penalties and waived penalties on dividends, $35 thousand in depreciation expense, $74 thousand in amortization expense of capital leases, and $10 thousand in stock-based compensation. This was partially offset by a net operating loss of $789 thousand and a $14 thousand increase in prepaid expenses and other assets. Future fluctuations in inventory balances, accounts receivable and accounts payable will be dependent upon several factors, including, but not limited to, quarterly sales volumes and timing of invoicing, and the accuracy of our forecasts of product demand and component requirements. 
+
+Net cash used in investing activities for the six months ended June 30, 2018, was $75 thousand for net purchases of property and equipment, compared to $9 thousand for net purchases of property and equipment for cash used in investing activities for the six months ended June 30, 2017. 
+
+11
+
+Net cash used by financing activities in 2018 was $1.0 million due to payments to the officer loan of $1.2 million and $34 thousand payment on principal on capital leases. This was directly offset by the following provisions of cash: proceeds from a loan by an officer of $150 thousand and $71 thousand from the exercise of stock options. Net cash provided by financing activities in 2017 was $77 thousand due to proceeds from a loan by an officer of $1.3 million and $11 thousand from the exercise of stock options. This was directly offset by the following uses of cash: $1.2 million in payments to the officer loan and $74 thousand payment on principal on capital leases. 
+
+At June 30, 2018, the Company did not have any material commitments for capital expenditures. 
+
+During the six months ended June 30, 2018, the Company funded its operations through the use of cash and cash equivalents and advances on the loan from our Chief Executive Officer. 
+
+As of June 30, 2018, we had cash and cash equivalents of approximately $376,000, up from approximately $224,000 as of December 31, 2017. We generated net income of $474,000 for the quarter ended June 30, 2018 compared to a net loss of $438,000 for the quarter ended June 30, 2017. As of June 30, 2018, in addition to cash and cash equivalents of $376,000, we had $1.9 million of funding available from a promissory note to borrow up to $3.7 million from G. Ward Paxton, the Company s Chief Executive Officer. We are obligated to make payments of accrued dividends on all our outstanding shares of preferred stock that will reduce our available cash resources. Based on projections of growth in revenue and net income in the coming quarters, and the borrowings available previously mentioned, we believe that we will have sufficient cash resources to finance our operations and expected capital expenditures for the next twelve months. We expect to fund our operations through anticipated Company profits and borrowings from the Company s CEO, and possibly additional investments of private equity and debt, which, if we are able to obtain, will have the effect of diluting our existing common stockholders, perhaps significantly. Any equity or debt financings, if available at all, may be on terms which are not favorable to us and, in the case of equity financings, may result in dilution to our stockholders. If our operations do not generate positive cash flow in the upcoming year, or if we are not able to obtain additional debt or equity financing on terms and conditions acceptable to us, if at all, we may be unable to implement our business plan, fund our liquidity needs or even continue our operations. 
+
+We may explore the possible acquisitions of businesses, products and technologies that are complementary to our existing business. We are continuing to identify and prioritize additional security technologies, which we may wish to develop, either internally or through the licensing, or acquisition of products from third parties. While we may engage from time to time in discussions with respect to potential acquisitions, there can be no assurances that any such acquisitions will be made or that we will be able to successfully integrate any acquired business. In order to finance such acquisitions and working capital it may be necessary for us to raise additional funds through public or private financings. Any equity or debt financings, if available at all, may be on terms, which are not favorable to us and, in the case of equity financings, may result in dilution to our stockholders. 
+
+Item 4. 
+
+CONTROLS AND PROCEDURES 
+
+We maintain  disclosure controls and procedures,  as defined in Rule 13a-15(e) under the Exchange Act, that are designed to ensure that information required to be disclosed by us in reports we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating our disclosure controls and procedures, management recognized that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable assurance of achieving the desired control objectives, and we necessarily are required to apply our judgment in evaluating the cost-benefit relationship of possible disclosure controls and procedures. 
+
+Our management, including our principal executive officer and principal financial officer, evaluated the effectiveness of the design and operation of our disclosure controls and procedures as of June 30, 2018, and concluded that the disclosure controls and procedures were effective. 
+
+Our management, with the participation of our principal executive officer and principal financial officer, evaluated our  internal control over financial reporting  (as defined in Rule 13a-15(f) under the Exchange Act) as of December 31, 2017, and concluded that there have not been any changes in our internal control over financial reporting that occurred during the quarter ended June 30, 2018, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II   OTHER INFORMATION  
+
+Item 1. 
+
+LEGAL PROCEEDINGS 
+
+We are subject from time to time to various legal proceedings and claims that arise during the ordinary course of our business. We do not believe that the outcome of those  routine  legal matters should have a material adverse effect on our consolidated financial position, operating results or cash flows; however, we can provide no assurances that legal claims that may arise will not have such a material impact in the future. 
+
+12
+
+Item 1A.          RISK FACTORS 
+
+Factors That May Affect Future Results of Operations  
+
+We are providing the following information regarding changes that have occurred to previously disclosed risk factors from our Annual Report on Form 10-K for the year ended December 31, 2017. In addition to the other information set forth below and elsewhere in this report, you should consider the factors discussed under the heading  Risk Factors  in our Form 10-K for the year ended December 31, 2017 and the previous Quarterly Reports filed on Form 10-Q. The risks described in our Quarterly Reports on Form 10-Q are not the only risks facing our Company. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results. 
+
+We may not have sufficient cash to operate our business and may not be able to maintain     future     liquidity requirements. Additional debt and equity offerings to fund future operations may not be available and, if available, may significantly dilute the value of our currently outstanding common stock.   
+
+As of June 30, 2018, we had cash and cash equivalents of approximately $376,000, up from approximately $224,000 as of December 31, 2017. We generated net income of $474,000 for the quarter ended June 30, 2018 compared to a net loss of $438,000 for the quarter ended June 30, 2017. As of June 30, 2018, in addition to cash and cash equivalents of $376,000, we had $1.9 million of funding available from a promissory note to borrow up to $3.7 million from G. Ward Paxton, the Company s Chief Executive Officer. We are obligated to make payments of accrued dividends on all our outstanding shares of preferred stock that will reduce our available cash resources. Based on projections of growth in revenue and net income in the coming quarters, and the borrowings available previously mentioned, we believe that we will have sufficient cash resources to finance our operations and expected capital expenditures for the next twelve months. We expect to fund our operations through anticipated Company profits and borrowings from the Company s CEO, and possibly additional investments of private equity and debt, which, if we are able to obtain, will have the effect of diluting our existing common stockholders, perhaps significantly. Any equity or debt financings, if available at all, may be on terms which are not favorable to us and, in the case of equity financings, may result in dilution to our stockholders. If our operations do not generate positive cash flow in the upcoming year, or if we are not able to obtain additional debt or equity financing on terms and conditions acceptable to us, if at all, we may be unable to implement our business plan, fund our liquidity needs or even continue our operations. 
+
+We had a net     income     of $    4    74         thousand     for the quarter ended     June 30    , 20    1    8    , and have an accumulated     deficit of $    6    0.7     million as of     June 30    , 201    8    . To     achieve     an    n    ual     profitability, we must generate increased revenue levels.   
+
+For the quarter ended June 30, 2018, we generated a net income of $474 thousand and had an accumulated deficit of approximately $60.7 million as of June 30, 2018, compared to a net loss of $438 thousand for the quarter ended June 30, 2017 and an accumulated deficit of approximately $62.3 million at June 30, 2017.    We need to sustain greater revenue levels from the sales of our products if we are to achieve annual profitability. If we are unable to achieve these revenue levels, losses could happen for the near term and possibly longer, and we may not sustain profitability or generate positive cash flow from operations. 
+
+A large percentage of our revenues are received from U.S. government entities/resellers, and the loss of any one of these customers could reduce our revenues and materially harm our business and prospects.   
+
+A large percentage of our revenues result from sales to U.S. government entities/resellers. If we were to lose one or more of these key relationships, our revenues could decline and our business and prospects may be materially harmed. We expect that even if we are successful in developing relationships with non-governmental customers, our revenues will continue to be concentrated among government entities. For the quarter ended June 30, 2018, sales to U.S. government entities/resellers collectively accounted for 88.4% of our revenues, compared to 72.2% for the comparable period in 2017. The loss of any of these key relationships may send a negative message to other U.S. government entities or non-governmental customers concerning our product offering. We cannot assure you that U.S. government entities will be customers of ours in future periods or that we will be able to diversify our customer portfolio to adequately mitigate the risk of loss of any of these customers. 
+
+A large percentage of our revenues are from one product line with a limited number of customers, and the decrease of revenue from sales of this product line could materially harm our business and prospects.   
+
+A large percentage of our revenues result from sales of our security product line. Savant revenues were $29 thousand for the quarter ended June 30, 2018 compared to $29 thousand for the same period in 2017. TraceCop revenues were $2.4 million for the quarter ended June 30, 2018, compared to $1.5 million for the same quarter in 2017. There was one individual commercial customer in the second quarter of 2018 attributable for 10.2% of total revenue compared to one customer at 25.9% for the same period in 2017 that exceeded 10% of total revenues for that quarter. If sales of this key product line were to decrease, our revenues could decline and our business and prospects may be materially harmed. 
+
+13
+
+We are highly dependent on sales made through indirect channels, the loss of which would materially adversely affect our operations.   
+
+We derived 88.4% of revenue in the second quarter of 2018 through indirect channels of mainly government resellers, compared to 72.2% of our revenues in the quarter ended June 30, 2017. We must continue to expand our sales through these indirect channels in order to increase our revenues. We cannot assure you that our products will gain market acceptance in these indirect sales channels or that sales through these indirect sales channels will increase our revenues. Further, many of our competitors are also trying to sell their products through these indirect sales channels, which could result in lower prices and reduced profit margins for sales of our products. 
+
+You will experience substantial dilution upon the conversion or redemption of the shares of preferred stock that we issued in our private placements or in the event we raise additional funds through the issuance of new shares of our common stock or securities convertible or exercisable into shares of common stock.   
+
+On August 3, 2018, we had 13,016,836 shares of common stock outstanding. Upon conversion of all outstanding shares of preferred stock, we will have 14,084,279 shares of common stock outstanding, approximately an 8.3% increase in the number of shares of our common stock outstanding. 
+
+In addition, management may issue additional shares of common stock or securities exercisable or convertible into shares of common stock in order to finance our continuing operations. Any future issuances of such securities would have additional dilutive effects on the existing holders of our Common Stock. 
+
+Further, the occurrence of certain events could entitle holders of our Series 2 Preferred Stock and Series 3 Preferred Stock to require us to redeem their shares for a certain number of shares of our common stock.  Assuming (i) we have paid all liquidated damages and other amounts to the holders, (ii) paid all outstanding dividends, (iii) a volume weighted average price of $1.57, which was the ten-day volume weighted average closing price of our common stock on August 3, 2018, and (iv) our 13,016,836 shares of common stock outstanding on August 3, 2018, upon exercise of their redemption right by the holders of the Series 3 Preferred Stock and the Series 2 Preferred Stock, we would be obligated to issue approximately 288,000 shares of our common stock.  This would represent an increase of approximately 2.2% in the number of shares of our common stock as of August 3, 2018. 
+
+The conversion of preferred stock we issued in the private placements may cause the price of our common stock to decline.   
+
+The holders of the shares of our 5% Preferred Stock may freely convert their shares of preferred stock and sell the underlying shares of common stock pursuant to Rule 144 of the Securities and Exchange Commission. As of August 3, 2018, 800,000 shares of our 5% Preferred Stock had converted into 1,272,263 shares of common stock and 200,000 shares of our 5% preferred stock, convertible into 318,065 shares of common stock, remain outstanding. 
+
+The holders of the shares of Series 2 5% Preferred Stock may freely convert their shares of preferred stock and sell the underlying shares of common stock pursuant to Rule 144 of the Securities and Exchange Commission. As of August 3, 2018, 605,200 shares of Series 2 Preferred Stock had converted into 605,200 shares of common stock and 460,000 shares of Series 2 5% preferred stock remain outstanding. 
+
+The holders of the shares of Series 3 5% Preferred Stock may freely convert their shares of Series 3 Preferred Stock and sell the underlying shares of common stock pursuant to Rule 144 of the Securities and Exchange Commission. As of August 3, 2018, 275,230 shares of Series 3 Preferred Stock had converted into 275,230 shares of common stock and 289,377 shares of Series 3 5% preferred stock remain outstanding. 
+
+For the four weeks ended on August 3, 2018, the average daily trading volume of our common stock on the OTCQB was 9,000 shares.  Consequently, if holders of preferred stock elect to convert their remaining shares and sell a material amount of their underlying shares of common stock on the open market, the increase in selling activity could cause a decline in the market price of our common stock.  Furthermore, these sales, or the potential for these sales, could encourage short sales, causing additional downward pressure on the market price of our common stock. 
+
+You will experience substantial dilution upon the exercise of stock options currently outstanding.   
+
+On August 3, 2018, we had 13,016,836 shares of common stock outstanding.  Upon the exercising of current options exercisable at or below the exercise price of $1.00, we will have approximately 14,179,000 shares of common stock outstanding, a 8.9% increase in the number of shares of our common stock outstanding. 
+
+14
+
+Our management and larger stockholders exercise significant control over our company and have the ability to approve or take actions that may be adverse to your interests.   
+
+As of August 3, 2018, our executive officers, directors and preferred stockholders beneficially own approximately 31% of our voting power.  In addition, other related parties control approximately 30% of voting power.  As a result, these stockholders will be able to exercise significant control over all matters requiring stockholder approval, including the election of directors and approval of significant corporate transactions, which could delay or prevent someone from acquiring or merging with us.  These stockholders may use their influence to approve or take actions that may be adverse to the interests of holders of our Common Stock.  Further, we contemplate the possible issuance of shares of our Common Stock or of securities exercisable or convertible into shares of our Common Stock in the future to our Chief Executive Officer and Chief Financial Officer.  Any such issuance will increase the percentage of stock our Chief Executive Officer, Chief Financial Officer and our management group beneficially holds. 
+
+Item 6. 
+
+Exhibits 
+
+The following Exhibits are filed with this report form 10-Q: 
+
+31.1 
+
+Certification of Chief Executive Officer Pursuant to Rule 13a-14(a) of the Exchange Act.  
+
+31.2 
+
+Certification of Chief Financial Officer Pursuant to Rule 13a-14(a) of the Exchange Act.  
+
+32.1 
+
+Certification Pursuant to Rule 13a-14(b) of the Exchange Act and 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.  
+
+101.INS 
+
+XBRL Instance Document 
+
+101.SCH 
+
+XBRL Taxonomy Extension Schema Document 
+
+101.CAL 
+
+XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.LAB 
+
+XBRL Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+
+XBRL Taxonomy Extension Presentation Linkbase Document 
+
+101.DEF 
+
+XBRL Taxonomy Extension Definition Linkbase Document 
+
+15
+
+S I G N A T U R E S  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+INTRUSION INC.  
+
+Date: August 14, 2018 
+
+/s/ G. Ward Paxton 
+
+G. Ward Paxton 
+
+Chairman, President   Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: August 14, 2018 
+
+/s/ Michael L. Paxton 
+
+Michael L. Paxton 
+
+Vice President, Chief Financial Officer, 
+			Treasurer   Secretary 
+
+(Principal Financial   Accounting Officer) 
+
+16 
+
+<EX-31.1>
+ 2
+ ex_120020.htm
+ EXHIBIT 31.1
+
+ex_120020.htm 
+
+EXHIBIT 31.1  
+
+I, G. Ward Paxton, Chief Executive Officer of Intrusion Inc., certify that: 
+
+(1) 
+
+I have reviewed this quarterly report on Form 10-Q of Intrusion Inc.; 
+
+(2) 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+(3) 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+(4) 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+(5) 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: August 14, 2018 
+
+/s/ G. Ward Paxton 
+
+G. Ward Paxton 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex_120021.htm
+ EXHIBIT 31.2
+
+ex_120021.htm 
+
+EXHIBIT 31.2  
+
+I, Michael L. Paxton, Chief Financial Officer of Intrusion Inc., certify that: 
+
+(1) 
+
+I have reviewed this quarterly report on Form 10-Q of Intrusion Inc.; 
+
+(2) 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+(3) 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+(4) 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+(5) 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: August 14, 2018 
+
+/s/ Michael L. Paxton 
+
+Michael L. Paxton 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex_120022.htm
+ EXHIBIT 32.1
+
+ex_120022.htm 
+
+EXHIBIT 32.1  
+
+CERTIFICATION PURSUANT TO RULE 13a-14(b) OF THE EXCHANGE ACT AND 18 U.S.C. SECTION 1350, AS ENACTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of Intrusion Inc. (the  Company ) on Form 10-Q, for the quarter ended June 30, 2018 (the  Report ) as filed with the Securities and Exchange Commission on the date hereof, each of the undersigned Officers of the Company does hereby certify, pursuant to 18 U.S.C. Section 1350, as enacted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+(2) 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+August 14, 2018 
+
+/s/ Michael L. Paxton 
+
+Michael L. Paxton 
+
+Chief Financial Officer 
+
+The foregoing certification is being furnished solely pursuant to Section 906 of the   Sarbanes-Oxley A  ct   of 2002   and is not being filed as part of the   R  eport or as a separate disclosure document.  
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ intz-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ intz-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ intz-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ intz-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ intz-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ intz-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

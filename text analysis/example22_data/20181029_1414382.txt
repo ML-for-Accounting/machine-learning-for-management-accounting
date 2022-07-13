@@ -1,0 +1,1277 @@
+ington, D.C. 20549
+
+FORM 10-K
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended July 31, 2018
+
+Commission File No.  000-53048 
+
+CONCRETE LEVELING SYSTEMS, INC.
+
+(Exact Name of Issuer as specified in its charter)
+
+(330) 966-8120
+
+(Registrant's telephone number, including area code)
+
+Securities to be Registered Pursuant to Section 12(b) of the Act:  None 
+
+Securities to be Registered Pursuant to Section 12(g) of the Act:
+
+Common Stock, $0.001 per share par value
+
+Indicate by check mark if registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes [  ] No [X].
+
+Indicate by check mark if registrant is not required to file reports pursuant to Section 13 or 15(d) of the Exchange Act. Yes [  ] No [X].
+
+Indicate by check mark whether the registrant (1) has filed all Reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes: [X] No: [  ]
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or such shorter period that the registrant was required to submit and post such files. Yes [X] No [   ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (  229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.  Yes [X] No [   ]
+
+Indicate by check mark whether the registrant is a large accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of  large accelerated filer,   accelerated filer,  and  small reporting company  in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer [  ]
+
+Accelerated filer [  ]
+
+Non-accelerated filer [  ]
+
+(Do not check if a smaller reporting company)
+
+Smaller reporting company [X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act):  Yes [  ] No [X].
+
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter. The aggregate market value of the voting stock held by nonaffiliates computed by reference to the price at which the stock was sold as of January 31, 2018 was $26,031,200.
+
+As of September 30, 2018, registrant had outstanding 14,027,834 shares of common stock.
+
+FORM 10-K
+
+CONCRETE LEVELING SYSTEMS, INC.
+
+INDEX
+
+PART I
+
+Item 1. Description of Business
+
+4
+
+Item 1A. Risk Factors
+
+6
+
+Item 1B. Unresolved Staff Comments 
+  6 
+
+Item 2. Description of Property
+
+6
+
+Item 3. Legal Proceedings
+
+6
+
+Item 4. Mine Safety Disclosures
+
+6
+
+PART II
+
+Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+
+6
+
+Item 6. Selected Financial Data
+
+7
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+
+8
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+
+11
+
+Item 8. Financial Statements and Supplementary Data
+
+12
+
+Item 9. Disagreements with Accountants on Accounting and Financial Disclosures
+
+22
+
+Item 9A. Controls and Procedures
+
+22
+
+Item 9B. Other Information
+
+23
+
+PART III
+
+Item 10. Directors, Executive Officers and Corporate Governance
+
+24
+
+Item 11. Executive Compensation
+
+26
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+26
+
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+
+27 
+
+Item 14. Principal Accountant Fees and Services
+
+28
+
+Item 15. Exhibits
+
+28
+
+Signatures
+
+29
+
+2 
+
+For purposes of this report, unless otherwise indicated or the context otherwise requires, all references herein to  Concrete Leveling Systems ,  CLEV ,  the Company ,  we,   us,  and  our,  refer to Concrete Leveling Systems, Inc., a Nevada corporation.
+
+Cautionary Statement Concerning Forward-Looking Statements
+
+This report contains  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are subject to risks and uncertainties and are based on the beliefs and assumptions of management and information currently available to management. The use of words such as  believes ,  expects ,  anticipates ,  intends ,  plans ,  estimates ,  should ,  likely  or similar expressions, indicates a forward-looking statement.
+
+The identification in this report of factors that may affect our future performance and the accuracy of forward-looking statements is meant to be illustrative and by no means exhaustive. All forward-looking statements should be evaluated with the understanding of their inherent uncertainty.
+
+Factors that could cause our actual results to differ materially from those expressed or implied by forward-looking statements include, but are not limited to:
+
+Trends affecting the Company s financial condition, results of operations or future prospects;
+
+The Company s business and growth strategies;
+
+The Company s financing plans and forecasts;
+
+The factors that we expect to contribute to our success and the Company s ability to be successful in the future;
+
+The Company s business model and strategy for realizing positive results as sales increase;
+
+Competition, including the Company s ability to respond to such competition and its expectations regarding continued competition in the market in which the Company competes;
+
+Expenses;
+
+The Company s ability to meet its projected operating expenditures and the costs associated with development of new projects;
+
+The Company s ability to pay dividends or to pay any specific rate of dividends, if declared;
+
+The impact of new accounting pronouncements on its financial statements;
+
+That the Company s cash flows from operating activities will be sufficient to meet its projected operating expenditures for the next twelve months;
+
+The Company s market risk exposure and efforts to minimize risk;
+
+Development opportunities and its ability to successfully take advantage of such opportunities;
+
+Regulations, including anticipated taxes, tax credits or tax refunds expected;
+
+The outcome of various tax audits and assessments, including appeals thereof, timing of resolution of such audits, the Company s estimates as to the amount of taxes that will ultimately be owed and the impact of these audits on the Company s financial statements;
+
+The Company s overall outlook including all statements under  Management s Discussion and Analysis or Plan of Operation; 
+
+That estimates and assumptions made in the preparation of financial statements in conformity with US GAAP may differ from actual results; and
+
+Expectations, plans, beliefs, hopes or intentions regarding the future.
+
+The following discussion and analysis was prepared to supplement information contained in the accompanying consolidated financial statements and is intended to provide certain details regarding the Company s financial condition as of July 31, 2018 and the results of operations for the years ended July 31, 2018 and 2017.
+
+3 
+
+PART I
+
+ITEM 1. DESCRIPTION OF BUSINESS
+
+General Information about Our Company 
+
+Concrete Leveling Services, Inc. ( we ,  us ,  our  or the  Company ) was incorporated on August 28, 2007 in the State of Nevada. The Company's principal offices are located at 5046 East Boulevard Northwest, Canton, Ohio 44718. In Ohio, the Company does business under the trade name of CLS Fabricating, Inc. On March 24, 2017, we entered into an Equity Purchase Agreement, whereby we will acquire all of the outstanding common stock of Jericho Associates, Inc. ( Jericho ), a company operating in the gaming, hospitality and entertainment industries, in exchange for 7,151,416 shares of our common stock which were contingently issued to the shareholders of Jericho.  In July 2017, an additional 481,000 shares were issued to shareholders of Jericho under the same contingencies as the original shares.  The Equity Purchase Agreement provided that by September 24, 2017, if the management of Jericho does not identify, and close at least one entity or business opportunity for acquisition, in order to supplement the Company s current business operations, the shares issued as part of the agreement shall be returned to the Company and the transaction will be nullified.  On September 22, 2017, the Company and Jericho mutually agreed to extend the performance requirement until December 24, 2017.  On November 9, 2017, the Company and Jericho mutually agreed to extend the performance requirement until March 1, 2018.    
+
+On February   25,   2018  ,   Jericho identified   the   acquisition of 50%   interests   in   two   LLCs (the  LLCs ).   The   LLCs   have a Term Sheet   agreement to   develop a casino   and   hotel resort  ,   and provide certain gaming   equipment   on a shared profit basis  .   Notwithstanding   the   identification of the bus  i  ness opportunity   the   shares   issued   to   Jericho remain con  tingen  t upon   the   regulatory review, the finalization of closing documentation  ,   and   th  e   completion of financing arrangements for the project. 
+
+Also, upon the regulatory review, the finalization of closing documentation, and the completion of financing arrangements for the project, the Company s President will cancel all shares of common stock held (879,167 shares as of October 15, 2018), the Company s Chief Executive Officer will cancel all but 550,000 shares of her common stock held (2,951,667 shares as of October 15, 2018), and the Company s Secretary will cancel all but 45,000 shares of common stock held (185,000 shares as of October 15, 2018).
+
+On August 19, 2018, Jericho announced that it had entered into an agreement to acquire all of the issued and outstanding shares of VegasWinners, Inc. a newly formed Nevada corporation  (the  Jericho/VegasWinners Transaction ). Vegas Winners, Inc. was incorporated in the State of Nevada to engage in the business of  providing sports gaming information, analysis, advice and predictions. The acquisition by Jericho is contingent on several factors, including the making of a loan of $300,000 to VegasWinners, Inc., obtaining a minimum of $1,100,000 in funding by Jericho to provide to VegasWinners, Inc. and certain VegasWinners, Inc. performance criteria. On October 18,2018,Jericho advanced $232,500 of the $300,000 interim loan to VegasWinners, Inc.
+
+All of the issued and outstanding shares of VegasWinners, Inc will be acquired from, Wayne Allyn Root ( Root ), of Las Vegas, Nevada, the sole shareholder of VegasWinners, Inc., in exchange for 5 shares of Jericho.  Upon the closing of the Jericho/VegasWinners Transaction, the Company will issue to Root, 300,000 shares of the Company s common stock in exchange for Root s 5 common shares of Jericho.
+
+Root is the Chief Executive Officer and President of Vegas Winners, Inc. and has entered into a three year employment agreement with VegasWinners, Inc.
+
+In connection with acquisition of VegasWinners, Inc., Jericho has entered into a three year  Employment Agreement with Root, which provides that upon the closing of the Jericho VegasWinners Transaction, and the closing of the Registrants acquisition of Jericho, Root will become the Senior Vice President of Marketing, Media, Entertainment and Communications for Jericho.
+
+We have never declared bankruptcy, it has never been in receivership, and it has never been involved in any legal action or proceedings.
+
+4 
+
+Principal Services
+
+Once the transaction with Jericho finalizes, the Company will operate three business divisions, which will be operated simultaneously and consist of the following:
+
+The concrete leveling business will fabricate and market a concrete leveling service unit utilized in the concrete leveling industry. This unit secures to the back of a truck and consists of a mixing device to mix lime with water and a pumping device capable of pumping the mixture under pressure into pre-drilled holes in order to raise the level of any flat concrete surface.
+
+The gaming and hospitality business will focus on casino gaming, hospitality, entertainment and leisure time industries, and will pursue opportunities in the tribal and commercial casino gaming industries, both in California and Nevada.  The Company will also operate in the casino gaming technology industry, and is seeking opportunities to partner, joint venture, or acquire companies developing casino games that combine traditional casino games with the challenge of video games and the playability of social games, meaning games that pit the player s skill against the skill of another player as opposed to the casino itself.
+
+The business of  providing sports gaming information, analysis, advice and predictions to the gaming industry and the general public, will be operated by VegasWinners, Inc..
+
+Organization
+
+As of October 15, 2018 we are comprised of the parent company Concrete Leveling Systems, Inc. Upon the closing of the acquisition of Jericho, Jericho will become a wholly owned subsidiary of the Company. Upon the closing of the Jericho/VegasWinners Transaction, Vegas Winners, Inc. will become a wholly owned subsidiary of Jericho.
+
+Strategy
+
+We intend to be structured as a concrete leveling services provider, a casino gaming, hospitality, and entertainment company, and a  sports gaming information, analysis, advice and predictions  business.We expect to partner with third parties in the casino and hospitality industries, which will also allow us to further develop and utilize our concrete leveling division, if we are able to enter into agreements that will result in the construction of any  brick and mortar  structures.  Our VegasWinners  business will be operated as an independent part of our business. 
+
+Backlog
+
+At July 31, 2018, we had no backlog.
+
+Employees
+
+As of July 31, 2018, we have 0 full time employees and 0 part time employees.
+
+Proprietary Information
+
+We own no proprietary information.
+
+Government Regulation
+
+We are currently not subject to material governmental regulation. However, it is our policy to fully comply with all governmental regulation and regulatory authorities.  If we are able to engage in the casino gaming and hospitality industry, we may become subject to both federal and state regulation related to the operation of our business, which would require us to comply with additional government regulation.
+
+How to Obtain our SEC Filings
+
+Our Annual Report on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and any amendments to these reports, are available on our website at www.clsfabricating.com, as soon as reasonably practicable after we file these reports electronically with, or furnish them to, the Securities and Exchange Commission ( SEC ). Except as otherwise stated in these reports, the information contained on our website or available by hyperlink from our website is not incorporated into this Annual Report on Form 10-K or other documents we file with, or furnish to, the SEC. 
+
+Our investor relations department can be contacted at our principal executive office located at our principal office, 5046 E. Boulevard, NW, Canton, OH 44718. Our telephone number is (330)-966-8120.
+
+5 
+
+ITEM 1A. RISK FACTORS
+
+Not required for a Smaller Reporting Company.
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS
+
+None.
+
+ITEM 2. DESCRIPTION OF PROPERTY
+
+The Company operations are currently being conducted out of the Company office located at 5046 E. Boulevard, NW Canton, OH 44718, and consists of approximately 2,500 square feet.  The Company is provided with this commercial location rent free from the Company s President, Edward Barth.  The Company considers that the current principal office space arrangement is adequate and will reassess its needs based upon the future growth of the Company.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+None.
+
+ITEM 4. MINE SAFETY DISCLOSURES
+
+Not applicable.
+
+PART II
+
+ITEM 5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+Market Information
+
+Since June 25, 2010, our common stock has been quoted on the OTC Pink marketplace, under the trading symbol CLEV.  Prior to June 25, 2010, our common stock was not quoted on any stock exchange. The following table sets forth, for the calendar periods indicated, the range of the high and low prices reported for our common stock.  The quotations represent inter-dealer prices without retail mark-ups, mark-downs, or commissions, and may not necessarily represent actual transactions.  The quotations may be rounded for presentation.
+
+Holders
+
+As of September 30, 2018, there were 23 record holders of our common stock, and there were 14,027,834 shares of our common stock outstanding.
+
+6 
+
+The Securities Enforcement and Penny Stock Reform Act of 1990
+
+The Securities and Exchange Commission has also adopted rules that regulate broker-dealer practices in connection with transactions in penny stocks. Penny stocks are generally equity securities with a price of less than $5.00 (other than securities registered on certain national securities exchanges or quoted on the Nasdaq system, provided that current price and volume information with respect to transactions in such securities is provided by the exchange or system).
+
+A purchaser is purchasing penny stock which limits the ability to sell the stock. The Company s shares constitute penny stock under the Securities and Exchange Act. The shares will remain penny stocks for the foreseeable future. The classification of penny stock makes it more difficult for a broker-dealer to sell the stock into a secondary market, which makes it more difficult for a purchaser to liquidate his/her investment. Any broker-dealer engaged by the purchaser for the purpose of selling his or her shares in us will be subject to Rules 15g-1 through 15g-10 of the Securities and Exchange Act. Rather than creating a need to comply with those rules, some broker-dealers will refuse to attempt to sell penny stock.
+
+The penny stock rules require a broker-dealer, prior to a transaction in a penny stock not otherwise exempt from those rules, to deliver a standardized risk disclosure document prepared by the Commission, which:
+
+contains a description of the nature and level of risk in the market for penny stocks in both public offerings and secondary trading;
+
+contains a description of the broker's or dealer's duties to the customer and of the rights and remedies available to the customer with respect to a violation to such duties or other requirements of the Securities Act of 1934, as amended;
+
+contains a brief, clear, narrative description of a dealer market, including "bid" and "ask" prices for penny stocks and the significance of the spread between the bid and ask price;
+
+contains a toll-free telephone number for inquiries on disciplinary actions;
+
+defines significant terms in the disclosure document or in the conduct of trading penny stocks; and
+
+contains such other information and is in such form (including language, type, size and format) as the Securities and Exchange Commission shall require by rule or regulation;
+
+The broker-dealer also must provide, prior to effecting any transaction in a penny stock, to the customer:
+
+the bid and offer quotations for the penny stock;
+
+the compensation of the broker-dealer and its salesperson in the transaction;
+
+the number of shares to which such bid and ask prices apply, or other comparable information relating to the depth and liquidity of the market for such stock; and
+
+monthly account statements showing the market value of each penny stock held in the customer's account.
+
+In addition, the penny stock rules require that prior to a transaction in a penny stock not otherwise exempt from those rules; the broker-dealer must make a special written determination that the penny stock is a suitable investment for the purchaser and receive the purchaser's written acknowledgment of the receipt of a risk disclosure statement, a written agreement to transactions involving penny stocks, and a signed and dated copy of a written suitability statement. These disclosure requirements will have the effect of reducing the trading activity in the secondary market for our stock because it will be subject to these penny stock rules. Therefore, stockholders may have difficulty selling their securities.
+
+Dividend Policy
+
+We have not previously declared or paid any dividends on our common stock and do not anticipate declaring any dividends in the foreseeable future. The payment of dividends on our common stock is within the discretion of our board of directors. We intend to retain any earnings for use in our operations and the expansion of our business. Payment of dividends in the future will depend on our future earnings, future capital needs and our operating and financial condition, among other factors that our board of directors may deem relevant. We are not under any contractual restriction as to our present or future ability to pay dividends.
+
+Recent Sales of Unregistered Securities
+
+None.
+
+ITEM 6. SELECTED FINANCIAL DATA
+
+A smaller reporting company is not required to provide the information in this Item.
+
+7 
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Cautionary Statement Concerning Forward-Looking Statements
+
+This report contains  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995. These statements are subject to risks and uncertainties and are based on the beliefs and assumptions of management and information currently available to management. The use of words such as  believes ,  expects ,  anticipates ,  intends ,  plans ,  estimates ,  should ,  likely  or similar expressions, indicates a forward-looking statement.
+
+The identification in this report of factors that may affect our future performance and the accuracy of forward-looking statements is meant to be illustrative and by no means exhaustive. All forward-looking statements should be evaluated with the understanding of their inherent uncertainty.
+
+Factors that could cause our actual results to differ materially from those expressed or implied by forward-looking statements include, but are not limited to:
+
+Trends affecting the Company s financial condition, results of operations, or future prospects;
+
+The Company s business and growth strategies;
+
+The Company s financing plans and forecasts;
+
+The factors that we expect to contribute to our success and the Company s ability to be successful in the future;
+
+The Company s business model and strategy for realizing positive results as sales increase;
+
+Competition, including the Company s ability to respond to such competition and its expectations regarding continued competition in the market in which the Company competes;
+
+Expenses;
+
+The Company s ability to meet its projected operating expenditures and the costs associated with development of new projects;
+
+The Company s ability to pay dividends or to pay any specific rate of dividends, if declared;
+
+The impact of new accounting pronouncements on its financial statements;
+
+That the Company s cash flows from operating activities will be sufficient to meet its projected operating expenditures for the next twelve months;
+
+The Company s market risk exposure and efforts to minimize risk;
+
+Development opportunities and its ability to successfully take advantage of such opportunities;
+
+Regulations, including anticipated taxes, tax credits or tax refunds expected;
+
+The outcome of various tax audits and assessments, including appeals thereof, timing of resolution of such audits, the Company s estimates as to the amount of taxes that will ultimately be owed and the impact of these audits on the Company s financial statements;
+
+The Company s overall outlook including all statements under  Management s Discussion and Analysis or Plan of Operation; 
+
+That estimates and assumptions made in the preparation of financial statements in conformity with US GAAP may differ from actual results; and
+
+Expectations, plans, beliefs, hopes or intentions regarding the future.
+
+The following discussion of our financial condition and results of operations should be read in conjunction with our financial statements and the related notes included in this report.
+
+The following table provides selected financial data about us for the fiscal years ended July 31, 2018 and 2017. For detailed financial information, see the audited Financial Statements included in this report..
+
+8 
+
+Overview
+
+Concrete Leveling Systems, Inc. ( we ,  us ,  our  or the  Company ) was incorporated on August 28, 2007 in the State of Nevada. The Company's principal offices are located at 5046 East Boulevard Northwest, Canton, Ohio 44718. In Ohio, the Company does business under the trade name of CLS Fabricating, Inc. CLS has never declared bankruptcy, it has never been in receivership, and it has never been involved in any legal action or proceedings.
+
+On March 24, 2017, the Company entered into an agreement with Jericho Associates, Inc. ( Jericho ), a start-up company which plans to operate in the gaming, hospitality and entertainment industries.  The Company issued Jericho 7,151,416 shares of the Company s common stock, subject to a performance requirement, which provides that by March 1, 2018, if the management of Jericho does not identify at least one entity or business opportunity for acquisition, in order to supplement the Company s current business operations, the shares issued as part of the agreement shall be returned to the Company. In July 2017, an additional 481,000 shares were issued to shareholders of Jericho under the same contingencies as the original shares.
+
+On February 25, 2018, Jericho identified the acquisition of 50% interests in two LLCs (the  LLCs ).  The LLCs have a Term Sheet agreement to develop a casino and hotel resort, and provide certain gaming equipment on a shared profit basis. The project is in the process of regulatory review, finalization of closing documents, and completion of financing.  Notwithstanding the identification of the business opportunity, the shares issued to Jericho remain contingent upon the regulatory review, the finalization of closing documentation, and the completion of financing arrangements for the project. Also, upon the regulatory review, the finalization of closing documentation, and the completion of financing arrangements for the project, the Company s President will cancel all shares of common stock held (879,167 shares as of October 15, 2018), the Company s Chief Executive Officer will cancel all but 550,000 shares of common stock held (2,951,667 shares as of October 15, 2018), and the Company s Secretary will cancel all but 45,000 shares of common stock held (185,000 shares as of October 15, 2018).   Prior to the August 13, 2018 amendment to the agreement with Jericho, the Chief Executive Officer would cancel all but 523,000 shares of her common stock, subject to an 18-month non-dilution right in order to maintain an ownership percentage of 4.99%. The amendment provided that the Chief Executive Officer would retain an additional 27,000 shares of common stock and the non-dilution right was eliminated .
+
+Due to the Jericho acquisition, the Company will operate three business segments, which will be operated simultaneously and consist of the following:
+
+The concrete leveling division of the business will fabricate and market a concrete leveling service unit utilized in the concrete leveling industry. This unit secures to the back of a truck and consists of a mixing device to mix lime with water and a pumping device capable of pumping the mixture under pressure into pre-drilled holes in order to raise the level of any flat concrete surface.
+
+9 
+
+The gaming and hospitality division of the business will focus on casino gaming, hospitality, entertainment and leisure time industries, and will pursue opportunities in the tribal and commercial casino gaming industries, both in California and Nevada.  The Company will also operate in the casino gaming technology industry, and is seeking opportunities to partner, joint venture, or acquire companies developing casino games that combine traditional casino games with the challenge of video games and the playability of social games, meaning games that pit the player s skill against the skill of another player as opposed to the casino itself.
+
+The business of  providing sports gaming information, analysis, advice and predictions to the gaming industry and the general public, will be operated by VegasWinners, Inc..
+
+Results of Operations
+
+For the Years Ended July 31, 2018 and 2017
+
+The Company generated $2,840 in revenue for the year ended July 31, 2018, which compares to revenue of $743 for the year ended July 31, 2017.  Our revenues increased during the year ended July 31, 2018 due to increased sales of our concrete leveling equipment and parts.
+
+Cost of sales for the year ended July 31, 2018 was $1,821, which compares to cost of sales of $200 for the year ended July 31, 2017.  Our revenues increased during the year ended July 31, 2018, which resulted in a similar adjustment to our cost of sales during the period.
+
+Operating expenses, which consisted of selling, general and administrative expenses for the year ended July 31, 2018, were $37,549. This compares with operating expenses for the year ended July 31, 2017 of $41,004.   Our operating expenses decreased during the year ended July 31, 2018 due to a decrease in our professional fees.
+
+As a result of the foregoing, we had a net loss of $36,841 for the year ended July 31, 2018. This compares with a net loss of $39,878 for the year ended July 31, 2017.
+
+In its audited financial statements as of July 31, 2018, the Company was issued an opinion by its auditors that raised substantial doubt about the ability to continue as a going concern based on the Company's current financial position. Our ability to achieve and maintain profitability and positive cash flow is dependent upon our ability to successfully develop and market our products and our ability to generate revenues.
+
+Liquidity and Capital Resources
+
+As of July 31, 2018, we had cash or cash equivalents of $343. As of July 31, 2017, we had cash or cash equivalents of $0.
+
+We believe that with our existing cash flows, we do not have sufficient cash to meet our operating requirements for the next twelve months.  We believe that with the addition of our gaming and hospitality business, we will begin to generate increased revenue over the 2018 fiscal year.  However, if our revenue is not sufficient to allow us to meet our cash requirements during the next twelve months, the Company may need to raise additional funds through the sale of debt or equity securities.  We cannot guarantee that we will be successful in generating sufficient revenues or other funds in the future to cover these operating costs. Failure to generate sufficient revenues or additional financing when needed could cause us to go out of business.
+
+Net cash used in operating activities for the year ended July 31, 2018 was $69,669. This compares to net cash used in operating activities of $28,224 for the year ended July 31, 2017. This change is primarily due to decreases in our accounts payable and accrued expenses.
+
+Cash flows from investing activities were $0 for the year ended July 31, 2018 and $500 for the year ended July 31, 2017.  The change in cash flows from investing activities was primarily due to decreases in payments on notes receivable.  We do not anticipate significant cash outlays for investing activities over the next twelve months.
+
+Cash flows provided by financing activities were $70,032 for the year ended July 31, 2018 which compares to cash flows provided by financing activities of $27,600 for the year ended July 31, 2017.  The change in cash flows provided by financing activities is due to an increase in advances from stockholders during the year ended July 31, 2018.  We anticipate significant increases in cash flows provided by financing activities during the next 12 months, as we intend to raise capital through either debt or equity securities to fund both divisions of our business.
+
+10 
+
+As of July 31, 2018, our total assets were $23,954 and our total liabilities were $290,215.  As of July 31, 2017, our total assets were $26,766 and our total liabilities were $291,672.
+
+Critical Accounting Policies and Estimates
+
+We believe that the following critical policies affect our more significant judgments and estimates used in preparation of our financial statements.
+
+We disclose those accounting policies that we consider to be significant in determining the amounts to be utilized for communicating our consolidated financial position, results of operations and cash flows in the first note to our consolidated financial statements included elsewhere herein. Our discussion and analysis of our financial condition and results of operations are based on our consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of financial statements in conformity with these principles requires management to make estimates and assumptions that affect amounts reported in the financial statements and accompanying notes. Actual results are likely to differ from these estimates, but management does not believe such differences will materially affect our financial position or results of operations.
+
+Fair value estimates used in preparation of the financial statements are based upon certain market assumptions and pertinent information available to our management. The respective carrying value of certain on-balance-sheet financial instruments approximated their fair values. These financial instruments include cash, accounts receivable, accounts payable, accrued liabilities. Fair values were assumed to approximate carrying values for these financial instruments since they are short-term in nature and their carrying amounts approximate fair values or they are receivable or payable on demand.
+
+We believe that the following accounting policies are the most critical because they have the greatest impact on the presentation of our financial condition and results of operations.
+
+Use of Estimates
+
+The preparation of the financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the period.  Actual results could differ from those estimates.
+
+Going Concern
+
+The Company was formed on August 28, 2007 and was in the development stage through July 31, 2009. The year ended July 31, 2010 was the first year during which it was considered an operating company. The Company has sustained substantial operating losses since its inception. In addition, the Company has used substantial amounts of working capital in its operations. Further, at July 31, 2018, our liabilities exceed our assets by $266,261.
+
+The Company is of the opinion that funds received from sales of its service units and parts will provide a certain level of cash flow. Success will be dependent upon management s ability to obtain future financing and liquidity, and success of its future operations. These factors raise substantial doubt about the Company s ability to continue as a going concern. These financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+
+Off-Balance Sheet Arrangements
+
+The Company does not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on its financial condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources that is material to investors.
+
+Foreign Currency Transactions
+
+None.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+A smaller reporting company is not required to provide the information in this Item.
+
+11 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and
+
+Stockholders of Concrete Leveling Systems, Inc.
+
+Opinion on the Financial Statements
+
+We have audited the accompanying balance sheets of Concrete Leveling Systems, Inc. (the  Company ) as of July 31, 2018 and 2017, and the related statements of income, stockholders  equity (deficit) and cash flows for each of the years in the two-year period ended July 31, 2018, and the related notes (collectively referred to as the financial statements). In our opinion, the financial statements present fairly, in all material respects, the financial position of the Company as of July 31, 2018 and 2017, and the results of its operations and its cash flows for each of the years in the two-year period ended July 31, 2018, in conformity with accounting principles generally accepted in the United States of America.
+
+Basis for Opinion
+
+These financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on the Company s financial statements based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion.
+
+Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+
+Substantial Doubt about the Company s Ability to Continue as a Going Concern
+
+The accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed in Note 1 to the financial statements, the Company has incurred net losses since its inception. This factor, and the need for additional financing in order for the Company to meet its business plans raises substantial doubt about the Company s ability to continue as a going concern. Our opinion is not modified with respect to that matter.
+
+4806 West Gandy Boulevard     Tampa, Florida 33611     813.440.6380
+
+12 
+
+Concrete Leveling Systems, Inc.
+
+Balance Sheets
+
+July 31, 2018 and 2017
+
+See notes to financial statements and report of independent registered public accounting firm.
+
+13 
+
+Concrete Leveling Systems, Inc.
+
+Statements of Income
+
+For the Years Ended July 31, 2018 and 2017
+
+See notes to financial statements and report of independent registered public accounting firm.
+
+14 
+
+Concrete Leveling Systems, Inc.
+
+Statements of Stockholders  Equity (Deficit)
+
+For the Years Ended July 31, 2018 and 2017
+
+See notes to financial statements and report of independent registered public accounting firm.
+
+15 
+
+Concrete Leveling Systems, Inc.
+
+Statements of Cash Flows
+
+For the Years Ended July 31, 2018 and 2017
+
+Non-Cash Financing Activities
+
+During the year ended July 31, 2018, a stockholder forgave accounts payable of $35,486. This has been reflected as an increase in Additional Paid-In Capital.
+
+See notes to financial statements and report of independent registered public accounting firm.
+
+16 
+
+Concrete Leveling Systems, Inc.
+
+Notes to Financial Statements
+
+July 31, 2018 And 2017
+
+NOTE 1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+This summary of significant accounting policies of Concrete Leveling Systems, Inc. (hereinafter the  Company ), is presented to assist in understanding the financial statements.  The financial statements and notes are representations of the Company s management, which is responsible for their integrity and objectivity.  These accounting policies conform to   accounting principles generally accepted in the United States of America and have been consistently applied in the preparation of the financial statements.
+
+Nature of Operations 
+
+The Company manufactures for sale specialized equipment for use in the concrete leveling industry. The Company s product is sold primarily to end users.
+
+On March 24, 2017, the Company entered into an agreement with Jericho Associates, Inc. ( Jericho ), a start-up company which plans to operate in the gaming, hospitality and entertainment industries.  The Company issued Jericho 7,151,416 shares of the Company s common stock, subject to a performance requirement, which provides that by March 1, 2018, if the management of Jericho does not identify at least one entity or business opportunity for acquisition, in order to supplement the Company s current business operations, the shares issued as part of the agreement shall be returned to the Company. In July 2017, an additional 481,000 shares were issued to shareholders of Jericho under the same contingencies as the original shares.
+
+On February 25, 2018, Jericho identified the acquisition of 50% interests in two LLCs (the  LLCs ).  The LLCs have a Term Sheet agreement to develop a casino and hotel resort, and provide certain gaming equipment on a shared profit basis. The project is in the process of regulatory review, finalization of closing documents, and completion of financing.  Notwithstanding the identification of the business opportunity, the shares issued to Jericho remain contingent upon the regulatory review, the finalization of closing documentation, and the completion of financing arrangements for the project. On September 22, 2017, the Company and Jericho mutually agreed to extend the performance requirement until December 24, 2017. On November 9, 2017, the Company and Jericho mutually agreed to extend the performance requirement to March 1, 2018.
+
+Also, upon the regulatory review, the finalization of closing documentation, and the completion of financing arrangements for the project, the Company s President will cancel all shares of common stock held (879,167 shares as of July 31, 2018), the Company s Chief Executive Officer will cancel all but 523,000 shares of common stock held (2,951,667 shares as of July 31, 2018), subject to an 18-month non-dilution right in order to maintain an ownership percentage of 4.99%, and the Company s Secretary will cancel all but 45,000 shares of common stock held (185,000 shares as of July 31, 2018). On August 13, 2018, the agreement with Jericho was amended to provide that the Chief Executive Officer would retain an additional 27,000 shares of common stock (total of 550,000) on the closing and that the Anti-dilution Right was eliminated.
+
+Under Accounting Standards Codification ( ASC ) 718-10-25-20,  Compensation   Stock Compensation , there is no accounting related to the potential acquisition other than the issuance of the contingent shares at par value because the performance measure is the acquisition of a company. The achievement of this measure is not probable until the business is acquired.
+
+Revenue Recognition 
+
+The Company recognizes revenue when product is shipped or picked up by the customer.
+
+17 
+
+Accounts Receivable 
+
+The Company grants credit to its customers in the ordinary course of business. The Company provides for an allowance for uncollectable receivables based on prior experience. The allowance was $0 at July 31, 2018 and 2017.
+
+Advertising and Marketing 
+
+Advertising and marketing costs are charged to operations when incurred. Advertising costs were $-0- for the years ended July 31, 2018, and 2017.
+
+Inventories 
+
+Inventories, which consist of parts and work in progress, are recorded at the lower of first-in first-out cost or net realizable value (estimated selling price less costs of completion, disposal and transportation).
+
+Use of Estimates 
+
+The preparation of the financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the period.  Actual results could differ from those estimates.
+
+Property, Plant, and Equipment 
+
+Property, plant, and equipment are recorded at cost.  Depreciation is provided for by using the straight-      line and accelerated methods over the estimated useful lives of the respective assets.
+
+Maintenance and repairs are charged to expense as incurred.  Major additions and betterments are capitalized.  When items of property and equipment are sold or retired, the related cost and accumulated depreciation are removed from the accounts and any resulting gain or loss is included in the determination of net income.
+
+Going Concern 
+
+The Company has sustained substantial operating losses since its inception. In addition, the Company has used substantial amounts of working capital in its operations. Further, at July 31, 2018, current liabilities exceed current assets by $266,261, and total liabilities exceed total assets by $266,261.
+
+Success will be dependent upon management s ability to obtain future financing and liquidity, and success of its future operations. These factors raise substantial doubt about the Company s ability to continue as a going concern. These financial statements do not include any adjustments that might result from the outcome of this uncertainty.
+
+NOTE 2 - FAIR VALUE OF FINANCIAL INSTRUMENTS 
+
+The carrying amount of cash, accounts receivable and liabilities approximates the fair value reported on the balance sheet.
+
+NOTE 3   NEW ACCOUNTING PRONOUNCEMENTS 
+
+In May 2014, ASU No. 2014-09,  Revenue from Contracts with Customers  ( ASU 2014-09 ) was issued. The amendments in ASU 2014-09 affect any entity that either enters into contracts with customers to transfer goods or services or enters into contracts for the transfer of nonfinancial assets unless contracts are within the scope of other standards (e.g., insurance contracts or lease contracts). This ASU will supersede the revenue recognition requirements in ASC 605,  Revenue Recognition , and most industry-specific guidance.
+
+18 
+
+The core principle of the guidance is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. To achieve that core principle, an entity should apply the following steps:
+
+Step 1: Identify the contract(s) with a customer.
+
+Step 2: Identify the performance obligations in the contract.
+
+Step 3: Determine the transaction price.
+
+Step 4: Allocate the transaction price to the performance obligations in the contract.
+
+Step 5: Recognize revenue when (or as) the entity satisfies a performance obligation.
+
+ASU 2014-09 is effective for annual reporting periods beginning after December 15, 2017 including interim periods within that reporting period. 
+
+The Company will adopt this new standard effective for the year ending July 31, 2019, including interim periods within that reporting period, and shall disclose qualitative and quantitative information on all of the following in regard to our contract with a customer.
+
+a.
+
+Revenue recognized from contracts with customers.
+
+b.
+
+Any impairment losses recognized on any receivables or contract assets arising from the firm s contracts with customers.
+
+c.
+
+The opening and closing balances of receivables, contract assets, and contract liabilities from contracts with customers.
+
+d.
+
+Revenue recognized in the reporting period that was included in the contract liability balance at the beginning of the period.
+
+e.
+
+Revenue recognized in the reporting period from performance obligations satisfied (or partially satisfied) in previous periods.
+
+f.
+
+Significant changes in the contract asset or liability balances during the reporting period.
+
+g.
+
+Performance obligation in contracts with customers
+
+The Company believes the effect on the current accounting policies will be immaterial as the current accounting for revenue from our customer contracts does not materially differ from the new standard.
+
+NOTE 4   NOTES RECEIVABLE 
+
+On January 31, 2018, the balance of the note and interest receivable totaling $2,857 were written off as uncollectable.
+
+On July 31, 2017, the balance of the note receivable was $26,447, the interest rate was 6.00% and was due in monthly payments through April 2026.
+
+Management had established an estimated allowance for loan losses and uncollectable interest income based on its experience with specific debtors, including payment history, condition and location of collateral, and estimated cost of resale. The allowances totaled $25,069 at July 31, 2017.
+
+NOTE 5 - INCOME TAXES 
+
+Deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases. Additionally, the recognition of future tax benefits, such as net operating loss carry forwards, is required to the extent that realization of such benefits is more likely than not. Deferred tax assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which the assets and liabilities are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized in income tax expense in the period that includes the enactment date.
+
+19 
+
+In the event the future tax consequences of differences between the financial reporting bases and the tax bases of the Company s assets and liabilities result in deferred tax assets, an evaluation of the probability of being able to realize the future benefits indicated by such asset is required. A valuation allowance is provided for the portion of the deferred tax asset when it is more likely than not that some or all of the deferred tax asset will not be realized. In assessing the realizability of the deferred tax assets, management considers the scheduled reversals of deferred tax liabilities, projected future taxable income, and tax planning strategies.
+
+As of July 31, 2018, the Company had net operating loss carry forwards of approximately $555,239 that may be available to reduce future years  taxable income in varying amounts through 2038.
+
+The Company s income tax returns are subject to examination by tax authorities. Generally, the statute of limitations related to the Company s federal and state income tax return is three years from the date of filing. The state impact of any federal changes of prior years remains subject to examination for a period up to five years after formal notification to the states.
+
+Management has evaluated tax positions in accordance with FASB ASC 740,  Income Taxes , and has not identified any significant tax positions, other than those disclosed.
+
+Income taxes on continuing operations include the following:
+
+A reconciliation of the effective tax rate with the statutory U.S. income tax rate is as follows:
+
+The components of and changes in the net deferred taxes were as follows:
+
+Deferred tax assets:
+
+20 
+
+Tax periods ended July 31, 2014 through 2018 are subject to examination by major taxing authorities.
+
+NOTE 6 - RELATED PARTIES 
+
+The Company uses warehouse and office space belonging to one of its stockholders. The stockholder does not charge the Company rent or other fees for the use of these facilities.
+
+On July 31, 2009, the Company entered into a distribution agreement with another company owned by one of the Company s stockholders. The agreement gives the related party exclusive distribution rights for the Company s products. Commissions are earned when the sale of a leveling unit is completed. Commission expense totaled $-0- for the years ended July 31, 2018 and 2017. The amount payable to the related party was $0 and $35,486 at July 31, 2018 and 2017.
+
+Four stockholders of the Company loaned a total of $62,750 to the Company at various times during the years ended July 31, 2010 through 2012. The loans carry interest rates from 8.00% to 12.00% and are due on demand. The balances on the loans are $62,750 at both July 31, 2018 and 2017. Effective July 31, 2013, further interest accrual was waived by the noteholders.
+
+One of the Company s stockholders and a company owned by the stockholder advanced a total of $119,666 to the Company at various times between November 2012 and July 2018. The balances on the advances are $119,666 and $117,000 at July 31, 2018 and 2017, respectively. The advances carry no interest.
+
+Another stockholder of the Company paid invoices of the Company totaling $67,366 during the year ended July 31, 2018. This amount is still owed to the stockholder at July 31, 2018.
+
+NOTE 7 - SUBSEQUENT EVENTS 
+
+The Company has evaluated all subsequent events through October 25, 2018, the date the financial statements were available to be issued.
+
+On August 19, 2018, Jericho announced that it had entered into an agreement to acquire all of the issued and outstanding shares of VegasWinners, Inc. a newly formed Nevada corporation (the  Jericho/VegasWinners Transaction ). VegasWinners, Inc. was incorporated in the State of Nevada to engage in the business of providing sports gaming information, analysis, advice and predictions. The acquisition by Jericho is contingent on several factors, including the making of a loan of $300,000 to VegasWinners, Inc., obtaining a minimum of $1,100,000 in funding by Jericho to provide to VegasWinners, Inc. and certain VegasWinners, Inc. performance criteria. On October 18, 2018, Jericho advanced $232,500 of the $300,000 interim loan to VegasWinners, Inc.
+
+All of the issued and outstanding shares of VegasWinners, Inc will be acquired from, Wayne Allyn Root ( Root ), of Las Vegas, Nevada, the sole shareholder of VegasWinners, Inc., in exchange for 5 shares of Jericho.  Upon the closing of the Jericho/VegasWinners Transaction, the Company will issue to Root, 300,000 shares of the Company s common stock in exchange for Root s 5 common shares of Jericho.
+
+Root is the Chief Executive Officer and President of Vegas Winners, Inc. and has entered into a three year employment agreement with VegasWinners, Inc.
+
+In connection with acquisition of VegasWinners, Inc., Jericho has entered into a three year Employment Agreement with Root, which provides that upon the closing of the Jericho VegasWinners Transaction, and the closing of the Registrants acquisition of Jericho, Root will become the Senior Vice President of Marketing, Media, Entertainment and Communications for Jericho.
+
+21 
+
+ITEM 9. DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURES
+
+We did not have any disagreements on accounting and financial disclosures with our present accounting firm during the reporting period.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+Disclosure Controls and Procedures
+
+We maintain  disclosure controls and procedures , as that term is defined in Rule 13a-15(e), promulgated by the Securities and Exchange Commission pursuant to the Securities Exchange Act of 1934, as amended.  Disclosure controls and procedures include controls and procedures designed to ensure that information required to be disclosed in our company s reports filed under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and our principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+
+As required by paragraph (b) of Rules 13a-15 under the Securities Exchange Act of 1934, our management, with the participation of our principal executive officer and our principal financial officer, evaluated our company s disclosure controls and procedures as of the end of the period covered by this quarterly report on Form 10-K. Based on this evaluation, our management concluded that as of the end of the period covered by this quarterly report on Form 10-K, our disclosure controls and procedures were not effective.
+
+Management Report on Internal Control Over Financial Reporting
+
+Management is responsible for establishing and maintaining adequate internal control over the Company's financial reporting.  In order to evaluate the effectiveness of internal control over financial reporting, as required by Section 404 of the Sarbanes-Oxley Act of 2002.  Our management, with the participation of our principal executive officer and principal financial officer have conducted an assessment, including testing, using the criteria in Internal Control   Integrated Framework, issued by the Committee of Sponsoring Organizations of the Treadway Commission (" COSO ") (2013).  Our system of internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.  Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.  This assessment included review of the documentation of controls, evaluation of the design effectiveness of controls, testing of the operating effectiveness of controls and a conclusion on this evaluation.  Based on this evaluation, management concluded that our internal control over financial reporting was not effective as of July 31, 2018.  The ineffectiveness of the Company's internal control over financial reporting was due to the following material weaknesses, which are indicative of many small companies with small staff:
+
+(i) 
+ 
+ inadequate segregation of duties consistent with control objectives;
+
+(ii) 
+ 
+ lack of a code of ethics;
+
+(iii) 
+ 
+ lack of a whistleblower policy;
+
+(iv) 
+ 
+ lack of an independent board of directors or board committees related to financial reporting; and
+
+(iv) 
+ 
+ lack of multiple levels of supervision and review.
+
+We believe that the weaknesses identified above have not had any material effect on our financial results. While not being legally obligated to have an audit committee, it is our management s view that such a committee, including an independent financial expert member, is an utmost important entity level control over the Company s financial statements. Currently, the board of directors acts in the capacity of the audit committee. However, we are currently reviewing our disclosure controls and procedures related to these material weaknesses and expect to implement changes in the 2017 and 2018 fiscal years, including identifying specific areas within our governance, accounting and financial reporting processes to add adequate resources to potentially mitigate these material weaknesses.
+
+Our management will continue to monitor and evaluate the effectiveness of our internal controls and procedures and our internal controls over financial reporting on an ongoing basis and is committed to taking further action and implementing additional enhancements or improvements, as necessary and as funds allow.
+
+22 
+
+Because of its inherent limitations, internal controls over financial reporting may not prevent or detect misstatements.  Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.  All internal control systems, no matter how well designed, have inherent limitations.  Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation.
+
+Management's Remediation Plan
+
+The weaknesses and their related risks are not uncommon in a company of our size because of the limitations in the size and number of staff. Due to our size and nature, segregation of all conflicting duties has not always been possible and may not be economically feasible.
+
+However, we plan to take steps to enhance and improve the design of our internal control over financial reporting.  During the period covered by this quarterly report on Form 10-K, we have not been able to remediate the material weaknesses identified above.  To remediate such weaknesses, we plan to implement the following changes in the current fiscal year as resources allow:
+
+(i) 
+ 
+ appoint additional qualified personnel to address inadequate segregation of duties and implement modifications to our financial controls to address such inadequacies; and
+
+(ii) 
+ 
+ adopt a written whistleblower policy and code of ethics; and
+
+(iii) 
+ 
+ appoint an independent board of directors, including board committees related to financial controls and reporting.
+
+The remediation efforts set out herein will be implemented in the 2018 and 2019 fiscal years.  Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues, if any, within our company have been detected.  These inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple error or mistake.
+
+Management believes that despite our material weaknesses set forth above, our financial statements for the fiscal year ended July 31, 2018 are fairly stated, in all material respects, in accordance with U.S. GAAP.
+
+Changes in Internal Control Over Financial Reporting
+
+There were no changes to our internal control over financial reporting during the fiscal year ended July 31, 2018.
+
+Attestation Report of the Registered Public Accounting Firm.
+
+This annual report does not include an attestation report of our independent registered public accounting firm regarding internal control over financial reporting. Management's report was not subject to attestation by our independent registered public accounting firm pursuant to temporary rules of the SEC that permit us to provide only management's report in this annual report on Form 10-K.
+
+ITEM 9B. OTHER INFORMATION
+
+Nothing to report.
+
+23 
+
+PART III
+
+ITEM 10. DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE
+
+Set forth below are the names of the directors and officers of the Company, all positions and offices with the Company held, the period during which they have served as such, and the business experience during at least the last five years:
+
+Name
+
+Age
+
+Positions and Offices Held
+
+Suzanne I. Barth
+
+57
+
+Director, Chief Executive Officer, Chief Financial Officer
+
+Edward A. Barth
+
+60
+
+Director and President
+
+Eugene H. Swearengin
+
+64
+
+Director and Secretary
+
+Ronald J. Tassinari *
+
+74
+
+Director
+
+Wayne Allyn Root **
+
+57
+
+* 
+ 
+ Mr. Tassinari and Root will become a director and Chief Executive Officer upon the closing of the acquisition Of Jericho Associates, Inc.
+
+** 
+ 
+  Mr. Root is the Chief Executive Officer of VegasWinners, Inc. and will become the   Senior Vice President of Marketing, Media, Entertainment and Communications of Jericho upon the closing of the VegasWinners/Jericho Transaction 
+
+The above listed officers and directors are not involved, and have not been involved in the past five years, in any legal proceedings that are material to an evaluation of their ability or integrity.
+
+DESCRIPTION
+
+Background Information about Our Officers and Directors 
+
+Suzanne I. Barth , age 57, is the Founder, CEO, CFO and Director of CLS. Mrs. Barth received an AAS degree in Business Management from Stark Technical College in 1983. Over the past 27 years, Mrs. Barth has been involved as an office manager for various businesses in the construction industry.
+
+Edward A. Barth , age 60 is the President. Mr. Barth received a Bachelor of Science degree in civil engineering technology from Youngstown State University in 1984. He has been employed by the City of North Canton, Ohio, Michael Baker Engineering Corporation and in 1990 returned to the family construction business where he served as President of Barth Construction Co., Inc. In August 2001 Mr. Barth changed the name of the corporation to Stark Concrete Leveling, Inc. and presides as President of the leveling and concrete rehabilitation business. Mr. Barth continues to be employed by Stark Concrete Leveling, Inc. He resides in Canton, Ohio.
+
+Eugene H. Swearengin , age 64, is Secretary and Director of the Corporation. Mr. Swearengin started his career as an apprentice carpenter. He successfully obtained his journeyman's card in 1977. In 1978 he purchased a 50% interest in Callahan Door Sales, Inc. Mr. Swearengin has managed a successful career in the garage and entrance door business for the past 38 years. He resides in North Canton, Ohio.
+
+Ronald J. Tassinari , age 74, has been engaged in the gaming and hospitality industry for over thirty years.  He has served as Chairman and Chief Executive Officer of a publicly traded company ( Company ) that operated in the Tribal casino, and commercial casino related industries.
+
+Specific projects developed by Mr. Tassinari and his associates include Table Mountain Casino, located in Friant, (adjacent to Fresno) California.  That Company, developed, expanded (three times), managed (1989   2000) the casino property and upgraded it from a 1600 Bingo hall into a major casino destination. Even today, that casino maintains a significant presence in Central California. It consists of a 250,000 square foot casino, 2,000 gaming machines, 50 table games, showroom, an 850-seat bingo hall, multiple restaurants, an Asian-game card room, and a Johnny Miller s Signature 18 hole golf course, Eagle Springs; having gross revenues over $300m.
+
+24 
+
+Under Mr. Tassinari s leadership, that Company also developed an expansion of a mid size Tribal casino in northern California and provided casino gaming consulting services to that Tribe for three and a half years. Concurrently with those two projects, the Company provided an array of casino consulting services to many California Tribal casinos. Those services consisted of, but were not limited to:  implementation of internal control systems, set up of casino security and surveillance and training of security personnel, casino floor planning, layout, and training of dealers and floor personnel, and also casino cage set up and training of casino cashiers and accounting personnel.
+
+Mr. Tassinari also led the purchase of Royal Reservations, Inc. ( Royal ) a company that established a dominant market presence as a successful Las Vegas inbound tourist service provider.  Unique to its services was the ability to manage the reservation and visitor amenity needs of incoming Las Vegas tourists. This was accomplished through that company s developed relationships with Las Vegas hotels and casinos, tour operators, ground transportation operators and other service providers.  The influence and effectiveness of Royal s 24-hour visitor center was a landmark business model in Las Vegas, as many gaming and hospitality properties were encouraged to bid against each other by offering better room rates,  special services, and unique amenities as incentives to Royal to steer targeted customers to their specific properties.
+
+Presently, Mr. Tassinari is the CEO of Jericho Associates, Inc .and is conducting due diligence on a number of Tribal casino and commercial gaming projects. Jericho is also seeking companies developing new gaming technology and innovations.
+
+Mr. Tassinari' prior experience includes over a decade of service with the Wall Street firms of Merrill Lynch, Pierce, Fenner   Smith, and A G Becker Securities.
+
+Wayne Allyn Root , age 57, television sports handicapping career began in New York City on WNBC radio in New York City (now WFAN) in the early 1980s. He moved onto NBC "Source Radio Network" syndicated around the country in over 100 markets as a sports talk host. In the 2000s. He hosted   Wayne Allyn Root's Winning Edge  , a television show which promoted Mr. Root's sports handicapping business. Mr. Root is the author of several books, including:  The Zen of Gambling ,  Betting to Win on Sports  and  The King of Vegas' Guide to Gambling .
+
+Mr. Root is also political commentator, media personality, television and radio producer and talk show host. He is a politically conservative author, television producer and newspaper columnist. He is currently a talk radio host, syndicated nationally by USA     Radio Network, and hosts a television program,  The Wayne Allyn Root Show , which is syndicated by Newsmax TV.  From 2016 to the present, he has been a National Opinion Columnist with Las Vegas Review Journal. In 2008, Mr. Root was the nominee for Vice President of the United States for the Libertarian Party.
+
+Mr. Root will devote a sufficient amount of his time to the businesses of the Registrant and VegasWinners, Inc.
+
+Family Relationships
+
+Suzanne Barth and Edward Barth are spouses. No director or executive officer has been a director or executive officer of any business which has filed a bankruptcy petition or had a bankruptcy petition filed against it. No director or executive officer has been convicted of a criminal offense within the past five years or is the subject of a pending criminal proceeding. No director or executive officer has been the subject of any order, judgment or decree of any court permanently or temporarily enjoining, barring, suspending or otherwise limiting his involvement in any type of business, securities or banking activities. No director or officer has been found by a court to have violated a federal or state securities or commodities law.
+
+Committees of the Board of Directors
+
+There are no committees of the Board of Directors.
+
+Section 16(a) Beneficial Ownership Reporting Compliance
+
+Section 16(a) of the Securities Exchange Act of 1934 (the  34 Act ) requires our officers and directors and persons owning more than ten percent of the Common Stock, to file initial reports of ownership and changes in ownership with the Securities and Exchange Commission ( SEC ). Additionally, Item 405 of Regulation S-K under the 34 Act requires us to identify in its Form 10-K and proxy statement those individuals for whom one of the above referenced reports was not filed on a timely basis during the most recent year or prior years. We have nothing to report in this regard.
+
+25 
+
+Code of Ethics
+
+Our board of directors has not adopted a code of ethics but plans to do so in the future.
+
+Options/SAR Grants and Fiscal Year End Option Exercises and Values
+
+We have not had a stock option plan or other similar incentive compensation plan for officers, directors and employees, and no stock options, other than as is discussed in this Annual Report. 
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+None of the directors of the Company receive any salary for services rendered as a director of the Company.
+
+The Corporation does not have written employment agreements or consulting agreements with any of the Company's officers. All of the Company's officers work on a part-time basis for the Company without compensation. 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+The following sets forth the number of shares of our $0.001 par value common stock beneficially owned by (i) each person who, as of September 30, 2018, was known by us to own beneficially more than five percent (5%) of its common stock; (ii) our individual Directors and (iii) our Officers and Directors as a group. A total of 14,027,834 common shares were issued and outstanding as of September 30, 2018.  The address for all officers and directors is 5046 E. Boulevard, NW, Canton, OH 44718.
+
+26 
+
+* 
+ 
+ Assumes there is a Closing of the Equity Purchase Agreement between the Company and Jericho Associates, Inc.
+
+(1) 
+ 
+ All ownership is beneficial and of record, unless indicated otherwise.
+
+(2) 
+ 
+ The Beneficial owner has sole voting and investment power with respect to the shares shown.
+
+(4) 
+ 
+ Jericho Partners, LLC is a single member limited liability company controlled by Robert Tassinari
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+The Company uses warehouse and office space belonging to one of its stockholders. The stockholder does not charge the Company rent or other fees for the use of these facilities.
+
+On July 31, 2009 the Company entered into a distribution agreement with another company owned by one of the Company s stockholders. The agreement gives the related party exclusive distribution rights for the Company s products. Commission expense totaled $-0- for the years ended July 31, 2018 and 2017. The amount payable to the related party was $0 and $35,486 at July 31, 2018 and 2017.
+
+Four stockholders of the Company loaned a total of $62,750 to the Company at various times during the years ended July 31, 2010 through 2012. The loans carry interest rates from 8.00% to 12.00% and are due on demand. The balances on the loans are $62,750 at both July 31, 2018 and 2017. Effective July 31, 2013, further interest accrual was waived by the noteholders.
+
+27 
+
+One of the Company s stockholders and a company owned by the stockholder advanced a total of $119,666 to the Company at various times between November 2012 and July 2018. The balances on the advances are $119,666 and $117,000 at July 31, 2018 and 2017, respectively. The advances carry no interest.
+
+From June 5, 2017 through June 28, 2018, Jericho made loans to the Company totaling $67,366. The loans are repayable on demand.
+
+There are not currently any conflicts of interest by or among its current officers, directors, key employees or advisors. The Company has not yet formulated a policy for handling conflicts of interest; however, it intends to do so upon completion of this offering and, in any event, prior to hiring any additional employees.
+
+ITEM 14: PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+Our independent auditor, Accell Audit   Compliance, PA, billed an aggregate of $25,000 the year ended July 31, 2018 and for professional services rendered for the audit of the Company's annual financial statements and review of the financial statements included in our quarterly reports.  Our independent auditor, Accell Audit   Compliance, PA, billed an aggregate of $19,000 the year ended July 31, 2017 and for professional services rendered for the audit of the Company's annual financial statements and review of the financial statements included in our quarterly reports. 
+
+We do not have an audit committee and as a result our board of directors performs the duties of an audit committee. Our board of directors evaluates the scope and cost of the engagement of an auditor before the auditor renders audit and non-audit services.
+
+ITEM 15. EXHIBITS
+
+EXHIBITS. The following exhibits required by Item 601 to be filed herewith are incorporated by reference to previously filed documents:
+
+Exhibit
+
+Number
+
+Description
+
+31.1
+
+Certification of Chief Executive Officer pursuant to Section 302
+
+31.2
+
+Certification of Chief Financial Officer pursuant to Section 302
+
+32.1
+
+Certification of Chief Executive Officer pursuant to Section 906
+
+32.2
+
+Certification of Chief Financial Officer pursuant to Section 906
+
+101.INS*
+
+XBRL Instance Document
+
+101.SCH*
+
+XBRL Taxonomy Schema
+
+101.CAL*
+
+XBRL Taxonomy Calculation Linkbase
+
+101.DEF*
+
+XBRL Taxonomy Definition Linkbase
+
+101.LAB*
+
+XBRL Taxonomy Label Linkbase
+
+101.PRE*
+
+Linkbase XBRL Taxonomy Presentation Linkbase
+
+*
+
+Furnished herewith. XBRL (eXtensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections.
+
+28 
+
+SIGNATURES
+
+Pursuant to the requirements of section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+Concrete Leveling Systems, Inc.
+
+By: /s/ Suzanne I. Barth
+
+Suzanne I. Barth, CEO
+
+By: /s/ Edward A. Barth
+
+Edward A. Barth, President
+
+Date: October 29, 2018
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following person on behalf of the registrant and in the capacity and on the date indicated.
+
+Concrete Leveling Systems, Inc.
+
+By: /s/ Suzanne I. Barth
+
+Suzanne I. Barth,
+
+its Principal Executive Officer,
+
+its Principal Financial Officer, and
+
+its Principal Accounting Officer and Director
+
+By: /s/ Edward A. Barth
+
+Edward A. Barth, its President
+
+By: /s/ Eugene H. Swearengin
+
+Eugene H. Swearengin, Director
+
+Date: October 29, 2018
+
+29 
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit 31.1
+
+CERTIFICATION PURSUANT TO SECTION 302
+
+OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Suzanne I. Barth, certify that:
+
+1)   I have reviewed this annual report of Concrete Leveling Systems, Inc. on Form 10-K;
+
+2)   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+
+3)   Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report;
+
+4)   I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))  for the Registrant and have;
+
+(a) 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure the material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+
+(b) 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
+
+(c) 
+ 
+ Evaluated the effectiveness of the Registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation.
+
+(d) 
+ 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
+
+5)   I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant's auditors and the audit committee of the Registrant's board of directors (or persons performing the equivalent functions):
+
+(a) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant's ability to record, process summarize and report financial information; and
+
+(b) 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant's internal controls over financial reporting.
+
+Date: October 29, 2018
+
+/s/ Suzanne I. Barth
+
+Suzanne I. Barth
+
+Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+Exhibit 31.2
+
+CERTIFICATION PURSUANT TO SECTION 302
+
+OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Suzanne I. Barth, certify that:
+
+1)   I have reviewed this annual report of Concrete Leveling Systems, Inc. on Form 10-K;
+
+2)   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+
+3)   Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report;
+
+4)   I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))  for the Registrant and have;
+
+(a) 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure the material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+
+(b) 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
+
+(c) 
+ 
+ Evaluated the effectiveness of the Registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation.
+
+(d) 
+ 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
+
+5)   I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant's auditors and the audit committee of the Registrant's board of directors (or persons performing the equivalent functions):
+
+(a) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant's ability to record, process summarize and report financial information; and
+
+(b) 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant's internal controls over financial reporting.
+
+Date: October 29, 2018
+
+/s/ Suzanne I. Barth
+
+Suzanne I. Barth
+
+Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO
+
+SECTION 906 OF THE SARBANES-OXLEY ACT 0F 2002
+
+In connection with the Annual Report of Concrete Leveling Systems, Inc. (the Company") on Form 10-K for the period ended herein as filed with the Securities and Exchange Commission (the "Report"), I, Suzanne I. Barth, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1) 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+(2) 
+ 
+ The information contained in the Report fully presents, in all material respects, the financial condition and results of operations or the Company.
+
+Concrete Levling Systems, Inc.
+
+Date: October 29, 2018
+
+By:   
+
+/s/ Suzanne I. Barth
+
+Suzanne I. Barth
+
+Chief Executive Officer
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO
+
+SECTION 906 OF THE SARBANES-OXLEY ACT 0F 2002
+
+In connection with the Annual Report of Concrete Levling Systems, Inc. (the Company") on Form 10-K for the period ended herein as filed with the Securities and Exchange Commission (the "Report"), I, Suzanne I. Barth, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss.906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1) 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+(2) 
+ 
+ The information contained in the Report fully presents, in all material respects, the financial condition and results of operations or the Company.
+
+Concrete Leveling Systems, Inc.
+
+Date: October 29, 2018
+
+By:   
+
+/s/ Suzanne I. Barth
+
+Suzanne I. Barth
+
+Chief Financial Officer
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ clev-20180731.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ clev-20180731.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ clev-20180731_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ clev-20180731_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ clev-20180731_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ clev-20180731_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

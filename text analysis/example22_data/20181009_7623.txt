@@ -1,0 +1,675 @@
+tm 
+
+UNITED STATES  
+
+  SECURITIES AND EXCHANGE COMMISSION  
+
+  WASHINGTON, D.C. 20549  
+
+FORM 10-Q  
+
+(Mark One) 
+
+or 
+
+[ ] 
+
+Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+			For the transition period from ______ to ______ 
+
+Commission File No. 0-5131 
+
+ART S-WAY MANUFACTURING CO., INC.  
+
+ (Exact name of registrant as specified in its charter) 
+
+DELAWARE  
+
+42-0920725  
+
+(State or other jurisdiction of incorporation or 
+
+			 organization) 
+
+(I.R.S. Employer Identification No.) 
+
+(712) 864-3131  
+
+ (Registrant s telephone number, including area code) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+ Yes [x]   No [ ] 
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   
+
+ Yes [x]   No [ ] 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer [ ] 
+			 Accelerated filer [ ] 
+
+Non-accelerated filer [x] 
+			 Smaller reporting company [x] 
+
+Emerging growth company [ ] 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   
+
+ [ ] 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   
+
+ Yes [ ]   No [x] 
+
+Number of common shares outstanding as of October 2, 2018: 4,207,144 
+
+Art s-Way Manufacturing Co., Inc.  
+
+Index  
+
+PART I   FINANCIAL INFORMATION  
+
+Item 1. Financial Statements  
+
+ART S-WAY MANUFACTURING CO., INC.  
+
+Condensed Consolidated Balance Sheets 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+1
+
+ART S-WAY MANUFACTURING CO., INC.  
+
+Condensed Consolidated Statements of Operations 
+
+(Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+2
+
+ART S-WAY MANUFACTURING CO., INC.  
+
+Condensed Consolidated Statements of Comprehensive Income (Loss) 
+
+(Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+3
+
+ART S-WAY MANUFACTURING CO., INC.  
+
+Condensed Consolidated Statements of Cash Flows 
+
+(Unaudited) 
+
+See accompanying notes to condensed consolidated financial statements. 
+
+4
+
+Notes to Unaudited Condensed Consolidated Financial Statements  
+
+1 )  
+
+Description of the Company  
+
+Unless otherwise specified, as used in this Quarterly Report on Form  10 -Q, the terms  we,   us,   our,   Art s-Way,  and the  Company,  refer to Art s-Way Manufacturing Co., Inc., a Delaware corporation headquartered in Armstrong, Iowa, and its wholly-owned subsidiaries. 
+
+The Company began operations as a farm equipment manufacturer in  1956.  Since that time, it has become a major worldwide manufacturer of agricultural equipment. Its principal manufacturing plant is located in Armstrong, Iowa. 
+
+The Company has organized its business into  three  operating segments. Management separately evaluates the financial results of each segment because each is a strategic business unit offering different products and requiring different technology and marketing strategies. The agricultural products segment ( Manufacturing ) manufactures farm equipment under the Art s-Way Manufacturing label and private labels. The modular buildings segment ( Scientific ) manufactures modular buildings for various uses, commonly animal containment and research laboratories. The tools segment ( Metals ) manufactures steel cutting tools and inserts. During the  third  quarter of fiscal  2016,  the Company discontinued its pressurized vessels segment ( Vessels ) that manufactured pressurized vessels. For more information on discontinued operations, see Note  3   Discontinued Operations.  For detailed financial information relating to segment reporting, see Note  16   Segment Information.  
+
+2 )  
+
+Summary of Significant Account Policies  
+
+Statement Presentation  
+
+The foregoing condensed consolidated financial statements of the Company are unaudited and reflect all adjustments (consisting only of normal recurring adjustments) that are, in the opinion of management, necessary for a fair presentation of the financial position and operating results for the interim periods. The financial statements should be read in conjunction with the financial statements and notes thereto contained in the Company s Annual Report on Form  10 -K for the fiscal year ended   November 30, 2017.  The results of operations for the  three  and  nine  months ended   August 31, 2018  are  not  necessarily indicative of the results for the fiscal year ending   November 30, 2018.  
+
+During the  second  quarter of fiscal  2018,  the Company liquidated its investment in its Canadian subsidiary by selling off remaining inventory and filing dissolution paperwork for the Canadian entity. Prior to that liquidation and dissolution, the financial books of the Company s Canadian operations were kept in the functional currency of Canadian dollars and the financial statements were converted to U.S. Dollars for consolidation. When consolidating the financial results of the Company into U.S. Dollars for reporting purposes, the Company used the All-Current translation method. The All-Current method requires the balance sheet assets and liabilities to be translated to U.S. Dollars at the exchange rate as of quarter end. Stockholders  equity was translated at historical exchange rates and retained earnings were translated at an average exchange rate for the period. Additionally, revenue and expenses were translated at average exchange rates for the periods presented. The resulting cumulative translation adjustment was carried on the balance sheet and was recorded in stockholders  equity. Following the liquidation and dissolution of the Company s investment in its Canadian subsidiary the cumulative translation adjustment carried on the balance sheet was released into net income and the financial statements will  no  longer need translation each period. Since  no  income tax benefit will be received from the foreign equity sale, the cumulative translation adjustment has  not  been tax adjusted. 
+
+Sales-Type Leases  
+
+The Company leases modular buildings to certain customers and accounts for these transactions as sales-type leases. These leases have terms of up to  36  months and are collateralized by a security interest in the related modular building. The lessee has a bargain purchase option available at the end of the lease term. A minimum lease receivable is recorded net of unearned interest income and profit on sale at the time the Company s obligation to the lessee is complete. Profit related to the sale of the building is recorded upon fulfillment of the Company s obligation to the lessee. 
+
+5
+
+Estimates  
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities and the reported amounts of revenue and expenses during the  three  and  nine  months ended   August 31, 2018.  Actual results could differ from those estimates. 
+
+3 )  
+
+Discontinued Operations  
+
+Effective   October 31, 2016,  the Company discontinued the operations of its Vessels segment in order to focus its efforts and resources on the business segments that have historically been more successful and that are expected to present greater opportunities for meaningful long-term shareholder returns. 
+
+In   January 2018,  the Company accepted an offer on the real estate assets of its Vessels segment for  $1,500,000,  which was below the carrying value of the real estate assets at that time. Based on these facts the Company recorded an impairment of the real estate assets of approximately  $289,000  for the fiscal year ended   November 30, 2017,  which reduced the value to  $1,425,000,  which is the value the Company expected to receive after commissions on the sale of these real estate assets. On   March 29, 2018,  the remaining assets of Vessels, consisting of these real estate assets, were disposed of at a selling price of  $1,500,000.  
+
+As Vessels was a unique business unit of the Company, its liquidation was a strategic shift. In accordance with Accounting Standard Codification Topic  360,  the Company has classified Vessels as discontinued operations for all periods presented. 
+
+Income from discontinued operations, before income taxes in the accompanying Condensed Consolidated Statements of Operations is comprised of the following: 
+
+6
+
+The components of discontinued operations in the accompanying Condensed Consolidated Balance Sheets are as follows: 
+
+4 )  
+
+Net Income   (Loss)   Per Share of Common Stock  
+
+Basic net income (loss) per share has been computed on the basis of the weighted average number of shares of common stock outstanding. Diluted net income (loss) per share of common stock has been computed on the basis of the weighted average number of shares outstanding plus equivalent shares of common stock assuming exercise of stock options. Potential shares of common stock that have an anti-dilutive effect (i.e., those that increase income per share or decrease loss per share) are excluded from the calculation of diluted net income (loss) per share of common stock. 
+
+Basic and diluted net income (loss) per share of common stock have been computed based on the following as of   August 31, 2018  and   August 31, 2017:  
+
+7
+
+5 )  
+
+Inventory  
+
+Major classes of inventory are: 
+
+6 )  
+
+Accrued Expenses  
+
+Major components of accrued expenses are: 
+
+8
+
+7 )  
+
+Assets Held for Lease  
+
+Major components of assets held for lease are: 
+
+During the  third  quarter of  2018,  the Company discovered mold in its West Union facility.  The Company estimates the remediation will cost approximately  $252,000  and has included this amount in other accrued expense at   August 31, 2018.   The Company also scrapped approximately  $67,000  of inventory related to mold remediation.  Both the remediation cost and inventory scrap have been included in other income (expense) on the statement of operations.  As a result of an adverse change in physical condition of this asset, circumstances indicate that its carrying amount   may   not  be recoverable.  The Company recognized approximately  $199,000  related to the impairment of this asset in the  three  months ended   August 31, 2018.  
+
+8 )  
+
+Product Warranty  
+
+The Company offers warranties of various lengths to its customers depending on the specific product and terms of the customer purchase agreement. The average length of the warranty period is  one  year from the date of purchase. The Company s warranties require it to repair or replace defective products during the warranty period at  no  cost to the customer. The Company records a liability for estimated costs that   may  be incurred under its warranties. The costs are estimated based on historical experience and any specific warranty issues that have been identified. Although historical warranty costs have been within expectations, there can be  no  assurance that future warranty costs will  not  exceed historical amounts. The Company periodically assesses the adequacy of its recorded warranty liability and adjusts the balance as necessary. The accrued warranty balance is included in accrued expenses as shown in Note  6   Accrued Expenses.  Changes in the Company s product warranty liability for the  three  and  nine  months ended   August 31, 2018  and   August 31, 2017  are as follows: 
+
+9 )  
+
+Loan and Credit Agreements  
+
+The Company maintains a revolving line of credit and term loan with Bank Midwest as well as a term loan with The First National Bank of West Union. 
+
+9
+
+Bank Midwest Revolving Line o  f Credit,   Term Loans  ,   and   Covenants  
+
+On   September 28, 2017,  the Company entered into a credit facility with Bank Midwest, which supersedes and replaces in its entirety the Company s previous credit facility with U.S. Bank. The Bank Midwest credit facility consists of a  $5,000,000  revolving line of credit, a  $2,600,000  term loan due   October 1, 2037,  and a  $600,000  term loan due   October 1, 2019.  The proceeds of the new line of credit and the term loans were used to refinance all debt previously held by U.S. Bank in the amount of approximately  $6,562,030,  which consisted of  $6,528,223  in unpaid principal and approximately  $33,807  in accrued and unpaid interest and fees. The revolving line of credit is being used for working capital purposes. On   March 29, 2018,  the Company paid in full the  $600,000  term loan due   October 1, 2019  using proceeds from the sale of the Company s Dubuque, Iowa property. The payment consisted of  $596,563  in principal and  $2,328  in interest. 
+
+On   August 31, 2018,  the balance of the line of credit was  $2,693,530  with  $2,306,470  remaining available, limited by the borrowing base calculation. The line of credit borrowing base is an amount equal to  75%  of accounts receivable balances (discounted for aged receivables), plus  50%  of inventory, less any outstanding loan balance on the line of credit. Any unpaid principal amount borrowed on the revolving line of credit accrues interest at a floating rate per annum equal to  1.00%  above the Wall Street Journal rate published from time to time in the money rates section of the Wall Street Journal. The interest rate floor is set at  4.25%  per annum and the current interest rate is  6.00%  per annum. The revolving line of credit was renewed on   March 30, 2018.  The revolving line of credit is payable upon demand by Bank Midwest, and monthly interest-only payments are required. If  no  earlier demand is made, the unpaid principal and accrued interest is due on   March 30, 2019.  
+
+The  $2,600,000  term loan accrues interest at a rate of  5.00%  for the  first   sixty  months. Thereafter, this loan will accrue interest at a floating rate per annum equal to  0.75%  above the Wall Street Journal rate published from time to time in the money rates section of the Wall Street Journal. The interest rate floor is set at  4.15%  per annum and the interest rate   may  only be adjusted by Bank Midwest once every  five  years. Monthly payments of  $17,271  for principal and interest are required. This loan is also guaranteed by the United States Department of Agriculture ( USDA ), which requires an upfront guarantee fee of  $62,400  and an annual fee of  0.5%  of the unpaid balance. As part of the USDA guarantee requirements, shareholders owning more than  20%  are required to personally guarantee a portion of the loan as well, in an amount equal to their stock ownership percentage. J. Ward McConnell Jr., the Vice Chairman of the Board of Directors and a shareholder owning more than  20%  of the Company s stock, is guaranteeing approximately  38%  of this loan, for an annual fee of  2%  of the personally guaranteed amount. The initial guarantee fee will be amortized over the life of the loan, and the annual fees and personally guaranteed amounts are expensed monthly. Prior to repayment, the  $600,000  term loan accrued interest at a rate of  5.00%,  and monthly payments of  $3,249  for principal and interest were required. 
+
+Each of the revolving line of credit and the  $2,600,000  term loan are governed by the terms of a separate Promissory Note, dated   September 28, 2017,  entered into between the Company and Bank Midwest. The  $600,000  term loan was also governed by the terms of a separate Promissory Note, dated   September 28, 2017,  entered into between the Company and Bank Midwest. 
+
+In connection with the revolving line of credit, the Company, Art s-Way Scientific Inc. and Ohio Metal Working Products/Art s-Way Inc. each entered into a Commercial Security Agreement with Bank Midwest, dated   September 28, 2017,  pursuant to which each granted to Bank Midwest a  first  priority security interest in certain inventory, equipment, accounts, chattel paper, instruments, letters of credit and other assets to secure the obligations of the Company under the revolving line of credit. Each of Art s-Way Scientific Inc. and Ohio Metal Working Products/Art s-Way Inc. also agreed to guarantee the obligations of the Company pursuant to the revolving line of credit, as set forth in Commercial Guaranties, each dated   September 28, 2017.  
+
+To further secure the line of credit, the Company has granted Bank Midwest a  second  mortgage on its West Union, Iowa property and Ohio Metal Working Products/Art s-Way Inc. has granted Bank Midwest a mortgage on its property located in Canton, Ohio. The  $2,600,000  term loan is secured by a mortgage on the Company s Armstrong, Iowa and Monona, Iowa properties, and the  $600,000  term loan was secured by a mortgage on the Company s Dubuque, Iowa property. Each mortgage is governed by the terms of a separate Mortgage, dated   September 28, 2017,  and each property is also subject to a separate Assignment of Rents, dated   September 28, 2017.  
+
+10
+
+If the Company or its subsidiaries (as guarantors pursuant to the Commercial Guaranties) commits an event of default with respect to the promissory notes and fails or is unable to cure that default, Bank Midwest   may  immediately terminate its obligation, if any, to make additional loans to the Company and   may  accelerate the Company s obligations under the promissory notes. Bank Midwest shall also have all other rights and remedies for default provided by the Uniform Commercial Code, as well as any other applicable law and the various loan agreements. In addition, in an event of default, Bank Midwest   may  foreclose on the mortgaged property. 
+
+Compliance with Bank Midwest covenants is measured annually at   November 30.  The terms of the Bank Midwest loan agreements require the Company to maintain a minimum working capital ratio of  1.75,  while maintaining a minimum of  $5,100,000  of working capital. Additionally, a maximum debt to worth ratio of  1  to  1  must be maintained, with a minimum of  40%  tangible balance sheet equity, with variations subject to mutual agreement. The Company is also required to maintain a minimum debt service coverage ratio of  1.25,  with a  0.10  tolerance. The Company was in compliance with all covenants as of   November 30, 2017  other than the debt service coverage ratio. Bank Midwest issued a waiver forgiving the noncompliance, and  no  event of default has occurred. The next measurement date is   November 30, 2018.  The Company is also required to provide audited financial statements within  120  days of its fiscal year end. 
+
+Iowa Finance Authority Term Loan and Covenants  
+
+On   May 1, 2010,  the Company obtained a loan to finance the purchase of an additional facility located in West Union, Iowa to be used as a distribution center, warehouse facility, and manufacturing plant for certain products under the Art s-Way brand. The funds for this loan were made available by the Iowa Finance Authority by the issuance of tax exempt bonds. This loan had an original principal amount of  $1,300,000,  an interest rate of  3.5%  per annum and a maturity date of   June 1, 2020.  On   February 1, 2013,  the interest rate was decreased to  2.75%  per annum. The other terms of the loan remain unchanged. 
+
+This loan from the Iowa Finance Authority, which has been assigned to The First National Bank of West Union (n/k/a Bank  1st ), is governed by a Manufacturing Facility Revenue Note dated   May 28, 2010  as amended   February 1, 2013  and a Loan Agreement dated   May 1, 2010  and a First Amendment to Loan Agreement dated   February 1, 2013 ( collectively,  the IFA Loan Agreement ), which requires the Company to provide quarterly internally prepared financial reports and year-end audited financial statements and to maintain a minimum debt service coverage ratio of  1.5  to  1.0,  which is measured at   November 30  of each year. Among other covenants, the IFA Loan Agreement also requires the Company to maintain proper insurance on, and maintain in good repair, the West Union Facility, and continue to conduct business and remain duly qualified to do business in the State of Iowa. The loan is secured by a mortgage on the Company s West Union Facility, pursuant to a Mortgage, Security Agreement, Assignment of Leases and Rents and Fixture Financing Statement dated   May 1, 2010  between the Company and The First National Bank of West Union (the  West Union Mortgage ). 
+
+If the Company commits an event of default under the IFA Loan Agreement or the West Union Mortgage and does  not  cure the event of default within the time specified by the IFA Loan Agreement, the lender   may  cause the entire amount of the loan to be immediately due and payable and take any other action that it is lawfully permitted to take or in equity to enforce the Company s performance. 
+
+The Company was in compliance with all covenants except for the debt service coverage ratio covenant as measured on   November 30, 2017.  The First National Bank of West Union issued a waiver and the next measurement date is   November 30, 2018.  
+
+11
+
+A summary of the Company s term debt is as follows: 
+
+Income taxes are accounted for under the asset and liability method. Deferred tax assets and liabilities are recognized for the estimated future tax consequences attributable to differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases and operating losses. 
+
+On   December 22, 2017,  the Tax Cuts and Job Act of  2017  was enacted, which reduced the top corporate income tax rate from  35%  to  21%.  This law is generally effective for tax years beginning after   December 31, 2017.  The application of this new rate was recognized in the  first  quarter of fiscal  2018.  Tax expense from continuing operations includes an adjustment of approximately  $300,000  related to the revaluation of the Company s net deferred tax asset at the new statutory rate. 
+
+11 )  
+
+Related Party Transactions  
+
+During the  three  and  nine  months ended   August 31, 2018,  the Company recognized expenses of  $5,957  and  $17,986  respectively, for transactions with related parties, compared to  $385  and  $3,691  for the same periods in  2017.   The accrued expenses balance as of   August 31, 2018  contains  $1,633  due to a related party, compared to  $0  for the same period in  2017.  
+
+The components related to sales-type leases at   August 31, 2018  are as follows: 
+
+The profit recognized in continuing operations on the condensed consolidated statements of operations from commencement of sales-type leases in the  three  and  nine  months ended   August 31, 2018  was  $0  and  $129,104,  respectively. 
+
+12
+
+Future minimum lease receipts are as follows: 
+
+13 )  
+
+Recently Issued Accounting Pronouncements  
+
+Accounting Pronouncements  Not  Yet Adopted 
+
+Revenue from Contracts with Customers   (Topic  606 )  
+
+In   May 2014,  the Financial Accounting Standards Board ( FASB ) issued ASU  No.   2014 - 09,   Revenue from Contracts with Customers (Topic  606 )  which supersedes the guidance in  Revenue Recognition (Topic  605 ).  The core principle of ASU  2014 - 09  requires entities to recognize revenue in a way that depicts the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. ASU  2014 - 09  is effective for annual reporting periods beginning after   December 15, 2017,  including interim periods within that reporting period, and is to be applied retrospectively, with early application  not  permitted. 
+
+The Company has evaluated the new standard and applied the core principle to its contract revenue streams.  To be consistent with this core principle, an entity is required to apply the following  five -step approach: 
+
+1.  
+
+Identify the contract(s) with a customer; 
+
+2.  
+
+Identify each performance obligation in the contract; 
+
+3.  
+
+Determine the transaction price; 
+
+4.  
+
+Allocate the transaction price to each performance obligation; and 
+
+5.  
+
+Recognize revenue when or as each performance obligation is satisfied. 
+
+The Company s revenues primarily result from contracts with customers. The agricultural products and tools segments are generally short-term contracts and contain a single performance obligation   the delivery of product to the common carrier. The Company recognizes revenue for the sale of agriculture parts, equipment and tools upon shipment of the good. The modular buildings segment executes contracts with customers that can be short or long-term in nature. These contracts can have multiple performance obligations and revenue from these can be recognized over time or at a point in time depending on the nature of the contracts. Payment terms generally are short-term and vary by customer and segment. The implementation process will include modifications to the contracts of the modular buildings segment. 
+
+The Company intends to adopt ASU  2014 - 09  using the modified retrospective method. Once adopted, the Company has determined that amounts reported under ASC  606  will  not  be materially different than amounts that would have been reported under the previous revenue guidance of ASC  605  and would  not  require an adjustment to retained earnings. 
+
+The Company, upon adoption of ASU  2014 - 09,  will increase the amount of required disclosures, including but  not  limited to: 
+
+Disaggregation of revenue that depicts how the nature, amount, timing and uncertainty of revenue and cash flows are affected by economic factors; 
+
+The opening and closing balances of receivables, contract assets, and contract liabilities from contracts with customers, if  not  otherwise separately presented or disclosed; 
+
+13
+
+Revenue recognized in the reporting period that was included in the contract liability balance at the beginning of the period; 
+
+Information about performance obligations in contracts with customers; and 
+
+Judgments that significantly affect the determination of the amount and timing of revenue from contracts with customers, including the timing satisfaction of performance obligation, and the transaction price and the amounts allocated to performance obligations. 
+
+Leases  
+
+In   February 2016,  the FASB issued ASU  2016 - 02,   Leases (Topic  842 ),  which requires a lessee to recognize a right-of-use asset and a lease liability on its balance sheet for all leases with terms of  twelve  months or greater. This guidance is effective for fiscal years beginning after   December 15, 2018,  including interim periods within those years. The Company will adopt this guidance for its fiscal year ending   November 30, 2020,  including interim periods within that reporting period. The Company has a moderate amount of leasing activity and is currently evaluating the impact of this guidance on its consolidated financial statements. 
+
+14 )  
+
+Equity Incentive Plan and Stock Based Compensation     
+
+On   January 27, 2011,  the Board of Directors of the Company authorized and approved the Art s-Way Manufacturing Co., Inc.  2011  Equity Incentive Plan (the   2011  Plan ). The  2011  Plan was approved by the stockholders on   April 28, 2011.  It replaced the Employee Stock Option Plan and the Directors  Stock Option Plan (collectively, the  Prior Plans ), and  no  further stock options will be awarded under the Prior Plans. Awards to directors and executive officers under the  2011  Plan are governed by the forms of agreement approved by the Board of Directors. 
+
+The  2011  Plan permits the plan administrator to award nonqualified stock options, incentive stock options, restricted stock awards, restricted stock units, performance awards, and stock appreciation rights to employees (including officers), directors, and consultants. The Board of Directors has approved a director compensation policy pursuant to which non-employee directors are automatically granted restricted stock awards of  1,000  shares of fully-vested common stock annually upon their election to the Board and another  1,000  shares of fully-vested common stock on the last business day of each fiscal quarter. Additionally, directors can elect to receive their board compensation as restricted stock. During the  first   nine  months of fiscal  2018,  restricted stock awards of  46,200  shares were issued to various employees, directors, and consultants, which vest over the next  three  years, and restricted stock awards of  28,478  shares were issued to directors as part of the compensation policy, which vested immediately upon grant. During the  first   nine  months of fiscal  2018,   17,000  shares of restricted stock were forfeited upon the departure of certain employees. 
+
+Stock options granted prior to   January 27, 2011  are governed by the applicable Prior Plan and the forms of agreement adopted thereunder. 
+
+Stock-based compensation expense reflects the fair value of stock-based awards measured at the grant date and recognized over the relevant vesting period. The Company estimates the fair value of each stock-based option award on the measurement date using the Black-Scholes option valuation model which incorporates assumptions as to stock price volatility, the expected life of the options, risk-free interest rate, and dividend yield. Expected volatility is based on historical volatility of the Company s stock and other factors. The Company uses historical option exercise and termination data to estimate the expected term the options are expected to be outstanding. The risk-free rate is based on the U.S. Treasury yield curve in effect at the time of grant. The expected dividend yield is calculated using historical dividend amounts and the stock price at the option issuance date.  No  stock options were granted during the  nine  months ended   August 31, 2018  or in the same respective period of fiscal  2017.  The Company incurred a total of  $46,654  and  $158,090  of stock-based compensation expense for restricted stock awards during the  three  and  nine  months ended   August 31, 2018  compared to  $19,266  and  $92,225  of stock-based compensation expense for restricted stock awards for the same respective periods of fiscal  2017.  
+
+14
+
+15 )  
+
+Disclosures About the Fair Value of Financial Instruments  
+
+The fair value of a financial instrument is defined as the amount at which the instrument could be exchanged in a current transaction between willing parties. At   August 31, 2018,  and   November 30, 2017,  the carrying amount approximated fair value for cash, accounts receivable, net investment in sale-type leases, accounts payable, notes payable to bank, and other current and long-term liabilities. The carrying amounts approximate fair value because of the short maturity of these instruments. The fair value of the net investment in sales-type leases also approximates recorded value as that is based on discounting future cash flows at rates implicit in the lease. The rates implicit in the lease do  not  materially differ from current market rates. The fair value of the Company s installment term loans payable also approximates recorded value because the interest rates charged under the loan terms are  not  substantially different than current interest rates.    
+
+16 )  
+
+Segment Information  
+
+There are  three  reportable segments: agricultural products, modular buildings and tools. The agricultural products segment fabricates and sells farming products as well as related equipment and replacement parts for these products in the United States and worldwide. The modular buildings segment manufactures and installs modular buildings for animal containment and various laboratory uses. The tools segment manufactures steel cutting tools and inserts. 
+
+The accounting policies applied to determine the segment information are the same as those described in the summary of significant accounting policies. Management evaluates the performance of each segment based on profit or loss from operations before income taxes, exclusive of nonrecurring gains and losses. 
+
+Approximate financial information with respect to the reportable segments is as follows. The tables below exclude income and balance sheet data from discontinued operations. See Note  3   Discontinued Operations.  
+
+15
+
+*The consolidated total in the table is a sum of segment figures and   may   not  tie to actual figures in the condensed consolidated financial statements due to rounding. 
+
+Management evaluated all other activity of the Company and concluded that  no  subsequent events have occurred that would require recognition in the condensed consolidated financial statements. 
+
+16
+
+Item 2.  
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations  
+
+Forward-Looking Statements  
+
+The following discussion and analysis should be read in conjunction with the condensed consolidated financial statements and notes thereto included in Item 1 of Part I of this Quarterly Report on Form 10-Q and the audited consolidated financial statements and related notes thereto and  Management s Discussion and Analysis of Financial Condition and Results of Operations  contained in our Annual Report on Form 10-K for the fiscal year ended November 30, 2017. Some of the statements in this report may contain forward-looking statements that reflect our current view on future events, future business, industry and other conditions, our future performance, and our plans and expectations for future operations and actions. In some cases you can identify forward-looking statements by the use of words such as  may,   should,   anticipate,   believe,   expect,   plan,   future,   intend,   could,   estimate,   predict,   hope,   potential,   continue,  or the negative of these terms or other similar expressions. Many of these forward-looking statements are located in this report under  Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations  but they may appear in other sections as well. Forward-looking statements in this report generally relate to: (i) our warranty costs and order backlog; (ii) our beliefs regarding the sufficiency of working capital and cash flows; (iii) our expectation that we will continue to be able to renew or obtain financing on reasonable terms when necessary; (iv) the impact of recently issued accounting pronouncements and changes to tax laws; (v) our intentions and beliefs relating to our costs, business strategies, and future performance; (vi) our expected financial results; and (vii) our expectations concerning our primary capital and cash flow needs. 
+
+You should read this report thoroughly with the understanding that our actual results may differ materially from those set forth in the forward-looking statements for many reasons, including events beyond our control and assumptions that prove to be inaccurate or unfounded. We cannot provide any assurance with respect to our future performance or results. Our actual results or actions could and likely will differ materially from those anticipated in the forward-looking statements for many reasons, including but not limited to: (i) the impact of changing credit markets on our ability to continue to obtain financing on reasonable terms; (ii) our ability to repay current debt, continue to meet debt obligations and comply with financial covenants; (iii) obstacles related to liquidation of product lines and segments; (iv) the effect of general economic conditions, including consumer and governmental spending, on the demand for our products and the cost of our supplies and materials; (v) fluctuations in seasonal demand and our production cycle; and (vi) other factors described from time to time in our reports to the Securities and Exchange Commission. We do not intend to update the forward-looking statements contained in this report other than as required by law. We caution you not to put undue reliance on any forward-looking statements, which speak only as of the date of this report. You should read this report and the documents that we reference in this report and have filed as exhibits completely and with the understanding that our actual future results may be materially different from what we currently expect. We qualify all of our forward-looking statements by these cautionary statements. 
+
+Critical Accounting Policies  
+
+Our critical accounting policies involving the more significant judgments and assumptions used in the preparation of the financial statements as of August 31, 2018 remain unchanged from November 30, 2017, with the exception of the addition of a critical accounting policy regarding sales-type lease activity. Other than this new policy regarding sales-type lease activity, which is set forth below, disclosure of these critical accounting policies is incorporated by reference from Item 7,  Management s Discussion and Analysis of Financial Condition and Results of Operations  in our Annual Report on Form 10-K for the fiscal year ended November 30, 2017. 
+
+Sales-Type Lease Activity  
+
+We lease modular buildings to certain customers and account for these transactions as sales-type leases. These leases have terms of up to 36 months and are collateralized by a security interest in the related modular building. The lessee has a bargain purchase option available at the end of the lease term. A minimum lease receivable is recorded net of unearned interest income and profit on sale at the time the building is substantially complete. Profit related to the sale of the building is recorded upon substantial completion. 
+
+17
+
+Results of Operations     Continuing Operations  
+
+Net Sales and Cost of   Goods Sold  
+
+Our consolidated corporate sales for continuing operations for the three- and nine-month periods ended August 31, 2018 were $5,280,000 and $15,940,000 compared to $6,550,000 and $15,660,000 during the same respective periods in 2017, a $1,270,000 or 19.4%, decrease for the three months and a $280,000, or 1.8%, increase for the nine months. The decrease for the three months is primarily due to a decrease in revenue from our agricultural products and tools segments. Consolidated gross margin for the three-month period ended August 31, 2018 was 22.3% compared to 22.1% for the same period in fiscal 2017. Consolidated gross margin for the nine-month period ended August 31, 2018 was 21.6% compared to 21.5% for the same period in fiscal 2017. These increased gross margins are largely attributable to increased efficiency in our agricultural products segment, as discussed below, as margins have decreased in our modular buildings and tools segments. 
+
+Our third quarter sales at Manufacturing were $3,913,000 compared to $5,065,000 during the same period of 2017, a decrease of $1,152,000, or 22.7%. Our year-to-date sales at Manufacturing were $11,778,000 compared to $11,595,000 during the same period in 2017, an increase of $183,000, or 1.6%. The three-month decrease in revenue is due to decreased demand for forage box equipment and the absence of pass-through self-propelled beet equipment that was sold in 2017. The year-to-date increase in sales is due to increased demand for portable feed equipment, manure spreaders and UHC reels. Gross margin for Manufacturing for the three-month period ended August 31, 2018 was 21.6% compared to 20.9% for the same period in 2017. Gross margin for Manufacturing for the nine-month period ended August 31, 2018 was 21.8% compared to 20.2% for the same period in 2017. The increase in gross margin in 2018 is due to increased efficiency from our direct labor as a part of recently-launched lean initiatives. Although our gross margin is up we did receive downward pressure from rising costs of goods sold, which have been impacted by steel tariffs. 
+
+Our third quarter sales at Scientific were $773,000 compared to $767,000 for the same period in 2017, an increase of $6,000, or 0.8%. Our year-to-date sales at Scientific were $2,346,000 compared to $2,043,000 for the same period in 2017, an increase of $303,000, or 14.8%. Our year-to-date increase in revenue is largely attributable to using sales-type and operating leases to expand our customer base. Gross margin for the three- and nine-month periods ended August 31, 2018 was 15.8% and 13.7% compared to 21.4% and 18.5% for the same respective periods in 2017. The decrease in gross margin is due to added depreciation from buildings out on lease and the production of leased assets in the third quarter, which don t provide immediate revenue. 
+
+Metals had sales of $594,000 and $1,816,000 during the three- and nine-month periods ended August 31, 2018 compared to $718,000 and $2,022,000 for the same respective periods in 2017, a 17.3% and 10.2% decrease, respectively. The decrease is mainly due to the loss of a large volume customer. Gross margin was 34.7% and 30.1% for the three- and nine-month periods ended August 31, 2018 compared to 30.9% and 32.1% for the same respective periods in 2017. The increased gross margin for the three-months is due mainly to price increases and better margins on our sales. Our decreased gross margin for the nine-months is largely due to lower revenues with less variable margin to absorb fixed costs. 
+
+Expenses   
+
+Our third quarter consolidated selling expenses were $476,000 compared to $433,000 for the same period in 2017. Our year-to-date selling expenses were $1,448,000 compared to $1,401,000 for the same period in 2017. The increase in selling expenses is due to increased commissions as a result of higher sales and the reclassification of an employee to an independent sales representative. Selling expenses as a percentage of sales were 9.0% and 9.1% for the three- and nine-month periods ended August 31, 2018 compared to 6.6% and 8.9% for the same respective periods in 2017. 
+
+18
+
+Consolidated engineering expenses were $202,000 and $458,000 for the three- and nine-month periods ended August 31, 2018 compared to $108,000 and $373,000 for the same respective periods in 2017. The increase in engineering expenses is directly related to research and development of new agricultural products and modular building engineering. Engineering expenses as a percentage of sales were 3.8% and 2.9% for the three- and nine-month periods ended August 31, 2018 compared to 1.6% and 2.4% for the same respective periods in 2017. 
+
+Consolidated administrative expenses for the three- and nine-month periods ended August 31, 2018 were $858,000 and $2,656,000 compared to $795,000 and $2,561,000 for the same respective periods in 2017. These increases are largely related to increased stock compensation expense and the addition of a general manager at the modular buildings segment. Administrative expenses as a percentage of sales were 16.3% and 16.7% for the three- and nine-month periods ended August 31, 2018 compared to 12.1% and 16.4% for the same respective periods in 2017. 
+
+(Loss)   from Continuing Operations  
+
+Consolidated net (loss) from continuing operations was $(767,000) for the three-month period and $(1,948,000) for the nine-month period ended August 31, 2018 compared to net income (loss) of $42,000 and $(721,000) for the same respective periods in 2017. The increased net loss for the three months ended August 31, 2018 was due to the discovery of mold in one of our facilities. We estimate approximately $253,000 for mold remediation and $67,000 in damaged inventory, and we recognized an impairment of approximately $199,000 of this asset held for lease. The increased net loss from continuing operations for the nine-months was largely due to the revaluing of our deferred tax asset at the new income tax rates for the 2018 tax year, which resulted in a loss of approximately $300,000. We also recognized a loss of approximately $253,000 from the liquidation of our Canadian subsidiary related to the cumulative translation adjustment in the second quarter of fiscal 2018. These expenses were non-cash expenses and one-time adjustments. Our margins are generally depressed from historic levels because low volumes caused by market conditions continue to impact our ability to cover our fixed costs. Margins are also impacted as we continue to right-size our inventories to focus on products we feel our customers will want to purchase in the future. 
+
+Income Tax Adjustment  
+
+On December 22, 2017, the Tax Cuts and Jobs Act of 2017 was enacted, which reduced the top corporate income tax rate from 35% to 21%. We have assessed the impact of the law on our reported assets, liabilities, and results of operations, and we believe that, going forward, the overall rate reduction will have a positive impact on our net earnings in the long run. However, during the first quarter of fiscal 2018, we substantially reduced our net deferred tax asset using the new lower rates. Based on our recorded deferred tax asset at November 30, 2017, we reduced the deferred tax asset by approximately $300,000, which was recorded as an adjustment to our tax provision in the first quarter of fiscal 2018. 
+
+Order Backlog  
+
+ The consolidated order backlog net of discounts for continuing operations as of October 2, 2018 was $1,405,000 compared to $1,638,000 as of October 2, 2017. The agricultural products segment order backlog was $715,000 as of October 2, 2018 compared to $1,069,277 in fiscal 2017. The backlog for the modular buildings segment was $609,000 as of October 2, 2018, compared to $456,000 in fiscal 2017. The backlog for the tools segment was $81,000 as of October 2, 2018, compared to $113,000 in fiscal 2017. Our order backlog is not necessarily indicative of future revenue to be generated from such orders due to the possibility of order cancellations and dealer discount arrangements we may enter into from time to time. 
+
+Results of Operations   Discontinued Operations  
+
+During the third quarter of fiscal 2016, we made the decision to exit the pressurized vessels industry. On March 29, 2018 we disposed of the remaining assets of our Vessels segment at a selling price of $1,500,000. 
+
+19
+
+Liquidity and Capital Resources  
+
+Our primary sources of funds for the nine months ended August 31, 2018 were funds received from the sale of real estate from discontinued operations and the reduction of inventory. Our primary uses of cash were costs of operation, the execution of sales-type leases, the fulfillment of customer deposits and retirement of debt related to discontinued operations. We expect our primary capital needs for the remainder of fiscal 2018 to relate to costs of operation, including production.    
+
+We have a $5,000,000 revolving line of credit with Bank Midwest that, as of August 31, 2018, had an outstanding principal balance of $2,693,530. The revolving line of credit was renewed on March 30, 2018 and is scheduled to mature on March 30, 2019. 
+
+We believe that our cash flows from operations and current financing arrangements will provide sufficient cash to finance operations and pay debt when due during the next twelve months. We expect to continue to be able to procure financing upon reasonable terms. 
+
+Off Balance Sheet Arrangements  
+
+None. 
+
+Item 3.   
+
+Quantitative and Qualitative Disclosures About Market Risk.  
+
+As a smaller reporting company, we are not required to provide disclosure pursuant to this item. 
+
+Item 4.   
+
+Controls and Procedures.  
+
+Evaluation of Disclosure Controls and Procedures  
+
+The person serving as our principal executive officer and principal financial officer has evaluated the effectiveness of our disclosure controls and procedures, as defined in Exchange Act Rule 13a-15(e) and Rule 15d-15(e), as of the end of the period subject to this report. Based on this evaluation, the person serving as our principal executive officer and principal financial officer concluded that our disclosure controls and procedures were effective and provide reasonable assurance that information required to be disclosed by us in the periodic and current reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the periods specified by the Securities and Exchange Commission s rules and forms. 
+
+Changes   in   Internal Control over Financial Reporting  
+
+There were no changes in our internal controls over financial reporting that occurred during the period covered by this report that have materially affected, or are reasonably likely to materially affect, our internal controls over financial reporting. 
+
+20
+
+PART II   OTHER INFORMATION  
+
+Item 1.   
+
+Legal Proceedings.  
+
+We are currently not a party to any material pending legal proceedings. 
+
+Item 1A.   
+
+Risk Factors.  
+
+As a smaller reporting company, we are not required to provide disclosure pursuant to this item. 
+
+Item 2.   
+
+Unregistered Sales of Equity Securities and Use of Proceeds.  
+
+None. 
+
+Item 3.   
+
+Defaults Upon Senior Securities.  
+
+None. 
+
+Item 4.   
+
+Mine Safety Disclosures.  
+
+Not applicable. 
+
+Item 5.   
+
+Other Information.  
+
+None. 
+
+Item 6.   
+
+Exhibits.   
+
+Exhibit  
+
+			  No.  
+
+Description  
+
+31.1 
+
+Certificate of Chief Executive Officer and Interim Chief Financial Officer pursuant to 17 CFR 13a-14(a)   filed herewith.  
+
+32.1 
+
+Certificate of Chief Executive Officer and Interim Chief Financial Officer pursuant to 18 U.S.C. Section 1350 - filed herewith.  
+
+101 
+
+The following materials from this report, formatted in XBRL (Extensible Business Reporting Language) are filed herewith: (i) condensed consolidated balance sheets, (ii) condensed consolidated statement of operations, (iii) condensed consolidated statements of cash flows, and (iv) the notes to the condensed consolidated financial statements. 
+
+21
+
+SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+ART S-WAY MANUFACTURING CO., INC. 
+
+Date: October 8, 2018 
+
+By:   /s/ Carrie L. Gunnerson                                          
+
+Carrie L. Gunnerson 
+
+President, Chief Executive Officer and Interim 
+
+			 Chief Financial Officer 
+
+22 
+
+<EX-31.1>
+ 2
+ ex_124820.htm
+ EXHIBIT 31.1
+
+ex_124820.htm 
+
+Exhibit 31.1 
+
+CERTIFICATION PURSUANT TO 17 CFR 240.13(a)-14(a)  
+
+  (SECTION 302 CERTIFICATION)  
+
+I, Carrie L. Gunnerson, certify that: 
+
+1. 
+
+I have reviewed this quarterly report on Form 10-Q of Art s-Way Manufacturing Co., Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant, as of, and for, the periods presented in this report; 
+
+4. 
+
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controls over financial reporting. 
+
+ART S-WAY MANUFACTURING CO., INC. 
+
+Date: 
+
+October 8, 2018 
+
+/s/ Carrie L. Gunnerson 
+
+Carrie L. Gunnerson 
+
+President, Chief Executive Officer and Interim Chief Financial Officer 
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex_124821.htm
+ EXHIBIT 32.1
+
+ex_124820.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350  
+
+  AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002  
+
+In connection with the quarterly report on Form 10-Q of Art s-Way Manufacturing Co., Inc. (the  Company ) for the fiscal quarter ended August 31, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Carrie L. Gunnerson, as the President, Chief Executive Officer and Interim Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+2. 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+ART S-WAY MANUFACTURING CO., INC. 
+
+Date: 
+
+October 8, 2018 
+
+/s/ Carrie L. Gunnerson 
+
+Carrie L. Gunnerson 
+
+President, Chief Executive Officer and Interim Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ artw-20180831.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ artw-20180831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ artw-20180831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ artw-20180831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ artw-20180831_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ artw-20180831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

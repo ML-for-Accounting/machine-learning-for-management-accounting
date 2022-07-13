@@ -1,0 +1,1044 @@
+ 2
+ annualreport2018.htm
+ TAYLOR DEVICES, INC. 2018 ANNUAL REPORT
+
+Exhibit 13  
+
+Taylor Devices, Inc. 2018 Annual Report  
+
+President's Letter  
+
+Dear Shareholders, 
+
+It is with great honor and pleasure that I
+have accepted the position of President of Taylor Devices and now have the opportunity to address all Shareholders in this Annual
+Report. My career with the Company began in March 1988 and we have seen many changes that have accompanied that period of more
+than 30 years. In fiscal year 1988, Taylor recorded annual sales of $4.7 million. The Company has come a long way. Incorporated
+in 1955, we are now in our 64 th  year of operation. I follow our two previous presidents, Paul H. Taylor (1955-1991)
+and Douglas P. Taylor (1991-2018). We thank Doug and Richard Hill, who both retired as of May 31, 2018 for their outstanding service
+to the Company and for their many contributions that have enabled the Company to succeed for many years. On June 1, 2018, both
+Doug and Rick were presented retirement awards in the presence of all employees. While maintaining that same level of high expectation,
+I personally look forward to many more years here at Taylor Devices and will strive to maintain and improve on the previous successes
+that the Company has enjoyed. 
+
+Sales for the fiscal year ending May 31, 2018
+were $24,363,967 compared to last year s sales of $25,536,996. Operating income was $647,633 compared to $2,920,732 in 2017.
+Net income was $443,370 compared to $2,330,577 in 2017. As stated in a recent press release, the Tax Cuts and Jobs Act became law
+in December 2017. Due to changes in corporate tax rates, the Company was required to record a non-cash write down of deferred tax
+assets and recognized incremental deferred tax expense of $164,000 during fiscal year 2018. Although this one-time adjustment hurt
+our overall annual income, the long-term reduction in corporate tax rates will benefit the Company. 
+
+Taylor Devices  firm order backlog at
+the end of the 2018 fiscal year was $23.1 million compared to $21.6 million at the close of the 2017 fiscal year. The backlog product
+mix is approximately 33% aerospace and defense, 65% seismic products, and 2% commercial/industrial products. 
+
+As stated in last year s Annual Report,
+the Company completed the expansion of the seismic assembly and test facilities in fiscal year 2017. Throughout fiscal year 2018,
+new test equipment was successfully integrated into the facility and this has allowed us to build and test many large seismic dampers
+with unique characteristics for several major projects. Among them are the 104 seismic dampers for the new Loma Linda University
+Medical Center (LLUMC) that is the subject of this year s centerfold featured project. 
+
+A challenging aspect of the Medical Center
+to the design team was its proximity to seismic faults. In fact, it is adjacent to the intersection of the San Jacinto fault zone
+and the Loma Linda Fault, and is just a few miles from the famous San Andreas Fault. In order to meet the stringent performance
+required during large earthquakes, the Medical Center sits on a base isolation system that allows significant movement during an
+earthquake. This system allows the ground to effectively move underneath while the building remains  isolated  from
+most of the harmful earthquake energy. This system is similar to what was used for the Arrowhead Regional Medical Center, which
+was Taylor Devices  first major project for supplying seismic dampers in the mid-1990 s. However, the dampers that
+were recently delivered for the LLUMC require 75% more deflection capability than those previously used for Arrowhead, partially
+due to the near-fault location. Additionally, the combination of the output force and the rated velocity experienced during large
+earthquakes was higher than the Company had tested to previously. Therefore, our new test facilities were put to immediate good
+use and allowed us to demonstrate near perfect performance for all 104 dampers. This new test capability is second to none and
+will provide the Company with years of service to our customers world-wide. 
+
+Our second featured project is NASA s
+Space Launch System (SLS) shown on the cover of this Report. The SLS Program consists of three major elements: the SLS Launch Vehicle
+itself, the manned Orion Space Capsule, and Exploration Ground Systems that will provide the infrastructure and manage the launch
+facilities at Pad 39B at the Kennedy Space Center in Florida. When complete, no other space launch vehicles will have the same
+lift capability combined with the ability to carry astronauts to the Moon, Mars and beyond. Other deep space destinations for SLS
+include Europa, one of Jupiter s moons. The first launch is now being planned for early 2020. The recently passed federal
+budget provides continued funding for the Program and the future looks bright. Indeed, after meeting with several members of Congress
+recently at a Lockheed Martin sponsored SLS Suppliers Conference, I can personally report that this Program is receiving significant
+bi-partisan support. 
+
+The Company has already delivered several
+custom ground-based energy absorbers for use during launch. These products are direct adaptations of products that had been developed
+for the Space Shuttle Program beginning in the 1970 s and successfully used for every Space Shuttle launch over 30 years
+from 1981 through 2011. 
+
+Additionally, the Company has recently been
+developing a unique vibration isolation system for protecting certain components near the top portion of the SLS Launch Vehicle
+and the Orion Capsule during flight. Initial testing of the system has been very successful, and we look forward to providing these
+isolators for every launch of the SLS for years to come. 
+
+Sincerely, 
+
+ TAYLOR DEVICES, INC. 
+
+/s/Alan R. Kembczyk  
+
+ Alan R. Klembczyk 
+
+ President 
+
+Status Report from the Vice President of
+Operations  
+
+ Benjamin M. Kujawinski 
+
+ Vice President of Operations 
+
+It is an exciting time at Taylor Devices,
+with countless challenges and opportunities in front of us, none of which would be possible without the years of service, guidance
+and expertise passed on from our retired executive officers, Mr. Douglas P. Taylor and Mr. Richard G. Hill. All of us owe them
+a debt of gratitude for their stewardship of the Company and the transition planning that has been many years in the making. Both
+of them have been instrumental in guiding my 20 year career with the company. I now accept and look forward to the challenges put
+before me since my appointment to Vice President of Operations on October 1, 2017. 
+
+Operations at the Company consist of all of
+the internal activities, both strategic and tactical, to deliver the best possible product and performance to our customers around
+the globe. While internal coordination is much of our focus on items like manufacturing costs and schedules, it is imperative that
+Alan and I continue to make all facets of the organization work toward the common goals of our customers and shareholders. We believe
+that the best years of the Company are in front of us and many improvements are already taking shape. 
+
+Some of those improvements and upgrades can
+be seen in this Annual Report. The 104 dampers for the Loma Linda University Medical Center (LLUMC) forced us to rethink our capacities
+and capabilities, especially when it comes to the needs of future projects. New assembly and testing facilities now allow us to
+build some of the longest stroke dampers on the planet; products that are crucial to base-isolation systems and seismic protection
+concepts. These same facilities will also allow improved safety and efficiencies for our growing backlog of assembly needs, including
+those for fiscal year 2019 such as the dampers for the San Francisco-Oakland Bay Bridge. 
+
+Fiscal year 2018 also saw our operations rise
+to many challenges that provide long term results and returns for the Company and our shareholders. In December of 2017 we became
+NIST 800-171 compliant with respect to the control of our digital data and cyber security. This standard is required by the U.S.
+Government for its suppliers and contractors, where it pertains to the safe and secure transfer of digital information. 
+
+In addition, after many years of successful
+certification efforts, the Company received upgrade certification to ISO 14001:2015, AS9100D and ISO 9001:2015. AS9100D in particular
+provides the greatest return to the Company as the leading certification to participate in military and aerospace hardware design
+and manufacturing as an Original Equipment Manufacturer (OEM). The upgraded revision and criteria to pass the audit were quite
+stringent and I am very proud of our team and their successes. 
+
+Lastly, we completed the significant effort
+to upgrade our Enterprise Resource Planning (ERP) software that will likely serve the Company for 8-10 years. This software allows
+us to fulfill all of our customer and quality requirements, along with all of our financial reporting needs. The improved software
+also provides the opportunity to be very agile and precise when it comes to assessing costs, controlling inventory, and providing
+better results to our customers. 
+
+From all of our teams in Manufacturing, Purchasing,
+Quality and Production Control, we look forward to continued success while serving our customers and shareholders for many years
+to come. 
+
+Sincerely, 
+
+/s/ Benjamin M. Kujawinski  
+
+ Benjamin M. Kujawinski 
+
+ Vice President of Operations 
+
+Status Report from the Chief Financial
+Officer  
+
+ Mark V. McDonough 
+
+ Chief Financial Officer 
+
+Fiscal 2018 was a disappointing year at Taylor
+Devices, Inc. for both sales and profits. Sales were down 5% from fiscal 2017 while profits were only 15% of last year s
+level. In the United States, sales were down 12%. While domestic sales are generally more profitable than exports, costs were higher
+and margins were slimmer than the prior year. Asian sales were up 57% over last year but at significantly lower margins as competition
+increased for many of the projects we completed for shipment there. Sales volume to customers for seismic / wind protection dropped
+12%. This was somewhat offset by small increases in sales to Aerospace / Defense customers and industrial customers. Selling, general
+and administrative expenses were up slightly from the prior year while operating income fell to 20% of last year s level.
+Earnings per share was 13 cents for fiscal 2018 compared to 67 cents for the prior year. 
+
+The Company s backlog of sales orders
+at May 31, 2018 is $23.1million, up $1.5 million from the backlog at the end of the prior year. Almost two-thirds of the sales
+order backlog is for customers building or retro-fitting bridges and buildings and one-third is for customers in aerospace / defense.
+Approximately 92% is for domestic customers while 7% will be shipped to Asia. We are encouraged by continued new sales order activity
+in the early months of the 2019 fiscal year. Based on this sales order backlog at year end and new order activity in the early
+stages of the new fiscal year, we are optimistic that we will achieve profitable growth fiscal 2019. We are dedicated to become
+more efficient throughout our organization in the coming year as we strive to increase customer interest in our products. 
+
+We will continue to work with our advisors
+to keep abreast of changes in the regulations and to remain in compliance with them in order to ensure that accurate, reliable
+financial and business information is provided to investors and other users of this annual report and our interim reports. 
+
+Status Report from Aerospace/Defense Products  
+
+ John C. Metzger 
+
+ Chief Engineer 
+
+Fiscal year 2018 aerospace/defense sector
+represented 42% of the Company sales compared to 39% for fiscal year 2017. Sales were slightly up from $10,086,000 in FY17 to $10,205,900
+in FY18. Revenue has been bolstered by recurring orders for drone landing gears, submarine deck isolators, helicopter machined
+spring elements for U.S. Army/Navy main rotors and KC-46 Aircraft refueling boom shock absorbers. Looking forward, these programs
+are contributing to a healthy backlog for this year as well. 
+
+Follow on orders remain strong for the U.S.
+Navy standard missile canister isolators. The U.S. Navy announced new plans this spring to change the mission of the Zumwalt Class
+Destroyers to use extended range versions of the Navy s standard missile, each containing four Taylor vertical shock isolators.
+This Destroyer was featured in last year s Annual Report. This program will last for many years. 
+
+The Company received an order for 235 systems
+used by the U.S. Navy after developing a high frequency vibration isolator using our machined spring technology within a ring laser
+gyroscope used for shipboard navigation. This technology can be adapted for many new applications. 
+
+Work has continued toward the qualification
+of many devices for NASA space programs for manned space-flight. These devices include flight hardware with many recurring orders
+expected in the years to come. In addition, design work has begun for numerous ground support shock absorbers for yet another Space
+Program for the next generation un-manned launch vehicle. This vehicle s mission is to greatly reduce the cost to launch
+satellites into orbit. 
+
+The supply of components for drone landing
+gear continues to be a strong market for Taylor Devices. In the second half of the fiscal year 2018,the Company was awarded a fast-track
+contract to design and qualify new landing gear struts for the U.S. Air Force. Taylor Devices has established a strong relationship
+with the aircraft manufacturer to be able to perform this activity in a short amount of time. 
+
+The Company continues to work with large defense
+contractors on many projects to collaborate and develop solutions that could utilize our technology. These discussions involve
+cutting edge technology while designing in our products as part of the final design. These early development efforts can lead to
+long term future orders. 
+
+To continue to increase our presence in the
+aerospace/defense sector, we have added an additional sales representative to aggressively seek out new opportunities for the Company. 
+
+Status Report from Industrial Products  
+
+ Robert H. Schneider 
+
+ Craig W. Winters 
+
+Fiscal Year 2018 did not produce the results
+we were anticipating one year earlier. Overall, Taylor Devices  industrial product lines sales decreased this year by approximately
+8% to $14,158,022, with a 12% decrease for our construction related products and a 27% increase for our Crane Buffers and other
+catalog items. The total for both product lines represents 58% of the Company s sales for the year. Sales in some portions
+of Asia have increased, while other portions have decreased, but the net result is a substantial increase in Asian sales for FY
+18. The increase in Asian sales along with increased crane buffer and catalog sales helped to offset the decrease in sales for
+our seismic and wind control products within the USA. Our industrial product diversity, mixed with our other product lines, helps
+to keep us going strong when other segments of our business are facing challenges. 
+
+A major challenge we face is related to the
+new tariffs on imported steel and aluminum. Taylor Devices prefers to use steel produced in the USA when it is available in the
+shapes and sizes needed to produce our products, but due to domestic supply/demand we are seeing increased material prices for
+the steel we buy from US mills. This is forcing us to control our costs in other ways since raising prices will make it difficult
+to compete with other damper manufacturers in other countries that are not faced with the increase in raw material prices. On the
+other hand, the tariffs seem to be spurring new activity at the US steel mills and that should result in additional demand for
+our energy absorbers used on the overhead cranes and other applications in the steel and aluminum mills. 
+
+Although sales are somewhat down, we are optimistic
+about the future. Our overall company backlog at the end of FY 18 was 23.1M, approximately 7% higher than at this same period last
+year which was 21.6M. Of the 23.1M in backlog, 67% is for our industrial products and the remaining 33% is for our military and
+aerospace products. 
+
+New sales efforts have been initiated to reverse
+the trend of declining sales of our dampers used for seismic and wind protection of structures. It was identified that competing
+technologies have made it easier to implement their products by providing assistance with design of the structure to help save
+the structural engineer time. Taylor Devices is in the final stages of producing a new comprehensive guide to assist structural
+engineers with implementing viscous dampers in their structure. We have also expanded our direct sales team by hiring a new Western
+US Technical Sales Manager. With more than 10 years of experience as a structural engineer, Aaron Malatesta will be able to enhance
+the level of support that we provide to our customers along the west coast. 
+
+During FY18, new orders for our seismic and
+wind damping technology remained nearly the same as past years, with 34 new projects, of varying sizes. This puts our total number
+of seismic and wind projects over the 700 mark. Many of these new orders along with some existing multi-year projects are scheduled
+to ship after the end of FY18, so our FY19 looks promising, despite the current apparent lag. 
+
+A notable project won during FY18 includes
+96 dampers for the San Francisco   Oakland Bay Bridge. Due to significant changes in the requirements for these specialized
+devices, the Taylor Devices' seismic dampers that were originally installed in 2001 are now being replaced by upgraded devices.  
+New and proprietary features that have recently been tested and qualified to meet specific requirements of the California State
+Department of Transportation (CalTrans) have been incorporated into the design.   
+
+Other projects worth mentioning include protection
+of a new pedestrian bridge located outside of the Kennedy Center in Washington, D.C. from excessive vibrations resulting from wind
+and people walking and running across the bridge. Several retrofit projects for buildings located in Los Angeles and San Francisco.
+These projects are a result of the new ordinances implemented by Los Angeles and San Francisco that require certain building types
+to be strengthened against earthquakes. Taylor Devices was also awarded a contract to supply 108 large dampers for the seismic
+Upgrade of the St. Bernardine Medical Center located in Southern California. The dampers will be installed outside of the existing
+structure and will allow the hospital to remain functional during the retrofit process. 
+
+A very strong backlog of existing orders at
+the end of FY18 as well as new and retrofit construction projects in current development throughout the world provide a good outlook
+for FY19 expectations. Our recognized ability to suit the customer s needs with special products and the flexibility to continually
+adapt to the requirements of the market, remain our most valuable assets. 
+
+Corporate Data  
+
+OFFICERS AND DIRECTORS   
+ 
+      JOHN BURGESS Chairman of the Board of Directors   
+ 
+      ALAN R. KLEMBCZYK President and Director   
+ 
+      RANDALL L. CLARK Director   
+ 
+      F. ERIC ARMENAT Secretary and Director   
+ 
+      MARK V. MCDONOUGH Chief Financial Officer and Director   
+
+GENERAL COUNSEL   
+ 
+      Barclay Damon, LLP   
+ 
+      Barclay Damon Tower   
+ 
+      125 East Jefferson Street   
+ 
+      Syracuse, NY 13202   
+
+MANAGERS   
+ 
+      BENJAMIN KUJAWINSKI Vice President, Operations   
+ 
+      JOHN METZGER Chief Engineer   
+ 
+      ROBERT SCHNEIDER Industrial/Seismic Products Sales Manager   
+ 
+      CRAIG WINTERS Industrial/Seismic Products Sales Manager   
+ 
+      CHARLES KETCHUM III Quality Assurance Manager   
+ 
+      CASEY MCQUATE Purchasing Manager   
+ 
+      TRACY MASSE Human Resources Manager   
+ 
+      STEVEN KANUTSU Contracts Manager   
+ 
+      KATHLEEN NICOSIA Shareholder Relations Manager   
+ 
+      ROGER HARTLEY Quality Control Manager   
+ 
+      THOMAS STRUZIK JR. Large Machine Shop Supervisor   
+ 
+      GREG HANSON Small Machine Shop Supervisor   
+
+TRANSFER AGENT AND REGISTRAR  
+
+ Computershare Investor Services 
+
+ 250 Royall Street 
+
+ Canton, MA 02021 
+
+ 800-522-6645 
+
+ www.computershare.com 
+
+A copy of the financial report on form 10-K can be obtained by written request to the attention
+of Kathleen Nicosia, IR, at Taylor Devices, Inc., 90 Taylor Drive, North Tonawanda, NY 14120-0748.     
+
+MARKET INFORMATION  
+
+The Company's Common Stock trades on the NASDAQ Capital Market
+of the National Association of Securities Dealers Automated Quotation (NASDAQ) stock market under the symbol TAYD. 
+
+The high and low sales information noted below for the quarters
+of fiscal year 2018 and fiscal year 2017 were obtained from NASDAQ. 
+
+As of May 31, 2018, the number of issued and outstanding shares
+of Common Stock was 3,466,267 and the approximate number of record holders of the Company's Common Stock was 531. Due to a substantial
+number of shares of the Company's Common Stock held in street name, the Company believes that the total number of beneficial owners
+of its Common Stock exceeds 2,000. No cash or stock dividends have been declared during the fiscal year ended May 31, 2018. 
+
+Notice of Annual Meeting  
+
+The annual meeting of the shareholders of the Company will be held
+on Friday, November 2, 2018 at 11:00 a.m. This year's meeting will be held at the Millennium Buffalo, 2040 Walden Avenue, Buffalo,
+New York. Shareholders desiring accommodations may call the Millennium Buffalo at 716-681-2400. 
+
+BOARD OF DIRECTORS AND EXECUTIVE OFFICERS  
+
+John
+Burgess   
+
+ Chairman of the Board of
+Directors 
+
+Mr.
+Burgess gained his international strategy, manufacturing operations and organizational development expertise from his more than
+40 years experience with middle market public and privately-owned companies. Mr. Burgess served as President and CEO of Reichert,
+Inc. a leading provider of ophthalmic instruments, and spearheaded the acquisition of the company from Leica Microsystems in 2002,
+leading the company until its sale in January 2007. Prior to the acquisition, Mr. Burgess served as President of Leica s
+Ophthalmic and Educational Divisions before leading the buyout of the Ophthalmic Division and formation of Reichert, Inc.  
+ 
+From 1996 to 1999, Mr. Burgess was COO of International Motion Controls (IMC), a $200 million diversified manufacturing firm. During
+his tenure there, he led a significant acquisition strategy that resulted in seven completed acquisitions and sixteen worldwide
+businesses in the motion control market. Previously, Mr. Burgess operated a number of companies for Moog, Inc. and Carleton Technologies,
+including six years as President of Moog s Japanese subsidiary, Nihon Moog K.K. located in Hiratsuka, Japan. Moog, Inc. is
+the global leader in electro-hydraulic servo control technology with focus on the aerospace and defense sectors and was recognized
+as one of The 100 Best Companies to Work For in America by  Fortune Magazine . 
+ 
+Mr. Burgess earned a Bachelor of Science in Engineering from Bath University in England, and a Masters of Business Administration
+from Canisius College. 
+
+Currently Mr. Burgess is an Operating Partner
+of Summer Street Capital LLC and Director of Bird Technologies Corporation of Solon, Ohio. 
+
+ALAN R. KLEMBCZYK   
+
+ Board Member and President 
+
+After graduating from the University of Buffalo
+in 1987 with a degree in Mechanical Engineering, Mr. Klembczyk has held key positions in Sales and Engineering at Taylor Devices
+over the last 30 years including Design Engineer, Assistant Chief Engineer, Chief Engineer, Vice President of Sales and Engineering
+and was appointed President of the Company and Member of the Board of Directors in June 2018. 
+
+Mr. Klembczyk has spent most of his career
+managing the Taylor Devices Engineering Department along with designing and developing shock and vibration mitigating products
+for a diverse customer base. These include hundreds of applications to improve performance under wind, seismic, shock and vibration
+for many aerospace, industrial and structural applications. 
+
+Mr. Klembczyk has been responsible for establishing
+new Sales   Marketing policies and has been directly involved with defining internal Company policy and strategic direction
+in cooperation with all levels of Taylor Devices  Management. He has been an integral part of the team that managed upgrades
+to the Quality System and obtaining 3 rd  party certification to International Standards ISO 9001, ISO 14000 and Aerospace
+Standard AS9100. 
+
+Mr. Klembczyk has served for many years on
+the Technical Advisory Group for the US Shock and Vibration Information   Analysis Center (SAVIAC) and the Shock and Vibration
+Exchange (SAVE). Additionally, he has been a tutorial and course instructor for various organizations internationally and has participated
+in technical conferences and symposia. 
+
+Mr. Klembczyk has participated in many research
+projects for products for military   aerospace, industrial, and structural applications. He has served as Program Manager for
+many of these projects and has worked with academia including the University at Buffalo s MCEER: Earthquake Engineering to
+Extreme Events, among others. 
+
+He has published several papers describing
+unique applications for structural dampers, tuned mass dampers, vibration isolators, shock absorbers, and shock isolators and holds
+US Patents for some of these components. These papers have been published by SAVE, SAVIAC, the Society for Experimental Mechanics
+(SEM) and the Applied Technology Council (ATC). 
+
+F.
+Eric Armenat   
+
+ Board Member and Secretary 
+
+Mr. Armenat has more than 37 years of business
+experience across a myriad of industries both private and public. He is currently the President and Chief Executive Officer of
+Multisorb Filtration Group which he successfully spearheaded the sale of in early 2018 from a private equity owner. Multisorb is
+the world leader in the active packaging industry solving complex technical challenges in the pharmaceutical, food, and industrial
+markets. 
+
+From 2012 to 2016, Mr. Armenat served and
+President and Chief Executive Officer for several companies owned by private equity. These companies included healthcare delivery,
+medical waste collection and disposal as well as active packaging. He was responsible for the successful business improvement and
+eventual divestiture of the companies. 
+
+From 2009 to 2012, Mr. Armenat served as Chief
+Operating Officer of Avox Systems (Zodiac Aerospace), a leading supplier of aircraft oxygen systems. From 1994 to 2009, he served
+as Vice President of Operations and then President and General Manager of Carleton Technologies (Cobham Mission Systems), a global
+leader of technology for the military and commercial aviation markets. Mr. Armenat also worked as an Operations Management Consultant
+with Ernst and Young beginning in 1984. 
+
+Mr. Armenat earned his Bachelor of Science
+Degree in Industrial Engineering from Southern Illinois University and his MBA in Finance and Accounting from St. Bonaventure University.
+He also proudly served in the United States Airforce. 
+
+RANDALL L. CLARK  
+
+ Board Member 
+
+Mr. Clark holds a B.A. degree from the University
+of Pennsylvania, and earned his M.B.A. from the Wharton School of Finance and Commerce. He is and has been the Chairman of Dunn
+Tire LLC since 1996. From 1992 to 1996, Mr. Clark was Executive Vice President and Chief Operating Officer of Pratt   Lambert,
+until it was purchased by Sherwin-Williams. 
+
+Mr. Clark has been employed in the tire industry
+for many years. He was named President of the Dunlop Tire Corporation in 1980, was appointed to the Board of Directors in 1983,
+and named President and Chief Executive Officer in 1984. He was one of seven chief executives of operating companies appointed
+to the Group Management Board of Dunlop Holdings, PLC., and was Chairman of the Board and Chief Executive Officer of Dunlop Tire
+Corporation in North America from 1985 to 1991. In 2012 he was inducted into the Tire Industry Association Hall of Fame. 
+
+From 1977 to 1980, Mr. Clark was Vice President
+of Marketing for the Dunlop Tire Division. From 1973 to 1977, he was employed by Dunlop as Director of Marketing at the company s
+Buffalo, NY headquarters. From 1968 to 1973, Mr. Clark was employed by the B.F. Goodrich Company. 
+
+Mr. Clark is currently a Director of Merchants
+Mutual Insurance Company. He recently retired as a Director of Computer Task Group, a publicly traded company, and The Ten Eleven
+Group. He is a past President of the International Trade Council of Western New York, past Chairman of the Buffalo Chamber of Commerce,
+and past Chairman of Invest Buffalo Niagara. He is also a past Chairman of AAA of Western and Central New York. Mr. Clark was appointed
+by Governor George Pataki and served on the Council for the State University of New York at Buffalo. Recently he retired from the
+Board of Trustees of the University at Buffalo Foundation. 
+
+MARK V. MCDONOUGH  
+
+ Board Member and Chief Financial Officer 
+
+Mr. McDonough, who joined Taylor Devices in
+June 2003, is a Certified Public Accountant in New York State and holds a BBA degree from Niagara University, awarded in 1982.
+He has been involved in financial management of various Western New York manufacturing organizations for over twenty-five years.
+He has extensive experience in international operations coupled with a long history of implementing systems of internal controls.
+From 1986 to 1989 he was an auditor with the Buffalo office of Ernst   Young, LLP. 
+
+Mr. McDonough is a member of the New York
+State Society of Certified Public Accountants and the American Institute of Certified Public Accountants. 
+
+IN MEMORIAM  
+
+Reginald
+B. Newman II   1937 - 2018 
+
+It is with great sadness that the Company
+announces the passing of Reginald B. Newman II, Taylor Devices  Board Member and Secretary since 2006. Mr. Newman s
+contributions to the Company can never be measured. He brought a vast wealth of wisdom and experience to the Board and was an even
+keel providing guidance to the Company s management for many years. The Company s Management and employees are eternally
+grateful to Mr. Newman for his contributions. 
+
+</EX-13>
+
+<EX-31>
+ 3
+ ceo302certification2018.htm
+ CEO 302 CERTIFICATION
+
+Exhibit 31(i)  
+
+CERTIFICATION   
+OF CHIEF EXECUTIVE OFFICER  
+
+  PURSUANT TO RULE 13a - 14(a) OF THE SECURITIES
+EXCHANGE ACT OF 1934,  
+
+  AS ADOPTED PURSUANT TO SECTION 302 OF THE
+SARBANES-OXLEY ACT OF 2002  
+
+I, Alan R. Klembczyk, certify
+that: 
+
+1. I have reviewed this annual report
+on Form 10-K of Taylor Devices, Inc.; 
+
+2. Based on my knowledge, this report
+does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+report; 
+
+3. Based on my knowledge, the financial
+statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other
+certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange
+Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls
+and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over
+financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the
+registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change
+in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal
+quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other
+certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of registrant s board of directors (or persons performing the equivalent
+functions): 
+
+(a) All significant deficiencies and
+material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant s internal control over financial
+reporting. 
+
+Date: August 9, 2018  
+
+Alan R. Klembczyk 
+         Chief Executive Officer 
+
+</EX-31>
+
+<EX-32>
+ 4
+ ceo906certification2018.htm
+ CEO 906 CERTIFICATION
+
+Exhibit 32(i)  
+
+CERTIFICATION  
+OF CHIEF EXECUTIVE OFFICER 
+
+  PURSUANT TO 18 U.S.C.
+SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906   
+
+  OF THE SARBANES-OXLEY
+ACT OF 2002  
+
+In connect with the annual
+report of Taylor Devices, Inc. ( the Company ) on Form 10-K for the fiscal year ended May 31, 2018 to be filed with Securities
+and Exchange Commission on or about the date hereof (the 
+ Report ), I, Alan R. Klembczyk, Chief Executive Officer of the Company, certify, pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that: 
+
+(1) The Report fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained
+in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of
+the dates and for the periods covered by the Report. 
+
+It is not intended that
+this statement be deemed to be filed for purposes of the Securities Exchange Act of 1934. 
+
+Date: August 9, 2018  
+      By:  
+       /s/Alan R. Klembczyk          
+
+Alan R. Klembczyk, 
+         Chief Executive Officer 
+
+</EX-32>
+
+<EX-31>
+ 5
+ cfo302certification2018.htm
+ CFO 302 CERTIFICATION
+
+Exhibit 31(ii)  
+
+CERTIFICATION   
+OF CHIEF FINANCIAL OFFICER  
+
+  PURSUANT TO RULE 13a - 14(a) OF THE SECURITIES
+EXCHANGE ACT OF 1934,  
+
+  AS ADOPTED PURSUANT TO SECTION 302 OF THE
+SARBANES-OXLEY ACT OF 2002  
+
+I, Mark V. McDonough, certify
+that: 
+
+1. I have reviewed this annual report
+on Form 10-K of Taylor Devices, Inc.; 
+
+2. Based on my knowledge, this report
+does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made,
+in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+report; 
+
+3. Based on my knowledge, the financial
+statements, and other financial information included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant's other certifying
+officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules
+13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))
+for the registrant and have: 
+
+(a) Designed such disclosure controls
+and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material
+information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over
+financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the
+registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change
+in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter
+(the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely
+to materially affect, the registrant's internal control over financial reporting; and 
+
+5. The registrant's other certifying
+officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's
+auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and
+material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely
+affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date: August 9, 2018  
+      /s/ Mark V. McDonough   
+
+Mark V. McDonough 
+         Chief Financial Officer 
+
+</EX-31>
+
+<EX-32>
+ 6
+ cfo906certification2018.htm
+ CFO 906 CERTIFICATION
+
+Exhibit 32(ii)  
+
+CERTIFICATION  
+OF CHIEF FINANCIAL OFFICER 
+
+  PURSUANT TO 18 U.S.C.
+SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906   
+
+  OF THE SARBANES-OXLEY
+ACT OF 2002  
+
+In connect with the annual
+report of Taylor Devices, Inc. (the  Company ) on Form 10-K for the fiscal year ended May 31, 2018 to be filed with Securities
+and Exchange Commission on or about the date hereof (the  Report ), I, Mark V. McDonough, Chief Financial Officer of
+the Company, certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350, that: 
+
+(1) The Report fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+(2) The information contained
+in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of
+the dates and for the periods covered by the Report. 
+
+It is not intended that
+this statement be deemed to be filed for purposes of the Securities Exchange Act of 1934. 
+
+Date: August 9, 2018  
+      By:  
+       /s/ Mark V. McDonough          
+
+Mark V. McDonough, 
+         Chief Financial Officer 
+
+</EX-32>
+
+<EX-10>
+ 7
+ negativepledge2018.htm
+ NEGATIVE PLEDGE
+
+Exhibit 10(ix)  
+
+NEGATIVE PLEDGE AGREEMENT   
+
+This Negative Pledge
+Agreement dated 30 th  day of August, 2017 (this  Agreement ) is entered into by  TAYLOR
+DEVICES, INC.,  a corporation organized under the laws of New York, with its chief executive office 90 Taylor Drive, North
+Tonawanda, NY 14120  (  Pledgor  ), 
+to M T BANK, a New York banking corporation with its banking offices at One M T Plaza, Buffalo, NY 14203 ( Lender ). 
+
+   Recitals   
+
+A.       Lender
+is or will be making available to Pledgor a certain demand line of credit loan in the maximum amount of $10,000,000.00 (collectively,
+as such loan may be amended, supplemented or otherwise modified, the  Credit Facility ). 
+
+ B.       Lender
+has requested and Pledgor has agreed to enter into, execute and deliver this Agreement as a condition precedent to making the Credit
+Facility available, understanding that Lender is relying on this Agreement in extending the Credit Facility and acknowledging that
+Pledgor is deriving a substantial benefit from the Credit Facility. 
+
+  NOW, THEREFORE ,
+in consideration of the mutual promises of the parties hereto and other good and valuable consideration, the receipt and sufficiency
+of which are hereby acknowledged, Pledgor, intending to be legally bound, hereby agrees as follows: 
+
+  1.       
+  Warranty of Title  . Pledgor warrants and represents to Lender that, upon information and belief, it is the owner
+of all of its personal property including, without limitation,  all personal property  wherever
+located, whether now existing or owned or hereafter arising or acquired, whether or not subject to the Uniform Commercial Code,
+as the same may be in effect in the State of New York, as amended from time to time, and whether or not affixed to any realty including,
+without limitation: (i) all accounts, chattel paper, investment property, deposit accounts, documents, equipment, farm products,
+general intangibles (including trademarks, service marks, trade names, patents, copyrights, licenses and franchises), instruments,
+inventory, money, letter of credit rights, causes of action (including tort claims) and other personal property (including agreements
+and instruments not constituting chattel paper or a document, general intangible or instrument); (ii) all additions, accessions
+to, substitutions for, or replacements of the foregoing; (iii) all proceeds and products of the foregoing including insurance proceeds;
+and (iv) all business records and information relating to any of the foregoing and any software or other programs for accessing
+and manipulating such information (collectively referred to herein as the  Collateral ) and Pledgor holds the Collateral
+free and clear of any and all liens or claims or encumbrances of any nature whatsoever. 
+
+  2.       
+  Negative Pledge .  So long as the Credit Facility shall remain outstanding, Pledgor will not, without the prior
+written consent of Lender: 
+
+ (a)     
+  sell, transfer, assign or lease the Collateral or any part thereof. 
+
+ (b)                 
+ create, incur, assume or suffer to exist any Lien on any of the Collateral. As used herein,  Lien  means any
+interest in property securing an obligation whether such interest is based on the common law, statute or contract, and including
+but not limited to a security interest arising from a security agreement, an encumbrance, pledge, conditional pledge or mortgage,
+or a lease, consignment or bailment for security purposes. 
+
+ (c)     
+   enter into any agreement with any person other than Lender, which prohibits or limits
+the ability of Pledgor to create, incur, assume or suffer to exist any security interest, mortgage, pledge, lien or other encumbrance
+upon the Collateral.  
+
+  3.       
+   Representations and Warranties  . 
+
+ (a)     
+ Pledgor is a corporation: (i) duly formed, validly existing and in good standing under the laws of the State of New York;
+and (ii) has the power and authority to own and use its assets and conduct its business and operations as now conducted, and as
+anticipated that its business and operations will hereafter be, conducted. 
+
+ (b)     
+ The execution, delivery and performance by Pledgor of this Agreement have been duly authorized by all necessary action and
+will not (i) contravene any of Pledgor s organizational documents, (ii) violate any law, rule or regulation, order, writ,
+judgment, injunction, decree, determination or award, and (iii) conflict with or result in the breach of, or constitute a default
+under, any material contract, loan agreement or other material instrument or agreement binding on Pledgor or any of Pledgor s
+properties, or result in or require the creation or imposition of any lien upon or with respect to any of Pledgor s properties. 
+
+  4.       
+  Governing Law .  This Agreement and the relations of the parties hereby shall be governed by and construed in accordance
+with the internal laws of the State of New York without regard to principles of conflict of laws. 
+
+  5.       
+  Consents and Waivers Relating to Legal Proceedings .  
+
+  (a)     
+  PLEDGOR KNOWINGLY, VOLUNTARILY,  INTENTIONALLY AND IRREVOCABLY
+(i) CONSENTS IN EACH ACTION AND OTHER LEGAL PROCEEDING COMMENCED BY LENDER AND ARISING OUT OF OR OTHERWISE RELATING TO THIS AGREEMENT
+TO THE NONEXCLUSIVE PERSONAL JURISDICTION OF ANY COURT THAT IS EITHER A COURT OF RECORD OF THE STATE OF NEW YORK, ERIE COUNTY,
+OR A COURT OF THE UNITED STATES LOCATED IN THE STATE OF NEW YORK, ERIE COUNTY, (ii) WAIVES EACH OBJECTION TO THE LAYING OF VENUE
+OF ANY SUCH ACTION OR OTHER LEGAL PROCEEDING, (iii) WAIVES PERSONAL SERVICE OF PROCESS IN EACH SUCH ACTION AND OTHER LEGAL PROCEEDING,
+AND (iv) CONSENTS TO THE MAKING OF SERVICE OF PROCESS IN EACH SUCH ACTION AND OTHER LEGAL PROCEEDING BY REGISTERED MAIL DIRECTED
+TO PLEDGOR AT THE LAST ADDRESS OF PLEDGOR SHOWN IN THE RECORDS RELATING TO THIS AGREEMENT MAINTAINED BY LENDER, WITH SUCH SERVICE
+OF PROCESS TO BE DEEMED COMPLETED FIVE DAYS AFTER THE MAILING THEREOF.  
+
+  (b)     
+  PLEDGOR  KNOWINGLY, VOLUNTARILY, INTENTIONALLY AND IRREVOCABLY
+WAIVES EACH RIGHT PLEDGOR MAY HAVE TO A TRIAL BY JURY WITH RESPECT TO, AND EACH RIGHT TO ASSERT ANY CLAIM FOR DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PUNITIVE DAMAGES) IN ANY ACTION OR OTHER LEGAL PROCEEDING OF ANY NATURE, RELATING TO (i) THIS AGREEMENT, (ii)
+ANY TRANSACTION RELATING TO THIS AGREEMENT, OR (iii) ANY NEGOTIATION, ADMINISTRATION, PERFORMANCE OR ENFORCEMENT OF THIS AGREEMENT.
+PLEDGOR  CERTIFIES THAT NEITHER LENDER NOR ANY REPRESENTATIVE OF LENDER HAS REPRESENTED TO PLEDGOR THAT LENDER WILL NOT SEEK
+TO ENFORCE THE WAIVER MADE BY PLEDGOR IN THIS PARAGRAPH.  PLEDGOR ACKNOWLEDGES
+THAT IT HAS BEEN REPRESENTED BY INDEPENDENT LEGAL COUNSEL AS NECESSARY AND APPROPRIATE.  
+
+IN WITNESS WHEREOF ,
+this Agreement has been executed as of the date first above written. 
+
+  PLEDGOR:  
+
+TAYLOR DEVICES, INC. 
+
+By:  /s/Douglas P.
+Taylor  
+
+ Name: Douglas
+P. Taylor 
+
+ Title: President 
+
+STATE OF NEW YORK  ) 
+
+ : SS. 
+
+ COUNTY OF NIAGARA ) 
+
+On the 30th day of August
+in the year 2017, before me, the undersigned, a Notary Public in and for said State, personally appeared Douglas P. Taylor, personally
+known to me or proved to me on the basis of satisfactory evidence to be the individual whose name is subscribed to the within instrument
+and acknowledged to me that he executed the same in his capacity, and that by his signature on the instrument, the individual,
+or the person upon behalf of which the individual acted, executed the instrument. 
+
+ / s/Krystal Marie Kreger  
+
+ Notary Public 
+
+</EX-10>
+
+<EX-20>
+ 8
+ summernewsletter2018.htm
+ SUMMER NEWSLETTER 2018
+
+Exhibit 20(i)  
+
+NEWS FROM TAYLOR DEVICES, INC.  
+
+  SHAREHOLDER LETTER, SUMMER 2018  
+
+THIS NEWSLETTER IS DIRECTED TO ALL SHAREHOLDERS
+OF TAYLOR DEVICES. WE HOPE THAT IT WILL GENERATE INTEREST IN THE COMPANY, PLUS PROVIDE CURRENT FINANCIAL AND PROJECT INFORMATION.
+COPIES OF THIS NEWSLETTER WILL ALSO BE CIRCULATED TO SHAREHOLDERS WHO HAVE SHARES IN BROKERAGE ACCOUNTS.  
+
+STATEMENT FROM THE PRESIDENT   
+
+ As reported in a recent press release, Douglas
+Taylor and Richard Hill have retired from Taylor Devices as of May 31, 2018. I now accept the role of President with the highest
+expectations while holding the same high standards as the prior Management team. 
+
+As a young engineer, I started my career with
+the Company in March 1988 and I have worked directly for Doug Taylor ever since. When I started, Paul Taylor was the President
+and CEO and I am thankful that I had the opportunity to have open discussions with him about the past and the future of the Company.
+Of course, I am even more grateful for the opportunity to have worked directly for Doug Taylor for all those years while watching
+the change in direction and the great progress that was made under his leadership. I appreciate where this Company has come from,
+and I am quite confident in its future direction. 
+
+The change in management has been seamless.
+Our current strategy is to carry on the tradition of excellence for the Company with respect to the products and services that
+we provide to all our customers. We will maintain the strategies that have made Taylor Devices a successful company since 1955.
+However, we will also take this opportunity to accommodate even more continuous improvement through a multi-faceted approach. Some
+of these efforts include more aggressive sales   marketing efforts, improvements in operational efficiency, increased research
+  development, lower costs, improved lead times, and to generally increase our customer base. 
+
+All of these items are meant to accommodate
+steady increases in revenue and net income so that we can increase shareholder value. Some items will take longer than others,
+but progress will proceed with certainty. Although none of us are satisfied with the results from fiscal year ending 2018, we look
+forward to a very bright future indeed. I look forward to sharing pertinent news from the Company and summarizing quarterly results
+through these newsletters as we always have. 
+
+IN MEMORIAM   
+
+Reginald B. Newman II 
+
+ 1937 - 2018 
+
+It is with great sadness that the Company announces
+the unexpected passing of Reginald Newman II on April 7, 2018, Taylor Devices  Board Member and Secretary since 2006. Mr.
+Newman s contributions to the Company can never be measured. He brought a vast wealth of wisdom and experience to the Board
+and was instrumental in bringing significant improvement to the Company for many years. The Company s Management and employees
+are eternally grateful to Mr. Newman for his contributions. 
+
+NEW DIRECTORS   
+
+F. Eric Armenat 
+
+We are pleased to announce the appointment of
+F. Eric Armenat to the Board of Directors of Taylor Devices on April 27, 2018. 
+
+Mr. Armenat has
+more than 37 years of business experience across many industries both private and public. He is currently the President and Chief
+Executive Officer of Multisorb Filtration Group, which he successfully spearheaded the sale of in early 2018 from a private equity
+owner. Multisorb is the world leader in the active packaging industry, solving complex technical challenges in the pharmaceutical,
+food, and industrial markets. We are looking forward to working with Mr. Armenat who is bringing his vast experience in a manufacturing
+environment to accommodate, in part, improvement to the manufacturing capability of Taylor Devices . 
+
+Mark V. McDonough 
+
+Mark McDonough, CFO of Taylor Devices, was appointed
+as a member of the Board of Directors to fill the vacancy created by the retirement of Richard G. Hill. 
+
+Alan R. Klembczyk 
+
+It is with great honor that I have accepted
+a position on the Board of Directors to fill the vacancy created by the retirement of Douglas Taylor. 
+
+FINANCIAL RESULTS   
+
+ Taylor Devices completed its 2017-2018
+fiscal year on May 31, 2018. Sales for 2018 were $ 24,363,967 down slightly from $25,536,996 in 2017. Net income was $443,370 down
+from $2,330,577 in 2017. 
+
+ Taylor Devices  firm sales order
+backlog at year s end was $23.1 million, compared to $21.6 million at the end of the 2017 fiscal year. 
+
+NEW
+ORDERS       -   SEISMIC
+/ WIND    
+
+ Listed below are some examples of new
+orders for seismic and wind dampers that were received during the past quarter. This is not a complete list, but this will provide
+a flavor of some of the new projects we are currently working on. 
+
+n      Special Dampers
+for a New Pedestrian Bridge in the US.      
+
+n      Seismic Dampers
+for a Manufacturing Plant in Asia      
+
+n      Seismic Dampers
+for a Residential Building in Asia       
+
+n      Seismic Dampers
+for a 38 Story Residential Building in Central America      
+
+n      Seismic Dampers
+for the San Francisco-Oakland Bay Bridge, CA      
+
+n      Seismic Dampers
+for a Bridge in Asia      
+
+ In a recent press release, it was announced
+that Taylor Devices received its largest contract ever worth $7.51 million to supply 96 large seismic dampers for the San Francisco-Oakland
+Bay Bridge. Receiving this contract was the result of the significant efforts on behalf of the Sales and Engineering teams at Taylor
+Devices over the last few years to design and qualify a special damper with new and proprietary features to meet new requirements
+of the California State Department of Transportation. 
+
+NEW ORDERS   AEROSPACE / DEFENSE   
+
+ Although not complete, provided below
+is a list of some new military/aerospace projects that we are working on: 
+
+n      Landing Gear Shock
+Struts     The Company has received a substantial contract from an overseas aircraft manufacturer.    
+
+n      KC-46 Tanker Aircraft
+Program     The Company has received a follow on contract for our energy absorbers for 30 production aircraft.    
+
+n      NASA Space Launch
+System    A follow on order was received for more energy absorbers for use on the launch pad of the new SLS Program.
+The Program is now scheduled to launch the first Orion spacecraft in early 2020.     
+
+n      Shock Absorbers
+for US Navy Carriers    A follow on order was received for shock absorbers for the 2 nd  and 3 rd 
+aircraft carriers of the Gerald Ford class of carriers.     
+
+NEXT SHAREHOLDER MAILING   
+
+ Our next Shareholder mailing will be the Notice
+of Annual Meeting of Shareholders. The Annual Meeting is scheduled for Friday, November 2, 2018 at 11 am at the Millennium Buffalo,
+2040 Walden Ave in Cheektowaga. You should be receiving your mailing in September. 
+
+/s/Alan R. Klembczyk  
+
+ By: Alan Klembczyk 
+
+ President 
+
+</EX-20>
+
+<EX-101.SCH>
+ 9
+ tayd-20180531.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ tayd-20180531_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ tayd-20180531_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ tayd-20180531_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ tayd-20180531_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

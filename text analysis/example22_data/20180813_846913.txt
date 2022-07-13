@@ -1,0 +1,812 @@
+ES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+     FORM 10-Q 
+  (Mark One) 
+   
+ For the quarterly period ended   June 30, 2018    
+  or      
+ For the transition period from ______ to______.              
+  Commission file number: 001-33059 
+  FUEL TECH, INC. 
+  (Exact name of registrant as specified in its charter) 
+                   Delaware 
+      
+    20-5657551 
+      (State or other jurisdiction of 
+  incorporation of organization) 
+      
+    (I.R.S. Employer 
+  Identification Number) 
+
+Fuel Tech, Inc. 
+  27601 Bella Vista Parkway 
+  Warrenville, IL 60555-1617 
+  630-845-4500 
+  www.ftek.com 
+  (Address and telephone number of principal executive offices) 
+    ________________________________ 
+  Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes    x      No      
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes    x      No      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definition of  accelerated filer ,  large accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one):    
+                         Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+      
+    x 
+      (Do not check if a smaller reporting company) 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act       
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes           No    x 
+  On   July 31, 2018   there were outstanding   24,170,585   shares of Common Stock, par value $0.01 per share, of the registrant.                 
+
+FUEL TECH, INC. 
+  Form 10-Q for the   six  -month period ended   June 30, 2018    
+  INDEX 
+
+Page 
+
+PART I. FINANCIAL INFORMATION  
+
+Item 1.  
+     Financial Statements (Unaudited)  
+
+Condensed Consolidated Balance Sheets as of June 30, 2018 and December 31, 2017 
+    1 
+
+Condensed Consolidated Statements of Operations for the Three- and Six-Month Periods Ended June 30, 2018 and 2017 
+    2 
+
+Condensed Consolidated Statements of Comprehensive Loss for the Three- and Six-Month Periods Ended June 30, 2018 and 2017 
+    3 
+
+Condensed Consolidated Statements of Cash Flows for the Three- and Six-Month Periods Ended June 30, 2018 and 2017 
+    4 
+
+Notes to Condensed Consolidated Financial Statements 
+    5 
+
+Item 2.  
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    16 
+
+Item 3.  
+     Quantitative and Qualitative Disclosures about Market Risk  
+    19 
+
+Item 4.  
+     Controls and Procedures  
+    20 
+
+PART II.  
+     OTHER INFORMATION  
+
+Item 1.  
+     Legal Proceedings  
+    21 
+       Item 1A.  
+     Risk Factors  
+    21 
+       Item 2.  
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    21 
+       Item 6.  
+     Exhibits  
+    22 
+
+SIGNATURES  
+    23 
+
+PART I.        FINANCIAL INFORMATION 
+
+Item 1.        Financial Statements 
+
+FUEL TECH, INC. 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (Unaudited) 
+  (in thousands, except share and per share data) 
+
+See notes to condensed consolidated financial statements. 
+  
+   1 
+
+FUEL TECH, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+  (Unaudited) 
+  (in thousands, except share and per-share data) 
+
+See notes to condensed consolidated financial statements. 
+  
+   2 
+
+FUEL TECH, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+  (Unaudited) 
+  (in thousands) 
+
+See notes to condensed consolidated financial statements. 
+  
+   3 
+
+FUEL TECH, INC. 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (Unaudited) 
+  (in thousands) 
+
+See notes to condensed consolidated financial statements. 
+  
+   4 
+
+FUEL TECH, INC. 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+  June 30, 2018    
+  (Unaudited) 
+  (in thousands, except share and per-share data) 
+
+1.    General 
+  Organization 
+  Fuel Tech, Inc. and subsidiaries ("Fuel Tech", the "Company", "we", "us" or "our") provides advanced engineered solutions for the optimization of combustion systems in utility and industrial applications. Our primary focus is on the worldwide marketing and sale of NO  x   reduction technologies as well as our FUEL CHEM program.  The Company s NO  x   reduction technologies reduce nitrogen oxide emissions from boilers, furnaces and other stationary combustion sources. 
+  Our FUEL CHEM program is based on proprietary TIFI        Targeted In-Furnace  Injection technology, in combination with advanced Computational Fluid Dynamics (CFD) and Chemical Kinetics Modeling (CKM) boiler modeling, in the unique application of specialty chemicals to improve the efficiency, reliability and environmental status of combustion units by controlling slagging, fouling, corrosion, opacity and other sulfur trioxide-related issues in the boiler. 
+  Our business is materially dependent on the continued existence and enforcement of air quality regulations, particularly in the United States. We have expended significant resources in the research and development of new technologies in building our proprietary portfolio of air pollution control, fuel and boiler treatment chemicals, computer modeling and advanced visualization technologies. 
+  Basis of Presentation 
+  The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP") for interim financial information and with the instructions to Form 10-Q and Article 10 of Regulation S-X of the Exchange Act. Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. In the opinion of management, the financial statements reflect all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation of the statements for the periods presented. All significant intercompany transactions and balances have been eliminated. The results of operations for the   three and six   months ended   June 30, 2018   are not necessarily indicative of the results to be expected for the full year ending December 31, 2018. For further information, refer to the audited consolidated financial statements and footnotes thereto included in Fuel Tech s Annual Report on Form 10-K for the year ended   December 31, 2017   as filed with the Securities and Exchange Commission. 
+
+2.    Summary of Significant Accounting Policies 
+  Restricted cash 
+  Restricted cash represents funds that are restricted to satisfy any amount borrowed against the Company's existing revolving credit facility (the Facility) with JPMorgan Chase Bank, N.A. The balance of restricted cash totaling   $6,520   will remain through the Maturity Date of the Facility, except for $500 which will become unrestricted cash on August 31, 2018.  Refer to Note 10 Debt Financing for further information on the Facility. 
+  Recently Adopted Accounting Pronouncements 
+  In May 2014, the Financial Accounting Standards Board (FASB) issued ASU 2014-09 "Revenue from Contracts with Customers" (ASC 606). These changes created a comprehensive framework for all entities in all industries to apply in the determination of when to recognize revenue, and, therefore, supersede virtually all existing revenue recognition requirements and guidance.  This framework is expected to result in less complex guidance in application while providing a consistent and comparable methodology for revenue recognition. The core principle of the guidance is that an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. To achieve this principle, an entity should apply the following steps: (i) identify the contract(s) with a customer, (ii) identify the performance obligations in the contract(s), (iii) determine the transaction price, (iv) allocate the transaction price to the performance obligations in the contract(s), and (v) recognize revenue when, or as, the entity satisfies a performance obligation. The new standard also requires additional financial statement disclosures that will enable users to understand the nature, amount, timing and uncertainty of revenue and cash flows relating to customer contracts. In August 2015, the FASB approved a one-year deferral to January 1, 2018.  The Company adopted the standard on January 1, 2018 using the modified retrospective transition method.  Refer to Note 3 for further details. 
+
+5 
+
+In November 2016, the FASB issued ASU 2016-18, Statement of Cash Flows (Topic 230): Restricted Cash (a consensus of the FASB Emerging Issues Task Force). The amendments in this Update require that a statement of cash flows explain the change during the period in the total of cash, cash equivalents, and amounts generally described as restricted cash or restricted cash equivalents.  Accordingly, restricted cash will be included with cash and cash equivalents when reconciling the beginning-of-period and end-of-period total amounts shown on the Consolidated Statement of Cash Flows.  The Company adopted ASU 2016-18 beginning on January 1, 2018 and adopted the standard using a retrospective approach.   
+    
+  The following table provides a reconciliation of cash, cash equivalents, and restricted cash reported within the Consolidated Balance Sheet that sum to the total of the same such amounts shown in the Consolidated Statements of Cash Flows: 
+
+Recently Issued Accounting Pronouncements 
+    
+  In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842). The amendments in this Update increase transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. ASU 2016-02 will be effective for the Company beginning on January 1, 2019. The Company is in the initial stages of evaluating the impact of the new standard on the accounting policies, processes, and system requirements. While the Company continues to assess the potential impacts of the new standard and anticipate this standard could have a material impact on the consolidated financial statements, the Company does not know or cannot reasonably estimate quantitative information related to the impact of the new standard on the financial statements at this time. 
+    
+  In January 2017, the FASB issued ASU 2017-04, Intangibles-Goodwill and Other (Topic 350): Simplifying the Test for Goodwill Impairment.  This ASU is meant to simplify how an entity is required to test goodwill for impairment by eliminating Step 2 from the goodwill impairment test. Step 2 measures a goodwill impairment loss by comparing the implied fair value of a reporting unit s goodwill with the carrying amount of that goodwill. ASU 2017-04 will be effective for the Company beginning on January 1, 2020. The Company is in the initial stages of evaluating the impact of the new standard on the accounting policies, processes, and system requirements. While the Company continues to assess the potential impacts of the new standard and anticipate this standard could have a material impact on the consolidated financial statements, the Company does not know or cannot reasonably estimate quantitative information related to the impact of the new standard on the financial statements at this time. 
+
+3.    Revenue  
+    
+  Adoption of ASC 606, "Revenue from Contracts with Customers" 
+  On January 1, 2018, we adopted ASC 606 using the modified retrospective method applied to those contracts which were not completed as of January 1, 2018. Results for reporting periods beginning after January 1, 2018 are presented under ASC 606, while prior period amounts are not adjusted and continue to be reported in accordance with our legacy accounting under Accounting Standards Codification Topic 605: Revenue Recognition (ASC 605). 
+    
+  The cumulative effect of the changes made to our January 1, 2018 consolidated balance sheet for the adoption of ASC 606 were as follows: 
+
+The adjustment made to the January 1, 2018 consolidated balance sheet related to deferred revenue under ASC 605 for the license of standalone functional intellectual property to a customer in one of our foreign locations which is recognized at a point in time upon adoption of ASC 606. 
+  
+   6 
+
+Revenue Recognition 
+    
+  The Company recognizes revenue when control of the promised goods or services is transferred to our customers, in amount that reflects the consideration we expect to be entitled to in exchange for those goods or services.  Fuel Tech s sales of its products to customers represent single performance obligations, which are not impacted upon the adoption of ASC 606.  The majority of our contracts have a single performance obligation as the promise to transfer the individual goods or services is not separately identifiable from other promises in the contracts and, therefore, not distinct.  Revenue is measured as the amount of consideration we expect to receive in exchange for transferring goods or providing services.  Sales, value add, and other taxes we collect concurrent with revenue-producing activities are excluded from revenue.  
+    
+  FUEL CHEM 
+    
+  Revenues from the sale of chemical products are recognized when control transfers to customer upon shipment or delivery of the product based on the applicable shipping terms.  We generally recognize revenue for these arrangements at a point in time based on our evaluation of when the customer obtains control of the promised goods or services. 
+    
+  Air Pollution Control Technology 
+  Fuel Tech s APC contracts are typically six to eighteen months in length. A typical contract will have three or four critical operational measurements that, when achieved, serve as the basis for us to invoice the customer via progress billings. At a minimum, these measurements will include the generation of engineering drawings, the shipment of equipment and the completion of a system performance test. 
+  As part of most of its contractual APC project agreements, Fuel Tech will agree to customer-specific acceptance criteria that relate to the operational performance of the system that is being sold. These criteria are determined based on modeling that is performed by Fuel Tech personnel, which is based on operational inputs that are provided by the customer. The customer will warrant that these operational inputs are accurate as they are specified in the binding contractual agreement. Further, the customer is solely responsible for the accuracy of the operating condition information; typically all performance guarantees and equipment warranties granted by us are voidable if the operating condition information is inaccurate or is not met. 
+  Since control transfers over time, revenue is recognized based on the extent of progress towards completion of the single performance obligation.  Fuel Tech uses the cost-to-cost input measure of progress for our contracts since it best depicts the transfer of assets of the customer which occurs as we incur costs on our contracts.  Under the cost-to-cost input measure of progress, the extent of progress towards completion is measured based on the ratio of costs incurred to date to the total estimated costs at completion of the performance obligation.  Revenues are recorded proportionally as costs are incurred.  Costs to fulfill include all internal and external engineering costs, equipment charges, inbound and outbound freight expenses, internal and site transfer costs, installation charges, purchasing and receiving costs, inspection costs, warehousing costs, project personnel travel expenses and other direct and indirect expenses specifically identified as project- or product-line related, as appropriate (e.g. test equipment depreciation and certain insurance expenses).  
+  Fuel Tech has installed over 1,000 units with APC technology and normally provides performance guarantees to our customers based on the operating conditions for the project. As part of the project implementation process, we perform system start-up and optimization services that effectively serve as a test of actual project performance. We believe that this test, combined with the accuracy of the modeling that is performed, enables revenue to be recognized prior to the receipt of formal customer acceptance. 
+  
+   7 
+
+Disaggregated Revenue by Product Technology    
+  The following table presents our revenues disaggregated by product technology: 
+
+(1) As noted above, prior period amounts have not been adjusted under the modified retrospective method. 
+  Disaggregated Revenue by Geography 
+  The following table presents our revenues disaggregated by geography, based on the billing addresses of our customers: 
+
+(1) As noted above, prior period amounts have not been adjusted under the modified retrospective method. 
+  Timing of Revenue Recognition 
+  The following table presents the timing of our revenue recognition: 
+
+(1) As noted above, prior period amounts have not been adjusted under the modified retrospective method. 
+    
+  Contract Balances  
+  The timing of revenue recognition, billings and cash collections results in billed accounts receivable, unbilled receivables (contract assets), and customer advances and deposits (contract liabilities) on the consolidated balance sheets.  In our Air Pollution Control Technology segment, amounts are billed as work progresses in accordance with agreed-upon contractual terms. Generally, billing occurs subsequent to revenue recognition, resulting in contract assets.  These assets are reported on the consolidated balance sheet on a contract-by-contract basis at the end of each reporting period.  At   June 30, 2018   and   December 31, 2017  , contract assets were approximately   $9,336   and   $7,894  , respectively, and are included in accounts receivable on the consolidated balance sheets. 
+
+8 
+
+However, the Company will periodically bill in advance of costs incurred before revenue is recognized, resulting in contract liabilities. These liabilities are reported on the consolidated balance sheet on a contract-by-contract basis at the end of each reporting period.  Contract liabilities were   $344   and   $2,403  , at   June 30, 2018   and   December 31, 2017  , respectively, and are included in other accrued liabilities on the consolidated balance sheets.   
+    
+  Changes in the contract asset and liability balances during the six-month period ended    June 30, 2018  , were not materially impacted by any other items other than amounts billed and revenue recognized as described previously.  During the three and six months ended   June 30, 2018  , revenue recognized that was included in the contract liability balance at the beginning of the period was   $216   and   $2,158  , respectively, which represented primarily revenue from progress towards completion of our Air Pollution Control technology contracts.  During the three and six months ended June 30, 2017, revenue recognized that was included in the contract liability balance at the beginning of the period was   $741   and   $1,560  , respectively, which represented primarily revenue from progress towards completion of our Air Pollution Control technology contracts. 
+  As of   June 30, 2018  , we had   seven   construction contracts in progress that were identified as loss contracts and a provision for losses of   $264   was recorded in other accrued liabilities on the consolidated balance sheet.  As of December 31, 2017, we had   four   construction contracts in progress that were identified as loss contracts and a provision for losses in the amount of   $117   was recorded in other accrued liabilities on the consolidated balance sheet. 
+  Remaining Performance Obligations 
+  Remaining performance obligations, represents the transaction price of Air Pollution Control technology booked orders for which work has not been performed.  As of   June 30, 2018  , the aggregate amount of the transaction price allocated to remaining performance obligations was   $14,417  .  The Company expects to recognize revenue on approximately   $12,652   of the remaining performance obligations over the next 12 months with the remaining recognized thereafter. 
+
+4.    Discontinued Operations 
+    
+  During the second quarter of 2017, the Company suspended all operations associated with the Fuel Conversion business segment.  The components of the net assets of the Fuel Conversion discontinued operations as of   June 30, 2018   and   December 31, 2017   are Assets held for sale on the Consolidated Balance Sheets totaling   $485   which consists primarily of certain equipment.  The resulting amount in assets held for sale was determined using management's assumptions based on a plan of sale and we may not be able to realize as much value from the sale of the assets as we expect.  In addition, accrued severance of   $188   and   $376   is included in the other accrued liabilities line of the Consolidated Balance Sheets as of   June 30, 2018   and   December 31, 2017  , respectively.  The Fuel Conversion business segment had no other assets or liabilities associated with it. 
+    
+  The activity of the Fuel Conversion discontinued operations consisted of Research and Development, severance and other costs for the three- and six-month periods ended   June 30, 2018   of   $74   and   $99  , respectively, and for the same periods in 2017 of   $1,269   and   $1,999  , respectively.  The loss from discontinued operations in the Consolidated Statement of Operations for the three-months ended   June 30, 2018   includes an impairment charge related to the Carbonite patent assets of   $56   as a result of not being able to reach an agreement with a third-party to acquire or license the Carbonite technology in combination with the sale of certain equipment included in Assets held for sale.  The Company intends to sell the certain equipment in Assets held for sale on a standalone basis.  The Fuel Conversion business segment had no revenues associated with it. 
+    
+  As of the date the operations were suspended, the Company incurred   $581   of severance costs related to the suspension of the Fuel Conversion business segment, of which   $311   (  $94   and   $203   was paid for the three- and six-months ended   June 30, 2018  ) will be paid in 2018 and   $65   will be paid in 2019.  The Company expects to incur storage fees and other disposal costs associated with certain property, plant and equipment and contractual termination payments or other miscellaneous expenses but an estimated amount or range of amounts has not yet been determined.  
+
+9 
+
+5.    Restructuring Activities 
+    
+  The Company recorded   no   restructuring charge for the   three and six   months ended   June 30, 2018   and   $58   and   $119   for   three and six   months ended June 30, 2017, respectively, in connection with the workforce reduction.  The charge consisted primarily of one-time severance payments and benefit continuation costs. The following is a reconciliation of the accrual for the workforce reduction that is included within the "Accrued Liabilities - Employee Compensation" line of the consolidated balance sheets for the   three and six   months ending   June 30, 2018   and 2017: 
+
+6.    Accumulated Other Comprehensive Loss 
+  The changes in accumulated other comprehensive loss by component were as follows:    
+
+(1) 
+    In all periods presented, there were no tax impacts related to rate changes and no amounts were reclassified to earnings. 
+              (2) 
+    In all periods presented, there were no realized holding gains or losses and therefore no amounts were reclassified to earnings. 
+
+7.    Treasury Stock 
+  Common stock held in treasury totaled   655,306   and   644,091   with a cost of   $1,484   and   $1,472   at   June 30, 2018   and   December 31, 2017  , respectively. These shares were withheld from employees to settle personal tax withholding obligations that arose as a result of restricted stock units that have vested in the periods presented. 
+
+10 
+
+8.    Earnings per Share  
+  Basic earnings per share excludes the dilutive effects of stock options, restricted stock units (RSUs), and the nil coupon non-redeemable convertible unsecured loan notes. Diluted earnings per share includes the dilutive effect of the nil coupon non-redeemable convertible unsecured loan notes, RSUs, and unexercised in-the-money stock options, except in periods of net loss where the effect of these instruments is anti-dilutive. Out-of-money stock options are excluded from diluted earnings per share because they are anti-dilutive. For the   three and six   months ended   June 30, 2018   and   2017  , basic earnings per share is equal to diluted earnings per share because all outstanding stock awards and convertible loan notes are considered anti-dilutive during periods of net loss. The following table sets forth the weighted-average shares used in calculating the earnings per share for the months ended   June 30, 2018   and   2017  . 
+
+Fuel Tech had   1,288,000   and   1,432,000   weighted average equity awards outstanding at   June 30, 2018   and   2017  , respectively, that were not dilutive for the purposes of inclusion in the calculation of diluted earnings per share but could potentially become dilutive in future periods.   
+
+9.    Stock-Based Compensation 
+  Under our stock-based employee compensation plan, referred to as the Fuel Tech, Inc. 2014 Long-Term Incentive Plan (Incentive Plan), awards may be granted to participants in the form of Non-Qualified Stock Options, Incentive Stock Options, Stock Appreciation Rights, Restricted Stock, Restricted Stock Units ( RSUs ), Performance Awards, Bonuses or other forms of share-based or non-share-based awards or combinations thereof. Participants in the Incentive Plan may be our directors, officers, employees, consultants or advisors (except consultants or advisors in capital-raising transactions) as the directors determine are key to the success of our business. There are a maximum of   5,600,676   shares that may be issued or reserved for awards to participants under the Incentive Plan, which includes   1,200,000   additional shares as a result of an amendment to the Incentive Plan approved by our stockholders in May 2018.  As of   June 30, 2018  , Fuel Tech had   2,097,233   shares available for share-based awards under the 2014 Plan. 
+    
+  We record any excess tax benefits within income tax expense for the   three and six   months ended   June 30, 2018  .  Given the Company has a full valuation allowance on its deferred tax assets, there were no excess tax benefits to record for the   three and six   months ended   June 30, 2018  .  In addition, we account for forfeitures of awards based on an estimate of the number of awards expected to be forfeited and adjusting the estimate when it is no longer probable that the employee will fulfill the service condition.  
+  Stock-based compensation is included in selling, general, and administrative costs in our Consolidated Statements of Operations. The components of stock-based compensation for the   three and six   months ended   June 30, 2018   and   2017   were as follows: 
+
+Stock Options 
+  Stock options granted to employees under the Incentive Plans have a   10  -year life and they vest as follows:   50%   after the second anniversary of the award date,   25%   after the third anniversary, and the final   25%   after the fourth anniversary of the award date. Fuel Tech calculates stock compensation expense for employee option awards based on the grant date fair value of the award, less expected annual forfeitures, and recognizes expense on a straight-line basis over the   four  -year service period of the award. Stock options granted to members of our board of directors vest immediately. Stock compensation for these awards is based on the grant date fair value of the award and is recognized in expense immediately. 
+  
+   11 
+
+Fuel Tech uses the Black-Scholes option pricing model to estimate the grant date fair value of employee stock options. The principal variable assumptions utilized in valuing options and the methodology for estimating such model inputs include: (1) risk-free interest rate   an estimate based on the yield of zero coupon treasury securities with a maturity equal to the expected life of the option; (2) expected volatility   an estimate based on the historical volatility of Fuel Tech s Common Stock for a period equal to the expected life of the option; and (3) expected life of the option   an estimate based on historical experience including the effect of employee terminations. 
+  Stock option activity for Fuel Tech s Incentive Plans for the   six   months ended   June 30, 2018   was as follows: 
+
+As of   June 30, 2018  , there was   no   unrecognized compensation cost related to non-vested stock options granted under the Incentive Plans.  
+  Restricted Stock Units 
+    
+  Restricted stock units (RSUs) granted to employees vest over time based on continued service (typically vesting over a period between   two   and   four   years). Such time-vested RSUs are valued at the date of grant using the intrinsic value method based on the closing price of the Common Shares on the grant date. Compensation cost, adjusted for estimated forfeitures, is amortized on a straight-line basis over the requisite service period.  
+  At   June 30, 2018  , there is   $15   of unrecognized compensation costs related to performance based restricted stock unit awards to be recognized over a weighted average period of   0.7   years. 
+  A summary of restricted stock unit activity for the   six   months ended   June 30, 2018   is as follows: 
+
+The fair value of restricted stock that vested during the   six   month period ending   June 30, 2018   was   $55  .   
+  Deferred Directors Fees 
+  In addition to the Incentive Plans, Fuel Tech has a Deferred Compensation Plans for Directors (Deferred Plan). Under the terms of the Deferred Plan, Directors can elect to defer Directors  fees for shares of Fuel Tech Common Stock that are issuable at a future date as defined in the agreement. In accordance with ASC 718, Fuel Tech accounts for these awards as equity awards as opposed to liability awards. In the   six  -month periods ended   June 30, 2018   and   2017  , Fuel Tech recorded   no   stock-based compensation expense under the Deferred Plan. 
+
+12 
+
+10.    Debt Financing 
+    
+  On June 16, 2017, the Company amended its existing U.S. Domestic credit facility with JPM Chase to extend the maturity date to June 28, 2019.  There are no financial covenants set forth in this amendment to the Facility.  The amount of credit available to the Company under the Facility is   $5,000   and will remain as such until the Maturity Date of the Facility on June 28, 2019.  During the entire period of the Facility the Company must maintain sufficient cash balances in a segregated deposit account equal to the amount of the Facility and has fully pledged such cash as collateral to the bank to support the credit available to the Company under the Facility. As of   June 30, 2018   and   December 31, 2017  , there were   no   outstanding borrowings on the credit facility. 
+    
+  On January 10, 2018, the Company amended its existing U.S. Domestic credit facility with JPM Chase to increase the credit available under the Facility by   $500   to   $5,500   from the effective date of the amendment to August 31, 2018.  After August 31, 2018, the amount of credit available under the facility will be reduced to   $5,000   through the maturity date of June 28, 2019.  The Company must maintain an additional   $500   in a segregated deposit account and has fully pledged such incremental cash as collateral to the bank to support the credit available to the Company through August 31, 2018.  There were no other modifications to the terms of the Facility from the amendment of the facility on June 16, 2017. 
+  At   June 30, 2018   and   December 31, 2017  , the Company had outstanding standby letters of credit and bank guarantees totaling approximately   $4,936   and   $3,004  , respectively, under the Facility in connection with contracts in process. Fuel Tech is committed to reimbursing the issuing bank for any payments made by the bank under these instruments. The Company pays a commitment fee of   0.25%   per year on the unused portion of the revolving credit facility. At   June 30, 2018   and   December 31, 2017  , approximately   $564   and   $1,996   was available for future borrowings under the Facility. 
+  On June 29, 2018, Beijing Fuel Tech Environmental Technologies Company, Ltd. (Beijing Fuel Tech), a wholly-owned subsidiary of Fuel Tech, entered into a new revolving credit facility (the China Facility) agreement with JPM Chase for RMB   5.25 million   (approximately   $793  ), which expires on June 30, 2019. The current facility for Beijing Fuel Tech is also secured by cash held by the Company of   $1,020   in a separate restricted use designated JPM Chase deposit account.  The Company intends to renew the China Facility at its maturity.  The facility is unsecured, bears interest at a rate of   140%   of the People s Bank of China (PBOC) Base Rate, and is guaranteed by Fuel Tech. Beijing Fuel Tech can use this facility for cash advances and bank guarantees. As of   June 30, 2018   and   December 31, 2017  , Beijing Fuel Tech had   no   cash borrowings under the China Facility.  
+  At   June 30, 2018   and   December 31, 2017  , the Company had outstanding standby letters of credit and bank guarantees totaling approximately   $167   and   $246  , respectively, on its Beijing Fuel Tech revolving credit facility in connection with contracts in process. At   June 30, 2018   and   December 31, 2017  , approximately   $626   and   $753   was available for future borrowings. 
+  In the event of default on either the domestic facility or the China facility, the cross default feature in each allows the lending bank to accelerate the payments of any amounts outstanding and may, under certain circumstances, allow the bank to cancel the facility. If the Company were unable to obtain a waiver for a breach of covenant and the bank accelerated the payment of any outstanding amounts, such acceleration may cause the Company s cash position to deteriorate or, if cash on hand were insufficient to satisfy the payment due, may require the Company to obtain alternate financing to satisfy the accelerated payment. 
+
+11.    Business Segment and Geographic Financial Data 
+  Business Segment Financial Data 
+  We  segregate our financial results into   two   reportable segments representing two broad technology segments as follows: 
+             
+    The Air Pollution Control technology segment includes technologies to reduce NO   x    emissions in flue gas from boilers, incinerators, furnaces and other stationary combustion sources. These include Low and Ultra Low NO   x    Burners (LNB and ULNB), Over-Fire Air (OFA) systems, NO   x   OUT        and HERT  Selective Non-Catalytic Reduction (SNCR) systems, and Advanced Selective Catalytic Reduction (ASCR       ) systems.  Our ASCR systems include ULNB, OFA, and SNCR components, along with a downsized SCR catalyst, Ammonia Injection Grid (AIG), and Graduated Straightening Grid GSG  systems to provide high NO   x    reductions at significantly lower capital and operating costs than conventional SCR systems. The NO   x   OUT CASCADE        and NO   x   OUT-SCR        processes are more basic, using just SNCR and SCR catalyst components.  ULTRA  technology creates ammonia at a plant site using safe urea for use with any SCR application.  Flue Gas Conditioning systems are chemical injection systems offered in markets outside the U.S. and Canada to enhance electrostatic precipitator and fabric filter performance in controlling particulate emissions. 
+                
+    The FUEL CHEM        technology segment, which uses chemical processes in combination with advanced CFD and CKM boiler modeling, for the control of slagging, fouling, corrosion, opacity and other sulfur trioxide-related issues in furnaces and boilers through the addition of chemicals into the furnace using TIFI        Targeted In-Furnace Injection  technology. 
+     
+   13 
+
+The  Other  classification includes those profit and loss items not allocated to either reportable segment.  There are no inter-segment sales that require elimination. 
+  We evaluate performance and allocate resources based on reviewing gross margin by reportable segment. The accounting policies of the reportable segments are the same as those described in the summary of significant accounting policies (Note 1 in our annual report on Form 10-K). We do not review assets by reportable segment, but rather, in aggregate for the Company as a whole. 
+  Information about reporting segment net sales and gross margin from continuing operations are provided below: 
+
+14 
+
+Geographic Segment Financial Data 
+  Information concerning our operations by geographic area is provided below. Revenues are attributed to countries based on the location of the customer. Assets are those directly associated with operations of the geographic area. 
+
+12.    Contingencies 
+    
+  Fuel Tech is subject to various claims and contingencies related to, among other things, workers compensation, general liability (including product liability), and lawsuits. The Company records liabilities where a contingent loss is probable and can be reasonably estimated.  If the reasonable estimate of a probable loss is a range, the Company records the most probable estimate of the loss or the minimum amount when no amount within the range is a better estimate than any other amount.  The Company discloses a contingent liability even if the liability is not probable or the amount is not estimable, or both, if there is a reasonable possibility that a material loss may have been incurred. 
+  During the fourth quarter of 2017, the Company was notified that, on a project for which the Company served as a subcontractor to a prime contractor, the prime contractor had received notice from the end-user customer in China of its intent to deduct from final payment for the project liquidated damages in the amount of approximately   $920   due to delays in project completion.  Thus far, the prime contractor is working to resolve this matter without resorting to litigation.  Nevertheless, the matter is in the preliminary stage and we cannot predict the ultimate outcome of this claim or estimate a range of possible losses related to this matter at this time.  We intend to pursue all of our rights should the current negotiations not result in a satisfactory resolution of this matter. 
+  Fuel Tech issues a standard product warranty with the sale of its products to customers. Our recognition of warranty liability is based primarily on analyses of warranty claims experienced in the preceding years as the nature of our historical product sales for which we offer a warranty are substantially unchanged. This approach provides an aggregate warranty accrual that is historically aligned with actual warranty claims experienced. 
+  There was   no   change in the warranty liability balance during the   six  -months ended   June 30, 2018   and   2017  .  The warranty liability balance was   $159   at   June 30, 2018   and   2017  . 
+
+15 
+
+13.    Income Taxes 
+  The Company s effective tax rate is   0%   for the three-month and six-month periods ended   June 30, 2018   and   2017  , respectively.  Effective January 1, 2018, the U.S. federal corporate income tax rate was reduced was 35 percent to 21 percent attributed to the impact of the 2017 Tax Cuts and Jobs Act enacted into law on December 22, 2017.  The Company's effective tax rate differs from the statutory federal tax rate of   21%   for the three-month and six-month periods ended   June 30, 2018   primarily due to a full valuation allowance recorded on our United States, China and Italy deferred tax assets since we cannot anticipate when or if we will have sufficient taxable income to utilize the deferred tax assets in the future. Further, our effective tax rate differs from the statutory federal tax rate due to state taxes, differences between U.S. and foreign tax rates, foreign losses incurred with no related tax benefit, non-deductible commissions, and non-deductible meals and entertainment expenses for the three- month and six-month periods ended   June 30, 2018   and   2017  . 
+  Fuel Tech had   no   unrecognized tax benefits as of   June 30, 2018   and   December 31, 2017  .    
+
+14.    Goodwill and Other Intangibles 
+  Goodwill is allocated among and evaluated for impairment at the reporting unit level, which is defined as an operating segment or one level below an operating segment. Fuel Tech has   two   reporting units for goodwill evaluation purposes: the FUEL CHEM        technology segment and the APC technology segment. There is   no   goodwill associated with our APC segment.  At both   June 30, 2018   and   December 31, 2017  , our entire goodwill balance of   $2,116   was allocated to the FUEL CHEM        technology segment.  
+  Goodwill is allocated to each of our reporting units after considering the nature of the net assets giving rise to the goodwill and how each reporting unit would enjoy the benefits and synergies of the net assets acquired. There were   no   indications of goodwill impairment in the   six   months ended   June 30, 2018   and   2017  . 
+  Fuel Tech reviews other intangible assets, which include customer lists and relationships, covenants not to compete, patent assets, tradenames, and acquired technologies, for impairment on a recurring basis or when events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. In the event that impairment indicators exist, a further analysis is performed and if the sum of the expected undiscounted future cash flows resulting from the use of the asset is less than the carrying amount of the asset, an impairment loss equal to the excess of the asset s carrying value over its fair value is recorded. Management considers historical experience and all available information at the time the estimates of future cash flows are made, however, the actual cash values that could be realized may differ from those that are estimated.  
+  In the second quarter of 2018, Fuel Tech recorded an abandonment charge of   $317   associated with certain international patent assets which the Company elected to not maintain and abandon in certain international locations due to limited business opportunities in those regions. The abandonment charge was calculated by determining the net book values of the abandoned patent assets by deducting the accumulated amortization from the acquisition cost.  The abandonment charge of   $317   is included in  Intangible assets abandonment and building impairment  line in the accompanying Consolidated Statements of Operations for the three- and six-months ended   June 30, 2018  .  
+  There were no other indications of intangible asset impairments for the   six  -month period ended   June 30, 2018  .   
+
+FUEL TECH, INC. 
+    
+  Item 2.        Management s Discussion and Analysis of Financial Condition and Results of Operations     
+  Results of Operations 
+  Revenues for the three- and six-month periods ending   June 30, 2018   and   2017   were   $11,847   and   $9,741   and   $24,638   and   $18,232  , respectively, representing increases of   $2,106   or   22%   and   $6,406   or   35%   versus the same periods last year. 
+  The Air Pollution Control (APC) technology segment generated revenues of   $8,407   and   $16,990   for the three- and six-month periods ending   June 30, 2018  , representing an increase of   $2,862   or   52%   and   $7,443   or   78%   from the prior year amounts of   $5,545   and   $9,547  , respectively.  The increase in APC revenue for the three- and six-month periods ending   June 30, 2018   in comparison to the same periods prior year amounts were related to the timing of project execution as a result of conversion of new orders announced during 2017.  
+  Consolidated APC backlog at   June 30, 2018   was   $14,417   versus backlog at   December 31, 2017   of   22,053  . Our current backlog consists of U.S. domestic projects totaling   $10,473   and international projects totaling   $3,944  . 
+  
+   16 
+
+The FUEL CHEM        technology segment generated revenues of   $3,440   and   $7,648   for the three- and six-months ended   June 30, 2018  .  For the three- and six-month periods, this represents a decrease of   $756   or   18%   and   $1,037   or   12%   from the prior year amounts of   $4,196   and   $8,685  , respectively.  This segment continues to be affected by the soft electric demand market and low natural gas prices, which leads to fuel switching, unscheduled outages, and combustion units operating at less than capacity.  
+    
+  Consolidated gross margin percentage for the three-month periods ended   June 30, 2018   and   2017   was   31%   and   37%   and was   36%   and   40%   for the six-month periods then ended.  The overall decrease in gross margin is primarily attributable to business segment revenue mix. The gross margin percentage for the APC technology segment for the three-month periods ended   June 30, 2018   and   2017   was   25%   and   26%  , respectively, and was   30%   for both the six-month periods ended   June 30, 2018   and   2017  , respectively.  The decrease in gross margin is primarily due to project mix and timing of project execution.  For the FUEL CHEM technology segment, the gross margin percentage decreased to   48%   from   52%   for the three-month periods ending   June 30, 2018   and   2017  .  For the six-month periods, the gross margin percentage for the FUEL CHEM technology segment was   48%   and   51%   for the six-month periods ending   June 30, 2018   and   2017  .  The gross margin decrease for the FUEL CHEM technology segment was due to  costs incurred due to certain international product demonstration costs incurred for the six months ended   June 30, 2018  . 
+    
+  Selling, general and administrative expenses (SG A) were   $4,763   and    $5,923   for the three-month periods ended June 30, 2018 and 2017 and   $9,684   and   $11,077   for six-month periods ending   June 30, 2018   and   2017  , respectively.  For the three- and six-month periods ended   June 30, 2018  , this represents a decrease of   $1,160   and   $1,393  , respectively. For the three-month period ended June 30, 2018 the decrease was primarily the result of a reduction in employee related costs of $1,174, depreciation $84 and other administrative costs of $32 offset by an increase in professional fees of $130.  For the six-month period ended    June 30, 2018   this was primarily the result of a decrease in employee related costs of $1,363 and other administrative costs of $30.  SG A as a percentage of revenues decreased to   40%   from   61%   and   39%   from   61%   in the three- and six-month periods ending   June 30, 2018   and   2017  .  The decrease in SG A percentage is primarily attributed to the increase in revenues due to the timing of project execution as a result of conversion of new orders announced during 2017.   
+    
+  In the second quarter of 2018, Fuel Tech recorded an abandonment charge of   $317   associated with certain international patent assets which the Company elected to not maintain and abandon in certain international locations due to limited business opportunities in those regions. The abandonment charge was calculated by determining the net book values of the abandoned patent assets by deducting the accumulated amortization from the acquisition cost.  The abandonment charge of $317 is included in  Intangible assets abandonment and building impairment  line in the accompanying Consolidated Statements of Operations for the three- and six-months ended   June 30, 2018  . 
+    
+  During the second quarter of 2017, the Company suspended all operations associated with the Fuel Conversion business segment. The activity of the Fuel Conversion discontinued operations consisted of Research and Development, severance and other costs for the three- and six-month periods ended   June 30, 2018   and 2017 of   $74   and   $1,269  , and   $99   and   $1,999  , respectively.  The loss from discontinued operations in the Consolidated Statement of Operations for the three-months ended   June 30, 2018   includes an  impairment charge related to the Carbonite patent assets of $56 as a result of not being able to reach an agreement with a third-party to acquire or license the Carbonite technology in combination with the sale of certain equipment included in Assets held for sale.  The Fuel Conversion business segment had no revenues associated with it.  The overall decline in the discontinued operations for the three- and six-month periods ending   June 30, 2018   in comparison to the same periods in 2017 is due to the overall wind-down of operations for the Fuel Conversion discontinued operations. 
+    
+  In July 2016, the Company reduced its workforce to better align its organizational infrastructure to its revised operating plans.  The Company recorded no restructuring charge for the   three and six   months ended   June 30, 2018  .  The Company recorded a charge of   $58   and   $119   for the three- and six-month periods ended   June 30, 2017  , respectively in connection with the workforce reduction.  The charge consisted primarily of one-time severance payments and benefit continuation costs.  For further information related to restructuring, refer to Note 5 - Restructuring Activities. 
+    
+  Research and development expenses for the three- and   six  -month periods ended   June 30, 2018    were and   $261   and   $549  , respectively, and for the same periods in    2017   were   $280   and   $564  , respectively.  The expenditures in our research and development expenses were focused on new product development efforts in the pursuit of commercial applications for technologies outside of our traditional markets, and in the development and analysis of new technologies that could represent incremental market opportunities.   
+    
+  Income tax (benefit) expense for the three- and six-month period ended   June 30, 2018   and   2017   were   $(1)   and   $15  , and   $(2)   and   $15  , respectively.   Effective January 1, 2018, the U.S. federal corporate income tax rate was reduced was 35 percent to 21 percent attributed to the impact of the 2017 Tax Cuts and Jobs Act enacted into law on December 22, 2017.  The Company is projecting a consolidated effective tax rate of   0%   for 2018 which was lower than the federal income tax rate of   21%  . The Company's effective tax rate differs from the statutory federal tax rate of   21%   for the three-months ended   June 30, 2018   primarily due to a full valuation allowance recorded on our United States, China and Italy deferred tax assets since we cannot anticipate when or if we will have  
+  
+   17 
+
+sufficient taxable income to utilize the deferred tax assets in the future. Further, our effective tax rate differs from the statutory federal tax rate due to state taxes, differences between U.S. and foreign tax rates, foreign losses incurred with no related tax benefit, non-deductible commissions, and non-deductible meals and entertainment expenses. 
+    
+  On January 1, 2018, we adopted ASC 606 "Revenue from Contracts with Customers" using the modified retrospective method applied to those contracts which were not completed as of January 1, 2018. Results for reporting periods beginning after January 1, 2018 are presented under ASC 606, while prior period amounts are not adjusted and continue to be reported in accordance with our legacy accounting under Accounting Standards Codification Topic 605: Revenue Recognition (ASC 605). Refer to Footnote 3 to the Consolidated Financial Statements for the impact of the adoption of ASC 606. 
+  Liquidity and Sources of Capital 
+  At   June 30, 2018  , Fuel Tech had unrestricted cash and cash equivalents and short-term investments on hand of   $3,912   (excluding restricted cash of $6,520) and working capital of   $22,243   versus $8,366 (excluding restricted cash of $6,020) and $18,025 at December 31, 2017, respectively. 
+  Operating activities used cash of   $3,512   during the   six  -month period ended   June 30, 2018  .  This decrease in cash from operations was due to our net loss of   $1,969  , a decrease in our accrued liabilities and other non-current liabilities of   $1,760  , offset by cash provided by a decrease in prepaid and other assets of   $229  , an increase in accounts payable of   $714   and the effect of non-cash impairment charge of   $317   associated with certain existing international patent assets.  
+  Investing activities used cash of   $212   during the   six  -month period ended   June 30, 2018   and primarily related to net cash used for purchases of equipment and patents.  
+  Financing activities used cash of   $13   during the   six  -month period ended   June 30, 2018   all of which related to cash used for the acquisition of common shares held in treasury that were withheld for taxes due by employees upon vesting of restricted stock units. 
+  On June 16, 2017, the Company amended its existing U.S. Domestic credit facility with JPM Chase to extend the maturity date to June 28, 2019.  There are no financial covenants set forth in this amendment to the Facility.  The amount of credit available to the Company under the Facility is   $5,000   and will remain as such until the Maturity Date of the Facility on June 28, 2019.  During the entire period of the Facility the Company must maintain sufficient cash balances in a segregated deposit account equal to the amount of the Facility and has fully pledged such cash as collateral to the bank to support the credit available to the Company under the Facility. As of   June 30, 2018   and   December 31, 2017  , there were   no   outstanding borrowings on the credit facility. 
+    
+  On January 10, 2018, the Company amended its existing U.S. Domestic credit facility with JPM Chase to increase the credit available under the Facility by   $500   to   $5,500   from the effective date of the amendment to August 31, 2018.  After August 31, 2018, the amount of credit available under the facility will be reduced to   $5,000   through the maturity date of June 28, 2019.  The Company must maintain an additional   $500   in a segregated deposit account and has fully pledged such incremental cash as collateral to the bank to support the credit available to the Company through August 31, 2018.  There were no other modifications to the terms of the Facility from the amendment of the facility on June 16, 2017. 
+  At   June 30, 2018   and   December 31, 2017  , the Company had outstanding standby letters of credit and bank guarantees totaling approximately   $4,936   and   $3,004  , respectively, under the Facility in connection with contracts in process. Fuel Tech is committed to reimbursing the issuing bank for any payments made by the bank under these instruments. The Company pays a commitment fee of   0.25%   per year on the unused portion of the revolving credit facility. At   June 30, 2018   and   December 31, 2017  , approximately   $564   and   $1,996   was available for future borrowings under the Facility. 
+  On June 29, 2018, Beijing Fuel Tech Environmental Technologies Company, Ltd. (Beijing Fuel Tech), a wholly-owned subsidiary of Fuel Tech, entered into a new revolving credit facility (the China Facility) agreement with JPM Chase for RMB   5.25 million   (approximately   $793  ), which expires on June 30, 2019. The current facility for Beijing Fuel Tech is also secured by cash held by the Company of $1,020 in a separate restricted use designated JPM Chase deposit account.  The Company intends to renew the China Facility at its maturity.  The facility is unsecured, bears interest at a rate of   140%   of the People s Bank of China (PBOC) Base Rate, and is guaranteed by Fuel Tech. Beijing Fuel Tech can use this facility for cash advances and bank guarantees. As of   June 30, 2018   and   December 31, 2017  , Beijing Fuel Tech had   no   cash borrowings under the China Facility.  
+  
+   18 
+
+At   June 30, 2018   and   December 31, 2017  , the Company had outstanding standby letters of credit and bank guarantees totaling approximately   $167   and   $246  , respectively, on its Beijing Fuel Tech revolving credit facility in connection with contracts in process. At   June 30, 2018   and   December 31, 2017  , approximately   $626   and   $753   was available for future borrowings. 
+  In the event of default on either the domestic facility or the China facility, the cross default feature in each allows the lending bank to accelerate the payments of any amounts outstanding and may, under certain circumstances, allow the bank to cancel the facility. If the Company were unable to obtain a waiver for a breach of covenant and the bank accelerated the payment of any outstanding amounts, such acceleration may cause the Company s cash position to deteriorate or, if cash on hand were insufficient to satisfy the payment due, may require the Company to obtain alternate financing to satisfy the accelerated payment. 
+    
+  We continue to monitor our liquidity needs and in response to our continued losses have taken measures to reduce expenses and restructure operations which we feel are necessary to ensure we maintain sufficient working capital and liquidity to operate the business and invest in our future. 
+  We have sustained losses from continuing operations during the   six  -month period ended   June 30, 2018   totaling   $1,870  . Our cash used from continuing operations for this same period totaled   $3,469  . We have taken measures to reduce our expense infrastructure, and over the past three years have eliminated approximately $19 million in aggregate expense through headcount and other operating expense cutbacks.  Our ability to operate our base businesses prospectively is based on our ability to secure new orders in the APC business and our ability to successfully execute existing APC projects in line with our internal budgets. 
+  Our cash balance as of   June 30, 2018   totaled   $10,432   (including restricted cash of $6,520), and our working capital totaled   $22,243  . We do not have any outstanding debt obligations other than our letters of credit, and our current credit agreement does not have any financial covenants as we have moved to a cash collateralized line of credit with our lender.  
+  We have evaluated our ongoing business needs, and considered the cash requirements of our base business of Air Pollution Control and Fuel Chem, as well as our efforts to wind-up our Fuel Conversion business. This evaluation included consideration of the following: a) customer and revenue trends in our APC and Fuel Chem business segments, b) current operating structure and expenditure levels, and c) the costs of winding up our Fuel Conversion business and other research and development initiatives.    
+  Based on this analysis, management believes that currently we have sufficient cash and working capital to operate our base APC and Fuel Chem businesses.  
+  Contingencies and Contractual Obligations 
+  Fuel Tech issues a standard product warranty with the sale of its products to customers as discussed in Note 12. There was no change in the warranty liability balance during the   six  -months ended   June 30, 2018  . 
+  Forward-Looking Statements 
+  This Quarterly Report on Form 10-Q contains  forward-looking statements,  as defined in Section 21E of the Securities Exchange Act of 1934, as amended, which are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and reflect Fuel Tech s current expectations regarding future growth, results of operations, cash flows, performance and business prospects, and opportunities, as well as assumptions made by, and information currently available to, our management. Fuel Tech has tried to identify forward-looking statements by using words such as  anticipate,   believe,   plan,   expect,   estimate,   intend,   will,  and similar expressions, but these words are not the exclusive means of identifying forward-looking statements. These statements are based on information currently available to Fuel Tech and are subject to various risks, uncertainties, and other factors, including, but not limited to, those discussed in Fuel Tech s Annual Report on Form 10-K for the year ended   December 31, 2017   in Item 1A under the caption  Risk Factors,  which could cause Fuel Tech s actual growth, results of operations, financial condition, cash flows, performance and business prospects and opportunities to differ materially from those expressed in, or implied by, these statements. Fuel Tech undertakes no obligation to update such factors or to publicly announce the results of any of the forward-looking statements contained herein to reflect future events, developments, or changed circumstances or for any other reason. Investors are cautioned that all forward-looking statements involve risks and uncertainties, including those detailed in Fuel Tech s filings with the Securities and Exchange Commission. 
+
+Item 3.        Quantitative and Qualitative Disclosures about Market Risk 
+  Foreign Currency Risk Management 
+  Fuel Tech s earnings and cash flow are subject to fluctuations due to changes in foreign currency exchange rates. We do not enter into foreign currency forward contracts nor into foreign currency option contracts to manage this risk due to the immaterial nature of the transactions involved. 
+  
+   19 
+
+Fuel Tech is also exposed to changes in interest rates primarily due to its debt facilities (refer to Note 10 to the consolidated financial statements). A hypothetical 100 basis point adverse move in interest rates along the entire interest rate yield curve would not have a materially adverse effect on interest expense during the upcoming year ended December 31,   2018  . 
+
+Item 4.        Controls and Procedures 
+  Evaluation of Disclosure Controls and Procedures 
+  Fuel Tech maintains disclosure controls and procedures and internal controls designed to ensure (a) that information required to be disclosed in Fuel Tech s filings under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms, and (b) that such information is accumulated and communicated to management, including the principal executive and financial officer, as appropriate to allow timely decisions regarding required disclosure. Fuel Tech s Chief Executive Officer and principal financial officer have evaluated the Company s disclosure controls and procedures, as defined in Rules 13a   15(e) and 15d -15(e) of the Exchange Act, as of the end of the period covered by this report, and they have concluded that these controls and procedures are effective. 
+  Changes in Internal Control over Financial Reporting 
+  There has been no change in the Company's internal control over financial reporting during the quarter covered by this report that has materially affected, or is reasonably likely to materially affect, its internal control over financial reporting.  
+
+20 
+
+PART II. OTHER INFORMATION 
+
+Item 1.    Legal Proceedings 
+  We are from time to time involved in litigation incidental to our business. We are not currently involved in any litigation in which we believe an adverse outcome would have a material effect on our business, financial conditions, results of operations, or prospects. 
+
+Item 1A.        Risk Factors 
+    
+  The risk factors included in our Annual Report on Form 10-K for fiscal year ended   December 31, 2017   have not materially changed. 
+
+Item 2.        Unregistered Sales of Equity Securities and Use of Proceeds 
+    
+  None 
+  
+   21 
+
+Item 6.        Exhibits 
+                     a. 
+    Exhibits (all filed herewith) 
+
+10.1 
+      
+     Tenth Amendment to Continuing Guaranty, dated as of June 29, 2018, between JPMorgan Chase Bank, N.A., JPMorgan Chase Bank (China) Company Limited and Fuel Tech, Inc.  
+        
+    10.2 
+      
+     11th Amendment to Credit Agreement, dated as of May 15, 2018, between JPMorgan Chase Bank, N.A and Fuel Tech, Inc.  
+        
+    31.1 
+      
+     Certification of CEO pursuant to Section 302 of Sarbanes-Oxley Act of 2002  
+
+31.2 
+      
+     Certification of principal financial officer pursuant to Section 302 of Sarbanes-Oxley Act of 2002  
+
+32 
+      
+     Certification of CEO and principal financial officer pursuant to Section 906 of Sarbanes-Oxley Act of 2002  
+
+101.1 
+      
+    INSXBRL Instance Document 
+
+101.2 
+      
+    SCHXBRL Taxonomy Extension Schema Document 
+
+101.3 
+      
+    CALXBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.4 
+      
+    DEFXBRL Taxonomy Extension Definition Linkbase Document 
+
+101.5 
+      
+    LABXBRL Taxonomy Extension Label Linkbase Document 
+
+101.6 
+      
+    PREXBRL Taxonomy Extension Prevention Linkbase Document 
+
+22 
+
+FUEL TECH, INC. 
+  Signatures 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+    
+                   Date: 8/13/2018 
+    By: 
+    /s/ Vincent J. Arnone 
+
+Vincent J. Arnone 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: 8/13/2018 
+    By: 
+    /s/ James M. Pach 
+
+James M. Pach 
+
+Vice President, Treasurer and Controller 
+
+(Principal Financial Officer) 
+
+23 
+
+<EX-10.1>
+ 2
+ ftek-20180630xex101.htm
+ EXHIBIT 10.1
+
+Exhibit 
+
+TENTH AMENDMENT TO CONTINUING GUARANTY 
+    
+  This Tenth Amendment to Continuing Guaranty (this  Amendment ), is made and entered into and is effective as of June 29, 2018 (the  Effective Date ), between   Fuel Tech, Inc.,   a Delaware corporation (the  Guarantor ), and   JPMorgan Chase Bank, N.A.  , for itself and each Lending Installation, including but not limited to   JPMorgan Chase Bank (China) Company Limited (  including but not limited to its Shanghai Branch  ,   the  JPMC Chinese Affiliate     ), and each of their respective successors and assigns (individually and collectively, the "Bank"). 
+    
+  RECITALS 
+    
+  (A)        The  Guarantor  has  previously executed  and  delivered  to  the  Bank  (in  the  name  of   JPMorgan  Chase  Bank  (China)  Company  Limited,  Shanghai  Branch)    a  Continuing Guaranty dated as of September 14, 2007, covering the Liabilities of   Beijing Fuel Tech Environmental Technologies Co., Ltd.   (the  Borrower ), which was amended by (1) a First Amendment  to  Continuing  Guaranty  of  Fuel  Tech,  Inc.,  dated  as  of  September  14,  2007, between the Guarantor and the Bank effective as of July 31, 2009; (2) a Second Amendment to Continuing Guaranty of Fuel Tech, Inc., dated as of September 14, 2007, between the Guarantor and the Bank effective as of June 30, 2010; (3) a Third Amendment to Continuing Guaranty of Fuel Tech, Inc., dated as of September 14, 2007, between the Guarantor and the Bank effective as of June 30, 2011; (4) a Fourth Amendment to Continuing Guaranty of Fuel Tech, Inc., dated as of September 14, 2007, between the Guarantor and the Bank effective June 29, 2012; (5) a Fifth Amendment to Continuing Guaranty of Fuel Tech, Inc., between the Guarantor and the Bank effective as of June 28, 2013; (6) a Sixth Amendment to Continuing Guaranty of Fuel Tech, Inc., effective as of June 27, 2014; a (7) a Seventh Amendment to Continuing Guaranty between the Guarantor and the Bank effective as of June 26, 2015; (8) an Eighth Amendment to Continuing Guaranty between the Guarantor and the Bank effective as of June 24, 2016; and (9) a Ninth Amendment to Continuing Guaranty effective as of June 16, 2017 (collectively, the  Guaranty ). 
+    
+  (B)        Concurrently with the execution of this Amendment, the JPMC Chinese Affiliate and the Borrower have entered into an RMB6,500,000 Credit Facility Agreement dated June 29, 2018, under which the JPMC Chinese Affiliate has agreed to provide to the Borrower with a certain revolving credit facility in the original principal amount of up to RMB6,500,000 (the  Credit Facility Agreement ), subject to the terms and conditions of the Credit Facility Agreement. 
+    
+  (C)        As one of the conditions to the Bank s entering into the Credit Facility Agreement, the 
+  Bank has required that the Guarantor enter into this Amendment. 
+    
+  Therefore, the Bank and the Guarantor agree as follows: 
+
+{AMER_Active:16634558v1}  
+
+AGREEMENT 
+    
+  1.         Capitalized Terms.     Each term capitalized in this Amendment, including each term capitalized in the introductory paragraph and in the above recitals, shall have the meaning given to it in the Guaranty, unless otherwise defined in this Amendment. 
+    
+  2.         Amendment of Paragraph of Guaranty Captioned  Liabilities.      The paragraph of 
+  the Guaranty captioned  Liabilities  is amended and restated to read in its entirety as follows: 
+    
+  Liabilities  . The term "Liabilities" means all obligations, indebtedness, and liabilities of the Borrower to the Bank, now existing or later arising, arising under that certain revolving credit facility being provided by the Bank to the Borrower in the original principal amount of up to RMB[6,500,000], as described in the Credit Facility Agreement dated as of June 29, 2018, between the JPMC Chinese Affiliate and the Borrower (the  Credit Facility Agreement  any monetary obligations (including interest) incurred or accrued during the pendency of any bankruptcy, insolvency, receivership or similar proceedings related to the above- referenced  revolving  credit  facility  and/or  the  Credit  Facility  Agreement, regardless of whether allowed or allowable in such proceedings; and all renewals, extensions, modifications, increases, decreases, consolidations, rearrangements, restatements, replacements or substitutions of any of the foregoing. 
+    
+  The Guarantor acknowledges that, without limiting the scope of the foregoing or any other provision of this Guaranty, including any provisions in the paragraph below captioned  Payments Generally,  the term  Liabilities  includes, but is not limited to, any loss that the Bank may incur on account of prohibitions or limitations   that   may   exist   under   the   laws   or   regulations   of   the   State Administration of Foreign Exchange ( SAFE ) or other regulatory authorities in the Peoples Republic of China ( PRC ) regarding the conversion into RMB of U.S. dollars that may be paid by the Guarantor to the Bank to satisfy any of the Guarantor s obligations under this Guaranty. 
+    
+  3.         Notices.    The Guarantor and the Bank agree that all notices to the Bank that are required or are made in connection with the Guaranty shall hereafter be given to the Bank at the address indicated in the paragraph of the Guaranty captioned  Guaranty.  
+    
+  4.         Representations and Warranties. 
+    
+  (A)        The Guarantor represents and warrants to the Bank that all representations and warranties  contained  in  the  Guaranty  are  true  and  correct  on  and  as  of  the  date  of  this Amendment as if made on the date of this Amendment. 
+    
+  (B)        The Guarantor further represents and warrants to the Bank that, after giving effect to this Amendment, there is no default under or violation of any of the terms of the Guaranty or 
+
+any other agreement between the Bank and the Guarantor, or any of its affiliates or subsidiaries, and that circumstances do not exist that with the passage of time, the giving of notice, or both, would constitute a default thereunder or a violation thereof. 
+    
+  5.         Counterparts.    This Amendment may be executed in any number of counterparts with the same effect as if each of the signatories had signed the same document.   All counterparts constitute one instrument. 
+    
+  6.         Reaffirmation.      Except  as  expressly  amended  by  this  Amendment,  all  terms  and conditions of the Guaranty shall remain in full force and effect. 
+    
+  WAIVER OF IMMUNITY.   TO THE EXTENT THAT THE GUARANTOR HAS OR HEREAFTER MAY BE ENTITLED TO CLAIM OR MAY ACQUIRE, FOR ITSELF OR ANY OF ITS ASSETS, ANY IMMUNITY FROM SUIT, JURISDICTION OF ANY COURT, OR FROM ANY LEGAL PROCESS (WHETHER FROM SERVICE OR NOTICE, ATTACHMENT PRIOR TO JUDGMENT, ATTACHMENT IN AID OF EXECUTION OF A JUDGMENT, EXECUTION OR OTHERWISE) AS TO ITSELF OR ITS PROPERTY, THE GUARANTOR HEREBY IRREVOCABLY WAIVES SUCH IMMUNITY IN REGARD TO ITS OBLIGATIONS UNDER THIS GUARANTY. 
+    
+  WAIVER   OF   SPECIAL   DAMAGES.   THE   GUARANTOR   WAIVES,   TO   THE MAXIMUM EXTENT NOT PROHIBITED BY LAW, ANY RIGHT IT MAY HAVE TO CLAIM OR RECOVER FROM THE BANK IN ANY LEGAL ACTION OR PROCEEDING ANY SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES. 
+    
+  JURY WAIVER. THE GUARANTOR AND THE BANK HEREBY VOLUNTARILY, KNOWINGLY, IRREVOCABLY AND UNCONDITIONALLY WAIVE ANY RIGHT TO HAVE A JURY PARTICIPATE IN RESOLVING ANY DISPUTE (WHETHER BASED ON CONTRACT, TORT, OR OTHERWISE) BETWEEN THE GUARANTOR AND THE BANK ARISING OUT OF OR IN ANY WAY RELATED TO THIS DOCUMENT. THIS PROVISION IS A MATERIAL INDUCEMENT TO THE BANK TO PROVIDE THE FINANCING DESCRIBED HEREIN. 
+    
+  This Amendment is executed by each party on the date indicated below its signature, but is effective as of the Effective Date. 
+    
+  Guarantor:                                                                Bank: 
+    
+  Fuel Tech, Inc.                                                          JPMorgan Chase Bank, N.A. 
+    
+  By:                                                                                  By: 
+
+Printed Name                               Title                                                                Printed Name                                                 Title 
+    
+  Date Signed:                                                                   Date Signed: 
+
+</EX-10.1>
+
+<EX-10.2>
+ 3
+ ftek-20180630xex102.htm
+ EXHIBIT 10.2
+
+Exhibit 
+
+JPMORGAN CHASE BANK, N.A. ELEVENTH AMENDMENT TO CREDIT AGREEMENT 
+
+THIS ELEVENTH AMENDMENT TO CREDIT AGREEMENT (  this  Amendment   ) is dated as of May 15, 2018 and is by and between FUEL TECH INC., a Delaware corporation (  the  Borrower   ), the Loan Parties party hereto, and JPMORGAN CHASE BANK, N.A., a national banking association (   Lender   ). 
+    
+  WHEREAS, Lender and the Loan Parties are parties to a Credit Agreement dated as of June 30, 2009 (  together with the ten amendments as described below, the  Credit Agreement   ).  The Credit Agreement evidences certain credit facilities pursuant to which the Lender has made certain revolving loans to the Loan Parties on the terms and conditions set forth therein.   The Loan Parties  obligations under the Credit Agreement were originally evidenced by that certain Promissory Note executed by Borrower in the original principal amount of $25,000,000.00 dated June 30, 2009 (  the  Note   ); 
+    
+  WHEREAS,  pursuant  to  the  First  Amendment  to  Credit  Agreement  dated October 5, 2009, the parties corrected a scrivener's error which had occurred in Section 6.14 (b) (   Leverage Ratio   ) of the Credit Agreement; 
+    
+  WHEREAS, pursuant to the Second Amendment to the Credit Agreement dated 
+  November 4, 2009, the Lender waived a default of the covenant set forth in Section 
+  6.14(a) of the Agreement, amended the Minimum Net Income covenant, amended the 
+  Leverage  Ratio,  and  amended  the  definitions  of   Permitted  Acquisitions   and 
+   Applicable Rate  
+    
+  WHEREAS, pursuant to the Third Amendment to the Credit Agreement dated June 30, 2011, the Lender renewed and reduced the revolving credit facility evidenced by the Note to $15,000,000.00 and adjusted the Tangible Net Worth Covenant; 
+    
+  WHEREAS, pursuant to the Fourth Amendment to the Credit Agreement dated June 30, 2013, the Lender extended the maturity date of the revolving credit facility evidenced by the Note to June 30, 2015 and also amended the financial covenants set forth at Sections 6.14(b) (   Leverage Ratio   ) and 6.14(c) (   Minimum Tangible Net Worth   ) of the Credit Agreement; 
+    
+  WHEREAS, pursuant to the Fifth Amendment to the Credit Agreement dated June 20, 2014,, Lender made further adjustments to Section 6.14(c) of the Credit Agreement (   Minimum Tangible Net Worth   ); 
+    
+  WHEREAS, pursuant to the Sixth Amendment to the Credit Agreement dated June 30, 2015, Lender, among other things, renewed the Revolving Credit Facility and extended same until June 30, 2016, changed certain pricing on the Revolving Credit Facility, waived certain financial covenant violations, and restated certain financial covenants; 
+    
+  WHEREAS, pursuant to the Seventh Amendment to the Credit Agreement dated 
+  December 31, 2015, the parties agreed, among other things, that (i) certain covenants 
+   
+  (  Minimum  EBITDA  and  Shareholder  Equity  )  not  be  tested  for  the  period  ending December 31, 2015, with the Shareholder Equity covenant to be deleted in its entirety, (ii)  a  new  Working  Capital  covenant  be  established  and  tested  beginning  as  of December 31, 2015, and (iii) the Minimum EBITDA covenant be revised and tested beginning as of March 31, 2016; 
+    
+  WHEREAS, pursuant to the Eighth Amendment to the Credit Agreement dated May  9,  2016,  the  parties  agreed,  among  other  things,  that  (i)  the  Revolving Commitment would be reduced to $5,000,000.00 after August 1, 2016, (ii) a Cash Collateral Account satisfactory to the Lender would be in place until Maturity, and (iii) as a result of the creation of the Cash Collateral Account all financial covenants had been deleted; 
+    
+  WHEREAS, pursuant to the Ninth Amendment the Maturity Date was extended to June 28, 2019; 
+    
+  WHEREAS, pursuant to the Tenth Amendment the commitment amounts were modified; 
+    
+  WHEREAS, Fuel Tech Inc. is the guarantor of a loan facility made by Lender s affiliate  JPMorgan  Chase  Bank  (   China   )  Company  Limited,  Shanghai  Branch  to Beijing Fuel Tech Environmental Technologies Inc (   Borrower s Subsidiary   ).  Lender s affiliate has agreed to extend the maturity of said loan facility to Borrower s Subsidiary until June 30, 2019, subject to the terms and conditions set forth in paragraph 3 below (   Subsidiary Loan Facility    
+    
+  NOW THEREFORE, for good and valuable consideration, the receipt and adequacy of which is hereby acknowledged, the parties agree as follows: 
+    
+  1.      The parties acknowledge the accuracy of the foregoing recitals.   All capitalized terms used herein without specific definitions should be accorded the meanings set forth for such terms in the Credit Agreement. 
+    
+  2.       The Borrower s obligations for the guaranty of the Subsidiary s debt will continue through at least June 30, 2019 or whenever the Subsidiary s debt is actually repaid. 
+    
+  3.       The obligation of the Lender to amend the Agreement of the Subsidiary Loan  Facility  as  herein  above  set  forth  and  extend  the  maturity  of  and  the effectiveness of this Amendment, is subject to satisfaction of the following conditions precedent: 
+    
+  (a)      Lender, Borrower and Loan Parties shall have executed this Amendment; (b)      Borrower shall be in good standing in the States of Illinois and Delaware; 
+  (c)      Borrower shall pay all costs and fees incurred by Lender in connection with the preparation and performance of this Amendment; 
+   
+  (d)      There  shall  be  no  less  than  $6,720,000.00  in  the  Cash  Collateral Account  until  August  31,  2018;  at  which  time  the  Cash  Collateral Account   shall   be   no   less   than   $6,220,000,   provided   that   the Commitment to Borrower has been reduced by $500,000; and 
+    
+  4.       This Amendment shall be binding upon and inure to the benefit of the successors and assigns of the Borrower, Loan Parties and the Lender. 
+    
+  5.       Except as expressly amended hereby, the Credit Agreement shall remain in full force and effect.  The Credit Agreement and its ten prior amendments as well as the Cash Collateral Account Pledge Agreement and all rights and powers created thereby are in all respects ratified and confirmed. 
+    
+  6.       This Amendment has been duly authorized, executed and delivered on behalf of the Borrower and Loan Parties pursuant to all requisite corporate authority, and the Credit Agreement as amended hereby constitutes the legal, valid and binding obligation of the Borrower and Loan Parties, enforceable in accordance with its terms, except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other similar laws relating to creditor s rights. 
+    
+  7.       Borrower hereby certifies, represents and warrants to Lender that all certifications, representations and warranties made by Borrower to Lender in or in connection with the Credit Agreement and the Cash Collateral Account Pledge Agreement were true in all material respects as of the date of the Credit Agreement and  the  Cash  Collateral  Account  Pledge  Agreement  and  are  true  in  all  material respects on and as of the date hereof as if made on and as of the date hereof. 
+    
+  8.       Borrower and the Loan Parties hereby acknowledge and agree that they have no defenses, offsets or counterclaims to the payment of principal, interest, fees or other liabilities owing under the Credit Agreement and the Cash Collateral Pledge Agreement and they hereby waive and relinquish any such defenses, offsets or counterclaims and Borrower and the  Loan Parties hereby release  Lender and its respective officers, directors, agents, affiliates, successors and assigns from any claim, demand or cause of action, known or unknown, contingent or liquidated, which may exist or hereafter be known to exist relating to any matter prior to the date hereof. 
+    
+  9.       Except  as  otherwise  specified  herein,  this  Amendment  embodies  the entire agreement and understanding between Lender and Borrower with respect to the subject matter hereof and supersedes all prior agreements, consents and understandings relating to such subject matter. 
+    
+  10.     This Amendment may be signed in any number of counterparts, each of which shall be deemed to be an original, but all of which together shall constitute one and the same instrument. 
+    
+  11.     This Amendment is governed and controlled by the laws of the state of 
+  Illinois. 
+   
+  [Signature Page to Follow] 
+   
+  IN WITNESS WHEREOF, this Amendment has been duly executed as of the date and year specified at the beginning hereof. 
+    
+  BORROWER: 
+    
+  FUEL TECH, INC., 
+  a Delaware corporation 
+    
+  By:          Name:          Title:         
+
+LOAN GUARANTOR: 
+    
+  FUEL TECH S.r.l., 
+  organized under the laws of the Italian Republic 
+    
+  By:          Name:          Title:         
+
+LENDER: 
+    
+  JPMORGAN CHASE BANK, N.A., 
+  a national association 
+    
+  By:          Name:          Title:         
+
+</EX-10.2>
+
+<EX-31.1>
+ 4
+ ftek-20180630xex311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  I, Vincent J. Arnone, certify that: 
+  1. I have reviewed this quarterly report on Form 10-Q of Fuel Tech, Inc.; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant's other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15 (e) and 15d-15 (e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+  a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+  b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  c) evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+  d) disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+  5. The registrant's other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions): 
+  a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+  b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+                   Date: 8/13/2018 
+    By: 
+    /s/ Vincent J. Arnone 
+
+Vincent J. Arnone 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ ftek-20180630xex312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  I, James M. Pach, certify that: 
+  1. I have reviewed this quarterly report on Form 10-Q of Fuel Tech, Inc.; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant's other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15 (e) and 15d-15 (e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+  a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+  b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  c) evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+  d) disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+  5. The registrant's other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions): 
+  a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+  b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+                   Date: 8/13/2018 
+    By: 
+    /s/ James M. Pach 
+
+James M. Pach 
+
+Vice President, Treasurer and Controller 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 6
+ ftek-20180630xex32.htm
+ EXHIBIT 32
+
+Exhibit 
+
+Exhibit 32 
+  The undersigned in their capacities as Chief Executive Officer and Principal Financial Officer of the Registrant do hereby certify that: 
+  (i) this report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+  (ii) information contained in the report fairly presents, in all material respects, the financial condition and results of operations of the Registrant as of, and for, the periods presented in the report. 
+                   Date: 8/13/2018 
+    By: 
+    /s/ Vincent J. Arnone 
+
+Vincent J. Arnone 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: 8/13/2018 
+    By: 
+    /s/ James M. Pach 
+
+James M. Pach 
+
+Vice President, Treasurer and Controller 
+
+(Principal Financial Officer) 
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (the  Act ) this certification accompanies the Report and shall not, except to the extent required by the Act, be deemed filed by the Registrant for purposes of Section 18 of the Securities Exchange Act of 1934, as amended. 
+  A signed original of this written statement required by Section 906, or other document authenticating, acknowledging or otherwise adopting the signature that appears in typed form within the electronic version of this written statement required by Section 906, has been provided to Fuel Tech, Inc. and will be retained by Fuel Tech, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-101.INS>
+ 7
+ ftek-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ ftek-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ ftek-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ ftek-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ ftek-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ ftek-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

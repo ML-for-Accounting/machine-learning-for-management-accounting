@@ -1,0 +1,333 @@
+t 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-Q/A 
+
+Amendment No. 1 
+
+(Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934 
+
+For the quarterly period ended June 30, 2018 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934 
+
+For the transition period from _________ to
+_____________ 
+
+Commission file number: 001-38273 
+
+ACM Research, Inc. 
+
+(Exact Name of Registrant as Specified in Its Charter) 
+
+Delaware  
+
+94-3290283  
+
+(State or Other Jurisdiction
+of Incorporation or Organization)  
+
+(I.R.S. EmployerIdentification
+No.)  
+
+Indicate by check mark whether the registrant (1) has
+filed all reports required to be filed by Section 13 or 15(d) of
+the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. 
+
+Yes       No
+
+Indicate
+by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive
+Data file required to be submitted and posted pursuant to Rule 405
+of Regulation S-T during the preceding 12 months (or for such
+shorter period that the registrant was required to submit and post
+such files). Yes     No
+
+Indicate
+by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See definitions of    large accelerated filer,       accelerated filer    and    smaller reporting
+company    in Rule 12b-2 of
+the Exchange Act. 
+
+Large accelerated
+filer      
+
+Accelerated
+filer  
+
+Non-accelerated
+file  
+
+Smaller reporting
+company  
+
+(Do not check
+if a smaller reporting company)      
+
+Emerging growth
+company  
+
+If an
+emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section   13(a)
+of the Exchange Act.     
+
+Indicate
+by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Exchange Act). 
+
+Yes
+    No
+
+Indicate
+the number of shares outstanding of each of the
+registrant   s classes of
+common stock, as of the latest practicable date. 
+
+EXPLANATORY NOTE 
+
+We are filing this Amendment No. 1 on Form 10-Q/A, or this
+Amendment, to amend our Quarterly Report on Form 10-Q for the
+quarterly period ended June 30, 2018, as filed with the Securities
+and Exchange Commission on August 9, 2018, or the Original Form
+10-Q. This Amendment is being filed solely for the purpose of
+filing Exhibit 10.01. In accordance with Rule 12b-15 under the
+Securities Exchange Act of 1934, new certifications by our
+principal executive officer and principal financial officer are
+filed as Exhibits 31.01 and 31.02 to this Amendment. We are not
+including new certifications pursuant to Section 1350 of Chapter 63
+of Title 18 of the United States Code (18 U.S.C. 1350), as no
+financial statements are being filed with this
+Amendment. 
+
+Accordingly, this Amendment consists of only the facing page, this
+explanatory note, Item 6 of Part II,  Exhibits,  and
+Exhibits 10.01, 31.01 and 31.02 hereto. This Amendment is
+presented as of the filing date of the Original Form 10-Q and does
+not reflect events occurring after that date, or modify or update
+disclosures or exhibits in any way, other than as required to
+reflect the filing of Exhibit 10.01. 
+
+Item 6. Exhibits 
+
+Exhibit Number 
+
+Description 
+
+10.01  
+
+Lease Agreement dated April 26, 2018, between ACM Research
+(Shanghai), Inc. and Shanghai Zhangjiang Group Co.,
+Ltd. 
+
+31.01  
+
+Certification
+of Principal Executive Officer Pursuant to Section   302 of the Sarbanes-Oxley Act of
+2002 
+
+31.02  
+
+Certification
+of Principal Financial Officer Pursuant to Section   302 of the Sarbanes-Oxley Act of
+2002 
+
+32.01  *  
+
+Certification
+of Principal Executive Officer and Principal Financial Officer
+Pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002 
+
+101.INS 
+
+XBRL
+Instance Document 
+
+101.SCH 
+
+XBRL
+Taxonomy Extension Schema Document 
+
+101.CAL 
+
+XBRL
+Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF 
+
+XBRL
+Taxonomy Extension Definition Linkbase Document 
+
+101.LAB 
+
+XBRL
+Taxonomy Extension Label Linkbase Document 
+
+101.PRE 
+
+XBRL
+Taxonomy Extension Presentation Linkbase Document 
+
+* Filed previously. 
+
+SIGNATURE 
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, the registrant
+has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized. 
+
+ACM Research, Inc. 
+
+Dated: October 15,
+2018                           
+
+By:             
+
+   /s/  David H.
+Wang    
+
+David
+H. Wang 
+
+Chief
+Executive Officer and President  
+
+<EX-10.01>
+ 2
+ acmr_ex1001.htm
+ LEASE AGREEMENT
+
+Untitled Document 
+
+Exhibit 10.01    
+
+</EX-10.01>
+
+<EX-31.01>
+ 3
+ acmr_ex3101.htm
+ CERTIFICATION PURSUANT TO RULE 13A-14(A)/15D-14(A) CERTIFICATIONS SECTION 302 OF THE SARBANES-OXLY ACT OF 2002
+
+Blueprint 
+
+Exhibit 31.01 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+I,
+David H. Wang, certify that: 
+
+1. 
+
+  I have reviewed
+this Amendment No. 1 on Form 10-Q/A to the Quarterly Report on Form
+10-Q of ACM Research, Inc. for the quarterly period ended June 30,
+2018 (as so amended,  this quarterly
+report ). 
+
+2. 
+
+  Based on my
+knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading
+with respect to the period covered by this quarterly
+report. 
+
+Dated: October 15,
+2018                              
+
+By:             
+
+   /s/  David H.
+Wang    
+
+David
+H. Wang 
+
+Chief
+Executive Officer and President 
+
+(Principal
+Executive Officer)  
+
+</EX-31.01>
+
+<EX-31.02>
+ 4
+ acmr_ex3102.htm
+ CERTIFICATION PURSUANT TO RULE 13A-14(A)/15D-14(A) CERTIFICATIONS SECTION 302 OF THE SARBANES-OXLY ACT OF 2002
+
+Blueprint 
+
+Exhibit 31.02 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+
+PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF
+2002 
+
+I, Lisa
+Feng, certify that: 
+
+1. 
+
+  I have reviewed
+this Amendment No. 1 on Form 10-Q/A to the Quarterly Report on Form
+10-Q of ACM Research, Inc. for the quarterly period ended June 30,
+2018 (as so amended,  this quarterly
+report ). 
+
+2. 
+
+  Based on my
+knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact
+necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading
+with respect to the period covered by this quarterly
+report. 
+
+Dated: October 15,
+2018                                             
+
+By 
+
+   /s/  Lisa Feng   
+
+Lisa
+Feng 
+
+Interim
+Chief Financial Officer, Chief Accounting Officer and
+Treasurer 
+
+(Principal
+Financial Officer)  
+
+</EX-31.02>
+

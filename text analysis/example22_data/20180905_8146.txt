@@ -1,0 +1,1178 @@
+UNITED STATES   
+  SECURITIES AND EXCHANGE COMMISSION   
+  WASHINGTON, D.C. 20549        
+       FORM  10-Q         
+       (Mark One)   
+    For the quarterly period ended July 28, 2018   
+  OR       
+    For the transition period from
+                                     to
+                              
+  Commission file number  0-13200    
+         
+  AstroNova, Inc.      (Exact
+name of registrant as specified in its charter)        
+
+Rhode Island  
+   
+   05-0318215    
+ 
+    (State or other jurisdiction of  
+  incorporation or organization)   
+   
+    (I.R.S. Employer  
+  Identification No.)    
+
+600 East Greenwich Avenue,  
+  West Warwick, Rhode Island   
+   
+  02893   
+ 
+  (Address of principal executive offices)  
+   
+  (Zip Code)   
+    (401)  828-4000    
+  (Registrant s telephone number, including area code)   
+  (Former name, former address and former fiscal year, if changed since last report)   
+         
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90
+days.    Yes       No   .    Indicate by check mark whether the registrant has
+submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation  S-T  (  232.405 of this chapter)
+during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes       No   .  
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a  non-accelerated 
+filer, smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule  12b-2  of the Exchange Act.      
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated filer 
+   
+    (Do not check if a smaller reporting company) 
+    
+ Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule  12b-2  of the Exchange
+Act)    Yes       No   .    Indicate the number of shares outstanding of each of the
+issuer s classes of common stock, as of the latest practicable date.     Common Stock, $.05 Par Value   6,923,883 shares   
+  (excluding treasury shares) as of August 30, 2018       
+
+Table of Contents  
+
+ASTRONOVA, INC.  
+   INDEX      
+ 
+      2  
+
+Table of Contents  
+
+Part I. FINANCIAL INFORMATION   
+    Item 1. Financial Statements   
+  ASTRONOVA, INC.       
+ CONDENSED CONSOLIDATED BALANCE SHEETS      (In thousands, Except Share Data)   
+   
+   See Notes to condensed consolidated financial statements (unaudited).  
+      3  
+
+Table of Contents  
+
+ASTRONOVA, INC.   
+    CONDENSED CONSOLIDATED STATEMENTS OF INCOME   
+  (In thousands, Except Per Share Data)   
+  (Unaudited)       
+   See Notes to condensed consolidated financial statements (unaudited).  
+      4  
+
+Table of Contents  
+
+ASTRONOVA, INC.   
+    CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME   
+  (In Thousands)   
+  (Unaudited)       
+   See Notes to condensed consolidated financial statements (unaudited).  
+      5  
+
+Table of Contents  
+
+ASTRONOVA, INC.   
+  CO  NDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS   
+  (In Thousands)   
+  (Unaudited)       
+   See Notes to condensed consolidated financial statements (unaudited).  
+      6  
+
+Table of Contents  
+
+ASTRONOVA, INC.   
+    NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)   
+  (1) Overview     Headquartered in West
+Warwick, Rhode Island, AstroNova, Inc. leverages its expertise in data visualization technologies to design, develop, manufacture and distribute a broad range of specialty printers and data acquisition and analysis systems. Our products are
+distributed through our own sales force and authorized dealers in the United States. We also sell to customers outside of the United States primarily through our Company offices in Canada, China, Europe, Mexico and Southeast Asia as well as through
+independent dealers and representatives. AstroNova, Inc. products are employed around the world in a wide range of aerospace, apparel, automotive, avionics, chemical, computer peripherals, communications, distribution, food and beverage, general
+manufacturing, packaging and transportation applications.    The business consists of two segments, Product Identification, which includes
+specialty printing systems sold under the QuickLabel    and TrojanLabel    brand names, and Test   Measurement which includes test
+and measurement systems sold under the AstroNova    brand name.    Products sold
+under the QuickLabel and TrojanLabel brands are used in industrial and commercial product packaging, branding and labeling applications to digitally print custom labels and corresponding visual content in house. Products sold under the AstroNova
+brand enable our customers to acquire and record visual and electronic signal data from local and networked data streams and sensors. The recorded data is processed and analyzed and then stored and presented in various visual output formats. In the
+aerospace market, the Company has a long history of using its data visualization technologies to provide high-resolution light-weight flight deck and cabin printers.  
+ Unless otherwise indicated, references to  AstroNova,  the  Company,   we,   our,  and  us 
+in this Quarterly Report on  Form 10-Q  refer to AstroNova, Inc. and its consolidated subsidiaries.     (2)
+Basis of Presentation     The accompanying unaudited condensed consolidated financial statements have been prepared pursuant to the rules
+and regulations of the Securities and Exchange Commission, and reflect all adjustments consisting of normal recurring adjustments which, in the opinion of management, are necessary for a fair presentation of the results of the interim periods
+included herein. These financial statements do not include all disclosures associated with annual financial statements and, accordingly, should be read in conjunction with footnotes contained in the Company s Annual Report on Form  10-K  for the fiscal year ended January 31, 2018.    Results of operations for the interim periods
+presented herein are not necessarily indicative of the results that may be expected for the full year.    The presentation of financial
+statements in conformity with generally accepted accounting principles requires management to make estimates and assumptions that affect the amounts reported and disclosed in the condensed consolidated financial statements and accompanying notes.
+Some of the more significant estimates relate to revenue recognition, the allowances for doubtful accounts and credits, inventory valuation, impairment of long-lived assets and goodwill, income taxes, share-based compensation, accrued expenses and
+warranty reserves. Management s estimates are based on the facts and circumstances available at the time estimates are made, historical experience, risk of loss, general economic conditions and trends, and management s assessments of the
+probable future outcome of these matters. Consequently, actual results could differ from those estimates.    Certain amounts in the prior
+year financial statements have been reclassified to conform to the current year s presentation.     (3) Principles of Consolidation   
+ The accompanying condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries. All
+significant intercompany accounts and transactions are eliminated in consolidation.  
+      7  
+
+Table of Contents  
+
+(4) Revenue Recognition   
+ On February 1, 2018 we adopted Accounting Standards Update  2014-09,  Revenue  from
+Contracts with Customers (Accounting Standards Codification  ASC  Topic 606),  which superseded nearly all existing revenue recognition guidance under U.S. GAAP. The core principle of ASC Topic 606 is to recognize
+revenue when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be received for those goods or services. ASC Topic 606 defines a five step process to recognize revenue and
+requires more judgment and estimates within the revenue recognition process than required under previous U.S. GAAP, including identifying performance obligations in the contract, determining and estimating the amount of any variable consideration to
+include in the transaction price and allocating the transaction price to each separate performance obligation.    We adopted this standard
+using the modified retrospective method and have applied the guidance to all contracts within the scope of ASC Topic 606 as of the February 1, 2018 adoption date. Under ASC Topic 606, based on the nature of our contracts and
+consistent with prior practice, we recognize the large majority of our revenue upon shipment, which is when the performance obligation has been satisfied. Accordingly, the adoption of this standard did not have a material impact on our revenue
+recognition and there was no cumulative effective adjustment as of February 1, 2018 as a result of the adoption of ASC Topic 606.  
+ Significant judgments primarily include the identification of performance obligation arrangements as well as the pattern of delivery for those
+services.    We derive revenue from the sale of (i) hardware including, digital color label printers and specialty OEM printing
+systems, portable data acquisition systems and airborne printers used in the flight deck and in the cabin of military, commercial and business aircraft, (ii) related supplies required in the operation of the hardware, (iii) repairs and
+maintenance of equipment and (iv) service agreements.    The vast majority of our revenue is generated from the sale of distinct
+products. Revenue is measured as the amount of consideration the Company expects to receive in exchange for such products, which is generally at the contractually stated prices, and is recognized when we satisfy a performance obligation by
+transferring control of a product to a customer. The transfer of control generally occurs at one point in time, upon shipment, when title and risk of loss pass to the customer. Returns and customer credits are infrequent and are recorded as a
+reduction to revenue. Sales taxes and value added taxes collected concurrently with revenue generating activities are excluded from revenue.  
+ Many of the contracts entered into with customers are commonly comprised of a combination of equipment, supplies, installation and/or training
+services. We determine performance obligations by assessing whether the products or services are distinct from other elements of the contract. In order to be distinct, the product must perform either on its own or with readily available resources
+and must be separate within the context of the contract.    The majority of our hardware products contain embedded operating systems and
+data management software which is included in the purchase price of the equipment. The software is deemed incidental to the systems as a whole as it is not sold or marketed separately and its production costs are minor compared to those of the
+hardware system. Hardware and software elements are typically delivered at the same time and are accounted for as a single performance obligation for which revenue is recognized at the point in time when ownership is transferred to the customer.
+   Installation and training services vary based on certain factors such as the complexity of the equipment, staffing availability in a
+geographic location and customer preferences, and can range from a few days to a few months. The delivery of installation and training services are not assessed to determine whether they are separate performance obligations, as the amounts are not
+material to the contract.    Shipping and handling activities that occur after control over a product has transferred to a customer are
+accounted for as fulfillment activities rather than performance obligations, as allowed under a practical expedient provided by ASC Topic 606. The shipping and handling fees charged to customers are recognized as revenue and the related costs are
+included in cost of revenue at the point in time when ownership of the product is transferred to the customer.    We may perform service at
+the request of the customer, generally for the repair and maintenance of products previously sold. These services are short in duration, typically less than one month, and total less than 9.0% of revenue for the six months ended July 28, 2018.
+Revenue is recognized as services are rendered and accepted by the customer. We also provide service agreements on certain of our Product Identification equipment. Service agreements are purchased separately from the equipment and provide for the
+right to obtain service and maintenance on the equipment for a period of typically one to two years. Accordingly, revenue on these agreements is recognized over the term of the agreements. The portion of service agreement contracts that are
+uncompleted at the end of any reporting period are included in deferred revenue.  
+      8  
+
+Table of Contents  
+
+We generally provide warranties for our products. The standard warranty period is typically
+12 months for most hardware products except for airborne printers, which typically have warranties that extend for  4-5  years, consistent with industry practice. Such assurance-type warranties are not deemed to
+be separate performance obligations from the hardware product and costs associated with providing the warranties are accrued in accordance with ASC 450,  Contingencies,  as we have the ability to ascertain the likelihood of the liability
+and can reasonably estimate the amount of the liability. Our estimate of costs to service the warranty obligations is based on historical experience and expectations of future conditions. To the extent that our experience in warranty claims or costs
+associated with servicing those claims differ from the original estimates, revisions to the estimated warranty liability are recorded at that time, with an offsetting adjustment to cost of revenue. On occasion, customers request a warranty
+period longer than our standard warranty. In those instances, in which extended warranty services are separately quoted to the customer, an additional performance obligation is created, and the associated revenue is deferred and recognized as
+service revenue ratably over the term of the extended warranty period. The portion of service contracts and extended warranty services agreements that are uncompleted at the end of any reporting period are included in deferred revenue.  
+   Revenues disaggregated by primary geographic markets and major product type are as follows:    
+  Primary geographical markets:       
+    Major product type:       
+ 
+      9  
+
+Table of Contents  
+
+Accounts Receivable    
+ Credit is extended based upon an evaluation of the customer s financial condition. Accounts receivable are stated at their estimated net
+realizable value. The allowance for doubtful accounts is based on a variety of factors, including the age of amounts outstanding relative to their contractual due date, specific customer factors, historical
+ write-off  experience and current market assessments. Standard payment terms are typically 30 days after shipment, but vary by type and geographic location of our customers.  
+   Contract Assets and Liabilities    
+ We normally do not have contract assets, which are primarily unbilled accounts receivable that are conditional on something other than the
+passage of time. Our contract liabilities, which represent billings in excess of revenue recognized, are related to advanced billings for purchased service agreements and extended warranties and were $366,000 and $367,000 at July 28, 2018 and
+January 31, 2018, respectively, and are recorded as deferred revenue in the condensed consolidated balance sheet. The slight decrease in the deferred revenue at July 28, 2018 is primarily due to approximately $403,000 of revenue recognized
+during the period that was included in the deferred revenue balance at January 31, 2018, offset by cash payments received in advance of satisfying performance obligations.  
+   Contract Costs      We recognize an
+asset for the incremental direct costs of obtaining a contract with a customer if we expect the benefit of those costs to be longer than one year. We have determined that certain costs related to obtaining sales contracts for our aerospace printer
+products meet the requirement to be capitalized. These costs are deferred and amortized based on the forecasted number of units sold over the estimated benefit term, which is currently estimated to be approximately 10 years. There has been
+no change in the Company s accounting for these contracts as a result of the adoption of ASC Topic 606. The balance of these contract assets at January 31, 2018 was $832,000 and was reported in other assets in the consolidated balance
+sheet. In the first quarter of fiscal 2019, the Company incurred an additional $150,000 in incremental direct costs which were deferred. The amortization of incremental direct costs was $9,000 and $18,000 for the three and six months periods ended
+July 28, 2018. The balance of the deferred incremental direct contract costs net of accumulated amortization at July 28, 2018 is $967,000 and is reported in other assets in the condensed consolidated balance sheet. This amount is expected
+to be amortized over its estimated remaining period of benefit, which we currently estimate to be approximately 8 years.    We apply
+the practical expedient to expense costs incurred for costs to obtain a contract when the amortization period would have been less than a year. These costs include sales commissions paid to the internal direct sales team as well as to third-party
+representatives and distributors. Contractual agreements with each of these parties outline commission structures and rates to be paid. Generally speaking, the contracts are all individual procurement decisions by the customers and do not
+include renewal provisions and as such the majority of the contracts have an economic life of significantly less than a year.     (5) Acquisitions
+    On September 28, 2017, AstroNova, Inc. entered into an Asset Purchase and License Agreement (the  Honeywell Agreement )
+with Honeywell International, Inc. to acquire an exclusive perpetual world-wide license to manufacture Honeywell s narrow-format flight deck printers for two aircraft families along with certain inventory used in the manufacturing of the
+licensed printers. The purchase price consisted of an initial upfront payment of $14.6 million in cash. The Honeywell Agreement also provided for guaranteed minimum royalty payments of $15.0 million, to be paid to Honeywell over the next
+ten years, based on gross revenues from the sales of the printers, paper and repair services of the licensed products. The royalty rates vary based on the year in which they are paid or earned and product sold or service provided, and range from
+single-digit to mid double-digit percentages of gross revenue.  
+      10  
+
+Table of Contents  
+
+This transaction was evaluated under Accounting Standard Update  2017-01,  Business  Combinations (Topic 805): Clarifying the Definition of a Business,  and was accounted for as an asset acquisition.  
+ The initial upfront payment of $14.6 million was paid at the closing of this transaction using borrowings from the Company s
+revolving credit facility under its amended Credit Agreement with Bank of America, N.A.    The minimum royalty payment obligation of
+$15.0 million was recorded at the present value of the annual minimum royalty payments using a present value factor of 2.8%, which is based on the estimated after tax cost of debt for similar companies. At July 28, 2018, the current
+portion of the minimum royalty obligation to be paid over the next twelve months is $1.6 million and is reported as a current liability; and the remainder of $10.9 million is reported as a long-term liability on the Company s
+condensed consolidated balance sheet. For the three and six months ended July 28, 2018, the Company incurred $0.5 million and $0.8 million, respectively, in excess royalty expense, which is included in cost of revenue in the
+Company s condensed consolidated statement of income for the period ended July 28, 2018. A total of $1.4 million of excess royalty is payable at July 28, 2018 and reported as a current liability on the Company s condensed
+consolidated balance sheet.    In connection with the Honeywell Agreement, the Company also entered into a Transition Services Agreement
+( TSA ) with Honeywell related to the transfer of the manufacturing and repair of the licensed printers from their current locations to AstroNova s plant in West Warwick, Rhode Island. During the current year, the Company paid
+$0.4 million to acquire an additional repair facility revenue stream in accordance with the terms of the TSA. The additional $0.4 million TSA obligation payment was included as part of the Honeywell Agreement purchase price and recorded as
+an increase to the related intangible asset.    Under the terms of the TSA, the Company is required to pay for certain expenses incurred by
+Honeywell during the period in which product manufacturing is transferred to the Company s facilities. In the first quarter of fiscal 2019, a change in accounting estimates for product costs and operating expenses related to the TSA resulted in
+an increase of $1.0 million in operating income ($0.8 million net of tax or $0.12 per diluted share). In addition, in the first quarter of fiscal 2019, a change in accounting estimates for revenue subject to customer rebates under the
+Honeywell Agreement increased operating income by $0.4 million ($0.3 million net of tax or $0.05 per diluted share). These changes in accounting estimates were the result of actual amounts billed and received differing from initial
+estimates.    Transaction costs incurred for this acquisition were $0.3 million and were included as part of the purchase price.  
+ The assets acquired in connection with the acquisition were recorded by the Company at their estimated relative fair values as follows:  
+   
+   The purchase price, including the initial payment, the minimum royalty payment obligation, transaction costs,
+and the subsequent TSA $0.4 million obligation payment, were allocated based on the relative fair value of the assets acquired. The fair value of the intangible assets acquired was estimated by applying the income approach. These fair value
+measurements are based on significant inputs that are not observable in the market and therefore represent a Level 3 measurement as defined in ASC 820,  Fair Value Measurement and Disclosure.  Key assumptions in estimating the fair
+value of the intangibles include (1) the remaining life of the intangibles based on the term of the Honeywell Asset Purchase and License Agreement of 10 years, (2) a range of annual earnings projections from $3.9 million  
+$5.4 million and (3) the Company s internal rate of return of 21.0%.    The acquired identifiable intangible assets are as
+follows:      
+
+(In thousands)   
+    
+  Fair   Value  
+
+Useful Life   (Years)  
+
+Customer Contract Relationships  
+    
+ $ 
+ 27,243 
+
+10 
+
+11  
+
+Table of Contents  
+
+Trojan Label   
+ On February 1, 2017, our wholly-owned Danish subsidiary, ANI ApS, completed the acquisition of the issued and outstanding equity interests
+of TrojanLabel ApS (TrojanLabel). The purchase price of this acquisition was 62.9 million Danish Krone (approximately $9.1 million), net of cash acquired of 976,000 Danish Krone (approximately $0.1 million), of which 6.4 million
+Danish Krone (approximately $0.9 million) was placed in escrow to secure certain post-closing working capital adjustments and indemnification obligations of the sellers. In the first quarter of fiscal 2019, the Company settled the post-closing
+adjustments with TrojanLabel and recovered approximately 891,000 Danish Krone (approximately $145,000) of the amount held in escrow account, which was recognized as an adjustment to the allowance account for TrojanLabel receivables. The
+remaining escrow balance was retained by TrojanLabel.     (6) Net Income Per Common Share   
+ Basic net income per share is calculated by dividing net income by the weighted average number of shares outstanding during the period. Diluted
+net income per share is calculated by dividing net income by the weighted average number of shares and, if dilutive, common equivalent shares, determined using the treasury stock method for stock options, restricted stock awards and restricted stock
+units outstanding during the period. A reconciliation of the shares used in calculating basic and diluted net income per share is as follows:      
+   For the three and six months ended July 28, 2018, the diluted per share amounts do not reflect common
+equivalent shares outstanding of 273,275 and 340,575  ,   respectively. For the three and six months ended July 29, 2017, the diluted per share amounts do not reflect common equivalent shares outstanding of 591,359 and
+591,309  ,   respectively. These outstanding common equivalent shares were not included due to their anti-dilutive effect. Anti-dilutive shares consist of those common stock equivalents that have an exercise price above the average stock
+price for the period or for which the common stock equivalent s related average unrecognized stock compensation expense is sufficient to  buy back  the entire amount of shares. Restricted stock units which vest based upon achievement
+of performance targets are excluded from the diluted shares outstanding unless the performance targets have been met as of the end of the reporting period, regardless of whether such performance targets are probable of achievement as of the end of
+the measurement period.  
+      12  
+
+Table of Contents  
+
+(7) Intangible Assets   
+ Intangible assets are as follows:      
+
+* 
+   Includes additional $0.4 million related to the payment in fiscal 2019 in accordance with the terms of the
+TSA.       There were no impairments to intangible assets during the periods ended July 28, 2018 and July 29, 2017.
+With respect to the acquired intangibles included in the table above, amortization expense of $1,022,000 and $304,000 related to the above acquired intangibles has been included in the condensed consolidated statement of income for the three months
+ended July 28, 2018 and July 29, 2017, respectively. Amortization expense of $2,046,000 and $603,000 related to the above acquired intangibles has been included in the condensed consolidated statement of income for the six months ended
+July 28, 2018 and July 29, 2017, respectively.    Estimated amortization expense for the next five fiscal years is as follows:
+     
+    (8) Share-Based Compensation   
+ At the Company s annual meeting of shareholders held on June 4, 2018, the Company s shareholders approved the AstroNova, Inc.
+2018 Equity Incentive Plan (the  2018 Plan ). The 2018 Plan provides for, among other things, the issuance of awards with respect to up to 650,000 shares of the Company s common stock, plus an additional number of shares equal to the
+number of shares subject to awards granted under the 2018 Plan or the Company s 2015 Equity Incentive Plan (the  2015 Plan  and, together with the 2018 Plan, the  Plans ) that are, following the effectiveness of the 2018
+Plan, forfeited, cancelled, satisfied without the issuance of stock, otherwise terminated (other than by exercise), or, for shares of stock issued pursuant to any unvested award, reacquired by the Company at not more than the grantee s purchase
+price (other than by exercise). Following the approval of the 2018 Plan at the Company s annual meeting of shareholders, the Company ceased granting new equity awards pursuant to the 2015 Plan.  
+ The Company has a  Non-Employee  Director Annual Compensation Program (the  Program ) under
+which each  non-employee  director receives an automatic grant of restricted stock awards ( RSAs ) on the first business day of each fiscal quarter. Under the Program, the number of whole shares to be
+granted each quarter is equal to 25% of the number calculated by dividing the director compensation amount by the fair market value of the Company s stock on such day. The director annual compensation amount was $65,000 in fiscal year 2018 and
+is $75,000 in fiscal year 2019. In addition, the Chairman of the Board receives RSAs with an aggregate value of $6,000, and the Chairs of the Audit and Compensation Committees each receive RSAs with an aggregate value of $4,000, also issued in
+quarterly installments and calculated in the same manner as the directors  RSA grants. RSAs granted prior to March 30, 2017 became fully vested on the first anniversary of the date of grant. RSAs granted subsequent to March 30, 2017
+become vested three months after the date of grant. A total of 5,370 and 7,314 shares were awarded to the  non-employee  directors as compensation under the Program in the second quarter of fiscal 2019 and 2018,
+respectively.  
+      13  
+
+Table of Contents  
+
+In April 2013 (fiscal year 2014), the Company granted options and RSUs to officers
+( 2014 RSUs ). The 2014 RSUs vested as follows: twenty-five percent vested on the third anniversary of the grant date, fifty percent vested upon the Company achieving its cumulative budgeted net revenue target for fiscal years 2014 through
+2016 (the  Measurement Period ), and twenty-five percent vested upon the Company achieving a target average annual ORONA (operating income return on net assets as calculated under the Domestic Management Bonus Plan) for the Measurement
+Period. The grantee may not sell, transfer or otherwise dispose of more than fifty percent of the common stock issued upon vesting of the 2014 RSUs until the first anniversary of the vesting date. In April 2016, 9,300 of the 2014 RSUs vested, as the
+Company achieved the targeted average annual ORONA, as defined in the plan, for the Measurement Period and another 9,300 vested as a result of the third year anniversary date of the grant. Additionally, on February 1, 2014, the Company
+accelerated the vesting of 4,166 of the 2014 RSUs held by Everett Pizzuti in connection with his retirement.    In March 2015 (fiscal year
+2016), the Company granted 50,000 options and 537 RSAs to its Chief Executive Officer pursuant to an Equity Incentive Award Agreement dated as of November 24, 2014 ( CEO Equity Incentive Agreement ), and 35,000 options to other key
+employees.    In May 2015 (fiscal year 2016), the Company granted an aggregate of 80,000 time-based and 155,000 performance-based RSUs
+( 2016 RSUs ) to certain officers of the Company. The time-based 2016 RSUs vest in four equal annual installments commencing on the first anniversary of the grant date. The performance-based 2016 RSUs vest over three years based upon the
+increase in revenue, if any, achieved each fiscal year relative to a three-year revenue increase goal. Performance-based 2016 RSUs that are earned based on organic revenue growth are fully vested when earned, while those earned based on revenue
+growth via acquisitions vest annually over a three-year period following the fiscal year in which the revenue growth occurs. Any performance-based 2016 RSUs that were not earned at the end of fiscal 2018 were forfeited. The expense for such shares
+was recognized in the fiscal year in which the results were achieved, however, the shares were not fully earned until approved by the Compensation Committee in the first quarter of the following fiscal year. Based upon revenue in fiscal 2018, 2017
+and 2016, 33,638, 9,025 and 15,810 shares of the performance based RSUs were earned in the first quarter of fiscal 2019, 2018 and 2017, respectively.  
+ In March 2016 (fiscal year 2017), the Company granted 50,000 options and 4,030 RSAs to its Chief Executive Officer pursuant to the CEO Equity
+Incentive Agreement.    In May 2016 (fiscal year 2017) the Company granted 37,000 options to certain key employees. On August 1, 2016
+(fiscal year 2017) the Company granted 5,000 options to its Chief Financial Officer.    In March 2017 (fiscal year 2018), the Company
+granted 50,000 options to the Chief Executive Officer pursuant to the CEO Equity Incentive Agreement. In February and April 2017 the Company granted 52,189 options to certain other key employees. In December 2017, upon election to the Board, the
+Company granted 5,000  non-qualified  options and 675 RSUs to a Board member. In January 2018, the Company granted 50,000  non-qualified  options and 15,000 RSUs to the
+newly appointed Chief Financial Officer.    In April 2018 (fiscal year 2019), the Company granted 5,000
+ non-qualified  options and 341 RSUs to a newly elected member of the Board of Directors.    In May
+2018, the Company granted 40,000 options to certain key employees.    In June 2018, the Company granted an aggregate of 25,000  non-qualified  options to the members of the Board of Directors. Also in June 2018, the Company granted an aggregate of 126,000 options, 44,275 time-based RSUs and 38,000 performance-based RSUs to certain officers of
+the Company, all of which vest over three years. The number of performance-based RSUs that are eligible to vest will be determined based upon achievement of fiscal 2019 revenue and operating income targets.  
+      14  
+
+Table of Contents  
+
+Share-based compensation expense was recognized as follows:  
+   
+    Stock Options   
+ The fair value of stock options granted during the six months ended July 28, 2018 and July 29, 2017 was estimated using the following
+assumptions:      
+   The weighted average fair value per share for options granted was $7.42 and $7.41 during the three and six
+month periods ended July 28, 2018, compared to $5.62 and $4.46 during the three and six month periods ended July 29, 2017.  
+ Aggregated information regarding stock options granted under the Plans for the six months ended July 28, 2018, is summarized below:  
+   
+   Set forth below is a summary of options outstanding at July 28, 2018:  
+   
+   As of July 28, 2018, there was approximately $2.0 million of unrecognized compensation expense
+related to stock options which is expected to be recognized over a weighted average period of approximately 2.7 years.  
+      15  
+
+Table of Contents  
+
+Restricted Stock Units (RSUs) and Restricted Stock Awards (RSAs)   
+ Aggregated information regarding RSUs and RSAs granted under the Plans for the six months ended July 28, 2018 is summarized below:  
+   
+   As of July 28, 2018, there was approximately $1.4 million of unrecognized compensation expense
+related to RSUs and RSAs which is expected to be recognized over a weighted average period of 1.3 years.     Employee Stock Purchase Plan   
+ AstroNova has an Employee Stock Purchase Plan allowing eligible employees to purchase shares of common stock at a 15% discount from fair value
+on the first or last day of an offering period, whichever is less. A total of 247,500 shares were reserved for issuance under this plan. During the six months ended July 28, 2018 and July 29, 2017, there were 2,342 and 2,897 shares,
+respectively, purchased under this plan. As of July 28, 2018, 36,865 shares remain available.     (9) Inventories   
+ Inventories are stated at the lower of cost  (first-in, 
+ first-out)  and net realizable value and include material, labor and manufacturing overhead. The components of inventories are as follows:  
+   
+    (10) Income Taxes   
+ The Company s effective tax rates for the period are as follows:  
+   
+   The Company determines its estimated annual effective tax rate at the end of each interim period based on
+full-year forecasted  pre-tax  income and facts known at that time. The estimated annual effective tax rate is applied to the
+  year-to-date    pre-tax  income at the end of each interim period with the cumulative effect of any changes in the estimated annual
+effective tax rate being recorded in the fiscal quarter in which the change is determined. The tax effect of significant unusual items is reflected in the period in which they occur.  
+ During the three months ended July 28, 2018, the Company recognized an income tax expense of approximately $459,000. The effective tax
+rate in this period was directly impacted by an $82,000 benefit arising from windfall tax benefits related to the Company s stock. During the three months ended July 29, 2017, the Company recognized an income tax expense of approximately
+$231,000. The effective tax rate in this period was impacted by updated projected forecasted income and updated lower foreign tax rates for the Company s foreign subsidiaries, as well as a $12,000 benefit arising from windfall tax benefits
+related to the Company s stock.  
+      16  
+
+Table of Contents  
+
+During the six months ended July 28, 2018, the Company recognized an income tax expense
+of approximately $639,000. The effective tax rate in this period was directly impacted by a $112,000 tax benefit arising from windfall tax benefits related to the Company s stock and a $78,000 tax benefit related to the expiration of the
+statute of limitations on a previously uncertain tax position . During the six months ended July 29, 2017, the Company recognized an income tax expense of approximately $378,000. The effective tax rate in this period was impacted by updated
+projected forecasted income and updated lower foreign tax rates for the Company s foreign subsidiaries, as well as a $71,000 tax benefit related to the expiration of the statute of limitations on a previously uncertain tax position and a
+$27,000 benefit arising from windfall tax benefits related to the Company s stock.    The Company maintains a valuation allowance on
+some of its deferred tax assets in certain jurisdictions. A valuation allowance is required when, based upon an assessment of various factors, including recent operating loss history, anticipated future earnings, and prudent and reasonable tax
+planning strategies, it is more likely than not that some portion of the deferred tax assets will not be realized.    Unrecognized tax
+benefits represent the difference between tax positions taken or expected to be taken in a tax return and the benefits recognized for financial reporting purposes. As of July 28, 2018, the Company s cumulative unrecognized tax benefits
+totaled $626,000 compared to $665,000 as of January 31, 2018. During the first quarter, the Company was notified by the IRS that the fiscal 2015 and 2017 income tax returns were selected for audit. No adjustments have been raised at this time.
+There were no other developments affecting unrecognized tax benefits during the quarter ended July 28, 2018.    On December 22,
+2017, the President signed into law the Tax Cuts and Jobs Act (the  Tax Act ). The Tax Act significantly changes U.S. tax law by, among other things, lowering the U.S. corporate income tax rate from 35% to 21% effective January 1,
+2018. As a result of the Tax Act, we wrote down our net deferred tax assets as of January 31, 2018 by $1.0 million to reflect the estimated impact of the Tax Act. Accordingly, we recorded a corresponding provisional net
+ one-time   non-cash  charge of $1.0 million, related to  re-measurement  of certain net deferred tax assets using the lower
+U.S. corporate income tax rate. We were capable of reasonably estimating the impact of the reduction to the U.S. Corporate tax rate on the deferred tax balances. However, the estimate may be affected by other aspects of the Tax Act.  
+ The Tax Act taxes certain unrepatriated earnings and profits ( E P ) of our foreign subsidiaries (the  Transition
+Tax ). In order to determine the Transition Tax, we must determine, along with other information, the amount of our accumulated post-1986 E P for our foreign subsidiaries, as well as the  non-U.S. 
+income tax paid by those subsidiaries on such E P. We were capable of reasonably estimating the  one-time  deemed repatriation tax and recorded a provisional expense of $0.1 million at January 31,
+2018.    ASC 740,  Income Taxes,  requires a company to record the effects of a tax law change in the period of enactment. ASU  2018-05  allows a company to record a provisional amount when it does not have the necessary information available, prepared, or analyzed in reasonable detail to complete its accounting for the changes in the Tax
+Reform Act. The measurement period ends when the company has obtained, prepared and analyzed the information necessary to finalize its accounting, but cannot extend beyond one year from the date of enactment of the Tax Reform Act.  
+ During the six months ended July 28, 2018, there were no changes made to the provisional amounts recognized in fiscal 2018. While we
+have substantially completed our provisional analysis of the income tax effects of the Tax Act and recorded a reasonable estimate of such effects, the net  one-time  charge related to the Tax Act may differ,
+possibly materially, due to, among other things, further refinement of our calculations, changes in interpretations and assumptions that we have made, additional guidance that may be issued by the U.S. Government, and actions and related accounting
+policy decisions we may take as a result of the Tax Act. We will complete our analysis over a  one-year  measurement period ending December 22, 2018, and any adjustments during this measurement period will
+be included in net earnings from continuing operations as an adjustment to income tax expense in the reporting period when such adjustments are determined.  
+ The Tax Act also established a new law that affects fiscal 2019 and beyond, which includes, but is not limited to, (1) a reduction of the
+U.S. corporate income tax rate from 35% to 21%; (2) general elimination of U.S. federal income taxes on dividends from foreign subsidiaries; (3) a new limitation on the deduction of interest expense; (4) repeal of the domestic production
+activity deduction; (5) additional limitations on deduction of compensation for certain executives; (6) a new provision designed to tax global intangible  low-taxed  income ( GILTI ) which
+allows for the possibility of utilizing foreign tax credits ( FTCs ) and a deduction of up to 50% to offset the income tax liability (subject to certain limitations); (7) the  
+      17  
+
+Table of Contents  
+
+introduction of the base erosion anti-abuse tax which represents a new minimum tax; (8) limitations on utilization of FTCs to reduce U.S. income tax liability; (9) a new provision
+designed to provide a preferential tax rate for income derived by domestic corporations from servicing foreign markets ( FDII ) and (10) limitations on net operating losses ( NOLs ) generated after December 31, 2017 to
+80% of taxable income.     (11) Credit Agreement   
+ On February 28, 2017, the Company and its wholly owned Danish subsidiaries, ANI ApS and TrojanLabel ApS (together, the
+ Parties ), entered into a Credit Agreement with Bank of America, N.A. (the  Lender ). The Credit Agreement provided for a term loan to ANI ApS in the principal amount of $9.2 million. The Credit Agreement also provided for
+a $10.0 million revolving credit facility available to the Company for general corporate purposes.    In connection with the Honeywell
+Purchase and License Agreement, on September 28, 2017, the Parties entered into a First Amendment to the Credit Agreement with the Lender. The First Amendment amended the existing Credit Agreement to permit the Honeywell Asset Purchase and
+License Agreement and temporarily increased the amount available for borrowing under the revolving credit facility from $10.0 million to $15.0 million. The initial upfront payment of $14.6 million for the Honeywell Agreement was paid
+using borrowings under the Company s revolving credit facility.    On November 30, 2017, the Parties entered into a Second
+Amendment to the Credit Agreement with the Lender. The Second Amendment provided for a term loan to the Company in the principal amount of $15.0 million, in addition to the revolving credit facility for the Company and the term loan previously
+borrowed by ANI ApS at the original closing under the Credit Agreement. The proceeds from the term loan were used to repay the entire $14.6 million principal balance of the revolving loans outstanding under the revolving credit facility. The
+principal amount of the revolving credit facility which had been temporarily increased to $15.0 million was reduced to $10.0 million effective upon the closing of the Second Amendment and the maturity date for the revolving credit facility
+was extended to November 30, 2022.    On April 17, 2018, the Parties entered into a Third Amendment to the Credit Agreement with
+the Lender. The Third Amendment provides that no  Immaterial Subsidiary  will be required to become a guarantor or securing party under (unless requested by the Lender during default) or have its equity pledged pursuant to the Credit
+Agreement. The Third Amendment defines  Immaterial Subsidiary  as any subsidiary of the Company with (a) consolidated total assets that do not exceed 5.0% of the consolidated total assets of the Company and its subsidiaries and
+(b) revenues that do not exceed 5.0% of the consolidated revenues of the Company and its subsidiaries, as of the last day of the most recent fiscal quarter; provided that Immaterial Subsidiaries shall not account for, in the aggregate, more
+than 10% the of consolidated total assets or consolidated revenues of the Company and its subsidiaries.    In connection with the Credit
+Agreement, AstroNova and ANI ApS entered into certain hedging arrangements with the Lender to manage the variable interest rate risk and currency risk associated with its payments in respect of the term loans. Refer to Note 13,  Derivative
+Financial Instruments and Risk Management  for further information about these arrangements.    Revolving credit loans may be borrowed,
+at the Company s option, in U.S. Dollars or, subject to certain conditions, Euros, British Pounds, Canadian Dollars or Danish Krone. Amounts borrowed under the revolving credit facility bear interest at a rate  per annum  equal to, at the
+Company s option, either (a) the LIBOR rate (or in the case of revolving credit loans denominated in a currency other than U.S. Dollars, the applicable quoted rate), plus a margin that varies within a range of 1.0% to 1.5% based on the
+Company s consolidated leverage ratio, or (b) a fluctuating reference rate equal to the highest of (i) the federal funds  rate plus 0.50%, (ii) Bank of America s publicly announced prime rate or (iii) the LIBOR
+rate plus 1.00%, plus a margin that varies within a range of 0.0% to 0.5% based on the Company s consolidated leverage ratio. The Company is required to pay a commitment fee on the undrawn portion of the revolving credit facility at the rate of
+0.25%  per annum .    The Parties must comply with various customary financial and
+ non-financial  covenants under the Credit Agreement. The financial covenants consist of a maximum consolidated leverage ratio and a minimum consolidated fixed charge coverage ratio. The Credit Agreement
+contains limitations, in each case subject to various exceptions and thresholds, on the Company s and its subsidiaries  ability to incur future indebtedness, to place liens on assets, to conduct mergers or acquisitions, to sell assets, to
+alter their capital structure, to make investments and loans, to change the nature of their business, and to prepay subordinated indebtedness. The Credit Agreement permits the Company to pay cash dividends on and repurchase shares of its common
+stock, subject to certain limitations. The Company believes it is in compliance with all of the covenants in the Credit Agreement as of July 28, 2018.  
+      18  
+
+Table of Contents  
+
+The Lender is entitled to accelerate repayment of the loans and to terminate its revolving
+credit commitment under the Credit Agreement upon the occurrence of any of various customary events of default, which include, among other events, the following: failure to pay when due any principal, interest or other amounts in respect of the
+loans, breach of any of the Company s covenants or representations under the loan documents, default under any other of the Company s or its subsidiaries  significant indebtedness agreements, a bankruptcy, insolvency or similar event
+with respect to the Company or any of its subsidiaries, a significant unsatisfied judgment against the Company or any of its subsidiaries, or a change of control of the Company.  
+ The obligations of ANI ApS in respect of the $9.2 million term loan are guaranteed by the Company and TrojanLabel. The Company s
+obligations in respect of the $15.0 million term loan, revolving credit facility and its guarantee in respect of the ANI ApS term loan are secured by substantially all of the assets of the Company (including a pledge of a portion of the equity
+interests held by the Company in ANI ApS and the Company s wholly-owned German subsidiary  Astro-Med  GmbH), subject to certain exceptions.  
+ In the second quarter of the current year, $3.0 million was drawn on the revolving credit facility, of which $1.5 million was repaid
+during the quarter and $1.5 million remained outstanding as of July 28, 2018. The outstanding balance bears interest at an annual rate of 5.5% and $17.5 thousand of interest has been accrued on this obligation and included in other
+expense in the accompanying condensed consolidated income statement for the three and six months ended July 28, 2018. As of July 28, 2018, there is $8.5 million available for borrowing under the revolving credit facility.  
+  (12) Debt     Long-term debt in the
+accompanying condensed consolidated balance sheets is as follows:      
+   The schedule of required principal payments remaining during the next five years on long-term debt outstanding
+as of July 28, 2018 is as follows:      
+    (13) Derivative Financial Instruments and Risk Management   
+ The Company has entered into a cross-currency interest rate swap to manage the interest rate risk and foreign currency exchange risk associated
+with the floating-rate foreign currency-denominated term loan borrowing by our Danish Subsidiary and an interest rate swap to manage the interest rate risk associated with the variable rate $15.0 million term loan borrowing by the Company. In
+accordance with the guidance in ASC 815  Derivatives and Hedging , both swaps have been designated as cash flow hedges of floating-rate borrowings.  
+      19  
+
+Table of Contents  
+
+The cross-currency interest rate swap agreement utilized by the Company effectively modifies
+the Company s exposure to interest rate risk and foreign currency exchange rate risk by converting approximately $8.9 million of the Company s floating-rate debt denominated in U.S. Dollars on our Danish subsidiary s books to a
+fixed-rate debt denominated in Danish Krone for the term of the loan, thus reducing the impact of interest-rate and foreign currency exchange rate changes on future interest expense and principal repayments. This swap involves the receipt of
+floating rate amounts in U.S. Dollars in exchange for fixed-rate interest payments in Danish Krone, as well as exchanges of principal at the inception spot rate, over the life of the term loan. As of July 28, 2018, the total notional amount of
+the Company s cross-currency interest rate swap was $7.1 million and is included in other long term liabilities in the Company s condensed consolidated balance sheet at its fair value amount of $0.8 million.  
+ The interest rate swap agreement utilized by the Company on the $15.0 million term loan effectively modifies the Company s exposure
+to interest rate risk by converting the Company s floating-rate debt to fixed-rate debt for the next five years, thus reducing the impact of interest-rate changes on future interest expense. This swap involves the receipt of floating rate
+amounts in U.S. Dollars in exchange for fixed rate payments in U.S. dollars over the life of the term loan. As of July 28, 2018, the total notional amount of the Company s interest rate swap was $12.8 million and is included in other
+assets in the Company s condensed consolidated balance at its fair value amount of $0.2 million.    The following tables present
+the impact of the derivative instruments in our condensed consolidated financial statements for the three and six months ended July 28, 2018 and July 29, 2017:      
+     
+   At July 28, 2018, the Company expects to reclassify approximately $0.3 million of net gains on the
+swap contracts from accumulated other comprehensive income (loss) to earnings during the next 12 months due to changes in foreign exchange rates and the payment of variable interest associated with the floating-rate debt.  
+  (14) Accumulated Other Comprehensive Loss   
+ The changes in the balance of accumulated other comprehensive loss by component are as follows:  
+   
+   The amounts presented above in other comprehensive loss are net of taxes except for translation adjustments
+associated with our German and Danish subsidiaries.  
+      20  
+
+Table of Contents  
+
+(15) Segment Information   
+ AstroNova reports two segments: Product Identification and Test   Measurement (T M). The Company evaluates segment performance
+based on the segment profit before corporate expenses.    Summarized below are the Revenue and Segment Operating Profit for each reporting
+segment:      
+    (16) Recent Accounting Pronouncements   
+   Recently Adopted Accounting Pronouncements    
+  Share-Based Compensation     In June 2018,
+the Financial Accounting Standards Board ( FASB ) issued Accounting Standards Update ( ASU )  2018-07   Compensation Stock Compensation (Topic 718): Improvements to Nonemployee
+Share-Based Payment Accounting.  ASU  2018-07  reduces the cost and complexity and improves financial reporting by expanding the scope of Topic 718 to include share-based payment transactions to
+nonemployees. ASU  2018-07  is effective for public companies for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years with early adoption permitted. We adopted
+the provisions of this guidance effective beginning in the second quarter of the current year. The adoption of this guidance did not have a material impact on the Company s consolidated financial statements.  
+  Income Taxes     In March 2018, the FASB
+issued ASU  2018-05  Income Taxes  (Topic 740): Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin
+ No. 118.  ASU 2018-05 provides  guidance for companies related to the U.S. government-enacted comprehensive tax legislation commonly referred to as the Tax Act.  ASU 2018-05 allows  for a measurement period of up to one year after the enactment date of the Tax Act to finalize the recording of the related tax impacts. This ASU is effective immediately as new
+information is available to adjust provisional amounts that were previously recorded. The Company adopted this standard in the first quarter of fiscal 2019 and expects the accounting for the tax effects of the Tax Act to be completed during the
+measurement period.     Comprehensive Income   
+ In February 2018, the FASB issued ASU  2018-02,   Income Statement-Reporting Comprehensive Income
+(Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income.  ASU  2018-02  amends ASU Topic 220 and allows a reclassification from accumulated other comprehensive
+income to retained earnings for stranded tax effects resulting from the Tax Act, to eliminate the stranded tax effects resulting from the Tax Act. This ASU is effective for fiscal years beginning after December 15, 2018 with early adoption
+permitted. The amendments in this update should be applied either in the period of adoption or retrospectively to each period (or periods) in which the effect of the change in the U.S. federal corporate income tax rate in the Tax Cuts and Jobs Act
+is recognized. The Company early adopted this amendment in the second quarter of fiscal 2019 and reclassified $14,000 from accumulated other comprehensive income to retained earnings.  
+      21  
+
+Table of Contents  
+
+Revenue Recognition   
+ In May 2014, the FASB issued ASU  2014-09,   Revenue from Contracts with Customers (Topic
+606).  ASU  2014-09  completes the joint effort by the FASB and International Accounting Standards Board to improve financial reporting by creating common revenue recognition guidance for U.S. GAAP and
+International Financial Reporting Standards. ASU  2014-09  applies to all companies that enter into contracts with customers to transfer goods or services. Under this guidance, revenue is recognized when a
+customer obtains control of promised goods or services in an amount that reflects the consideration the entity expects to receive in exchange for those goods or services. In addition, the standard requires disclosure of the nature, amount, timing,
+and uncertainty of revenue and cash flows arising from contracts with customers. The Company adopted this guidance effective February 1, 2018 using the modified retrospective method. The adoption of this guidance did not have a material impact
+on the Company s consolidated financial statements. Refer to Note 4,  Revenue Recognition  for further details.     Derivatives and Hedging
+    In August 2017, the FASB issued ASU  2017-12,   Derivatives and Hedging: Targeted
+Improvements to Accounting for Hedging Activities.  The objective of this new guidance is to improve the financial reporting of hedging relationships by, among other things, eliminating the requirement to separately measure and record hedge
+ineffectiveness. ASU  2017-12  is effective for public companies for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years with early adoption permitted. We
+adopted the provisions of this guidance effective for the first quarter of fiscal 2019. The adoption of this guidance did not have a material impact on the Company s consolidated financial statements.  
+  Share-Based Compensation     In May 2017,
+the FASB issued ASU  2017-09   Stock Compensation: Scope of Modification Accounting.  ASU  2017-09  provides guidance on the types of changes to the terms or
+conditions of share-based payment awards to which an entity would be required to apply modification accounting under ASC 718. The Company adopted this guidance effective February 1, 2018. The adoption of this guidance did not have a material
+impact on its consolidated financial statements.     Statement of Cash Flows   
+ In August 2016, the FASB issued ASU  2016-15,   Classification of Certain Cash Receipts and Cash
+Payments (Topic 230).  ASU  2016-15  addresses eight specific cash flow issues with the objective of reducing the existing diversity in practice for certain cash receipts and cash payments. The Company
+adopted this guidance affective February 1, 2018. The adoption of this guidance did not have a material impact on the Company s consolidated financial statements.  
+   Recent Accounting Pronouncements Not Yet Adopted    
+  Leases     In February 2016, the FASB issued
+ASU  2016-02,   Leases (Topic 842).  ASU  2016-02  supersedes current guidance related to accounting for leases and is intended to increase transparency and
+comparability among organizations by requiring lessees to recognize assets and liabilities in the balance sheet for operating leases with lease terms greater than twelve months. The update also requires improved disclosures to help users of
+financial statements better understand the amount, timing and uncertainty of cash flows arising from leases. In July 2018, the FASB issued ASU  2018-11,   Leases (Topic 842) Targeted Improvements, 
+which amends ASU  2016-02  to provide an additional (and optional) transition method to adopt the new lease standard. These ASUs will be effective for fiscal years beginning after December 15, 2018,
+including interim periods within those fiscal years (Q1 fiscal 2020 for AstroNova), with early adoption permitted. The Company is currently evaluating the effect of this new guidance and expects this guidance to result in recognizing leased assets
+and lease liabilities on our consolidated balance sheets.    No other new accounting pronouncements, issued or effective during the first
+six months of the current year, have had or are expected to have a material impact on our consolidated financial statements.  
+      22  
+
+Table of Contents  
+
+(17) Fair Value   
+  Assets and Liabilities Recorded at Fair Value on a Recurring Basis   
+ Fair value is applied to our financial assets and liabilities including money market funds, available for sale securities, derivative
+instruments and a contingent consideration liability relating to an earnout payment on future TrojanLabel operating results.    The
+following tables provide a summary of the financial assets and liabilities that are measured at fair value as of July 28, 2018 and January 31, 2018:      
+   For our money market funds and municipal obligations, we utilize the market approach to measure fair value.
+The market approach is based on using quoted prices for identical or similar assets.    We also use the market approach to measure fair
+value of our derivative instruments. Derivative instruments were measured at fair value using readily observable market inputs, such as quotations on interest rates and foreign exchange rates, and is classified as Level 2 because they are an   over-the-counter   contract with a bank counterparty that is not traded in an active market.  
+ The fair value of the earnout liability incurred in connection with the Company s acquisition of TrojanLabel was determined using the
+option approach methodology which includes using significant inputs that are not observable in the market and therefore classified as Level 3. Key assumptions in estimating the fair value of the contingent consideration liability included
+(1) the estimated earnout targets over the next seven years of $0.5 million-$1.4 million, (2) the probability of success (achievement of the various contingent events) from 0.0%-0.9% and (3) a risk-adjusted discount rate of
+approximately 2.68%-4.9% used to adjust the probability-weighted earnout payments to their present value. At each reporting period, the contingent consideration liability is recorded at its fair value with changes reflected in general and
+administrative expense in the condensed consolidated statements of operations. There was no change in the fair value of the earnout liability for the six months ended July 28, 2018.  
+      23  
+
+Table of Contents  
+
+Assets and Liabilities Not Recorded at Fair Value   
+ As of July 28, 2018 and January 31, 2018, the Company s long-term debt, including the current portion of long-term debt not
+reflected in the financial statements at fair value, is reflected in the table below:      
+   The fair value of the Company s long-term debt, including the current portion, is estimated by
+discounting the future cash flows using current interest rates at which similar borrowings with the same maturities would be made to borrowers with similar credit ratings and is classified as Level 3.  
+      24  
+
+Table of Contents  
+
+Item 2.  
+      MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+OPERATIONS         Business Overview   
+ This section should be read in conjunction with the AstroNova condensed consolidated financial statements included elsewhere herein and our
+Annual Report on Form  10-K  for the fiscal year ended January 31, 2018.    AstroNova is a
+multi-national enterprise that leverages its proprietary data visualization technologies to design, develop, manufacture, distribute and service a broad range of products that acquire, store, analyze and present data in multiple formats. The Company
+organizes its structure around a core set of competencies, including research and development, manufacturing, service, marketing and distribution. It markets and sells its products and services through the following two segments:  
+
+Product Identification offers product identification and digital label printer hardware, software, servicing
+contracts, parts and supplies. Supplies includes the media (substrate) and ink, toner, and thermal transfer ribbon used with the Company s printers and the various parts used to maintain the printers.     
+
+Test and Measurement (T M) offers a suite of products and services that acquire data from local and
+networked data streams and sensors as well as wired and wireless networks. The recorded data is processed and analyzed and then stored and presented in various visual output formats. The T M segment also includes a line of aerospace printers
+that are used to print hard copies of data required for the safe and efficient operation of aircraft, including navigation maps, arrival and departure procedures, flight itineraries, weather maps, performance data, passenger data, and various air
+traffic control data. Aerospace products also include Ethernet switches which are used in military aircraft and vehicles to connect multiple computers or Ethernet devises.     
+ The Company markets and sells its products and services globally through a diverse distribution structure of direct sales personnel,
+manufacturers  representatives and authorized dealers that deliver a full complement of branded products and services to customers in our respective markets.  
+ On September 28, 2017, AstroNova entered into an Asset Purchase and License Agreement with Honeywell International, Inc. (the
+ Honeywell Agreement ) pursuant to which it acquired the exclusive perpetual world-wide license to manufacture Honeywell s narrow format flight deck printers for the Boeing 737 and Airbus 320 aircraft. Revenue from the sales of these
+printers is reported as part of our Test   Measurement segment beginning in the third quarter of fiscal year 2018. Refer to Note 5,  Acquisitions,  in the condensed consolidated financial statements included elsewhere in this
+report.     Results of Operations      Three Months Ended
+July 28, 2018 vs. Three Months Ended July 29, 2017     Revenue by segment and current quarter percentage change over prior year
+for the three months ended July 28, 2018 and July 29, 2017 were:      
+   Revenue for the second quarter of the current year was $33.8 million, representing a 23.0% increase
+compared to the previous year second quarter revenue of $27.5 million. Revenue through domestic channels for the current year second quarter was $20.0 million, an increase of 16.3% over the prior year s second quarter. International
+revenue for the second quarter of the current year was $13.8 million, a 34.0% increase over the previous year s second quarter and represents 41% of AstroNova s second quarter s revenue. Current year second quarter international
+revenue includes a favorable foreign exchange rate impact of $0.3 million.    Hardware revenue in the current quarter was
+$12.9 million, an increase compared to the prior year s second quarter revenue of $8.6 million, primarily due to the increase in Test   Measurement hardware sales of aerospace printers related to the Honeywell Agreement
+entered into at the end of the third quarter of the prior year.    Supplies revenue in the current quarter was $17.9 million, a 9.8%
+increase over the prior year s second quarter supplies revenue of $16.3 million.  
+      25  
+
+Table of Contents  
+
+The current quarter increase in supplies revenue compared to the second quarter of the prior year is primarily attributable to increases in revenue of both digital color printer supplies and
+label and tag products within the Product Identification segment, as well as an increase in sales of Test   Measurement supplies during the current quarter.  
+ Service and other revenues of $3.0 million in the current quarter increased 15.4% from prior year second quarter service and other
+revenues of $2.6 million, primarily due to an increase in customer demand for repair services in the Test   Measurement segment during the second quarter of the current year.  
+ Current year second quarter gross profit was $13.4 million, a 30.6% increase compared to prior year second quarter gross profit of
+$10.3 million. The Company s current quarter gross profit margin of 39.6% reflects a 2.3 percentage point increase from the prior year second quarter gross profit margin of 37.3%. The higher gross profit and related profit margin for the
+current quarter compared to the prior year is primarily attributable to increased sales and favorable product mix.    Operating expenses for
+the current quarter were $11.2 million, an increase compared to prior year second quarter operating expenses of $9.3 million. Specifically, selling and marketing expenses for the current quarter increased to $6.4 million compared to
+$5.3 million in the second quarter of the prior year due primarily to the amortization of the Company s identifiable intangibles purchased in connection with the Honeywell Agreement, as well as an increase in compensation benefits. G A
+expenses increased in the second quarter to $2.8 million compared to $2.3 million in the prior year second quarter. The increase is primarily due to an increase in employee benefits and outside service costs in the second quarter of the
+current year. R D expenses were $2.0 million in the current quarter, compared to $1.7 million in the prior year second quarter with the increase attributable primarily to increased wages and benefits. The R D spending as a
+percentage of revenue for the current quarter is 6.0% compared to 6.1% for the same period of the prior year.    Other expense in the second
+quarter of fiscal 2019 was $0.5 million compared to $16 thousand of other income in the prior year second quarter. Current quarter other expense includes interest expense on debt of $0.2 million and foreign exchange loss of
+$0.3 million. Other income for the second quarter of fiscal 2018 includes foreign exchange gain of $59 thousand and investment income of $68 thousand, offset by interest expense on debt of $82 thousand and other expense of
+$30 thousand.    The provision for federal, state and foreign income taxes for the second quarter of the current year was
+$0.5 million which includes an $82 thousand benefit related to windfall tax benefits related to the Company s stock and reflects an effective tax rate of 27.8%. This compares to the prior year s second quarter tax provision on
+income of $0.2 million which was impacted by updated projected forecasted income and updated lower foreign tax rates, as well as a $12 thousand benefit related to windfall tax benefits related to the Company s stock and reflected an
+effective tax rate of 24.1%.    The Company reported net income of $1.2 million or $0.17 per diluted share for the second quarter of
+the current year. On a comparable basis, net income for the prior year second quarter was $0.7 million or $0.11 per diluted share. Return on revenue was 3.5% for the second quarter of fiscal 2019 compared to 2.6% for the second quarter of
+fiscal 2018.     Six Months Ended July 28, 2018 vs. Six Months Ended July 29, 2017   
+ Revenue by product group and current quarter percentage change over prior year for the six months ended July 28, 2018 and July 29, 2017 were:  
+
+26  
+
+Table of Contents  
+
+Revenue for the first six months of the current year was $65.3 million, representing a 25.7% increase
+compared to the previous year s first six months of revenue of $51.9 million. Revenue through domestic channels for the first half of the current year was $39.2 million, an increase of 19.1% from the prior year. International revenue
+for the first six months of the current year was $26.1 million, a 37.4% increase from the previous year. The current year s first six months international revenue included an unfavorable foreign exchange rate impact of $1.1 million.
+   Hardware revenue in the first six months of the current year was $24.9 million, a 56.6% increase compared to the prior year s first six months
+of revenue of $15.9 million primarily due to the increase in Test   Measurement hardware sales of aerospace printers related to the Honeywell Agreement entered into at the end of the third quarter of the prior year.  
+ Supplies revenue in the first half of the current year was $34.6 million, representing an 11.3% increase over the prior year s first six months
+revenue of $31.1 million. The current year increase in supplies revenue is due primarily to the increase in digital color printer supplies product revenue, as well as label and tag revenue in the Product Identification segment.  
+ Service and other revenues were $5.8 million in the first six months of the current year, an increase compared to the prior year s first six months
+service and other revenues of $4.9 million, primarily due to an increase in customer demand for repair services in the Test   Measurement segment during the second quarter of the current year.  
+ Current year first six months gross profit was $25.5 million, a 30.4% increase from prior year s first six months gross profit of
+$19.6 million. The Company s gross profit margin of 39.1% in the current year reflects an increase from the prior year s first six months gross profit margin of 37.7%. The higher gross profit and related margin for the current year
+compared to the prior year is primarily due to higher sales and favorable product mix.    Operating expenses for the first six months of the fiscal year
+were $22.1 million, a 22.3% increase compared to prior year s first six months operating expenses of $17.9 million. Selling and marketing expenses for the current year of $12.9 million increased 23.7% compared to the previous
+year s first six months due primarily to the amortization of the Company s identifiable intangibles purchased in connection with the Honeywell Agreement, as well as increases in bonus compensation and outside service fees. G A expenses
+increased to $5.5 million in the first six months of the current year compared to prior year s first six months G A expenses of $4.2 million primarily due to an increase in bonus compensation and professional fees. R D
+spending in the first six months of the current year was $3.7 million, a 12.5% increase compared to prior year s first six months spending of $3.3 million. Current year spending on R D represents 5.7% of revenue compared to the
+prior year s first six months level of 6.4%.  
+      27  
+
+Table of Contents  
+
+Other expense during the first six months of the current year was $0.8 million compared to $33 thousand
+in the first six months of the previous year. Current year other expense includes interest expense on debt of $0.4 million and foreign exchange loss of $0.5 million, partially offset by investment and other income of $0.1 million.
+Other expense for fiscal 2018 included interest expense on debt of $0.1 million, partially offset by investment and other income of $0.1 million.  
+ The Company recognized $0.6 million of income tax expense for the first six months of the current fiscal year. The 24.1% effective tax
+rate in this period was directly impacted by a $112,000 tax benefit arising from windfall tax benefits related to the Company s stock and a $78,000 tax benefit related to the expiration of the statute of limitations on a previously uncertain
+tax position. The prior year s first six months income tax expense was $0.4 million. The 23.4% effective tax rate for the six months ended July 29, 2017 was impacted by updated projected forecasted income and updated lower foreign tax
+rates for the Company s foreign subsidiaries, as well as a $71 thousand tax benefit related to the statute of limitations expiring on a previously uncertain tax position and a $27 thousand benefit arising from windfall tax benefits
+related to the Company s stock.    The Company reported net income of $2.0 million, or $0.17 per diluted share, for the first six months of the
+current year, which included $0.8 million of  after-tax  income, or $0.12 per diluted share, as a result of a change in accounting estimates in the first quarter for product cost and operating expenses related
+to a transition services agreement entered into with Honeywell in connection with the Honeywell Agreement. In addition, during the first quarter of fiscal 2019, a change in accounting estimate for revenue subject to customer rebates under the
+Honeywell Agreement increased net income by $0.3 million or $0.05 per diluted share.    In the prior year s first six months, the Company recognized net income of $1.2 million, or $0.17 per diluted share. Return on
+revenue was 3.1% for the first six months of fiscal 2019 compared to 2.4% for the first six months of fiscal 2018.    .  
+      28  
+
+Table of Contents  
+
+Segment Analysis   
+ The Company reports two segments: Product Identification and Test   Measurement (T M) and evaluates segment performance based on
+the segment profit before corporate and financial administration expenses. Summarized below are the Revenue and Segment Operating Profit for each reporting segment:      
+     Product Identification    
+ Revenue from the Product Identification segment increased 4.5% in the second quarter of the current year, with revenue of $21.8 million
+compared to $20.8 million in the same period of the prior year. Hardware revenue increased 8.2% compared to prior year primarily due to an increase in demand for the new TrojanLabel printers products. The current year second quarter also
+received a solid contribution from the supplies product line revenue which increased 5.0% from the same period in the prior year. The current quarter increase in supplies revenue is due to the continued increase in demand for digital color printer
+supplies, which have experienced double-digit growth in the current year second quarter compared to the same period in the prior year. The increase in sales of label and tag products for the current quarter also contributed to the increase in
+supplies revenue. The Product Identification segment current quarter segment operating profit was $2.2 million, reflecting a profit margin of 9.9%. This compares to the prior year s second quarter segment profit of $2.6 million and
+related profit margin of 12.5%. The decline in Product Identification current year second quarter segment operating profit and margin is primarily due to product mix and higher manufacturing and operating expenses.  
+ Revenues from the Product Identification segment increased 5.7% to $41.7 million in the first six months of the current year from $39.5 million in
+the same period of the prior year, attributable to an increase in supplies revenue of 6.0% due to increased demand for digital color printer supplies products, as well as label and tag products. The increase in current year revenue also received a
+contribution from increased sales of TrojanLabel printers, which experienced double-digit growth in the current year. Product Identification current year segment operating profit of $3.8 million and profit margin of 9.2% declined from the prior
+year segment operating profit of $5.1 million and related profit margin of 12.7 %. The decrease in current year segment operating profit and margin is primarily due to product mix and higher manufacturing and operating expenses.  
+      29  
+
+Table of Contents  
+
+Test   Measurement T M    
+ Revenue from the T M segment was $12.0 million for the second quarter of the current fiscal year, representing an 81.2% increase
+compared to revenue of $6.6 million for the same period in the prior year. The increase is due primarily to the increase in hardware sales of aerospace printers as a result of the Honeywell Agreement entered into at the end of the third quarter
+of the prior year. The T M segment second quarter segment operating profit of $2.8 million and 23.4% profit margin compared to the prior year segment operating profit of $0.7 million and related operating margin of 9.9%. The increase
+in segment operating profit and related margin were due to higher sales revenue and favorable product mix.    Revenue from the T M
+segment was $23.6 million for the first six months of the current fiscal year, an 89.3% increase compared to sales of $12.5 million for the same period in the prior year. The increase is due primarily to the increase in hardware sales of
+aerospace printers as a result of the Honeywell Agreement entered into at the end of the third quarter of the prior year. The segment s first six months operating profit of $5.1 million resulted in a 21.5% profit margin compared to prior
+year segment operating profit of $0.7 million and related operating margin of 5.8%. The higher segment operating profit and related profit margin for the current year is due to higher revenue and product mix.  
+   Financial Condition and Liquidity        Overview
+     Generally, our primary source of liquidity is cash generated from operating activities. We may also utilize amounts available
+under our revolving credit facility, as described below, to supplement operating activities and to fund a portion of our capital expenditures, contractual contingent consideration obligations, and future acquisitions. We believe that our current
+level of cash and short-term financing capabilities along with future cash flows from operations will be sufficient to meet our operating and capital needs for at least the next 12 months.  
+ During the first quarter of fiscal 2019, we converted our securities available for sale to cash. In the second quarter of fiscal 2019, we drew
+$3.0 million on our revolving credit facility, of which $1.5 million was repaid during the quarter and $1.5 million remained outstanding as of July 28, 2018. Our cash and cash equivalents at the end of the second quarter were
+$5.9 million and we have $8.5 million remaining available under our revolving credit facility.  
+      30  
+
+Table of Contents  
+
+Indebtedness    
+ On February 28, 2017, the Company and its wholly owned Danish subsidiaries, ANI ApS and TrojanLabel ApS (together, the
+ Parties ), entered into a Credit Agreement with Bank of America, N.A. (the  Lender ). The Credit Agreement provided for a term loan to ANI ApS in the principal amount of $9.2 million. The Credit Agreement also provided for
+a $10.0 million revolving credit facility available to the Company for general corporate purposes.    In connection with the Honeywell
+Purchase and License Agreement, on September 28, 2017, the Parties entered into a First Amendment to the Credit Agreement with the Lender. The First Amendment amended the existing Credit Agreement to permit the Honeywell Agreement and
+temporarily increased the amount available for borrowing under the revolving credit facility from $10.0 million to $15.0 million. The initial upfront payment of $14.6 million for the Honeywell Agreement was paid using borrowings under
+the Company s revolving credit facility.    On November 30, 2017, the Parties entered into a Second Amendment to the Credit
+Agreement with the Lender. The Second Amendment provided for a term loan to the Company in the principal amount of $15.0 million, in addition to the revolving credit facility for the Company and the term loan previously borrowed by ANI ApS at
+the original closing under the Credit Agreement. The proceeds from the term loan were used to repay the entire $14.6 million principal balance of the revolving loans outstanding under the revolving credit facility. The principal amount of the
+revolving credit facility which had been temporarily increased to $15.0 million was reduced to $10.0 million effective upon closing of the Second Amendment and the maturity date was extended to November 30, 2022.  
+ On April 17, 2018, the Parties entered into a Third Amendment to the Credit Agreement with the Lender. The Third Amendment provides that
+no  Immaterial Subsidiary  will be required to become a guarantor or securing party under (unless requested by the Lender during default) or have its equity pledged pursuant to the Credit Agreement. The Third Amendment defines
+ Immaterial Subsidiary  as any subsidiary of the Company with (a) consolidated total assets that do not exceed 5.0% of the consolidated total assets of the Company and its subsidiaries and (b) revenues that do not exceed 5.0% of
+the consolidated revenues of the Company and its subsidiaries, as of the last day of the most recent fiscal quarter; provided that Immaterial Subsidiaries shall not account for, in the aggregate, more than 10% the of consolidated total assets or
+consolidated revenues of the Company and its subsidiaries.    In connection with the Credit Agreement, AstroNova and ANI ApS entered into
+certain hedging arrangements with the Lender to manage the variable interest rate risk and currency risk associated with its payments in respect of the term loans.  
+ Revolving credit loans may be borrowed, at the Company s option, in U.S. Dollars or, subject to certain conditions, Euros, British
+Pounds, Canadian Dollars or Danish Krone. Amounts borrowed under the revolving credit facility bear interest at a rate  per annum  equal to, at the Company s option, either (a) the LIBOR rate (or in the case of revolving credit loans
+denominated in a currency other than U.S. Dollars, the applicable quoted rate), plus a margin that varies within a range of 1.0% to 1.5% based on the Company s consolidated leverage ratio, or (b) a fluctuating reference rate equal to the
+highest of (i) the federal funds  rate plus 0.50%, (ii) Bank of America s publicly announced prime rate or (iii) the LIBOR rate plus 1.00%, plus a margin that varies within a range of 0.0% to 0.5% based on the Company s
+consolidated leverage ratio. The Company is required to pay a commitment fee on the undrawn portion of the revolving credit facility at the rate of 0.25%  per annum . Outstanding borrowings under the revolving credit line during fiscal 2019
+bear interest at an annual rate of 5.5% and the Company has accrued $17.5 thousand on the outstanding obligation for the six months ended July 28, 2018.  
+ The obligations of ANI ApS in respect of the $9.2 million term loan are guaranteed by the Company and TrojanLabel. The Company s
+obligations in respect of the $15.0 million term loan, revolving credit facility and its guarantee in respect of the ANI ApS term loan are secured by substantially all of the assets of the Company (including a pledge of a portion of the equity
+interests held by the Company in ANI ApS and the Company s wholly-owned German subsidiary  Astro-Med  GmbH), subject to certain exceptions.  
+ The Parties must comply with various customary financial and  non-financial  covenants under the Credit
+Agreement.    The Lender is entitled to accelerate repayment of the loans and to terminate its revolving credit commitment under the Credit
+Agreement upon the occurrence of any of various customary events of default.    As of July 28, 2018, we believe the Company is in
+compliance with all of the covenants in the Credit Agreement.  
+      31  
+
+Table of Contents  
+
+Cash Flow   
+ The Company s statements of cash flows for the six months ended July 28, 2018 and July 29, 2017 are included on page 6 of
+this report. Net cash used by operating activities was $2.6 million for the first six months of fiscal 2019 compared to net cash provided of $1.7 million for the same period of the previous year. The increase in net cash used by operations
+for the first six months of the current year is primarily due to payments of prior quarters accrued expenses to Honeywell under the TSA agreement, slower collections on accounts receivable related to Honeywell customers and the increase in inventory
+to support the transition of the production of printers to the West Warwick facility in accordance with the Honeywell TSA. The combination of these factors on accounts receivable, inventory, accounts payable and accrued expenses decreased cash by
+$7.6 million in the first six months of fiscal 2019, compared to a decrease of $1.6 million for the same period in fiscal 2018. The accounts receivable balance increased to $24.0 million at the end of the second quarter compared to
+$22.4 million at year end and the collection cycle increased to 59 days compared to 55 days at year end. The inventory balance was $28.4 million at the end of the second quarter of fiscal 2019, compared to $27.6 million at year end
+and inventory days on hand increased to 125 days at the end of the current quarter from 124 days at the prior year end.    The decreased
+cash and investment position at July 28, 2018, primarily resulted from increased cash used in operations as discussed above, principal payments of long-term debt of $2.9 million, dividends paid of $1.0 million and cash used to acquire
+property, plant and equipment of $0.8 million.    The Company s backlog increased 14.5% from
+ year-end  to $24.5 million at the end of the second quarter of fiscal 2019.      Contractual Obligations,
+Commitments and Contingencies      There have been no material changes to our contractual obligations as disclosed in the
+Company s Annual Report on Form  10-K  for the fiscal year ended January 31, 2018, other than those which occur in the ordinary course of business.  
+   Critical Accounting Policies, Commitments and Certain Other Matters    
+ In the Company s Annual Report on Form  10-K  for the fiscal year ended January 31, 2018, the
+Company s most critical accounting policies and estimates upon which our financial status depends were identified as those relating to revenue recognition, warranty claims, bad debts, inventories, income taxes, long-lived assets, goodwill and
+share-based compensation. We considered the disclosure requirements of Financial Release ( FR ) 60 regarding critical accounting policies and  FR-61  regarding liquidity and capital resources, certain
+trading activities and related party disclosures, and concluded that nothing materially changed during the quarter that would warrant further disclosure under these releases.  
+   Forward-Looking Statements      This
+Quarterly Report on Form  10-Q  may contain  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are not statements of
+historical fact, but rather reflect our current expectations concerning future events and results. We generally use the words  believes,   expects,   intends,   plans,   anticipates, 
+ likely,   continues,   may,   will,  and similar expressions to identify forward-looking statements. Such forward-looking statements, including those concerning our expectations, involve risks, uncertainties
+and other factors, some of which are beyond our control, which may cause our actual results, performance or achievements to be materially different from those expressed or implied by such forward-looking statements. Factors which could cause actual
+results to differ materially from those anticipated include, but are not limited to (a) general economic, financial and business conditions; (b) declining demand in the test and measurement markets, especially defense and aerospace;
+(c) competition in the specialty printer industry; (d) ability to develop market acceptance of our products and effective design of customer required features; (e) competition in the data acquisition industry; (f) the impact of
+changes in foreign currency exchange rates on the results of operations; (g) the ability to successfully integrate acquisitions and realize benefits from divestitures; (h) the business abilities and judgment of personnel and changes in
+business strategy; (i) the efficacy of research and development investments to develop new products; (j) the launching of significant new products which could result in unanticipated expenses; (k) bankruptcy or other financial
+problems at major suppliers or customers that could cause disruptions in the Company s supply chain or difficulty in collecting amounts owed by such customers; and (l) other risks included under
+  Item 1A-Risk  Factors  in the Company s Annual Report on Form  10-K  for the fiscal year ended January 31, 2018. We assume no obligation to update
+or revise any forward-looking statement, whether as a result of new information, future events or otherwise, except as required by law.  
+      32  
+
+Table of Contents  
+
+Item 3.   
+     Quantitative and Qualitative Disclosures About Market Risk       
+ During the six months ended July 28, 2018, there were no material changes to our market risk disclosures as set forth in Part II,
+Item 7A  Quantitative and Qualitative Disclosures About Market Risk  in our Annual Report on Form  10-K  for the year ended January 31, 2018.  
+
+Item 4.   
+     Controls and Procedures       
+   Evaluation of Disclosure Controls and Procedures    
+ Our management has evaluated, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, the
+effectiveness of our disclosure controls and procedures as of the end of the period covered by this report pursuant to  Rule 13a-15(b)  under the Securities Exchange Act of 1934, as amended (Exchange Act).
+Based on that evaluation, our Chief Executive Officer and our Chief Financial Officer have concluded that, as of the end of the period covered by this report, our disclosure controls and procedures are effective in ensuring that information required
+to be disclosed in our Exchange Act reports is (1) recorded, processed, summarized and reported in a timely manner, and (2) accumulated and communicated to our management, including our Chief Executive Officer and our Chief Financial
+Officer, as appropriate, to allow timely decisions regarding required disclosure.      Changes in Internal Control over Financial Reporting    
+ There have been no changes in our internal control over financial reporting that occurred during our most recent fiscal quarter that have
+materially affected, or are reasonably likely to have materially affected, our internal control over financial reporting.  
+      33  
+
+Table of Contents  
+
+PART II. OTHER INFORMATION    
+
+Item 1.   
+     Legal Proceedings       
+ There are no pending or threatened legal proceedings against the Company believed to be material to the financial position or results of
+operations of the Company.      
+
+Item 1A.   
+     Risk Factors       
+ In addition to the other information set forth in this Quarterly Report on Form  10-Q,  one should
+carefully consider the factors discussed in Part I, Item 1A  Risk Factors  in the Company s Annual Report on Form  10-K  for the fiscal year ended January 31, 2018, which could
+materially affect our business, financial condition or future operating results. The risks described in our Annual Report on  10-K  are not the only risks that could affect our business, as additional risks and
+uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results as well as adversely affect the value of our common stock.  
+ There have been no material updates to the risk factors previously disclosed in the Company s Annual Report on  Form 10-K  for the fiscal year ended January 31, 2018.      
+
+Item 2.   
+     Unregistered Sales of Equity Securities and Use of Proceeds       
+ During the second quarter of fiscal 2019, the Company made the following repurchases of its common stock:  
+
+(a) 
+   Employees of the Company delivered 6,076 shares of the Company s common stock toward the satisfaction of
+taxes due with respect to vesting of restricted shares. The shares delivered were valued at an average market value of $19.65 per share and are included with treasury stock in the consolidated balance sheet. This transaction did not impact the
+number of shares authorized for repurchase under the Company s current repurchase program.     
+
+(b) 
+   A director of the Company delivered 2,555 shares of the Company s common stock to satisfy the exercise
+price for 5,000 stock options exercised. The shares delivered were valued at an average market value of $19.20 per share and are included with treasury stock in the consolidated balance sheet. This transaction did not impact the number of shares
+authorized for repurchase under the Company s current repurchase program.     
+
+(c) 
+   An employee of the Company delivered 2,048 shares of the Company s common stock toward the satisfaction of
+taxes due with respect to vesting of restricted shares. The shares delivered were valued at an average market value of $18.25 per share and are included with treasury stock in the consolidated balance sheet. This transaction did not impact the
+number of shares authorized for repurchase under the Company s current repurchase program.     
+
+(d) 
+   Employees of the Company delivered 12,458 shares of the Company s common stock to satisfy the exercise
+price for 19,075 stock options exercised. The shares delivered were valued at an average market value of $18.38 per share and are included with treasury stock in the consolidated balance sheet. This transaction did not impact the number of shares
+authorized for repurchase under the Company s current repurchase program.     
+      34  
+
+Table of Contents  
+
+Item 6.   
+     Exhibits       
+
+3A 
+    
+  Restated Articles of Incorporation of the Company and all amendments thereto (incorporated by reference to Exhibit 3A to the Company s Quarterly
+ Report on Form  10-Q  for the quarter ended April 30, 2016).    
+
+3B 
+    
+   By-laws  of the Company as amended to date (incorporated by reference to Exhibit 3B to the Company s Annual
+ Report on Form  10-Q  for the fiscal year ended January 31, 2008 (File no.  000-13200)).     
+
+4.2 
+    
+  AstroNova, Inc. 2018 Equity Incentive Plan (incorporated by reference to Appendix A to the Registrant s definitive proxy statement on Schedule
+ 14A filed with the SEC on May 4, 2018)    
+
+10.1 
+    
+  Form of Performance-based Restricted Stock Unit Award 
+Agreement (incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form  8-K  filed with the SEC on June 4, 2018).    
+
+10.2 
+    
+  Form of Restricted Stock Unit Agreement (time-based 
+vesting) (incorporated by reference to Exhibit 10.2 to the Company s Current Report on Form  8-K  filed with the SEC on June 4, 2018).    
+
+10.3 
+    
+  Form of Incentive Stock Option (incorporated by reference to Exhibit 10.3 to the Company s Current Report on Form  8-K  filed with the SEC on June 4, 2018).    
+
+10.4 
+    
+   Form of Non-statutory Stock 
+Option  (incorporated by reference to Exhibit 10.4 to the Company s Current Report on Form  8-K  filed with the SEC on June 4, 2018).    
+
+10.5 
+    
+    Form of Non-statutory Stock Option 
+(Non-employee Director)   (incorporated by reference to Exhibit 10.5 to the Company s Current Report on Form  8-K  filed with the SEC on June 4, 2018).    
+
+10.6 
+    
+  Form of Restricted Stock 
+Agreement (incorporated by reference to Exhibit 10.6 to the Company s Current Report on Form  8-K  filed with the SEC on June 4, 2018).    
+
+10.7 
+    
+   Form of Non-employee Director Restricted Stock 
+Agreement  (incorporated by reference to Exhibit 10.7 to the Company s Current Report on Form  8-K  filed with the SEC on June 4, 2018).    
+
+31.1 
+    
+  Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002    
+
+31.2 
+    
+  Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002    
+
+32.1 
+    
+  Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002    
+
+32.2 
+    
+  Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002    
+
+101 
+    
+ The following materials from Registrant s Quarterly Report on  Form 10-Q  for the period ended July 28, 2018, formatted in XBRL (eXtensible Business Reporting Language):
+(i) the Condensed Consolidated Balance Sheets, (ii) the Condensed Consolidated Statements of Income, (iii) the Condensed Consolidated Statements of Comprehensive Income, (iv) the Condensed Consolidated Statements of Cash Flows,
+and (vi) the Notes to the Condensed Consolidated Financial Statements. Filed electronically herein.  
+ 
+      35  
+
+Table of Contents  
+
+SIGNATURES   
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.      
+
+ASTRONOVA, INC. (Registrant)   
+
+Date: September 5, 2018 
+
+By 
+   
+   /s/ Gregory A. Woods   
+
+Gregory A. Woods,  
+
+President and Chief Executive Officer  
+
+(Principal Executive Officer)  
+
+By 
+   
+   /s/ David S. Smith   
+
+David S. Smith,  
+
+Vice President, Chief Financial Officer and Treasurer (Principal  
+
+Accounting Officer and Principal Financial Officer)  
+ 
+      36  
+
+<EX-31.1>
+ 2
+ d612024dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1   
+  CERTIFICATION      Certification of Chief
+Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002     I, Gregory A. Woods certify that:  
+
+1. 
+   I have reviewed this Quarterly Report on Form  10-Q  of AstroNova, Inc.;
+
+2. 
+   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3. 
+   Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+   The registrant s other certifying officer(s) and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act Rules  13a-15(e)  and  15d-15(e))  and internal control over financial reporting (as defined in Exchange Act
+Rules  13a-15(f)  and  15d-15(f))  for the registrant and have:         
+
+a) 
+   designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is
+being prepared;         
+
+b) 
+   designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles;         
+
+c) 
+   evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this
+report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+d) 
+   disclosed in this report any change in the registrant s internal control over financial reporting that
+occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and     
+
+5. 
+   The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+
+a) 
+   all significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+
+b) 
+   any fraud, whether or not material, that involves management or other employees who have a significant role in
+the registrant s internal control over financial reporting.       September 5, 2018  
+
+/s/ Gregory A. Woods   
+ 
+ Gregory A. Woods,  
+ 
+ President and Chief Executive Officer  
+ 
+ (Principal Executive Officer)  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ d612024dex312.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2   
+  CERTIFICATION      Certification of Chief
+Financial Officer Section 302 of the Sarbanes-Oxley Act of 2002     I, David S. Smith, certify that:  
+
+1. 
+   I have reviewed this Quarterly Report on  Form 10-Q  of AstroNova,
+Inc.;         
+
+2. 
+   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;     
+
+3. 
+   Based on my knowledge, the financial statements, and other financial information included in this report,
+fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;     
+
+4. 
+   The registrant s other certifying officer(s) and I are responsible for establishing and maintaining
+disclosure controls and procedures (as defined in Exchange Act  Rules 13a-15(e)  and  15d-15(e))  and internal control over financial reporting (as defined in Exchange
+Act  Rules 13a-15(f)  and  15d-15(f))  for the registrant and have:         
+
+a) 
+   designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is
+being prepared;         
+
+b) 
+   designed such internal control over financial reporting, or caused such internal control over financial
+reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting
+principles;         
+
+c) 
+   evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this
+report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+d) 
+   disclosed in this report any change in the registrant s internal control over financial reporting that
+occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and     
+
+5. 
+   The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):     
+
+a) 
+   all significant deficiencies and material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+
+b) 
+   any fraud, whether or not material, that involves management or other employees who have a significant role in
+the registrant s internal control over financial reporting.       September 5, 2018  
+
+/s/ David S. Smith   
+ 
+ David S. Smith,  
+ 
+ Vice President, Chief Financial Officer and Treasurer (Principal Accounting Officer and Principal Financial Officer)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ d612024dex321.htm
+ EX-32.1
+
+EX-32.1 
+
+Exhibit 32.1   
+  ASTRONOVA, INC.   
+  CERTIFICATION PURSUANT TO   
+  18 U.S.C. SECTION 1350,   
+  AS ADOPTED PURSUANT TO   
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+ In connection with the Quarterly Report of AstroNova, Inc. (the  Company ) on  Form 10-Q 
+for the period ended July 28, 2018 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Gregory A. Woods, President and Chief Executive Officer, certify, pursuant to
+ Rule 13a-14(b)  and 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:      
+
+(1) 
+   The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and         
+
+(2) 
+   The information contained in the Report fairly presents, in all material respects, the financial condition and
+result of operations of the Company.       September 5, 2018      
+
+/s/ Gregory A. Woods   
+ 
+ Gregory A. Woods,  
+ 
+ President and Chief Executive Officer  
+ 
+ (Principal Executive Officer)  
+   A signed original of this written statement required by Section 906 has been provided to AstroNova, Inc.
+and will be retained by AstroNova, Inc. and furnished to the Securities and Exchange Commission or its staff upon request.      
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ d612024dex322.htm
+ EX-32.2
+
+EX-32.2 
+
+Exhibit 32.2   
+  ASTRONOVA, INC.   
+  CERTIFICATION PURSUANT TO   
+  18 U.S.C. SECTION 1350,   
+  AS ADOPTED PURSUANT TO   
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+ In connection with the Quarterly Report of AstroNova, Inc. (the  Company ) on  Form 10-Q 
+for the period ended July 28, 2018 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, David S. Smith, Vice President, Chief Financial Officer and Treasurer of the Company, certify, pursuant to  Rule 13a-14(b)  and 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:      
+
+(1) 
+   The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and         
+
+(2) 
+   The information contained in the Report fairly presents, in all material respects, the financial condition and
+results of operations of the Company.       September 5, 2018      
+
+/s/ David S. Smith   
+ 
+ David S. Smith,  
+ 
+ Vice President, Chief Financial Officer and Treasurer (Principal Accounting Officer and Principal Financial Officer)  
+   A signed original of this written statement required by Section 906 has been provided to AstroNova, Inc.
+and will be retained by AstroNova, Inc. and furnished to the Securities and Exchange Commission or its staff upon request.  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ alot-20180728.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ alot-20180728.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ alot-20180728_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ alot-20180728_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ alot-20180728_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ alot-20180728_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

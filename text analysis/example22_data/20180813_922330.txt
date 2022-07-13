@@ -1,0 +1,3083 @@
+XCHANGE COMMISSION   
+
+   Washington,
+D.C. 20549   
+
+FORM
+10-K   
+
+(Mark
+One)  
+
+For
+the fiscal year ended  April 30, 2018   
+
+For
+the transition period from _______________________ to _______________________  
+
+Commission
+File No.  0-23920   
+
+REGI
+U.S., Inc.   
+
+  (Exact
+name of registrant in its Charter)  
+
+Oregon   
+         
+       91-1580146    
+ 
+      (State
+    or Other Jurisdiction of  
+         
+      (I.R.S.
+    Employer   
+ 
+      incorporation
+    or organization)  
+         
+      Identification
+    No)   
+
+7520
+N Market St., #10, Spokane, WA. 99217  
+
+  (Address
+of Principal Executive Offices)  
+
+(509)
+474-1040  
+
+  Registrant s
+telephone number  
+
+(Former
+Name, former address and former fiscal year, if changed since last report)  
+
+Securities
+registered pursuant to Section 12(b) of the Exchange Act: NONE  
+
+Securities
+registered pursuant to Section 12(g) of the Exchange Act:  
+
+Title
+    of each class   
+         
+      Name
+    of each Exchange on which registered:    
+ 
+      Common  
+         
+      OTC
+    Markets   
+
+Indicate
+by check mark if the issuer is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act: Yes [  ]
+No [X]  
+
+Indicate
+by check mark if the issuer is not required to file reports pursuant to Section 13 or 15(d) of the Act: Yes [  ] No
+[X]  
+
+Indicate
+by check mark whether the registrant (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.  
+
+(1)
+Yes [X] No [  ] (2) Yes [X] No [  ]  
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes [X] No [  ]  
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (  229.405 of this chapter) is not
+contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K Yes [  ] No [X]  
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filed, a non-accelerated filer, or a smaller
+reporting company.  
+
+Large
+    accelerated filer [  ]   
+      Accelerated
+    filer [  ]  
+      Non-accelerated
+    filer [  ]  
+      Smaller
+    reporting company  [X]    
+
+Emerging
+    growth company  [  ]   
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  [  ]   
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [  ] No
+[X]  
+
+ISSUERS
+INVOLVED IN BANKRUPTCY PROCEEDINGS DURING THE PRECEDING FIVE YEARS  
+
+Not
+applicable  
+
+APPLICABLE
+ONLY TO CORPORATE ISSUERS  
+
+The
+number of shares issued and outstanding of the issuer s common stock, no par value, as of August 13, 2018 was 99,838,844.  
+
+State
+the aggregate market value of the voting and non-voting common equity computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s
+most recently completed second fiscal quarter: $12,748,044 as of October 31, 2017.  
+
+DOCUMENTS
+INCORPORATED BY REFERENCE  
+
+None  
+
+REGI
+U.S., INC.  
+
+  FORM
+10-K  
+
+  TABLE
+OF CONTENTS  
+
+Page   
+ 
+       PART I   
+
+Item
+    1  
+       Business   
+      3   
+ 
+      Item
+    1A  
+       Risk Factors   
+      10   
+ 
+      Item
+    2  
+       Properties   
+      13   
+ 
+      Item
+    3  
+       Legal Proceedings   
+      14   
+ 
+      Item
+    4  
+       Mine Safety Disclosures   
+      14   
+ 
+       PART II   
+
+Item
+    5  
+       Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities   
+      14   
+ 
+      Item
+    6  
+       Selected Financial Data   
+      15   
+ 
+      Item
+    7  
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      16   
+ 
+      Item
+    7A  
+       Quantitative and Qualitative Disclosure about Market Risk   
+      17   
+ 
+      Item
+    8  
+       Financial Statements and Supplementary Data   
+      18   
+ 
+      Item
+    9  
+       Changes in and Disagreements with Accountants on Accounting and Financial Disclosure   
+      19   
+ 
+      Item
+    9A  
+       Controls and Procedures   
+      19   
+ 
+      Item
+    9B  
+       Other Information   
+      20   
+ 
+       PART III   
+
+Item
+    10  
+       Directors, Executive Officers and Corporate Governance   
+      20   
+ 
+      Item
+    11  
+       Executive Compensation   
+      22   
+ 
+      Item
+    12  
+       Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters   
+      26   
+ 
+      Item
+    13  
+       Certain Relationships and Related Transactions, and Director Independence   
+      27   
+ 
+      Item
+    14  
+       Principal Accounting Fees and Services   
+      28   
+ 
+       PART IV   
+
+Item
+    15  
+       Exhibits, Financial Statement Schedules   
+      29   
+
+Signatures   
+      30   
+
+FORWARD
+LOOKING STATEMENTS   
+
+THIS
+ANNUAL REPORT ON FORM 10-K, INCLUDING EXHIBITS THERETO, CONTAINS FORWARD-LOOKING STATEMENTS WITHIN THE MEANING OF SECTION 27A
+OF THE SECURITIES ACT OF 1933, AS AMENDED, AND SECTION 21E OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. THESE FORWARD-LOOKING
+STATEMENTS ARE TYPICALLY IDENTIFIED BY THE WORDS  ANTICIPATES ,  BELIEVES ,  EXPECTS ,  INTENDS ,
+ FORECASTS ,  PLANS ,  FUTURE ,  STRATEGY , OR WORDS OF SIMILAR MEANING. VARIOUS
+FACTORS COULD CAUSE ACTUAL RESULTS TO DIFFER MATERIALLY FROM THOSE EXPRESSED IN THE FORWARD-LOOKING STATEMENTS, INCLUDING THOSE
+DESCRIBED IN  RISK FACTORS  IN THIS FORM 10-K. WE ASSUME NO OBLIGATION TO UPDATE THESE FORWARD-LOOKING STATEMENTS
+TO REFLECT ACTUAL RESULTS, CHANGES IN ASSUMPTIONS, OR CHANGES IN OTHER FACTORS, EXCEPT AS REGULATED BY LAW.  
+
+As
+used in this annual report, the terms  we ,  us ,  our , the  Company , RadMax ,
+RadMax Technologies, Inc., and  REGI  mean REGI U.S., Inc., unless otherwise indicated.  
+
+The
+Company files annual reports and furnishes other information with the SEC. You may read and copy any document that we file at
+the SEC s Public Reference Room at 100 F Street, NE., Washington, DC 20549, on official business days during the hours of
+10 a.m. to 3 p.m. You may obtain information on the operation of the Public Reference Room by calling the Commission at 1-800-SEC-0330.
+The Commission maintains an Internet site that contains reports, proxy and information statements, and other information regarding
+issuers that file electronically with the Commission at (http://www.sec.gov). The Company also files information with the Canadian
+Securities Administrators via SEDAR (www.sedar.com). The Company s website is located at  www.radmaxtech.com   
+
+PART
+I   
+
+ITEM
+1. BUSINESS   
+
+General    
+
+We
+were organized under the laws of the State of Oregon on July 27, 1992 as Sky Technologies, Inc. On August 1, 1994, our name was
+officially changed by a vote of a majority of our shareholders to REGI U.S., Inc.  
+
+On
+July 27 th , 2016, REGI undertook a reorganization, naming its wholly owned subsidiary, RadMax Technologies, Inc. ( RadMax )
+as its DBA for marketing and technology image.  
+
+On
+September 16, 2016, REGI entered into an asset purchase agreement (the  APA ) with Reg Technologies Inc. ( Reg
+Tech ), a British Columbia public company whose common stock was listed on TSX Venture Exchange to purchase all of the assets
+of Reg Tech, a company with a common director and CEO with REGI. An aggregate of 51,757,119 unregistered common shares of our
+company were issued as consideration for the asset purchase. The transaction was closed on February 17, 2017 upon TSX Venture
+Exchange approval.  
+
+Prior
+to the APA, REGI and Reg Tech had been engaged in the business of developing and commercially exploiting an improved axial vane
+type rotary engine known as the Rand Cam/Direct Charge Engine (the  RC/DC Engine ) with the marketing and intellectual
+rights in the U.S. held by REGI and the worldwide marketing and intellectual rights, other than in the U.S., held by Reg Tech.
+Upon closing the APA, REGI owns the worldwide rights to the technologies. We will need to raise additional capital in the future
+beyond any amount currently on hand and which may become available as a result of debt and/or equity financing, including the
+exercise of options which are currently outstanding, in order to fully implement our intended plan of operations.  
+
+Business
+of the Company    
+
+Overview
+and History   
+
+RadMax,
+is a wholly owned subsidiary of REGI U.S., Inc., based in Spokane, Washington. It is a technology and product development company
+that is designing, building and proving the functionality of a family of smaller, lighter and more energy-efficient axial vane,
+rotary engines, compressors, pumps and gas expanders for, commercial, residential and government applications. Our focus is on
+developing innovative devices that reduce carbon footprint, device size, weight and parts count, while increasing fuel and manufacturing
+efficiencies over incumbent technologies. Our proprietary sliding axial vane technology, enables our devices to deliver high output
+to weight ratios making them easily scalable from small to very large. We intend to develop and market these devices in cooperation
+with our industry, government, and private investor partners. We are initially focused on applications that are new and disruptive,
+in that they are more efficient, environmentally friendly, compact and cost-effective while offering a broader operational range
+than those currently available.  
+
+Our
+patented RadMax sliding axial vane technology, has vanes that form chambers on both sides of the rotor, the volume of these chambers
+change as the vanes follows along the cam profile. This results in alternately compressing and expanding vapors / fluids at both
+cam locations offering the following key advantages over competitive devices:  
+
+Compact
+    design with high output to size and weight ratios    
+
+Simple
+    operation, low parts count and fewer moving parts   
+
+The
+    option of integral electricity generation   
+
+Easily
+    scalable from small to very large   
+
+Able
+    to operate at much lower temperatures and pressures than incumbent devices, dramatically broadening the range of potential
+    market applications   
+
+From
+our headquarters in Spokane, WA, we are working with our engineering staff, as well as outside engineering and business consultants,
+to design, build, and commercialize these devices. Our goal is to license or sell RadMax technology and/or participate in joint
+ventures to manufacture RadMax products for a broad spectrum of industries and applications. Examples of industries and applications
+that could benefit from our technology include (but are not limited to); transportation, aerospace, air conditioning and refrigeration,
+oil and gas production and distribution, power generation, water desalination and purification, pumps, commercial building dehumidification
+/ CO  removal, and military markets. In addition to its potential use as prime mover, the RadMax technology design is being
+employed in the development of several types of compressors, pumps, and gas expanders.  
+
+To
+date, several gas expander prototypes have been built and are involved in on-going bench scale testing. Additional prototype development
+and testing is underway. This testing is aligned with the specifications provided in several Department of Energy (DOE) / Pacific
+Northwest National Laboratory (PNNL) grant proposals, or through discussions with the large A/C, refrigeration Original Equipment
+Manufacturers (OEM s). We plan for this work to continue until a commercially feasible design is built, tested and sold
+into a specific market application. However, there is no assurance at this time that such commercially feasible designs will ever
+be perfected or will become profitable. If a commercially feasible design is perfected, we expect to derive revenues from licensing
+the RadMax technology, selling the rights to specific applications and markets, selling our intellectual property, or selling
+the company. However, there is no assurance at this time that revenues will ever be received from any of the aforementioned revenue
+paths, even if it does prove to be commercially feasible.  
+
+Based
+on our prototype testing and modeling we believe that multiple markets exist for RadMax rotary devices. We also believe that these
+devices can be produced at competitive prices, and provide a combination of energy utilization efficiency, power density and flexibility  
+
+Technology
+Overview    
+
+RadMax
+patented technology is a family of smaller, lighter and more energy-efficient engines, compressors, pumps, gas expanders and combined
+devices designed for simplicity, efficiency and power. Our devices are easily configurable to meet the needs of diverse applications
+and requirements.  
+
+The
+RadMax rotary principle is unique. As many as 12 straight vanes reciprocate parallel to the axis of rotation through a rotor and
+compress or expand fluids in the same manner as reciprocating piston devices. The rotating, reciprocating vanes follow the sinusoidal
+surfaces of stationary cams in the end housings, forming chambers on both sides of the rotor between the rotor, stator walls and
+vanes. The chamber volume changes as the vane follows along the cam profile during the rotor s revolution, resulting in
+alternately compressing and/or expanding fluids at both cam locations, depending on the device s application. The desired
+device configuration is achieved by simply changing the cam profile and / or intake and exhaust porting locations in the cam instead
+of having to use complicated valve systems.  
+
+Unlike
+piston devices, a minimum of energy is lost due to reciprocating motion and accelerations. Because the upper and lower faces of
+the rotor are 90-degrees out of phase, and the vanes move parallel to the direction of rotation, a RadMax device is always balanced
+and exhibits nominal vibration.  
+
+Simply
+changing the cam profile and / or intake and exhaust porting locations, a RadMax device can be designed as an internal combustion
+engine, compressor, pump, gas expander, or a combination of these functions.  
+
+A
+RadMax device is combination of four distinct sections; two intake and discharge cycles on each cam. This unique design allows
+for each of these sections to be independently configured with different combinations of compression and expansion ratios allowing
+for such things as multi-stage expansion / compression by porting one section output into and between the different sections.  
+
+A
+truly unique capability of our technology design is the ability to combine more than one machine function into a single RadMax
+device. The RadMax mechanism is comprised of two cams connected by a common driveshaft in a single housing. By using separate
+vane actuator systems, it is possible to have two separately functioning cam cycles   for example an engine, pump, compressor,
+or gas expander   in the same device. The resulting compact device provides increased flexible functionality and high performance
+in a smaller footprint than two separate devices. These characteristics make RadMax combined-cycle devices well suited for applications
+with weight restrictions and limited space, such as the RadMax external combustion engine, auxiliary and backup power generation,
+waste heat recovery, portable pumps, compressors and generators, and gas system throttling loss recovery.  
+
+Additionally,
+because of its unique rotary design, it is possible to design electricity generation components directly into and as part of the
+RadMax device, thus eliminating the need and space for a separate generator. Incorporating an integrated generator into RadMax
+engines and gas expanders allows for the option to utilize all of the device s power to generate electricity or use some
+or all of it to power other devices through its shaft.  
+
+As
+an engine, RadMax devices provide power through the expansion of gases, which in turn is converted to shaft torque. When configured
+as an internal combustion four-stroke engine, combustion occurs within the device s internal combustion chamber. The hot,
+pressurized gases cause the rotor to revolve, releasing energy through expansion as the combustion chamber increases in volume.
+Because the RadMax design can have up to 12 vanes, the engine generates an incredible 24 power strokes per rotation, 12 on the
+upper side of the rotor and 12 on the lower side. Due to this efficient design, a RadMax internal combustion engine will produce
+four times the horsepower per revolution compared to an equivalent-displacement four-cycle piston engine. The RadMax external
+combustion engine is a low-pressure Brayton cycle engine that uses a gas expander rather than a traditional turbine. Various prototype
+engines for both diesel and spark-ignition configurations have been built ranging from 10 to over 300 horsepower.  
+
+Products
+and Applications    
+
+RadMax
+Compressed Gas Expander    
+
+The
+RadMax compressed gas expander is a positive-displacement device that is uniquely able to capture both kinetic and pressure-volume
+energy and convert it to rotational power in compressed gas expansion applications. This power can then be used to drive other
+devices such as compressors and electrical generators. Additional efficiency can be gained by incorporating electric power generation
+directly into the gas expander.  
+
+Key
+Advantages:     
+
+Able
+    to efficiently expand low density gases   
+
+Developed
+    torque can be used to internally generate electricity or drive an external device   
+
+Variable
+    expansion ratios possible   
+
+Able
+    to achieve higher work efficiencies at lower speeds   
+
+Easily
+    scalable from small to large devices    
+
+Use
+    can decrease electricity consumption in the USA by $5 to $15 billion.   
+
+Use
+    can reduce CO  emissions by over 100 million tons in the USA alone.   
+
+Applications:
+
+The
+RadMax gas expander, when paired with a generator can replace less efficient devices such as the throttling valves in air conditioning
+and refrigeration systems. The incumbent free gas expansion valves and mechanical throttling valves are not capable of capturing
+available pressure energy. The RadMax compressed gas expander is also used as the turbine component in the RadMax expander engine,
+it is used to capture lost energy in natural gas pipelines and throttling stations, and is used to generate electricity from flare
+gas, solar, and geothermal sources.  
+
+We
+are currently focused on designing and building prototype devices targeted for use in the air conditioning / refrigeration and
+natural gas distribution industries. When used these devices can significantly reduce electric power requirements and associated
+CO  emissions. RadMax is currently partnering with the DOE via PNNL on a variety of Solar Energy Technology Office (SETO),
+Geothermal Technology Office (GTO), and Building Technology Office (BTO) grant proposals and projects.  
+
+RadMax
+is also actively soliciting industry leading corporations to evaluate and commercialize these products in their current and future
+product designs. Several of these companies are supporting the proof of concept projects underway with the DOE and PNNL.  
+
+RadMax
+Compressor    
+
+The
+RadMax positive displacement compressor incorporates the advantages of both positive displacement and centrifugal compressors
+by utilizing the volumetric energy of a positive-displacement compressor  and  the kinetic energy of a centrifugal compressor
+to pressurize a gas. A combination of four distinct sections, this unique design allows for each section to be configured with
+a different compression ratio and allows multi-stage compression in one device.  
+
+Key
+Advantages :   
+
+High
+    internal compression ratios possible    
+
+High
+    volume output to size ratio   
+
+Able
+    to efficiently compress low density gases   
+
+Better
+    handle entrained liquids in compressed gases (2 Phase)   
+
+Compressors
+    are easily scalable from small to very large   
+
+Additionally,
+the inherent design of the RadMax sliding vane principle lends itself to better handle two-phase (liquid/vapor) fluids, improved
+efficiency for enhanced refrigeration and steam cycle applications all of which are targeted end uses.  
+
+RadMax
+is also actively soliciting industry leading corporations to evaluate and commercialize these products in their current and future
+product designs. Several of these companies are supporting the proof of concept projects underway with the DOE and PNNL.  
+
+Applications:   
+
+Compressing
+refrigerants for industrial, commercial, residential and automotive air conditioning systems; industrial gas compressing; natural
+gas field and pipeline gas compression; low density gas to high pressure. The RadMax compressor is being tested in DOE SETO and
+GTO projects that use metal Organic Framework Materials (MOF s) as sorbents for a thermal compressor and for a novel dehumidification
+/ CO  capture system. The RadMax compressor is used to pull a vacuum on these sorbents which dramatically improves loading
+/ unloading efficiency significantly increasing productivity while lowering the cost of the process.  
+
+RadMax
+Combined Function Devices:    
+
+A
+unique attribute of the RadMax technology is the ability to combine more than one machine function into a single device. The combined
+function device is comprised of two cams connected by a common driveshaft in a single housing. By using separate vane actuator
+systems, it is possible to have two separately functioning cam cycles (i.e. engine, pump, compressor, or gas expander) in the
+same device.  
+
+Key
+Advantages:    
+
+Increased
+    design flexibility and functionality   
+
+Compact
+    size with high performance   
+
+Reduced
+    size, weight, parts count and cost   
+
+Rapid
+    field change-out capability   
+
+Scalable
+    from small to very large devices   
+
+Can
+    utilize Brayton, Rankine and Organic Rankine cycles   
+
+Applications:    
+
+RadMax
+external combustion engines, applications with limited space and weight restrictions such as auxiliary and backup power generation,
+waste heat recovery, portable pumps, compressors, generators, and compressed gas system throttling energy recovery for A/C and
+refrigeration systems.  
+
+RadMax
+Pump    
+
+The
+RadMax positive displacement pump pairs the high-volume capacity of positive displacement pump with the simplicity and efficiency
+of a centrifugal pump. A RadMax pump is able to utilize the volumetric displacement energy of the fluid  and  the kinetic
+energy of the vane action. This results in an extraordinarily energy efficient pump. A combination of four distinct sections,
+this unique design allows for different pumping actions or flow rates/streams in one device.  
+
+Key
+Advantages :   
+
+Creates
+    high output volume to size and weight ratios    
+
+Better
+    handling of gas-entrained liquids   
+
+Self-priming
+      auto re-priming   
+
+Can
+    operate as a boost or lift pump   
+
+Multiple
+    smooth pumping actions per rotation    
+
+Scalable
+    from small to very large devices   
+
+RadMax
+has actively pursued the development of the RadMax pump by offering an exclusive license, to make and sell these devices, in return
+for their product development funding.  
+
+Applications:   
+
+Because
+of its efficient, high-volume output, the RadMax pump is well suited for fire protection; water and flood control; irrigation;
+marine; water treatment; oil and gas industry down hole and subsea; industrial processes; heavy industry and construction; and
+portable pump applications.  
+
+RadMax
+Internal / External Combustion Engines:    
+
+We
+believe that the RadMax internal and external combustion engines can achieve improved fuel and mechanical efficiencies when compared
+to traditional combustion engine designs, based on the inherently efficient design and thermodynamic characteristics of the engine.
+A higher expansion to compression ratio is possible with our internal combustion engine design resulting in increased fuel efficiency.  
+
+The
+RadMax engine is characterized by high torque, compact size, and a high horsepower-to-weight ratio, making it an ideal option
+for various transportation, and power generation applications. Long service life, low power-to-weight ratio, and increasing environmental
+concerns and regulations are prompting a second look at the viability of gas turbine engines for more mainstream applications.
+A gas turbine engine s optimized combustion produces fewer total emissions than internal-combustion engines. However, their
+lower operating efficiencies and higher operating and capital costs are impediments to their increased use.  
+
+A
+RadMax  external  combustion expander (turbine) engine incorporating RadMax s higher efficiency, positive displacement
+compressors and gas expanders, coupled with an optimized external combustor, can significantly improve fuel and energy extraction
+efficiency over existing gas turbine engines. Having true  multi-fuel  capability, the RadMax turbine engine would
+be well suited for hybrid engine and power generation applications. We are seeking co-development partners to move further engine
+development forward.  
+
+Key
+Advantages :   
+
+Compact
+                                         size   weight  (~25% of comparable hp piston)     
+
+High
+    power to weight ratio  ( 1 hp/lb)    
+
+High
+    internal expansion ratios possible    
+
+Continual,
+    smooth rotary motion   
+
+Easily
+    scalable 20   1,500hp   
+
+Low
+    part count and fewer moving parts; conducive to rapid change-out replacement, reduced maintenance costs and increased reliability
+
+Applications:   
+
+Primary
+and backup power generation; automotive   truck, aviation, marine and industrial applications prime mover; hybrid vehicles  
+
+Patents    
+
+As
+at April 30, 2018 and the date of this report, we have the following patents (issued, pending,   provisional:  
+
+Recent
+Developments    
+
+Grid
+Adapting Power, Cooling, and Desalination System for Geothermal Resources:    
+
+We
+are partnering with PNNL on a water desalination grant proposal as well as a HARP desalination plus power generation grant proposal
+from the DOE. These projects utilize RadMax expanders and compressors to increase overall efficiency and lower the Levelized Cost
+of Water (LCOW) to approximately half what the average municipality pays in the USA. Such projects allow us to construct a proof-of-concept
+device that can then be used to demonstrate the inherent advantages of our technology to OEM s in the refrigeration, A/C,
+cold storage, and natural gas transportation / distribution industries. The expander will be used to power a generator on the
+HARP system pilot plant prototype at PNNL. The HARP system uses a low-quality heat source such as solar, geothermal, or waste
+process heat to generate electricity to either generate electricity or potable water dependent on market needs and economics.  
+
+If
+successful with the DOE / PNNL grant proposals we expect to fund the design, construction and testing of two RadMax devices in
+a pilot plant demonstration system by the end of 2019.  
+
+Oil
+and Gas Industry Water Purification Demonstration Project Negotiations    
+
+Initial
+conversations have begun with a major Canadian oil and gas company to fund the development of a demonstration plant that utilizes
+PNNL s desalination / water purification technology to reduce water purification / desalination costs, improve steam quality
+critical for maximizing oil extraction and to efficiently remediate contaminated sources of water for re-introduction into the
+environment. If successful, this demonstration plant will be the springboard for launching the technology for similar oil and
+gas applications globally.  
+
+Natural
+Gas Industry Gas Expander Demonstration Project Negotiations    
+
+Initial
+communications have begun with a major private natural gas production company to develop a demonstration project utilizing the
+RadMax expander for generating electricity from pressure letdown points along natural gas pipelines. The RadMax expander is able
+to capture some of the energy normally lost by the  throttling  pressure relief valves it is designed to replace and
+convert that energy into electricity or shaft power. Replacing the  non-energy generating  throttling pressure relief
+valves along global natural gas distribution networks has the potential to generate billions of dollars of electricity and save
+millions of tons of CO 2  emissions.  
+
+Air
+Conditioning / Refrigeration System OEM Collaboration    
+
+Collaborations
+have begun with leading OEM s in the refrigeration / cooling / cold storage industry to define specifications, economics
+and performance requirements for the adoption of RadMax expanders and compressors into their system designs. A large A/C, cooling
+OEM has agreed to donate A/C equipment to facilitate refrigerant based testing at our Spokane testing facility.  
+
+Completed
+Spin Testing of the RadMax 375 hp Diesel Engine.     
+
+Pre-combustion
+spin testing of the 375 hp diesel engine was successfully completed. Mechanical and compression test results were all found to
+be within expected ranges. Additional components will need to be designed before combustion tests can be initiated. Due to the
+expensive and time-consuming nature of introducing and integrating new technologies into the North American automotive industry
+all future development efforts have been placed on hold until a suitable co-development partner can be found.  
+
+Expanded
+Technical Staff    
+
+Increased
+interest in our products and accelerated product development activities resulted the hiring of two fulltime engineers. These additions
+to our staff not only allow for faster product development, but also reduce our reliance on outside consultants and machine shops.  
+
+New
+Corporate Officers    
+
+The
+retirement of Paul Chute, our CEO on April 30, 2018 resulted in the promotion on Michael Urso, formerly COO to the position on
+CEO. During the same time period the Company replaced our Canadian, contracted CFO with Jeff White, a Spokane based CFO with extensive
+experience with local startup companies.  
+
+Expander
+Performance Modeling    
+
+Expander
+and compressor configuration, performance and design modelling has been extensively utilized to maximize our resources while reducing
+cost and the number of device iterations milled during the product development and testing process. Additionally, comprehensive
+modeling has used to design and develop two-phase fluid (vapor / liquid) capability to our expanders and compressors.  
+
+Natural
+Gas Meter Power Module Proposal    
+
+Initial
+discussions have been initiated, under a Non-Disclosure Agreement (NDA) with a major, North American based utility metering OEM
+about developing a demonstration gen-set device for residential and commercial natural gas meters. Smart gas meters that are able
+to remotely communicate gas consumption and meter status are quickly being adopted by global utilities. Current smart meters require
+the use of a non-recharging battery to power the meter limiting its functionality and requiring periodic replacement. In the same
+manner as at other locations along the natural gas distribution system, a RadMax expander at residential and commercial installations
+is able to generate enough electricity from the gas flow through the meter to not only charge the smart meter s battery,
+but also expand the functionality of the meter. In higher gas use residential, commercial and industrial installations, enough
+electricity is generated to justify the cost of putting the excess electricity back into the electrical grid, reducing the net
+cost of the gas and reducing utility electricity generation requirements.  
+
+Generator
+OEM Collaboration    
+
+Initial
+discussions have been made with a global, electrical generator OEM to collaborate on the design and integration of electric power
+generation in to RadMax devices. In addition to providing market, economic, engineering and design expertise the OEM will also
+provide compatible external generators for use with RadMax expanders.  
+
+Competition
+and Alternative Technologies    
+
+We
+currently face and will continue to face pressure from established companies that desire to develop, manufacture and sell products
+that offer the same advantages as our devices. While currently, not a highly competitive business, in terms of the number of competitors,
+the business of developing innovative lower cost, higher efficiency, and higher performing technologies is nonetheless difficult
+because most existing producers are large, well-financed, and have an established market presence that they will aggressively
+defend. For these reasons we are more inclined to initially manufacture and sell devices to demonstrate proof-of-concept after
+which time we plan to contract manufacture, sell licenses to applications / geographies, and / or sell our IP / company. The development
+of our business and its ability to maintain its competitive, and technical position will continue to depend upon our ability to
+attract investors and to retain qualified; engineering, financial, and managerial personnel.  
+
+Our
+guiding business strategy is to develop RadMax technology products for applications that are either looking for a solution, or
+where our product offers significant advantages in performance and / or financially over incumbent products. This strategy implies
+that our co-development industry partners will be  early adopters  looking for new  green  products to
+enhance their market position, broaden their product line, and increase their market share and margins.  
+
+Environmental
+Matters    
+
+Laws
+and regulations relating to protection of the environment have not had a material impact on our business.  
+
+Availability
+of Raw Materials    
+
+Since
+we only intend to manufacture prototype devices used to demonstrate proof-of-concept, raw materials are not a major concern. That
+said, it is important to note that a key responsibility during the design of any prototype is to always consider raw material
+function, performance, availability and cost, to ensure that the device performs as designed and achieves projected cost targets.
+Once proof-of-concept is achieved it is our intention to contract out manufacturing to increase efficiency and production capacity,
+while reducing lead times and material costs. At this time, using current materials of construction, there does not appear to
+be any foreseeable problem obtaining any materials or components.  
+
+Marketing
+Strategy    
+
+Over
+the past two years we have built prototypes of the compressed gas expander, as well as an internal combustion diesel engine. Since
+it is extremely difficult, time consuming and expensive to gain traction in the internal combustion engine markets we have focused
+our efforts on producing proof-of-concept gas expanders and / or generators targeted for the air conditioning, refrigeration,
+and power generation markets. Specifically, we intend to introduce innovative new devices that capture lost energy that can be
+sold back into the grid, used to power Smart devices, used to recharge batteries, or used to power parasitic devices, all of which
+significantly reduce energy consumption / operating costs. Our devices capture some of the energy lost in the compression phase
+of these cycles by generating electricity or torque during the expansion (let down) portion of the cycle. We are currently collaborating
+with the PNNL on several DOE grants that are focused on improving efficiency and / or decreasing operating costs in the refrigeration
+and power generation markets. Our goal is to develop a demonstration expander-generator that is compatible with refrigerants used
+in air conditioning, refrigeration, and refrigerant based ORC systems. These ORC systems use a low temperature heat source such
+as solar, geothermal, or other waste process heat for power to drive a wide variety of power generation, refrigeration, air conditioning,
+and water desalination / purification applications. Additionally, slightly modified versions of the same device can extract megawatts
+of  lost  power by replacing throttling valves on compressed natural gas pipelines, or significantly improve the efficiency
+of steam power plants by reducing fossil fuel consumption and the associated CO 2  emissions.  
+
+Our
+marketing plan is to develop prototype expanders for the wide range of refrigeration applications, quickly followed by a line
+of expanders for the natural gas transportation industry. These devices are very energy efficient as they capture some of the
+energy lost in the compression cycle. That captured energy is then used to power Smart and / or parasitic devices or allow for
+the sale of the power back to the utility. We plan to manufacture the initial proof-of-concept devices in order to gain traction
+in these markets before either moving to a contract manufacturer, licensing the technology for each potential market / geographic
+area, or selling the company. In order to continually evolve the technology RadMax intends to design, manufacture and sell custom
+devices into specialty, lower volume, high value applications through the use of inhouse and third-party manufacturing.  
+
+We
+are currently focused on capitalizing on the RadMax expander s unique capability to capture and covert, to usable work normally
+ lost  energy by pressure regulating throttling valves. The use of this energy can contribute significantly to the
+overall efficiency and operating cost structure of the host system. We have identified air conditioning/refrigeration and natural
+gas distribution applications as high value market targets. We are consequently working with the DOE and PNNL as well as industry
+OEM s in these two areas to develop demonstration projects for our technology.  
+
+RadMax
+Marketing Objectives are to:   
+
+A.  
+      Market
+    to high volume OEM s using performance data extracted from a series of pilot plant trials to encourage them to tailor
+    the design for incorporation into existing and next generation systems / products.   
+
+B.  
+      Manufacture
+    our devices in-house for the short-term and as volumes increase through third parties, for sale to OEMs to be incorporated
+    into their products.    
+
+C.  
+      RadMax
+    plans to design and sell directly into niche markets in order to keep evolving and expanding the technology.    
+
+D.  
+      License
+    the technology to high volume manufacturers who prefer to manufacture our devices themselves or through their existing supply
+    channels.   
+
+E.  
+      Sell
+    the technology rights to specific markets and / or geographies.   
+
+F.  
+      Sell
+    the entire company to a qualified buyer once the technology has traction in targeted markets.    
+
+Dependence
+on Certain Commercial Agreements    
+
+We
+do not have any material agreements upon which we are dependent.  
+
+Royalty
+Payments    
+
+No
+royalties have been awarded in relationship to our currently active patents.  
+
+Research
+and Development    
+
+We
+employ and contract with individuals to perform the research and development work.  
+
+Employees    
+
+During
+the year ended April 30, 2018 we had seven full time employees. We also rely on several experienced contractors for engineering,
+business and manufacturing support.  
+
+ITEM
+1A RISK FACTORS   
+
+The
+risks and uncertainties described below are not the only ones facing us. Additional risks and uncertainties may also adversely
+impact and impair our business. If any of the following risks actually occur, our business, results of operations, or financial
+condition would likely suffer. In such case, the trading price of our common stock could decline, and you may lose all or part
+of your investment.  
+
+We
+face risks related to general domestic and global economic conditions.   
+
+We
+rely on our ability to raise capital through the sale of our securities. However, the current uncertainty arising out of domestic
+and global economic conditions poses a risk to the economies in which we operate. Our ultimate success will depend upon our ability
+to raise additional capital or to have other parties bear a portion of the required costs to further develop or exploit the potential
+market for our products.  
+
+We
+are a development stage enterprise .  
+
+We
+are a development stage enterprise and are subject to all of the attendant business risks associated with a development stage
+enterprise, including constraints on financial and personnel resources, lack of established credit facilities, and uncertainties
+regarding product development and future revenues. We will continue to be subject to all the risks attendant to a development
+stage enterprise for the foreseeable future, including competition, complications and setbacks in the development program, and
+the need for additional capital.  
+
+Although
+we anticipate receiving future revenues from licensing of our technology or joint ventures. we have received no revenues from
+sales of any of the products under development. There can be no assurance as to when or if we will be able to develop significant
+sources of revenue or whether our operations will become profitable, even if we are able to commercialize any product. See  Operating
+and Financial Review and Prospects,  and Notes to Financial Statements.  
+
+We
+have no assurance that we will be able to develop a commercially feasible product .  
+
+We
+have no assurance at this time that a commercially feasible design will ever be perfected, or if it is, that it will become profitable.
+Our profitability and survival will depend upon our ability to develop a technically and commercially feasible product which will
+be accepted by end users. The RadMax which we are developing must be technologically superior or at least equal to other devices
+that competitors offer and must have a competitive price/performance ratio to adequately penetrate its potential markets. If we
+are not able to achieve this condition or if we do not remain technologically competitive, we may be unprofitable and our investors
+could lose their entire investment. There can be no assurance that we or potential licensees will be able to achieve and maintain
+end user acceptance of our engine.  
+
+We
+will require additional financing and we may not be able to secure the financing necessary to continue our development and operations .  
+
+There
+is no assurance that we will be able to secure the financing necessary to continue our development and operations. Our expectations
+as to the amount of funds needed for development and the timing of the need for these funds is based on our current operating
+plan, which can change as a result of many factors, and we could require additional funding sooner than anticipated. Our cash
+needs may vary materially from those now planned because of results of development or changes in the focus and direction of our
+development program, competitive and technological advances, results of laboratory and field testing, requirements of regulatory
+agencies and other factors.  
+
+We
+have no commercial credit facility or other Industry based committed sources of capital. To the extent capital resources are insufficient
+to meet future capital requirements, we will have to raise additional funds to continue our development and operations. There
+can be no assurance that such funds will be available on favorable terms, or at all. To the extent that additional capital is
+raised through the sale of equity or convertible debt securities, the issuance of such securities could result in dilution to
+our shareholders. If adequate funds are not available, we may be required to curtail operations significantly or to obtain funds
+on unattractive terms. Our inability to raise capital would have a material adverse effect on us.  
+
+We
+have a history of losses and expect to incur significant losses for the foreseeable future.    
+
+We
+expect to incur significant losses for the foreseeable future and cannot be certain when or if we will achieve profitability.
+Failure to become and remain profitable will adversely affect the value of our Common Shares and our ability to raise capital
+and continue operations.  
+
+We
+have a history of operating losses, and an accumulated deficit, as of April 30, 2018, of $24,063,399. Our ability to generate
+revenues and profits is subject to the risks and uncertainties encountered by development stage companies.  
+
+Our
+future revenues and profitability are unpredictable. We currently have no signed contracts that will produce revenue and we do
+not have an estimate as to when we will be entering into such contracts. Furthermore, we cannot provide assurance that management
+will be successful in negotiating such contracts.  
+
+We
+have no assurance that our products will receive market acceptance .  
+
+Our
+profitability and survival will depend upon our ability to develop a technically and commercially feasible product which will
+be accepted by end users. The RadMax technology which we are developing must be technologically superior or at least equal to
+other products our competitors offer and must have a competitive price/performance ratio to adequately penetrate our potential
+markets.  
+
+Our
+officers lack experience to manufacture or market our products .  
+
+Assuming
+we are successful in developing RadMax devices, we presently have no proven ability either to manufacture them. There is no assurance
+that we will be able to profitably manufacture and market engines.  
+
+Our
+auditors have indicated that our losses raise substantial doubt about our ability to continue a going concern .  
+
+The
+report of our independent auditors with respect to our financial statements for the year end April 30, 2018 includes a  going
+concern  qualification, indicating that our losses and deficits in working capital and shareholders  equity raise
+substantial doubt about our ability to continue as a going concern.  
+
+We
+are dependent upon certain members of our staff, the loss of which could adversely affect our business.   
+
+We
+are dependent on certain members of our management and engineering staff, the loss of services of one or more of whom could adversely
+affect our business. The loss of any of these key individuals could hamper the successful development of RadMax technology. Our
+present officers and directors have other full or part-time interests unrelated to our business. Some officers and directors will
+be available to participate in management decisions on a part-time or as-needed basis only. We do not have  key man 
+life insurance on such officers and currently have no plans to obtain such insurance. Our success also depends on our ability
+to attract and retain additional skilled employees and advisors.  
+
+We
+are dependent upon consultants and outside manufacturing facilities .  
+
+Since
+our present limited financial plans do not provide for an increase in technical staff or the establishment of manufacturing facilities,
+we will be primarily dependent on others to perform these functions and to provide the requisite expertise and quality control.
+There is no assurance that such persons or institutions will be available when needed at affordable prices. It will likely cost
+more to have independent companies do research and manufacturing than for us to handle these resources.  
+
+Our
+business may suffer if we are unable to adequately protect our intellectual property .  
+
+Our
+business depends on the protection of our intellectual property and may suffer if we are unable to adequately protect our intellectual
+property. The success of our business depends on our ability to patent all our technology devices. Currently, we have been granted
+several U.S. Patents. We cannot provide assurance that our patents will not be invalidated, circumvented or challenged, that the
+rights granted under the patents will give us competitive advantages or that our patent applications will be granted.  
+
+Our
+devices and planned applications may contain product errors which could adversely affect our operations.   
+
+Our
+planned applications may contain errors or defects, especially when first introduced, or when new versions are released. Our products
+may not be free from errors after commercial release has occurred. Any errors that are discovered after such commercial release
+could result in loss of revenue or delay in market acceptance, diversion of development resources, damage to our reputation, increased
+service and warranty costs and liability claims. Any defects in these products could adversely affect the operation of and market
+for our products, reduce revenue, increase costs and damage our reputation.  
+
+Our
+competition possesses greater technical resources and market recognition than us and there is no assurance that we will be able
+to compete effectively with these companies.   
+
+While
+not a highly competitive business in terms of numbers of competitors, the business of developing engines of a new design and attempting
+to either license or produce them is nonetheless difficult because most producers are large, well-financed companies which are
+very concerned about maintaining their market position. These companies possess greater technical resources and market recognition
+than us, and have management, financial and other resources not yet available to us. Existing technology are likely to be perceived
+by many customers as superior or more reliable than any new product until it has been in the marketplace for a period of time.
+There is no assurance that we will be able to compete effectively with these companies.  
+
+Market
+prices for our products may decline in the future which would have a material adverse effect on our business, financial condition
+and results of operations.   
+
+We
+anticipate that market prices for our main products may decline in the future due to increased competition. We expect significant
+competition among local and international companies, including from new entrants, may continue to drive equipment prices lower.
+We also expect that there may be increases in promotional spending by companies in our industry which would also contribute to
+increasing movement of customers between competitors. Such increased competition and the resulting decline of market prices for
+our products would have a material adverse effect on our business, financial condition and results of operations.  
+
+New
+technology or refinement of existing technology could render our RadMax Technology products less attractive or obsolete.   
+
+New
+technology or refinement of existing technology could render our products less attractive or obsolete. Our success depends in
+part upon its ability to anticipate changes in technology and industry standards and to successfully develop and introduce new
+and improved devices on a timely basis. There is no assurance that we will be able to do so. Accordingly, if we are unable to
+adapt to changing technologies and to adapt our product to evolving industry standards, our business will be adversely affected.  
+
+Product
+liability claims asserted against us in the future could hurt our business.   
+
+Product
+liability claims asserted against us in the future could hurt our business. If a customer suffers damage from our products, the
+customer could sue us on product liability or related grounds, claim damages for data loss or make other claims. We currently
+do not carry product liability insurance. While we have not been sued on product liability grounds to date, a successful product
+liability or related claim brought against us could harm our business.  
+
+Our
+success may be dependent on the timing of new product introductions and lack of market acceptance for our new products.   
+
+Our
+future success may be dependent on the success of our products and services. The success of our business depends on a variety
+of factors, including:  
+
+The
+    quality and reliability of our products and services   
+
+Our
+    ability to develop new products and services superior to that of our competitors   
+
+Our
+    ability to establish licensing relationships and other strategic alliances   
+
+Our
+    pricing policies and the pricing policies of our competitors   
+
+Our
+    ability to introduce new products and services before our competitors   
+
+Our
+    ability to successfully advertise our products and services   
+
+General
+    economic trends   
+
+We
+may be affected by other factors which may have an adverse effect on our business.   
+
+Our
+areas of business may be affected from time to time by such matters as changes in general economic conditions, changes in laws
+and regulations, taxes, tax laws, prices and costs, and other factors of a general nature which may have an adverse effect on
+our business.  
+
+Insurance
+coverage, even where available, may not be sufficient to cover losses we may incur.   
+
+We
+seek to minimize any losses we may incur through various insurance contracts from third-party insurance carriers. However, our
+insurance coverage is subject to large individual claim deductibles, individual claim and aggregate policy limits, and other terms
+and conditions. We cannot assure that our insurance will be sufficient to cover our losses. Any losses that insurance does not
+substantially cover could have a material adverse effect on our business, results of operations, financial condition and cash
+flows. We cannot assure that we will be able to obtain comparable insurance coverage on favorable terms, or at all, in the future.  
+
+We
+must successfully maintain and/or upgrade our information technology systems and software licenses, and our failure to do so could
+have a material adverse effect on our business, financial condition or results of operations.   
+
+We
+rely on various information technology systems to manage our operations. Over time, we have implemented, and we continue to implement,
+modifications and upgrades to such systems, including changes to legacy systems, replacing legacy systems with successor systems
+with new functionality, and acquiring new systems with new functionality. These types of activities subject us to inherent costs
+and risks associated with replacing and changing these systems. These implementations, modifications and upgrades may not result
+in productivity improvements at a level that outweighs the costs of implementation, or at all. In addition, the difficulties with
+implementing new technology systems may cause disruptions in our business operations and have a material adverse effect on our
+business, financial condition or results of operations.  
+
+We
+may not achieve our publicly announced milestones on time.    
+
+From
+time to time, we may publicly announce the timing of certain events we expect to occur. These statements are forward-looking and
+are based on the best estimate of management at the time relating to the occurrence of such events. However, the actual timing
+of such events may differ from what has been publicly disclosed. The timing of events may ultimately vary from what is publicly
+disclosed. We undertake no obligation to update or revise any forward-looking information, whether as a result of new information,
+future events or otherwise, after the distribution of this AIF, except as otherwise required by law. Any variation in the timing
+of certain events having the effect of postponing such events could have a material adverse effect on the Corporation s
+business plan, financial condition or operating results.  
+
+You
+should not expect to receive dividends in the foreseeable future.    
+
+We
+intend to retain any future earnings to finance our business and operations and any future growth. Therefore, we do not anticipate
+paying any cash dividends in the foreseeable future.  
+
+ITEM
+1B. UNRESOLVED STAFF COMMENTS   
+
+None.  
+
+ITEM
+2. PROPERTIES   
+
+We
+own no properties.  
+
+ITEM
+3. LEGAL PROCEEDINGS   
+
+We
+are not a party to any legal proceedings or litigation, nor are we aware that any litigation is presently being threatened or
+contemplated against us or any officer, director or affiliate.  
+
+ITEM
+4. MINESAFETY DISCLOSURES   
+
+Not
+Applicable  
+
+PART
+II   
+
+ITEM
+5. MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES    
+
+Market
+Information   
+
+There
+is a limited public market for our common stock which currently trades on the OTCQB Venture Board under the symbol  RGUS 
+where it has been traded since September 21, 1994. The common stock has traded between $0.01 and $6.75 per share since that date.  
+
+The
+following table sets forth the high and low closing prices for our common stock as reported on the OTC Board for the quarters
+presented. These quotations reflect inter-dealer prices, without retail mark-up, mark-down or commissions, and may not reflect
+actual transactions.  
+
+The
+following table shows the high and low closing prices of our stock traded on the OTC Board during the most recent 15 months, for
+each month as follows:  
+
+Holders   
+
+As
+of August 13, 2018, there were 99,838,844 shares of common stock outstanding, held by 860 shareholders of record.  
+
+Transfer
+Agent   
+
+Our
+transfer agent is Nevada Agency and Transfer Company, 50 West Liberty Street, Suite 880 Reno, Nevada 89501; Phone: 775-322-0626;
+Fax: 775-322-5623.  
+
+Dividends   
+
+To
+date we have not paid any dividends on our common stock and do not expect to declare or pay any dividends on our common stock
+in the foreseeable future. Payment of any dividends will be dependent upon future earnings, if any, our financial condition, and
+other factors as deemed relevant by our Board of Directors.  
+
+Securities
+authorized for issuance under equity compensation plans.   
+
+The
+Company is authorized to issue up to 150,000,000 shares of common stock, without par value. Each share of Common Stock is entitled
+to one vote on all matters submitted for shareholder approval.  
+
+Recent
+Sales of Unregistered Securities   
+
+During
+the twelve months ended April 30, 2018 related party convertible promissory notes of $126,152 and accrued interest of $10,931
+were converted into a total of 1,369,964 shares of REGI s common stock at $0.10 per share, and convertible promissory notes
+of $755,185 and accrued interest of $41,173 were converted into a total of 1,054,779 shares of REGI s common stock at $0.755
+per share.  
+
+During
+the twelve months ended April 30, 2018 non-related party convertible promissory notes of $531,940 and accrued interest of $26,569
+were converted into 5,630,543 shares of common stock at $0.10 per share, principal of $3,848 and accrued interest of $623 were
+converted into 55,892 shares of common stock at $0.08 per share, principal of $10,000 and accrued interest of $879 were converted
+into 99,661 shares of commons stock at $0.12 per share.  
+
+During
+the year ended April 30, 2018 the Company issued Convertible Notes for cash proceeds of $1,212,849, settled accounts payable from
+previous years of $17,436, service debt provided by related parties of $131,577, and service debt provided by non-related parties
+of $182,696.  
+
+During
+the twelve months ended April 30, 2018 the Company issued 3,310,000 shares of its common stock for services provided by the directors,
+officers, employees and consultants of the Company with the total value recorded at $562,700 based on the market trading price
+as of the issuance date.  
+
+Between
+May 1, 2018 and August 10, 2018, the Company issued Convertible Notes for cash proceeds of $90,000, service debt provided by related
+parties of $27,932 and service debt provided by non-related parties of $16,357. The Convertible Notes are secured against all
+assets of the Company, repayable two years after the issuance, bearing simple interest rate of 10% during the term of the notes
+and simple interest rate of 20% after the due date.  
+
+Between
+May 1, 2018 and August 13, 2018, a total of 140,261 shares of the Company s common stock were issued for Convertible Promissory
+notes at $0.10 per share  
+
+ITEM
+6. SELECTED FINANCIAL DATA.   
+
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and are not required to provide
+the information under this item.  
+
+ITEM
+7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.   
+
+Overview   
+
+The
+following discussion should be read in conjunction with audited financial statements of the Company and the related notes that
+appear elsewhere in this annual report.  
+
+The
+following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could
+differ materially from those discussed in the forward looking statements. Factors that could cause or contribute to such differences
+include, but are not limited to, those discussed below and elsewhere in this annual report, particularly in the section entitled
+ Risk Factors .  
+
+The
+audited financial statements of the Company are stated in U.S. dollars and are prepared in accordance with United States generally
+accepted accounting principles.  
+
+Plan
+of Operations   
+
+We
+are a company engaged in the business of developing and commercially exploiting an improved axial vane type rotary technology
+known as RadMax   .  
+
+Our
+early engineering and development work have not yet produced revenues and we have a working capital deficit. We have incurred
+net losses to April 30, 2018 totaling $24,063,399 and further losses are expected until we complete a licensing agreement with
+a manufacturer and reseller. At April 30, 2018, we had working capital deficiency of $921,824. These factors raise substantial
+doubt about our ability to continue as a going concern. Our ability to emerge from the development stage with respect to our planned
+principal business activity is dependent upon our successful efforts to raise additional funds or develop a market for our products.  
+
+Results
+of Operations   
+
+Results
+of operations for the year ended April 30, 2018 compared to the year ended April 30, 2017   
+
+The
+asset purchase agreement with Reg Tech closed on February 17, 2017 is accounted for as reverse merger recapitalization with Reg
+Tech considered to be the accounting acquirer. In accordance with reverse merger accounting, results of operations include those
+of Reg Tech from May 1, 2016 to February 17, 2017 and those of REGI US from February 18, 2017 to April 30, 2017, the prior year
+results of operations are those of Reg Tech.  
+
+Management
+continues to expanded its research and development efforts and administrative support with the increased success in financing
+the required expenditures. As a result, research and development expenses increased from $136,168 in 2017 to $804,035 in 2018,
+and general and administrative expenses increased from $158,135 in 2017 to $1,470,917 in 2018.  
+
+Our
+basic and diluted loss per share was $0.03 for 2018 and $0.01 for 2017.  
+
+LIQUIDITY
+AND CAPITAL RESOURCES   
+
+During
+the year ended April 30, 2018 the Company issued Convertible Notes for cash proceeds of $1,212,849, settled accounts payable from
+previous years of $17,436, service debt provided by related parties of $131,577, and service debt provided by non-related parties
+of $182,696.  
+
+During
+the year ended April 30, 2017 we issued Convertible Notes for cash proceeds of $258,000 and settled debt of $741,941 with related
+parties at a loss of $13,244.  
+
+As
+of April 30, 2018 and 2017, the total amount owed to related parties was $106,823 and $77,560 representing 10.07% and 26.07% of
+our current liabilities respectively. This funding was necessary to complete the RadMax    engine and place the Company
+in a position to attain future profit.  
+
+The
+balances owed to related parties are non-interest bearing, unsecured and repayable on demand. Our affiliated companies have indicated
+that they will not be demanding repayment of these funds during the next fiscal year and will advance, or pay expenses on behalf
+of the Company if further funds are needed.  
+
+As
+of April 30, 2018, we had a working capital deficiency of $921,824. We will raise additional funds from equity and debt financing.  
+
+The
+audited consolidated financial statements have been prepared assuming that the Company will continue as a going-concern. As discussed
+in Note 3 to the consolidated financial statements, the Company has no revenues and limited capital, which together raise substantial
+doubt about its ability to continue as a going-concern. Management plans in regard to these matters are also described in Note
+3. The financial statements do not include any adjustments that might result from the outcome of this uncertainty.  
+
+We
+have been successful in the past in acquiring capital through the issuance of shares of our Common Stock, and through advances
+from related parties.  
+
+We
+anticipate that our cash requirements for the fiscal year ending April 30, 2019 will be around $1,100,000. Research and development
+costs are identified as Engineer design, prototype fabrication, and labor expense, and are estimated to be $750,000 over the next
+12 months.  
+
+Off-Balance
+Sheet Arrangements   
+
+As
+of April 30,2018 and the date of this report, we have had no off-balance sheet arrangements, including any outstanding derivative
+financial statements, off-balance sheet guarantees, interest rate swap transactions or foreign currency contracts. We do not engage
+in trading activities involving non-exchange traded contracts.  
+
+ITEM
+7A. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK.   
+
+Pursuant
+to Item 305(e) of Regulation S-K (  229.305(e)), the Company is not required to provide the information required by this
+Item as it is a  smaller reporting company,  as defined by Rule 229.10(f)(1).  
+
+ITEM
+8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA   
+
+Our
+consolidated financial statements are stated in United States dollars and are prepared in accordance with United States Generally
+Accepted Accounting Principles.  
+
+The
+following consolidated financial statements are filed as part of this annual report:  
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+To
+the Board of Directors and Shareholders of REGI U.S., Inc.  
+
+Opinion
+on the Financial Statements   
+
+We
+have audited the accompanying consolidated balance sheet of REGI U.S., Inc. ( the Company ) as of April 30, 2018,
+and the related consolidated statements of operations and comprehensive loss, stockholders  deficit, and cash flows for
+the year then ended, and the related notes (collectively referred to as the financial statements). In our opinion, the financial
+statements present fairly, in all material respects, the financial position of the Company as of April 30, 2018, and the results
+of its operations and its cash flows for the year then ended, in conformity with accounting principles generally accepted in the
+United States of America.  
+
+Basis
+for Opinion   
+
+These
+financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on
+the Company s financial statements based on our audit. We are a public accounting firm registered with the Public Company
+Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance
+with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the
+PCAOB.  
+
+We
+conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error
+or fraud. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial
+reporting. As part of our audits, we are required to obtain an understanding of internal control over financial reporting, but
+not for the purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting.
+Accordingly, we express no such opinion.  
+
+Our
+audit included performing procedures to assess the risks of material misstatement of the financial statements, whether due to
+error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence
+regarding the amounts and disclosures in the financial statements. Our audit also included evaluating the accounting principles
+used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements.
+We believe that our audit provides a reasonable basis for our opinion.  
+
+Consideration
+of the Company s Ability to Continue as a Going Concern   
+
+The
+accompanying financial statements have been prepared assuming that the Company will continue as a going concern. As discussed
+in Note 3 to the financial statements, the Company has an accumulated deficit and intends to fund operations through equity financing
+which may be insufficient to fund its capital expenditures. These factors raise substantial doubt about the Company s ability
+to continue as a going concern. Management s plans in regard to these matters are also described in Note 3. The financial
+statements do not include any adjustments that might result from the outcome of this uncertainty.  
+
+Fruci   Associates II, PLLC  
+
+We
+have served as the Company s auditor since 2018.  
+
+Spokane,
+Washington  
+
+August
+13, 2018  
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+Board
+of Directors and Stockholders  
+
+  REGI
+U.S., Inc.  
+
+  Spokane,
+WA  
+
+We
+have audited the accompanying consolidated balance sheet of REGI U.S., Inc and its subsidiaries (collectively, the  Company )
+as of April 30, 2017, and the related consolidated statements of operations and comprehensive loss, stockholders  deficit,
+and cash flows for the year then ended. These consolidated financial statements are the responsibility of the entity s management.
+Our responsibility is to express an opinion on these consolidated financial statements based on our audit.  
+
+We
+conducted our audit in accordance with the standards of the Public Company Accounting Oversight Board (United States). Those standards
+require that we plan and perform an audit to obtain reasonable assurance about whether the financial statements are free of material
+misstatement. The Company is not required to have, nor were we engaged to perform, an audit of its internal control over financial
+reporting. Our audit included consideration of internal control over financial reporting as a basis for designing audit procedures
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the Company s
+internal control over financial reporting. Accordingly, we express no such opinion. An audit also includes examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial statements, assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that
+our audit provides a reasonable basis for our opinion.  
+
+In
+our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position
+of REGI U.S., Inc. and its subsidiaries as of April 30, 2017, and the consolidated results of their operations and their cash
+flows for the year then ended, in conformity with accounting principles generally accepted in the United States of America.  
+
+The
+accompanying consolidated financial statements have been prepared assuming that the Company will continue as a going concern.
+As discussed in Note 3 to the consolidated financial statements, the Company has suffered recurring losses from operations and
+has a net capital deficiency that raises substantial doubt about its ability to continue as a going concern. Management s
+plans in regard to these matters are also described in Note 3. The consolidated financial statements do not include any adjustments
+that might result from the outcome of this uncertainty.  
+
+REGI
+U.S., Inc.   
+
+     Consolidated
+Balance Sheets   
+
+   April
+30, 2018 and 2017   
+
+The
+accompanying notes are an integral part of these consolidated financial statements.   
+
+REGI
+U.S., Inc.   
+
+     Consolidated
+Statements of Operations and Comprehensive Loss   
+
+   Years
+Ended April 30, 2018 and 2017   
+
+The
+accompanying notes are an integral part of these consolidated financial statements.   
+
+REGI
+U.S., Inc.   
+
+     Consolidated
+Statements of Stockholders  Deficit   
+
+   Years
+Ended April 30, 2018 and 2017   
+
+The
+accompanying notes are an integral part of these consolidated financial statements.   
+
+REGI
+U.S., Inc.   
+
+     Consolidated
+Statements of Cash Flows   
+
+   Years
+Ended April 30, 2018 and 2017   
+
+The
+accompanying notes are an integral part of these consolidated financial statements.   
+
+REGI
+U.S., Inc.   
+
+     Notes
+to Consolidated Financial Statements   
+
+   April
+30, 2018 and 2017   
+
+1.   
+       Nature
+    of Business    
+
+REGI
+U.S., Inc. ( we ,  our , the  Company ,  REGI ) has been engaged in the business
+of developing and building improved axial vane-type rotary devices for civilian, commercial and government applications with the
+marketing and intellectual rights in the U.S. Effective February 17, 2017 REGI purchased the worldwide marketing and intellectual
+rights, other than in the U.S., from Reg Technologies, Inc. ( Reg Tech ), a British Columbia company. No revenue has
+been derived to date from REGI s principal operations of research and development.  
+
+REGI
+formed a wholly-owned subsidiary, Rad Max Technologies, Inc., on April 10, 2007 in the State of Washington.  
+
+Effective
+February 17, 2017 REGI purchased all of Reg Tech s assets including all rights to the technology with the issuance of 51,757,119
+shares of REGI s common stock.  
+
+Asset
+Purchase Agreement   
+
+On
+September 16, 2016, REGI entered into an asset purchase agreement (the  APA ) with Reg Tech, a public company whose
+common stock was listed on TSX Venture Exchange to purchase all of the assets of Reg Tech, a company with a common director and
+CEO with REGI with the issuance of 46,173,916 unregistered common shares of our Company. The APA was amended on February 14, 2017
+to increase the consideration shares to an aggregate of 51,757,119 unregistered common shares of our Company and to amend the
+list of the assets purchased. The shares are issued as of the date of this report. The Amended APA is attached as an exhibit to
+this report. The transaction was closed on February 17, 2017 upon TSX Venture Exchange approval.  
+
+The
+transaction is accounted for as a reverse merger recapitalization wherein Reg Tech is considered to be the accounting acquirer.
+The prior year results of operations and cash flows are those of Reg Tech for all periods presented.  
+
+Upon
+closing of the asset purchase agreement, all assets of Reg Tech except GST receivable were transferred from Reg Tech to REGI.
+In addition, upon closing of the APA, all assets, liabilities, and equity instruments of REGI were incorporated into the surviving
+company. The net adjustment to additional paid in capital for the asset purchase was a decrease of $1,243,757. The net cash received
+from the reverse merger was $10,753.  
+
+The
+following table summarizes the assets and liabilities of REGI U.S. on February 17, 2017:  
+
+The
+following table summarizes the assets and liabilities of Reg Tech on February 17, 2017 that were not assumed in the transaction:  
+
+2.   
+       Significant
+    Accounting Policies     
+
+Principles
+of consolidation   
+
+These
+financial statements include the accounts of the Company, its wholly owned subsidiary RadMax Technologies, Inc., and its 51% owned
+subsidiary Rand Energy Group Inc. ( Rand ), which ownership was purchased from Reg Tech effective February 17, 2017.  
+
+All
+significant inter-company balances and transactions have been eliminated upon consolidation.  
+
+The
+financial statements of the Company have been prepared in accordance with U.S. generally accepted accounting principles.  
+
+Investment
+in associates   
+
+Investments
+in which the Company has the ability to exert significant influence but does not have control are accounted for using the equity
+method whereby the original cost of the investment is adjusted annually for the Company s share of earnings, losses and
+dividends during the current year.  
+
+As
+part of the APA the Company purchased from Reg Tech and owns 26.1% of equity interest in Minewest Silver and Gold Inc. ( Minewest ),
+a British Columbia company. Minewest owns a 70% interest subject to a 10% Net Profits Interest in mining property in British Columbia.
+As at the date of the asset purchase and the date of this report, Minewest is inactive due to lack of funding. As a result, the
+assets were impaired and no transactions are recorded for Minewest during the years ended April 30, 2018 and 2017.  
+
+Risks
+and uncertainties    
+
+The
+Company operates in an emerging industry that is subject to market acceptance and technological change. The Company s operations
+are subject to significant risks and uncertainties, including financial, operational, technological and other risks associated
+with operating an emerging business, including the potential risk of business failure.  
+
+Cash
+and cash equivalents   
+
+Cash
+and cash equivalents include highly liquid investments with original maturities of three months or less.  
+
+Furniture
+and equipment    
+
+Property
+and equipment are stated at cost, which includes the acquisition price and any direct costs to bring the asset into use at its
+intended location, less accumulated amortization.  
+
+Depreciation
+of property and equipment is calculated using the straight-line method to write off the cost, net of any estimated residual value,
+over their estimated useful lives of the assets as follows: Office equipment 5 years and electronic equipment 2 years. Depreciation
+of office equipment is included in general and administrative expenses; Depreciation of research equipment is included in research
+and development expense. During the year ended April 30, 2018 and 2017 depreciation of $3,246 and $1,198 respectively was recorded
+on the research equipment.  
+
+Financial
+instruments   
+
+Fair
+Value   
+
+The
+carrying values of cash and cash equivalents, amounts due to related parties and accounts payable approximate their fair values
+because of the short-term maturity of these financial instruments.  
+
+ASC
+Topic 820,  Fair Value Measurements and Disclosures,  requires disclosure of the fair value of financial instruments
+held by the Company. ASC Topic 825,  Financial Instruments,  defines fair value, and establishes a three-level valuation
+hierarchy for disclosures of fair value measurement that enhances disclosure requirements for fair value measures. The three levels
+of valuation hierarchy are defined as follows:  
+
+-  
+      Level
+    1 inputs to the valuation methodology are quoted prices for identical assets or liabilities in active markets.   
+
+-  
+      Level
+    2 inputs to the valuation methodology include quoted prices for similar assets and liabilities in active markets, and inputs
+    that are observable for the asset or liability, either directly or indirectly, for substantially the full term of the financial
+    instrument.   
+
+-  
+      Level
+    3 inputs to the valuation methodology are unobservable and significant to the fair value measurement.   
+
+Interest
+Rate Risk   
+
+The
+Company is not exposed to significant interest rate risk due to the short-term maturity of its monetary assets and liabilities.  
+
+Credit
+Risk   
+
+The
+Company s financial asset that is exposed to credit risk consists primarily of cash. To manage the risk, cash is placed
+with major financial institutions.  
+
+Currency
+Risk   
+
+The
+Company s functional currency is the US dollar and the reporting currency is the US dollar.  
+
+Monetary
+assets and liabilities denominated in foreign currencies are translated using the exchange rate prevailing at the balance sheet
+date. Gains and losses arising on translation or settlement of foreign currency denominated transactions or balances are included
+in the determination of income. Foreign currency transactions are primarily undertaken in US dollars. The Company has not, to
+the date of these consolidated financial statements, entered into derivative instruments to offset the impact of foreign currency
+fluctuations.  
+
+For
+reporting purposes assets and liabilities with Canadian dollar as functional currency are translated into US dollar at the period
+end rates of exchange, and the results of the operations are translated at average rates of exchange for the period. The resulting
+translation adjustments are included in accumulated other comprehensive income in shareholders  equity.  
+
+Income
+taxes   
+
+Deferred
+income taxes are reported for timing differences between items of income or expense reported in the consolidated financial statements
+and those reported for income tax purposes in accordance with ASC 740,  Income Taxes , which requires the use of the
+asset/liability method of accounting for income taxes. Deferred income taxes and tax benefits are recognized for the future tax
+consequences attributable to differences between the financial statement carrying amounts of assets and liabilities and their
+respective tax bases, and for tax losses and credit carry-forwards. Deferred tax assets and liabilities are measured using enacted
+tax rates expected to apply to taxable income in the years in which those temporary differences are expected to be recovered or
+settled. The Company provides for deferred taxes for the estimated future tax effects attributable to temporary differences and
+carry-forwards when realization is more likely than not.  
+
+Basic
+and diluted net loss per share   
+
+Basic
+EPS is computed by dividing net income (loss) available to common shareholders (numerator) by the weighted average number of shares
+outstanding (denominator) during the period. Diluted EPS gives effect to all dilutive potential common shares outstanding during
+the period using the treasury stock method and convertible debt using the if-converted method. In computing diluted EPS, the average
+stock price for the period is used in determining the number of shares assumed to be purchased from the exercise of stock options
+or warrants. Diluted EPS excludes all dilutive potential shares if their effect is anti-dilutive.  
+
+Stock-based
+compensation   
+
+The
+Company accounts for stock based compensation in accordance with FASB ASC 718 which establishes the accounting treatment for transactions
+in which an entity exchanges its equity instruments for goods or services. Under the provisions of FASB ASC 718, share-based payment
+compensation is measured at the grant date, based on the fair value of the award, and is recognized as an expense over the requisite
+service period (generally the vesting period). The Company accounts for share-based payments to non-employees in accordance with
+FASB ASC 505-50.  
+
+Use
+of estimates   
+
+The
+preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States
+of America requires management to make estimates and assumptions that affect the amounts of assets and liabilities and disclosures
+of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenditures
+during the reporting period. Actual results could differ from these estimates. The Company regularly evaluates estimates and assumptions
+related to useful life and recoverability of long-lived assets, stock-based compensation and deferred income tax asset valuation
+allowances. The Company bases its estimates and assumptions on current facts, historical experience and various other factors
+that it believes to be reasonable under the circumstances, the results of which form the basis for making judgments about the
+carrying values of assets and liabilities, and the accrual of costs and expenses that are not readily apparent from other sources.
+The actual results experienced by the Company may differ materially and adversely from the Company s estimates. To the extent
+there are material differences between the estimates and the actual results, future results of operations will be affected.  
+
+Research
+and development costs   
+
+Research
+and development costs are expensed as incurred.  
+
+Related
+Parties   
+
+In
+accordance with ASC 850  Related Party Disclosure , a party is considered to be related to the Company if the party
+directly or indirectly or through one or more intermediaries, controls, is controlled by, or is under common control with the
+Company. Related parties also include principal owners of the Company, its management, members of the immediate families of principal
+owners of the Company and its management and other parties with which the Company may deal with if one party controls or can significantly
+influence the management or operating policies of the other to an extent that one of the transacting parties might be prevented
+from fully pursuing its own separate interests.  
+
+Recent
+accounting pronouncements    
+
+The
+Company has implemented all new accounting pronouncements that are in effect and that may impact its financial statements.  
+
+Reclassifications   
+
+Certain
+reclassifications have been made to the prior year financial information to conform to the presentation used in the financial
+statements for the year ended April 30, 2018.  
+
+3.   
+       Going
+    Concern    
+
+The
+Company incurred net losses of $3,005,229 for the year ended April 30, 2018 and has a working capital deficit of $921,824 and
+an accumulated deficit of $24,063,399 at April 30, 2018. These factors raise substantial doubt about the ability of the Company
+to continue as a going concern. The consolidated financial statements do not include any adjustments that might result from the
+outcome of this uncertainty. As a result, the Company s consolidated financial statements as of April 30, 2018 and for the
+year ended have been prepared on a going concern basis, which contemplates the realization of assets and the settlement of liabilities
+and commitments in the normal course of business.  
+
+The
+Company also receives interim support from related parties and plans to raise additional capital through debt and/or equity financings.
+There is no assurance that any of these activities will be successful. There continues to be insufficient funds to provide enough
+working capital to fund ongoing operations for the next twelve months.  
+
+4.
+       
+       Property
+    and Equipment    
+
+Property
+and equipment at April 30, 2018 and 2017 consists of the following:  
+
+Depreciation
+expense totaled $5,853 and $1,198 for the years ended April 30, 2018 and 2017, respectively.  
+
+5.   
+       Secured
+    Convertible Promissory Notes    
+
+As
+of April 30, 2018, REGI has outstanding senior secured convertible promissory notes (the  Convertible Notes ) of $142,762
+(net of unamortized discount of $54,816) issued to related parties and $997,468 (net of unamortized discount of $523,658) issued
+to non-related parties. As of April 30, 2017, REGI has outstanding Convertible Notes of $877,449 (net of unamortized discount
+of $9,888) issued to related parties and $636,539 (net of unamortized discount of $12,944) issued to non-related parties.  
+
+As
+of February 17, 2017, REGI has outstanding senior secured convertible promissory notes of $118,874 (net of unamortized discount
+of $3,278) issued to related parties and $351,586 (net of unamortized discount of $1,455) issued to non-related parties. During
+the period from February 17, 2017 to April 30, 2017, the Company issued convertible notes for cash proceeds of $258,000, services
+debt provided by non-related parties for $38,442, service debt provided by related parties for $40,000 and recorded loss on settlement
+of debt for $13,244 as $741,941 of related payables are settled for $755,185 of convertible notes. As of April 30, 2017, $755,185,
+$15,500, $573,635, $60,000 and $132,500 of the promissory notes are convertible at any time on or after ninety days from the issuance
+date into the Company s common stocks at $0.755, $0.12, $0.10, $0.09 and $0.08 per share respectively.  
+
+During
+the twelve months ended April 30, 2018 the Company issued Convertible Notes for cash proceeds of $1,212,849, settled accounts
+payable from previous years of $17,436, service debt provided by related parties of $131,577, and service debt provided by non-related
+parties of $182,696 of which $66,600 was finders  fee and legal fees for cash based Convertible Notes recorded as discount
+to the Convertible Notes. $40,071 of the $66,600 debt discount was amortized during the twelve months ended April 30, 2018.  
+
+The
+Convertible Notes are secured against all assets of the Company, repayable two years after the issuance, bearing simple interest
+rate of 10% during the term of the notes and simple interest rate of 20% after the due date with the exception of one Convertible
+Note of $150,000 (net of unamortized discount of $11,704) repayable nine months after issuance, bearing simple interest of 2%
+during the term of the note and simple interest rate of 15% after the due date. During the twelve months ended April 30, 2018
+$60,000 of the Convertible Notes were reclassified from non-related party at April 30, 2017 to related party as a debt holder
+became a director of the Company.  
+
+As
+of April 30, 2018, $17,436, $40,800, $1,500,468, $60,000 and $100,000 of the Convertible Notes are convertible at any time on
+or after ninety days from the issuance date into the Company s common stocks at $0.174, $0.12, $0.10, $0.09 and $0.08 per
+share respectively.  
+
+The
+Company analyzed the conversion option in the notes for derivative accounting treatment under ASC Topic 815,  Derivatives
+and Hedging,  and determined that the instrument does not qualify for derivative accounting.  
+
+The
+Company determined that the conversion option was subject to a beneficial conversion feature and during the twelve months ended
+April 30, 2018 the company recorded a total beneficial conversion feature of $1,027,441, and amortization of the beneficial conversion
+feature of $510,311 as interest expense. The Company recorded a total beneficial conversion feature of $18,872, and amortization
+of the beneficial conversion feature of $773 as interest expense from February 18, 2017 to April 30, 2017.  
+
+6.   
+       Related
+    Parties    
+
+Amounts
+due to related parties are unsecured, non-interest bearing and due on demand. Related parties consist of the directors and officers
+and a former director of REGI and companies controlled or significantly influenced by these parties. As of April 30, 2018, there
+was $106,823 due to related parties. As of April 30, 2017, there was $77,560 due to related parties.  
+
+7.   
+       Stockholders 
+    Equity     
+
+a)  
+      Common
+    Stock   
+
+On
+January 6, 2017, the Company s annual and special meeting of stockholders approved the amendment to the Company s
+articles that increased the authorized common shares from 100,000,000 to 150,000,000.  
+
+On
+September 16, 2016, the Company entered into the APA with Reg Tech to purchase all of the assets of Reg Tech. An aggregate of
+51,757,119 unregistered common shares of our company were issued as consideration for the asset purchase.  
+
+During
+the year ended April 30, 2017 related party convertible promissory note of $30,000 and its accrued interest of $1,405 were converted
+into 314,050 shares REGI s common stock at $0.10 per share.  
+
+During
+the twelve months ended April 30, 2018 related party convertible promissory notes of $126,152 and accrued interest of $10,931
+were converted into a total of 1,369,964 shares of REGI s common stock at $0.10 per share, and convertible promissory notes
+of $755,185 and accrued interest of $41,173 were converted into a total of 1,054,779 shares of REGI s common stock at $0.755
+per share.  
+
+During
+the twelve months ended April 30, 2018 non-related party convertible promissory notes of $531,940 and accrued interest of $26,569
+were converted into 5,630,543 shares of common stock at $0.10 per share, principal of $3,848 and accrued interest of $623 were
+converted into 55,892 shares of common stock at $0.08 per share, principal of $10,000 and accrued interest of $879 were converted
+into 99,661 shares of commons stock at $0.12 per share.  
+
+During
+the twelve months ended April 30, 2018 the Company issued 155,000 shares of its common stock for options exercised at $0.10 per
+share for a total of $15,500. Among the 155,000 shares of common stock, 55,000 were issued to a related party.  
+
+During
+the twelve months ended April 30, 2018 the Company issued 3,310,000 shares of its common stock for services provided by the directors,
+officers, employees and consultants of the Company with the total value recorded at $562,700 based on the market trading price
+as of the issuance date.  
+
+On
+November 2, 2017 the Company issued 3,172,269 shares of its common stock to Rand Energy. No value was assigned to these shares,
+as Rand Energy did not have any assets. These shares together with 827,721 shares of common stock initially owned by Rand Energy
+and recorded as the Company s treasury shares, were transferred to the 49% shareholders of Rand Energy, as consideration
+for purchase of all of the 49% interest in Rand Energy, resulting in the Company owning 100% equity interest in Rand Energy.  
+
+Treasury
+Shares   
+
+At
+April 30, 2017, Rand Energy owned 827,731 shares of the Company s common stock which have been deducted from the total shares
+outstanding.  
+
+b)  
+      Common
+    Stock Options and Warrants   
+
+On
+August 12, 2016, REGI granted an aggregate of 3,700,000 common stock options for services. These options vest upon grant, expire
+on July 20, 2021 and are exercisable at the following prices:  
+
+On
+January 1, 2017, REGI granted an aggregate of 3,500,000 common stock options for services. These options vest upon grant, expire
+on January 1, 2022 and are exercisable at the following prices:  
+
+On
+March 1, 2018, REGI granted an aggregate of 1,400,000 common stock options for services. These options vest upon grant, expire
+on March 1, 2023 and are exercisable at the following prices:  
+
+On
+April 30, 2018, REGI granted an aggregate of 500,000 common stock options for services. These options vest upon grant, expire
+on April 30, 2023 and are exercisable at the following prices:  
+
+A
+summary of REGI s stock option activities for the years ended April 30, 2018 and 2017 are as follows:  
+
+At
+April 30, 2017, the Company had $28,740 of total unrecognized compensation cost related to non-vested stock options and warrants,
+which will be recognized over future periods. The intrinsic value of  in the money  exercisable options at April 30,
+2017 was $145,580.  
+
+A
+summary of REGI s common stock warrant activity for the years ended April 30, 2018 and April 30, 2017 is as follows:  
+
+The
+intrinsic value of  in the money  exercisable warrants at April 30, 2018 and April 30, 2017 was $Nil for both years.
+The Company recognized $202,005 in option compensation expense for the year ended April 30, 2018 and $Nil for the year ended April
+30, 2017.  
+
+8.   
+       Income
+    Taxes    
+
+The
+Company is subject to the income tax laws of the United States and the States of Washington and Oregon, and uses the liability
+method, where deferred tax assets and liabilities are determined based on the expected future tax consequences of temporary differences
+between the carrying amounts of assets and liabilities for financial and income tax reporting purposes.  
+
+On
+December 22, 2017, the U.S. Tax Cuts and Jobs Act (the  Tax Reform Act ) was signed into law by President Trump. The
+Tax Reform Act significantly revised the U.S. corporate income tax regime by, among other things, lowering the U.S. corporate
+tax rate from 35% to 21% effective January 1, 2018, while also repealing the deduction for domestic production activities, implementing
+a territorial tax system and imposing a repatriation tax on deemed repatriated earnings of foreign subsidiaries. U.S. GAAP requires
+that the impact of tax legislation be recognized in the period in which the law was enacted. The Company does not anticipate that
+the  Tax Reform Act  will have any substantial effect on the Company s financial position in the near future.  
+
+During
+the post-reverse merger period of February 18, 2017 through April 30, 2017, the Company incurred a net loss, and, therefore, had
+no tax liability. The cumulative net operating loss carry-forward is approximately $267,672 for the year ended April 2017 and
+will begin expiring in 2037. Section 382 of the Internal Revenue Code generally imposes an annual limitation on the amount of
+net operating loss carryforwards that may be used to offset taxable income when a corporation has undergone significant changes
+in its stock ownership. The $267,672 estimate of net operating loss carry- forward is calculated after we consider the effect
+of Section 382. The Company estimates that the Net operating loss for the year ended April 30, 2018 is $3,005,229 and will begin
+expiring in 2038.  
+
+Deferred
+tax assets consist of the tax effect of NOL carry-forwards. The Company has provided a full valuation allowance on the deferred
+tax assets because of the uncertainty regarding its realizability. Deferred tax assets consist of the following:  
+
+The
+composition of REGI s deferred tax assets at April 30, 2018 and 2017 is as follows:  
+
+Management
+has determined that the Company is subject to examination of income tax filings in the United States for the 2014 through 2016
+tax years.  
+
+9.   
+       Subsequent
+    Event    
+
+Management
+has evaluated subsequent events from the balance sheet date through the date the financial statements were available to be issued
+and determined that no material subsequent events exist other that the following.  
+
+Subsequent
+to April 30, 2018, the Company issued Convertible Notes for cash proceeds of $90,000, service debt provided by related parties
+of $27,932 and service debt provided by non-related parties of $16,357. The Convertible Notes are secured against all assets of
+the Company, repayable two years after the issuance, bearing simple interest rate of 10% during the term of the notes and simple
+interest rate of 20% after the due date.  
+
+Subsequent
+to April 30, 2018, a total of 140,261 shares of the Company s common stock were issued for Convertible Promissory notes
+at $0.10 per share.  
+
+ITEM
+9: CHANGES IN AND DISAGREEMENTS WITH ACCOUTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE   
+
+On
+January 31, 2018,  MaloneBailey, LLP  of Houston, Texas (  MaloneBailey  )
+was dismissed as REGI U.S., Inc. (the Company ) s independent registered public accounting firm.  
+
+During
+the most recent fiscal years ended April 30, 2017 and April 30, 2016, MaloneBailey s reports on the Company s financial
+statements did not contain an adverse opinion or disclaimer of opinion, and was not qualified or modified as to uncertainty, audit
+scope or accounting principles, except that the Company s audited financial statements contained in its Form 10K s
+for the years ended April 30, 2017 and April 30, 2016 included a going concern qualification.  
+
+During
+the periods referred to above, (i) there were no disagreements between the Company and  MaloneBailey
+ on any matter of accounting principles or practices, financial statement disclosure or auditing scope or procedure which,
+if not resolved to the satisfaction of  MaloneBailey  would have caused  MaloneBailey
+ to make reference to the subject matter of the disagreement in connection with its reports on the Company s financial
+statements; and (ii) there were no reportable events as described in paragraph (a)(1)(v) of Item 304 of Regulation S-K.  
+
+On
+January 31, 2018, the Company engaged FRUCI   ASSOCIATES II, PLLC of Spokane, WA ( Fruci ) as its independent
+registered public accounting firm for the Company s quarter ending January 31, 2018. The change in the Company s independent
+registered public accounting firm was approved by the Company s Board of Directors on January 28, 2018.  
+
+During
+the periods referred to above, the Company has not consulted with Fruci regarding either (i) the application of accounting principles
+to a specified transaction, either completed or proposed, or the type of audit opinion that might be rendered on the Company s
+financial statements; or (ii) any matter that was either the subject of a disagreement (as defined in paragraph (a)(1)(iv) of
+Item 304 of Regulation S-K and the related instructions thereto) or a reportable event (as described in paragraph (a)(1)(v) of
+Item 304 of Regulation S-K  
+
+ITEM
+9A: CONTROLS AND PROCEDURES   
+
+(a)
+Disclosure Controls and Procedures   
+
+We
+maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in the reports
+that we file with the SEC under the Exchange Act is recorded, processed, summarized and reported within the time periods specified
+in the SEC s rules and forms and that such information is accumulated and communicated to our management, including our
+principal executive and financial officers, as appropriate, to allow for timely decisions regarding required disclosure. As required
+by SEC Rule 15d-15(b), we carried out an evaluation, under the supervision and with the participation of our management, including
+our Chief Executive Officer and our Chief Financial Officer, of the effectiveness of the design and operation of our disclosure
+controls and procedures as of the end of the period covered by this report.  
+
+Based
+upon that evaluation, management has concluded that our current disclosure controls and procedures were not effective as of April
+30, 2018. The conclusion that our disclosure controls and procedures were not effective was due to the presence of material weaknesses
+in internal control over financial reporting as identified below. Management anticipates that disclosure controls and procedures
+will not be effective until the material weaknesses are remediated. Our Company intends to remediate the weaknesses as set out
+below:  
+
+-  
+      There
+    is a lack of sufficient accounting staff due to the size of the Company, resulting in a lack of segregation of duties necessary
+    for an effective internal control system.   
+
+-  
+      There
+    is a lack of control processes which provide for multiple levels of supervision and review.   
+
+(b)
+Management s Annual Report on Internal Control over Financial Reporting   
+
+Internal
+control over financial reporting refers to the process designed by, or under the supervision of, our Chief Executive Officer and
+Chief Financial Officer, and effected by our board of directors, management and other personnel, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of consolidated financial statements for external purposes
+in accordance with generally accepted accounting principles, and includes those policies and procedures that:  
+
+(1)  
+      Pertain
+    to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of
+    our assets;   
+
+(2)  
+      Provide
+    reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance
+    with generally accepted accounting principles, and that our receipts and expenditures are being made only in accordance with
+    authorization of our management and directors; and   
+
+(3)  
+      Provide
+    reasonable assurance regarding prevention or timely detection of unauthorized acquisitions, use or disposition of our assets
+    that could have a material effect on the financial statements.   
+
+Internal
+control over financial reporting cannot provide absolute assurance of achieving financial reporting objectives because of its
+inherent limitations. Internal control over financial reporting is a process that involves human diligence and compliance and
+is subject to lapses in judgment and breakdowns resulting from human failures. Internal control over financial reporting also
+can be circumvented by collusion or improper management override. Because of such limitations, there is a risk that material misstatements
+may not be prevented or detected on a timely basis by internal control over financial reporting. However, these inherent limitations
+are known features of the financial reporting process. Therefore, it is possible to design into the process safeguards to reduce,
+though not eliminate, this risk. Management is responsible for establishing and maintaining adequate internal control over financial
+reporting for the Company.  
+
+Management
+has used the framework set forth in the report entitled  Internal Control-Integrated Framework  published by the Committee
+of Sponsoring Organizations of the Treadway Commission, known as COSO (2013 edition), to evaluate the effectiveness of our internal
+control over financial reporting.  
+
+Based
+on this assessment the management concludes that our internal control system is ineffective and material weakness are noted due
+to lack of segregation of duties. There is also a lack of control processes in place which provide for multiple levels of supervision
+and review in key areas.  
+
+(c)
+Changes in Internal Control over Financial Reporting   
+
+During
+the year ended April 30, 2018, there were no changes in the Company s internal control over financial reporting that have
+materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting.  
+
+ITEM
+9B. OTHER INFORMATION.   
+
+None.  
+
+PART
+III   
+
+ITEM
+10. DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE   
+
+Directors
+and Executive Officers   
+
+The
+following table sets forth the name and position of each of our Executive Officers and Directors as of August 10, 2018:  
+
+Name  
+         
+      Position   
+ 
+      Paul
+    Chute, 68  
+         
+      Director,
+    Chairman of the Board   
+ 
+      Michael
+    Urso, 61  
+         
+      Director
+    and Chief Executive Officer   
+ 
+      Paul
+    Porter, 62  
+         
+      Director
+    and President and Chief Technology Officer   
+ 
+      Jeffrey
+    White, 62  
+         
+      Chief
+    Financial Officer   
+
+Business
+Experience, Principal Occupation of Directors and Family Relationships   
+
+The
+following individuals served as directors and executive officers of our company during the year ended April 30, 2018.  
+
+Paul
+W Chute ,  Director, Board Chairman , Mr. Chute has over 45 years of executive experience building or restructuring over
+25 private and public companies. He specializes in Governance, Business Plans, Financing, Corporate Structure, Systems and Operational
+functionality. A strong believer in team management, Paul believes in cooperative processing with accountability. He served as
+CEO and CFO of Acadia National Health Systems. He earned his MBA in Business Management from Husson University and a BS in Accounting
+from the University of Maine.  
+
+Paul
+L. Porter ,  Director, President and Chief Technology Officer . Mr. Porter has been a hands-on engineer and manager for
+over 30 years. Founder and former president of Jetseal, Inc., a manufacturing firm specializing in cutting-edge seal design and
+other aerospace technologies, Paul now serves as Managing Partner and Chief Engineer at P.A. Industries, in addition to his work
+on the RadMax Rotary Cycle. He has an MBA from McNeese University and BS in Mechanical Engineering from Brigham Young University.  
+
+Michael
+Urso, Director, Chief Executive Officer . Mr. Urso is a Senior Executive with over 25 years of experience in the areas of Innovation,
+Business Development, Marketing, Operations Management, and Sales with companies ranging from startups to large $50 billion global
+corporations. Mike is a skilled leader with an impressive track record of transforming companies with commodity based, or incremental
+innovation strategies into innovation leaders. He also has extensive experience mentoring startup companies and successfully guided
+many from concept to commercialization, using a combination of tools and personal experience. In 2008 Mike was named  Mentor
+of the Year  in the Pacific Northwest region for Cleantech Open, the nation s largest clean technology startup accelerator
+program, whose charter is to find, fund, and foster entrepreneurs with ideas to solve our greatest environmental and energy challenges.
+Prior to his current position, Urso served as the Vice President of Product Innovation for Saint-Gobain s North American
+Gypsum business. While in this position he moved Saint-Gobain from a position of innovation follower to being the innovation leader
+in the North American gypsum industry. During his career Mike has also held leadership positions as Senior Principal Consultant,
+Sirti, a Washington State funded, high tech business incubator with a successful track record of launching new companies or negotiating
+successful exits; Vice President of Marketing, Potlatch Corporation, Wood Products and Resource Management Divisions; Global New
+Business Development Manager and Global Composite Materials Project Manager, Dow Chemical Company, Emulsion Polymers Division;
+Operations Manager, Dow Chemical, Chemical and Metals Divisions; North American Marketing Manager, Dow Chemical, Emulsion Polymers
+Division; and Canadian Marketing Manager, Dow Chemical, Emulsion Polymers Division. Mike received a BSc degree from the University
+of Calgary, Alberta, Canada, and a MBA degree from Northwood University s DeVos Graduate School of Management, Midland,
+Michigan. He is also a co-inventor on four patents and holds citizenship in both the USA and Canada.  
+
+Susanne
+Robertson, Director,  Mrs. Robertson was appointed a director of REGI on January 6, 2017. She is also a director of Linux Gold
+Corp., Minewest Silver and Gold Inc. and Teryl Resources Corp. On July 20, 2018, Susan Robertson voluntarily resigned her seat
+on the REGI U.S. Board of Directors.  
+
+Jeff
+White, Chief Financial Officer , Mr. White has over 30 years of experience in finance and business management. Jeff s
+broad experiences in business management and corporate finance include CFO at Scafco Corporation and Spokane Seed Company, and
+as President and CFO of Garco Building Systems. He additionally served as Corporate Controller for Metropolitan Mortgage and Securities,
+Co. Jeff is a certified public accountant and earned his BS in Business from the University of Idaho.  
+
+Victoria
+Huang   Chief Financial Officer, resigned on April 30, 2018.  
+
+Jina
+Liu   Director, resigned on April 30, 2018  
+
+Mr.
+Shaojun Zhang   Director, resigned on February 7, 2018.  
+
+Involvement
+in certain legal proceedings   
+
+Our
+directors, executive officers and control persons have not been involved in any of the following events during the past ten years:  
+
+(1)  
+      filed
+    a petition under the federal bankruptcy laws or any state insolvency law, nor had a receiver, fiscal agent or similar officer
+    appointed by a court for the business or present of such a person, or any partnership in which he was a general partner at
+    or within two years before the time of such filing, or any corporation or business association of which he was an executive
+    officer within two years before the time of such filing;   
+
+(2)  
+      was
+    convicted in a criminal proceeding or named subject of a pending criminal proceeding (excluding traffic violations and other
+    minor offenses);   
+
+(3)  
+      was
+    the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any court of competent jurisdiction,
+    permanently or temporarily enjoining him from or otherwise limiting the following activities: (i) acting as a futures commission
+    merchant, introducing broker, commodity trading advisor, commodity pool operator, floor broker, leverage transaction merchant,
+    associated person of any of the foregoing, or as an investment advisor, underwriter, broker or dealer in securities, or as
+    an affiliated person, director of any investment company, or engaging in or continuing any conduct or practice in connection
+    with such activity; (ii) engaging in any type of business practice; (iii) engaging in any activity in connection with the
+    purchase or sale of any security or commodity or in connection with any violation of federal or state securities laws or federal
+    commodity laws;   
+
+(4)  
+      was
+    the subject of any order, judgment or decree, not subsequently reversed, suspended or vacated, of any federal or state authority
+    barring, suspending or otherwise limiting for more than 60 days the right of such person to engage in any activity described
+    above under this Item, or to be associated with persons engaged in any such activity;   
+
+(5)  
+      was
+    found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission to have violated
+    any federal or state securities law and the judgment in subsequently reversed, suspended or vacate;   
+
+(6)  
+      was
+    found by a court of competent jurisdiction in a civil action or by the Commodity Futures Trading Commission to have violated
+    any federal commodities law, and the judgment in such civil action or finding by the Commodity Futures Trading Commission
+    has not been subsequently reversed, suspended or vacated;   
+
+(7)  
+      was
+    the subject of, or a party to, any Federal or State judicial or administrative order, judgment, decree, or finding, not subsequently
+    reversed, suspended or vacated, relating to an alleged violation of: (i) any Federal or State securities or commodities law
+    or regulation; or (ii) any law or regulation respecting financial institutions or insurance companies including, but not limited
+    to, a temporary or permanent injunction, order of disgorgement or restitution, civil money penalty or temporary or permanent
+    cease-and-desist order, or removal or prohibition order; or (iii) Any law or regulation prohibiting mail or wire fraud or
+    fraud in connection with any business entity;   
+
+(8)  
+      was
+    the subject of, or a party to, any sanction or order, not subsequently reversed, suspended or vacated, of any self-regulatory
+    organization (as defined in Section 3(a)(26) of the Exchange Act (15 U.S.C. 78c(a)(26))), any registered entity (as defined
+    in Section 1(a)(29) of the Commodity Exchange Act (7 U.S.C. 1(a)(29))), or any equivalent exchange, association, entity or
+    organization that has disciplinary authority over its members or persons associated with a member.   
+
+Term
+of Office   
+
+The
+term of office of the current directors are expected to continue until new directors are elected or appointed at an annual meeting
+of shareholders.  
+
+Committees
+of the Board and Financial Expert   
+
+Audit
+Committee   
+
+The
+Company adopted a new audit committee charter on June 10, 2018. The Charter is available on the Company s website at  https://radmaxtech.com/document/news/2018/2018-07-20-audit_committee_charter-317.pdf   
+
+Implementation
+of the new charter has begun with the active recruitment of two independent members of the Board of Director with the required
+background, skills and expertise to be assigned to the Audit Committee.  
+
+Code
+of Ethics   
+
+The
+Company s board of directors is committed to encouraging and promoting a culture of ethical business conduct and integrity
+throughout the Company. In order to achieve this objective, efforts are made to the implementation, monitoring and enforcement
+of the Company s Code of Business Conduct and Ethics ( Code ). This is accomplished by: (a) taking prompt action
+against violations of the Code; ensuring employees and consultants are aware that they may discuss their concerns with their supervisor
+or directly to the Compliance Officer; the Compliance Officer reporting suspected fraud or securities law violations for review
+by the Audit Committee and reporting same to the Board of Directors. The Company distributes to each new director, officer, employee
+and consultant the Company s Code.  
+
+No
+waivers of any provision of this Code of Business Conduct and Ethics may be made except by the Board of Directors. Any waiver
+or amendment shall be reported as required by law or regulation. There have been no waivers of the Code since its implementation.  
+
+A
+copy of the Code is available from the Company on written request, and the text of the code of business conduct and ethics was
+filed as an exhibit to our form 10-K for the year ended April 30, 2011.  
+
+Assessments   
+
+The
+board of directors is ultimately responsible for the stewardship of the Company, which means that it oversees the day-to-day management
+delegated to the President and Chief Executive Officer and the other officers of the Company. The board is charged with the responsibility
+of assessing the effectiveness of itself, its committee(s) and the contributions of individual directors.  
+
+The
+Corporate Governance Policy was constituted by the board of directors to assist the Board and its officers, employees, and consultants
+to fulfill fundamental issues including: (a) the regular assessment of the Company s approach to corporate governance issues;
+(b) ensuring that such approach supports the effective functioning of the Company with a view to the best interests of the Company s
+shareholders and effective communication between the board of directors and management of the Company; and (c) the process, structure
+and effective system of accountability by management to the board of directors and by the board to the shareholders, in accordance
+with applicable laws, regulations and industry standards for good governance practices. A copy of the Corporate Governance Policy
+is available on our website at www.radmaxtech.com.  
+
+Compliance
+with Section 16(a) of the Securities Exchange Act of 1934   
+
+Section
+16(a) of the Exchange Act requires our executive officers and directors and persons who own more than 10% of a registered class
+of our equity securities to file with the SEC initial statements of beneficial ownership, reports of changes in ownership and
+annual reports concerning their ownership of our common stock and other equity securities, on Forms 3, 4 and 5 respectively. Executive
+officers, directors and greater than 10% shareholders are required by the SEC regulations to furnish us with copies of all Section
+16(a) reports that they file.  
+
+Based
+solely on our review of the copies of such forms received by us, or written representations from certain reporting persons, we
+believe that all filing requirements applicable to our officers, directors and greater than 10% beneficial owners were complied
+with.  
+
+STATEMENT
+OF EXECUTIVE COMPENSATION   
+
+The
+Company is required, under applicable securities legislation in Canada, to disclose to its Shareholders details of compensation
+paid to its directors and officers. The following fairly reflects all material information regarding compensation paid by the
+Company to its directors and officers, which information has been disclosed to the Company s Shareholders in accordance
+with applicable Canadian law.  
+
+Executive
+Compensation    
+
+Compensation
+Discussion and Analysis    
+
+The
+Company s executive officers make recommendations to the board of directors regarding compensation policies and the compensation
+of senior officers. The Company does not have a Compensation Committee. The compensation of the senior executives comprises two
+components; namely, a base salary or consulting fees, the granting of share based awards, and the grant of stock options pursuant
+to the Company s stock option plan which is more particularly outlined below under the  Option-based Awards  section.
+These forms of compensation are chosen to attract, retain and motivate the performance of selected directors, officers, employees
+or consultants of the Company of high caliber and potential. Each senior executive is employed for his or her skills to perform
+specific tasks and the base salary and number of options is fixed accordingly.  
+
+Summary
+Compensation Table   
+
+Named
+Executive Officer mean the Chief Executive Officer ( CEO ), the Chief Financial Officer ( CFO ) or any
+individual acting in a similar capacity or function, regardless of the amount of compensation of that individual and each of the
+Company s two most highly compensated executive officers, other than the CEO and CFO, or highly compensated individuals
+acting in similar capacities, who were serving as executive officers, or in a similar capacity, at the end of the most recent
+financial year and whose compensation exceeds $100,000, and such individuals who would be an NEO but for the fact that they were
+not serving as an executive officer or in a similar capacity at the end of that financial year.  
+
+During
+the Company s last completed financial year ended April 30, 2018, the Company had two Named Executive Officers: Mr. Mike
+Urso, CEO and Mr. Jeffrey White, CFO who replaced Mr. Paul Chute, former CEO and Ms. Victoria Huang, former CFO on April 30, 2018
+and Mr. Paul Porter, President.as of September 6, 2017.  
+
+The
+following table (presented in accordance with Item 402 of Regulation S-K   Executive Compensation) sets forth all annual,
+long term and other compensation for services in all capacities to the Company and its subsidiaries payable to the NEOs for the
+three financial years ended April 30, 2018, 2017 and 2016 (to the extent required by the Regulations) in respect of the Named
+Executive Officers:  
+
+(1)   
+       Mr.
+    Michael Urso is also a director and did not receive compensation in that capacity.     
+
+(2)   
+       Mr.
+    Robertson was also a director and did not receive compensation in that capacity.     
+
+(3)   
+       Access
+    Information Services, Inc., a Washington corporation which is owned and controlled by the Robertson Family Trust, accrued
+    $2,500 per month for management services until January 31, 2016. Mr. Robertson was a trustee of the Robertson Family Trus t.   
+
+(4)   
+       Mr.
+    Paul Chute is also a director and received compensation in that capacity during the year ended April 30, 2018.     
+
+(5)   
+       Mrs.
+    Robertson was appointed as the CFO of the Company on November 11, 2014 and resigned on July 17, 2016.     
+
+(6)   
+       Ms.
+    Huang resigned as CFO on April 30, 2018.    
+
+(7)   
+       Mr.
+    Porter is also a director and received compensation in that capacity during the year ended April 30, 2018.    
+
+(8)   
+       The
+    valuation of the fair value of the options at the time of the grant is based on the Black Scholes model and includes the following
+    assumptions; weighted average risk free rate, weighted average expected life, expected volatility and dividend yield.    
+
+Narrative
+Discussion    
+
+The
+Company also does not have a pension plan or a long-term incentive plan  
+
+Employment
+Contracts and Termination of Employment    
+
+Mr.
+Michael Urso s employment agreement provides an annual salary of $125,000, Mr. Jeffrey White s employment agreement
+provides an annual salary of $120,000 and Mr Porter s employment agreement provide an annual salary of $125,000.  
+
+In
+Accordance with Mr. Paul Chute s management agreement with the Company, Mr. Chute received $10,000 per month from May 1,
+2017 to April 30, 2018.  
+
+In
+Accordance with Ms. Victoria Huang s management agreement with the Company, Ms. Huang received $8,000 per month from May
+1, 2017 to April 30, 2018.  
+
+Refer
+also to the  Compensation Discussion and Analysis  section above.  
+
+Outstanding
+Option-Based Awards     
+
+The
+grant of share and option-based awards to the senior executives is determined by the recommendation of executive officers to the
+board of directors pursuant to the terms of the stock option plan referred to below. Previous grants of option-based awards are
+taken into account when considering new grants.  
+
+The
+valuation of the fair value of the options at the time of the grant is based on the Black Scholes model and includes the following
+assumptions: weighted average risk free rate, weighted average expected life, expected volatility and dividend yield.  
+
+The
+following table sets out the option-based awards to NEO s that were outstanding as at April 30, 2018:  
+
+Pension
+Plan Benefits    
+
+As
+reported under the  Summary Compensation Table , the Company does not maintain a Pension Plan for its employees and therefore
+no benefits were received.  
+
+Termination
+of Employment or Change of Control    
+
+Other
+than as described in the  Narrative Discussion  section under the  Summary Compensation Table , the Company has no plans
+or arrangements with respect to remuneration received or that may be received by the Named Executive Officers during the Company s
+most recently completed financial year or current financial year in view of compensating such officers in the event of termination
+of employment (as a result of resignation, retirement, change of control, etc.) or a change in responsibilities following a change
+of control, where the value of such compensation exceeds $100,000 per executive officer.  
+
+DIRECTOR
+COMPENSATION    
+
+Director
+Compensation Table    
+
+The
+following table sets forth all compensation provided to the directors for the years ended April 30, 2018, 2017 and 2016..  
+
+The
+details of the Company s award plan for directors are provided below under  Outstanding Option-Based Awards, Share- Based
+Awards and Non-equity Incentive Plan Compensation.  The Company also does not have a pension plan or a non-equity incentive
+plan for its directors.  
+
+(1)   
+       Mr.
+    Urso is also the CEO of the Company and receives compensation in that capacity. See  Executive Compensation .    
+
+(2)   
+       Mr.
+    Porter is a NEO of the Company and received compensation in that capacity. See  Executive Compensation     
+
+(3)   
+       Mr.
+    Chute is a NEO of the Company and received compensation in that capacity. See  Executive Compensation .    
+
+(4)   
+        The
+        valuation of the fair value of the options at the time of the grant is based on the Black Scholes model and includes the
+        following assumptions; weighted average risk free rate, weighted average expected life, expected volatility and dividend
+        yield.   
+
+Narrative
+Description    
+
+Information
+with respect to grants of options to the directors is reported below under the  Narrative Description  in the section below
+entitled  Outstanding Option-Based Awards, Share-Based Awards and Non-equity Incentive Plan Compensation.   
+
+Other
+than as described above, no directors of the Company were compensated by the Company during the financial years ended April 30,
+2018 and 2017 for services as consultants or experts.  
+
+Option-Based
+Awards, Share-Based Awards and Non-equity Incentive Plan Compensation for Directors    
+
+As
+disclosed under the  Director Compensation Table,  a pension plan or a non-equity incentive plan for its directors.  
+
+Option-based
+awards to the directors are granted pursuant to the terms of the Company s stock option plan. The options are always granted
+at market price. The valuation of the fair value of the options at the time of the grant is based on the Black Scholes model and
+includes the following assumptions; weighted average risk free rate, weighted average expected life, expected volatility and dividend
+yield.  
+
+Directors
+generally receive a grant of stock options upon their appointment.  
+
+The
+following table shows at April 30, 2018 the options held by the directors and former directors, exclusive of directors who were
+NEO s and had their options reported previously, who served during the year ended April 30, 2018:  
+
+ITEM
+12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS   
+
+Securities
+Authorized for Issuance under Equity Compensation Plans   
+
+EQUITY
+COMPENSATION PLAN INFORMATION  
+
+The
+following table sets forth information about our common stock that may be issued upon the exercise of options, warrants and rights
+under all of our equity compensation plans as of April 30, 2018.  
+
+The
+Company had a Stock Option Plan to issue up to 2,500,000 shares to certain key directors and employees, approved April 30, 1993
+and amended December 5, 2000. On April 12, 2007 the Company approved the 2007 Stock Option Plan to issue up to 2,000,000 shares
+to certain key directors and employees. Pursuant to the Plans, the Company has granted stock options to certain directors, consultants
+and employees.  
+
+All
+options granted by the Company under the 2000 Plan have the following exercise schedule:  
+
+(i)  
+      Up
+    to 25% of the option may be exercised at any time during the term of the option, such initial exercise is referred to as the
+     First Exercise .   
+
+(ii)  
+      The
+    second 25% of the option may be exercised at any time after 90 days from the date of First Exercise, such second exercise
+    is referred to as the  Second Exercise .   
+
+(iii)  
+      The
+    third 25% of the option may be exercised at any time after 90 days from the date of Second Exercise, such third exercise is
+    referred to as the  Third Exercise    
+
+(iv)  
+      The
+    fourth and final 25% of the option may be exercised at any time after 90 days from the date of the Third Exercise.   
+
+(v)  
+      The
+    options expire sixty months from the date of grant.   
+
+All
+options granted by the Company under the 2007 Plan have the following exercise schedule:  
+
+(i)  
+      Up
+    to 25% of the option may be exercised 90 days after the grant of the option.   
+
+(ii)  
+      The
+    second 25% of the option may be exercised at any time after 1 year and 90 days after the grant of the option.   
+
+(iii)  
+      The
+    third 25% of the option may be exercised at any time after 2 years and 90 days after the grant of the option.   
+
+(iv)  
+      The
+    fourth and final 25% of the option may be exercised at any time after 3 years and 90 days after the grant of the option.   
+
+(v)  
+      The
+    options expire 60 months from the date of grant. On April 11 2018 255,000 the Board of Directors extended for 12 months the
+    expiration of 255,000 of the shares.   
+
+On
+August 12, 2016, the Company approved the 2016 Stock Option Plan to issue up to 5,000,000 shares to certain key directors and
+employees. Pursuant to the Plans, the Company has granted stock options to certain directors, consultants and employees. This
+Stock Option Plan was amended to issue up to 7,200,000 shares.  
+
+On
+March 1, 2018, the Board of Directors approved the 2018 Stock Option Plan to issue up to 1,400,000 shares to certain key directors
+and employees. Pursuant to the Plan, the Company has granted stock option or certain directors and key employees. This Stock Option
+Plan was amended to issue up to 1,900,000 shares.  
+
+All
+options granted by the Company under the 2016 and 2018 Plans vested immediately.  
+
+Security
+Ownership of Certain Beneficial Owners and Management   
+
+The
+following table sets forth, as of August 10, 2018, our outstanding common stock owned of record or beneficially by each person
+who owned of record, or was known by us to own beneficially, more than 5% of our common stock and the name and shareholdings of
+each Executive Officer and Director and all Executive Officers and Directors as a group. A person is deemed to be the beneficial
+owner of securities that can be acquired by such person within 60 days from the date of this report upon the exercise of warrants
+or options. Each beneficial owner s percentage ownership is determined by assuming that options that are held by such person
+and which are exercisable within 60 days from the date are exercised.  
+
+ITEM
+13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE   
+
+Transactions
+with related parties   
+
+On
+September 16, 2016, REGI entered into an asset purchase agreement (the  APA ) with Reg Tech, a public company whose
+common stock was listed on TSX Venture Exchange to purchase all of the assets of Reg Tech, a company with a common director and
+CEO with REGI. An aggregate of 51,757,119 unregistered common shares of our company were issued as consideration for the asset
+purchase. The transaction was closed on February 17, 2017 upon TSX Venture Exchange approval.  
+
+Upon
+closing of the asset purchase agreement, all assets of Reg Tech except GST receivable were transferred from Reg Tech to REGI.
+In addition, upon closing of the APA, all assets, liabilities, and equity instruments of REGI were incorporated into the surviving
+company. The net adjustment to additional paid in capital for the asset purchase was a decrease of $1,243,757. The net cash received
+from the reverse merger was $10,753.  
+
+Related
+Party Transactions for the Year Ended April 30, 2018    
+
+We
+entered into the following contracts with related parties. Related parties consist of companies controlled or significantly influenced
+by the Officers of the Company.  
+
+Related
+party transactions incurred during the normal course of the Company s operations and are measured at the exchange amount,
+which is the amount agreed between the related parties.  
+
+During
+the year ended April 30, 2018 changes to the amounts owed to/by related parties are as follows:  
+
+Related
+parties are the officers of the Company, companies with common directors or owners, and companies indirectly controlled by directors
+or officers of the Company. Amounts owed to directors or officers of the Company as of April 30, 2018 and 2017 are the result
+of consulting fees that are disclosed as director or executive compensation above, with the exception of the amount due to Paul
+Chute which represents out-of-pocket expenses that were not paid as of April 30, 2018.  
+
+We
+do not have written agreements relating to related party advances. The balances are non-interest bearing, unsecured and due on
+demand per verbal agreements with these related parties.  
+
+Director
+Independence    
+
+Our
+common stock is traded on the OTC Market. A director is not considered to be independent if he or she is also an executive officer
+or employee of the company. As of August 10, 2018, none of the members of our board of directors are independent.  
+
+ITEM
+14. PRINCIPAL ACCOUNTING FEES AND SERVICES.   
+
+The
+following table discloses accounting fees and services which we paid to our auditors Fruci   Associates II, PLLC, Certified
+Public Accountant during fiscal 2018 and MaloneBailey LLP, Certified Public Accountants during fiscal 2017:  
+
+In
+the table above, and the disclosure below,  audit fees  are fees billed by the Company s external auditors for
+services provided in auditing the Company s annual financial statements for the subject year.  Audit-related fees 
+are fees not included in audit fees that are billed by the auditor for assurance and related services that are reasonably related
+to the performance of the audit or review of the Company s financial statements.  Tax fees  are fees billed
+by the auditor for professional services rendered for tax compliance, tax advice and tax planning.  All other fees 
+are fees billed by the auditor for products and services not included in the foregoing categories.  
+
+Audit
+Fees    
+
+The
+aggregate fees billed by Fruci   Associates II, PLLC, Certified Public Accountants for professional services rendered for
+the audit of our annual financial statements and review of financial statements included in our Form 10-Qs or services that are
+normally provided by the accountant in connection with statutory and regulatory filings or engagements for the fiscal year ended
+April 30, 2018 were $17,514.  
+
+The
+aggregate fees billed by MaloneBailey LLP, Certified Public Accountants for professional services rendered for the audit of our
+annual financial statements and review of financial statements included in our Form 10-Qs or services that are normally provided
+by the accountant in connection with statutory and regulatory filings or engagements for the fiscal year ended April 30, 2017
+were $44,100.  
+
+All
+Other Fees    
+
+For
+the fiscal year ended April 30, 2018 Fruci   Associates II, PLLC, Certified Public Accountants billed $Nil for products and
+services other that the services set out above.  
+
+For
+the fiscal years ended April 30, 2017 and 2016, the aggregate fees billed by MaloneBailey LLP, Certified Public Accountants, as
+applicable, for products and services other than the services set out above, were $Nil and $Nil, respectively.  
+
+Pre-Approval
+Policies and Procedures    
+
+The
+Board of Directors pre-approves all engagements with the Company s auditors prior to performance of services by them.  
+
+PART
+IV   
+
+ITEM
+15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES.   
+
+SIGNATURES   
+
+In
+accordance with Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report or amendment
+to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+REGI
+U.S., INC.  
+
+By:
+      
+       /s/ Michael
+    Urso    
+
+Michael
+    Urso, Chief Executive Officer  
+
+Chief
+    Executive Officer and Director  
+
+Dated:
+August 13, 2018  
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1  
+
+Certification
+of Chief Executive Officer pursuant to   
+
+   Section
+302 of the Sarbanes-Oxley Act of 2002   
+
+I,
+Michael Urso, certify that:  
+
+1.  
+      I
+    have reviewed this annual report on Form 10-K for the fiscal year ended April 30, 2018 of REGI U.S., INC. (the  company );   
+
+2.  
+      Based
+    on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+    to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+    to the period covered by this report;   
+
+3.  
+      Based
+    on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+    material respects the financial condition, results of operations and cash flows of the company as of, and for, the periods
+    presented in this report;   
+
+4.  
+      The
+    company s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and
+    procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+    in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the company and have:   
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the company, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared;  
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)
+Evaluated the effectiveness of the company s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on
+such evaluation; and  
+
+(d)
+Disclosed in this report any change in the company s internal control over financial reporting that occurred during the
+company s most recent fiscal quarter (the company s fourth fiscal quarter in the case of an annual report) that
+has materially affected, or is reasonably likely to materially affect, the company s internal control over financial
+reporting; and  
+
+5.  
+      The
+    company s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+    over financial reporting, to the company s auditors and the audit committee of the company s board of directors
+    (or persons performing the equivalent functions):   
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the company s ability to record, process, summarize and report financial information;
+and  
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the
+company s internal control over financial reporting.  
+
+Date:
+    August 13, 2018  
+
+/s/
+     Michael Urso    
+
+Michael
+    Urso, Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+EXHIBIT
+31.2  
+
+Certification
+of Chief Financial Officer pursuant to   
+
+   Section
+302 of the Sarbanes-Oxley Act of 2002   
+
+I,
+Jeffrey White, certify that:  
+
+1.  
+      I
+    have reviewed this annual report on Form 10-K for the fiscal year ended April 30, 2018 of REGI U.S., INC. (the  company );   
+
+2.  
+      Based
+    on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+    to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+    to the period covered by this report;   
+
+3.  
+      Based
+    on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+    material respects the financial condition, results of operations and cash flows of the company as of, and for, the periods
+    presented in this report;   
+
+4.  
+      The
+    company s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and
+    procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined
+    in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the company and have:   
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the company, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared;  
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)
+Evaluated the effectiveness of the company s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on
+such evaluation; and  
+
+(d)
+Disclosed in this report any change in the company s internal control over financial reporting that occurred during the
+company s most recent fiscal quarter (the company s fourth fiscal quarter in the case of an annual report) that has
+materially affected, or is reasonably likely to materially affect, the company s internal control over financial reporting;
+and  
+
+5.  
+      The
+    company s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+    over financial reporting, to the company s auditors and the audit committee of the company s board of directors
+    (or persons performing the equivalent functions):   
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the company s ability to record, process, summarize and report financial information;
+and  
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the company s
+internal control over financial reporting.  
+
+Date:
+    August 13, 2018  
+
+/s/
+     Jeffrey White    
+
+Jeffrey
+    White, Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+EXHIBIT
+32.1  
+
+Certification
+of Chief Executive Officer pursuant to   
+
+   Title
+18, United States Code, Section 1350, as adopted pursuant to   
+
+   Section
+906 of the Sarbanes-Oxley Act of 2002   
+
+I,
+Michael Urso, Chief Executive Officer of REGI U.S., Inc., certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+18 U.S.C. Section 1350, that, to the best of my knowledge:  
+
+1.
+The Annual Report on Form 10-K of REGI U.S., Inc., for the year ended April 30, 2018 (the  Report ) fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+
+2.
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of REGI U.S., Inc.  
+
+by:
+      
+       /s/
+     Michael Urso     
+
+Michael
+    Urso   
+
+Chief
+    Executive Officer   
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+EXHIBIT
+32.2  
+
+Certification
+of Chief Financial Officer pursuant to   
+
+   Title
+18, United States Code, Section 1350, as adopted pursuant to   
+
+   Section
+906 of the Sarbanes-Oxley Act of 2002   
+
+I,
+Jeffrey White, Chief Financial Officer of REGI U.S., Inc., certify, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+18 U.S.C. Section 1350, that, to the best of my knowledge:  
+
+1.
+The Annual Report on Form 10-K of REGI U.S., Inc., for the year ended April 30, 2018 (the  Report ) fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+
+2.
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of REGI U.S., Inc.  
+
+by:
+      
+       /s/
+     Jeffrey White     
+
+Jeffrey
+    White   
+
+Chief
+    Financial Officer   
+
+</EX-32.2>
+
+<EX-101.INS>
+ 7
+ rgus-20180430.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 8
+ rgus-20180430.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ rgus-20180430_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ rgus-20180430_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ rgus-20180430_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ rgus-20180430_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

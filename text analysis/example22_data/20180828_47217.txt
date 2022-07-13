@@ -1,0 +1,1573 @@
+to rapidly review the document 
+   Table of Contents  
+   Part I. Financial Information  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  ________________________________ 
+  FORM 10-Q 
+
+_________________________________________ 
+  HP INC. 
+  (Exact name of registrant as specified in its charter) 
+
+________________________________________ 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (the  Exchange Act ) during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes       No   o 
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes       No   o 
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act. 
+                               Large accelerated filer     
+      
+    Accelerated filer   o 
+      
+    Non-accelerated filer   o 
+  (Do not check if a smaller reporting company) 
+      
+    Smaller reporting company     o 
+      
+    Emerging growth company     o 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    o 
+  Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act). Yes   o   No     
+  The number of shares of HP common stock outstanding as of July 31, 2018 was 1,582,408,508 shares.                    
+
+HP INC. AND SUBSIDIARIES 
+  Form 10-Q 
+  For the Quarterly Period ended   July 31, 2018    
+  Table of Contents 
+
+Page 
+       Forward-Looking Statements  
+    3 
+       Part I.    Financial Information  
+      
+       Item 1.  
+     Financial Statements and Supplementary Data  
+    4 
+       Item 2.  
+     Management's Discussion and Analysis of Financial Condition and Results of Operations  
+    43 
+       Item 3.  
+     Quantitative and Qualitative Disclosures About Market Risk  
+    54 
+       Item 4.  
+     Controls and Procedures  
+    54 
+       Part II.    Other Information  
+      
+       Item 1.  
+     Legal Proceedings  
+    55 
+       Item 1A.  
+     Risk Factors  
+    55 
+       Item 2.  
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    55 
+       Item 3.  
+     Defaults Upon Senior Securities  
+    56 
+       Item 4.  
+     Mine Safety Disclosures  
+    56 
+       Item 5.  
+     Other Information  
+    56 
+       Item 6.  
+     Exhibits     
+    56 
+        
+       Signature  
+      
+    57 
+       Exhibit Index  
+      
+    58 
+
+In this report on Form 10-Q, for all periods presented,  we ,  us ,  our ,  company ,  HP  and  HP Inc.  refer to HP Inc. (formerly Hewlett-Packard Company) and its consolidated subsidiaries. 
+
+2 
+
+Table of Contents   
+
+Forward-Looking Statements 
+  This Quarterly Report on Form 10-Q, including  Management s Discussion and Analysis of Financial Condition and Results of Operations  in Item 2 of Part I, contains forward-looking statements that involve risks, uncertainties and assumptions. If the risks or uncertainties ever materialize or the assumptions prove incorrect, the results of HP Inc. and its consolidated subsidiaries ( HP ) may differ materially from those expressed or implied by such forward-looking statements and assumptions. All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including, but not limited to, any projections of net revenue, margins, expenses, effective tax rates, net earnings, net earnings per share, cash flows, benefit plan funding, deferred taxes, share repurchases, foreign currency exchange rates or other financial items; any projections of the amount, timing or impact of cost savings or restructuring and other charges; any statements of the plans, strategies and objectives of management for future operations, including, but not limited to, our sustainability goals, the execution of restructuring plans and any resulting cost savings, net revenue or profitability improvements; any statements concerning the expected development, performance, market share or competitive performance relating to products or services; any statements regarding current or future macroeconomic trends or events and the impact of those trends and events on HP and its financial performance; any statements regarding pending investigations, claims or disputes; any statements of expectation or belief, including with respect to the timing and expected benefits of acquisitions and other business combination and investment transactions; and any statements of assumptions underlying any of the foregoing. Risks, uncertainties and assumptions include the need to address the many challenges facing HP s businesses; the competitive pressures faced by HP s businesses; risks associated with executing HP s strategy; the impact of macroeconomic and geopolitical trends and events; the need to manage third-party suppliers and the distribution of HP s products and the delivery of HP s services effectively; the protection of HP s intellectual property assets, including intellectual property licensed from third parties; risks associated with HP s international operations; the development and transition of new products and services and the enhancement of existing products and services to meet customer needs and respond to emerging technological trends; the execution and performance of contracts by HP and its suppliers, customers, clients and partners; the hiring and retention of key employees; integration and other risks associated with business combination and investment transactions; the results of the restructuring plans, including estimates and assumptions related to the cost (including any possible disruption of HP s business) and the anticipated benefits of the restructuring plans; the impact of changes in tax laws, including uncertainties related to the interpretation and application of the Tax Cuts and Jobs Act of 2017 on HP s tax obligations and effective tax rate; the resolution of pending investigations, claims and disputes; and other risks that are described herein, including, but not limited to, those discussed in this Quarterly Report on Form 10-Q, and in particular, the risks discussed in Part I, Item 1A  Risk Factors  in our Annual Report on Form 10-K for the fiscal year ended October 31, 2017, and that are otherwise described or updated from time to time in HP s other filings with the Securities and Exchange Commission (the  SEC ). HP assumes no obligation and does not intend to update these forward-looking statements. 
+
+3 
+
+Table of Contents   
+
+Part I. Financial Information 
+
+ITEM 1. Financial Statements and Supplementary Data. 
+  Index 
+
+4 
+
+Table of Contents   
+
+HP INC. AND SUBSIDIARIES 
+  Consolidated Condensed Statements of Earnings 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+
+5 
+
+Table of Contents   
+
+HP INC. AND SUBSIDIARIES 
+  Consolidated Condensed Statements of Comprehensive Income 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+  
+   6 
+
+Table of Contents   
+
+HP INC. AND SUBSIDIARIES 
+  Consolidated Condensed Balance Sheets 
+  (Unaudited) 
+
+The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+  
+   7 
+
+Table of Contents   
+
+HP INC. AND SUBSIDIARIES 
+  Consolidated Condensed Statements of Cash Flows 
+  (Unaudited) 
+   
+ The accompanying notes are an integral part of these Consolidated Condensed Financial Statements. 
+  
+   8 
+
+Table of Contents   
+
+HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements 
+  (Unaudited) 
+   
+  Note 1: Basis of Presentati  on 
+  Separation Transaction 
+  On November 1, 2015, Hewlett-Packard Company completed the separation of Hewlett Packard Enterprise Company ( Hewlett Packard Enterprise ), Hewlett-Packard Company s former enterprise technology infrastructure, software, services and financing businesses (the  Separation ). In connection with the Separation, Hewlett-Packard Company changed its name to HP Inc. ( HP ) and entered into a separation and distribution agreement as well as various other agreements with Hewlett Packard Enterprise that provide a framework for the relationships between the parties, including among others a tax matters agreement, an employee matters agreement, a transition service agreement, a real estate matters agreement, a master commercial agreement and an information technology service agreement. For more information on the impacts of these agreements, see Note 7,  Supplementary Financial Information , Note 13,  Litigation and Contingencies  and Note 14,  Guarantees, Indemnifications and Warranties . 
+  Basis of Presentation 
+  The accompanying Consolidated Condensed Financial Statements of HP and its wholly-owned subsidiaries are prepared in conformity with United States ( U.S. ) generally accepted accounting principles ( GAAP ). The interim financial information is unaudited but reflects all normal adjustments that are necessary to provide a fair statement of results for the interim periods presented. This interim information should be read in conjunction with the Consolidated Condensed Financial Statements for the fiscal year ended October 31,   2017   in the Annual Report on Form 10-K, filed on December 14,   2017  . The Consolidated Condensed Balance Sheet for October 31,   2017   was derived from audited financial statements. 
+  Principles of Consolidation 
+  The Consolidated Condensed Financial Statements include the accounts of HP and its subsidiaries and affiliates in which HP has a controlling financial interest or is the primary beneficiary. All intercompany balances and transactions have been eliminated. 
+  Reclassifications 
+  HP implemented an organizational change to align its segment and business unit financial reporting more closely with its current business structure. HP reflected this change to its segment and business unit information in prior reporting periods on an as-if basis. The reporting changes had no impact on previously reported consolidated net revenue, earnings from operations, net earnings or net earnings per share ( EPS ). See Note 2,  Segment Information , for a further discussion of HP s segment and business unit realignments. 
+  Use of Estimates 
+  The preparation of financial statements in accordance with U.S. GAAP requires management to make estimates and assumptions that affect the amounts reported in HP s Consolidated Condensed Financial Statements and accompanying notes. Actual results could differ materially from those estimates.  
+  Recently Issued Accounting Pronouncements Not Yet Adopted 
+  In February 2018, the Financial Accounting Standards Board ( FASB ) issued guidance, which eliminates the stranded tax effects in other comprehensive income resulting from the Tax Cuts and Jobs Act (the  TCJA ). Because the amendments only relate to the reclassification of the income tax effects of the TCJA, the underlying guidance that requires that the effect of a change in tax laws or rates be included in income from continuing operations is not affected. HP is required to adopt the guidance in the first quarter of fiscal year 2020. Earlier adoption is permitted. HP is currently evaluating the timing and the impact of this guidance on the Consolidated Condensed Financial Statements. 
+  In August 2017, the FASB issued guidance, which amends the existing accounting standards for derivatives and hedging. The amendment improves the financial reporting of hedging relationships to better represent the economic results of an entity s risk management activities in its financial statements and made certain targeted improvements to simplify the application of the hedge accounting guidance in current U.S. GAAP. HP is required to adopt the guidance in the first quarter of fiscal year 2020. Earlier adoption is permitted. HP is currently evaluating the timing and impact of this guidance on the Consolidated Condensed Financial Statements. 
+  In January 2017, the FASB issued guidance, which amends the existing accounting standards for business combinations. The amendments clarify the definition of a business with the objective of adding guidance to assist entities with evaluating whether transactions should be accounted for as acquisitions (or disposals) of assets or businesses. HP is required to adopt the guidance in the first quarter of fiscal year 2019. Earlier adoption is permitted. HP currently expects to early adopt this guidance in the fourth quarter of fiscal year 2018.  HP expects that the implementation of this guidance will not have a material impact on its Consolidated Condensed Financial Statements. 
+  
+   9 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 1: Basis of Presentation (Continued) 
+
+In November 2016, the FASB issued guidance, which addresses the presentation of restricted cash in the statement of cash flows. The guidance requires entities to present the changes in the total of cash, cash equivalents, restricted cash, and restricted cash equivalents in the statement of cash flows. As a result, entities will no longer present transfers between cash and cash equivalents and restricted cash and restricted cash equivalents in the statement of cash flows. HP is required to adopt the guidance retrospectively in the first quarter of fiscal year 2019. Earlier adoption is permitted. HP will adopt this guidance in the first quarter of fiscal year 2019. HP expects that the implementation of this guidance will not have a material impact on its Consolidated Condensed Financial Statements. 
+  In October 2016, the FASB issued guidance, which amends the existing accounting for Intra-Entity Transfers of Assets Other Than Inventory. The guidance requires an entity to recognize the income tax consequences of intra-entity transfers, other than inventory, when the transfer occurs. It also requires modified retrospective transition with a cumulative catch-up adjustment to opening retained earnings in the period of adoption. HP is required to adopt the guidance in the first quarter of fiscal year 2019. Earlier adoption is permitted. HP will adopt this guidance in the first quarter of fiscal year 2019. HP expects that the implementation of this guidance will not have a material impact on its Consolidated Condensed Financial Statements. 
+  In August 2016, the FASB issued guidance, which amends the existing accounting standards for the classification of certain cash receipts and cash payments on the statement of cash flows. HP is required to adopt the guidance in the first quarter of fiscal year 2019. Earlier adoption is permitted. HP will adopt this guidance in the first quarter of fiscal year 2019.  HP expects that the implementation of this guidance will not have a material impact on its Consolidated Condensed Financial Statements.       
+  In June 2016, the FASB issued guidance, which requires credit losses on financial assets measured at amortized cost basis to be presented at the net amount expected to be collected, not based on incurred losses. Further, credit losses on available-for-sale debt securities should be recorded through an allowance for credit losses limited to the amount by which fair value is below amortized cost. HP is required to adopt the guidance in the first quarter of fiscal year 2021. Earlier adoption is permitted. HP is currently evaluating the timing and the impact of this guidance on the Consolidated Condensed Financial Statements. 
+  In February 2016, the FASB issued guidance, which amends the existing accounting standards for leases. Consistent with current guidance, the recognition, measurement, and presentation of expenses and cash flows arising from a lease by a lessee primarily will depend on its classification. Under the new guidance, a lessee will be required to recognize assets and liabilities for all leases with lease terms of more than twelve months. HP will adopt the new lease standard in the first quarter of fiscal year 2020 using a modified retrospective approach. HP is currently evaluating the impact of this guidance on the Consolidated Condensed Financial Statements.  
+  In January 2016, the FASB issued guidance, which amends the existing accounting standards for the recognition and measurement of financial assets and financial liabilities. The guidance primarily addresses certain aspects of recognition, measurement, presentation, and disclosure of financial instruments. HP is required to adopt the guidance in the first quarter of fiscal year 2019. The amendments should be applied by means of a cumulative-effect adjustment to the balance sheet as of the beginning of the fiscal year of adoption, with other amendments related specifically to equity securities without readily determinable fair values applied prospectively. Earlier adoption is permitted. HP will adopt this guidance in the first quarter of fiscal year 2019.  HP expects that the implementation of this guidance will not have a material impact on its Consolidated Condensed Financial Statements. 
+  In May 2014, the FASB issued guidance, which amends the existing accounting standards for revenue recognition. The amendments (Topic 606) are based on the principle that revenue should be recognized to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The amendments may be applied retrospectively to each prior period presented ( full retrospective method ) or retrospectively with the cumulative effect recognized as of the date of initial application ( modified retrospective method ). HP will adopt the new revenue standard in the first quarter of fiscal year 2019 and intends to apply the modified retrospective method. Based on the assessment, it is not anticipated that the adoption will have a material impact on the amount or timing of revenue recognized in the Consolidated Condensed Financial Statements. We continue to make progress on assessing the overall impact of adoption of the standard on our business processes, systems and controls. 
+  
+   10 
+
+Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+
+Note 2. Segment Information  
+  HP is a leading global provider of personal computing and other access devices, imaging and printing products, and related technologies, solutions and services. HP sells to individual consumers, small and medium-sized businesses ( SMBs ) and large enterprises, including customers in the government, health and education sectors. 
+  HP s operations are organized into   three   segments for financial reporting purposes: Personal Systems, Printing and Corporate Investments. HP s organizational structure is based on a number of factors that the chief operating decision maker uses to evaluate, view and run its business operations, which include, but are not limited to, customer base and homogeneity of products and technology. The segments are based on this organizational structure and information reviewed by HP s chief operating decision maker to evaluate segment results. The chief operating decision maker uses several metrics to evaluate the performance of the overall business, including earnings from operations, and uses these results to allocate resources to each of the segments. 
+  A summary description of each segment is as follows: 
+  Personal Systems   provides Commercial and Consumer desktop and notebook personal computers ( PCs ), workstations, thin clients, Commercial mobility devices, retail point-of-sale systems, displays and other related accessories, software, support and services for the commercial and consumer markets. HP groups Commercial notebooks, Commercial desktops, Commercial services, Commercial mobility devices, Commercial detachables and convertibles, Workstations, retail point-of-sale systems and thin clients into Commercial PCs and Consumer notebooks, Consumer desktops, Consumer services and Consumer detachables into Consumer PCs when describing performance in these markets. Described below are HP s global business capabilities within Personal Systems: 
+             
+    Commercial PCs   are optimized for use by customers, including enterprise and SMBs, with a focus on robust designs, security, serviceability, connectivity, reliability and manageability in networked environments. Additionally, HP offers a range of services and solutions to enterprise and SMBs to help them manage the lifecycle of their PC and mobility installed base. 
+                
+    Consumer PCs   are optimized for consumer usage, focusing on multi-media consumption, online browsing, gaming and light productivity. 
+     Personal Systems groups its global business capabilities into Notebooks, Desktops, Workstations and Other when reporting business performance. 
+             
+    Notebooks   consists of Consumer notebooks, Commercial notebooks, Mobile workstations and Commercial mobility devices; 
+                
+    Desktops   includes Consumer desktops, Commercial desktops, thin clients, and retail point-of-sale systems; 
+                
+    Workstations   consists of Desktop Workstations and accessories; and 
+                
+    Other   consists of Consumer and Commercial services as well as other Personal Systems capabilities. 
+     Printing   provides Consumer and Commercial printer hardware, Supplies, solutions and services, as well as scanning devices. Printing is also focused on imaging solutions in the commercial and industrial markets. Described below are HP s global business capabilities within Printing: 
+             
+    Office Printing Solutions   delivers HP s office printers, supplies, services, and solutions to SMBs and large enterprises. It also includes Samsung Electronics Co., Ltd ( Samsung )-branded and Original Equipment Manufacturer ( OEM ) hardware, supplies and solutions. HP goes to market through its extensive channel network and directly with HP sales. Ongoing key initiatives include design and deployment of A3 products and solutions for the copier and multifunction printer market, printer security solutions, PageWide solutions and award-winning JetIntelligence LaserJet products. 
+                
+    Home Printing Solution  s delivers innovative printing products and solutions for the home and home business or small and micro business customers utilizing both HP s Ink and Laser technologies. Initiatives such as Instant Ink and Continuous Ink Supply System provide business model innovation to benefit and expand HP s existing customer base, while new technologies like Photo Lifestyle products drive print relevance for a mobile generation. 
+                
+    Graphics Solutions   delivers     large-format, commercial and industrial solutions to print service providers and packaging converters through the largest portfolio of printers and presses (HP DesignJet, HP Latex, HP Scitex, HP Indigo and HP PageWide Web Presses). 
+                
+    3D Printing   delivers HP s Multi-Jet Fusion 3D Printing Solution designed for prototyping and production of functional parts and functioning on an open platform facilitating the development of new 3D printing materials. 
+     Printing groups its global business capabilities into the following business units when reporting business performance: 
+  
+   11 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 2: Segment Information (Continued) 
+
+Commercial Hardware   consists of Office Printing Solutions, Graphics Solutions and 3D Printing, excluding supplies; 
+                
+    Consumer Hardware   includes Home Printing Solutions, excluding supplies; and 
+                
+    Supplies   comprises a set of highly innovative consumable products, ranging from Ink and Laser cartridges to media, graphics supplies, 3D Printing supplies and Samsung-branded A4 and A3 supplies and OEM supplies, for recurring use in Consumer and Commercial Hardware. 
+     Corporate Investments   includes HP Labs and certain business incubation projects. 
+  The accounting policies HP uses to derive segment results are substantially the same as those used in preparing these financial statements. HP derives the results of the business segments directly from its internal management reporting system. 
+  HP does not allocate certain operating expenses, which it manages at the corporate level, to its segments. These unallocated amounts include certain corporate governance costs and market-related retirement credits, stock-based compensation expense, restructuring and other charges, acquisition-related charges, amortization of intangible assets, defined benefit plan settlement charges. 
+  Realignment 
+  Effective at the beginning of its first quarter of fiscal year 2018, HP implemented an organizational change to align its segment and business unit financial reporting more closely with its current business structure. The organizational change resulted in the transfer of long life consumables from Commercial to Supplies within the Printing segment. Certain revenues related to service arrangements, which are being eliminated for the purposes of reporting HP s consolidated net revenue, have now been reclassified from Other to segments. HP has reflected this change to its segment and business unit information in prior reporting periods on an as-if basis. The reporting change had no impact on previously reported consolidated net revenue, earnings from operations, net earnings or net earnings per share. 
+  Segment Operating Results from Operations 
+
+The reconciliation of segment operating results to HP consolidated results was as follows: 
+  
+   12 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 2: Segment Information (Continued) 
+
+Net revenue by segment and business unit was as follows: 
+
+Note 3: Restructuring and Other Charges 
+  Summary of Restructuring Plans 
+  HP s restructuring activities for the nine months ended July 31, 2018 and 2017 summarized by the plans outlined below were as follows: 
+  
+   13 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 3: Restructuring and Other Charges (Continued) 
+
+HP s restructuring charges for the three months ended July 31, 2018 summarized by the plans outlined below were as follows: 
+
+(1)   
+    Infrastructure and other includes adjustment of carrying amount of held for sale assets of   $52 million   for the nine months ended July 31, 2017 and reversal of adjustments of   $29 million   for the three and nine months ended July 31, 2018 associated with the consolidation of manufacturing into global hubs. 
+               (2)   
+    PRP represents Phased Retirement Program. 
+               (3)   
+    EER represents Enhanced Early Retirement. 
+     Fiscal 2017 Plan 
+  On October 10, 2016, HP s Board of Directors approved a restructuring plan (the  Fiscal 2017 Plan ), which HP expected would be implemented through fiscal year 2019. 
+  On May 26, 2018, HP s Board of Directors approved amending the Fiscal 2017 Plan. HP now expects approximately   4,500   to   5,000   employees to exit by the end of fiscal year 2019, subject to certain jurisdictional labor law requirements. HP estimates that it will now incur aggregate pre-tax charges of approximately   $700 million   relating to labor and non-labor actions. HP estimates that approximately half of the expected cumulative pre-tax costs will relate to severance and the remaining costs will relate to infrastructure, non-labor actions and other charges. 
+  Fiscal 2015 Plan 
+  In connection with the Separation, on September 14, 2015, HP s Board of Directors approved a cost savings plan (the  Fiscal 2015 Plan ), which includes labor and non-labor actions. The Fiscal 2015 Plan was considered substantially complete as of October 31, 2016 and HP does not expect any further activity associated with this plan.  
+  Fiscal 2012 Plan    
+  
+   14 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 3: Restructuring and Other Charges (Continued) 
+
+HP initiated a restructuring plan in fiscal year 2012 (the  Fiscal 2012 Plan ), which includes severance and infrastructure costs. The Fiscal 2012 Plan was considered substantially complete as of October 31, 2016 and HP does not expect any further activity associated with this plan. 
+  Other Charges 
+  Other charges include non-recurring costs, including those as a result of Separation, and are distinct from ongoing operational costs. These costs primarily relate to information technology costs such as advisory, consulting and non-recurring labor costs. For the three and nine months ended   July 31, 2018  , HP incurred   $12 million   and   $36 million   of other charges, respectively. For the three and nine months ended   July 31, 2017  , HP incurred   $25 million   and   $78 million   of other charges, respectively. 
+
+Note 4: Retirement and Post-Retirement Benefit Plans  
+  The components of HP s pension and post-retirement (credit) benefit cost recognized in the Consolidated Condensed Statements of Earnings were as follows: 
+
+Employer Contributions and Funding Policy 
+  HP s policy is to fund its pension plans so that it makes at least the minimum contribution required by local government, funding and taxing authorities. 
+  
+   15 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 4: Retirement and Post-Retirement Benefit Plans (Continued) 
+
+During fiscal year   2018  , HP anticipates making contributions of approximately   $33 million   to its non-U.S. pension plans, approximately   $33 million   to its U.S. non-qualified plan participants and approximately   $7 million   to cover benefit claims under HP s post-retirement benefit plans. During the   nine months ended     July 31, 2018  , HP contributed   $21 million   to its non-U.S. pension plans, paid   $25 million   to cover benefit payments to U.S. non-qualified plan participants and paid   $3 million     to cover benefit claims under HP s post-retirement benefit plans.  
+  HP s pension and other post-retirement benefit costs and obligations depend on various assumptions. Differences between expected and actual returns on investments and changes in discount rates and other actuarial assumptions are reflected as unrecognized gains or losses, and such gains or losses are amortized to earnings in future periods. A deterioration in the funded status of a plan could result in a need for additional company contributions or an increase in net pension and post-retirement benefit costs in future periods. Actuarial gains or losses are determined at the measurement date and amortized over the remaining service life for active plans or the life expectancy of plan participants for frozen plans. 
+
+Note 5: Stock-Based Compensation 
+  HP s stock-based compensation plans permit the issuance of restricted stock awards, stock options and performance-based awards. 
+  Stock-based compensation expense and the resulting tax benefits were as follows: 
+
+Restricted Stock Awards 
+  Restricted stock awards are non-vested stock awards that may include grants of restricted stock or restricted stock units. For the   three and nine   months ended   July 31, 2018   and   2017  , HP granted only restricted stock units. HP uses the closing stock price on the grant date to estimate the fair value of service-based restricted stock units. HP did not grant any restricted stock units subject to performance-adjusted vesting conditions for the three months ended July 31, 2017. HP estimates the fair value of restricted stock units subject to performance-adjusted vesting conditions using a combination of the closing stock price on the grant date and a Monte Carlo simulation model. The weighted-average fair value and the assumptions used to measure the fair value of restricted stock units subject to performance-adjusted vesting conditions in the Monte Carlo simulation model were as follows: 
+
+(1)   
+    The weighted-average grant date fair value was based on performance-adjusted restricted stock units granted during the period. 
+               (2)   
+    The expected volatility was estimated using the historical volatility derived from HP s common stock. 
+               (3)   
+    The risk-free interest rate was estimated based on the yield on U.S. Treasury zero-coupon issues. 
+               (4)   
+    The expected performance period was estimated based on the length of the remaining performance period from the grant date. 
+     
+   16 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 5: Stock-Based Compensation (Continued) 
+
+A summary of restricted stock unit activity was as follows: 
+
+As of   July 31, 2018  , there was   $258 million   of unrecognized pre-tax stock-based compensation expense related to non-vested restricted stock units, which HP expects to recognize over the remaining weighted-average vesting period of   1.4   years. 
+  Stock Options 
+  HP utilizes the Black-Scholes-Merton option pricing model to estimate the fair value of stock options subject to service-based vesting conditions. HP estimates the fair value of stock options subject to performance-contingent vesting conditions using a combination of a Monte Carlo simulation model and a lattice model, as these awards contain market conditions. HP did not grant any stock options for the three months ended July 31, 2018. The weighted-average fair value and the assumptions used to measure the fair value of stock options for the three and nine months ended July 31, 2018 and 2017 were as follows:    
+
+            (1)   
+    The weighted-average grant date fair value was based on stock options granted during the period. 
+               (2)   
+    The expected volatility was estimated based on a blended volatility (  50%   historical volatility and   50%   implied volatility from traded options on HP's common stock). 
+               (3)   
+    The risk-free interest rate was estimated based on the yield on U.S. Treasury zero-coupon issues. 
+               (4)   
+    The expected dividend yield represents a constant dividend yield applied for the duration of the expected term of the award. 
+               (5)   
+    Due to the lack of historical exercise and post-vesting termination patterns of the post-Separation employee base, the expected term was estimated using the simplified method; and for the performance-contingent awards, the expected term represents an output from the lattice model. 
+     
+   17 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 5: Stock-Based Compensation (Continued) 
+
+A summary of stock option activity was as follows: 
+
+The aggregate intrinsic value in the table above represents the total pre-tax intrinsic value that option holders would have realized had all option holders exercised their options on the last trading day of the   third   quarter of fiscal year   2018  . The aggregate intrinsic value is the difference between HP s closing stock price on the last trading day of the   third   quarter of fiscal year   2018   and the exercise price, multiplied by the number of in-the-money options. The total intrinsic value of options exercised for the   three and nine   months ended   July 31, 2018   was   $16 million   and   $86 million  ,   respectively. 
+  As of   July 31, 2018  , there was   $1 million   of unrecognized pre-tax, stock-based compensation expense related to unvested stock options, which HP expects to recognize over the remaining weighted-average vesting period of   0.3   years. 
+  In January 2018, the Board approved an amendment and restatement of HP s 2004 Stock Incentive Plan, which included retiring   80 million   shares from the plan s share reserves. 
+
+Note 6: Taxes on Earnings 
+  Provision for Taxes 
+  On December 22, 2017, the TCJA was signed by the President of the United States and enacted into law. The law includes significant changes to the U.S. corporate income tax system, including a federal corporate rate reduction from   35%   to   21%  , limitations on the deductibility of interest expense and executive compensation, and the transition of U.S. international taxation from a worldwide tax system to a territorial tax system. ASC 740, Accounting for Income Taxes, requires companies to recognize the effect of tax law changes in the period of enactment even though the effective date for most provisions is for tax years beginning after December 31, 2017 (the  Effective Date ), or in the case of certain other provisions,   January 1, 2018  . 
+  When a U.S. federal tax rate change occurs during a fiscal year, taxpayers are required to compute a weighted daily average rate for the fiscal year of enactment. As a result of the TCJA, HP has calculated a blended U.S. federal statutory corporate income tax rate of   23%   for the fiscal year ending October 31, 2018 and applied this rate in computing the first, second and third quarters  income tax provision for fiscal year   2018  . The blended U.S. federal statutory corporate income tax rate of   23%   is the weighted daily average rate between the pre-enactment U.S. federal statutory tax rate of   35%   applicable to HP s 2018 fiscal year prior to the Effective Date and the post-enactment U.S. federal statutory tax rate of   21%   applicable to the 2018 fiscal year thereafter. HP expects the U.S. federal statutory rate to be   21%   for fiscal years beginning after October 31, 2018. 
+  Given the significance of the legislation, the SEC staff issued Staff Accounting Bulletin No. 118 (SAB 118), which allows registrants to record provisional amounts during a one year  measurement period . During the measurement period, impacts of the TCJA are expected to be recorded at the time a reasonable estimate for all or a portion of the effects can be made, and provisional amounts can be recognized and adjusted as information becomes available, prepared or analyzed. 
+  SAB 118 summarizes a three-step process to be applied at each reporting period to account for and qualitatively disclose: (1) the effects of the change in tax law for which accounting is complete; (2) provisional amounts (or adjustments to provisional amounts) for the effects of the tax law where accounting is not complete, but that a reasonable estimate has been determined; and (3) a reasonable estimate cannot yet be made and therefore taxes are reflected in accordance with law prior to the enactment of the TCJA. 
+  
+   18 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 6: Taxes on Earnings (Continued) 
+
+As of   July 31, 2018  , HP has not completed its accounting for the tax effects of the TCJA, however, in certain cases HP has made a reasonable estimate of the effects for remeasurement on its existing deferred tax balances and the one-time transition tax. With respect to the Global Intangible Low Taxed Income ( Global Minimum Tax ) provisions, further discussed below, HP has not been able to make a reasonable estimate and continues to account for this item based on its existing accounting under ASC 740, Income Taxes, and the provisions of the tax laws that were in effect immediately prior to enactment. The impact of the TCJA may differ materially from this estimate due to changes in interpretations and assumptions HP has made, additional guidance that may be issued and actions HP may take as a result of the TCJA. The impacts of HP's estimates are described further below. 
+  While HP has not yet completed its analysis to the impact on its deferred tax balances, in the first quarter of fiscal year 2018 HP recorded provisional income tax expense of   $1.2 billion   related to the remeasurement of its deferred tax assets and liabilities at the new statutory rate. In addition, in the second quarter of fiscal year 2018, due to additional information and a subsequent refinement of its analysis HP recorded provisional tax expense of   $379 million   related to remeasurement of its U.S. deferred tax assets that are expected to be realized at a lower rate by recording a valuation allowance. HP is still analyzing certain aspects of the TCJA and refining its calculations, which could potentially affect the measurement of these balances or potentially give rise to new deferred tax amounts. 
+  The TCJA also includes a one-time mandatory deemed repatriation transition tax on the net accumulated post-1986 earnings and profits ( E P ) of a U.S. taxpayer s foreign subsidiaries. HP has computed a provisional deemed repatriation tax of approximately   $3.1 billion  , of which more than half is expected to be offset with existing and future tax attributes, reducing HP s cash outlay. The U.S. Treasury Department recently issued proposed regulations related to this one-time mandatory deemed repatriation. While HP has not yet completed its analysis of these proposed regulations, it believes there will be no material changes to its provisional amount reported earlier in the year. Once the regulations are in effect or HP completes its evaluation of the potential impact of the proposed regulations, HP may update its provisional amount accordingly within the measurement period. Companies may elect to pay this tax over 8 years, and HP intends to make this election. HP has not yet completed its calculation of the total post-1986 E P for its foreign subsidiaries. Further, the transition tax is based, in part, on the amount of those earnings held in cash and other specified assets. This amount may change when HP finalizes the calculation of post-1986 E P previously deferred from U.S. federal taxation and finalizes the amounts held in cash or other specified assets. No additional income taxes have been provided for any remaining undistributed foreign earnings not subject to the transition tax, or any additional outside basis difference inherent in these entities, as these amounts continue to be indefinitely reinvested in foreign operations. 
+  As a result of the deemed repatriation tax noted above, which is based on HP s total post-1986 deferred foreign income, HP redetermined   $5.5 billion   of its U.S. deferred tax liability on those unremitted earnings with a provisional tax payable of   $3.1 billion  , as noted above. This resulted in a net benefit. This tax benefit is provisional as HP is still analyzing certain aspects of the legislation and refining calculations, which could potentially materially affect the measurement of these amounts. 
+  Upon further analysis of certain aspects of the TCJA and refinement of the calculations during the three months ended   July 31, 2018  , HP has made certain immaterial adjustments to its provisional estimate due to additional tax charges resulting from state legislation updates. During the nine months ended   July 31, 2018  , HP remeasured its deferred taxes to reflect the reduced rate that will likely apply when these deferred taxes are settled or realized in future periods. HP has not yet completed the accounting for the remeasurement of deferred taxes. To calculate the remeasurement of deferred taxes, HP has estimated when the existing deferred taxes will be settled or realized. The remeasurement of deferred taxes included in the financial statements will be subject to further revisions if the current estimates are different from the actual future operating results. 
+  In January 2018, the FASB released guidance on the accounting for tax on the Global Minimum Tax provisions of TCJA. The Global Minimum Tax provisions impose a tax on foreign income in excess of a deemed return on tangible assets of foreign corporations. The guidance indicates that either accounting for deferred taxes related to Global Minimum Tax inclusions or to treat any taxes on Global Minimum Tax inclusions as period cost are both acceptable methods subject to an accounting policy election. HP is still evaluating whether to make a policy election to treat the Global Minimum Tax as a period cost or to provide U.S. deferred taxes on foreign temporary differences that are expected to generate Global Minimum Tax income when they reverse in future years. There could be additional changes to HP's deferred taxes once it completes its evaluations. 
+  
+   19 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 6: Taxes on Earnings (Continued) 
+
+As a result of U.S. tax reform, HP revised its estimated annual effective tax rate to reflect the change in the U.S. federal statutory tax rate from   35%   to   21%  . Since HP has a fiscal year ending October 31, it is subject to transitional tax rate rules. Therefore, a blended rate of   23%   was computed as effective for the current fiscal year. HP s effective tax rate was   13.6%   and   22.5%   for the three months ended   July 31, 2018   and   2017  , respectively, and (  93.2%  ) and   23.1%   for the nine months ended July 31, 2018 and 2017, respectively. The difference between the current fiscal year blended U.S. federal statutory tax rate of   23%   and HP s effective tax rate for the three and nine months ended July 31, 2018 is primarily due to favorable tax rates associated with certain earnings from HP s operations in lower-tax jurisdictions throughout the world and, for the nine month period only, transitional impacts of U.S. tax reform and resolution of various audits and tax litigation. For the three and nine months ended   July 31, 2017  , HP s effective tax rate generally differs from the U.S. federal statutory rate of   35%   due to favorable tax rates associated with certain earnings from HP s operations in lower-tax jurisdictions throughout the world. HP has not provided U.S. taxes for all foreign earnings because HP plans to reinvest some of those earnings indefinitely outside the United States. 
+  During the three and nine months ended July 31, 2018, HP recorded   $7.0 million   and   $2.2 billion  , respectively, of net tax benefits related to discrete items in the provision for taxes. As noted above, HP has not yet completed its analysis of the full impact of TCJA. However, for the three months ended January 31, 2018, HP recorded a provisional tax benefit of   $1.1 billion   related to   $5.5 billion   net benefit for the decrease in its deferred tax liability on unremitted foreign earnings, partially offset by   $3.2 billion   net expense for the deemed repatriation tax payable in installments over   eight years   and   $1.2 billion   net expense for the remeasurement of its deferred assets and liabilities to the new U.S. statutory tax rate. For the three months ended April 30, 2018, HP recorded provisional tax expense of   $379 million   related to remeasurement of its U.S. deferred tax assets that are expected to be realized at a lower rate and a   $43 million   tax benefit as an adjustment to the provisional deemed repatriation tax amount due to further analysis and additional guidance. For the three months ended July 31, 2018, HP recorded net tax benefits of   $12 million   related to acquisition costs offset by other charges of   $5 million  . The nine months ended July 31, 2018 also included tax benefits related to audit settlements of   $1.5 billion  , loss on debt extinguishment of   $33 million  , acquisition costs of   $13 million   and other tax benefits of   $10 million  . These tax benefits were offset by uncertain tax position charges of   $56 million  . During the three and nine months ended July 31, 2018, in addition to the discrete items mentioned above, HP recorded excess tax benefits of   $2 million   and   $36 million  , respectively, on stock options, restricted stock units and performance-adjusted restricted stock units. 
+  During the   three   and   nine   months ended   July 31, 2017  , HP recorded   $27 million   and   $31 million  , respectively, of net tax benefit related to discrete items in the provision for taxes for continuing operations. These amounts included a tax benefit of   $14 million   and   $45 million   related to restructuring and other charges, and a tax benefit of   $15 million   and   $28 million   related to acquisition-related charges, offset by uncertain tax position charges of   $19 million   and   $25 million  , for the three and nine months ended July 31, 2017, respectively. The   three   months and nine months ended July 31, 2017 included a net tax benefit of   $12 million   related to provision to return adjustments due to the filing of HP s U.S. Federal tax return. The   nine   months ended July 31, 2017 also included a tax charge of   $26 million   related to state provision to return adjustments. 
+  Uncertain Tax Positions 
+  As of   July 31, 2018  , the amount of unrecognized tax benefits was   $8.0 billion  , of which up to   $1.7 billion   would affect HP s effective tax rate if realized. The amount of unrecognized tax benefits decreased by   $2.8 billion   for the nine months ended   July 31, 2018  , primarily related to the resolution of various audits. HP recognizes interest income from favorable settlements and interest expense and penalties accrued on unrecognized tax benefits in the provision for taxes in the Consolidated Condensed Statements of Earnings. As of   July 31, 2018  , HP had accrued   $149 million   for interest and penalties. 
+  HP engages in continuous discussions and negotiations with taxing authorities regarding tax matters in various jurisdictions. HP expects to complete resolution of certain tax years with various tax authorities within the next   12 months  . It is also possible that other federal, foreign and state tax issues may be concluded within the next   12 months  . HP believes it is reasonably possible that its existing unrecognized tax benefits may be reduced by up to   $6.4 billion   within the next   12 months  . These unrecognized tax benefits have associated gain contingencies which will be settled in the same period resulting in a net release of   $822 million  .     
+  HP is subject to income tax in the United States and approximately   58   other countries and is subject to routine corporate income tax audits in many of these jurisdictions. In addition, HP is subject to numerous ongoing audits by federal, state and foreign tax authorities. The U.S. Internal Revenue Service is conducting an audit of HP s 2013, 2014 and 2015 income tax returns. 
+
+20 
+
+Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements 
+  (Unaudited) 
+  Note 7: Supplementary Financial Information 
+
+Accounts Receivable 
+
+The allowance for doubtful accounts related to accounts receivable and changes was as follows: 
+
+HP has third-party arrangements, consisting of revolving short-term financing, which provide liquidity to certain partners in order to facilitate their working capital requirements. These financing arrangements, which in certain circumstances may contain partial recourse, result in a transfer of HP s receivables and risk to the third party. As these transfers qualify as true sales under the applicable accounting guidance, the receivables are derecognized from the Consolidated Condensed Balance Sheets upon transfer, and HP receives a payment for the receivables from the third party within a mutually agreed upon time period. For arrangements involving an element of recourse, the recourse obligation is measured using market data from the similar transactions and reported as a current liability in the Consolidated Condensed Balance Sheets. The recourse obligations as of   July 31, 2018   and   October 31, 2017   were not material. The costs associated with the sales of trade receivables for the   three   and nine months ended July 31, 2018 and 2017 were not material. 
+  The following is a summary of the activity under these arrangements: 
+
+(1)   
+    Amounts outstanding from third parties reported in Accounts Receivable in the Consolidated Condensed Balance Sheets. 
+
+21 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 7: Supplementary Financial Information (Continued) 
+
+Inventory   
+
+  Other Current Assets   
+
+            (1)   
+    See Note 8,  Fair Value  and Note 9,  Financial Instruments  for detailed information. 
+     Property, Plant and Equipment 
+
+Other Non-Current Assets   
+
+22 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 7: Supplementary Financial Information (Continued) 
+
+(1)   
+    During the nine months ended July 31, 2018, HP adjusted   $676 million   of indemnification receivable, pursuant to resolution of various audit settlements. See Note 14,  Guarantees, Indemnifications and Warranties  for further information. 
+               (2)   
+    See Note 6,  Taxes on Earnings  for detailed information. 
+      Other Accrued Liabilities 
+
+Other Non-Current Liabilities 
+
+(1)   
+    See Note 6,  Taxes on Earnings  for detailed information. 
+     Interest and other, net 
+
+(1)   
+    For the nine months ended July 31, 2018, includes an adjustment of   $676 million   of indemnification receivable, pursuant to resolution of various audit settlements. See Note 6,  Taxes on Earnings  and Note 14,  Guarantees, Indemnifications and Warranties  for further information. 
+
+23 
+
+Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+
+Note 8: Fair Value 
+  Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in an orderly transaction between market participants at the measurement date. 
+  Fair Value Hierarchy 
+  HP uses valuation techniques that are based upon observable and unobservable inputs. Observable inputs are developed using market data such as publicly available information and reflect the assumptions market participants would use, while unobservable inputs are developed using the best information available about the assumptions market participants would use. Assets and liabilities are classified in the fair value hierarchy based on the lowest level input that is significant to the fair value measurement: 
+  Level 1 Quoted prices (unadjusted) in active markets for identical assets or liabilities. 
+  Level 2 Quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, inputs other than quoted prices that are observable for the asset or liability and market-corroborated inputs. 
+  Level 3 Unobservable inputs for the asset or liability. 
+  The fair value hierarchy gives the highest priority to observable inputs and lowest priority to unobservable inputs. 
+    The following table presents HP s assets and liabilities that are measured at fair value on a recurring basis: 
+
+__________________ 
+            (1)   
+    Government debt includes instruments such as U.S. Treasury notes, U.S. agency securities and non-U.S. government bonds. Money market funds invested in government debt and traded in active markets are included in Level 1. 
+     There were   no   transfers between levels within the fair value hierarchy during the   nine months ended     July 31, 2018  . 
+  
+   24 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 8: Fair Value (Continued) 
+
+Valuation Techniques 
+  Cash Equivalents and Investments: HP holds time deposits, money market funds, mutual funds, other debt securities primarily consisting of corporate and government notes and bonds, and common stock and equivalents. HP values cash equivalents and equity investments using quoted market prices, alternative pricing sources, including net asset value, or models utilizing market observable inputs. The fair value of debt investments is based on quoted market prices or model-driven valuations using inputs primarily derived from or corroborated by observable market data, and, in certain instances, valuation models that utilize assumptions which cannot be corroborated with observable market data. 
+  Derivative Instruments: From time to time, HP uses forward contracts, interest rate and total return swaps and option contracts to hedge certain foreign currency and interest rate exposures. HP uses industry standard valuation models to measure fair value. Where applicable, these models project future cash flows and discount the future amounts to present value using market-based observable inputs, including interest rate curves, HP and counterparty credit risk, foreign exchange rates, and forward and spot prices for currencies and interest rates. See Note 9,  Financial Instruments  for a further discussion of HP s use of derivative instruments. 
+  Other Fair Value Disclosures 
+  Short- and Long-Term Debt: HP estimates the fair value of its debt primarily using an expected present value technique, which is based on observable market inputs using interest rates currently available to companies of similar credit standing for similar terms and remaining maturities, and considering its own credit risk. The portion of HP s debt that is hedged is reflected in the Consolidated Condensed Balance Sheets as an amount equal to the debt s carrying amount and a fair value adjustment representing changes in the fair value of the hedged debt obligations arising from movements in benchmark interest rates. The fair value of HP s short- and long-term debt was   $7.3 billion   as of   July 31, 2018  , compared to its carrying amount of   $7.2 billion   at that date. The fair value of HP s short- and long-term debt was   $8.1 billion   as of October 31, 2017, compared to its carrying value of   $7.8 billion   at that date. If measured at fair value in the Consolidated Condensed Balance Sheets, short and long-term debt would be classified in Level 2 of the fair value hierarchy. 
+  Other Financial Instruments: For the balance of HP s financial instruments, primarily accounts receivable, accounts payable and financial liabilities included in Other accrued liabilities on the Consolidated Condensed Balance Sheets, the carrying amounts approximate fair value due to their short maturities. If measured at fair value in the Consolidated Condensed Balance Sheets, these other financial instruments would be classified in Level 2 or Level 3 of the fair value hierarchy. 
+  Non-Marketable Equity Investments and Non-Financial Assets: HP s non-marketable equity investments and non-financial assets, such as goodwill, intangible assets and property, plant and equipment, are recorded at fair value in the period of acquisition and a subsequent impairment charge is recognized. If measured at fair value in the Consolidated Condensed Balance Sheets, non-marketable equity investments and non-financial assets would generally be classified within Level 3 of the fair value hierarchy. 
+
+25 
+
+Table of Contents     
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+
+Note 9: Financial Instruments 
+  Cash Equivalents and Available-for-Sale Investments 
+
+(1)       HP classifies its marketable debt securities as available-for-sale investments within Other current assets on the Consolidated Condensed Balance Sheets, including those with maturity dates beyond one year, based on their highly liquid nature and availability for use in current operations. 
+  All highly liquid investments with original maturities of three months or less at the date of acquisition are considered cash equivalents. As of   July 31, 2018   and   October 31, 2017  , the carrying amount of cash equivalents approximated fair value due to the short period of time to maturity. The estimated fair value of the available-for-sale investments may not be representative of values that will be realized in the future. 
+  Contractual maturities of investments in available-for-sale debt securities were as follows: 
+
+Equity securities in privately held companies include cost basis and equity method investments and are included in Other non-current assets on the Consolidated Condensed Balance Sheets. These amounted to   $36 million   and   $37 million   as of   July 31, 2018   and   October 31, 2017  , respectively. 
+  
+   26 
+
+     Table of Contents     
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 9: Financial Instruments (Continued) 
+
+Derivative Instruments 
+  HP uses derivatives to offset business exposure to foreign currency and interest rate risk on expected future cash flows and on certain existing assets and liabilities. As part of its risk management strategy, HP uses derivative instruments, primarily forward contracts, interest rate swaps, total return swaps and, at times, option contracts to hedge certain foreign currency, interest rate and, to a lesser extent, equity exposures. HP may designate its derivative contracts as fair value hedges or cash flow hedges and classifies the cash flows with the activities that correspond to the underlying hedged items. Additionally, for derivatives not designated as hedging instruments, HP categorizes those economic hedges as other derivatives. HP recognizes all derivative instruments at fair value in the Consolidated Condensed Balance Sheets.  
+  As a result of its use of derivative instruments, HP is exposed to the risk that its counterparties will fail to meet their contractual obligations. Master netting agreements mitigate credit exposure to counterparties by permitting HP to net amounts due from HP to counterparty against amounts due to HP from the same counterparty under certain conditions. To further limit credit risk, HP has collateral security agreements that allow HP to hold collateral from, or require HP to post collateral to, counterparties when aggregate derivative fair values exceed contractually established thresholds which are generally based on the credit ratings of HP and its counterparties. If HP s or the counterparty s credit rating falls below a specified credit rating, either party has the right to request full collateralization of the derivatives  net liability position. The fair value of derivatives with credit contingent features in a net liability position was   $108 million   and   $258 million   as of   July 31, 2018   and as of   October 31, 2017  , respectively, all of which were fully collateralized within   two   business days. 
+  Under HP s derivative contracts, the counterparty can terminate all outstanding trades following a covered change of control event affecting HP that results in the surviving entity being rated below a specified credit rating. This credit contingent provision did not affect HP s financial position or cash flows as of   July 31, 2018   and   October 31, 2017  . 
+  Fair Value Hedges 
+  HP enters into fair value hedges, such as interest rate swaps, to reduce the exposure of its debt portfolio to changes in fair value resulting from changes in interest rates by achieving a primarily U.S. dollar London Interbank Offered Rate ( LIBOR )-based floating interest expense. 
+  For derivative instruments that are designated and qualify as fair value hedges, HP recognizes the change in fair value of the derivative instrument, as well as the offsetting change in the fair value of the hedged item, in Interest and other, net on the Consolidated Condensed Statements of Earnings in the period of change. 
+  Cash Flow Hedges 
+  HP uses forward contracts and at times, option contracts designated as cash flow hedges to protect against the foreign currency exchange rate risks inherent in its forecasted net revenue and, to a lesser extent, cost of revenue, operating expenses, and intercompany loans denominated in currencies other than the U.S. dollar. HP s foreign currency cash flow hedges mature generally within twelve months. However, hedges related to longer-term procurement arrangements extend several years and forward contracts associated with intercompany loans extend for the duration of the loan term, which typically range from   two   to   five   years. 
+  For derivative instruments that are designated and qualify as cash flow hedges, HP initially records changes in fair value for the effective portion of the derivative instrument in accumulated other comprehensive loss as a separate component of stockholders  deficit on the Consolidated Condensed Balance Sheets and subsequently reclassifies these amounts into earnings in the period during which the hedged transaction is recognized in earnings. HP reports the effective portion of its cash flow hedges in the same financial statement line item as the hedged transaction. 
+  Other Derivatives 
+  Other derivatives not designated as hedging instruments consist primarily of forward contracts used to hedge foreign currency-denominated balance sheet exposures. HP uses total return swaps to hedge its executive deferred compensation plan liability.  
+  For derivative instruments not designated as hedging instruments, HP recognizes changes in fair value of the derivative instrument in Interest and other, net in the Consolidated Condensed Statements of Earnings in the period of change. 
+  Hedge Effectiveness 
+  For interest rate swaps designated as fair value hedges, HP measures hedge effectiveness by offsetting the change in fair value of the hedged item with the change in fair value of the derivative. For foreign currency options and forward contracts designated as cash flow hedges, HP measures hedge effectiveness by comparing the cumulative change in fair value of the hedge contract with the cumulative change in fair value of the hedged item, both of which are based on forward rates. HP recognizes any ineffective portion of the hedge in the Consolidated Condensed Statements of Earnings in the same period in  
+  
+   27 
+
+     Table of Contents     
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 9: Financial Instruments (Continued) 
+
+which ineffectiveness occurs. Amounts excluded from the assessment of effectiveness are recognized in the Consolidated Condensed Statements of Earnings in the period they arise. 
+  As of July 31, 2018 and July 31, 2017, no portion of the hedging instruments  gain or loss was excluded from the assessment of effectiveness for fair value and cash flow hedges. Hedge ineffectiveness for fair value and cash flow hedges recognized in earnings were not material for the   three and nine   months ended   July 31, 2018   and 2017. 
+  Fair Value of Derivative Instruments in the Consolidated Condensed Balance Sheets 
+  The gross notional and fair value of derivative instruments in the Consolidated Condensed Balance Sheets were as follows: 
+
+In March 2018, HP terminated several interest rate swaps with a notional amount of   $1.5 billion   that were de-designated as fair value hedges of certain fixed rate debt securities.  
+  Offsetting of Derivative Instruments 
+  HP recognizes all derivative instruments on a gross basis in the Consolidated Condensed Balance Sheets. HP does not offset the fair value of its derivative instruments against the fair value of cash collateral posted under its collateral security agreements. As of   July 31, 2018   and   October 31, 2017  , information related to the potential effect of HP s master netting agreements and collateral security agreements was as follows: 
+  
+   28 
+
+     Table of Contents     
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 9: Financial Instruments (Continued) 
+
+_______________________________________________________________________________ 
+            (1)   
+    Represents the cash collateral posted by counterparties as of the respective reporting date for HP s asset position, net of derivative amounts that could be offset, as of, generally,   two   business days prior to the respective reporting date.   
+               (2)   
+    Represents the collateral posted by HP through re-use of counterparty cash collateral as of the respective reporting date for HP s liability position, net of derivative amounts that could be offset, as of, generally,   two   business days prior to the respective reporting date. 
+     
+   29 
+
+     Table of Contents     
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 9: Financial Instruments (Continued) 
+
+Effect of Derivative Instruments in the Consolidated Condensed Statements of Earnings 
+  The pre-tax effect of derivative instruments and related hedged items in a fair value hedging relationship for the   three and nine   months ended   July 31, 2018   and 2017 were as follows: 
+
+Gain (Loss) Recognized in Earnings on Derivative and Related Hedged Item 
+      Derivative Instrument 
+      
+    Location 
+      
+    Three months ended July 31, 2018 
+      
+    Nine months ended July 31, 2018 
+      
+    Hedged Item 
+      
+    Location 
+      
+    Three months ended July 31, 2018 
+      
+    Nine months ended July 31, 2018 
+
+In millions 
+
+In millions 
+      Interest rate contracts 
+      
+    Interest and other, net 
+      
+    $ 
+
+$ 
+    (11 
+    ) 
+      
+    Fixed-rate debt 
+      
+    Interest and other, net 
+      
+    $ 
+
+$ 
+    11 
+
+Gain (Loss) Recognized in Earnings on Derivative and Related Hedged Item 
+      Derivative Instrument 
+      
+    Location 
+      
+    Three months ended July 31, 2017 
+      
+    Nine months ended July 31, 2017 
+      
+    Hedged Item 
+      
+    Location 
+      
+    Three months ended July 31, 2017 
+      
+    Nine months ended July 31, 2017 
+
+In millions 
+
+In millions 
+      Interest rate contracts 
+      
+    Interest and other, net 
+      
+    $ 
+    5 
+
+$ 
+    (43 
+    ) 
+      
+    Fixed-rate debt 
+      
+    Interest and other, net 
+      
+    $ 
+    (5 
+    ) 
+      
+    $ 
+    43 
+
+The pre-tax effect of derivative instruments in cash flow hedging relationships for the   three and nine   months ended   July 31, 2018   was as follows: 
+
+30 
+
+     Table of Contents     
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 9: Financial Instruments (Continued) 
+
+The pre-tax effect of derivative instruments in cash flow hedging relationships for the   three and nine   months ended   July 31, 2017   was as follows:   
+
+  As of   July 31, 2018  , HP expects to reclassify an estimated gain of   $122 million   from accumulated other comprehensive income ( AOCI ), net of taxes, to earnings within the next twelve months associated with cash flow hedges along with the earnings effects of the related forecasted transactions. The amounts ultimately reclassified into earnings could be different from the amounts previously included in AOCI based on the change of market rate, and therefore could have a different impact on earnings. 
+  The pre-tax effect of derivative instruments not designated as hedging instruments in the Consolidated Condensed Statements of Earnings for the   three and nine   months ended   July 31, 2018   and 2017 was as follows: 
+
+Note 10: Borrowings 
+  Notes Payable and Short-Term Borrowings 
+
+31 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 10: Borrowings (Continued) 
+
+Long-Term Debt 
+
+(1)   
+    HP may redeem some or all of the fixed-rate U.S. Dollar Global Notes at any time in accordance with the terms thereof. The U.S. Dollar Global Notes are senior unsecured debt. 
+     In December 2016, HP filed a shelf registration statement (the  2016 Shelf Registration Statement ) with the SEC to enable the company to offer for sale, from time to time, in one or more offerings, an unspecified amount of debt securities, common stock, preferred stock, depositary shares and warrants. 
+  As disclosed in Note 9,  Financial Instruments , HP uses interest rate swaps to mitigate some of the exposure of its debt portfolio to changes in fair value resulting from changes in interest rates by achieving a primarily U.S. dollar LIBOR-based floating interest expense. Interest rates shown in the table of long-term debt have not been adjusted to reflect the impact of any interest rate swaps. 
+  Extinguishment of Debt 
+  In March 2018, HP commenced and completed a cash tender offer (the  Tender Offer") to purchase approximately   $1.85 billion   in aggregate principal amount of outstanding U.S. Dollar   4.650%   Global Notes due December 9, 2021,   4.375%   Global Notes due September 15, 2021 and   4.300%   Global Notes due June 1, 2021. In connection with the Tender Offer, HP also solicited consents from holders of its   4.650%   Notes due December 2021, (the    4.650%   Notes ) to amend the indenture under which the   4.650%   Notes were issued to, among other things, eliminate substantially all of the restrictive covenants of the indenture (the  Proposed Amendments ). Holders of a majority in principal amount of the outstanding   4.650%   Notes consented to the Proposed Amendments, and as a result, a supplemental indenture was executed on March 26, 2018 to effect the Proposed Amendments. This extinguishment of debt resulted in a loss of   $126 million  , which was recorded as "Interest and other, net" on the Consolidated Condensed Statements of Earnings during the nine months ended July 31, 2018.  
+  Commercial Paper 
+  On November 1, 2015, HP s Board of Directors authorized HP to borrow up to a total outstanding principal balance of   $4.0 billion  , or the equivalent in foreign currencies, for the use and benefit of HP and HP s subsidiaries, by the issuance of commercial paper or through the execution of promissory notes, loan agreements, letters of credit, agreements for lines of credit or overdraft facilities. HP increased the issuance authorization under its commercial paper program from   $4.0 billion   to   $6.0 billion   in November 2017. As of   July 31, 2018  , HP maintained two commercial paper programs. HP s U.S. program provides for the issuance of U.S. dollar-denominated commercial paper up to a maximum aggregate principal amount of   $6.0 billion  . HP s Euro program provides for the issuance of commercial paper outside of the United States denominated in U.S. dollars, Euros or British pounds up to a maximum aggregate principal amount of   $6.0 billion   or the equivalent in those alternative  
+  
+   32 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 10: Borrowings (Continued) 
+
+currencies. The combined aggregate principal amount of commercial paper outstanding under those programs at any one time cannot exceed the   $6.0 billion   authorized by HP s Board of Directors. 
+  Credit Facility 
+  As of   July 31, 2018  , HP maintains a   $4.0 billion  , senior unsecured committed revolving credit facility to support the issuance of commercial paper or for general corporate purposes. Commitments under the revolving credit facility will be available until March 30, 2023. Commitment fees, interest rates and other terms of borrowing under the credit facilities vary based on HP s external credit ratings. As of   July 31, 2018  , HP was in compliance with the financial covenants in the credit agreement governing the revolving credit facility. 
+  In December 2017, HP also entered into an additional revolving credit facility with certain institutional lenders that provided HP with   $1.5 billion   of available borrowings until November 30, 2018. HP elected to terminate this   $1.5 billion   revolving credit facility early, effective August 17, 2018. 
+  Available Borrowing Resources 
+  As of   July 31, 2018  , HP and its subsidiaries had available borrowing resources of   $783 million   from uncommitted lines of credit in addition to the commercial paper and revolving credit facilities discussed above. 
+
+Note 11: Stockholders  Deficit 
+  Share Repurchase Program 
+  HP s share repurchase program authorizes both open market and private repurchase transactions. During the   three and nine   months ended   July 31, 2018  , HP executed share repurchases of   31 million   shares and   86 million   shares and settled total shares for   $0.7 billion   and   $2.0 billion  , respectively. During the   three and nine   months ended   July 31, 2017  , HP executed share repurchases of   16 million   shares and   55 million   shares and settled total shares for   $0.3 billion   and   $0.9 billion  , respectively. Share repurchases executed during the three months ended   July 31, 2018   and   July 31, 2017   included   0.8 million   and   0.4 million   shares settled in August 2018 and August 2017, respectively. 
+  The shares repurchased during the   nine months ended     July 31, 2018   and 2017 were all open market repurchase transactions. On June 19, 2018, HP s Board of Directors authorized an additional   $4.0 billion   for future repurchases of its outstanding shares of common stock. As of   July 31, 2018  , HP had approximately   $4.5 billion   remaining under the share repurchase authorizations approved by HP s Board of Directors. 
+  
+   33 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 11: Stockholder s Deficit (Continued) 
+
+Tax effects related to Other Comprehensive Income (Loss) 
+                                               
+    Three months ended July 31 
+      
+    Nine months ended July 31 
+        
+    2018 
+      
+    2017 
+      
+    2018 
+      
+    2017 
+        
+    In millions 
+      Tax effect on change in unrealized components of available-for-sale securities: 
+
+Tax benefit (provision) on unrealized (losses) gains arising during the period 
+    $ 
+
+$ 
+
+$ 
+    1 
+
+$ 
+    (1 
+    ) 
+
+1 
+
+(1 
+    ) 
+      Tax effect on change in unrealized components of cash flow hedges: 
+
+Tax (provision) benefit on unrealized gains (losses) arising during the period 
+    (26 
+    ) 
+      
+    63 
+
+7 
+
+70 
+      
+      Tax (benefit) provision on losses (gains) reclassified into earnings 
+    (2 
+    ) 
+      
+    (2 
+    ) 
+      
+    (34 
+    ) 
+      
+    9 
+
+(28 
+    ) 
+      
+    61 
+
+(27 
+    ) 
+      
+    79 
+      
+      Tax effect on change in unrealized components of defined benefit plans: 
+
+Tax provision on gains arising during the period 
+    (1 
+    ) 
+
+(1 
+    ) 
+      
+    (4 
+    ) 
+      Tax provision on amortization of actuarial loss and prior service benefit 
+    (2 
+    ) 
+      
+    (5 
+    ) 
+      
+    (8 
+    ) 
+      
+    (16 
+    ) 
+      Tax benefit (provision) on curtailments, settlements and other 
+
+1 
+
+(8 
+    ) 
+        
+    (3 
+    ) 
+      
+    (4 
+    ) 
+      
+    (9 
+    ) 
+      
+    (28 
+    ) 
+      Tax (provision) benefit on other comprehensive income 
+    $ 
+    (31 
+    ) 
+      
+    $ 
+    57 
+
+$ 
+    (35 
+    ) 
+      
+    $ 
+    50 
+
+Changes and reclassifications related to Other Comprehensive Income (Loss), net of taxes 
+
+(1)   
+    Reclassification of pre-tax losses (gains) on cash flow hedges into the Consolidated Condensed Statements of Earnings was as follows: 
+     
+   34 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 11: Stockholder s Deficit (Continued) 
+
+(2)   
+    These components are included in the computation of net pension and post-retirement (credit) benefit charges in Note 4,  Retirement and Post-Retirement Benefit Plans.   
+     The components of accumulated other comprehensive loss, net of taxes and changes were as follows:   
+
+Note 12: Net Earnings Per Share 
+  HP calculates basic net EPS using net earnings and the weighted-average number of shares outstanding during the reporting period. Diluted net EPS includes any dilutive effect of restricted stock awards, stock options, performance-based awards and shares purchased under the 2011 employee stock purchase plan. 
+  
+   35 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 12: Net Earnings Per Share (Continued) 
+
+A reconciliation of the number of shares used for basic and diluted net EPS calculations is as follows: 
+
+(1)   
+    HP excludes stock options and restricted stock units where the assumed proceeds exceed the average market price from the calculation of diluted net EPS because their effect would be anti-dilutive. The assumed proceeds of a stock option include the sum of its exercise price, and average unrecognized compensation cost. The assumed proceeds of a restricted stock unit represent unrecognized compensation cost. 
+
+Note 13: Litigation and Contingencies 
+  HP is involved in lawsuits, claims, investigations and proceedings, including those identified below, consisting of intellectual property, commercial, securities, employment, employee benefits and environmental matters that arise in the ordinary course of business. HP accrues a liability when management believes that it is both probable that a liability has been incurred and the amount of loss can be reasonably estimated. HP believes it has recorded adequate provisions for any such matters and, as of July 31, 2018, it was not reasonably possible that a material loss had been incurred in excess of the amounts recognized in HP s financial statements. HP reviews these matters at least quarterly and adjusts its accruals to reflect the impact of negotiations, settlements, rulings, advice of legal counsel, and other information and events pertaining to a particular case. Pursuant to the separation and distribution agreement, HP shares responsibility with Hewlett Packard Enterprise for certain matters, as indicated below, and Hewlett Packard Enterprise has agreed to indemnify HP in whole or in part with respect to certain matters. Based on its experience, HP believes that any damage amounts claimed in the specific matters discussed below are not a meaningful indicator of HP s potential liability. Litigation is inherently unpredictable. However, HP believes it has valid defenses with respect to legal matters pending against it. Nevertheless, cash flows or results of operations could be materially affected in any particular period by the resolution of one or more of these contingencies. 
+  Litigation, Proceedings and Investigations 
+  Copyright Levies  .     Proceedings are ongoing or have been concluded involving HP in certain European countries, including litigation in Belgium and other countries, seeking to impose or modify levies upon IT equipment (such as multifunction devices ( MFDs ) and PCs), alleging that these devices enable the production of private copies of copyrighted materials. The levies are generally based upon the number of products sold and the per-product amounts of the levies, which vary. Some European countries that do not yet have levies on digital devices are expected to implement similar legislation to enable them to extend existing levy schemes, while other European countries have phased out levies or are expected to limit the scope of levy schemes and applicability in the digital hardware environment, particularly with respect to sales to business users. HP, other companies and various industry associations have opposed the extension of levies to the digital environment and have advocated alternative models of compensation to rights holders. 
+  Reprobel, a collecting society administering the remuneration for reprography to Belgian copyright holders, requested by extrajudicial means that HP amend certain copyright levy declarations submitted for inkjet MFDs sold in Belgium from January 2005 to December 2009 to enable it to collect copyright levies calculated based on the generally higher copying speed when the MFDs are operated in draft print mode rather than when operated in normal print mode. In March 2010, HP filed a lawsuit against Reprobel in the Court of First Instance of Brussels seeking a declaratory judgment that   no   copyright levies are payable  
+  
+   36 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 13: Litigations and Contingencies (Continued) 
+
+on sales of MFDs in Belgium or, alternatively, that payments already made by HP are sufficient to comply with its obligations. The Court of Appeal in Brussels (the  Court of Appeal ) stayed the proceedings and referred several questions to the Court of Justice of the European Union ( CJEU ). On November 12, 2015, the CJEU published its judgment providing that a national legislation such as the Belgian one at issue in the main proceedings is incompatible with EU law on multiple legal points, as argued by HP, and returned the proceedings to the referring court. On May 12, 2017, the Court of Appeal held that (1) reprographic copyright levies are due notwithstanding the lack of conformity of the Belgian system with EU law in certain aspects and (2) the applicable levies are to be calculated based on the objective speed of each MFD as established by an expert appointed by the Court of Appeal. HP appealed this decision before the Belgian Supreme Court on January 18, 2018.    
+  Based on industry opposition to the extension of levies to digital products, HP s assessments of the merits of various proceedings and HP s estimates of the number of units impacted and the amounts of the levies, HP has accrued amounts that it believes are adequate to address the ongoing disputes.   
+  Hewlett-Packard Company v. Oracle Corporation  .    On June 15, 2011, HP filed suit against Oracle Corporation ( Oracle ) in California Superior Court in Santa Clara County in connection with Oracle s March 2011 announcement that it was discontinuing software support for HP s Itanium-based line of mission-critical servers. HP asserted, among other things, that Oracle s actions breached the contract that was signed by the parties as part of the settlement of the litigation relating to Oracle s hiring of Mark Hurd. The matter eventually progressed to trial, which was bifurcated into two phases. HP prevailed in the first phase of the trial, in which the court ruled that the contract at issue required Oracle to continue to offer its software products on HP s Itanium-based servers for as long as HP decided to sell such servers. The second phase of the trial was then postponed by Oracle s appeal of the trial court s denial of Oracle s  anti-SLAPP  motion, in which Oracle argued that HP s damages claim infringed on Oracle s First Amendment rights. On August 27, 2015, the California Court of Appeals rejected Oracle s appeal. The matter was remanded to the trial court for the second phase of the trial, which began on May 23, 2016 and was submitted to the jury on June 29, 2016.  On June 30, 2016, the jury returned a verdict in favor of HP, awarding HP approximately   $3.0 billion   in damages, which included approximately   $1.7 billion   for past lost profits and   $1.3 billion   for future lost profits. On October 20, 2016, the court entered judgment for HP for this amount with interest accruing until the judgment is paid. Oracle s motion for a new trial was denied on December 19, 2016, and Oracle filed its notice of appeal from the trial court s judgment on January 17, 2017. On February 2, 2017, HP filed a notice of cross-appeal challenging the trial court s denial of prejudgment interest. The schedule for appellate briefing and argument has not yet been established. HP expects that the appeals process could take several years to complete. Litigation is unpredictable, and there can be no assurance that HP will recover damages, or that any award of damages will be for the amount awarded by the jury s verdict. The amount ultimately awarded, if any, would be recorded in the period received.   No   adjustment has been recorded in the financial statements in relation to this potential award. Pursuant to the terms of the separation and distribution agreement, HP and Hewlett Packard Enterprise will share equally in any recovery from Oracle once Hewlett Packard Enterprise has been reimbursed for all costs incurred in the prosecution of the action prior to the Separation. 
+  Forsyth, et al. v. HP Inc. and Hewlett Packard Enterprise  .   This is a purported class and collective action filed on August 18, 2016 in the United States District Court, Northern District of California, against HP and Hewlett Packard Enterprise alleging the defendants violated the Federal Age Discrimination in Employment Act ( ADEA ), the California Fair Employment and Housing Act, California public policy and the California Business and Professions Code by terminating older workers and replacing them with younger workers. Plaintiffs seek to certify a nationwide collective class action under the ADEA comprised of all U.S. residents employed by defendants who had their employment terminated pursuant to a workforce reduction ( WFR ) plan on or after May 23, 2012 and who were   40   years of age or older. Plaintiffs also seek to represent a Rule 23 class under California law comprised of all persons   40   years or older employed by defendants in the state of California and terminated pursuant to a WFR plan on or after May 23, 2012.  Following a partial motion to dismiss, a motion to strike and a motion to compel arbitration that the defendants filed in November 2016, the plaintiffs amended their complaint.  New plaintiffs were added, but the plaintiffs agreed that the class period for the nationwide collective action should be shortened and now starts on December 9, 2014. On January 30, 2017, the defendants filed another partial motion to dismiss and motions to compel arbitration as to several of the plaintiffs. On March 20, 2017, the defendants filed additional motions to compel arbitration as to a number of the opt-in plaintiffs.  On September 20, 2017, the Court granted the motions to compel arbitration as to the plaintiffs and opt-ins who signed WFR release agreements (  17   individuals), and also stayed the entire case until the arbitrations are completed. On November 30, 2017,   three   named plaintiffs and   twelve   opt-in plaintiffs filed a single arbitration demand.  On December 22, 2017, the defendants filed a motion to (1) stay the case pending arbitrations and (2) enjoin the demanded arbitration and require each plaintiff to file a separate arbitration demand.  On February 6, 2018, the Court granted the motion to stay and denied the motion to enjoin. The portion of the case not stayed is proceeding through the mediation and arbitration process. 
+  
+   37 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 13: Litigations and Contingencies (Continued) 
+
+Jackson, et al. v. HP Inc. and Hewlett Packard Enterprise  .    This putative nationwide class action was filed on July 24, 2017 in federal district court in San Jose, California. The plaintiffs purport to bring the lawsuit on behalf of themselves and other similarly situated African-Americans and individuals over the age of forty. The plaintiffs allege that the defendants engaged in a pattern and practice of racial and age discrimination in lay-offs and promotions. The plaintiffs filed an amended complaint on September 29, 2017. On January 12, 2018, the defendants moved to transfer the matter to the federal district court in the Northern District of Georgia. The defendants also moved to dismiss the claims on various grounds and to strike certain aspects of the proposed class definition. The Court dismissed the action on the basis of improper venue.  On July 23, 2018, the plaintiffs refiled the case in the Northern District of Georgia.  On August 9, 2018, the plaintiffs also filed a notice of appeal of the dismissal order with the United States Court of Appeals for the Ninth Circuit.  
+  India Directorate of Revenue Intelligence Proceedings  .      On April 30 and May 10, 2010, the India Directorate of Revenue Intelligence (the  DRI ) issued show cause notices to Hewlett-Packard India Sales Private Limited ( HP India ), a subsidiary of HP,   seven   HP India employees and   one   former HP India employee alleging that HP India underpaid customs duties while importing products and spare parts into India and seeking to recover an aggregate of approximately   $370 million  , plus penalties. Prior to the issuance of the show cause notices, HP India deposited approximately   $16 million   with the DRI and agreed to post a provisional bond in exchange for the DRI s agreement to not seize HP India products and spare parts and to not interrupt the transaction of business by HP India. 
+  On April 11, 2012, the Bangalore Commissioner of Customs issued an order on the products-related show cause notice affirming certain duties and penalties against HP India and the named individuals of approximately   $386 million  , of which HP India had already deposited   $9 million  . On December 11, 2012, HP India voluntarily deposited an additional   $10 million   in connection with the products-related show cause notice. The differential duty demand is subject to interest. On April 20, 2012, the Commissioner issued an order on the parts-related show cause notice affirming certain duties and penalties against HP India and certain of the named individuals of approximately   $17 million  , of which HP India had already deposited   $7 million  . After the order, HP India deposited an additional   $3 million   in connection with the parts-related show cause notice so as to avoid certain penalties. 
+  HP India filed appeals of the Commissioner s orders before the Customs Tribunal along with applications for waiver of the pre-deposit of remaining demand amounts as a condition for hearing the appeals. The Customs Department has also filed cross-appeals before the Customs Tribunal. On January 24, 2013, the Customs Tribunal ordered HP India to deposit an additional   $24 million   against the products order, which HP India deposited in March 2013. The Customs Tribunal did not order any additional deposit to be made under the parts order. In December 2013, HP India filed applications before the Customs Tribunal seeking early hearing of the appeals as well as an extension of the stay of deposit as to HP India and the individuals already granted until final disposition of the appeals. On February 7, 2014, the application for extension of the stay of deposit was granted by the Customs Tribunal until disposal of the appeals. On October 27, 2014, the Customs Tribunal commenced hearings on the cross-appeals of the Commissioner s orders. The Customs Tribunal rejected HP India s request to remand the matter to the Commissioner on procedural grounds. The hearings scheduled to reconvene on April 6, 2015 and again on November 3, 2015 and April 11, 2016 were canceled at the request of the Customs Tribunal. Pursuant to the separation and distribution agreement, Hewlett Packard Enterprise has agreed to indemnify HP in part, based on the extent to which any liability arises from the products and spare parts of Hewlett Packard Enterprise s businesses.  
+  Class Actions re Authentication of Supplies 
+  Five   purported consumer class actions were filed against HP, arising out of the supplies authentication protocol in certain OfficeJet printers.  This authentication protocol rejects some third-party ink cartridges that use non-HP security chips.    Two   of the cases were dismissed, and the remaining cases were consolidated in the United States District Court for the Northern District of California, captioned   In re HP Printer Firmware Update Litigation  . The remaining plaintiffs  consolidated amended complaint was filed on February 15, 2018, alleging eleven causes of action: (1) unfair and unlawful business practices in violation of the Unfair Competition Law, Cal. Bus.   Prof. Code   17200,   et seq.  ; (2) fraudulent business practices in violation of the Unfair Competition Law, Cal. Bus.   Prof. Code   17200,   et seq.  ; (3) violations of the False Advertising Law, Cal. Bus.   Prof. Code   17500,   et seq.  ; (4) violations of the Consumer Legal Remedies Act, Cal. Civ. Code   1750,   et seq.  ; (5) violations of the Texas Deceptive Trade Practices   Consumer Protection Act, Tex. Bus.   Com. Code Ann.   17.01,   et seq.  ; (6) violations of the Washington Consumer Protection Act, Wash. Rev. Code Ann.   19.86.010,   et seq.  ; (7) violations of the New Jersey Consumer Fraud Act, New Jersey Statutes Ann. 56:8-1,   et seq.  ; (8) violations of the Computer Fraud and Abuse Act, 18 U.S.C.   1030,   et seq.  ; (9) violations of the California Computer Data Access and Fraud Act, Cal. Penal Code   502; (10) Trespass to Chattels; and (11) Tortious Interference with Contractual Relations and/or Prospective Economic Advantage.  On February 7, 2018, the plaintiffs moved to certify an injunctive relief class of  [a]ll persons in California who own a Class Printer  under the  unfair  prong of the California unfair competition statute and a class of  [a]ll persons in the United States  
+  
+   38 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 13: Litigations and Contingencies (Continued) 
+
+who purchased a Class Printer and experienced a print failure while using a non-HP aftermarket cartridge during the period between March 1, 2015 and December 31, 2017  under the Computer Fraud and Abuse Act and common law trespass to chattels.  On March 29, 2018, the court granted in part and denied in part HP s motion to dismiss.  The court dismissed the plaintiffs  claim under the  unfair  prong of the California unfair competition statute, claims under the non-California consumer protection statutes, and claim for tortious interference with contractual relations and/or prospective economic advantage.  The court also dismissed in part the plaintiffs  fraud-based claims under the California consumer protection statutes and computer hacking claims under the Computer Fraud and Abuse Act and California Computer Data Access and Fraud Act.  The court denied HP s motion to dismiss with respect to the plaintiffs  claim for trespass to chattels and claim under the  unlawful  prong of the California unfair competition statute.  The court granted the plaintiffs leave to amend on all of the dismissed claims, except the California Computer Data Access and Fraud Act claim to the extent it was based on two specific subsections of that statute.  The parties have since reached a settlement in principle.  On July 13, 2018, the court vacated the remaining dates on the case schedule and ordered that the plaintiffs file their motion for preliminary approval of the class settlement within 60 days. 
+  Autonomy-Related Legal Matters 
+  Investigations  .    As a result of the findings of an ongoing investigation, HP has provided information to the U.K. Serious Fraud Office, the U.S. Department of Justice ( DOJ ) and the SEC related to the accounting improprieties, disclosure failures and misrepresentations at Autonomy that occurred prior to and in connection with HP s acquisition of Autonomy. On January 19, 2015, the U.K. Serious Fraud Office notified HP that it was closing its investigation and had decided to cede jurisdiction of the investigation to the U.S. authorities. On November 14, 2016, the DOJ announced that a federal grand jury indicted Sushovan Hussain, the former CFO of Autonomy.  Mr. Hussain was charged with conspiracy to commit wire fraud, securities fraud, and multiple counts of wire fraud.  The indictment alleged that Mr. Hussain engaged in a scheme to defraud purchasers and sellers of securities of Autonomy and HP about the true performance of Autonomy s business, its financial condition, and its prospects for growth.  A jury trial commenced on February 26, 2018. On April 30, 2018, the jury found Mr. Hussain guilty of all charges against him.  On November 15, 2016, the SEC announced that Stouffer Egan, the former CEO of Autonomy s U.S.-based operations, settled charges relating to his participation in an accounting scheme to meet internal sales targets and analyst revenue expectations.  HP is continuing to cooperate with the ongoing enforcement actions. 
+  Autonomy Corporation Limited v. Michael Lynch and Sushovan Hussain  .   On April 17, 2015,   four   former-HP subsidiaries that became subsidiaries of Hewlett Packard Enterprise at the time of the Separation (Autonomy Corporation Limited, Hewlett Packard Vision BV, Autonomy Systems, Limited, and Autonomy, Inc.) initiated civil proceedings in the U.K. High Court of Justice against   two   members of Autonomy s former management, Michael Lynch and Sushovan Hussain. The Particulars of Claim seek damages in excess of   $5 billion   from Messrs. Lynch and Hussain for breach of their fiduciary duties by causing Autonomy group companies to engage in improper transactions and accounting practices. On October 1, 2015, Messrs. Lynch and Hussain filed their defenses. Mr. Lynch also filed a counterclaim against Autonomy Corporation Limited seeking   $160 million   in damages, among other things, for alleged misstatements regarding Lynch. The Hewlett Packard Enterprise subsidiary claimants filed their replies to the defenses and the asserted counter-claim on March 11, 2016. The parties are actively engaged in the disclosure process. A   six  -month trial is scheduled to begin on March 25, 2019.  
+  Environmental 
+  HP s operations and products are subject to various federal, state, local and foreign laws and regulations concerning environmental protection, including laws addressing the discharge of pollutants into the air and water, the management and disposal of hazardous substances and wastes, the cleanup of contaminated sites, the content of HP s products and the recycling, treatment and disposal of those products. In particular, HP faces increasing complexity in its product design and procurement operations as it adjusts to new and future requirements relating to the chemical and materials composition of its products, their safe use, and the energy consumption associated with those products, including requirements relating to climate change. HP is also subject to legislation in an increasing number of jurisdictions that makes producers of electrical goods, including computers and printers, financially responsible for specified collection, recycling, treatment and disposal of past and future covered products (sometimes referred to as  product take-back legislation ). HP could incur substantial costs, its products could be restricted from entering certain jurisdictions, and it could face other sanctions, if it were to violate or become liable under environmental laws or if its products become noncompliant with environmental laws. HP s potential exposure includes fines and civil or criminal sanctions, third-party property damage or personal injury claims and clean-up costs. The amount and timing of costs to comply with environmental laws are difficult to predict. 
+  HP is party to, or otherwise involved in, proceedings brought by U.S. or state environmental agencies under the Comprehensive Environmental Response, Compensation and Liability Act ( CERCLA ), known as  Superfund,  or state laws similar to CERCLA, and may become a party to, or otherwise involved in, proceedings brought by private parties for  
+  
+   39 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 13: Litigations and Contingencies (Continued) 
+
+contribution towards clean-up costs. HP is also conducting environmental investigations or remediations at several current or former operating sites pursuant to administrative orders or consent agreements with state environmental agencies. 
+  The separation and distribution agreement includes provisions that provide for the allocation of environmental liabilities between HP and Hewlett Packard Enterprise including certain remediation obligations; responsibilities arising from the chemical and materials composition of their respective products, their safe use and their energy consumption; obligations under product take back legislation that addresses the collection, recycling, treatment and disposal of products; and other environmental matters. HP will generally be responsible for environmental liabilities related to the properties and other assets, including products, allocated to HP under the separation and distribution agreement and other ancillary agreements. Under these agreements, HP will indemnify Hewlett Packard Enterprise for liabilities for specified ongoing remediation projects, subject to certain limitations, and Hewlett Packard Enterprise has a payment obligation for a specified portion of the cost of those remediation projects. In addition, HP will share with Hewlett Packard Enterprise other environmental liabilities as set forth in the separation and distribution agreement. HP is indemnified in whole or in part by Hewlett Packard Enterprise for liabilities arising from the assets assigned to Hewlett Packard Enterprise and for certain environmental matters as detailed in the separation and distribution agreement. 
+
+Note 14: Guarantees, Indemnifications and Warranties 
+  Guarantees 
+  In the ordinary course of business, HP may issue performance guarantees to certain of its clients, customers and other parties pursuant to which HP has guaranteed the performance obligations of third parties. Some of those guarantees may be backed by standby letters of credit or surety bonds. In general, HP would be obligated to perform over the term of the guarantee in the event a specified triggering event occurs as defined by the guarantee. HP believes the likelihood of having to perform under a material guarantee is remote. 
+  Cross-Indemnifications with Hewlett Packard Enterprise 
+  Under the separation and distribution agreement, HP agreed to indemnify Hewlett Packard Enterprise, each of its subsidiaries and each of their respective directors, officers and employees from and against all liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to HP as part of the Separation. Hewlett Packard Enterprise similarly agreed to indemnify HP, each of its subsidiaries and each of their respective directors, officers and employees from and against all liabilities relating to, arising out of or resulting from, among other matters, the liabilities allocated to Hewlett Packard Enterprise as part of the Separation. HP expects Hewlett Packard Enterprise to fully perform under the terms of the separation and distribution agreement. 
+  In connection with the Separation, HP entered into the tax matters agreement ( TMA ) with Hewlett Packard Enterprise, effective on November 1, 2015. The TMA provides that HP and Hewlett Packard Enterprise will share certain pre-Separation income tax liabilities. In addition, if the distribution of Hewlett Packard Enterprise s common shares to the HP stockholders is determined to be taxable, Hewlett Packard Enterprise and HP would share the tax liability equally, unless the taxability of the distribution is the direct result of action taken by either Hewlett Packard Enterprise or HP subsequent to the distribution, in which case the party causing the distribution to be taxable would be responsible for any taxes imposed on the distribution. 
+  Indemnifications 
+  In the ordinary course of business, HP enters into contractual arrangements under which HP may agree to indemnify a third party to such arrangement from any losses incurred relating to the services they perform on behalf of HP or for losses arising from certain events as defined within the particular contract, which may include, for example, litigation or claims relating to past performance. HP also provides indemnifications to certain vendors and customers against claims of intellectual property infringement made by third parties arising from the vendors  and customers  use of HP s software products and services and certain other matters. Some indemnifications may not be subject to maximum loss clauses. Historically, payments made related to these indemnifications have been immaterial. 
+  HP records tax indemnification receivables from various third parties for certain tax liabilities that HP is jointly and severally liable for, but for which it is indemnified by those same third parties under existing legal agreements. The actual amount that the third parties pay may be obligated to pay HP could vary depending on the outcome of certain unresolved tax matters, which may not be resolved for several years. The net receivable as of   July 31, 2018   was   $953 million  . 
+  For information on the cross indemnifications related to litigations effective upon the Separation on November 1, 2015, see Note 13,  Litigation and Contingencies , respectively. 
+  Warranties 
+  
+   40 
+
+     Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+  Note 14: Guarantees, Indemnifications and Warranties (Continued) 
+
+HP accrues the estimated cost of product warranties at the time it recognizes revenue. HP engages in extensive product quality programs and processes, including actively monitoring and evaluating the quality of its component suppliers; however, contractual warranty terms, repair costs, product call rates, average cost per call, current period product shipments and ongoing product failure rates, as well as specific product class failures outside of HP s baseline experience, affect the estimated warranty obligation. 
+  HP s aggregate product warranty liabilities and changes were as follows: 
+                       
+    Nine months ended July 31, 2018 
+        
+    In millions 
+      Balance at beginning of period 
+    $ 
+    898 
+      
+      Accruals for warranties issued 
+    758 
+      
+      Adjustments related to pre-existing warranties (including changes in estimates) 
+    (14 
+    ) 
+      Settlements made (in cash or in kind) 
+    (747 
+    ) 
+      Balance at end of period 
+    $ 
+    895 
+
+Note 15: Acquisitions 
+  On November 1, 2017, HP completed the acquisition of Samsung s printer business. With this acquisition, HP now offers the industry s strongest portfolio of A3 multifunction printers that deliver the simplicity of printers with the high performance of copiers. The fully integrated portfolio, including next-generation PageWide technologies, offers opportunities to grow managed print and document services as sales models shift from transactional to contractual. HP reports the financial results of the above business in the Printing segment. 
+  The table below presents the preliminary purchase price allocation for HP's acquisition as of   November 1, 2017   and reflects various preliminary fair value estimates and analyses, including preliminary work performed by third-party valuation specialists, which are subject to change within the measurement period as valuations are finalized. The primary areas of the preliminary purchase price allocation that are not yet finalized relate to the fair values of certain tangible assets and liabilities acquired, the valuation of intangible assets acquired, certain legal matters, income and non-income based taxes, and residual goodwill. HP expects to continue to obtain information to assist it in determining the fair value of the net assets acquired at the acquisition date during the measurement period.  
+
+41 
+
+Table of Contents   
+  HP INC. AND SUBSIDIARIES 
+  Notes to Consolidated Condensed Financial Statements (Continued) 
+  (Unaudited) 
+
+Note 16: Intangibles 
+    
+  HP s acquired intangible assets were composed of:  
+
+During the   nine   months ended   July 31, 2018  , the increase in gross intangible assets was primarily due to intangible assets resulting from the acquisition of Samsung s printer business. The reported amounts are based on preliminary fair value estimates of the assets acquired. 
+    
+  As of July 31, 2018, estimated future amortization expense related to intangible assets was as follows: 
+
+42 
+
+Table of Contents   
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations 
+    
+  This Management s Discussion and Analysis of Financial Condition and Results of Operations ( MD A ) is organized as follows: 
+             
+    Overview.    A discussion of our business and other highlights affecting the company to provide context for the remainder of this MD A. 
+                
+    Critical Accounting Policies and Estimates.    A discussion of accounting policies and estimates that we believe are important to understanding the assumptions and judgments incorporated in our reported financial results. 
+                
+    Results of Operations.    An analysis of our operations financial results comparing the   three and nine   months ended   July 31, 2018   to the prior-year period. A discussion of the results of operations is followed by a more detailed discussion of the results of operations by segment. 
+                
+    Liquidity and Capital Resources.    An analysis of changes in our cash flows and a discussion of our liquidity and financial condition. 
+                
+    Contractual and Other Obligations.    An overview of contractual obligations, retirement and post-retirement benefit plan contributions, cost-saving plans, uncertain tax positions and off-balance sheet arrangements of our operations. 
+     The discussion of financial condition and results of our operations that follows provides information that will assist the reader in understanding our Consolidated Condensed Financial Statements, the changes in certain key items in those financial statements from year to year, and the primary factors that accounted for those changes, as well as how certain accounting principles, policies and estimates affect our Consolidated Condensed Financial Statements. This discussion should be read in conjunction with our Consolidated Condensed Financial Statements and the related notes that appear elsewhere in this document. 
+
+OVERVIEW 
+  We are a leading global provider of personal computing and other access devices, imaging and printing products, and related technologies, solutions, and services. We sell to individual consumers, SMBs and large enterprises, including customers in the government, health, and education sectors. We have three segments for financial reporting purposes: Personal Systems, Printing and Corporate Investments. The Personal Systems segment offers Commercial and Consumer desktop and notebook PCs, workstations, thin clients, Commercial mobility devices, retail point-of-sale systems, displays and other related accessories, software, support, and services for the commercial and consumer markets. The Printing segment provides Consumer and Commercial printer hardware, Supplies, solutions and services, as well as scanning devices. Corporate Investments include HP Labs and certain business incubation projects. 
+             
+    In Personal Systems, our strategic focus is on profitable growth through hyper market segmentation with respect to enhanced innovation in multi-operating systems, multi-architecture, geography, customer segments and other key attributes. Additionally, we are investing in premium form factors such as convertible notebooks and detachable notebooks, in order to meet customer preference for mobile, thinner and lighter devices.   The beginning of a market shift to contractual solutions includes an increased focus on Device as a Service.   We believe that we are well positioned due to our competitive product lineup. 
+                
+    In Printing, our strategic focus is on business printing, a shift to contractual solutions and Graphics, as well as expanding our footprint in the 3D printing marketplace. Business printing includes delivering solutions to SMBs and enterprise customers, such as multi-function and PageWide printers, including our JetIntelligence lineup of LaserJet printers. The shift to contractual solutions includes an increased focus on Managed Print Services and Instant Ink, which presents strong after-market supplies opportunities. In the Graphics space, we are focused on innovations such as our Indigo and Latex product offerings. We plan to continue to focus on shifting the mix in the installed base to higher value units and expanding our innovative Ink, Laser, Graphics and 3D printing programs. We continue to execute on our key initiatives of focusing on high-value products targeted at high usage categories and introducing new revenue delivery models. Our focus is on placing higher value printer units which offer strong annuity of toner and ink, the design and deployment of A3 products and solutions, accelerating growth in Graphic solutions and 3D printing. 
+     We continue to experience challenges that are representative of trends and uncertainties that may affect our business and results of operations. One set of challenges relates to dynamic market trends, such as forecasted declining PC Client markets  
+  
+   43 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+and flat home printing markets. A second set of challenges relates to changes in the competitive landscape. Our primary competitors are exerting competitive pressure in targeted areas and are entering new markets, our emerging competitors are introducing new technologies and business models, and our alliance partners in some businesses are increasingly becoming our competitors in others. A third set of challenges relates to business model changes and our go-to-market execution. 
+             
+    In Personal Systems,   we face challenges with the uncertainty of the market s ability to absorb increased prices and industry component availability. 
+                
+    In Printing, we are seeing signs of stabilization of demand in consumer and commercial markets, but are still experiencing an overall competitive pricing environment. We obtain a number of components from single sources due to technology, availability, price, quality or other considerations. For instance, we source the   majority of our A4 and a portion of our A3 portfolio of   laser printer engines and laser toner cartridges from Canon. Any decision by either party to not renew our agreement with Canon or to limit or reduce the scope of the agreement could adversely affect our net revenue from LaserJet products; however, we have a long-standing business relationship with Canon and anticipate renewal of this agreement. We are also seeing increases in commodity costs impacting our bill of materials. 
+     Our business and financial performance also depend significantly on worldwide economic conditions. Accordingly, we face global macroeconomic challenges, uncertainty in the markets, volatility in exchange rates, weaker macroeconomic conditions and evolving dynamics in the global trade environment. The impact of these and other global macroeconomic challenges on our business cannot be known at this time. 
+  To address these challenges, we continue to pursue innovation with a view towards developing new products and services aligned with generating market demand and meeting the needs of our customers and partners. In addition, we need to continue to improve our operations, with a particular focus on enhancing our end-to-end processes and efficiencies. We also need to continue to optimize our sales coverage models, align our sales incentives with our strategic goals, improve channel execution, strengthen our capabilities in our areas of strategic focus, and develop and capitalize on market opportunities.  
+  We typically experience higher net revenues in our first and fourth quarters compared to other quarters in our fiscal year due in part to seasonal holiday demand. Historical seasonal patterns should not be considered reliable indicators of our future net revenues or financial performance. 
+  For a further discussion of trends, uncertainties and other factors that could impact our operating results, see the sections entitled  Risk Factors  in Item 1A of Part II of this report, Item 1A of Part II of   our Quarterly Report on Form 10-Q for the fiscal quarter ended January 31, 2018   and Item 1A of Part I in our Annual Report on Form 10-K for the fiscal year ended October 31, 2017. 
+   
+  CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+  The MD A is based on our Consolidated Condensed Financial Statements, which have been prepared in accordance with U.S. GAAP. The preparation of these financial statements requires management to make estimates, judgments and assumptions that affect the reported amounts of assets, liabilities, net revenues and expenses, and disclosure of contingent liabilities. Our management believes that, other than with respect to Taxes on Earnings, there have been no significant changes during the   nine months ended     July 31, 2018   to the items that we disclosed as our critical accounting policies and estimates in MD A in our Annual Report on Form 10-K for the fiscal year ended October 31,   2017  . 
+  Taxes on Earnings 
+  The TCJA made significant changes to the U.S. tax law. The TCJA lowered our U.S. statutory federal income tax rate from 35% to 21% effective January 1, 2018, while also imposing a one-time transition tax on accumulated foreign earnings. For the three months ended January 31, 2018, we recorded a provisional tax benefit of $1.1 billion and for the three months ended April 30, 2018, we recorded a provisional tax expense of $379 million, which are considered provisional estimates under the Securities and Exchange Commission ( SEC ) Staff Accounting Bulletin ( SAB ) No. 118. 
+  
+   44 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+In December 2017, the SEC staff issued SAB No. 118, which addresses how a company recognizes provisional estimates when a company does not have the necessary information available, prepared or analyzed (including computations) in reasonable detail to complete its accounting for the effect of the changes in the TCJA. The measurement period ends when a company has obtained, prepared, and analyzed the information necessary to finalize its accounting, but cannot extend beyond one year. The final impact of the TCJA may differ from the provisional estimates due to changes in interpretations of the TCJA, legislative action to address questions that arise because of the TCJA, changes in accounting standard for income taxes and related interpretations in response to the TCJA, and updates or changes to estimates used in the provisional amounts. For the three months ended January 31, 2018, we recorded a provisional tax benefit of $1.1 billion related to the $5.5 billion net benefit for the decrease in our deferred tax liability on unremitted foreign earnings, partially offset by a $3.2 billion net expense for the deemed repatriation tax payable in installments over eight years and a $1.2 billion net expense for the remeasurement of our deferred tax assets and liabilities to the new U.S. statutory tax rate and for the three months ended April 30, 2018, we recorded provisional tax expense of $379 million related to realization on U.S. deferred taxes that are expected to be realized at a lower rate and a $43 million tax benefit as an adjustment to the provisional deemed repatriation tax amount. Resolution of the provisional estimates of the TCJA effects that are different from the assumptions made by us could have a material impact on our financial condition and operating results. 
+  Prior to the enactment of the TCJA, our effective tax rate included the impact of certain undistributed foreign earnings for which we have not provided U.S. federal taxes because we had planned to reinvest such earnings indefinitely outside the United States. We plan distributions of foreign earnings based on projected cash flow needs as well as the working capital and long-term investment requirements of our foreign subsidiaries and our domestic operations. Based on these assumptions, we estimate the amount we expect to indefinitely invest outside the United States and the amounts we expect to distribute to the United States and provide the U.S. federal taxes due on amounts expected to be distributed to the United States. Further, as a result of certain employment actions and capital investments we have undertaken, income from manufacturing activities in certain jurisdictions is subject to reduced tax rates and, in some cases, is wholly exempt from taxes for fiscal years through 2027. Material changes in our estimates of cash, working capital and long-term investment requirements in the various jurisdictions in which we do business could impact how future earnings are repatriated to the United States, and our related future effective tax rate. The effects of the TCJA related to these policies are referenced and discussed in detail in Note 6,  Taxes on Earnings  to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+   
+  ACCOUNTING PRONOUNCEMENTS 
+  For a summary of recent accounting pronouncements applicable to our Consolidated Condensed Financial Statements see Note 1,  Basis of Presentation , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+
+RESULTS OF OPERATIONS 
+  Revenue from our international operations has historically represented, and we expect will continue to represent, a majority of our overall net revenue. As a result, our net revenue growth has been impacted, and we expect it will continue to be impacted, by fluctuations in foreign currency exchange rates. In order to provide a framework for assessing performance excluding the impact of foreign currency fluctuations, we supplement the year-over-year percentage change in net revenue with the year-over-year percentage change in net revenue on a constant currency basis, which excludes the effect of foreign currency exchange fluctuations calculated by translating current period revenues using monthly average exchange rates from the comparative period and hedging activities from the prior-year period and does not adjust for any repricing or demand impacts from changes in foreign currency exchange rates. This information is provided so that net revenue can be viewed with and without the effect of fluctuations in foreign currency exchange rates, which is consistent with how management evaluates our net revenue results and trends, as management does not believe that the excluded items are reflective of ongoing operating results. The constant currency measures are provided in addition to, and not as a substitute for, the year-over-year percentage change in net revenue on a GAAP basis. Other companies may calculate and define similarly labeled items differently, which may limit the usefulness of this measure for comparative purposes. 
+  
+   45 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+Results of operations in dollars and as a percentage of net revenue were as follows: 
+
+Net Revenue 
+  For the three months ended   July 31, 2018  , total net revenue increased 11.7% (increased 8.8% on a constant currency basis) as compared to the prior-year period. U.S. net revenue increased 5.1% to $5.4 billion, while net revenue from international operations increased 15.9% to $9.2 billion. For the nine months ended July 31, 2018, total net revenue increased 13.1% (increased 10.5% on a constant currency basis) as compared to the prior-year period. U.S. net revenue increased 6.4% to $15.0 billion, while net revenue from international operations increased 16.9% to $28.1 billion. The increase in net revenue was primarily driven by growth in Notebooks, Desktops, Commercial Printing Hardware and Supplies revenue and favorable foreign currency impacts. 
+  A detailed discussion of the factors contributing to the changes in segment net revenue is included in  Segment Information  below. 
+  Gross Margin 
+  For the three months ended   July 31, 2018  , our gross margin decreased by 0.2 percentage points as compared to the prior-year period. The decrease was primarily driven by higher Commercial Hardware unit placements in Printing and higher commodity costs, partially offset by higher average selling prices ( ASPs ) in Personal Systems. For the nine months ended   July 31, 2018  , our gross margin remained flat, as compared to the prior-year period. 
+  A detailed discussion of the factors contributing to the changes in segment gross margins is included under  Segment Information  below. 
+  Operating Expenses 
+  Research and Development 
+  Research and development ( R D ) expense increased 20.1% and 16.8% for the   three and nine   months ended   July 31, 2018  , respectively, as compared to the prior-year periods, primarily due to continuing investment in Printing, including the acquisition of Samsung s printer business. 
+  Selling, General and Administrative 
+  Selling, general and administrative expense increased 11.9% and 14.1% for the   three and nine   months ended   July 31, 2018  , respectively, as compared to the prior-year periods, primarily driven by incremental go-to-market investments to support revenue growth, including the acquisition of Samsung s printer business. 
+  Restructuring and Other Charges 
+  Restructuring and other charges for the   three and nine   months ended   July 31, 2018   relate primarily to the Fiscal 2017 Plan and certain non-recurring costs, including those as a result of the Separation. The amounts for the three and nine months  
+  
+   46 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+ended   July 31, 2018   include an adjustment to the carrying amount of certain held for sale assets of   $29 million   associated with the consolidation of manufacturing into global hubs. 
+  Acquisition-related charges 
+  Acquisition-related charges for the   three and nine   months ended   July 31, 2018   relate primarily to third-party professional and legal fees, and integration-related costs, as well as fair value adjustments of certain acquired assets such as inventory. 
+  Amortization of Intangible Assets 
+  Amortization of intangible assets for the   three and nine   months ended   July 31, 2018   relate to intangible assets resulting primarily from the acquisition of Samsung s printer business. 
+  Interest and Other, Net 
+  Interest and other, net expense increased by $6 million and $810 million for the   three and nine   months ended   July 31, 2018  , respectively, as compared to the prior-year periods. The increase for the nine months ended July 31, 2018 is primarily due to reversal of indemnification receivables from Hewlett Packard Enterprise pertaining to various audit settlements, and loss on extinguishment of debt.  
+  (Provision for) benefit from Taxes 
+  As a result of U.S. tax reform, we revised our estimated annual effective tax rate to reflect the change in the U.S. federal statutory tax rate from 35% to 21%. Since we have a fiscal year ending October 31, we are subject to transitional tax rate rules. Therefore, a blended rate of 23% was computed as effective for the current fiscal year. Our effective tax rate was 13.6% and 22.5% for the three months ended July 31, 2018 and 2017, respectively and (93.2%) and 23.1% for the nine months ended July 31, 2018 and 2017, respectively. The difference between the current fiscal year blended U.S. federal statutory tax rate of 23% and our effective tax rate for the   three and nine   months ended July 31, 2018 is primarily due to favorable tax rates associated with certain earnings from our operations in lower-tax jurisdictions throughout the world and, for the nine month period only, transitional impacts of U.S. tax reform and resolution of various audits and tax litigation. For the   three and nine   months ended July 31, 2017 our effective tax rate generally differs from the U.S. federal statutory rate of 35% due to favorable tax rates associated with certain earnings from our operations in lower-tax jurisdictions throughout the world. We have not provided U.S. taxes for all foreign earnings because we plan to reinvest some of those earnings indefinitely outside the United States. 
+  During the   three and nine   months ended   July 31, 2018  , we recorded $7.0 million and $2.2 billion, respectively, of net tax benefits related to discrete items in the provision for taxes. As discussed in the Note 6  Taxes on Earnings  to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, we have not yet completed our analysis of the full impact of TCJA. However, for the three months January 31, 2018, we recorded a provisional tax benefit of $1.1 billion related to $5.5 billion net benefit for the decrease in our deferred tax liability on unremitted foreign earnings, partially offset by $3.2 billion net expense for the deemed repatriation tax payable in installments over eight years and $1.2 billion net expense for the revaluation of our deferred assets and liabilities to the new U.S. statutory tax rate. For the three months ended April 30, 2018, we recorded provisional tax expense of $379 million related to remeasurement of our U.S. deferred taxes that are expected to be realized at a lower rate and a $43 million tax benefit as an adjustment to the provisional deemed repatriation tax amount due to further analysis and additional guidance. For the three months ended July 31, 2018, we recorded net tax benefits of $12 million related to acquisition costs offset by other charges of $5 million. The nine months ended July 31, 2018 also included tax benefits related to audit settlements of $1.5 billion, loss on debt extinguishment of $33 million, acquisition costs of $13 million and other tax benefits of $10 million. These tax benefits were offset by uncertain tax position charges of $56 million. During the three and nine months ended July 31, 2018, in addition to the discrete items mentioned above, we recorded excess tax benefits of $2 million and $36 million, respectively, on stock options, restricted stock units and performance-adjusted restricted stock units. 
+  During the three and nine months ended July 31, 2017, we recorded $27 million and $31 million, respectively, of net tax benefits related to discrete items in the provision for taxes for continuing operations. These amounts included a tax benefit of $14 million and $45 million related to restructuring and other charges, and a tax benefit of $15 million and $28 million related to acquisition-related charges, offset by uncertain tax position charges of $19 million and $25 million, for the three and nine months ended July 31, 2017, respectively. The three and nine months ended July 31, 2017 also included a tax benefit of $12 million related to provision to return adjustments due to the filing of it s U.S. Federal tax return. The nine months ended July 31, 2017 also included a tax charge of $26 million related to state provision to return adjustm  ents. 
+  Segment Information 
+  A description of the products and services for each segment can be found in Note 2,  Segment Information  to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. Future changes to this organizational structure may result in changes to the segments disclosed. 
+  Realignment 
+   Effective at the beginning of its first quarter of fiscal year 2018, HP implemented an organizational change to align its segment and business unit financial reporting more closely with its current business structure. The organizational change  
+  
+   47 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+resulted in the transfer of long-life consumables from Commercial to Supplies within the Printing segment. Certain revenues related to service arrangements, which are being eliminated for the purposes of reporting HP s consolidated net revenue, have  
+  now been reclassified from Other to segments. HP has reflected this change to its segment and business unit information in prior reporting periods on an as-if basis. The reporting change had no impact on previously reported consolidated net revenue, earnings from operations, net earnings or net earnings per share. 
+
+Personal Systems 
+
+The components of net revenue and the weighted net revenue change by business unit were as follows: 
+
+Three months ended July 31, 2018 compared with three months ended July 31, 2017 
+  Personal Systems net revenue increased 12.0% (increased 8.6% on a constant currency basis) for the three months ended July 31, 2018 as compared to the prior-year period. The net revenue increase was primarily due to growth in Notebooks, Desktops and favorable foreign currency impacts. The net revenue increase was driven by a 6.3% and 5.4% increase in unit volume and ASPs, respectively, as compared to the prior-year period. The increase in unit volume was primarily due to growth in Notebooks and Desktops. The increase in ASPs was due to favorable foreign currency impacts and positive mix shifts. 
+  Consumer revenue increased 10.2% for the three months ended July 31, 2018 as compared to the prior-year period, driven by growth in Notebooks and Desktops as a result of higher unit volume combined with higher ASPs. Commercial revenue increased 12.9% as compared to the prior-year period, driven by growth in Notebooks, Desktops and Workstations. 
+  Net revenue increased 11.8% in Desktops, 12.5% in Notebooks and 10.9% in Workstations as compared to the prior-year period. 
+  Personal Systems earnings from operations as a percentage of net revenue increased by 0.2 percentage points for the three months ended July 31, 2018 as compared to the prior-year period, primarily due to an increase in gross margin partially offset by an increase in operating expenses. The increase in gross margin was primarily due to higher ASPs, partially offset by an increase in logistics and commodity costs. The increase in operating expenses was primarily due to increased investments in key growth initiatives and go-to-market. 
+  Nine months ended July 31, 2018 compared with nine months ended July 31, 2017 
+  Personal Systems net revenue increased 13.8% (increased 10.8% on a constant currency basis) for the nine months ended July 31, 2018 as compared to the prior-year period. The net revenue increase was primarily due to growth in Notebooks and Desktops and favorable foreign currency impacts. The net revenue increase was driven by a 6.8% and 6.5% increase in unit volume and ASPs, respectively, as compared to the prior-year period. The increase in unit volume was primarily due to growth in Notebooks and Desktops. The increase in ASPs was due to favorable pricing rate, foreign currency impacts and positive mix shifts. 
+  Consumer revenue increased 11.2% for the nine months ended July 31, 2018 as compared to the prior-year period, driven by growth in Notebooks and Desktops as a result of higher unit volume combined with higher ASPs. Commercial revenue increased 15.1% as compared to the prior-year period, driven by growth in Notebooks, Desktops and Workstations.  
+  
+   48 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+Net revenue increased 14.7% in Desktops, 13.8% in Notebooks and 10.1% in Workstations as compared to the prior-year period. 
+  Personal Systems earnings from operations as a percentage of net revenue increased by 0.1 percentage points for the nine months ended July 31, 2018 as compared to the prior-year period, primarily due to an increase in gross margin, driven by higher ASPs partially offset by an increase in logistics and commodity costs. 
+
+Printing 
+
+The components of net revenue and the weighted net revenue change by business unit were as follows: 
+
+Three months ended July 31, 2018 compared with three months ended July 31, 2017 
+  Printing net revenue increased 10.9% (increased 9.0% on a constant currency basis) for the three months ended July 31, 2018 as compared to the prior-year period. The increase in net revenue was driven by increases in both Supplies and     Hardware revenue, and favorable foreign currency impacts. Net revenue for Supplies increased 8.3% as compared to the prior-year period, including the acquisition of Samsung s printer business. Printer unit volume increased 12.1% while ASPs was flat as compared to the prior-year period. The increase in printer unit volume was primarily driven by unit increases in Commercial Hardware, including the Samsung-branded printers. Printer ASPs remained flat due to favorable foreign currency offset by dilution impact from Samsung-branded low-end A4 products. 
+  Net revenue for Commercial Hardware increased by 24.5% as compared to the prior-year period, including revenue from Samsung-branded printers, LaserJet and PageWide printers. The unit volume in Commercial Hardware increased primarily due to Samsung-branded printers. The ASP decrease in Commercial Hardware was primarily due to dilution impact from Samsung-branded low-end A4 products. 
+   Net revenue for Consumer Hardware increased 3.5% as compared to the prior-year period, primarily due to a 2.1% increase in printer unit volume, and nominal increase in ASPs. The unit volume increase was primarily driven by the LaserJet and InkJet Home business. The ASPs increase was primarily due to favorable foreign currency impacts, partially offset by mix shift to low-end printers. 
+  Printing earnings from operations as a percentage of net revenue decreased by 1.3 percentage points for the three months ended July 31, 2018 as compared to the prior-year period, primarily due to a decline in overall gross margin and an increase in operating expenses. The gross margin decrease was primarily driven by dilution impact from Samsung-branded low-end products and increase in commodity costs. Operating expenses increased primarily driven by the acquisition of Samsung s printer business and increases in investments in key growth initiatives and go-to-market. 
+  Nine months ended July 31, 2018 compared with nine months ended July 31, 2017 
+  
+   49 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+Printing net revenue increased 11.8% (increased 10.0% on a constant currency basis) for the nine months ended July 31, 2018 as compared to the prior-year period. The increase in net revenue was primarily driven by increase in Supplies and Hardware revenue, and favorable foreign currency impacts. Net revenue for Supplies increased by 8.8% as compared to the prior-year period, including the acquisition of Samsung s printer business. Printer unit volume increased 13.2% while ASPs increased 2.5% as compared to the prior-year period. The increase in printer unit volume was primarily driven by unit increases in Commercial and Consumer Hardware, including the Samsung-branded printers. Printer ASPs increased primarily due to favorable foreign currency impacts, partially offset by the dilution impact from Samsung-branded low-end A4 products. 
+  Net revenue for Commercial Hardware increased 26.2% as compared to the prior-year period, including revenue from Samsung-branded printers, LaserJet and PageWide printers. The unit volume in Commercial Hardware increased primarily due to Samsung-branded printers. The ASP decrease in Commercial Hardware was primarily due to the dilution impact from Samsung-branded low-end A4 products. 
+  Net revenue for Consumer Hardware increased 5.8% as compared to the prior-year period due to a 4.2% increase in printer unit volume and a 1.9% increase in ASPs. The unit volume increase was primarily driven by InkJet and LaserJet Home business. The ASP increase was primarily driven by favorable foreign currency impacts. 
+  Printing earnings from operations as a percentage of net revenue decreased by 1.0 percentage points for the nine months ended July 31, 2018 as compared to the prior-year period primarily due to an increase in operating expenses. The gross margin remained flat due to operational improvements and favorable foreign currency impacts, offset by the dilution impact of Samsung-branded low-end products. Operating expenses increased primarily driven by the acquisition of Samsung s printer business and increases in investments in key growth initiatives and go-to-market. 
+  Corporate Investments 
+  The loss from operations in Corporate Investments for the   three   months and nine months ended   July 31, 2018   was primarily due to expenses associated with our incubation projects. 
+   
+  LIQUIDITY AND CAPITAL RESOURCES 
+  We use cash generated by operations as our primary source of liquidity. We believe that internally generated cash flows are generally sufficient to support our operating businesses, capital expenditures, restructuring activities, maturing debt, income tax payments and the payment of stockholder dividends, in addition to investments and share repurchases. We are able to supplement this short-term liquidity, if necessary, with broad access to capital markets and credit facilities made available by various domestic and foreign financial institutions. While our access to capital markets may be constrained and our cost of borrowing may increase under certain business, market and economic conditions, our access to a variety of funding sources to meet our liquidity needs is designed to facilitate continued access to capital resources under all such conditions. Our liquidity is subject to various risks including the risks identified in the section entitled  Risk Factors  in Item 1A of Part I in our Annual Report on Form 10-K for the fiscal year ended October 31, 2017 and the market risks identified in the section entitled  Quantitative and Qualitative Disclosures about Market Risk  in Item 3 of Part I of this report, which are incorporated herein by reference. 
+  Our cash balances are held in numerous locations throughout the world, with the majority of those amounts held outside of the United States. We utilize a variety of planning and financing strategies in an effort to ensure that our worldwide cash is available when and where it is needed. Our cash position remains strong, and we expect that our cash balances, anticipated cash flow generated from operations and access to capital markets will be sufficient to cover our expected near-term cash outlays. 
+  On August 1, 2018, we announced a definitive agreement to acquire Apogee Corporation, a U.K. based office equipment dealer ( OED ) and provider of print, outsourced services, and document and process technology for approximately  380M. The transaction is expected to close by the end of calendar year 2018, pending regulatory review and other customary closing conditions. 
+  Amounts held outside of the United States are generally utilized to support non-U.S. liquidity needs,     and may from time to time be distributed to the United States. The TCJA made significant changes to the U.S. tax law, including a one-time transition tax on accumulated foreign earnings. The payments associated with this one-time transition tax will be paid over eight years beginning 2019. We expect a significant portion of the cash and cash equivalents held by our foreign subsidiaries will no longer be subject to U.S. income tax consequences upon a subsequent repatriation to the United States as a result of the transition tax on accumulated foreign earnings. However, a portion of this cash may still be subject to foreign income tax or withholding tax consequences upon repatriation. As we evaluate the impact of the TCJA and the future cash needs of our operations, we may revise the amount of foreign earnings considered to be permanently reinvested in our foreign subsidiaries and how to utilize such funds, including reducing our gross debt level, returning capital to shareholders with a focus on incremental share repurchase or other uses. 
+  
+   50 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+Liquidity 
+  Our key cash flow metrics were as follows: 
+
+Operating Activities 
+  Compared to the corresponding period in fiscal year   2017  , net cash provided by operating activities increased by   $0.6 billion   for the   nine months ended     July 31, 2018  , primarily driven by higher earnings from operations. 
+  Working Capital Metrics 
+  Management utilizes current cash conversion cycle information to manage HP s working capital levels. Our working capital metrics and cash conversion cycle impacts were as follows: 
+
+July 31, 2018 as compared to July 31, 2017 
+  The cash conversion cycle is the sum of DSO and DOS less DPO. Items which may cause the cash conversion cycle in a particular period to differ from a long-term sustainable rate include, but are not limited to, changes in business mix, changes in payment terms, extent of receivables factoring, seasonal trends and the timing of revenue recognition and inventory purchases within the period. 
+  DSO measures the average number of days our receivables are outstanding. DSO is calculated by dividing ending accounts receivable, net of allowance for doubtful accounts, by a 90-day average net revenue. The decrease in DSO was primarily due to favorable foreign currency impacts. 
+  DOS measures the average number of days from procurement to sale of our product. DOS is calculated by dividing ending inventory by a 90-day average cost of revenue. The increase in DOS was primarily due to leveraging our balance sheet, particularly through strategic inventory investments, in transit and sea shipments. 
+  DPO measures the average number of days our accounts payable balances are outstanding. DPO is calculated by dividing ending accounts payable by a 90-day average cost of revenue. The DPO remained flat as of July 31, 2018 as compared to the prior-year period. 
+  Investing Activities 
+  Compared to the corresponding period in fiscal year   2017  , net cash used in investing activities decreased by   $0.9 billion   for the   nine months ended     July 31, 2018  , primarily due to a decrease in investments classified as available-for-sale investments within Other current assets by $1.2 billion and collateral related to our derivatives of $0.7 billion, partially offset by the payment of $1.0 billion for the acquisition of Samsung s printer business. 
+  Financing Activities 
+  Compared to the corresponding period in fiscal year   2017  , net cash used in financing activities increased by   $3.0 billion   for the   nine months ended     July 31, 2018  , primarily due to the payment for the repurchase of debt of   $2.0 billion   and a higher share repurchase settlement amount of   $1.0 billion  . 
+  Capital Resources 
+  
+   51 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+Debt Levels 
+  We maintain debt levels that we establish through consideration of a number of factors, including cash flow expectations, cash requirements for operations, investment plans (including acquisitions), share repurchase activities, our cost of capital and targeted capital structure. Outstanding borrowings decreased to $  7.2 billion   as of   July 31, 2018   as compared to   $7.8 billion   as of   October 31,     2017  , bearing weighted-average interest rates of 4.0% for July 31, 2018 and October 31, 2017, primarily due to the payment for the repurchase of approximately $1.85 billion in aggregate principal amount of U.S. Dollar Global Notes, partially offset by issuance of commercial paper of $1.2 billion. 
+  Our weighted-average interest rate reflects the average effective rate on our borrowings prevailing during the period and reflects the impact of interest rate swaps. For more information on our interest rate swaps, see Note 9,  Financial Instruments , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+  As of   July 31, 2018  , we maintain a senior unsecured committed revolving credit facility with aggregate lending commitments of   $4.0 billion  , which will be available until March 30, 2023 and is primarily to support the issuance of commercial paper. Funds borrowed under this revolving credit facility may also be used for general corporate purposes. As of   July 31, 2018  , we had   $2.1 billion   of commercial paper outstanding. 
+  We increased our issuance authorization under our commercial paper program from $4.0 billion to $6.0 billion in November 2017. In December 2017, we also entered into an additional revolving credit facility with certain institutional lenders that provided us with   $1.5 billion   of available borrowings until November 30, 2018. We elected to terminate this   $1.5 billion   revolving credit facility early, effective August 17, 2018. 
+  Available Borrowing Resources 
+  We had the following resources available to obtain short or long-term financing in addition to the commercial paper and revolving credit facilities discussed above: 
+
+For more information on our borrowings, see Note 10,  Borrowings , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+  Credit Ratings 
+  Our credit risk is evaluated by major independent rating agencies based upon publicly available information as well as information obtained in our ongoing discussions with them. While we do not have any rating downgrade triggers that would accelerate the maturity of a material amount of our debt, previous downgrades have increased the cost of borrowing under our credit facilities, have reduced market capacity for our commercial paper and have required the posting of additional collateral under some of our derivative contracts. In addition, any further downgrade to our credit ratings by any rating agencies may further impact us in a similar manner, and, depending on the extent of any such downgrade, could have a negative impact on our liquidity and capital position. We can access alternative sources of funding, including drawdowns under our credit facilities, if necessary, to offset potential reductions in the market capacity for our commercial paper. 
+   
+  CONTRACTUAL AND OTHER OBLIGATIONS 
+  Retirement and Post-Retirement Benefit Plan Contributions 
+  As of   July 31, 2018  , we anticipate making contributions for the remainder of fiscal year   2018   of approximately   $12 million   to our non-U.S. pension plans,   $8 million   to cover benefit payments to U.S. non-qualified pension plan participants and   $4 million   to cover benefit claims for our post-retirement benefit plans. Our policy is to fund our pension plans so that we meet at least the minimum contribution requirements, as established by local government, funding and taxing authorities. For more information on our retirement and post-retirement benefit plans, see Note 4,  Retirement and Post-Retirement Benefit Plans , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+  Cost Savings Plan 
+  We expect to make future cash payments of approximately   $316 million   in connection with our cost savings plans through fiscal year 2019. For more information on our restructuring activities that are part of our cost improvements, see Note 3,  Restructuring and Other Charges , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+  Uncertain Tax Positions  
+  
+   52 
+
+     Table of Contents  
+  HP INC. AND SUBSIDIARIES 
+  Management s Discussion and Analysis of 
+  Financial Condition and Results of Operations (Continued) 
+
+As of   July 31, 2018  , we had approximately   $1.4 billion   of recorded liabilities and related interest and penalties pertaining to uncertain tax positions. We are unable to make a reasonable estimate as to when cash settlement with the tax authorities might occur due to the uncertainties related to these tax matters. Payments of these obligations would result from settlements with taxing authorities. For more information on our uncertain tax positions, see Note 6,  Taxes on Earnings , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+  Payment of one-time transition taxes under the TCJA 
+  The TCJA made significant changes to U.S. tax law resulting in a one-time gross transition tax on accumulated foreign earnings of   $3.1   billion. We expect the actual cash payments for the tax to be much lower as we expect to reduce the overall liability by more than half once existing and future credits and other balance sheet attributes are used.  
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+  As part of our ongoing business, we have not participated in transactions that generate material relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities, which would have been established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. 
+  We have third-party short-term financing arrangements intended to facilitate the working capital requirements of certain customers. For more information on our third-party short-term financing arrangements, see Note 7,  Supplementary Financial Information , to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+  
+   53 
+
+Table of Contents   
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+  For quantitative and qualitative disclosures about market risk affecting HP, see  Quantitative and Qualitative Disclosures About Market Risk  in Item 7A of Part II of our Annual Report on Form 10-K for the fiscal year ended October 31,   2017  , which is incorporated herein by reference. Our exposure to market risk has not changed materially since October 31,   2017  . 
+   
+  Item 4. Controls and Procedures. 
+  Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of the end of the period covered by this report (the  Evaluation Date ). Based on this evaluation, our principal executive officer and principal financial officer concluded as of the Evaluation Date that our disclosure controls and procedures were effective such that the information relating to HP, including our consolidated subsidiaries, required to be disclosed in our SEC reports (i) is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (ii) is accumulated and communicated to HP s management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+  Under the supervision and with the participation of our management, including our principal executive officer and principal financial officer, we conducted an evaluation of any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during our most recently completed fiscal quarter. Based on that evaluation, our principal executive officer and principal financial officer concluded that there has not been any change in our internal control over financial reporting during that quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+  
+   54 
+
+Table of Contents   
+
+PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings. 
+  Information with respect to this item may be found in Note 13,  Litigation and Contingencies  to the Consolidated Condensed Financial Statements in Item 1 of Part I of this report, which is incorporated herein by reference. 
+   
+  Item 1A. Risk Factors. 
+  Our operations and financial results are subject to various risks and uncertainties, including those described in Part I, Item 1A,  Risk Factors  in our Annual Report on Form 10-K for the fiscal year ended October 31,   2017   and Part II, Item 1A,  Risk Factors  in our Quarterly Report on Form 10-Q for the fiscal quarter ended January 31, 2018, which could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common and capital stock.   Other than the risk factor set forth below, t  here have been no material changes in our risk factors since our Quarterly Report on Form 10-Q for the fiscal quarter ended April 30,   2018  . 
+  System security risks, data protection breaches, cyberattacks and systems integration issues could disrupt our internal operations or services provided to customers, and any such disruption could reduce our revenue, increase our expenses, damage our reputation and adversely affect our stock price. 
+    
+  Experienced computer programmers and hackers, including state-sponsored organizations or nation-states, may be able to penetrate our network security and misappropriate or compromise our confidential information or that of third parties, create system disruptions or cause shutdowns. Computer programmers and hackers also may be able to develop and deploy viruses, worms, ransomware and other malicious software programs that attack our products or otherwise exploit any security vulnerabilities of our products, or attempt to fraudulently induce our employees, customers, or others to disclose passwords or other sensitive information or unwittingly provide access to our systems or data. In addition, sophisticated hardware and operating system software and applications that we produce or procure from third-parties may contain defects in design or manufacture, including  bugs  and other problems that could unexpectedly interfere with the operation of the system. The costs to us to eliminate or alleviate cyber or other security problems, including bugs, viruses, worms, malicious software programs and other security vulnerabilities, could be significant, and our efforts to address these problems may not be successful and could result in interruptions, delays, cessation of service and loss of existing or potential customers that may impede our sales, manufacturing, distribution or other critical functions. Media or other reports of perceived security vulnerabilities in our network security, even if nothing has actually been attempted or occurred, could also adversely impact our brand and reputation and materially affect our business. While we have developed and implemented security measures and internal controls designed to protect against cyber and other security problems, such measures cannot provide absolute security and may not be successful in preventing future security breaches. In the past, we have experienced data security incidents resulting from unauthorized use of our systems or those of third parties, which to date have not had a material impact on our operations; however, there is no assurance that such impacts will not be material in the future. 
+    
+  We manage and store various proprietary information and sensitive or confidential data relating to our business and our customers. Breaches of our security measures or the accidental loss, inadvertent disclosure or unapproved dissemination of proprietary information or sensitive or confidential data about us, our clients or our customers, including the potential loss or disclosure of such information or data as a result of fraud, trickery or other forms of deception, could expose us, our customers or the individuals affected to a risk of loss or misuse of this information, result in litigation and potential liability for us, damage our brand and reputation or otherwise harm our business. We also could lose existing or potential customers or incur significant expenses in connection with our customers  system failures or any actual or perceived security vulnerabilities in our products and services. In addition, the cost and operational consequences of implementing further data protection measures could be significant. 
+    
+  Portions of our IT infrastructure also may experience interruptions, delays or cessations of service or produce errors in connection with systems integration or migration work that takes place from time to time. We may not be successful in implementing new systems and transitioning data, which could cause business disruptions and be more expensive, time-consuming, disruptive and resource intensive. Such disruptions could adversely impact our ability to fulfill orders and respond to customer requests and interrupt other processes. Delayed sales, lower margins or lost customers resulting from these disruptions could reduce our revenue, increase our expenses, damage our reputation and adversely affect our stock price. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+  
+   55 
+
+     Table of Contents          
+
+Recent Sales of Unregistered Securities 
+  There were no unregistered sales of equity securities during the period covered by this report. 
+  Issuer Purchases of Equity Securities 
+
+On October 10, 2016, HP s Board of Directors authorized $3.0 billion for future repurchases of its outstanding shares of common stock. On June 19, 2018, HP s Board of Directors authorized an additional $4.0 billion for future repurchases of its outstanding shares of common stock. This program, which does not have a specific expiration date, authorizes repurchases in the open market or in private transactions. HP intends to use repurchases from time to time to offset the dilution created by shares issued under employee stock plans and to repurchase shares opportunistically. All share repurchases settled in the   third   quarter of fiscal year   2018   were open market transactions. As of   July 31, 2018  , HP had approximately   $4.5 billion   remaining under the share repurchase authorizations. 
+
+Item 3. Defaults Upon Senior Securities. 
+  None. 
+   
+  Item 4. Mine Safety Disclosures. 
+  Not applicable. 
+   
+  Item 5. Other Information. 
+  Not applicable  . 
+   
+  Item 6. Exhibits. 
+  The Exhibit Index beginning on page    57    of this report sets forth a list of exhibits. 
+  
+   56 
+
+Table of Contents   
+
+SIGNATURE 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+                   
+    HP INC. 
+        
+    /s/ STEVE FIELER 
+        
+    Steve Fieler 
+  Chief Financial Officer 
+  (Principal Financial Officer and 
+  Authorized Signatory) 
+
+Date: August 28, 2018 
+
+57 
+
+Table of Contents   
+
+HP INC. AND SUBSIDIARIES 
+  EXHIBIT INDEX 
+
+58 
+
+     Table of Contents   
+
+59 
+
+     Table of Contents   
+
+60 
+
+     Table of Contents   
+
+61 
+
+     Table of Contents   
+
+62 
+
+     Table of Contents   
+
+63 
+
+     Table of Contents   
+
+64 
+
+     Table of Contents   
+
+Exhibit 
+  Number 
+
+Incorporated by Reference 
+        
+    Exhibit Description 
+      
+    Form 
+      
+    File No. 
+      
+    Exhibit(s) 
+      
+    Filing Date 
+      31.2 
+
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended.   
+
+32 
+
+Certification of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.   
+
+101.INS 
+
+XBRL Instance Document.  
+
+101.SCH 
+
+XBRL Taxonomy Extension Schema Document.  
+
+101.CAL 
+
+XBRL Taxonomy Extension Calculation Linkbase Document.  
+
+101.DEF 
+
+XBRL Taxonomy Extension Definition Linkbase Document.  
+
+101.LAB 
+
+XBRL Taxonomy Extension Label Linkbase Document.  
+
+101.PRE 
+
+XBRL Taxonomy Extension Presentation Linkbase Document.  
+
+_______________________________________________________________________________ 
+  *    Indicates management contract or compensatory plan, contract or arrangement. 
+  **    Certain schedules and exhibits to this agreement have been omitted pursuant to Item 601(b)(2) of Registration S-K. A copy of any omitted schedule and/or exhibit will be furnished supplementally to the SEC upon request. 
+       Filed herewith. 
+       Furnished herewith. 
+  The registrant agrees to furnish to the Commission supplementally upon request a copy of (1) any instrument with respect to long-term debt not filed herewith as to which the total amount of securities authorized thereunder does not exceed 10% of the total assets of the registrant and its subsidiaries on a consolidated basis and (2) any omitted schedules to any material plan of acquisition, disposition or reorganization set forth above. 
+  
+   65 
+
+<EX-31.1>
+ 2
+ hp-73118xexhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  CERTIFICATION 
+  I, Dion J. Weisler, certify that: 
+  1. I have reviewed this Quarterly Report on Form 10-Q of HP Inc.; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+     5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+     Date: August 28, 2018  
+
+/s/ DION J. WEISLER 
+
+Dion J. Weisler 
+  President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ hp-73118xexhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  CERTIFICATION 
+  I, Steve Fieler, certify that: 
+  1. I have reviewed this Quarterly Report on Form 10-Q of HP Inc.; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+           (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+     5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+           (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+     Date: August 28, 2018  
+
+/s/ STEVE FIELER 
+
+Steve Fieler 
+  Chief Financial Officer 
+  (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ hp-73118xexhibit32.htm
+ EXHIBIT 32
+
+Exhibit 
+
+Exhibit 32 
+    
+  CERTIFICATION 
+  OF 
+  CHIEF EXECUTIVE OFFICER 
+  AND 
+  CHIEF FINANCIAL OFFICER 
+  PURSUANT TO 18 U.S.C. 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+    
+  I, Dion J. Weisler, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of HP Inc. for the   third   quarter ended   July 31, 2018   fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of HP Inc. 
+  August 28, 2018  
+
+/s/ DION J. WEISLER 
+
+By: 
+      
+    Dion J. Weisler 
+  President and Chief Executive Officer 
+
+________________________________________________________________________________________________________________________ 
+  I, Steve Fieler, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of HP Inc. for the   third   quarter ended   July 31, 2018   fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of HP Inc. 
+  August 28, 2018  
+
+/s/ STEVE FIELER 
+
+By: 
+      
+    Steve Fieler 
+  Chief Financial Officer 
+  (Principle Financial Officer)  
+
+________________________________________________________________________________________________________________________ 
+  A signed original of this written statement required by Section 906 has been provided to HP Inc. and will be retained by HP Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ hpq-20180731.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ hpq-20180731.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ hpq-20180731_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ hpq-20180731_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ hpq-20180731_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ hpq-20180731_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

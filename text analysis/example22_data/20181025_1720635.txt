@@ -1,0 +1,1109 @@
+ntents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  FORM 10-Q  
+
+OR 
+
+Commission file number 001-38265 
+  nVent Electric plc 
+
+(Exact name of Registrant as specified in its charter) 
+                   Ireland 
+       
+    98-1391970 
+      (State or other jurisdiction of incorporation or organization) 
+       
+    (I.R.S. Employer Identification number) 
+
+The Mille, 1000 Great West Road, 8th Floor (East), London, TW8 9DW, United Kingdom 
+      (Address of principal executive offices) 
+
+Registrant's telephone number, including area code: 44-20-3966-0279 
+  Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.  Yes       No     
+    
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 223.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). 
+  Yes       No     
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+                               Large accelerated filer     
+       
+    Accelerated filer   o 
+       
+    Non-accelerated filer   o 
+       
+    Smaller reporting  company   o 
+      
+    Emerging growth company   o 
+
+(Do not check if a smaller reporting company) 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     
+  Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes       No     
+  On   September 30, 2018  ,   179,425,993   shares of Registrant's common stock were outstanding. 
+
+Table of Contents  
+
+nVent Electric plc 
+
+Page 
+
+PART I FINANCIAL INFORMATION 
+
+ITEM 1. 
+     Financial Statements (unaudited)  
+
+Condensed Consolidated and Combined Statements of Income and Comprehensive Income for the three and nine months ended September 30, 2018 and 2017  
+    3 
+
+Condensed Consolidated and Combined Balance Sheets as of September 30, 2018 and December 31, 2017  
+    4 
+
+Condensed Consolidated and Combined Statements of Cash Flows for the nine months ended September 30, 2018 and 2017  
+    5 
+
+Condensed Consolidated and Combined Statements of Changes in Equity for the nine months ended September 30, 2018 and 2017  
+    6 
+
+Notes to Condensed Consolidated and Combined Financial Statements  
+    7 
+
+ITEM 2. 
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    27 
+
+ITEM 3. 
+     Quantitative and Qualitative Disclosures about Market Risk  
+    39 
+
+ITEM 4. 
+     Controls and Procedures  
+    39 
+
+PART II OTHER INFORMATION 
+
+ITEM 1. 
+     Legal Proceedings  
+    40 
+
+ITEM 1A. 
+     Risk Factors  
+    40 
+
+ITEM 2. 
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    41 
+
+ITEM 6. 
+     Exhibits  
+    41 
+
+Signatures  
+    42 
+
+2 
+
+Table of Contents  
+
+PART I FINANCIAL INFORMATION 
+    
+  ITEM 1.    FINANCIAL STATEMENTS 
+   
+  nVent Electric plc 
+  Condensed Consolidated and Combined Statements of Income and Comprehensive Income (Unaudited) 
+
+See accompanying notes to condensed consolidated and combined financial statements. 
+  
+   3 
+
+Table of Contents  
+
+nVent Electric plc 
+  Condensed Consolidated and Combined Balance Sheets (Unaudited) 
+
+See accompanying notes to condensed consolidated and combined financial statements. 
+  
+   4 
+
+Table of Contents  
+
+nVent Electric plc 
+  Condensed Consolidated and Combined Statements of Cash Flows (Unaudited)    
+
+  See accompanying notes to condensed consolidated and combined financial statements. 
+  
+   5 
+
+Table of Contents  
+
+nVent Electric plc 
+  Condensed Consolidated and Combined Statements of Changes in Equity (Unaudited) 
+
+See accompanying notes to condensed consolidated and combined financial statements. 
+
+6 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+1.  Basis of Presentation and Responsibility for Interim Financial Statements 
+  Business 
+  nVent Electric plc ("nVent," "we," "us," "our" or the "Company") is a leading global provider of electrical connection and protection solutions.  The Company is comprised of   three   reporting segments: Enclosures, Thermal Management and Electrical   Fastening Solutions. 
+  The Company was incorporated in Ireland on May 30, 2017.  Although our jurisdiction of organization is Ireland, we manage our affairs so that we are centrally managed and controlled in the United Kingdom (the "U.K.") and therefore have tax residency in the U.K. 
+  Separation from Pentair 
+  On April 30, 2018, Pentair plc ("Pentair" or "Parent") completed the separation of its Water business and its Electrical business into two independent, publicly-traded companies (the "separation").  To effect the separation, Pentair distributed to its shareholders   one   ordinary share of nVent for every ordinary share of Pentair held as of the record date of April 17, 2018.  As a result of the distribution, nVent is now an independent publicly-traded company and began "regular way" trading under the symbol "NVT" on the New York Stock Exchange on May 1, 2018.  
+  In connection with the separation, we filed a Registration Statement on Form 10 (as amended, the  Form 10 ) with the Securities and Exchange Commission (the  SEC ), which was declared effective on April 9, 2018.  The Form 10 included an Information Statement describing the details of the separation and providing information as to our business and management.   The final version of the Information Statement was filed with the SEC as Exhibit 99.1 to our Current Report on Form 8-K/A filed with the SEC on April 11, 2018 (the "Information Statement"). 
+    
+  Except where indicated, references below to transactions completed by nVent prior to April 30, 2018 refer to transactions completed by or on behalf of the Electrical reporting segment of Pentair that are reflected on the condensed consolidated and combined financial statements of nVent. 
+  Basis of presentation 
+  The accompanying unaudited condensed consolidated and combined financial statements of nVent have been prepared following the requirements of the SEC for interim reporting.  As permitted under those rules, certain footnotes or other financial information that are normally required by accounting principles generally accepted in the United States of America ("GAAP") can be condensed or omitted.  As these are condensed financial statements, one should also read our combined financial statements and notes thereto for the year ended December 31, 2017, which were included in the Information Statement. 
+  We are responsible for the unaudited condensed consolidated and combined financial statements included in this document.  The financial statements include all normal recurring adjustments that are considered necessary for the fair presentation of our financial position, results of operations and cash flows for the interim periods presented. 
+  Revenues, expenses, cash flows, assets and liabilities can and do vary during each quarter of the year.  Therefore, the results and trends in these interim financial statements may not be indicative of those for a full year. 
+  The financial statements for periods prior to April 30, 2018 were prepared on a stand-alone basis derived from the consolidated financial statements and records of Pentair as if nVent were operated on a stand-alone basis.  These condensed consolidated and combined financial statements have been prepared in U.S. dollars ( USD ) and in accordance with GAAP. 
+  Cost allocations 
+  For periods prior to the separation, the condensed consolidated and combined financial statements of nVent include general corporate expenses of Pentair for certain support functions that were provided on a centralized basis, such as expenses related to executive management, finance, audit, legal, information technology, human resources, communications, facilities and employee benefits and compensation.  These general corporate expenses are included in the Condensed Consolidated and Combined Statements of Income and Comprehensive Income within   Selling, general and administrative expense   and   Other expense  . 
+  The amount allocated was   $17.1 million   for the three months ended September 30, 2017, of which   $7.7 million   was historically recorded to the Electrical segment in Pentair s consolidated financial statements.  The amounts allocated were   $42.5 million   and   $49.6 million   for the nine months ended   September 30, 2018   and 2017, respectively, of which   $10.3 million   and   $23.2 million  , respectively, were historically recorded to the Electrical segment in Pentair's consolidated financial statements.  These  
+  
+   7 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+expenses were allocated to nVent on the basis of direct usage when identifiable, with the remainder allocated based on a proportional basis of net sales, headcount or other measures.  
+  nVent considers the allocation methodology regarding Pentair s general corporate expenses to be reasonable for all periods presented.  Nevertheless, the condensed consolidated and combined financial statements of nVent for periods prior to the separation may not reflect the actual expenses that would have been incurred and may not reflect nVent s condensed consolidated and combined results of operations, financial position and cash flows had it been a stand-alone company during the periods presented.  Actual costs for periods prior to the separation that would have been incurred if nVent had been a stand-alone company would depend on multiple factors including organization structure, capital structure and strategic decisions made in various areas, including information technology and infrastructure.  Transactions between nVent and Pentair have been included in related party transactions in these unaudited condensed consolidated and combined financial statements and were considered to be effectively settled at the time the transaction was recorded.  The total net effect of the settlement of these transactions is reflected in the Condensed Consolidated and Combined Statements of Cash Flows as a financing activity and in the Condensed Consolidated and Combined Balance Sheets as   Net Parent investment  .  The   Net Parent investment   represents Pentair s historical investment in nVent, the net effect of cost allocations from transactions with Pentair, net transfers of cash and assets to Pentair and nVent s accumulated earnings.  See Note 10 for a further description of related party transactions and   Net Parent investment  . 
+  Prior to the separation, transfers of cash, both to and from Pentair s centralized cash management system were reflected as a component of   Net Parent investment   in the Condensed Consolidated and Combined Balance Sheets and as a financing activity on the Condensed Consolidated and Combined Statements of Cash Flows.  For periods prior to the separation, the cash and cash equivalents held by Pentair at the corporate level were not attributed to nVent, as legal ownership remained with the former Parent.  
+    
+  For periods prior to the separation, certain nVent operations were included in Pentair s U.S. federal and state income tax returns, and substantially all income taxes on those operations have been paid by Pentair.  Income tax expense and other income tax related information contained in these condensed consolidated and combined financial statements for periods prior to the separation are presented on a separate return approach as if nVent filed its own tax returns.  Under this approach, the provision for income taxes represents income tax paid or payable (or received or receivable) for the current year plus the change in deferred taxes during the year calculated as if nVent was a stand-alone taxpayer filing hypothetical income tax returns where applicable.  Current income tax liabilities are assumed to be immediately settled with Pentair and are relieved through the   Net Parent investment   account and the   Net transfers to Parent   in the Condensed Consolidated and Combined Statements of Cash Flows. 
+    
+  Adoption of new accounting standards 
+  On January 1, 2018, we adopted Accounting Standards Update ("ASU") No. 2017-07, "Retirement Benefits-Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost."  As a result of the adoption, the interest cost, expected return on plan assets and net actuarial gain/loss components of net periodic pension and post-retirement benefit cost have been reclassified from   Selling, general and administrative expense   to   Other expense  .  Only the service cost component remains in   Operating income   and will be eligible for capitalization in assets on a prospective basis.  
+  The effect of the retrospective presentation change related to the net periodic cost of our defined benefit pension and other post-retirement plans on our Condensed Consolidated and Combined Statements of Income and Comprehensive Income was a reclassification of   $1.4 million   and   $4.2 million   for the three and nine months ended September 30, 2017, respectively, from   Selling, general and administrative expense   to   Other expense  . 
+  On January 1, 2018, we adopted ASU No. 2016-16, "Accounting for Income Taxes: Intra-Entity Asset Transfers of Assets Other than Inventory" using the modified retrospective method. The ASU requires the tax effects of all intra-entity sales of assets other than inventory to be recognized in the period in which the transaction occurs.  The adoption resulted in a   $174.5 million   cumulative-effect adjustment recorded in equity as of the beginning of 2018 that reflects a   $201.5 million   reduction of non-current prepaid income tax assets, partially offset by the establishment of   $27.0 million   of deferred tax assets.  
+  On January 1, 2018, we adopted ASU No. 2014-09, "Revenue from Contracts with Customers" and the related amendments ("ASC 606" or "the new revenue standard") using the modified retrospective method.  As a result of adoption, the cumulative impact to our beginning equity at January 1, 2018 was   $1.8 million  .  The comparative information has not been restated and continues to be reported under the accounting standards in effect for those periods.  We expect the impact of the adoption of the new standard to be immaterial to our net income on an ongoing basis. 
+  
+   8 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+A majority of our net sales continue to be recognized when products are shipped from our manufacturing facilities or delivery has occurred, depending on terms of the sale.  Under the new standard, timing for recognition of certain revenue may be accelerated such that a portion of revenue will be recognized prior to shipment or delivery dependent upon contract-specific terms. 
+  The impact of adopting the new standard primarily relates to the accounting for certain custom products manufactured by our Enclosures segment.  Previously revenue was recognized for these custom products upon shipment.  However, as these products have no alternative use to the Company and we have an enforceable right to payment for our performance completed to date, revenue related to these custom products will now be recognized over time.  Additionally, the new revenue standard resulted in reclassifications on the Condensed Consolidated and Combined Balance Sheets related to accounting for sales returns. 
+  The impact of adoption of the new revenue standard on our Condensed Consolidated and Combined Statements of Income and Comprehensive Income for the three and nine months ended September 30, 2018 and Condensed Consolidated and Combined Balance Sheets as of September 30, 2018 was not material. 
+  The cumulative effect of the changes made to our January 1, 2018 Condensed Consolidated and Combined Balance Sheets from the modified retrospective adoption of ASU 2016-16 and ASU 2014-09 was as follows: 
+
+New accounting standards issued but not yet adopted 
+    
+  In February 2016, the Financial Accounting Standards Board ("FASB") issued ASU 2016-02, "Leases" ("the new lease standard" or "ASC 842"), which requires an entity to recognize both assets and liabilities arising from financing and operating leases, along with additional qualitative and quantitative disclosures.  In July 2018, the FASB issued ASU No. 2018-11, which provides entities with an additional transition method to adopt ASC 842.  Under the new transition method, an entity initially applies the new lease standard at the adoption date, versus at the beginning of the earliest period presented, and recognizes a cumulative-effect adjustment to the opening balance of retained earnings in the period of adoption.  The Company intends to adopt the new lease guidance as of January 1, 2019 and expects to elect the transition method at the adoption date.  In preparation for adoption of the new guidance, the Company has reviewed lease contracts and evaluated the impact of applying the package of practical expedients.  Based on procedures performed to date, we expect the primary impact to our consolidated financial position upon adoption will be the recognition, on a discounted basis, of our minimum commitments under noncancelable operating leases on our consolidated and combined balance sheets resulting in the recording of right of use assets and lease obligations.  We do not expect the new guidance to have a material impact on our Consolidated and Combined Statements of Income or our Consolidated and Combined Statement of Cash Flows.  Adoption of this standard will require changes to our business processes, systems and controls.  We are in the process of implementing such changes. 
+  
+   9 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+2.  Revenue 
+  Revenue recognition 
+  Revenue is recognized when control of the promised goods or services are transferred to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for transferring those goods or providing services.  We account for a contract when it has approval and commitment from both parties, the rights of the parties are identified, payment terms are identified, the contract has commercial substance and collectability of consideration is probable. 
+  When determining whether the customer has obtained control of the goods or services, we consider any future performance obligations.  Generally, there is no post-shipment obligation on product sold other than warranty obligations in the normal and ordinary course of business.  In the event significant post-shipment obligations were to exist, revenue recognition would be deferred until nVent has substantially accomplished what it must do to be entitled to the benefits represented by the revenues. 
+  Performance obligations    
+  A performance obligation is a promise in a contract to transfer a distinct good or service to the customer, and is the unit of account in ASC 606.  A contract s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied.  The majority of our contracts have a single performance obligation as the promise to transfer the individual goods or services is not separately identifiable from other promises in the contracts and, therefore, not distinct.  For contracts with multiple performance obligations, stand-alone selling price is generally readily observable. 
+  Our performance obligations are satisfied at a point in time or over time as work progresses.  Revenue from products and services transferred to customers at a point in time accounted for   73%   and   87%   of our revenue for the three-month periods ended   September 30, 2018   and 2017, respectively, and   72%   and   86%   of our revenue for the   nine-month   periods ended   September 30, 2018   and 2017, respectively.  Revenue on these contracts is recognized when obligations under the terms of the contract with our customer are satisfied; generally this occurs with the transfer of control upon shipment. 
+  Revenue from products and services transferred to customers over time accounted for   27%   and   13%   of our revenue for the three-month periods ended   September 30, 2018   and 2017, respectively, and   28%   and   14%   of our revenue for the   nine-month   periods ended   September 30, 2018   and 2017, respectively.  The increase in our revenue recognized on an over time basis in the first nine months of 2018 compared to the first nine months of 2017 is primarily the result of the impact of the new revenue standard for certain custom products manufactured by our Enclosures segment.  Previously, revenue was recognized for these custom products upon shipment.  However, as these products have no alternative use to the Company and we have an enforceable right to payment for our performance completed to date, revenue related to these custom products will now be recognized over time. 
+  For the majority of our revenue recognized over time, we use an input measure to determine progress towards completion.  Under this method, sales and gross profit are recognized as work is performed generally based on the relationship between the actual costs incurred and the total estimated costs at completion ("the cost-to-cost method") or based on efforts for measuring progress towards completion in situations in which this approach is more representative of the progress on the contract than the cost-to-cost method.  Contract costs include labor, material, overhead and, when appropriate, general and administrative expenses.  Changes to the original estimates may be required during the life of the contract and such estimates are reviewed on a regular basis.  Sales and gross profit are adjusted using the cumulative catch-up method for revisions in estimated total contract costs.  These reviews have not resulted in adjustments that were significant to our results of operations.  For performance obligations related to long-term contracts, when estimates of total costs to be incurred on a performance obligation exceed total estimates of revenue to be earned, a provision for the entire loss on the performance obligation is recognized in the period the loss is determined.  
+  We use an output method to measure progress towards completion for certain of our Enclosures businesses, as this method appropriately depicts performance towards satisfaction of the performance obligation.  Under the output method, revenue is recognized based on number of units produced. 
+  On   September 30, 2018  , we had   $54.6 million   of remaining performance obligations on contracts with original expected duration of one year or more.  We expect to recognize the majority of our remaining performance obligations on these contracts within the next   twelve   to   eighteen months  . 
+  Sales returns 
+  The right of return may exist explicitly or implicitly with our customers.  Our return policy allows for customer returns only upon our authorization.  Goods returned must be product we continue to market and must be in salable condition.  When the  
+  
+   10 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+right of return exists, we adjust the transaction price for the estimated effect of returns.  We estimate the expected returns based on historical sales levels, the timing and magnitude of historical sales return levels as a percent of sales, type of product, type of customer and a projection of this experience into the future. 
+  Pricing and sales incentives 
+  Our sales contracts may give customers the option to purchase additional goods or services priced at a discount.  Options to acquire additional goods or services at a discount can come in many forms, such as customer programs and incentive offerings including pricing arrangements, promotions and other volume-based incentives. 
+  We reduce the transaction price for certain customer programs and incentive offerings including pricing arrangements, promotions and other volume-based incentives that represent variable consideration.  Sales incentives given to our customers are recorded using either the expected value method or most likely amount approach for estimating the amount of consideration to which nVent shall be entitled.  The expected value is the sum of probability-weighted amounts in a range of possible consideration amounts.  An expected value is an appropriate estimate of the amount of variable consideration when there are a large number of contracts with similar characteristics.  The most likely amount is the single most likely amount in a range of possible consideration amounts (that is, the single most likely outcome of the contract).  The most likely amount is an appropriate estimate of the amount of variable consideration if the contract has limited possible outcomes (for example, an entity either achieves a performance bonus or does not). 
+  Pricing is established at or prior to the time of sale with our customers and we record sales at the agreed-upon net selling price.  However, certain of our businesses allow customers to apply for a refund of a percentage of the original purchase price if they can demonstrate sales to a qualifying end customer.  We use the expected value method to estimate the anticipated refund to be paid based on historical experience and reduce sales for the probable cost of the discount.  The cost of these refunds is recorded as a reduction of transaction price. 
+  Volume-based incentives involve rebates that are negotiated at or prior to the time of sale with the customer and are redeemable only if the customer achieves a specified cumulative level of sales or sales increase.  Under these incentive programs, at the time of sale, we estimate the anticipated rebate to be paid based on forecasted sales levels.  These forecasts are updated at least quarterly for each customer and the transaction price is reduced for the anticipated cost of the rebate.  If the forecasted sales for a customer changes, the accrual for rebates is adjusted to reflect the new amount of rebates expected to be earned by the customer. 
+  Shipping and handling costs 
+  Amounts billed to customers for shipping and handling activities after the customer obtains control are treated as a promised service performance obligation and recorded in   Net sales   in the accompanying Condensed Consolidated and Combined Statements of Income and Comprehensive Income.  Shipping and handling costs incurred by nVent for the delivery of goods to customers are considered a cost to fulfill the contract and are included in   Cost of goods sold   in the accompanying Condensed Consolidated and Combined Statements of Income and Comprehensive Income. 
+  Contract assets and liabilities 
+  Contract assets consist of unbilled amounts resulting from sales under long-term contracts when the cost-to-cost method of revenue recognition is utilized and revenue recognized exceeds the amount billed to the customer, such as when the customer retains a small portion of the contract price until completion of the contract.  We typically receive interim payments on sales under long-term contracts as work progresses, although for some contracts, we may be entitled to receive an advance payment. Contract liabilities consist of advanced payments and billings in excess of costs incurred and deferred revenue.  
+  Contract assets are recorded within   Other current assets   and contract liabilities are recorded within   Other current liabilities   in the Condensed Consolidated and Combined Balance Sheets.  
+  
+   11 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+Contract assets and liabilities consisted of the following:   
+
+  The   $0.9 million     decrease   in net contract   assets   from   December 31, 2017   to   September 30, 2018   was primarily the result of timing of milestone payments.  The majority of our contract liabilities at   December 31, 2017   were recognized in revenue as of   September 30, 2018  .  There were   no   impairment losses recognized on our contract assets for the nine months ended   September 30, 2018  . 
+  Practical expedients and exemptions 
+  We generally expense incremental costs of obtaining a contract when incurred because the amortization period would be less than one year.  These costs primarily relate to sales commissions and are recorded in   Selling, general and administrative expense   in the Condensed Consolidated and Combined Statements of Income and Comprehensive Income.  
+  We do not disclose the value of unsatisfied performance obligations for contracts with an original expected length of one year or less.  Further, we do not adjust the promised amount of consideration for the effects of a significant financing component if we expect, at contract inception, that the period between when we transfer a promised good or service to a customer and when the customer pays for that good or service will be one year or less. 
+  Revenue by category 
+  We disaggregate our revenue from contracts with customers by geographic location and vertical for each of our segments, as we believe these best depict how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors. 
+  Geographic net sales information by segment, based on geographic destination of the sale, was as follows:   
+
+12 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+(1)    Developed Europe   - Represents Western Europe and Eastern Europe included in European Union. 
+  (2)    Developing   - Represents China, Eastern Europe not included in European Union, Latin America, Middle East and Southeast Asia. 
+  (3)    Other Developed   - Represents Australia and Japan. 
+    
+  Vertical net sales information by segment was as follows:   
+
+13 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+14 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+3. 
+    Restructuring 
+     During the   nine months ended     September 30, 2018  , we continued execution of certain business restructuring initiatives, which we initiated in the year ended December 31, 2017, aimed at reducing our fixed cost structure and realigning our business. Initiatives during the   nine months ended     September 30, 2018   included the reduction in hourly and salaried headcount of approximately   50   employees.  
+  Restructuring related costs included in   Selling, general and administrative     expense   in the Condensed Consolidated and Combined Statements of Income and Comprehensive Income included costs for severance and other restructuring costs as follows:      
+
+  Other restructuring costs primarily consist of asset impairment and various contract termination costs. 
+  Restructuring costs by reportable segment were as follows:   
+
+  Activity related to accrued severance and related costs recorded in   Other current liabilities   in the Condensed Consolidated and Combined Balance Sheets is summarized as follows for the   nine months ended     September 30, 2018  :   
+
+15 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+4. 
+    Earnings Per Share 
+     On April 30, 2018, Pentair completed the separation of its Electrical business, distributing to its shareholders   one   ordinary share of nVent for every ordinary share of Pentair held as of the record date of April 17, 2018.  The computations of basic and diluted earnings per share for periods prior to the separation were calculated using the shares that were distributed to Pentair shareholders upon the separation. 
+  Basic and diluted earnings per share were calculated as follows:   
+
+5. 
+    Goodwill and Other Identifiable Intangible Assets 
+     The changes in the carrying amount of goodwill by reportable segment were as follows:   
+
+  In January   2018  , we completed an acquisition as part of our Electrical   Fastening Solutions segment with a purchase price of   $2.0 million   in cash, net of cash acquired. 
+  Identifiable intangible assets consisted of the following:   
+
+16 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+Identifiable intangible asset amortization expense was   $15.2 million   and   $15.4 million   for the three months ended   September 30, 2018   and   2017  , respectively, and   $45.8 million   and   $46.0 million   for the nine months ended   September 30, 2018   and   2017  , respectively. 
+  Estimated future amortization expense for identifiable intangible assets during the remainder of   2018   and the next five years is as follows:   
+
+17 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+6. 
+     Supplemental Balance Sheet Information 
+
+18 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+7. 
+    Derivatives and Financial Instruments 
+     Derivative financial instruments 
+  We conduct business in various locations throughout the world and are subject to market risk due to changes in the value of foreign currencies in relation to our reporting currency, the U.S. dollar.  We manage our economic and transaction exposure to certain market-based risks through the use of foreign currency derivative financial instruments.  Our objective in holding these derivatives is to reduce the volatility of net earnings and cash flows associated with changes in foreign currency exchange rates.  The majority of our foreign currency contracts have an original maturity date of less than one year. The derivative contracts contain credit risk to the extent that our bank counterparties may be unable to meet the terms of the agreements.  The amount of such credit risk is generally limited to the unrealized gains, if any, in such contracts. Such risk is minimized by limiting those counterparties to major financial institutions of high credit quality.  
+  Foreign currency contracts 
+  At   September 30, 2018   and   December 31, 2017  , we had outstanding foreign currency derivative contracts with gross notional U.S. dollar equivalent amounts of   $19.9 million   and   $10.7 million  , respectively.  The impact of these contracts on the Condensed Consolidated and Combined Statements of Income and Comprehensive Income was not material for any period presented. In October 2018, we entered into a foreign currency derivative contract with a gross notional U.S. dollar equivalent amount of   $100.6 million  . 
+  Gains or losses on foreign currency contracts designated as hedges are reclassified out of Accumulated Other Comprehensive Loss ("AOCI") and into   Selling, general and administrative     expense   in the Condensed Consolidated and Combined Statements of Income and Comprehensive Income when the hedged transactions affect earnings. Such reclassifications during the   three and nine months ended     September 30, 2018   and   2017   were not material. 
+  Net investment hedge 
+  We have net investments in foreign subsidiaries that are subject to changes in the foreign currency exchange rate.  In October 2018, we designated a cross-currency swap with a gross notional U.S. dollar equivalent amount of   $69.1 million   as a net investment hedge for a portion of our net investment in our Euro denominated subsidiaries.  Gains or losses resulting from the change in fair value of the net investment hedge will be included as a component of the cumulative translation adjustment account within AOCI and offset gains and losses on the underlying foreign currency exposures. 
+    
+  Fair value of financial instruments 
+  The following methods were used to estimate the fair values of each class of financial instruments:    
+             
+    short-term financial instruments (cash and cash equivalents, accounts and notes receivable, accounts and notes payable and variable-rate debt)   recorded amount approximates fair value because of the short maturity period; 
+                
+    long-term fixed-rate debt, including current maturities   fair value is based on market quotes available for issuance of debt with similar terms, which are inputs that are classified as Level 2 in the valuation hierarchy defined by the accounting guidance; 
+                
+    foreign currency contract agreements   fair values are determined through the use of models that consider various assumptions, including time value, yield curves, as well as other relevant economic measures, which are inputs that are classified as Level 2 in the valuation hierarchy defined by the accounting guidance; and 
+                
+    deferred compensation plan assets (mutual funds, common/collective trusts and cash equivalents for payment of certain non-qualified benefits for retired, terminated and active employees)   fair value of mutual funds and cash equivalents are based on quoted market prices in active markets that are classified as Level 1 in the valuation hierarchy defined by the accounting guidance; fair value of common/collective trusts are based on observable inputs that are classified as Level 2 in the valuation hierarchy defined by the accounting guidance. 
+     
+   19 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+The recorded amounts and estimated fair values of total debt, excluding unamortized issuance costs and discounts, were as follows:   
+
+  Financial assets and liabilities measured at fair value on a recurring and nonrecurring basis were as follows:   
+
+(1) 
+    During the fourth quarter of 2017, we completed our annual intangible assets impairment review.  As a result, we recorded a pre-tax non-cash impairment charge of   $16.4 million  .  The impairment charge reduced the carrying value of the impacted trade name intangibles to   $16.2 million  .  The fair value of trade names is measured using the relief-from-royalty method.  This method assumes the trade name has value to the extent that the owner is relieved of the obligation to pay royalties for the benefits received from them.  This method requires us to estimate the future revenue for the related brands, the appropriate royalty rate and the weighted average cost of capital.  
+     
+   20 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+Debt and the average interest rates on debt outstanding were as follows:   
+
+  Senior notes 
+  In March 2018, nVent Finance S.  r.l. ( nVent Finance  or "Subsidiary Issuer"), a 100-percent owned subsidiary of nVent, issued   $300.0 million   aggregate principal amount of   3.950%   senior notes due 2023 (the "2023 Notes") and   $500.0 million   aggregate principal amount of   4.550%   senior notes due 2028 (the "2028 Notes" and, collectively with the 2023 Notes, the "Notes").  Interest on the Notes is payable semi-annually in arrears on April 15 and October 15 of each year, beginning October 15, 2018. In August 2018, nVent and nVent Finance filed a Registration Statement on Form S-4 with the SEC to exchange the Notes for new, registered Notes.  The exchange offer was completed on October 22, 2018, pursuant to which substantially all of the Notes were exchanged for the new, registered Notes.  The exchange offer did not impact the aggregate principle amount of the Notes outstanding.  
+  The Notes are fully and unconditionally guaranteed as to payment by the Parent Company Guarantor.  There are no subsidiaries that guarantee the Notes.  The Parent Company Guarantor has no independent assets or operations unrelated to its investments in its consolidated subsidiaries. The Parent Company Guarantor s only direct subsidiary is the Subsidiary Issuer.  The Subsidiary Issuer has no independent assets or operations unrelated to its investments in its consolidated subsidiaries and the issuance of the Notes and other external debt. 
+    
+  The Notes constitute general unsecured senior obligations of the Subsidiary Issuer and rank equally in right of payment with all existing and future unsubordinated and unsecured indebtedness and liabilities of the Subsidiary Issuer.  The guarantees of the Notes by the Parent Company Guarantor constitute general unsecured obligations of the Parent Company Guarantor and rank equally in right of payment with all existing and future unsubordinated and unsecured indebtedness and liabilities of the Subsidiary Issuer.  Subject to certain qualifications and exceptions, the indenture pursuant to which the Notes were issued contains covenants that, among other things, restrict nVent s, nVent Finance s and certain subsidiaries  ability to merge or consolidate with another person, create liens or engage in sale and lease-back transactions. 
+    
+  There are no significant restrictions on the ability of nVent to obtain funds from its subsidiaries by dividend or loan.  None of the assets of nVent or its subsidiaries represents restricted net assets pursuant to the guidelines established by the SEC. 
+    
+  Senior credit facilities 
+  In March 2018, nVent Finance entered into a credit agreement with a syndicate of banks providing for a   five  -year   $200.0 million   senior unsecured term loan facility (the "Term Loan Facility") and a   five  -year   $600.0 million   senior unsecured revolving credit facility (the "Revolving Credit Facility" and, together with the Term Loan Facility, the "Senior Credit Facilities").  We have the option to request to increase the Revolving Credit Facility in an aggregate amount of up to   $300.0 million  , subject to customary conditions, including the commitment of the participating lenders.  There were   no   outstanding borrowings under the Revolving Credit Facility as of   September 30, 2018  . We repaid   $50.0 million   of outstanding principal on the Term Loan Facility during the   third quarter   of   2018  . 
+  Our debt agreements contain certain financial covenants, the most restrictive of which are in the Senior Credit Facilities, including that we may not permit (i) the ratio of our consolidated debt (net of our consolidated unrestricted cash in excess of   $5.0 million   but not to exceed   $250.0 million  ) to our consolidated net income (excluding, among other things, non-cash gains and losses) before interest, taxes, depreciation, amortization and non-cash share-based compensation expense ("EBITDA") on  
+  
+   21 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+the last day of any period of four consecutive fiscal quarters to exceed   3.75   to   1.00   and (ii) the ratio of our EBITDA to our consolidated interest expense for the same period to be less than   3.00   to   1.00  .  In addition, subject to certain qualifications and exceptions, the Senior Credit Facilities also contain covenants that, among other things, restrict our ability to create liens, merge or consolidate with another person, make acquisitions and incur subsidiary debt.  As of   September 30, 2018  , we were in compliance with all financial covenants in our debt agreements.  
+  Debt outstanding, excluding unamortized issuance costs and discounts, at   September 30, 2018   matures on a calendar year basis as follows:   
+
+9. 
+    Income Taxes 
+     The effective income tax rate for the   nine months ended     September 30, 2018   was   16.3%  , compared to   18.4%   for   nine months ended     September 30, 2017  .  The tax rate in any quarter can be affected positively or negatively by adjustments that are required to be reported in the specific quarter of resolution.  The liability for uncertain tax positions was   $18.6 million   and   $24.6 million   at   September 30, 2018   and   December 31, 2017  , respectively.  We record penalties and interest related to unrecognized tax benefits in   Provision for income taxes   and   Interest expense  , respectively, on the Condensed Consolidated and Combined Statements of Income and Comprehensive Income, which is consistent with our past practices. 
+  U.S. tax reform 
+  On December 22, 2017, the Tax Cuts and Jobs Act of 2017 (the  Act ) was signed into law making significant changes to the Internal Revenue Code.  Changes include, but are not limited to, a corporate tax rate decrease from   35%   to   21%   effective for tax years beginning after December 31, 2017, the transition of U.S. international taxation from a worldwide tax system to a territorial system, and a one-time transition tax on the mandatory deemed repatriation of cumulative foreign earnings as of December 31, 2017.  
+  Given the significance of the Act, Staff Accounting Bulletin No. 118 ("SAB 118") was issued to address the application of GAAP in situations when a registrant does not have the necessary information available, prepared or analyzed (including computations) in reasonable detail to complete the accounting for certain income tax effects of the Act.  SAB 118 allows registrants to record provisional amounts during a one year  measurement period.   The measurement period is deemed to have ended when the registrant has obtained, prepared and analyzed the information necessary to finalize its accounting.  During the measurement period, impacts of the law are expected to be recorded at the time a reasonable estimate for all or a portion of the effects can be made, and provisional amounts can be recognized and adjusted as information becomes available, prepared or analyzed. 
+  The Company calculated its best estimate of the impact of the Act in its December 31, 2017 income tax provision in accordance with its understanding of the Act and guidance available as of the date of the filing of the Form 10 and as a result recorded a provisional income tax benefit of   $84.8 million   in the fourth quarter of 2017, the period in which the legislation was enacted. The provisional amount related to the remeasurement of certain deferred tax assets and liabilities based on the rates at which they are expected to reverse in the future was a decrease to income tax expense of   $122.0 million  .  The remeasurement of deferred taxes requires further analysis regarding the state tax impacts of the remeasurement, the impact of the Act on the taxation of executive compensation arrangements, changes to tax capitalization provisions and other aspects of the Act that may impact our tax balances.  We are continuing to gather additional information to complete our accounting for these items and we will complete the analysis in the fourth quarter of 2018. 
+  The amount related to the one-time transition tax on the mandatory deemed repatriation of foreign earnings was an increase to income tax expense of   $32.9 million  , which represents a decrease of   $4.3 million   compared to the provisional amount recorded at December 31, 2017. 
+  
+   22 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+10. 
+    Related Party Transactions and Net Parent Investment 
+     The Parent s business model prior to the separation included a combination of stand-alone and combined business functions between Pentair and nVent, varying by region and country.  Sales to Pentair were not material for all periods prior to the separation.  During the periods prior to the separation, nVent engaged in cash pooling arrangements with related parties managed centrally by the Parent.  
+  The condensed consolidated and combined financial statements of nVent include allocations of these costs between Pentair and nVent for periods prior to the separation.  Such allocations are estimates, and also may not represent the cost of such services if performed on a stand-alone basis.  See further description of cost allocations in Note 1. 
+  The Condensed Consolidated and Combined Balance Sheets of nVent for periods prior to the separation include certain of the Parent assets and liabilities that are specifically identifiable or otherwise attributable to nVent and were transferred to nVent upon completion of the separation. Transactions between nVent and Pentair prior to the separation are considered to be effectively settled at the time the transaction was recorded.  The net effect of these transactions is included in the Condensed Consolidated and Combined Statements of Cash Flows as   Net transfers to Parent  .  
+  Net Parent investment   in the Condensed Consolidated and Combined Balance Sheets represents the Parent s historical investment in the Company, the net effect of cost allocations from transactions with the Parent, net transfers of cash and assets to the Parent and nVent s accumulated earnings.  
+   
+   We sponsor defined-benefit pension plans and a post-retirement health plan. The defined benefit pension plans cover certain non-U.S. employees and retirees, and the pension benefits are based principally on an employee s years of service and/or compensation levels near retirement.  These plans are accounted for as defined benefit pension plans for purposes of the condensed consolidated and combined financial statements.  Accordingly, the funded position of these plans and the related expense are recorded in the condensed consolidated and combined financial statements.  The unfunded post-retirement health plan covers certain U.S. employees and retirees and provides a fixed monthly dollar credit for retiree health care expenses.  The benefit obligation and related expense for this plan are included in the condensed consolidated and combined financial statements. 
+  Components of net periodic benefit cost for our pension plans for the   three and nine months ended     September 30, 2018   and   2017   were as follows:   
+
+  As described in Note 1, during the first quarter of 2018, the Company adopted ASU 2017-07.  As a result, service costs are classified as employee compensation costs within   Cost of goods sold   and   Selling, general and administrative expense   within the Condensed Consolidated and Combined Statements of Income and Comprehensive Income.  All other components of net periodic benefit cost are classified within   Other expense   for the periods presented. 
+  Components of net periodic benefit cost for our other post-retirement health plan for the   three and nine months ended     September 30, 2018   and   2017   were not material. 
+  Prior to the separation, certain Company employees participated in defined benefit pension plans and post-retirement health plans sponsored by Pentair ("Shared Plans"), which also included other Pentair participants.  For purposes of these condensed consolidated and combined financial statements, the Company accounts for the Shared Plans as multi-employer benefit plans. Accordingly, the Company did not record an asset or liability to recognize the funded status of the Shared Plans.  However, the Company did record expense attributable to its employees who participated in the Shared Plans, as well as expense allocated for Pentair s corporate and shared functional employees.  The total expense was   $1.8 million   for the three months ended  
+  
+   23 
+
+     Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+September 30, 2017  , and   $0.9 million   and   $5.4 million   for the   nine months   ended   September 30, 2018   and   2017  , respectively.  nVent did not assume any benefit obligation of the Shared Plans as a result of the separation. 
+   
+   Prior to the separation on April 30, 2018, the Company's employees participated in stock-based compensation plans sponsored by Pentair.  The share-based compensation expense recorded by the Company includes the expenses associated with employees historically attributable to the Company s operations.  Additionally, a portion of share-based compensation expense for Pentair s corporate and shared functional employees has been allocated to the Company s financial statements.   
+  Total share-based compensation expense for the   three and nine months ended     September 30, 2018   and   2017   were as follows:   
+
+  In May 2018, we issued our annual share-based compensation grants under the nVent Electric plc 2018 Omnibus Incentive Plan to eligible employees.  The total number of awards issued was   1.4 million  , of which   0.3 million   were restricted stock units,   0.9 million   were stock options and   0.2 million   were performance share units.  The weighted-average grant date fair value of the restricted stock units, stock options and performance share units issued was   $25.34  ,   $5.04   and   $25.34  , respectively.  
+  We estimated the fair value of each stock option award issued in the annual share-based compensation grant using a Black-Scholes option pricing model, modified for dividends and using the following assumptions:   
+
+  These estimates require us to make assumptions based on historical results, observance of trends in our share price, changes in option exercise behavior, future expectations and other relevant factors.  If other assumptions had been used, share-based compensation expense, as calculated and recorded under the accounting guidance, could have been affected. 
+  We based the expected life assumption on historical experience as well as the terms and vesting periods of the options granted. For purposes of determining expected share price volatility, we considered a rolling average of historical volatility measured over a period approximately equal to the expected option term.  The risk-free interest rate for periods that coincide with the expected life of the options is based on the U.S. Treasury Department yield curve in effect at the time of grant.  
+  
+   24 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+13. 
+    Shareholders' Equity 
+     Share repurchases 
+  On July 23, 2018, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of   $500.0 million  . The authorization expires on July 23, 2021.  We made no purchases of our ordinary shares during the third quarter of 2018. 
+  Dividends Paid 
+  On July 23, 2018, the Board of Directors declared a quarterly cash dividend of   $0.175   that was paid on August 17, 2018 to shareholders of record at the close of business on August 3, 2018.  
+  Dividends Payable 
+  On September 18, 2018, the Board of Directors declared a quarterly cash dividend of   $0.175   payable on November 2, 2018 to shareholders of record at the close of business on October 19, 2018.  As a result, the balance of dividends payable included in   Other current liabilities   on our Condensed Consolidated Balance Sheets was   $31.4 million   at   September 30, 2018  . 
+   
+           14. 
+    Segment Information 
+     We evaluate performance based on net sales and segment income (loss) and use a variety of ratios to measure performance of our reporting segments.  These results are not necessarily indicative of the results of operations that would have occurred had each segment been an independent, stand-alone entity during the periods presented.  Segment income (loss) represents operating income exclusive of intangible amortization, separation costs, net interest expense, costs of restructuring and other activities and other unusual non-operating items. 
+  Financial information by reportable segment is as follows:   
+
+  The following table presents a reconciliation of segment income to income before income taxes:   
+
+25 
+
+Table of Contents  
+  nVent Electric plc 
+  Notes to condensed consolidated and combined financial statements (unaudited) 
+
+15. 
+    Commitments and Contingencies 
+     Warranties and guarantees 
+  In connection with the disposition of our businesses or product lines, we may agree to indemnify purchasers for various potential liabilities relating to the sold business, such as pre-closing tax, product liability, warranty, environmental, or other obligations.  The subject matter, amounts and duration of any such indemnification obligations vary for each type of liability indemnified and may vary widely from transaction to transaction.  
+  Generally, the maximum obligation under such indemnifications is not explicitly stated and as a result, the overall amount of these obligations cannot be reasonably estimated.  Historically, we have not made significant payments for these indemnifications.  We believe that if we were to incur a loss in any of these matters, the loss would not have a material effect on our financial position, results of operations or cash flows.  
+  We recognize, at the inception of a guarantee, a liability for the fair value of the obligation undertaken in issuing the guarantee.  
+  We provide service and warranty policies on our products.  Liability under service and warranty policies is based upon a review of historical warranty and service claim experience.  Adjustments are made to accruals as claim data and historical experience warrant. Our liability for service and product warranties as of   September 30, 2018   and   December 31, 2017   was   no  t material.  
+  Stand-by letters of credit, bank guarantees and bonds 
+  In disposing of assets or businesses, we often provide representations, warranties and indemnities to cover various risks including unknown damage to the assets, environmental risks involved in the sale of real estate, liability to investigate and remediate environmental contamination at waste disposal sites and manufacturing facilities and unidentified tax liabilities and legal fees related to periods prior to disposition.  We do not have the ability to reasonably estimate the potential liability due to the inchoate and unknown nature of these potential liabilities. However, we have no reason to believe that these uncertainties would have a material adverse effect on our financial position, results of operations or cash flows.  
+  In the ordinary course of business, we are required to commit to bonds, letters of credit and bank guarantees that require payments to our customers for any non-performance.  The outstanding face value of these instruments fluctuates with the value of our projects in process and in our backlog.  In addition, we issue financial stand-by letters of credit primarily to secure our performance to third parties under self-insurance programs.  
+  As of   September 30, 2018   and   December 31, 2017  , the outstanding value of bonds, letters of credit and bank guarantees totaled   $79.2 million   and   $72.3 million  , respectively. 
+  
+   26 
+
+Table of Contents  
+
+ITEM 2. 
+    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+     Forward-looking Statements 
+  This report contains statements that we believe to be "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. All statements, other than statements of historical fact are forward-looking statements.  Without limitation, any statements preceded or followed by or that include the words "targets," "plans," "believes," "expects," "intends," "will," "likely," "may," "anticipates," "estimates," "projects," "should," "would," "positioned," "strategy," "future," "forecast" or words, phrases or terms of similar substance or the negative thereof, are forward-looking statements.  These forward-looking statements are not guarantees of future performance and are subject to risks, uncertainties, assumptions and other factors, some of which are beyond our control, which could cause actual results to differ materially from those expressed or implied by such forward-looking statements.  These factors include the ability to realize the anticipated benefits from the separation (as defined below); adverse effects on our business operations or financial results; the ability of our business to operate independently following the separation; changes in tax laws; the impact of the separation on our employees, customers and suppliers; overall global economic and business conditions impacting our business; the ability to achieve the benefits of our restructuring plans; the ability to successfully identify, finance, complete and integrate acquisitions; competition and pricing pressures in the markets we serve, including the impacts of tariffs; the strength of housing and related markets; volatility in currency exchange rates and commodity prices; inability to generate savings from excellence in operations initiatives consisting of lean enterprise, supply management and cash flow practices; increased risks associated with operating foreign businesses; the ability to deliver backlog and win future project work; failure of markets to accept new product introductions and enhancements; the impact of changes in laws and regulations, including those that limit U.S. tax benefits; the outcome of litigation and governmental proceedings; and the ability to achieve our long-term strategic operating goals.  Additional information concerning these and other factors is contained in our filings with the U.S. Securities and Exchange Commission (the "SEC"), including this Quarterly Report on Form 10-Q and the Information Statement filed as exhibit 99.1 to our Current Report on Form 8-K/A, filed with the SEC on April 11, 2018 (the "Information Statement").  All forward-looking statements speak only as of the date of this report.  nVent Electric plc assumes no obligation, and disclaims any obligation, to update the information contained in this report. 
+  Overview 
+  The terms "us," "we" "our" "the Company" or "nVent" refer to nVent Electric plc. nVent is a leading global provider of electrical connection and protection solutions.  We believe our inventive electrical solutions enable safer systems and ensure a more secure world.  We design, manufacture, market, install, and service high performance products and solutions that connect and protect some of the world's most sensitive equipment, buildings, and critical processes.  We offer a comprehensive range of enclosures, electrical connections and fastening, and thermal management solutions across industry-leading brands that are recognized globally for quality, reliability, and innovation.  
+  We operate across three segments: Enclosures, Thermal Management, and Electrical   Fastening Solutions, which represented approximately   47%  ,   27%   and   26%   of total revenues during the first   nine months   of   2018  , respectively.  We classify our operations into business segments based primarily on types of products offered and markets served: 
+             
+    Enclosures   The Enclosures segment provides inventive solutions that protect, connect and manage 
+     heat in critical electronics, communication, control, and power equipment.  From metallic and non-metallic enclosures to cabinets, subracks and backplanes, it offers the physical infrastructure to host, connect and protect server and network equipment, as well as indoor and outdoor protection for broadband voice, data and video surveillance applications in industrial, infrastructure, commercial, and energy verticals. 
+             
+    Thermal Management   The Thermal Management segment provides electric thermal solutions that connect and protect critical buildings, infrastructure, industrial processes and people.  Its thermal management systems include heat tracing, floor heating, fire-rated and specialty wiring, sensing and snow melting and de-icing solutions for use in industrial, energy, commercial   residential and infrastructure verticals.  Its highly reliable and easy to install solutions lower total cost of ownership to building owners, facility managers, operators and end users. 
+                
+    Electrical   Fastening Solutions   The Electrical   Fastening Solutions segment provides fastening solutions that connect and protect electrical and mechanical systems and civil structures.  Its engineered electrical and fastening products are used across a wide range of verticals, including commercial, industrial, infrastructure and energy. 
+     
+   27 
+
+     Table of Contents  
+
+On April 30, 2018, Pentair plc ("Pentair") completed the separation of its Water business and its Electrical business into two independent, publicly-traded companies (the "separation").  To effect the separation, Pentair distributed to its shareholders one ordinary share of nVent for every ordinary share of Pentair held as of the record date of April 17, 2018.  As a result of the distribution, nVent is now an independent publicly-traded company and began regular way trading under the symbol "NVT" on the New York Stock Exchange on May 1, 2018.  
+  The Company was incorporated in Ireland on May 30, 2017.  Although our jurisdiction of organization is Ireland, we manage our affairs so that we are centrally managed and controlled in the United Kingdom (the "U.K.") and therefore have tax residency in the U.K. 
+  Key Trends and Uncertainties Regarding our Existing Business 
+  The following trends and uncertainties affected our financial performance in   2017   and the first   nine months   of   2018   and will likely impact our results in the future: 
+             
+    We have identified specific product and geographic market opportunities that we find attractive and continue to pursue, both within and outside the U.S.  We are reinforcing our businesses to more effectively address these opportunities through research and development and additional sales and marketing resources.  Unless we successfully penetrate these markets, our organic sales growth will likely be limited or may decline.  
+                
+    We have experienced material and other cost inflation.  We strive for productivity improvements and we implement increases in selling prices to help mitigate this inflation.  We expect the current economic environment, including the impacts of tariffs, will result in continuing price volatility for many of our raw materials and purchased components and we are uncertain as to the timing and impact of these market changes.  
+                
+    During   2017   and the first   nine months   of   2018  , we continued execution of certain business restructuring initiatives aimed at reducing our fixed cost structure and realigning our business.  We expect that these actions will contribute to margin growth through the remainder of 2018.  
+     In   2018  , our operating objectives include the following: 
+             
+    Achieving differentiated revenue growth through new products and solutions and market expansion in key developing regions;  
+                
+    Driving operating excellence through lean enterprise initiatives, with specific focus on sourcing and supply management, cash flow management and lean operations;  
+                
+    Optimizing our technological capabilities to increasingly generate innovative new and connected products; and  
+                
+    Focusing on developing global talent in light of our global presence.  
+     The financial statements for periods prior to April 30, 2018 were prepared on a stand-alone basis derived from the consolidated financial statements and records of Pentair as if nVent were operated on a stand-alone basis. 
+  For periods prior to the separation, the condensed consolidated and combined financial statements of nVent include general corporate expenses of Pentair for certain support functions that were provided on a centralized basis, such as expenses related to executive management, finance, audit, legal, information technology, human resources, communications, facilities and employee benefits and compensation.  These general corporate expenses are included in the Condensed Consolidated and Combined Statements of Income and Comprehensive Income within   Selling, general and administrative expense   and   Other expense  .  These expenses were allocated to nVent on the basis of direct usage when identifiable, with the remainder allocated based on a proportional basis of net sales, headcount or other measures.  nVent considers the allocation methodology regarding Pentair s general corporate expenses to be reasonable for periods presented prior to the separation.  Nevertheless, the condensed consolidated and combined financial statements of nVent for periods prior to the separation may not reflect the actual expenses that would have been incurred and may not reflect nVent s condensed consolidated and combined results of operations, financial position and cash flows had it been a stand-alone company during the periods presented.  
+  
+   28 
+
+Table of Contents  
+
+CONSOLIDATED AND COMBINED RESULTS OF OPERATIONS 
+  The consolidated and combined results of operations for the three months ended   September 30, 2018   and   2017   were as follows:   
+
+  N.M. Not Meaningful 
+
+29 
+
+Table of Contents  
+
+The consolidated and combined results of operations for the   nine months ended     September 30, 2018   and   September 30, 2017   were as follows:   
+
+  N.M. Not Meaningful 
+
+Net sales 
+  The components of the consolidated and combined net sales change from the prior period were as follows:   
+
+  The   4.3   percentage point   increase   in net sales in the third quarter of 2018 from   2017   was primarily the result of: 
+             
+    organic sales growth of approximately 3.0% from our commercial   residential business and 2.0% from our industrial business. 
+     This   increase   was partially offset by: 
+             
+    unfavorable foreign currency effects for the three months ended September 30, 2018. 
+
+30 
+
+     Table of Contents  
+
+The   5.8   percentage point   increase   in net sales in the first nine months of 2018 from   2017   was primarily the result of: 
+             
+    organic sales growth of approximately 2.5% from our industrial business and 2.0% from our commercial   residential business; and 
+                
+    favorable foreign currency effects for the nine months ended September 30, 2018. 
+     This   increase   was partially offset by: 
+             
+    slowdown in capital spending impacting the energy business, driving lower organic sales of approximately 1.0%. 
+     Gross profit 
+  The   0.1   and   0.4   percentage point   decrease  s in gross profit as a percentage of sales in the   third quarter and first nine months of 2018, respectively,   from   2017   were primarily the result of:  
+             
+    inflationary increases related to certain raw materials, labor and freight costs. 
+     These   decrease  s were partially offset by: 
+             
+    organic sales growth in our commercial   residential and industrial businesses, which resulted increased leverage on fixed expenses included in cost of goods sold; and 
+                
+    higher contribution margin as a result of savings generated from our lean and supply management practices. 
+     Selling, general and administrative ("SG A") 
+  The   1.7   percentage point   increase   in SG A expense as a percentage of sales in the third quarter of 2018 from   2017   was primarily the result of:  
+             
+    increased investment in sales and marketing to drive growth;  
+                
+    inflationary increases impacting our labor costs; and 
+                
+    increased corporate expenses incurred to operate as an independent public company. 
+     This   increase   was partially offset by: 
+             
+    organic sales growth in our commercial   residential and industrial businesses, which resulted in increased leverage on operating expenses. 
+       
+  The   2.5   percentage point   increase   in SG A expense as a percentage of sales in the first nine months of 2018 from   2017   was primarily the result of:  
+             
+    $39.3 million   of non-recurring separation related costs incurred in the first nine months of 2018 to prepare nVent to operate as an independent stand-alone public company, primarily related to information technology, legal, advisory and other professional fees, compared to   $6.9 million   in the first nine months of 2017;  
+                
+    increased investment in sales and marketing to drive growth; and 
+                
+    increased corporate expenses incurred to operate as an independent public company. 
+     This   increase   was partially offset by: 
+             
+    organic sales growth in our commercial   residential and industrial businesses, which resulted in increased leverage on operating expenses; and 
+      Provision for income taxes 
+  The   2.8   and   2.1   percentage point   decrease  s in the effective tax rate in the   third quarter and first nine months of 2018, respectively,   were primarily the result of: 
+             
+    the favorable impact of discrete items that occurred during the third quarter and first nine months of 2018 that did not occur in the corresponding periods during 2017; and  
+     
+   31 
+
+     Table of Contents  
+
+the mix of global earnings toward lower tax jurisdictions, including the favorable impact of U.S. tax reform legislation. 
+     SEGMENT RESULTS OF OPERATIONS 
+  The summary that follows provides a discussion of the results of operations of each of our three reportable segments (Enclosures, Thermal Management and Electrical   Fastening Solutions).  Each of these segments comprises various product offerings that serve various verticals and end users.  
+  We evaluate performance based on sales and segment income and use a variety of ratios to measure performance of our reporting segments.  Segment income represents operating income exclusive of intangible amortization, certain acquisition related expenses, costs of restructuring activities, impairments and other unusual non-operating items. 
+  Enclosures 
+  The net sales and segment income for the Enclosures segment were as follows:   
+
+  Net sales 
+  The components of the change in the Enclosures segment net sales were as follows:   
+
+  The   7.4   and   9.5   percent   increase  s in Enclosures net sales in the   third quarter and first nine months of 2018, respectively,   from   2017   were primarily the result of: 
+             
+    organic sales growth of approximately 6.0% and 5.0% from our industrial business in the third quarter and first nine months of 2018 from 2017, respectively, and approximately 2.5% from our infrastructure business in the third quarter and first nine months of 2018 from 2017, respectively; and 
+                
+    favorable foreign currency effects for the nine months ended September 30, 2018. 
+     Segment income 
+  The components of the change in the Enclosures segment income as a percentage of net sales from the prior period were as follows:   
+
+  The   0.1   percentage point   increase   in segment income for Enclosures as a percentage of net sales in the third quarter of 2018 from   2017   was primarily the result of: 
+             
+    organic sales growth in our industrial and infrastructure businesses, including selective increases in selling prices, which resulted in increased leverage on operating expenses; and 
+     
+   32 
+
+     Table of Contents  
+
+higher contribution margin as a result of savings generated from our lean and supply management practices. 
+     This   increase   was partially offset by: 
+             
+    inflationary increases related to certain raw materials, labor and freight costs. 
+       
+  The   0.8   percentage point decrease in segment income for Enclosures as a percentage of net sales in the first nine months of 2018 from   2017   was primarily the result of: 
+             
+    inflationary increases related to certain raw materials, labor and freight costs; and 
+                
+    higher cost of sales due to manufacturing footprint rationalization and a new U.S. distribution center.  We expect these investments will result in increased productivity and operating leverage in future periods. 
+     This decrease was partially offset by: 
+             
+    organic sales growth in our industrial and infrastructure businesses, including selective increases in selling prices, which resulted in increased leverage on production and operating expenses; and 
+                
+    higher contribution margin as a result of savings generated from our lean and supply management practices. 
+     Thermal Management 
+  The net sales and segment income for the Thermal Management segment were as follows:   
+
+  Net sales 
+  The components of the change in the Thermal Management segment net sales were as follows:   
+
+  The   1.1   percent   decrease   in Thermal Management net sales in the third quarter of   2018   from   2017   was primarily the result of: 
+             
+    unfavorable foreign currency effects for the three months ended September 30, 2018; and 
+                
+    slowdown in capital spending impacting the industrial business, driving lower organic sales of approximately 3.5%. 
+     This   decrease   was partially offset by: 
+             
+    organic sales growth of approximately 5.0% from our commercial   residential business. 
+     Thermal Management net sales remained consistent in the first nine months of   2018   from   2017   and were favorably impacted by: 
+             
+    favorable foreign currency effects for the nine months ended September 30, 2018; and 
+                
+    organic sales growth of approximately 4.5% from our commercial   residential business. 
+     
+   33 
+
+     Table of Contents  
+
+These favorable fluctuations were partially offset by: 
+             
+    slowdown in capital spending impacting the industrial business and lower project sales volume in the energy business, driving lower organic sales of approximately 5.0% and 2.0%, respectively. 
+     Segment income 
+  The components of the change in the Thermal Management segment income as a percentage of net sales from the prior period were as follows:      
+
+  The   0.6   percentage point   decrease   in segment income for Thermal Management as a percentage of net sales in the third quarter of 2018 from   2017   was primarily the result of: 
+             
+    inflationary increases related to certain raw materials, labor and freight costs; and 
+                
+    organic sales decline in our industrial business, which resulted in decreased leverage on operating expenses. 
+     This   decrease   was partially offset by: 
+             
+    organic sales growth in our commercial   residential business, which resulted in increased leverage on operating expenses; and 
+                
+    favorable mix as a result of the decline in lower margin long-cycle energy sales and growth in higher margin product sales. 
+     The   2.0   percentage point increase in segment income for Thermal Management as a percentage of net sales in the first nine months of 2018 from   2017   was primarily the result of: 
+             
+    organic sales growth in our commercial   residential business, which resulted in increased leverage on operating expenses; 
+                
+    favorable mix as a result of the decline in lower margin long-cycle energy sales and growth in higher margin product sales; and 
+                
+    higher contribution margin as a result of savings generated from our lean and supply management practices. 
+     This increase was partially offset by: 
+             
+    inflationary increases related to certain raw materials, labor and freight costs; and 
+                
+    organic sales decline in our energy and industrial businesses, which resulted in decreased leverage on operating expenses. 
+     
+   34 
+
+     Table of Contents  
+
+Electrical   Fastening Solutions 
+  The components of the change in the Electrical   Fastening Solutions segment net sales were as follows:   
+
+  Net sales 
+  The components of the change in the     Electrical   Fastening Solutions     segment net sales from the prior period were as follows:   
+
+  The   5.2   and   5.5   percent   increase  s in Electrical   Fastening Solutions net sales in the   third quarter and first nine months of 2018, respectively,   of   2018   from   2017   were primarily the result of: 
+             
+    organic sales growth of approximately 5.0% and 3.0% from our commercial   residential business in the third quarter and first nine months of 2018 from 2017, respectively, and approximately 2.0% from our industrial business during both the third quarter and first nine months of 2018 from 2017; and  
+                
+    favorable foreign currency effects for the nine months ended September 30, 2018. 
+       
+  These   increase  s were partially offset by: 
+
+slowdown in capital spending impacting the infrastructure business, driving lower organic sales of approximately 1.5% in the third quarter of 2018 from 2017; and 
+                
+    unfavorable foreign currency effects for the three months ended September 30, 2018. 
+     Segment income 
+  The components of the change in the Electrical   Fastening Solutions segment income as a percentage of net sales from the prior period were as follow  s:   
+
+  The   1.3   percentage point   increase   in segment income for Electrical   Fastening Solutions as a percentage of net sales in the third quarter of 2018 from   2017   was primarily the result of: 
+             
+    organic sales growth in our commercial   residential and industrial businesses, which resulted in increased leverage on operating expenses; 
+                
+    selective increases in selling prices to mitigate inflationary cost increases; and 
+                
+    higher contribution margin as a result of savings generated from our lean and supply management practices. 
+     
+   35 
+
+     Table of Contents  
+
+This   increase   was partially offset by: 
+             
+    inflationary increases related to certain raw materials, labor and freight costs. 
+     The   0.6   percentage point decrease in segment income for Electrical   Fastening Solutions as a percentage of net sales in the first nine months of 2018 from   2017   was primarily the result of: 
+             
+    inflationary increases related to certain raw materials, labor and freight costs; and 
+                
+    impact of unfavorable product mix. 
+     This decrease was partially offset by: 
+             
+    organic sales growth in our commercial   residential and industrial businesses, which resulted in increased leverage on operating expenses; 
+                
+    selective increases in selling prices to mitigate inflationary cost increases; and 
+
+higher contribution margin as a result of savings generated from our lean and supply management practices. 
+      
+  LIQUIDITY AND CAPITAL RESOURCES  
+  The primary source of liquidity for our business is cash flows provided by operations.  For periods prior to the separation, transfers of cash to and from Pentair s cash management system have been reflected in the   Net Parent investment   in the historical Condensed Consolidated and Combined Balance Sheets, Condensed Consolidated and Combined Statements of Cash Flows and Condensed Consolidated and Combined Statements of Changes in Equity.  In connection with the separation, our capital structure and sources of liquidity changed significantly from our historical capital structure.  Our businesses no longer participate in cash management and funding arrangements with Pentair.  
+  We expect to continue to have cash requirements to support working capital needs and capital expenditures, to pay interest and service debt and to pay dividends to shareholders quarterly.  We believe we have the ability and sufficient capacity to meet these cash requirements by using available cash and internally generated funds and borrowing under committed credit facilities.  We are focused on increasing our cash flow and repaying debt, while continuing to fund our research and development, sales and marketing and capital investment initiatives.  Our intent is to maintain investment grade metrics and a solid liquidity position. 
+    
+  We experience seasonal cash flows primarily due to increased demand for Thermal Management products and services during the fall and winter months in the Northern Hemisphere and increased demand for Electrical   Fastening Solutions products during the spring and summer months in the Northern Hemisphere.  
+  Operating activities 
+  Cash   provided by   operating activities was   $182.6 million   in the first   nine months   of   2018  , compared to   $298.4 million   in the first nine months of 2017.  Cash provided by operating activities in the first nine months of 2018 primarily reflects   Net income   net of non-cash depreciation and amortization, of   $237.2 million  , and increases in net working capital. 
+  Investing activities 
+  Net cash   used for   investing activities was   $28.2 million   in the first   nine months   of   2018  , or   $6.6 million   lower than in the comparable period in 2017.  Net cash   used for   investing activities in the first   nine months   of   2018   primarily relates to capital expenditures of   $28.5 million  .  Net cash   used for   investing activities in the first   nine months   of   2017   relates primarily to capital expenditures of   $25.1 million   and cash paid for an acquisition of   $13.6 million  , net of cash acquired. 
+  We anticipate capital expenditures for fiscal   2018   to be approximately   $40 million  , primarily for capacity expansions of manufacturing facilities, developing new products and general maintenance. 
+  Financing activities 
+  Prior to the separation, transfers of cash, both to and from Pentair s centralized cash management system are reflected as a financing activity on the Condensed Consolidated and Combined Statements of Cash Flows. 
+  The cash provided by financing activities for the first   nine months   of   2018   primarily relates to   $1.0 billion   of proceeds from long-term debt described further below, offset by   $993.6 million   of cash provided at the separation to Pentair as consideration for the contribution of the net assets of the Electrical Business to nVent by Pentair.  Additionally, we repaid   $50.0 million   of outstanding principal on the Term Loan Facility and paid   $31.4 million   of dividends during the third quarter of 2018. 
+  
+   36 
+
+     Table of Contents  
+
+Senior notes 
+  In March 2018, nVent Finance S.  r.l. ( nVent Finance  or  Subsidiary Issuer ), a 100-percent owned subsidiary of nVent, issued   $300.0 million   aggregate principal amount of   3.950%   senior notes due 2023 (the "2023 Notes") and   $500.0 million   aggregate principal amount of   4.550%   senior notes due 2028 (the "2028 Notes" and, collectively with the 2023 Notes, the "Notes").  Interest on the Notes is payable semi-annually in arrears on April 15 and October 15 of each year, beginning October 15, 2018.  In August 2018, nVent and nVent Finance filed a Registration Statement on Form S-4 with the SEC to exchange the Notes for new, registered Notes.  The exchange offer was completed on October 22, 2018, pursuant to which substantially all of the Notes were exchanged for the new, registered Notes.  The exchange offer did not impact the aggregate principle amount of the Notes outstanding. 
+  The Notes are fully and unconditionally guaranteed as to payment by the Parent Company Guarantor.  There are no subsidiaries that guarantee the Notes.  The Parent Company Guarantor has no independent assets or operations unrelated to its investments in its consolidated subsidiaries.  The Parent Company Guarantor s only direct subsidiary is the Subsidiary Issuer.  The Subsidiary Issuer has no independent assets or operations unrelated to its investments in its consolidated subsidiaries and the issuance of the Notes and other external debt. 
+    
+  The Notes constitute general unsecured senior obligations of the Subsidiary Issuer and rank equally in right of payment with all existing and future unsubordinated and unsecured indebtedness and liabilities of the Subsidiary Issuer.  The guarantees of the Notes by the Parent Company Guarantor constitute general unsecured obligations of the Parent Company Guarantor and rank equally in right of payment with all existing and future unsubordinated and unsecured indebtedness and liabilities of the Subsidiary Issuer.  Subject to certain qualifications and exceptions, the indenture pursuant to which the Notes were issued contains covenants that, among other things, restrict nVent s, nVent Finance s and certain subsidiaries  ability to merge or consolidate with another person, create liens or engage in sale and lease-back transactions. 
+    
+  There are no significant restrictions on the ability of nVent to obtain funds from its subsidiaries by dividend or loan.  None of the assets of nVent or its subsidiaries represents restricted net assets pursuant to the guidelines established by the SEC. 
+    
+  Senior credit facilities 
+  In March 2018, nVent Finance entered into a credit agreement with a syndicate of banks providing for a five-year   $200.0 million   senior unsecured term loan facility (the "Term Loan Facility") and a five-year   $600.0 million   senior unsecured revolving credit facility (the "Revolving Credit Facility" and, together with the Term Loan Facility, the "Senior Credit Facilities").  We have the option to request to increase the Revolving Credit Facility in an aggregate amount of up to   $300.0 million  , subject to customary conditions, including the commitment of the participating lenders.  There were no outstanding borrowings under the Revolving Credit Facility as of   September 30, 2018  .  
+  Our debt agreements contain certain financial covenants, the most restrictive of which are in the Senior Credit Facilities, including that we may not permit (i) the ratio of our consolidated debt (net of our consolidated unrestricted cash in excess of   $5.0 million   but not to exceed   $250.0 million  ) to our consolidated net income (excluding, among other things, non-cash gains and losses) before interest, taxes, depreciation, amortization and non-cash share-based compensation expense ("EBITDA") on the last day of any period of four consecutive fiscal quarters to exceed   3.75   to   1.00   and (ii) the ratio of our EBITDA to our consolidated interest expense for the same period to be less than   3.00   to   1.00  .  In addition, subject to certain qualifications and exceptions, the Senior Credit Facilities also contain covenants that, among other things, restrict our ability to create liens, merge or consolidate with another person, make acquisitions and incur subsidiary debt.  As of   September 30, 2018  , we were in compliance with all financial covenants in our debt agreements. As discussed above, we repaid $50.0 million of outstanding principal on the Term Loan Facility during the third quarter of 2018. 
+  As of   September 30, 2018  , we have   $15.6 million   of cash held in certain countries in which the ability to repatriate is limited due to local regulations or significant potential tax consequences. 
+  Share repurchases 
+  On July 23, 2018, the Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of   $500.0 million  . The authorization expires on July 23, 2021.  We made no purchases of our ordinary shares during the third quarter of 2018. 
+  Dividends Paid 
+  On July 23, 2018, the Board of Directors declared a quarterly cash dividend of   $0.175   that was paid on August 17, 2018 to shareholders of record at the close of business on August 3, 2018.  
+
+37 
+
+     Table of Contents  
+
+Dividends Payable 
+  On September 18, 2018, the Board of Directors declared a quarterly cash dividend of   $0.175   payable on November 2, 2018 to shareholders of record at the close of business on October 19, 2018.  As a result, the balance of dividends payable included in   Other current liabilities   on our Condensed Consolidated Balance Sheets was   $31.4 million   at   September 30, 2018  . 
+  Contractual obligations 
+  The following summarizes our significant contractual debt and fixed-rate interest obligations that impact our liquidity.  There have been no other material changes from the significant contractual obligations previously disclosed in our Information Statement.   
+
+  Other financial measures 
+  In addition to measuring our cash flow generation or usage based upon operating, investing and financing classifications included in the Condensed Consolidated and Combined Statements of Cash Flows, we also measure our free cash flow.  Free cash flow is a non-GAAP financial measure that we use to assess our cash flow performance.  We believe free cash flow is an important measure of liquidity because it provides us and our investors a measurement of cash generated from operations that is available to pay dividends, make acquisitions, repay debt and repurchase shares.  In addition, free cash flow is used as a criterion to measure and pay compensation-based incentives.  Our measure of free cash flow may not be comparable to similarly titled measures reported by other companies.  The following table is a reconciliation of free cash flow:   
+
+38 
+
+Table of Contents  
+
+NEW ACCOUNTING STANDARDS 
+  See Note 1 of the Notes to Condensed Consolidated and Combined Financial Statements for information pertaining to recently adopted accounting standards or accounting standards to be adopted in the future. 
+   
+  CRITICAL ACCOUNTING POLICIES 
+  We have adopted various accounting policies to prepare the consolidated and combined financial statements in accordance with GAAP.  Certain of our accounting policies require the application of significant judgment by management in selecting the appropriate assumptions for calculating financial estimates.  In our Information Statement, we identified the critical accounting policies which affect our more significant estimates and assumptions used in preparing our consolidated and combined financial statements. Significant changes to our critical accounting estimates as a result of adopting ASC 606 are discussed below: 
+  Revenues 
+  Accounting for long-term contracts involves the use of various techniques to estimate total contract revenue and costs.  Contract estimates are based on various assumptions to project the outcome of future events that may span multiple years.  We review and update our contract-related estimates regularly.  We recognize adjustments in estimated profit on contracts under the cumulative catch-up method.  Under this method, the impact of the adjustment on profit recorded to date is recognized in the period the adjustment is identified. 
+  There have been no other material changes to our critical accounting policies and estimates from those previously disclosed in our Information Statement. 
+   
+  ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+  There have been no material changes in our market risk during the quarter ended   September 30, 2018  .  For additional information, refer to our Information Statement. 
+   
+  ITEM 4.    CONTROLS AND PROCEDURES 
+  (a)    Evaluation of Disclosure Controls and Procedures 
+  We maintain a system of disclosure controls and procedures designed to provide reasonable assurance as to the reliability of our published financial statements and other disclosures included in this report.  Our management evaluated, with the participation of our Chief Executive Officer and our Chief Financial Officer, the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the quarter ended   September 30, 2018   pursuant to Rule 13a-15(b) of the Securities Exchange Act of 1934 (the "Exchange Act").  Based upon their evaluation, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were effective, at the reasonable assurance level, as of the end of the quarter ended   September 30, 2018   to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission's rules and forms, and to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosures. 
+  (b)    Changes in Internal Control over Financial Reporting 
+  There was no change in our internal control over financial reporting that occurred during the quarter ended   September 30, 2018   that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.  
+
+39 
+
+Table of Contents  
+
+PART II OTHER INFORMATION 
+  ITEM 1.    LEGAL PROCEEDINGS 
+  We have been made parties to a number of actions filed or have been given notice of potential claims relating to the conduct of our business, including those pertaining to commercial disputes, product liability, asbestos, environmental, safety and health, patent infringement and employment matters. 
+  While we believe that a material impact on our financial position, results of operations or cash flows from any such future claims or potential claims is unlikely, given the inherent uncertainty of litigation, a remote possibility exists that a future adverse ruling or unfavorable development could result in future charges that could have a material adverse impact.  We do and will continue to periodically reexamine our estimates of probable liabilities and any associated expenses and receivables and make appropriate adjustments to such estimates based on experience and developments in litigation.  As a result, the current estimates of the potential impact on our financial position, results of operations and cash flows for the proceedings and claims described in the notes to our consolidated and combined financial statements could change in the future. 
+  We are subject to various product liability lawsuits and personal injury claims.  A substantial number of lawsuits and claims incurred prior to the effective date of the separation on April 30, 2018 are insured and accrued for by Pentair s captive insurance subsidiary.  Pentair s captive insurance subsidiary records a liability for these claims based on actuarial projections of ultimate losses.  Lawsuits and claims incurred after the separation are insured and accrued for by Tonka Bay, a captive insurance subsidiary of nVent.  For all other claims, accruals covering the claims are recorded, on an undiscounted basis, when it is probable that a liability has been incurred and the amount of the liability can be reasonably estimated based on existing information.  The accruals are adjusted periodically as additional information becomes available.  We have not experienced significant unfavorable trends in either the severity or frequency of product liability lawsuits or personal injury claims. 
+   
+  ITEM 1A.    RISK FACTORS 
+  There have been no material changes from the risk factors previously disclosed in our Information Statement. 
+  
+   40 
+
+Table of Contents  
+
+ITEM 2.    UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+  On July 23, 2018, our Board of Directors authorized the repurchase of our ordinary shares up to a maximum dollar limit of $500.0 million.  This authorization expires on July 23, 2021.  We made no purchases of our ordinary shares during the third quarter of 2018. 
+   
+  ITEM 6.     EXHIBITS 
+  The exhibits listed in the following Exhibit Index are filed as part of this Quarterly Report on Form 10-Q. 
+
+Exhibit Index to Form 10-Q for the Period Ended   September 30, 2018 
+    
+                    31.1  
+       
+    Certification of Chief Executive Officer. 
+
+31.2  
+       
+    Certification of Chief Financial Officer. 
+
+32.1  
+       
+    Certification of Chief Executive Officer, Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2  
+       
+    Certification of Chief Financial Officer, Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101 
+       
+    The following materials from nVent's Quarterly Report on Form 10-Q for the quarter ended September 30, 2018 are filed herewith, formatted in XBRL (Extensible Business Reporting Language): (i) the Condensed Consolidated and Combined Statements of Income and Comprehensive Income for the nine months ended September 30, 2018 and 2017, (ii) the Condensed Consolidated and Combined Balance Sheets as of September 30, 2018 and December 31, 2017, (iii) the Condensed Consolidated and Combined Statements of Cash Flows for the nine months ended September 30, 2018 and 2017, (iv) the Condensed Consolidated and Combined Statements of Changes in Equity for the three and nine months ended September 30, 2018 and 2017, and (v) Notes to Condensed Consolidated and Combined Financial Statements. 
+
+41 
+
+Table of Contents  
+
+SIGNATURES 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized, on   October 25, 2018  . 
+
+nVent Electric plc 
+        
+    Registrant 
+
+By 
+    /s/ Stacy P. McMahan 
+
+Stacy P. McMahan 
+
+Executive Vice President and Chief Financial Officer 
+
+By 
+    /s/ Randolph A. Wacker 
+
+Randolph A. Wacker 
+
+Senior Vice President and Chief Accounting Officer 
+
+42 
+
+<EX-31.1>
+ 2
+ ex311ceocertification20180.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+    
+  Certification 
+    
+  I, Beth A. Wozniak, certify that:  
+    
+           1. 
+    I have reviewed this quarterly report on Form   10-Q   of nVent Electric plc;  
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                   Date: 
+    October 25, 2018 
+    /s/ Beth A. Wozniak 
+
+Beth A. Wozniak 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex312cfocertification20180.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+    
+  Certification 
+    
+  I, Stacy P. McMahan, certify that:  
+    
+           1. 
+    I have reviewed this quarterly report on Form   10-Q   of nVent Electric plc;  
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+       
+                   Date: 
+    October 25, 2018 
+    /s/ Stacy P. McMahan 
+
+Stacy P. McMahan 
+
+Executive Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex321ceocertification20180.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+    
+  Certification of CEO Pursuant To 
+  18 U.S.C. Section 1350, 
+  As Adopted Pursuant To 
+  Section 906 Of The Sarbanes-Oxley Act Of 2002 
+    
+  In connection with the   Quarterly   Report on Form   10-Q   of nVent Electric plc (the  Company ) for the period ended   September 30, 2018   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Beth A. Wozniak, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that based on my knowledge: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+                   Date: 
+    October 25, 2018 
+    /s/ Beth A. Wozniak 
+
+Beth A. Wozniak 
+
+Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex322cfocertification20180.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+    
+  Certification of CFO Pursuant To 
+  18 U.S.C. Section 1350, 
+  As Adopted Pursuant To 
+  Section 906 Of The Sarbanes-Oxley Act Of 2002 
+    
+  In connection with the   Quarterly   Report on Form   10-Q   of nVent Electric plc (the  Company ) for the period ended   September 30, 2018   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Stacy P. McMahan, Executive Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that based on my knowledge: 
+    
+           (1) 
+    The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+                   Date: 
+    October 25, 2018 
+    /s/ Stacy P. McMahan 
+
+Stacy P. McMahan 
+
+Executive Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ nvt-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ nvt-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ nvt-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ nvt-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ nvt-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ nvt-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

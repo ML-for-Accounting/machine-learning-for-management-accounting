@@ -1,0 +1,274 @@
+ANGE COMMISSION   
+
+Washington, D.C. 20549   
+
+FORM 10-K/A  
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d)   
+  
+     OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For the fiscal year ended June 30, 2018  
+    Commission File Number 1-7233  
+
+STANDEX INTERNATIONAL CORPORATION  
+  
+     (Exact name of registrant as specified in its Charter)   
+
+DELAWARE  
+    31-0596149  
+  
+     (State of incorporation)   
+     (I.R.S. Employer Identification No.)   
+
+11 KEEWAYDIN DRIVE, SALEM, NEW HAMPSHIRE  
+    03079  
+  
+     (Address of principal executive offices)   
+     (Zip Code)   
+
+(603) 893-9701  
+  
+     (Registrant s telephone number, including area code)   
+
+SECURITIES REGISTERED PURSUANT TO SECTION 12(b) OF THE  
+  SECURITIES EXCHANGE ACT OF 1934:  
+
+Title of Each Class  
+     
+    Name of Each Exchange on Which Registered  
+  
+   Common Stock, Par Value $1.50 Per Share 
+     
+    New York Stock Exchange  
+
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.   YES  [X]      NO  [  ]   
+  Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.   YES  [   ]      NO  [X]   
+ Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    YES  [X ]       NO  [   ] 
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (  232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    YES  [X  ]        NO  [   ]  
+  Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein and will not be contained, to the best of Registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K. [  ]  
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.  See definition of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act.  (Check one):   
+ Large accelerated filer   X                     Accelerated filer                           Non-accelerated filer __                  Smaller Reporting Company __ 
+  Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   YES  [    ]       NO  [X]   
+  The aggregate market value of the voting and non-voting common equity held by non-affiliates of the Registrant at the close of business on December 29, 2017 was approximately $1,288,543,257.  Registrant s closing price as reported on the New York Stock Exchange for December 29, 2017 was $101.85 per share.  
+  The number of shares of Registrant's Common Stock outstanding on August 22, 2018 was 12,826,411 .  
+ DOCUMENTS INCORPORATED BY REFERENCE 
+  Portions of the Proxy Statement for the Registrant s 2018 Annual Meeting of Stockholders (the  Proxy Statement ) are incorporated by reference into Part III of this report . 
+  1 
+   EXPLANATORY NOTE 
+
+Standex International Corporation (the  Company ) is filing this Amendment No. 1 on Form 10-K/A (this  Form 10-K/A ), which amends and supplements our Annual Report on Form 10-K ( the Original Filing ) for the fiscal year ended June 30, 2018, which was filed with the Securities and Exchange Commission (the  SEC ) on August 28, 2018 (the  2018 Form 10-K ).  The Company is filing this Form 10-K/A to refile Item 9A, Controls and Procedures, in its entirety.  Due solely to a clerical oversight, The Report of Independent Registered Public Accounting Firm as originally filed was unsigned.  This error was identified by the Company s Independent Registered Public Accountants immediately after filing, and the Company immediately prepared this correcting Amendment.  Amendment No. 1 herein now includes a signed Report of Independent Registered Public Accounting Firm.   
+   
+ Exhibit 31.1 and 31.2 of this amendment have also been revised to include Rule 13a-14(a) Certifications.  In addition, Exhibit 32 of this amendment has been revised to include Section 1350 Certifications outlining compliance with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of 1934, as amended, and that the information contained in such report fairly presents, in all material respects, the financial condition and results of operations of the registrant.  
+   
+ Pursuant to Rule 12b-15 under the Securities Exchange Act of 1934, as amended, this Form 10-K/A also contains new certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, which are attached hereto.  
+   
+ This Amendment No. 1 does not update or amend any other items in the Original Filing in any way other than as described in the preceding paragraphs, and the Original Filing, as amended by this Amendment No. 1, continues to be applicable as of the date of the Original Filing.  Accordingly, this Amendment No. 1 should be read in conjunction with the Original Filing and the Company s other filings with the Securities and Exchange Commission. 
+
+Item 9A.  Controls and Procedures  
+   
+ The management of the Company including its Chief Executive Officer, and Chief Financial Officer, have conducted an evaluation of the effectiveness of the Company s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15(d)-15(e) under the Securities Exchange Act of 1934, as amended, (the  Exchange Act ) as of the end of the period covered by this report.  Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded as of June 30, 2018, that the disclosure controls and procedures are effective in ensuring that the information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is  (i) recorded, processed, summarized and reported within the time periods specified in the Commission's rules and forms and (ii) that such information is accumulated and communicated to the Company s management, including its Chief Executive Officer and Chief Financial Officer as appropriate to allow timely decisions regarding required disclosure.   
+   
+ SEC guidance permits the exclusion of an evaluation of the effectiveness of a registrant's disclosure controls and procedures as they relate to the internal control over financial reporting for an acquired business during the first year following such acquisition.  As discussed in Note 2 to the consolidated financial statements contained in this Report, the Company acquired all of the outstanding stock of the Piazza Rosa Group.  The acquisition represents approximately 1.5% of the Company's consolidated revenue for the year ended June 30, 2018, and approximately 1.8% of the Company's consolidated assets at June 30, 2018.  Management's evaluation and conclusion as to the effectiveness of the design and operation of the Company s disclosure controls and procedures as of June 30, 2018 excludes any evaluation of the internal control over financial reporting of the Piazza Rosa Group.  
+   
+ There were no changes in the Company s internal control over financial reporting identified in connection with management s evaluation that occurred during the fourth quarter of our fiscal year (ended June 30, 2018) that has materially affected, or is reasonably likely to materially affect our internal control over financial reporting. 
+   
+  Management's Report on Internal Control over Financial Reporting  
+   
+ The management of Standex is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Section 240.13a-15(f) of the Exchange Act).  The Company s internal control over financial reporting is designed to provide reasonable assurance as to the reliability of the Company s financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.  Management, including the Chief Executive Officer and the Chief Financial Officer, assessed the effectiveness of our internal control over financial reporting as of the end of the fiscal year covered by this report on Form 10-K.  In making this assessment, management used the criteria established by the Committee of Sponsoring Organizations of the Treadway Commission in  Internal Control-Integrated  
+  2 
+    Framework (2013).   These criteria are in the areas of control environment, risk assessment, control activities, information and communication and monitoring.  Management s assessment included documenting, evaluating and testing the design and operating effectiveness of our internal control over financial reporting.  
+   
+ Based on the Company s processes, as described above, management, including the Chief Executive Officer and the Chief Financial Officer, has concluded that our internal control over financial reporting was effective as of June 30, 2018 to provide reasonable assurance of achieving its objectives.  These results were reviewed with the Audit Committee of the Board of Directors.  Grant Thornton, LLP, the independent registered public accounting firm that audited our consolidated financial statements included in this Annual Report on Form 10-K, has issued an unqualified attestation report on the Company s internal control over financial reporting, which is included below. 
+   
+  Inherent Limitation on Effectiveness of Controls  
+   
+ No matter how well designed, internal control over financial reporting has inherent limitations.  Internal control over financial reporting determined to be effective can provide only reasonable, not absolute, assurance with respect to financial statement preparation and may not prevent or detect all misstatements that might be due to error or fraud.  In addition, a design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs.  Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+   
+ Board of Directors and Shareholders 
+ Standex International Corporation 
+  Opinion on internal control over financial reporting  
+ We have audited the internal control over financial reporting of Standex International Corporation (a Delaware corporation) and subsidiaries (the  Company ) as of June 30, 2018, based on criteria established in the 2013  Internal Control Integrated Framework  issued by the Committee of Sponsoring Organizations of the Treadway Commission ( COSO ).  In our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of June 30, 2018, based on criteria established in the 2013  Internal Control Integrated Framework  issued by COSO.  
+ We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) ( PCAOB ), the consolidated financial statements of the Company as of and for the year ended June 30, 2018, and our report dated August 28, 2018 expressed an unqualified opinion on those financial statements. 
+  Basis for opinion  
+ The Company s management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting, included in the accompanying Management s Report on Internal Control over Financial Reporting ( Management s Report ).  Our responsibility is to express an opinion on the Company s internal control over financial reporting based on our audit.  We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+ We conducted our audit in accordance with the standards of the PCAOB.  Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects.  Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances.  We believe that our audit provides a reasonable basis for our opinion. 
+  3 
+   Our audit of, and opinion on, the Company s internal control over financial reporting does not include the internal control over financial reporting of Piazza Rosa S.r.l. ( Piazza Rosa ), a wholly-owned subsidiary, whose financial statements reflect total assets and revenues constituting 1.8 and 1.5 percent, respectively, of the related consolidated financial statement amounts as of and for the year ended June 30, 2018.  As indicated in Management s Report, Piazza Rosa was acquired during 2018. Management s assertion on the effectiveness of the Company s internal control over financial reporting excluded internal control over financial reporting of Piazza Rosa. 
+  Definition and limitations of internal control over financial reporting  
+ A company s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.  A company s internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company s assets that could have a material effect on the financial statements. 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements.  Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+  /s/ GRANT THORNTON LLP  
+ Boston, Massachusetts 
+ August 28, 2018 
+  4 
+    SIGNATURES  
+   
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, Standex International Corporation has duly caused this  Form 10-K/A Amendment to Form 10-K to be signed on its behalf by the undersigned, thereunto duly authorized, on August 29, 2018. 
+   
+   STANDEX INTERNATIONAL CORPORATION  
+   (Registrant)  
+
+/s/ DAVID DUNBAR   
+   David Dunbar  
+   President/Chief Executive Officer  
+   
+ Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of Standex International Corporation and in the capacities indicated on August 29, 2018: 
+   
+   Signature     Title   
+   /s/ DAVID DUNBAR    President/Chief Executive Officer  
+ David Dunbar 
+   
+   /s/ THOMAS D. DEBYLE    Vice President/Chief Financial Officer  
+ Thomas D. DeByle 
+   
+   /s/ SEAN VALASHINAS    Chief Accounting Officer / Assistant Treasurer  
+ Sean Valashinas 
+   
+ David Dunbar, pursuant to powers of attorney which are being filed with this Form 10-K/A Amendment to Form 10-K, has signed below on August 29, 2018 as attorney-in-fact for the following directors of the Registrant: 
+   
+    Charles H. Cannon 
+   Thomas J. Hansen 
+  
+   Thomas E. Chorman 
+   Michael A. Hickey 
+  
+   Jeffrey S. Edwards 
+   Daniel B. Hogan 
+  
+   Gerald H. Fickenscher 
+
+/s/ DAVID DUNBAR  
+ David Dunbar 
+   
+ Supplemental Information to be furnished with reports filed pursuant to Section 15(d) of the Act by Registrants which have not registered securities pursuant to Section 12 of the Act. 
+  5 
+    INDEX TO EXHIBITS  
+
+Incorporated   
+   Exhibit            by Reference                 Filed      
+    Number                          Exhibit Description                               Form           Date       Herewith    
+
+31.1     Rule 13a-14(a) Certification of President and Chief Executive Officer    
+    31.2     Rule 13a-14(a) Certification of Vice President and Chief Financial Officer    
+    32     Section 1350 Certification    
+
+END OF FORM 10-K/A   
+  6 
+
+<EX-31>
+ 2
+ f_ex31z1.htm
+
+EXHIBIT 31 
+
+EXHIBIT 31.1   
+   
+   RULE 13a-14(a) CERTIFICATION   
+   
+    I, David Dunbar, certify that:   
+   
+   1. I have reviewed this Annual Report on Form 10-K of Standex International Corporation for the year ending June 30, 2018;   
+   
+   2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;   
+   
+   3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+   
+   4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+   
+   (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;   
+   
+   (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+   
+   (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+   
+   (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and   
+    5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):    
+   
+   (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+   
+   (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+   
+  Date:  August 29, 2018  
+
+/s/  David Dunbar   
+  ______________________________  
+  David Dunbar  
+  President/Chief Executive Officer  
+
+</EX-31>
+
+<EX-31>
+ 3
+ f_ex31z2.htm
+
+EXHIBIT 31 
+
+EXHIBIT 31.2   
+   
+   RULE 13a-14(a) CERTIFICATION   
+   
+    I, Thomas D. DeByle, certify that:   
+   
+   1. I have reviewed this Annual Report on Form 10-K of Standex International Corporation for the year ending June 30, 2018;   
+   
+   2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;   
+   
+   3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+   
+   4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+   
+   (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;   
+   
+   (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+   
+   (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+   
+   (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and   
+    5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):    
+   
+   (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+   
+   (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+   
+  Date:  August 29, 2018  
+
+/s/  Thomas D. DeByle   
+  ______________________________  
+  Thomas D. DeByle  
+  Vice President/Chief Financial Officer  
+
+</EX-31>
+
+<EX-32>
+ 4
+ f_ex32.htm
+
+SECTION 1350 CERTIFICATION 
+
+EXHIBIT 32   
+
+SECTION 1350 CERTIFICATION   
+
+The following statement is being made to the Securities and Exchange Commission solely for purposes of Section 906 of the Sarbanes-Oxley Act of 2002 (18 U.S.C. 1350), which carries with it certain criminal penalties in the event of a knowing or willful misrepresentation.  
+   
+  Each of the undersigned hereby certifies that the Annual Report on Form 10-K for the period ended June 30, 2018 fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of 1934, as amended, and that the information contained in such report fairly presents, in all material respects, the financial condition and results of operations of the registrant.  
+
+Dated:  August 29, 2018  
+   
+     /s/ David Dunbar    
+    _______________________________    
+    David Dunbar   
+    President/Chief Executive Officer   
+
+Dated:  August 29, 2018  
+   
+    /s/ Thomas D. DeByle   
+    _______________________________    
+    Thomas D. DeByle   
+    Vice President/Chief Financial Officer   
+
+</EX-32>
+

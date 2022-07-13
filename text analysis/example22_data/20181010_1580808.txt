@@ -1,0 +1,182 @@
+  
+  SECURITIES AND EXCHANGE COMMISSION   
+  Washington, D.C. 20549        
+        Form 10-K/A       (Amendment No. 1)   
+         
+  (Mark One)       
+    For the fiscal year ended December 31, 2017   
+  OR       
+    For the transition period from
+                         to   
+  Commission file number:  001-36343    
+         
+  A10 NETWORKS, INC.   
+  (Exact Name of Registrant as Specified in its Charter)        
+
+Delaware  
+   
+   20-1446869    
+ 
+  (State or Other Jurisdiction of Incorporation or Organization)  
+   
+  (I.R.S. Employer Identification No.)   
+    3 West Plumeria Drive, San Jose, California 95134   
+  (Address of Principal Executive Offices, including zip code)   
+  (408)  325-8668    
+  (Registrant s Telephone Number, Including Area Code)   
+  Securities registered pursuant to Section 12(b) of the Act:   
+
+Title of Each Class  
+   
+  Name of Each Exchange on Which Registered   
+ 
+  Common Stock, $.00001 Par Value  
+   
+  New York Stock Exchange   
+    Securities registered pursuant to Section 12(g) of the Act:   
+  None.     Indicate by check
+mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes       No     
+ Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes       No       Indicate by check mark whether the registrant: (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes       No       Indicate by check
+mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of  Regulation S-T  during the preceding 12 months (or for such
+shorter period that the registrant was required to submit such files). Yes       No     
+ Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation  S-K  is
+not contained herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form  10-K,  or any
+amendment to this Form  10-K.          Indicate by check mark whether the
+registrant is a large accelerated filer, an accelerated filer, a  non-accelerated  filer, or a smaller reporting company. See the definitions of  large accelerated filer,   accelerated filer 
+and  smaller reporting company  in  Rule 12b-2  of the Exchange Act.      
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Non-accelerated  filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.       
+ Indicate by check mark whether the registrant is a shell company (as defined in  Rule 12b-2  of the
+Exchange Act). Yes       No       The aggregate market value of the registrant s
+common stock held by  non-affiliates  of the registrant as of June 30, 2017 (the last business day of the registrant s most recently completed second fiscal quarter) was approximately
+$359.4 million, based upon the closing sale price of such stock on the New York Stock Exchange. For purposes of this disclosure, shares of common stock held or controlled by executive officers and directors of the registrant and by persons who
+hold more than 5% of the outstanding shares of common stock have been treated as shares held by affiliates. However, such treatment should not be construed as an admission that any such person is an  affiliate  of the registrant. The
+registrant has no  non-voting  common equity.    As of August 24, 2018, the number of outstanding
+shares of the registrant s common stock, par value $0.00001 per share, was 72,707,302.     DOCUMENTS INCORPORATED BY REFERENCE
+    None.      
+
+EXPLANATORY NOTE   
+ This Amendment No. 1 to the Annual Report on Form  10-K/A  is hereby filed to include Exhibit 23.1
+Consent of Independent Registered Public Accounting Firm. Except as described above, no other changes have been made to the originally filed Form  10-K.   
+
+PART IV.       
+
+ITEM 15.  
+    EXHIBITS AND FINANCIAL STATEMENT SCHEDULES      
+
+(a) 
+   All other documents and schedules have been omitted as they are not applicable to this Amendment.
+
+The documents listed in the Exhibit Index of this Annual Report on Form
+ 10-K/A  are incorporated by reference or are filed with this report, in each case as indicated therein (numbered in accordance with Item 601 of Regulation  S-K). 
+
+EXHIBIT INDEX   
+
+* 
+   Indicates a management contract or compensatory plan.     
+
+** 
+   The certifications attached as Exhibit 32.1 and 32.2 that accompany this Annual Report on Form  10-K  are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of A10 Networks, Inc. under the Securities Act of 1933, as amended, or the Securities
+Exchange Act of 1934, as amended, whether made before or after the date of this Annual Report on Form  10-K,  irrespective of any general incorporation language contained in such filing.     
+
++ 
+   These exhibits were previously included in the Company s Annual Report on Form  10-K  for the year ended December 31, 2017, filed with the Securities and Exchange Commission on August 29, 2018.     
+
+SIGNATURES   
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to
+be signed on its behalf by the undersigned, thereunto duly authorized.      
+
+A10 NETWORKS, INC.   
+
+Date: October 10, 2018 
+
+By:    /s/ Lee Chen   
+
+Lee Chen    
+
+Chief Executive Officer and President    
+
+(Principal Executive Officer)    
+
+<EX-23.1>
+ 2
+ d627052dex231.htm
+ EX-23.1
+
+EX-23.1 
+
+Exhibit 23.1   
+  CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+ We consent to the incorporation by reference in Registration Statement Nos.  333-194719, 
+ 333-202652,   333-209835,   333-212954  and  333-216208  on Form
+ S-8  of our report dated August 28, 2018, relating to the consolidated financial statements of A10 Networks, Inc. and its subsidiaries (which report expresses an unqualified opinion and includes an
+explanatory paragraph relating to the restatement of the 2016 and 2015 financial statements) appearing in the Annual Report on Form  10-K  of A10 Networks, Inc. for the year ended December 31, 2017.  
+ /s/ DELOITTE   TOUCHE LLP    San Jose, California  
+ October 10, 2018  
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ d627052dex311.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1   
+  CERTIFICATION     I, Lee Chen, certify that:
+
+2. 
+   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report.     
+
+Date: October 10, 2018  
+   
+ By: /s/ Lee Chen  
+
+Lee Chen    
+
+President and Chief Executive Officer    
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ d627052dex312.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2   
+  CERTIFICATION     I, Tom Constantino,
+certify that:      
+
+2. 
+   Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report.     
+
+Date: October 10, 2018  
+    
+   By: /s/ Tom Constantino   
+
+Tom Constantino    
+
+Executive Vice President and Chief Financial Officer  
+  (Principal Accounting and Financial Officer)    
+
+</EX-31.2>
+

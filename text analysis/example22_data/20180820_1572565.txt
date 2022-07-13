@@ -1,0 +1,1842 @@
+XCHANGE COMMISSION   
+
+   Washington,
+D.C. 20549   
+
+Form
+10-Q   
+
+(Mark
+One)  
+
+or  
+
+For
+    the transition period from   
+         
+      to  
+
+INDOOR
+    HARVEST CORP.    
+ 
+      (Exact
+    name of registrant as specified in its charter)   
+
+Texas   
+         
+       45-5577364    
+ 
+      (State
+    or other jurisdiction of incorporation or organization)  
+         
+      (IRS
+    Employer Identification No.)   
+
+N/A    
+ 
+      (Former
+    name, former address and former fiscal year, if changed since last report)   
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.  
+
+[X]
+ YES [  ]  NO  
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  
+
+[  ] YES [X] NO  
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting
+company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer, 
+ smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act.  
+
+Large
+    accelerated filer  
+      [  ]  
+      Accelerated
+    filer  
+      [  ]   
+ 
+      Non-accelerated
+    filer  
+      [  ]  
+      (Do
+    not check if a smaller reporting company)  
+      Smaller
+    reporting company  
+      [X]   
+
+Emerging
+    growth company  
+      [X]   
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]  
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act)  
+
+[  ]
+YES [X] NO  
+
+As
+of August 20, 2018 there were 28,169,290 shares of common stock issued and outstanding.  
+
+INDOOR
+HARVEST CORP   
+
+FORM
+10-Q   
+
+TABLE
+OF CONTENTS   
+
+PART
+    I   FINANCIAL INFORMATION        
+
+Item
+    1.  
+        Consolidated
+    Financial Statements (Unaudited)    
+      F-1   
+
+Consolidated
+    Balance Sheets June 30, 2018 and December 31, 2017  (Unaudited)   
+      F-1   
+
+Consolidated
+    Statements of Operations for the six months ended June 30, 2018 and 2017 (Unaudited)   
+      F-2   
+
+Consolidated
+    Statements of Changes in Stockholders  Deficit for the six months ended June 30, 2018 and 2017 (Unaudited)   
+      F-3   
+
+Consolidated
+    Statements of Cash Flows for the six months ended June 30, 2018 and 2017 (Unaudited)    
+      F-4   
+
+Notes
+    to Consolidated Financial Statements (Unaudited)    
+      F-5   
+
+Item
+    2.  
+        Management s
+    Discussion and Analysis of Financial Condition and Results of Operations.    
+      4   
+
+Item
+    3.  
+        Quantitative
+    and Qualitative Disclosure about Market Risk.    
+      11   
+
+Item
+    4.  
+        Controls
+    and Procedures.    
+      11   
+
+PART
+    II   OTHER INFORMATION     
+
+Item
+    1.  
+        Legal
+    Proceedings.    
+      12   
+
+Item
+    1A.  
+        Risk
+    Factors    
+      12   
+
+Item
+    2.  
+        Unregistered
+    Sales of Equity Securities and Use of Proceeds.    
+      12   
+
+Item
+    3.  
+        Defaults
+    Upon Senior Securities.    
+      13   
+
+Item
+    4.  
+        Mine
+    Safety Disclosures.    
+      13   
+
+Item
+    5.  
+        Other
+    Information.    
+      13   
+
+Item
+    6.  
+        Exhibits.    
+      14   
+
+SIGNATURES    
+      15   
+
+FORWARD-LOOKING
+STATEMENTS   
+
+Except
+for any historical information contained herein, the matters discussed in this quarterly report on Form 10-Q contain certain  forward-looking
+statements   within the meaning of the federal securities laws. This includes statements regarding our future financial
+position, economic performance, results of operations, business strategy, budgets, projected costs, plans and objectives of management
+for future operations, and the information referred to under  Management s Discussion and Analysis of Financial Condition
+and Results of Operations.   
+
+These
+forward-looking statements generally can be identified by the use of forward-looking terminology, such as  may,  
+ will,    expect,    intend,    estimate,    anticipate,  
+ believe,    continue   or similar terminology, although not all forward-looking statements
+contain these words. These forward-looking statements are not historical facts, and are based on current expectations, estimates
+and projections about our industry, management s beliefs and certain assumptions made by management, many of which, by their
+nature, are inherently uncertain and beyond our control. Accordingly, you are cautioned that any such forward-looking statements
+are not guarantees of future performance and are subject to certain risks, uncertainties and assumptions that are difficult to
+predict. Although we believe that the expectations reflected in such forward-looking statements are reasonable as of the date
+made, expectations may prove to have been materially different from the results expressed or implied by such forward-looking statements.
+Important factors that may cause actual results to differ from projections include, for example:  
+
+the
+    success or failure of management s efforts to implement our business plan;   
+
+our
+    ability to fund our operating expenses;   
+
+our
+    ability to compete with other companies that have a similar business plan;   
+
+the
+    effect of changing economic conditions impacting our plan of operation; and   
+
+our
+    ability to meet the other risks as may be described in future filings with the Securities and Exchange Commission (the  SEC ).   
+
+Unless
+otherwise required by law, we also disclaim any obligation to update our view of any such risks or uncertainties or to announce
+publicly the result of any revisions to the forward-looking statements made in this quarterly report on Form 10-Q.  
+
+When
+considering these forward-looking statements, you should keep in mind the cautionary statements in this quarterly report on Form
+10-Q and in our other filings with the SEC. We cannot assure you that the forward-looking statements in this quarterly report
+on Form 10-Q will prove to be accurate. Furthermore, if our forward-looking statements prove to be inaccurate, the inaccuracy
+may prove to be material. In light of the significant uncertainties in these forward-looking statements, you should not regard
+these statements as a representation or warranty by us or any other person that we will achieve our objectives and plans in any
+specified time-frame, or at all.  
+
+PART
+I - FINANCIAL INFORMATION   
+
+Item
+1. Financial Statements   
+
+INDOOR
+HARVEST CORP   
+
+      CONSOLIDATED
+BALANCE SHEETS    
+
+   (UNAUDITED)   
+
+The
+accompanying notes are an integral part of these unaudited financial statements.  
+
+INDOOR
+HARVEST CORP   
+
+      CONSOLIDATED
+STATEMENTS OF OPERATIONS    
+
+   (UNAUDITED)   
+
+The
+accompanying notes are an integral part of these unaudited financial statements.  
+
+INDOOR
+HARVEST CORP   
+
+      CONSOLIDATED
+STATEMENTS OF STOCKHOLDERS  DEFICIT    
+
+   (UNAUDITED)   
+
+The
+accompanying notes are an integral part of these unaudited financial statements.  
+
+INDOOR
+HARVEST CORP   
+
+      CONSOLIDATED
+STATEMENTS OF CASH FLOWS    
+
+   (UNAUDITED)   
+
+The
+accompanying notes are an integral part of these unaudited financial statements.  
+
+INDOOR
+HARVEST CORP   
+
+      NOTES
+TO CONSOLIDATED FINANCIAL STATEMENTS    
+
+   (UNAUDITED)   
+
+NOTE
+1 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES    
+
+Nature
+of Operations and Organization   
+
+Indoor
+Harvest Corp. (the  Company, ) is a Texas corporation formed on November 23, 2011. Our principal executive office
+is located at 5300 East Freeway Suite A, Houston, Texas 77020. On August 3, 2017, we formed Alamo Acquisition, LLC, a wholly owned
+Texas limited liability company ( Alamo Acquisition Sub ). On August 4, 2017, we consummated a business acquisition
+(the  Alamo Acquisition ) pursuant to which Alamo Acquisition Sub acquired all of the outstanding member
+interests of Alamo CBD, LLC. ( Alamo CBD ), a Texas limited Liability Company. Upon closing of the Alamo Acquisition,
+the member interests ( Alamo Surviver Members ) of Alamo CBD were exchanged for 7,584,008 shares of Indoor Harvest s
+common stock, the parent company of Alamo Acquisition Sub, and Alamo CBD continued as our surviving wholly-owned subsidiary, and
+Alamo Acquisition Sub ceased to exist.  
+
+From
+inception until August 4, 2017, the Company provided full service, state of the art design-build, engineering, procurement and
+construction services to the indoor and vertical farming industry. The Company provided production platforms, mechanical systems
+and complete custom designed build outs for both Controlled Environment Agriculture ( CEA ) and Building Integrated
+Agriculture ( BIA ), for two unique industries, produce and cannabis. In mid-2016, the Company began efforts to separate
+its produce and cannabis related operations due to ongoing feedback from both clients and potential institutional investors. It
+was determined that the Company s involvement in the cannabis industry was creating conflicts for clients and potential
+institutional investors wishing to work with the Company from the produce industry due to the public perception and political
+issues surrounding the cannabis industry. By late-2016, the Company had decided to cease actively selling its products and services
+to the vertical farming industry and to focus on utilizing the Company s developed technology and methods for the cannabis
+industry. On August 4, 2017, the Company ceased actively supporting business development of vertical farms for produce production.  
+
+Basis
+of Presentation   
+
+The
+accompanying financial statements have been prepared on the accrual basis of accounting in accordance with accounting principles
+generally accepted in the United States of America ( GAAP ).  
+
+It
+is management s opinion, however, that all material adjustments (consisting of normal and recurring adjustments) have been
+made which are necessary for a fair financial statement presentation. The results for the interim period are not necessarily indicative
+of the results to be expected for the year.  
+
+Use
+of Estimates   
+
+The
+preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those
+estimates.  
+
+Significant
+estimates include, but are not limited to, the estimate of percentage of completion on construction contracts in progress at each
+reporting period which we rely on as a primary basis of revenue recognition, estimated useful lives of equipment for purposes
+of depreciation and the valuation of common shares issued for services, equipment and the liquidation of liabilities.  
+
+Principles
+of Consolidation   
+
+The
+consolidated financial statements include the accounts of Indoor Harvest Corp. and its wholly-owned subsidiary, Alamo CBD. All
+significant inter-company accounts and transactions have been eliminated in consolidation.  
+
+Reclassification   
+
+Certain
+expense items have been reclassified in the statement of operations for the six months ended June 30, 2017, to conform to the
+reporting format adopted for the six months ended June 30, 2018.  
+
+Cash
+and Cash Equivalents   
+
+The
+Company considers all highly liquid instruments with a maturity of three months or less to be cash and cash equivalents.  
+
+Stock
+Based Compensation   
+
+The
+Company recognizes stock-based compensation in accordance with ASC 718-10, Stock Compensation. ASC 718-10 focuses on transactions
+in which an entity exchanges its equity instruments for goods or services, with a primary focus in which an entity obtains employee
+services in stock-based payment transactions. ASC 718-10 requires measurement of the cost of employee services received in exchange
+for an award of equity instruments based on the grant date fair value of the award (with limited exceptions).  
+
+Loss
+per Share   
+
+Basic
+earnings per share amounts are calculated based on the weighted average number of shares of common stock outstanding during each
+period. Diluted earnings per share is based on the weighted average numbers of shares of common stock outstanding for the periods,
+including dilutive effects of stock options, warrants granted and convertible preferred stock. Dilutive options and warrants that
+are issued during a period or that expire or are canceled during a period are reflected in the computations for the time they
+were outstanding during the periods being reported. Since Indoor Harvest has incurred losses for all periods, the impact of the
+common stock equivalents would be anti- dilutive and therefore are not included in the calculation.  
+
+Fair
+Value of Financial Instruments   
+
+We
+adopted accounting guidance for financial and non-financial assets and liabilities (ASC 820). The adoption did not have a material
+impact on our results of operations, financial position or liquidity. This standard defines fair value, provides guidance for
+measuring fair value and requires certain disclosures. This standard does not require any new fair value measurements, but rather
+applies to all other accounting pronouncements that require or permit fair value measurements. This guidance does not apply to
+measurements related to share- based payments. This guidance discusses valuation techniques, such as the market approach (comparable
+market prices), the income approach (present value of future income or cash flow), and the cost approach (cost to replace the
+service capacity of an asset or replacement cost). The guidance utilizes a fair value hierarchy that prioritizes the inputs to
+valuation techniques used to measure fair value into three broad levels. The following is a brief description of those three levels:  
+
+Level
+    1: Observable inputs such as quoted prices (unadjusted) in active markets for identical assets or liabilities.   
+
+Level
+    2: Inputs other than quoted prices that are observable, either directly or indirectly. These include quoted prices for similar
+    assets or liabilities in active markets and quoted prices for identical or similar assets or liabilities in markets that are
+    not active.   
+
+Level
+    3: Unobservable inputs in which little or no market data exists, therefore developed using estimates and assumptions developed
+    by us, which reflect those that a market participant would use.   
+
+Income
+Taxes   
+
+The
+Company accounts for income taxes pursuant to FASB ASC 740 Income Taxes, which requires recognition of deferred income tax
+liabilities and assets for the expected future tax consequences of events that have been recognized in the financial statements
+or tax returns. The Company provides for deferred taxes on temporary differences between the financial statements and tax basis
+of assets using the enacted tax rates that are expected to apply to taxable income when the temporary differences are expected
+to reverse.  
+
+ASB
+ASC 740 establishes a more-likely-than-not threshold for recognizing the benefits of tax return positions in the financial statements.
+Also, the statement implements a process for measuring those tax positions that meet the recognition threshold of being ultimately
+sustained upon examination by the taxing authorities. There are no uncertain tax positions taken by the Company on its tax returns.
+The Company files tax returns in the U.S. and states in which it has operations and is subject to taxation.  
+
+Tax
+years 2017, 2016, 2015, 2014, and 2013, remain subject to examination by the IRS and respective states.  
+
+On
+December 22, 2017, the U.S. government enacted comprehensive tax legislation commonly referred to as the Tax Cuts and Jobs Act
+(the  Tax Reform Act ). We recognize the impact of tax legislation in the period in which the law is enacted. In December
+2017, the SEC staff issued Staff Accounting Bulletin No. 118, which addresses how a company recognizes provisional amounts when
+a company does not have the necessary information available, prepared or analyzed (including computations) in reasonable detail
+to complete its accounting for the effect of the changes in the Tax Reform Act. Consistent with that guidance, we recognized provisional
+amounts based upon our interpretation of the tax laws and estimates which require significant judgments. The actual impact of
+these tax laws may differ from these provisional amounts, possibly materially, due to, among other things, additional analysis,
+changes in our interpretations and assumptions, additional guidance that may be issued by the government and actions we may take
+as a result of these enacted tax laws. Any adjustments recorded to the provisional amounts will be included in income from operations
+as an adjustment to tax expense.  
+
+Property
+and Equipment   
+
+Property
+and equipment is recorded at cost and depreciated or amortized using the straight-line method over the estimated useful life of
+the asset or the underlying lease term for leasehold improvements, whichever is shorter. The estimated useful life by asset description
+is noted in the following table:  
+
+Asset
+    description   
+         
+       Estimated
+    Useful Life (Years)    
+ 
+      Furniture
+    and equipment  
+         
+      3
+    - 5   
+ 
+      Tooling
+    equipment  
+         
+      10   
+ 
+      Leasehold
+    improvements  
+         
+      *   
+
+*
+The shorter of 5 years or the life of the lease.  
+
+Additions
+are capitalized and maintenance and repairs are charged to expense as incurred. Gains and losses on dispositions of equipment
+are reflected in other income.  
+
+Goodwill   
+
+In
+accordance with ASC 350 Goodwill is not amortized but evaluated for impairment annually or more often if indicators of a potential
+impairment are present.  
+
+Intangible
+Assets   
+
+In
+accordance with ASC 350 Goodwill and Other Intangible Assets, indefinite-lived intangible assets are not amortized but are evaluated
+for impairment annually or more often if indicators of a potential impairment are present. Indefinite-lived intangible assets
+consist of the Company s domain name. Finite-lived intangible assets include software and is amortized over a 3 to 5 year
+period.  
+
+Derivative
+Liability   
+
+The
+Company accounts for derivative instruments in accordance with ASC 815, which establishes accounting and reporting standards for
+derivative instruments and hedging activities, including certain derivative instruments embedded in other financial instruments
+or contracts and requires recognition of all derivatives on the balance sheet at fair value, regardless of hedging relationship
+designation. Accounting for changes in fair value of the derivative instruments depends on whether the derivatives qualify as
+hedge relationships and the types of relationships designated are based on the exposures hedged. At June 30, 2018 and December
+31, 2017, the Company did not have any derivative instruments that were designated as hedges.  
+
+Beneficial
+Conversion Feature   
+
+For
+conventional convertible debt where the rate of conversion is below market value, the Company records a  beneficial conversion
+feature  ( BCF ) and related debt discount.  
+
+When
+the Company records a BCF, the relative fair value of the BCF is recorded as a debt discount against the face amount of the respective
+debt instrument. The discount is amortized to interest expense over the life of the debt.  
+
+Patent
+and Patent Application Expenses   
+
+Although
+the Company believes that its patent and underlying technology will have continuing value, the amount of future benefits to be
+derived from the patent is uncertain. Therefore, patent costs are expensed as incurred.  
+
+Research
+and Development   
+
+Research
+and development expenditures are charged to expense as incurred. Research and development expense for the six months ended June
+30, 2018 and 2017 are as follows:  
+
+Advertising
+Expense   
+
+Advertising
+and promotional costs are expensed as incurred. Advertising expense for the Six months ended June 30, 2018 and 2017 are as follows:  
+
+Recent
+Accounting Pronouncements   
+
+Management
+has evaluated subsequent events through the date these financial statements were available to be issued. Based on our evaluation
+no material events have occurred that require disclosure.  
+
+NOTE
+2 - GOING CONCERN    
+
+As
+reflected in the accompanying financial statements, the Company had a net loss of $1,180,541, net cash used in operations of $378,629
+and has an accumulated deficit of $9,589,363, for the six months ended June 30, 2018. These factors raise substantial doubt about
+the Company s ability to continue as a going concern.  
+
+The
+ability of the Company to continue as a going concern is dependent on Management s plans which include potential asset acquisitions,
+mergers or business combinations with other entities, further implementation of its business plan and continuing to raise funds
+through debt or equity financings. The Company will likely rely upon related party debt or equity financing in order to ensure
+the continuing existence of the business.  
+
+The
+business plan of the Company is to engage in the design, development, marketing and direct-selling of commercial grade aeroponics
+fixtures and supporting systems for use in urban Controlled Environment Agriculture ( CEA ) and Building Integrated
+Agriculture ( BIA ). During the next twelve months, the Company s strategy is to: complete ongoing product development;
+commence product marketing, product assembly and sales; construct a demonstration CEA and BIA farm; and offer design-build services.
+The Company s long-term strategy is to direct sale, license and franchise their patented technologies and methods.  
+
+The
+accompanying financial statements have been prepared on a going concern basis, which contemplates the realization of assets and
+the satisfaction of liabilities in the normal course of business. These financial statements do not include any adjustments relating
+to the recovery of the recorded assets or the classification of the liabilities that might be necessary should the Company be
+unable to continue as a going concern.  
+
+NOTE
+3 - PROPERTY AND EQUIPMENT    
+
+Property
+and equipment consist of the following as of June 30, 2018 and December 31, 2017:  
+
+Depreciation
+expense for the six months ended June 30, 2018 and 2017, totaled $5,197 and $25,402, respectively.  
+
+NOTE
+4   INTANGIBLE ASSETS    
+
+There were no impairment charges taken for
+the domain name during the six months ended June 30, 2018 and 2017. 
+
+Intangible
+assets consist of the following as of June 30, 2018 and December 31, 2017:  
+
+Amortization
+expense for the six months ended June 30, 2018 and 2017, totaled $858 and $854, respectively.  
+
+NOTE
+5 - COMMITMENTS   CONTINGENCIES    
+
+On
+February 20, 2014, the Company signed a 60-month lease on a 10,000 sq. ft. office/warehouse facility and paid a deposit of $12,600.
+The monthly base rent is $4,200 increasing 6% every two years for the term of the lease. The property is adequate for all of the
+Company s currently planned activities. On January 22, 2018, the Company entered into a 6-month sublease agreement for a
+portion of the 10,000 sq. ft. office/warehouse facility. The term of the sublease is February 1, 2018 through July 31, 2018 at
+$2,000 per month. The Company records the sublease income as a reduction of rent expense in the Consolidated Statements of Operations
+within general and administrative expenses.  
+
+Deferred
+rent payable at June 30, 2018 was $4,568. Deferred rent payable is the sum of the difference between the monthly rent payment
+and the straight-line monthly rent expense of an operating lease that contains escalated payments in future periods.  
+
+Rent
+expense, net of sublease payments received, for the six months ended June 30, 2018 and 2017 were as follows:  
+
+NOTE
+6 - FAIR VALUE MEASUREMENTS    
+
+Carrying
+amounts reported on the balance sheets for cash and cash equivalents, accounts receivable, accounts payable and accrued expenses
+approximate fair value due to their relatively short maturity. Debt classified as Level 2 in the fair value hierarchy represent
+convertible notes payable of $732,119 and $455,459 at June 30, 2018 and December 31, 2017, respectively. Financial instruments
+classified as Level 3 in the fair value hierarchy represents derivative liability of $550,374 and $554,917 June 30, 2018 and December
+31, 2017, respectively.  
+
+NOTE
+7 - NOTE PAYABLE    
+
+On
+June 5, 2015, the Company entered into a five-year loan agreement totaling $36,100. The loan carries interest at a rate of 10.25%.  
+
+NOTE
+8 - CONVERTIBLE NOTES PAYABLE    
+
+Convertible
+notes payable at June 30, 2018 and December 31, 2017 are as follows:  
+
+Note
+1   
+
+On
+March 24, 2017, the Company entered into a securities purchase agreement with Tangiers Global, LLC ( Tangiers ) relating
+to the issuance and sale of notes ( Note 1 ) in the aggregate principal amount of up to $550,000, which includes a
+10% original issue discount. Note 1 is convertible into shares of common stock at a price equal to $0.30 per share; provided,
+however that if Note 1 is not retired on or before the maturity date, defined in Note 1 as a  Maturity Default  the
+conversion price shall be adjusted to be equal to the lower of: (i) $0.30 or (ii) 65% multiplied by the lowest trading price of
+the Company s common stock in the fifteen (15) consecutive trading day period immediately preceding the date that the Company
+receives a notice of conversion. The Tangiers Note 1 carries interest on the unpaid principal amount at the rate of 8% per annum
+and is due and payable eight months from the effective date of each payment. As of June 30, 2018, the balance under Note 1 is
+$294,000, which includes $44,000 guaranteed interest. As of June 30, 2018, Note 1 can be converted into 4,184,615 shares of the
+Company s common stock.  
+
+On
+October 12, 2017, the Company entered into an Investment Agreement with Tangiers. Pursuant to the terms of the Investment Agreement,
+Tangiers committed to purchase up to $2,000,000 of our common stock over a period of up to 36 months. From time to time during
+the 36-month period commencing from the effectiveness of the registration statement, we may deliver a put notice to Tangiers which
+states the dollar amount that we intend to sell to Tangiers on a date specified in the put notice. The maximum investment amount
+per notice must be no more than 200% of the average daily trading dollar volume of our common stock for the eight (8) consecutive
+trading days immediately prior to date of the applicable put notice and such amount must not exceed an accumulative amount of
+$250,000. The minimum put amount is $5,000. The purchase price per share to be paid by Tangiers will be the 80% of the of the
+average of the two lowest closing bid prices of the common stock during the pricing period applicable to the put notice, provided,
+however, an additional 10% will be added to the discount of each put if (i) we are not DWAC eligible and (ii) an additional 15%
+will be added to the discount of each put if we are under DTC  chill  status on the applicable date of the put notice.  
+
+On
+October 10, 2017, the Company executed Amendment #1 to the Tangiers Note 1 for a final draw of $250,000 payment plus a 10% original
+issue discount. Amendment #1 modified the maturity date for the Tangier Note from eight months to six months from the effective
+date of each payment. All other terms and conditions of the Tangiers Note 1 remain effective.  
+
+The
+execution of Amendment #1 to Note 1 on October 10, 2017 caused the Company to default on the first draw due under Note 1 due to
+the acceleration of the maturity date. The default allows Tangiers to demand payment in cash equal to 150% of the outstanding
+principal and interest, which is automatically added to the outstanding principle, and convert all or a portion of the outstanding
+principal into shares of common stock of the Company. The default conversion rate of Note 1 is now the lower of the conversion
+rate then in effect or 65% of the lowest trading price for the 15 days prior to Tangiers  notice of conversion. As of May
+1, 2018, Tangiers has informed the Company that they have elected at this time not to enforce the default interest rate of 18%
+under Note 1 and also not to enforce the fees, reserving its rights to enforce the foregoing in their discretion.  
+
+Note
+2   
+
+The
+Company issued a fixed convertible promissory note to Tangiers for the principal sum of $50,000 as a commitment fee for the Investment
+Agreement. The promissory note ( Note 2 ) maturity date is May 12, 2018. The principal amount due under Note 2 can
+be converted by Tangiers any time, into shares of the Company s common stock at a conversion price of $0.1666 per share.
+The promissory note is in a  Maturity Default,  which is defined in Note 2 as the event in which Note 2 is not retired
+prior to its maturity date, Tangiers  conversion rights under Note 2 would be adjusted such that the conversion price would
+be the lower of (i) $0.1666 or (ii) b) 65% of the average of the two lowest trading prices of the Company s common stock
+during the 10 consecutive trading days prior to the date on which Tangiers elects to convert all or part of the note. The default
+interest rate is 20%. As of June 30, 2018, the balance under Note 2 is $55,000, which includes $5,000 guaranteed interest. As
+of June 30, 2018, Note 2 can be converted into 769,231 shares of the Company s common stock.  
+
+Note
+3   
+
+On
+January 16, 2018, the Company issued and sold an 8% Fixed Convertible Promissory Note ( Note 3 ) to Tangiers (the
+ Buyer ), in the aggregate principal amount of up to $550,000, which includes a 10% original issue discount. Note
+3 is convertible into shares of the Company s common stock at a conversion price of $0.30 per share. However, if Note 3
+is not paid back on or before the maturity date, defined in Note 3 as a  Maturity Default , the conversion price of
+Note 3 shall then be adjusted to be equal to the lower of: (i) $0.30 or (ii) 65% multiplied by the lowest trading price of the
+Company s common stock in the fifteen (15) consecutive trading day period immediately preceding the trading day that the
+Company receives a notice of conversion of Note 3.  
+
+On
+February 13, 2018, April 17, 2018, and June 13, 2018, the Company executed Amendments #1, #2, and #3 to the Tangiers Note 3 for
+draws of $132,000, $132,000, and $101,750, respectively. All other terms and conditions of the Tangiers Note 3 remain effective.
+As of June 30, 2018, the balance under Note 3 is $484,110, which includes $35,860 guaranteed interest.  
+
+As
+of June 30, 2018, the Company accrued $96,226 in interest expense related to the outstanding the notes.  
+
+Debt
+Discount and Original Issuance Costs for Convertible Note   
+
+The
+debt discount amount consists of debt discount due to beneficial conversion features, warrant, original issue costs, and debt
+issue costs. The debt discounts recorded in 2018 and 2017, pertain to beneficial conversion feature on the convertible notes.
+The notes are required to be bifurcated and reported at fair value on the date of grant.  
+
+During
+the six months ended June 30, 2018 and for the year ended December 31, 2017, the Company amortized $109,910 and $466,862 to interest
+expense, respectively.  
+
+Debt
+Issuance Costs for Convertible Note   
+
+During
+the six months ended June 30, 2018 and for the year ended December 31, 2017, the Company did not pay any debt issue costs.  
+
+NOTE
+9 - DERIVATIVE LIABILITIES    
+
+The
+Company identified the conversion features embedded within its convertible debts as financial derivatives. The Company has determined
+that the embedded conversion option should be accounted for at fair value.  
+
+The
+following schedule shows the change in fair value of the derivative liabilities for the six months ended June 30, 2018:  
+
+The
+following schedule shows the change in fair value of the derivative liabilities for the year ended December 31, 2017:  
+
+NOTE
+10 - RELATED PARTY TRANSACTIONS    
+
+On
+January 15, 2018 Ms. Sandra Fowler, was appointed as the Chief Marketing Officer of the Company. Pursuant to the terms of the
+Fowler Employment Agreement, Ms. Fowler shall serve as Chief Marketing Officer of the Company. The initial term of the agreement
+will expire on January 15, 2019 and commencing on January 15, 2019 and on each anniversary of such date thereafter, the term of
+the Fowler Employment Agreement shall automatically renew for a one-year period, unless earlier terminated by either party pursuant
+to the terms of the Fowler Employment Agreement. In consideration for Ms. Fowler s services, under the Fowler Employment
+Agreement, Ms. Fowler shall receive (i) an annual base salary of $48,000 and (ii) 200,000 shares of restricted common stock of
+the Company. Further, pursuant to the Fowler Employment Agreement, the Company agreed to revise the annual base compensation for
+Ms. Fowler to $65,000, after 90 days of the execution of the Fowler Employment Agreement, or after the Company raises not less
+than $1,000,000 from sales of its equity securities subsequent to the execution of the Fowler Employment Agreement, whichever
+may come first. In addition, Ms. Fowler shall be eligible to participate in any equity-based incentive compensation plan or programs
+adopted by the Company s board of directors.  
+
+On
+February 5, 2018, Dr. Coleman and Benjamin Coleman voluntarily returned and canceled an aggregate of 3,280,470 common shares in
+order to prevent dilution to the shareholders during the Company s efforts to secure new senior management, provide additional
+incentive equity and to form an advisory board. The return of common stock by Dr. Coleman and Benjamin Coleman was a non-cash
+transaction.  
+
+On
+February 20, 2018, Mr. Daniel Weadock was appointed Chief Executive Officer and Director of the Company. On February 20, 2018,
+the Company entered into an executive employment agreement with Mr. Weadock (the  Weadock Employment Agreement ),
+pursuant to which Mr. Weadock agreed to act as the Company s chief executive officer. Pursuant to the terms of the Weadock
+Employment Agreement, Mr. Weadock initial will not receive a salary. However, effective on the business day after the date on
+which the Company achieves Capitalization (as hereinafter defined) of $2,000,000 or more, Mr. Weadock s annual base salary
+will be $100,000. For purposes of the Weadock Employment Agreement,  Capitalization  means aggregate net cash proceeds
+received by the Company from (a) the Company s sale of common stock pursuant to Puts (as such term is defined in the Investment
+Agreement dated as of October 12, 2017 by and between the Company and Tangiers Global, LLC (the  Investment Agreement ))
+under the Investment Agreement, and/or (b) any other sale by the Company of common stock or preferred stock, whether in a public
+offering or a private placement. In addition, pursuant to the terms of the Weadock Employment Agreement, the Company agreed to
+grant Mr. Weadock (i) 300,000 shares of restricted stock as soon as administratively practicable following execution of the Weadock
+Employment Agreement, and (ii) 1,584,202 shares of restricted common stock, consistent with the grant and vesting schedule set
+forth in the agreement; provided, however, that no grant will be made and no shares will be issued with respect to any grant if
+Mr. Weadock is not employed by the Company as an executive on the respective Date of Grant as set forth in the agreement. The
+Weadock Employment Agreement has a term of one year, unless Mr. Weadock s employment is terminated sooner by the board of
+directors, and the term will be extended for additional one-year periods unless the Company or Mr. Weadock gives the other party
+at least 30 days  prior written notice of its intent not to renew. On February 20, 2018, the Company also entered into a
+compensation agreement with Mr. Weadock (the  Director Compensation Agreement ).Pursuant to the terms of the Director
+Compensation Agreement, the Company agreed to grant Mr. Weadock an aggregate of 240,000 shares of restricted common stock, consistent
+with the grant and vesting schedule set forth in the agreement; provided, however, that no grant will be made and no shares will
+be issued with respect to any grant, if Mr. Weadock is not a member of the Company s board of directors on the respective
+Date of Grant as set forth in the agreement. If the Company is acquired by, or merged into and with, another entity prior to the
+last Date of Vesting set forth in the agreement (i.e. February 23, 2022), all shares issuable to Mr. Weadock under the Director
+Compensation Agreement will become fully vested and non-forfeitable. The Company also agreed to reimburse Mr. Weadock for all
+reasonable travel and incidental expenses incurred by Mr. Weadock in performing his services and attending meetings as approved
+in advance by the Company. Also, on February 20, 2018, the Company also entered into an indemnity agreement with Mr. Weadock (the
+ Weadock Indemnity Agreement ). Pursuant to the terms of the Indemnity Agreement, the Company agreed to use reasonable
+efforts to obtain and maintain in full force and effect directors  and officers  liability insurance ( D O
+Insurance ) in reasonable amounts from established and reputable insurers; provided, however, the Company shall have no
+obligation to obtain or maintain D O Insurance if the Company determines in good faith that such insurance is not reasonably
+available, the premium costs for such insurance are disproportionate to the amount of coverage provided, the coverage is reduced
+by exclusions so as to provide an insufficient benefit, or Mr. Weadock is covered by similar insurance maintained by a subsidiary
+of the Company. In addition the foregoing, the Company will indemnify Mr. Weadock from certain third party actions, derivative
+actions and actions where Mr. Weadock is decreased; provided, however, the Company shall not be obligated to indemnify Mr. Weadock
+for actions including, but not limited to, actions initiated by Mr. Weadock, for any action in which it is determined that the
+material assertions made by Mr. Weadock in such proceeding were not made in good faith or were frivolous, for any settlements
+not authorized by the Company, for any actions on the account of Mr. Weadock s willful misconduct, and for any expenses
+and the payment of profits arising from the purchase and sale Mr. Weadock of securities in violation of Section 16(b) of the Securities
+Exchange Act, or any similar successor statute; provided, further that, that the Company shall not be obligated to indemnify Mr.
+Weadock for expenses or liabilities of any type whatsoever which have been paid directly to Mr. Weadock pursuant to the Company s
+D O Insurance policy.  
+
+NOTE
+11 - STOCKHOLDERS  DEFICIT    
+
+Series
+A Convertible Preferred Stock   
+
+As
+at June 30, 2018 and December 31, 2017, there were 750,000 shares of Series A Convertible Preferred Stock issued and outstanding.  
+
+Common
+Stock   
+
+On
+January 9, 2018, the Company issued 899,685 shares of its common stock to Tangiers pursuant to Tangiers  conversion of $100,000
+of Note 1 at a conversion price of $0.11.  
+
+On
+January 15, 2018, the Company issued 200,000 shares of common stock related to an Employment Agreement with Sandra Fowler, Chief
+Marketing Officer. The Company recorded a fair value of $66,000 ($0.33 per share) based upon the most current trading price of
+the Company s stock.  
+
+On
+February 5, 2018, Dr. Coleman and Benjamin Coleman voluntarily returned and canceled an aggregate of 3,280,470 common shares in
+order to prevent dilution to the shareholders during the Company s efforts to secure new senior management, provide additional
+incentive equity and to form an advisory board. The return of common stock by Dr. Coleman and Benjamin Coleman was a non-cash
+transaction and reduces the common stock outstanding as of March 31, 2018.  
+
+On
+February 20, 2018, the Company issued 43,387 shares of common stock related to an Employment Agreement with Daniel Weadock, Chief
+Executive Officer. The Company recorded a fair value of $7,810 ($0.18 per share) based upon the most current trading price of
+the Company s stock.  
+
+On
+February 23, 2018, the Company issued 12,135 shares of common stock related to an Director Agreement with Daniel Weadock, Chief
+Executive Officer. The Company recorded a fair value of $2,063 ($0.17 per share) based upon the most current trading price of
+the Company s stock.  
+
+On
+March 5, 2018, the Company issued 269,716 shares of its common stock to Tangiers pursuant to Tangier s conversion of $25,000
+of Note 1 at a conversion price of $0.09.  
+
+On
+March 20, 2018, the Company issued 30,000 shares of its common stock to members of the Company s Advisory Board. The Company
+recorded a fair value of $4,200 ($0.14 per share) based upon the most recent trading price of the Company s stock.  
+
+On
+March 21, 2018, the Company issued 295,631 shares of its common stock to Tangiers pursuant to Tangier s conversion of $25,000
+of Note 1 at a conversion price of $0.08 per share.  
+
+On
+April 13, 2018, the Company issued 769,231 shares of its common stock to Tangiers pursuant to Tangier s conversion of $50,000
+of Note 1 at a conversion price of $0.065 per share.  
+
+On
+April 17, 2018, the Company issued 300,000 shares of common stock related to an Employment Agreement with Daniel Weadock, Chief
+Executive Officer. The Company recorded a fair value of $51,000 ($0.17 per share) based upon the most current trading price of
+the Company s stock.  
+
+On
+May 20, 2018, the Company issued 99,012 shares of common stock related to an Employment Agreement with Daniel Weadock, Chief Executive
+Officer. The Company recorded a fair value of $16,832 ($0.17 per share) based upon the most current trading price of the Company s
+stock.  
+
+On
+May 23, 2018, the Company issued 30,000 shares of common stock related to an Director Agreement with Daniel Weadock, Chief Executive
+Officer. The Company recorded a fair value of $5,100 ($0.17 per share) based upon the most current trading price of the Company s
+stock.  
+
+On
+June 21, 2018, the Company issued 295,858 shares of its common stock to Tangiers pursuant to Tangier s conversion of $25,000
+of Note 1 at a conversion price of $0.0845 per share.  
+
+On
+June 6, 2018, the Company issued 30,000 shares of its common stock to members of the Company s Advisory Board. The Company
+recorded a fair value of $2,550 ($0.085 per share) based upon the most recent trading price of the Company s stock.  
+
+On
+June 27, 2018, the Company issued 424,500 shares of common stock related to an advisory agreement with Electrum Partners, LLC.
+The Company recorded a fair value of $50,940 ($0.12 per share) based upon the most current trading price of the Company s
+stock.  
+
+Common
+Stock Warrants   
+
+For
+the six months ended June 30, 2018 and the year ended December 31, 2017, no warrants were outstanding.  
+
+NOTE
+12 - SUBSEQUENT EVENTS    
+
+On
+July 2, 2018, the Company issued 244,755 shares of its common stock to Tangiers pursuant to Tangier s conversion of $17,500
+of Note 1 at a conversion price of $.07.  
+
+On
+June 27, 2018, the Board of Directors of the Company approved the termination of Annette Knebel from her position as Chief Financial
+Officer of the Company pursuant to the terms of Mr. Knebel s employment agreement with the Company effective immediately
+and further on the same date, the Board of Directors of the Company approved the termination of Mr. Knebel from her position as
+a member of the Company s Board of Directors consistent with the Company s Amended and Restated Bylaws, effective
+immediately.  
+
+On
+July 3, 2018, Chad Sykes was appointed to act as the Company s principal financial officer and principal accounting officer.  
+
+On
+July 12, 2018, the Company issued 269,231 shares of its common stock to Tangiers pursuant to Tangier s conversion of $17,500
+of Note 1 at a conversion price of $.07.  
+
+On
+July 27, 2018, the Company and Tangiers entered into Amendment #4 to the January 16, 2018 promissory note ( Amendment #4 ),
+pursuant to which Tangiers agreed to make a payment to the Company in the amount of $101,750 ($92,500 in cash and $9,250 in OID)
+under the note. The Company agreed that within one and a half months of the payment it will use the proceeds as follows: $54,000
+for general and administrative expenses, $25,000 for accounting and legal and $13,500 for miscellaneous expenses.  
+
+On
+August 1, 2018, the Company issued 50,000 shares of its common stock to Electrum Partners pursuant to an advisory agreement. The
+Company recorded fair value of $4,500 ($0.09 per share) based upon the most recent trading price per share of the Company s
+stock.  
+
+On
+August 2, 2018, the Company issued 1,307,846 shares of its common stock to Tangiers pursuant to Tangier s conversion of
+$42,590 of Note 1 at a conversion price of $.033.  
+
+On
+August 13, 2018, the Company issued 460,617 shares of its common stock to Tangiers pursuant to Tangier s conversion of $15,000
+of Note 1 at a conversion price of $.033.  
+
+Item
+2. Management s Discussion and Analysis of Financial Condition or Plan of Operation   
+
+The
+following discussion of our financial condition and results of operations should be read in conjunction with our financial statements
+and the related notes, and other financial information included in this filing. Our Management s Discussion and Analysis
+contains not only statements that are historical facts, but also statements that are forward-looking. Forward-looking statements
+are, by their very nature, uncertain and risky. Although the forward-looking statements in this Report reflect the good faith
+judgment of our management, such statements can only be based on facts and factors currently known by them. Consequently, and
+because forward-looking statements are inherently subject to risks and uncertainties, the actual results and outcomes may differ
+materially from the results and outcomes discussed in the forward-looking statements. You are urged to carefully review and consider
+the various disclosures made by us in this report as we attempt to advise interested parties of the risks and factors that may
+affect our business, financial condition, and results of operations and prospects.   
+
+General
+Overview   
+
+We
+are a Texas corporation formed on November 23, 2011. Our principal executive office is located at 5300 East Freeway Suite A, Houston,
+Texas 77020. On August 3, 2017, we formed Alamo Acquisition, LLC, a wholly owned Texas limited liability company ( Alamo
+Acquisition Sub ).  
+
+On
+August 4, 2017, we consummated a business acquisition (the  Alamo Acquisition ) pursuant to which Alamo
+Acquisition Sub acquired all of the outstanding member interests of Alamo CBD, LLC. ( Alamo CBD ), a Texas limited
+Liability Company. Upon closing of the Alamo Acquisition, the member interests ( Alamo Surviver Members ) of
+Alamo CBD were exchanged for 7,584,008 shares of Indoor Harvest s common stock, the parent company of Alamo Acquisition
+Sub, and Alamo CBD continued as our surviving wholly-owned subsidiary, and Alamo Acquisition Sub ceased to exist.  
+
+In
+addition to the foregoing, following the closing of the Alamo Acquisition, and Alamo CBD being successfully awarded a provisional
+or full license to produce and dispense cannabis in the State of Texas, Indoor Harvest will issue to the individual Alamo Surviver
+Members, an additional Eight Million Five Hundred Thousand Dollars ($8,500,000) of newly-issued shares of common stock of Indoor
+Harvest, par value $0.001, based upon the three (3) day average closing price of the Company s common stock, as quoted on
+the OTCQB, prior to the time of issuance.  
+
+Additionally,
+upon Alamo CBD successfully being registered and licensed by the DEA to produce and dispense cannabis under federal law, Indoor
+Harvest will issue to the individual Alamo Surviver Members, an additional Two Million Five Hundred Thousand Dollars ($2,500,000)
+cash payment, or newly-issued shares of common stock of Indoor Harvest, par value $0.001, based upon the three (3) day average
+closing price of the Company s common stock, as quoted on the OTCQB, prior to the time of issuance, at the option of the
+individual Alamo Surviver Member. A combination of cash and common stock may be elected by Alamo Surviver Member individually.  
+
+Our
+Current Business   
+
+Indoor
+Harvest, through its brand name Indoor Harvest , is a technology company focused on producing bio pharma grade cannabis for
+research and development and a provider of advanced cultivation methods and processes for the cannabis industry. We are seeking
+to use the proprietary technology we have developed to become a registered producer and seller under the federal Controlled
+Substances Act ( CSA ) of pharmaceutical grade cannabis for research and targeted treatment of specific medical
+symptoms by third parties.  
+
+We
+have developed a patent pending aeroponic process of growing cultivars in an air or mist environment without the use of soil or
+an aggregate growing medium. Aeroponic production differs from both conventional hydroponics and in-vitro (plant tissue culture)
+growing. Unlike hydroponics, which uses water as a growing medium and essential minerals to sustain plant growth, aeroponics is
+conducted without a growing medium. Because water is used in aeroponics to transmit nutrients, it is sometimes considered a type
+of hydroponics. Our aeroponic process and production methods provide an ability to test the phenotypic plasticity of cannabis
+and to test and develop specific phenotypic response. Phenotypic plasticity refers to the changes in cannabis morphology and physiology
+due to its adaption to a unique environment and its impact on phytochemical production.  
+
+We,
+through Alamo CBD, have applied to produce and dispense low-tetrahydrocannabinol cannabis under the Texas Compassionate Use Program.
+THC is a psychotropic cannabinoid and is the principal psychoactive constituent of cannabis. We have signed a binding LOI with
+Zoned Properties outlining three independent pending agreements to complete research and development projects for licensed medical
+cannabis facilities to be located in Tempe, Arizona, Parachute, Colorado and Stockdale, Texas or other location to be determined
+after approval of a provisional license under the Texas Compassionate Use Program ( TCUP ). The Company intends
+to generate revenue from production of cannabis under the TCUP, through related engineering, project management, equipment leasing
+and technology licensing from constructed facilities in Tempe, Arizona and Parachute, Colorado and through the development and
+licensing of related environmental and climate recipes.  
+
+Our
+operational expenditures are primarily related to further developing our technology, launching and completing test trials, developing
+research partnerships and collaborations related to perfecting precise expressions of personalized medicine and the costs related
+to being a fully reporting company with the SEC.  
+
+Current
+Operations    
+
+On
+July 10, 2017, we entered into a Cultivation Design Agreement with Bright Orchard Developments, Ltd. ( Bright Orchard ),
+for the design of an aeroponic cannabis production facility by a pending licensed producer in Canada. On July 25, 2018, we received
+formal cancelation of the agreement from Bright Orchard.  
+
+On
+October 11, 2017, we entered into a binding letter of intent ( LOI ) with Zoned Properties outlining three pending
+independent agreements to complete research and development projects for licensed medical cannabis facilities to be located in
+Tempe, Arizona, Parachute, Colorado and Stockdale, Texas or other location to be determined after approval of a provisional license
+under the TCUP. Zoned Properties is an OTCQX quoted company and strategic real estate development firm whose primary mission is
+to identify, develop, and lease sophisticated, safe, and sustainable properties in emerging industries, including the licensed
+medical cannabis industry.  
+
+Under
+the terms of the binding LOI, the two companies will work together to mutually agree upon terms, provisions and obligations of
+three simultaneous, independent agreements.  
+
+Tempe
+                                         Arizona Research Cultivation Site   an agreement for the development and installation
+                                         of a research cultivation site utilizing Indoor Harvest s cultivation technology
+                                         and equipment within at most 2,500 square feet of space at Zoned Properties  Tempe
+                                         Medical Marijuana Business Park.   
+
+Parachute
+                                         Colorado Production Facility   an agreement for the development and operation of
+                                         Zoned Properties  Parachute Medical Marijuana Business Park and for Indoor Harvest
+                                         to engage Zoned Properties as the exclusive Strategic Development Advisory.   
+
+Texas
+                                         Compassionate Use Program Applicant   an agreement for Indoor Harvest to engage
+                                         Zoned Properties as the exclusive Strategic Development Advisory for Indoor Harvest s
+                                         anticipated future development located in Stockdale, Texas or at another location to
+                                         be determined.    
+
+Execution
+of any of the three individual agreements is subject to, among other things, satisfactory due diligence and the negotiation and
+execution of definitive agreements, each of which will contain customary representations, warranties, covenants and closing conditions.
+There is no assurance that any or all of the agreements will be executed nor consummated.  
+
+The
+binding LOI includes non-refundable payments totaling $50,000 by our company to Zoned Properties. The payments are consideration
+for entering into the binding LOI and represents a 20% deposit to be applied towards the assignment of the Parachute Development
+Rights which have been valued at $250,000 within the binding LOI.  
+
+On
+October 26, 2017, we entered into a LOI with Harvest Air, LLC ( Harvest Air ) and on November 1, 2017, entered into
+a LOI with Biological Innovations and Optimization Systems, LLC ( BIOS Lighting ). The two companies plan to collaborate
+with our company towards the development of a fully integrated platform designed to provide cannabis producers the ability to
+manage and record phenotypic plasticity in the cannabis plant. By combining our proven aeroponic methods, Harvest Air s
+HVAC designs, and customized lighting solutions from BIOS Lighting, the three companies plan to demonstrate an ability to manipulate
+and control phenotypic expression in the cannabis plant for the purpose of research and production of pharmaceuticals.  
+
+In
+addition to collaborative research and development, the group plans to develop advanced automation strategies to control the growth
+of cultivars with high pressure aeroponics by integrating power generation, HVAC, LED lighting systems, phytometric devices, and
+near-infrared technologies, into a fully integrated facilities package. By using real time measurements of plant physiological
+processes and precision management of the production facility environment, the group intends to offer scalable solutions and production
+methods designed specifically for cannabis phytochemistry and precise phytochemical production.  
+
+Prototype
+development will take place in Tempe, Arizona, as part of our planned cannabis technology development described below. In exchange
+for Harvest Air and BIOS Lighting support and services, we have agreed to exclusively utilize any developed hardware or strategies
+provided by both companies in its future developments in Parachute, Colorado and Stockdale, Texas, or other location in Texas
+approved under the TCUP as described in more detail below.  
+
+Tempe
+Arizona Research Cultivation Site    
+
+Our
+company plans to install 20 HPA Tables at an existing licensed medical cannabis production facility at Zoned Properties 
+Tempe Medical Marijuana Business Park. The purpose of this project is to conduct a demonstration of our company s aeroponic
+technology while integrating LED and HVAC designs, provided by BIOS Lighting and Harvest Air, respectively. The resulting demonstration
+will be compared to traditional flood irrigation, HVAC and lighting methods. Our company plans to prepare a case study and white
+paper to showcase industry adoption value and to serve as a proof of concept for the construction of larger facilities in Parachute,
+Colorado and Stockdale, Texas, or other location in Texas approved under the TCUP.  
+
+Both
+Zoned Properties and our company agreed to work together in good faith to mutually agree upon the terms, provisions and
+obligations of an agreement for the development, installation, and research of our cultivation technology and equipment within
+at most 2,500 square feet of space at Zoned Properties  Tempe Medical Marijuana Business Park located at 410 S. Madison
+Dr. Tempe, Arizona 85281. Our company expects to generate revenue from the Tempe, Arizona facility through future leasing and
+licensing agreements. The 20 HPA Table installation is expected to produce over 206 pounds of cannabis annually at under $150
+per pound in cost of goods with an expected breakeven point of 430 pounds for the equipment. There is no assurance that any or
+all of the agreements will be executed nor consummated.  
+
+Parachute
+Colorado Production Facility    
+
+Our
+company has secured rights to develop Zoned Properties Parachute Medical Marijuana Business Park. Our company intends to construct
+a 25,000 square foot facility based on the technology developed and tested at the Tempe Arizona Research Cultivation Site and
+to generate revenue through the leasing of the facility and licensing of our company s technology to either a medical or
+recreational licensee, which has yet to be determined. We would additionally conduct research and development towards creating
+specific environmental and climate recipes for the production of cannabis in order to produce and replicate a desired phenotypic
+response. Our company also expects to file an application with the DEA to register the facility under the CSA and to obtain rights
+to acquire the operating license from the licensee upon changes in Colorado law, which currently does not allow direct ownership
+by a publicly traded company.  
+
+Both
+Zoned Properties and our company agreed to work together in good faith to mutually agree upon the terms, provisions and
+obligations of an agreement for the assignment and/or sale of Zoned Properties  Parachute Development Rights for the Parachute
+Marijuana Business Park located at Lot #7 N. Diamond Loop Rd, Parachute, Colorado 81635. The agreement would include: (a) the
+assignment and/or sale of the Parachute Development Rights from Zoned Properties to our company, and (b) the engagement by our
+company of Zoned Properties as the exclusive Strategic Development Advisor for the Parachute Property. Our company has paid a
+$25,000 deposit towards securing these rights. There is no assurance that any or all of the additional agreements will be executed
+or that our company will be successful in registering the facility with the DEA.  
+
+Texas
+Compassionate Use Program Applicant    
+
+We,
+through our wholly owned subsidiary Alamo CBD, have applied to produce and dispense low-THC cannabis under the TCUP. Our company
+plans to partner with Zoned Properties, Harvest Air and BIOS Lighting to develop a 50,000 square foot facility in Stockdale, Texas
+or other location to be determined after approval of a provisional license under the TCUP. Zoned Properties and our company agreed
+to work together in good faith to mutually agree upon the terms, provisions and obligations of an Agreement for our company
+to engage Zoned Properties as the exclusive Strategic Development Advisory for our company s development in Texas under
+the TCUP. Our company also expects to file an application with the DEA to register the facility under the CSA. Our company expects
+to generate revenue through the production and sale of cannabis under the TCUP. There is no assurance that any or all of the agreements
+will be executed or that we will be successful in obtaining a license to produce cannabis in Texas or in registering the completed
+facility with the DEA.  
+
+As
+published in the Texas DPS Self-Evaluation Report, on page 543, question (D), dated September 29, 2017, the DPS originally interpreted
+the statute as requiring a market-based system by which the number and location of licensees are determined by market factors
+rather than by regulation   as not mandating or limiting the number of licensed distributors. It was originally understood
+that the applicants would be required to satisfy certain basic requirements prior to licensure, and the ability to maintain compliance
+with DPS guidelines will be evaluated through on-going audits and inspections.  
+
+In
+late 2016, the DPS modified its approach to restrict the number of licenses to three. This necessitated the development of a competitive
+review process, where three applicants were conditionally approved based on the review of the submitted application materials.
+Upon successful onsite inspection of their facilities, qualified applicants will be issued licenses. Because of this competitive
+review process, Alamo CBD placed 16th out of 43 applicants and its application is currently considered pending by the DPS. Our
+company and other pending applicants have questioned the last minute modification in approach by the DPS and the lack of transparency
+in the reviewing process.  
+
+Our
+company is a member of and is working with the Medical Cannabis Association of Texas and expects both lobbying and legislative
+efforts currently being undertaken to result in the program being expanded, additional permits being awarded, and new legislation
+being introduced in 2019 to allow for a separate permitting process to conduct cannabis research in line with the CSA. There is
+no guarantee that these efforts will result in our company obtaining a license or permit to produce cannabis in Texas or that
+legislation will be adopted allowing a separate licensing or permitting process for research purposes.  
+
+There
+can be no assurance that any of the foregoing plans can occur as planned or at all.  
+
+Results
+of Operations   
+
+The
+following summary of our operations should be read in conjunction with our unaudited financial statements for the three and six
+months ended June 30, 2018 and 2017.  
+
+Three
+months ended June 30, 2018 compared to three months ended June 30, 2017.   
+
+We
+earned no revenues for the three months ended June 30, 2018 and June 30, 2017.  
+
+Total
+operating expenses for the three months ended June 30, 2018 and June 30, 2017 were $311,522 and $420,459 respectively, for an
+aggregate decrease of $108,937 or -26%. The decrease is primarily related to a reduction in professional fees.  
+
+Total
+other expense for the three months ended June 30, 2018 was $(741,799) and total other expense for the three months ended June
+30, 2017 was $(301,232), for an increase in loss of $440,567 or 146%. The increase is primarily related to the embedded derivative
+liability related to the Tangiers convertible notes payable.  
+
+As
+a result of the factors discussed above, net loss for the three months ended June 30, 2018 and June 30, 2017 was $1,053,321 and
+$724,385, respectively, for an increase in net loss of $328,936 or 45%.  
+
+Six
+months ended June 30, 2018 compared to six months ended June 30, 2017.   
+
+We
+earned no revenues for the six months ended June 30, 2018 and June 30, 2017.  
+
+Total
+operating expenses for the six months ended June 30, 2018 and June 30, 2017 were $584,125 and $1,147,284 respectively, for an
+aggregate decrease of $563,159 or -49%. The decrease is primarily related to a decrease in general and administrative expenses
+and professional fees.  
+
+Total
+other expense for the six months ended June 30, 2018 was $596,416 and total other expense for the six months ended June 30, 2017
+was $618,923, for an improvement of $22,507 or -4%. The improvement is primarily related to a positive change in the fair value
+of the embedded derivative liability related to the Tangiers convertible notes payable, a decrease in interest expenses related
+to the paydown of the FirstFire Notes and Chuck Rifici Notes and a decrease in amortization of debt discount.  
+
+As
+a result of the factors discussed above, net loss for the six months ended June 30, 2018 and June 30, 2017 was $1,180,541 and
+$1,780,636, respectively, for a decrease in net loss of $600,095 or -34%.  
+
+Liquidity
+and Capital Resources   
+
+The
+following table provides selected financial data about our company as of June 30, 2018 and December 31, 2017, respectively.  
+
+Working
+Capital   
+
+Cash
+Flows   
+
+As
+at June 30, 2018 our company s cash balance was $60,661 and total assets were $147,721. As at December 31, 2017, our company s
+cash balance was $35,453 and total assets were $133,020.  
+
+As
+at June 30, 2018, our company had total liabilities of $1,437,778, compared with total liabilities of $1,132,644 as at December
+31, 2017.  
+
+As
+at June 30, 2018, our company had working capital deficiency of $1,327,117 compared with working capital deficiency of $1,029,916
+as at December 31, 2017. The increase in working capital deficiency was primarily attributed to an increase in convertible notes
+payable and accounts payable and accrued expenses.  
+
+Cash
+Flow from Operating Activities   
+
+Net
+cash used in operating activities for the six months ended June 30, 2018 and June 30, 2017 were $378,629 and $988,218, respectively,
+for a decrease of $609,589 or -62%. The improvement in net cash used in operating activities is primarily related to a reduction
+in general and administrative expenses and professional fees.  
+
+Cash
+Flow from Investing Activities   
+
+Net
+cash used in investing activities for the six months ended June 30, 2018 and June 30, 2017 were $0 and $550, respectively, for
+a decrease of $550 or 100%.  
+
+Cash
+Flow from Financing Activities   
+
+Net
+cash provided by financing activities for the six months ended June 30, 2018 and June 30, 2017 were $403,837 and $970,193, respectively,
+for a decrease of $566,356 or -58%. The decrease is primarily related to a reduction in operating expenses.  
+
+Cash
+Requirements: Potential Future Planned Operational Activities    
+
+During
+the next 12 months, we anticipate engaging in the additional planned operational activities set forth in the table below, although
+we may vary our plans depending upon operational conditions and available funding.  
+
+Existing
+Cash and Operational Cash Flow    
+
+During
+the next twelve months, we anticipate that we will incur a minimum of approximately $560,000 of general and administrative expenses
+and $1,000,000 in development expenses in order to execute our current business plans. We also plan to incur significant sales,
+marketing, research and development expenses during the next 12 months. We must obtain additional financing to continue our operations.
+We may not be able to obtain additional funding on terms that are favorable to us or at all. We may not be able to obtain sufficient
+funding to continue our operations, or if we do receive funding, to generate adequate revenues in the future or to operate profitably
+in the future. These conditions raise substantial doubt about our ability to continue as a going concern.  
+
+Meeting
+Cash Requirements    
+
+Based
+upon the assumption of our monthly current operational burn rate remaining unchanged during the fiscal year, exclusive of those
+costs in our additional planned operations for the next 12, months as set forth above, our company will need to raise additional
+funds to implement its business plans. There is no assurance we will obtain the anticipated funds from our sources of funding.
+If we don t obtain additional funding, and we don t take other measures such as cutting back operational activities,
+we may not have sufficient funds to continue operations for the next 12 months. During the first half of 2018, our company laid-off
+two employees.  
+
+The
+ability to fund our operational activities is contingent upon us obtaining additional financing. If we don t obtain additional
+funding needed for current operational activities, we may not be able to finance our additional planned operations and continue
+growing our business.  
+
+We
+cannot guarantee we will be successful in our business operations, both current and potential future operations as described above.  
+
+We
+cannot guarantee that we will have sufficient financial resources to fund current operational activities and additional planned
+operational activities. Our business is subject to risks inherent in the establishment of a new business enterprise, including
+the financial risks associated with the limited capital resources currently available to us for the implementation of our business
+strategies. To become profitable and competitive, we must continue to execute our business plan as described above.  
+
+We
+have an accumulated deficit and have incurred operating losses since our inception and expect losses to continue during 2018.
+Our auditor has indicated in their Report that these conditions raise substantial doubt about our ability to continue as a going
+concern.  
+
+Off-Balance
+Sheet Arrangements   
+
+We
+have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital
+resources that are material to stockholders.  
+
+Item
+3. Quantitative and Qualitative Disclosures About Market Risk.   
+
+As
+a  smaller reporting company , we are not required to provide the information required by this Item.  
+
+Item
+4. Controls and Procedures.   
+
+Evaluation
+of Disclosure Controls and Procedures    
+
+Our
+management is responsible for establishing and maintaining a system of disclosure controls and procedures (as defined in Rule
+13a-15(e) and 15d-15(e) under the Exchange Act) that is designed to ensure that information required to be disclosed by us in
+the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods
+specified in the Commission s rules and forms. Disclosure controls and procedures include, without limitation, controls
+and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits
+under the Exchange Act is accumulated and communicated to the issuer s management, including its principal executive officer
+or officers and principal financial officer or officers, or persons performing similar functions, as appropriate to allow timely
+decisions regarding required disclosure.  
+
+An
+evaluation was conducted under the supervision and with the participation of our management of the effectiveness of the design
+and operation of our disclosure controls and procedures as of June 30, 2018. Based on that evaluation, our management concluded
+that our disclosure controls and procedures were not effective as of such date to ensure that information required to be disclosed
+in the reports that we file or submit under the Exchange Act, is recorded, processed, summarized and reported within the time
+periods specified in SEC rules and forms as a result of the following material weaknesses:  
+
+The
+specific material weakness identified by our management was ineffective controls over certain aspects of the financial reporting
+process because of a lack of a sufficient complement of personnel with a level of accounting expertise and an adequate supervisory
+review structure that is commensurate with our financial reporting requirements and inadequate segregation of duties. A  material
+weakness  is a deficiency, or combination of deficiencies, in internal control over financial reporting such that there
+is a reasonable possibility that a material misstatement of our company s annual or interim financial statements would not
+be prevented or detected on a timely basis.  
+
+We
+expect to be materially dependent upon a third party to provide us with accounting consulting services for the foreseeable future.
+Currently our founder, Chad Sykes, is acting as Principal Accounting Officer and Principal Financial Officer. Until such time
+as we have a chief financial officer with the requisite expertise in U.S. GAAP, there are no assurances that the material weaknesses
+in our disclosure controls and procedures and internal control over financial reporting will not result in errors in our financial
+statements which could lead to a restatement of those financial statements.  
+
+Changes
+in Internal Controls    
+
+On
+June 27, 2018, the Board of Directors of the Company approved the termination of Annette Knebel from her position as Chief Financial
+Officer of the Company pursuant to the terms of Mr. Knebel s employment agreement with the Company effective immediately
+and further on the same date, the Board of Directors of the Company approved the termination of Mr. Knebel from her position as
+a member of the Company s Board of Directors consistent with the Company s Amended and Restated Bylaws, effective
+immediately.  
+
+Effective
+July 3, 2018, Chad Sykes was appointed to act as the Company s principal financial officer and principal accounting officer.  
+
+On
+June 27, 2018, the Company entered into an accounting services agreement (the  AS Agreement ) with PubCo Reporting
+Solutions, Inc. ( PubCo ). Pursuant to the AS Agreement, the Company engaged PubCo to provide accounting services
+including the preparation of the Company s financial statements and assistance with the preparation of the Company s
+filings with the Securities and Exchange Commission.  
+
+Other
+than the foregoing, there have been no changes in our internal controls over financial reporting identified in connection with
+the evaluation required by paragraph (d) of Securities Exchange Act Rule 13a-15 or Rule 15d-15 that occurred in the quarter ended
+June 30, 2018 that have materially affected, or are reasonably likely to materially affect, our internal control over financial
+reporting.  
+
+PART
+II - OTHER INFORMATION   
+
+Item
+1. Legal Proceedings.   
+
+From
+time to time we may become involved in various legal proceedings that arise in the ordinary course of business, including actions
+related to our intellectual property. Although the outcomes of these legal proceedings cannot be predicted with certainty, other
+than as previously disclosed, we are currently not aware of any such legal proceedings or claims that we believe, either individually
+or in the aggregate, will have a material adverse effect on our business, financial condition or results of operations.  
+
+Item
+1A. Risk Factors.   
+
+As
+a  smaller reporting company , we are not required to provide the information required by this Item.  
+
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds.   
+
+On
+April 13, 2018, the Company issued 769,231 shares of its common stock to Tangiers pursuant to Tangier s conversion of $50,000
+of Note 1 at a conversion price of $0.065 per share. The issuance of the above securities was exempt from the registration requirements
+of the Securities Act in reliance upon Section 4(a)(2) of the Securities Act.  
+
+On
+April 17, 2018, the Company issued 300,000 shares of common stock related to an Employment Agreement with Daniel Weadock, Chief
+Executive Officer. The Company recorded a fair value of $51,000 ($0.17 per share) based upon the most current trading price of
+the Company s stock. The securities were issued pursuant to exemptions from the registration requirements of the Securities
+Act of 1933, as amended, pursuant to Section 4(a)(2) thereof and Rule 506 of Regulation D promulgated thereunder.  
+
+On
+May 20, 2018, the Company issued 99,012 shares of common stock related to an Employment Agreement with Daniel Weadock, Chief Executive
+Officer. The Company recorded a fair value of $16,832 ($0.17 per share) based upon the most current trading price of the Company s
+stock. The securities were issued pursuant to exemptions from the registration requirements of the Securities Act of 1933, as
+amended, pursuant to Section 4(a)(2) thereof and Rule 506 of Regulation D promulgated thereunder.  
+
+On
+May 23, 2018, the Company issued 30,000 shares of common stock related to an Director Agreement with Daniel Weadock, Chief Executive
+Officer. The Company recorded a fair value of $5,100 ($0.17 per share) based upon the most current trading price of the Company s
+stock. The securities were issued pursuant to exemptions from the registration requirements of the Securities Act of 1933, as
+amended, pursuant to Section 4(a)(2) thereof and Rule 506 of Regulation D promulgated thereunder.  
+
+On
+June 21, 2018, the Company issued 295,858 shares of its common stock to Tangiers pursuant to Tangier s conversion of $25,000
+of Note 1 at a conversion price of $0.0845 per share. The issuance of the above securities was exempt from the registration requirements
+of the Securities Act in reliance upon Section 4(a)(2) of the Securities Act.  
+
+On
+June 6, 2018, the Company issued 30,000 shares of its common stock to members of the Company s Advisory Board. The Company
+recorded a fair value of $2,550 ($0.085 per share) based upon the most recent trading price of the Company s stock. The
+securities were issued pursuant to exemptions from the registration requirements of the Securities Act of 1933, as amended, pursuant
+to Section 4(a)(2) thereof and Rule 506 of Regulation D promulgated thereunder.  
+
+On
+June 27, 2018, the Company issued 424,500 shares of common stock related to an advisory agreement with Electrum Partners, LLC.
+The Company recorded a fair value of $50,940 ($0.12 per share) based upon the most current trading price of the Company s
+stock. The securities were issued pursuant to exemptions from the registration requirements of the Securities Act of 1933, as
+amended, pursuant to Section 4(a)(2) thereof and Rule 506 of Regulation D promulgated thereunder.  
+
+On
+July 2, 2018, the Company issued 244,755 shares of its common stock to Tangiers pursuant to Tangier s conversion of $17,500
+of Note 1 at a conversion price of $.07. The issuance of the above securities was exempt from the registration requirements of
+the Securities Act in reliance upon Section 4(a)(2) of the Securities Act.  
+
+On
+July 12, 2018, the Company issued 269,231 shares of its common stock to Tangiers pursuant to Tangier s conversion of $17,500
+of Note 1 at a conversion price of $.07. The issuance of the above securities was exempt from the registration requirements of
+the Securities Act in reliance upon Section 4(a)(2) of the Securities Act.  
+
+On
+August 1, 2018, the Company issued 50,000 shares of its common stock to Electrum Partners pursuant to an advisory agreement. The
+Company recorded fair value of $4,500 ($0.09 per share) based upon the most recent trading price per share of the Company s
+stock. The securities were issued pursuant to exemptions from the registration requirements of the Securities Act of 1933, as
+amended, pursuant to Section 4(a)(2) thereof and Rule 506 of Regulation D promulgated thereunder.  
+
+On
+August 2, 2018, the Company issued 1,307,846 shares of its common stock to Tangiers pursuant to Tangier s conversion of
+$42,590 of Note 1 at a conversion price of $.033. The issuance of the above securities was exempt from the registration requirements
+of the Securities Act in reliance upon Section 4(a)(2) of the Securities Act.  
+
+On
+August 13, 2018, the Company issued 460,617 shares of its common stock to Tangiers pursuant to Tangier s conversion of $15,000
+of Note 1 at a conversion price of $.033. The issuance of the above securities was exempt from the registration requirements of
+the Securities Act in reliance upon Section 4(a)(2) of the Securities Act.  
+
+Item
+3. Defaults Upon Senior Securities.   
+
+None.  
+
+Item
+4. Mine Safety Disclosures.   
+
+Not
+Applicable.  
+
+Item
+5. Other Information.   
+
+(a)
+Not applicable.  
+
+(b)
+During the quarter ended June 30, 2018, there have not been any material changes to the procedures by which security holders may
+recommend nominees to the Board of Directors.  
+
+Item
+6. Exhibits.   
+
+SIGNATURES   
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.  
+
+INDOOR
+    HARVEST CORP    
+
+(Registrant)   
+
+Dated:
+                                         August 20, 2018  
+
+/s/
+    Daniel Weadock    
+
+Daniel
+    Weadock    
+
+Chief
+    Executive Officer and Director   
+
+(Principal
+    Executive Officer)   
+
+Dated:
+                                         August 20, 2018  
+
+/s/
+    Chad Sykes    
+
+Chad
+    Sykes    
+
+Principal
+    financial officer and principal accounting officer   
+
+(Principal
+    Financial Officer and Principal Accounting Officer)   
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+Exhibit
+31.1   
+
+CERTIFICATION
+PURSUANT TO  
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002   
+
+I,
+Daniel Weadock, certify that:  
+
+1.
+I have reviewed this quarterly report on Form 10-Q of Indoor Harvest Corp;  
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report;  
+
+4.
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:  
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on
+such evaluation; and  
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that
+has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial
+reporting;  
+
+5.
+I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):  
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and  
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting.  
+
+Date:
+August 20, 2018 
+
+/s/
+    Daniel Weadock   
+
+Daniel
+    Weadock  Chief Executive Officer and Director  
+
+(Principal
+    Executive Officer)   
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31-2.htm
+
+Exhibit
+31.2   
+
+CERTIFICATION
+PURSUANT TO  
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002   
+
+I,
+Chad Sykes, certify that:  
+
+1.
+I have reviewed this quarterly report on Form 10-Q of Indoor Harvest Corp;  
+
+2.
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;  
+
+3.
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report;  
+
+4.
+I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:  
+
+(a)
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being prepared;  
+
+(b)
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed
+under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of
+financial statements for external purposes in accordance with generally accepted accounting principles;  
+
+(c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on
+such evaluation; and  
+
+(d)
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that
+has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial
+reporting;  
+
+5.
+I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors
+and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):  
+
+(a)
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and  
+
+(b)
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting.  
+
+Date:
+August 20, 2018 
+
+/s/
+    Chad Sykes   
+
+Chad
+    Sykes  
+    Principal financial officer and principal accounting officer  
+
+(Principal
+    Financial Officer and Principal Accounting Officer)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32-1.htm
+
+Exhibit
+32.1   
+
+CERTIFICATION
+PURSUANT TO   
+
+   18
+U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+connection with the quarterly report of INDOOR HARVEST CORP (the  Company ) on Form 10-Q for the period ended June
+30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Daniel Weadock,
+Chief Executive Officer the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that to my knowledge:  
+
+(1)  
+      The
+    Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and   
+
+(2)  
+      The
+    information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+    of the Company.   
+
+Dated:
+August 20, 2018 
+
+/s/
+    Daniel Weadock   
+
+Daniel
+    Weadock  
+    Chief Executive Officer and Director  
+
+(Principal
+    Executive Officer)  
+
+A
+signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise
+adopting the signature that appears in typed form within the electronic version of this written statement required by Section
+906, has been provided to Indoor Harvest Corp and will be retained by Indoor Harvest Corp and furnished to the Securities and
+Exchange Commission or its staff upon request.  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex32-2.htm
+
+Exhibit
+32.2   
+
+CERTIFICATION
+PURSUANT TO   
+
+   18
+U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+connection with the quarterly report of INDOOR HARVEST CORP (the  Company ) on Form 10-Q for the period ended June
+30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Chad Sykes, principal
+financial officer and principal accounting officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge:  
+
+(1)  
+      The
+    Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and   
+
+(2)  
+      The
+    information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+    of the Company.   
+
+Dated:
+August 20, 2018 
+
+/s/
+    Chad Sykes   
+
+Chad
+    Sykes  
+    Principal financial officer and principal accounting officer  
+
+(Principal
+    Financial Officer and Principal Accounting Officer)  
+
+A
+signed original of this written statement required by Section 906, or other document authenticating, acknowledging, or otherwise
+adopting the signature that appears in typed form within the electronic version of this written statement required by Section
+906, has been provided to Indoor Harvest Corp and will be retained by Indoor Harvest Corp and furnished to the Securities and
+Exchange Commission or its staff upon request.  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ inqd-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ inqd-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ inqd-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ inqd-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ inqd-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ inqd-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

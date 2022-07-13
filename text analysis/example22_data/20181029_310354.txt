@@ -1,0 +1,859 @@
+ES AND EXCHANGE COMMISSION   
+   Washington, D.C. 20549   
+
+FORM 10-Q   
+   
+  [X]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+   
+ For the quarterly period ended September 30, 2018 
+   
+  [  ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+   
+ Commission File Number 1-7233 
+   
+   STANDEX INTERNATIONAL CORPORATION   
+  (Exact name of registrant as specified in its charter)  
+   
+   Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES [X]     NO [  ]  
+   
+   Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).                 YES [X]     NO [  ]  
+
+11 KEEWAYDIN DRIVE, SALEM, NEW HAMPSHIRE 
+     
+   03079 
+  
+    (Address of principal executive offices)  
+     
+    (Zip Code)  
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.  See the definitions of  large accelerated filer,   accelerated filer  and  smaller reporting company  in Rule 12b-2 of the Exchange Act. (Check one):  
+   
+  Large accelerated filer [ X ]                            Accelerated filer [  ]                        
+ Non-accelerated filer [  ]   (Do not check if a smaller reporting company)      Smaller Reporting Company [  ] 
+   
+  Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     YES [  ]     NO [X]  
+   
+   The number of shares of Registrant's Common Stock outstanding on October 25, 2018 was 12,828,841.  
+      STANDEX INTERNATIONAL CORPORATION   
+  INDEX  
+    Page No.   
+   PART I.     FINANCIAL INFORMATION:   
+ Item 1. 
+   Unaudited Condensed Consolidated Balance Sheets as of  
+  September 30, 2018 and June 30, 2018  2   
+   Unaudited Condensed   Consolidated   Statements of Operations for the   
+  Three Months Ended September 30, 2018 and 2017   3   
+   Unaudited Condensed   Consolidated   Statements of Comprehensive Income for the   
+  Three Months Ended September 30, 2018 and 2017   4   
+   Unaudited Condensed Consolidated Statements of Cash Flows for the   
+  Three Months Ended September 30, 2018 and 2017  5   
+  Notes to Unaudited Condensed Consolidated Financial Statements  6   
+ Item 2. 
+   Management's Discussion and Analysis of Financial Condition and   
+  Results of Operations   28   
+ Item 3. 
+  Quantitative and Qualitative Disclosures about Market Risk   39   
+ Item 4. 
+  Controls and Procedures   40   
+   PART II.     OTHER INFORMATION:   
+ Item 5. 
+  Unregistered Sales of Equity Securities and Use of Proceeds   41   
+ Item 6. 
+  Exhibits  42   
+  1 
+   
+  2 
+   
+  3 
+   
+  4 
+   
+  5 
+    STANDEX INTERNATIONAL CORPORATION  
+  NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+   
+   1)      Management Statement   
+   
+ In the opinion of management, the accompanying unaudited condensed consolidated financial statements contain all adjustments necessary to present fairly the results of operations for the three months ended   September 30, 2018 and 2017, the cash flows for the three months ended September 30, 2018 and 2017 and the financial position of Standex International Corporation ( Standex , the  Company ,  we ,  us , or  our ), at September 30, 2018.  The interim results are not necessarily indicative of results for a full year.  The following unaudited condensed financial statements have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission. Certain information and note disclosures normally included in annual financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted pursuant to those rules and regulations, although the company believes that the disclosures made are adequate to make the information not misleading.  The unaudited condensed consolidated financial statements and notes do not contain information which would substantially duplicate the disclosures contained in the audited annual consolidated financial statements and notes for the year ended June 30, 2018.  The condensed consolidated balance sheet at June 30, 2018 presented herein was derived from audited financial statements, but does not include all disclosures required by accounting principles generally accepted in the United States of America.  The financial statements contained herein should be read in conjunction with the Annual Report on Form 10-K and in particular the audited consolidated financial statements for the year ended June 30, 2018.  Certain prior period amounts have been reclassified to conform to the current period presentation.  Unless otherwise noted, references to years are to the Company s fiscal years.  
+ The Company considers events or transactions that occur after the balance sheet date but before the financial statements are issued to provide additional evidence relative to certain estimates or to identify matters that require additional disclosure.  We evaluated subsequent events through the date and time our unaudited condensed consolidated financial statements were issued. 
+   
+ In March 2017, the FASB issued ASU 2017-07,  Compensation-Retirement Benefits (Topic 715):  Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost , which changes how employers that sponsor defined benefit pension or other postretirement benefit plans present the net periodic benefit cost in the income statement.  The new guidance requires the service cost component of net periodic benefit cost to be presented in the same income statement line items as other employee compensation costs arising from services rendered during the period.  Other components of the net periodic benefit cost are to be stated separately from service cost and outside of operating income.   This guidance was effective for fiscal years beginning after December 15, 2017 (fiscal 2019 for the Company) and interim periods within those annual periods.  The amendment was applied retrospectively.  As required for this retrospective adoption, the Company reclassified net benefit costs of $0.2 million from cost of sales and $0.4 million from the selling, general, and administrative expenses to other expense non-operating in the Consolidated Statement of Operations for the quarter ended September 30, 2017.  
+   
+ Effective July 1, 2018, the Company adopted the new accounting standard ASU No. 2014-09,  Revenue from Contracts with Customers  (ASC 606) using the modified retrospective method to contracts that were not completed as of June 30, 2018.  We recognized the cumulative effect of initially applying the new revenue standard as an adjustment to the opening balance of retained earnings, whereby the cumulative impact of all prior periods is recorded in retained earnings or other impacted balance sheet line items upon adoption.  The comparative information has not been adjusted and continues to be reported under ASC 605.  The impact on the Company s consolidated income statements, balance sheets, equity or cash flows as of the adoption date for the fiscal quarter ended September 30, 2018 as a result of applying ASC 606 have been reflected within those respective financial statements.  The Company s accounting policy has been updated to align with ASC 606. 
+   
+ Under the Company s historical accounting policies, non-developmental long-term contracts were recognized when the goods were transferred to the customer.  Upon adoption, contracts for highly customized customer  
+  6 
+    products that have no alternative use and in which the contract specifies the Company has a right to payment for its costs, plus a reasonable margin met the requirements for recognition over time under ASC 606.  Additionally, under the Company s historical accounting policies, the Food Service Equipment segment estimated the rebate accrual based on a volume-related method for rebates.  Under ASC 606, the Company will calculate the rebate accrual on anticipated sales for the rebate period, rather than measurement of actual achievement of specific tiers.  
+   
+ Upon adoption, we recognized a reduction to retained earnings of $1.0 million.  The net change for Engineering Technologies will be approximately $0.1 million after cost of sales of $0.6 million and the Food Service Equipment group recorded a $1.5 million adjustment for accrued rebates. 
+   
+ In pursuing our business strategy, we have divested certain businesses and recorded activities of these businesses as discontinued operations.  During the first quarter of 2019, we decided to divest our Cooking Solutions Group which consists of three operating segments in order to focus its financial assets and managerial resources on its remaining portfolio of businesses.  The Company has concluded that all criteria of ASC 205-20-45 have been met as of September 30 to classify the three operating segments as discontinued operations.   
+   
+  Results of the Cooking Solutions Group in current and prior periods have been classified as discontinued in the Condensed Consolidated Financial Statements to exclude the results from continuing operations.  
+   
+   RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS   
+   
+ In November 2015, the FASB issued ASC Update 2015-17,  Income Taxes (Topic 740): Balance Sheet Classification of Deferred Taxes , as part of its simplification initiatives.  This update requires deferred tax liabilities and assets to be classified as non-current on the consolidated condensed balance sheet for fiscal years beginning after December 15, 2016, and interim periods within those annual periods.  Early application is permitted.  An entity can elect adoption prospectively or retrospectively to all periods presented.  We have adopted ASU 2015-17 prospectively.  As a result, we have presented all deferred tax assets and liabilities as noncurrent on our consolidated balance sheet as of September 30, 2018.  There was no impact on our results of operations as a result of the adoption of ASU 2015-17. 
+   
+ In February 2016, the FASB issued ASU 2016-02,  Leases (Topic 842) .  ASU 2016-02 increases transparency and comparability among organizations by recognizing lease assets and liabilities on the balance sheet and disclosing key information about leasing arrangements.  A modified retrospective transition approach is required for lessees for capital and operating leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements, with certain practical expedients available.  For leases with a term or twelve months or less, a lessee is permitted to make an accounting policy election by class of underlying asset not to recognize lease assets and liabilities.  ASU 2016-02 is effective for fiscal years beginning after December 15, 2018.  Due to the materiality of the underlying leases subject to the new guidance, we anticipate the adoption will have a material impact on the Company s consolidated financial statements, however are unable to quantify that effect until our analysis is complete.   
+   
+ In January 2017, the FASB issued ASU 2017-04,  Simplifying the Test for Goodwill Impairment , which simplifies the accounting for goodwill impairments by eliminating step two from the goodwill impairment test.   Instead, if the carrying amount of a reporting unit exceeds its fair value, an impairment loss shall be recognized in an amount equal to that excess, limited to the total amount of goodwill allocated to that reporting unit.  ASU 2017-04 also clarifies the requirements for excluding and allocating foreign currency translation adjustments to reporting units related to an entity's testing of reporting units for goodwill impairment.  It further clarifies that an entity should consider income tax effects from any tax-deductible goodwill on the carrying amount of the reporting unit when measuring the goodwill impairment loss, if applicable.  ASU 2017-04 is effective for annual or any interim goodwill impairment tests in fiscal years beginning after December 15, 2019.  The Company is currently assessing the potential impact of the adoption of ASU 2017-04 on our consolidated financial statements. 
+   
+ In August 2017, the FASB issued ASU 2017-12,  Derivatives and Hedging (Topic 815); Targeting Improvements to Accounting for Hedging Activities , which improves the financial reporting of hedging relationships to better  
+  7 
+    portray the economic results of an entity s risk management activities in its financial statements and to make certain targeted improvements to simplify the application of hedge accounting guidance.  The new guidance requires additional disclosures including cumulative basis adjustments for fair value hedges and the effect of hedging on individual income statement line items.  This guidance is effective for fiscal years beginning after December 15, 2018 (fiscal 2020 for the Company), and interim periods within those fiscal years.  The amendment is to be applied prospectively.  The Company is in the preliminary stages of assessing the potential impact of the adoption of ASU 2017-12 on our consolidated financial statements.    
+   
+ As of July 1, 2018, the Company adopted ASU No. 2017-07,  Compensation-Retirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost .  This new guidance required the service cost component of net periodic benefit cost to be presented in the same income statement line items as other employee compensation costs arising from services rendered during the period.  Other components of the net periodic benefit cost are to be stated separately from service cost and outside of operating income.  The retrospective adoption this ASU resulted in the reclassification of net benefit costs of $0.2 million from cost of sales and $0.4 million from the selling, general, and administrative expenses to other expense non-operating in the Consolidated Statement of Operations for the quarter ended September 30, 2017.  
+
+2)     Acquisitions   
+   
+ The Company s recent acquisitions are strategically significant to the future growth prospects of the Company.  At the time of the acquisition and September 30, 2018, the Company evaluated the significance of each acquisition on a standalone basis and in aggregate, considering both qualitative and quantitative factors.     
+   
+   Agile Magnetics   
+   
+ On the last business day of the first quarter of fiscal year 2019, the Company acquired Agile Magnetics ( Agile ).  The New Hampshire based privately held company is a provider of high-reliability magnetics to customers in the semiconductor, military, aerospace, healthcare, and general industrial industries.  The Company has included the balance sheet of Agile in its Electronics segment in the Condensed Consolidated Financial Statements. 
+   
+ The Company paid $39.2 million in cash for all of the issued and outstanding equity interests of Agile.  The preliminary purchase price was allocated to the net tangible and identifiable intangible assets acquired and liabilities assumed based on a preliminary estimate of their fair values on the closing date.  The Company will commence a formal valuation of the acquired assets and liabilities during the second quarter.  The preliminary estimates recorded at September 30 could change substantially based on the results of the formal valuation.  Goodwill recorded from this transaction is attributable to expanded capabilities of the combined organization which will allow for improved responsiveness to customer demands via a larger pool of engineering resources and local manufacturing.   
+   
+ Intangible assets of $13.7 million were preliminarily recorded, consisting of $7.8 million of customer relationships and $5.9 million for trademarks.  The goodwill of $20.1 million preliminarily recorded in connection with the transaction is deductible for income tax purposes.  
+   
+ The components of the fair value of the Agile acquisition, including the preliminary allocation of the purchase price at September 30, 2018, are as follows (in thousands): 
+ 
+  8 
+
+Tenibac-Graphion Inc.   
+   
+ During August of fiscal year 2019, the Company acquired Tenibac-Graphion Inc. ( Tenibac ).  The Michigan based, privately held company is a provider of chemical and laser texturing services for the automotive, medical, packaging, and consumer products markets.  We have included the results of Tenibac in our Engraving segment.    
+   
+ The Company paid $57.3 million in cash for all of the issued and outstanding equity interests of Tenibac.  The preliminary purchase price was allocated to the net tangible and identifiable intangible assets acquired and liabilities assumed based on their fair values on the closing date.  Goodwill recorded from this transaction is attributable to the complimentary services that the combined business can now offer to our customers, through increased responsiveness to customer demands, and providing innovative approaches to solving customer needs by the offering a full line of mold and tool services to customers.   
+   
+ Intangible assets of $16.0 million were preliminarily recorded, consisting of $10.4 million of customer relationships to be amortized over a period of nine years, $4.2 million for trademarks, and $1.4 million of other intangibles assets.  The Company s assigned fair values are preliminary as of September 30.  The goodwill of $32.9 million created by the transaction is deductible for income tax purposes.  
+   
+ The components of the fair value of the Tenibac acquisition, including the preliminary allocation of the purchase price at September 30, 2018, are as follows (in thousands): 
+
+9 
+     Piazza Rosa Group   
+   
+ During the first quarter of fiscal year 2018, the Company acquired the Piazza Rosa Group.  The Italy-based privately held company is a leading provider of mold and tool treatment and finishing services for the automotive and consumer products markets.  We have included the results of the Piazza Rosa Group in our Engraving segment. 
+   
+ The Company paid $10.1 million in cash for all of the issued and outstanding equity interests of the Piazza Rosa Group and also paid $2.8 million subsequent to closing in order to satisfy assumed debt of the entity at the time of acquisition.  The Company has estimated that total cash consideration will be adjusted by $2.6 million based upon achievement of certain revenue metrics over the next three years.  The Company made the first payment of $0.9 million during the first quarter of 2019 based on achievement of the revenue metrics during the first year following acquisition. 
+   
+ The preliminary purchase price was allocated to the net tangible and identifiable intangible assets acquired and liabilities assumed based on their fair values on the closing date.  Goodwill recorded from this transaction is attributable to potential revenue increases from the combined competencies with Standex Engraving s worldwide presence and Piazza Rosa Group s texturizing capabilities.  The combined companies create a global tool finishing service leader and open additional opportunities in the broader surface engineering market. 
+   
+ Intangible assets of $4.1 million were preliminarily recorded, consisting of $2.3 million of customer relationships to be amortized over a period of eight years, $1.6 million for trademarks, and $0.2 million of other intangibles assets.  The Company finalized its purchase accounting for this acquisition in the first quarter of fiscal year 2019, and adjusted goodwill by $0.9 million primarily as a result of final valuation of other identifiable assets.  The goodwill of $7.1 million created by the transaction is not deductible for income tax purposes.  
+   
+  The components of the fair value of the Piazza Rosa Group acquisition, including the final allocation of the purchase price at September 30, 2018, are as follows (in thousands): 
+
+10 
+    Acquisition-Related Costs  
+   
+ Acquisition-related costs include costs related to acquired businesses and other pending acquisitions.  These costs consist of (i) deferred compensation and (ii) acquisition-related professional service fees and expenses, including financial advisory, legal, accounting, and other outside services incurred in connection with acquisition activities, and regulatory matters related to acquired entities.  These costs do not include purchase accounting expenses, which we define as acquired backlog and the step-up of inventory to fair value, or the amortization of the acquired intangible assets. 
+   
+ Deferred compensation costs relate to payments due to the Horizon Scientific seller of $3.0 million on the second anniversary and $5.6 million on the third anniversary of the closing date of the purchase.  For the three months ended September 30, 2018, we recorded deferred compensation costs of $0.7 million for estimated deferred compensation earned by the Horizon Scientific seller to date.  The payments are contingent on the seller remaining an employee of the Company with limited exceptions at each anniversary date. 
+   
+ Acquisition related costs consist of miscellaneous professional service fees and expenses for our recent acquisitions. 
+   
+ The components of acquisition-related costs are as follows (in thousands): 
+
+3)      Revenue From Contracts With Customers     
+   Effective July 1, 2018, the Company adopted the new accounting standard ASU No. 2014-09,  Revenue from Contracts with Customers  (ASC 606) using the modified retrospective method to contracts that were not completed as of June 30, 2018.  We recognized the cumulative effect of initially applying the new revenue standard as an adjustment to the opening balance of retained earnings, whereby the cumulative impact of all prior periods is recorded in retained earnings or other impacted balance sheet line items upon adoption.  The comparative information has not been adjusted and continues to be reported under ASC 605 . The impact on the Company s consolidated income statements, balance sheets, equity or cash flows as of the adoption date for the fiscal quarter ended September 30, 2018 as a result of applying ASC 606 have been reflected within those respective financial statements.  The Company s accounting policy has been updated to align with ASC 606. 
+   
+ Under the Company s historical accounting policies, non-developmental long-term contracts were recognized when the goods were transferred to the customer.  Upon adoption, contracts for highly customized customer products that have no alternative use and in which the contract specifies the Company has a right to payment for its costs, plus a reasonable margin met the requirements for recognition over time under ASC 606.  Additionally, under the Company s historical accounting policies, the Food Service Equipment segment estimated the rebate accrual based on a volume-related method for rebates.  Under ASC 606, the Company will calculate the rebate accrual on anticipated sales for the rebate period, rather than measurement of actual achievement of specific tiers. 
+   
+ Upon adoption, we recognized a reduction to retained earnings of $1.0 million.  The net change for Engineering Technologies will be approximately $0.1 million increase in operating income after $0.7 million in revenues and cost of sales of $0.6 million and the Food Service Equipment group recorded a $1.5 million adjustment for accrued rebates.   The details of the adjustments to retained earnings upon adoption on June 30, 2018 as well as the effects  
+  11 
+    on the consolidated balance sheet as of June 30, 2018, as if ASC 606 had been adopted in our 2018 fiscal year are as follows:  
+
+Note that above amounts as of June 30 are before any restatement of balances to discontinued operations.   
+   
+ The following tables reconcile the balances as presented as of and for the three months ended September 30, 2018 exclusive of the cumulative effect adjustment presented above to the balances prior to the adjustments made to implement the new revenue recognition standard for the same period (in thousands): 
+
+12 
+
+13 
+    Revenue Recognition Accounting Policy  
+   
+ The adoption of ASC 606 represents a change in accounting principle that provides enhanced revenue recognition disclosures.  Revenue is recognized when the control of the promised goods or services are transferred to our customers, in an amount that reflects the consideration that we expect to receive in exchange for those goods or services.  The Company recognizes all revenues on a gross basis based on consideration of the criteria set forth in ASC Topic 606-10-55,  Principal versus Agent Considerations .  To achieve this core principle, the Company applies the following five steps: 
+   
+  1.  Identify the contract with a customer   
+  2.  Identify the performance obligations in the contract   
+  3.  Determine the transaction price   
+  4.  Allocate the transaction price to performance obligations in the contract   
+  5.  Recognize revenue when or as the Company satisfies a performance obligation   
+   
+ Most of the Company s contracts have a single performance obligation which represents, the product or service being sold to the customer.  Some contracts include multiple performance obligations such as a product and the related installation and/or extended warranty.  Additionally, most of the Company s contracts offer assurance type warranties in connection with the sale of a product to customers.  Assurance type warranties provide a customer with assurance that the product complies with agreed-upon specifications.  Assurance type warranties do not represent a separate performance obligation.  
+   
+ In general, the Company recognizes revenue at the point in time control transfers to their customer based on predetermined shipping terms.  Revenue recognized under long-term contracts within the Engineering Technologies group for highly customized customer products that have no alternative use and in which the contract specifies the Company has a right to payment for its costs, plus a reasonable margin are recognized over time. For products manufactured over time, the transfer of control is measured pro rata, based upon current estimates of costs to complete such contracts.   Losses on contracts are fully recognized in the period in which the losses become determinable.   Revisions in profit estimates are reflected on a cumulative basis in the period in which the basis for such revision becomes known.  
+   
+ The Company has elected to use the following practical expedients: 
+   
+    The Company will use the portfolio approach for contracts with similar characteristics provided the accounting result will not be materially different from the result of applying the guidance at the individual contract level.  The Company will use its judgment in the application of this approach to contracts and groups of similar contracts.  
+   
+    The Company will expense all relevant incremental costs, such as selling and marketing costs, bid and proposal costs, sales commissions and legal fees to obtain a contract that has a duration of one year or less.  
+   
+    The Company s standard payment terms are less than one year. As such, no significant financing component exists within our contracts with our customers.  
+   
+ The Company has made the following accounting policy elections under ASC 606: 
+   
+    The Company accounts for shipping and handling activities performed after a customer has obtained control as a fulfillment activity rather than as a promise/performance obligation.  
+   
+    Sales, use and value added taxes assessed by governmental authorities are excluded from the measurement of the transaction price within the company s contracts with its customers  
+  14 
+    Disaggregation of Revenue from Contracts with Customers  
+   
+ The following table presents revenue disaggregated by product line and segment (in thousands): 
+
+The following table presents revenue disaggregated by revenue types (in thousands): 
+
+The following table presents revenue from continuing operations disaggregated by geography based on company s locations (in thousands): 
+
+(1)    EMEA consists primarily of Europe, Middle East and S. Africa. 
+  15 
+   The following table presents revenue from continuing operations disaggregated by timing of recognition (in thousands): 
+
+Contract Balances  
+   
+ Contract assets represent sales recognized in excess of billings related to work completed but not yet shipped for which revenue is recognized over time.  Contract assets are recorded as accounts receivable. 
+   
+ Contract liabilities are customer deposits for which revenue has not been recognized.  Current contract liabilities are recorded as accrued expenses.  
+   
+ The following table provides information about contract assets and liability balances as of September 30, 2018 (in thousands): 
+
+During the quarter ended September 30, 2018, we recognized the following revenue as a result of changes in the contract liability balances (in thousands):  
+
+Revenue recognized in the period from:   
+    September 30, 2018  
+  
+   Amounts included in the contract liability balance at the beginning of the period  
+   $              503 
+
+The timing of revenue recognition, invoicing and cash collections results in billed receivables, contract assets and contract liabilities on the consolidated balance sheets.  
+   
+ When consideration is received from a customer prior to transferring goods or services to the customer under the terms of a contract, a contract liability is recorded.  Contract liabilities are recognized as revenue after control of the goods and services are transferred to the customer and all revenue recognition criteria have been met. 
+  16 
+     4)     Discontinued Operations   
+   
+ In pursuing our business strategy, the Company has divested certain businesses and recorded activities of these businesses as discontinued operations .  During the first quarter of 2019, the Company decided to divest its Cooking Solutions Group, which consists of three operating segments, in order to focus its financial assets and managerial resources on its remaining portfolio of businesses.  The Company believes that the sale will be completed before the end of the fiscal year and has concluded that all criteria of ASC 205-20-45 have been met as of September 30 to classify the three operating segments as discontinued operations.   
+   
+ Results of the Cooking Solutions Group in current and prior periods have been classified as discontinued in the Condensed Consolidated Financial Statements to exclude the results from continuing operations.  Activity related to the Cooking Solutions Group and other discontinued operations for the three months ended September 30, 2018 and 2017 is as follows (in thousands): 
+
+Assets and liabilities related to our discontinued operations appear in the condensed consolidated balance sheets are as follows (in thousands): 
+
+The Company has concluded that the fair value of the Cooking Solutions Group net assets exceeds the net book value of the assets.   
+   
+   5)      Fair Value Measurements   
+   
+ The financial instruments shown below are presented at fair value.  Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.  Where available, fair value is based on observable market prices or parameters or derived  
+  17 
+    from such prices or parameters.  Where observable prices or inputs are not available, valuation models may be applied.   
+   
+ Assets and liabilities recorded at fair value in the consolidated balance sheet are categorized based upon the level of judgment associated with the inputs used to measure their fair values.  Hierarchical levels directly related to the amount of subjectivity associated with the inputs to fair valuation of these assets and liabilities and the methodologies used in valuation are as follows: 
+   
+ Level 1   Quoted prices in active markets for identical assets and liabilities.  The Company s deferred compensation plan assets consist of shares in various mutual funds (for the deferred compensation plan, investments are participant-directed) which invest in a broad portfolio of debt and equity securities.  These assets are valued based on publicly quoted market prices for the funds  shares as of the balance sheet dates. 
+   
+ Level 2   Inputs, other than quoted prices in an active market, that are observable either directly or indirectly through correlation with market data.  For foreign exchange forward contracts and interest rate swaps, the Company values the instruments based on the market price of instruments with similar terms, which are based on spot and forward rates as of the balance sheet dates.  The Company has considered the creditworthiness of counterparties in valuing all assets and liabilities.  
+   
+ Level 3   Unobservable inputs based upon the Company s best estimate of what market participants would use in pricing the asset or liability. 
+   
+   There were no transfers of assets or liabilities between any levels of the fair value measurement hierarchy at September 30, 2018 and June 30, 2018.  The Company s policy is to recognize transfers between levels as of the date they occur. 
+   
+ Cash and cash equivalents, accounts receivable, and accounts payable are carried at cost, which approximates fair value. 
+   
+ Items presented at fair value at September 30, 2018 and June 30, 2018 consisted of the following (in thousands): 
+
+18 
+
+(a)   The fair value of our contingent consideration arrangement is determined based on our evaluation as to the probability and amount of any deferred compensation that has been earned to date. 
+   
+ Our financial liabilities based upon Level 3 inputs consist of contingent consideration arrangements relating to our acquisitions of Horizon Scientific and Piazza Rosa.  We are contractually obligated to pay contingent consideration payments in connection with the Horizon Scientific acquisition based on the criteria of continued employment of the seller on the second and third anniversary of the closing date of the acquisition.  We are contractually obligated to pay contingent consideration payments in connection with the Piazza Rosa acquisition based on the achievement of certain revenue targets during each of the first three years following acquisition.  Piazza Rosa exceeded the defined revenue targets during the first year and a payment was made to the Piazza sellers during the first quarter of 2019.  We will update our assumptions each reporting period based on new developments and record such amounts at fair value based on the revised assumptions until the consideration is paid. As of September 30, 2018, neither the range of outcomes nor the assumptions used to develop the estimate had changed. 
+   
+   6)     Inventories   
+   
+ Inventories from continuing operations are comprised of the following (in thousands): 
+
+Distribution costs associated with the sale of inventory, which are recorded as a component of selling, general and administrative expenses in the accompanying unaudited condensed consolidated statements of operations were  $4.1 million and $4.5 million for the three months ended September 30, 2018 and 2017, respectively. 
+   
+   7)     Goodwill   
+   
+ Changes to goodwill during the period ended September 30, 2018 were as follows (in thousands): 
+
+19 
+     8)     Intangible Assets   
+   
+ Intangible assets of continuing operations consist of the following (in thousands): 
+
+Amortization expense from continuing operations for the three months ended September 30, 2018 and 2017 was $1.9 million and $1.9 million, respectively.  At September 30, 2018, amortization expense of current intangible assets are estimated to be $7.6 million for the remainder of fiscal year 2019, $9.6 million in 2020, $9.3 million in 2021, $8.9 million in 2022, $8.3 million in 2023, and $45.7 million thereafter. 
+   
+   9)     Warranties   
+   
+ The expected cost associated with warranty obligations on our products is recorded as a component of cost of sales when the revenue is recognized.  The Company s estimate of warranty cost is based on contract terms and historical warranty loss experience that is periodically adjusted for recent actual experience.  Since warranty estimates are forecasts based on the best available information, claims costs may differ from amounts provided.  Adjustments to initial obligations for warranties are made as changes in the obligations become reasonably estimable. 
+   
+ The changes in warranty reserve from continuing operations, which are recorded as a component of accrued liabilities, for the three months ended September 30, 2018 and year ended June 30, 2018 were as follows (in thousands): 
+
+20 
+     10)     Debt   
+   
+ Long-term debt is comprised of the following (in thousands): 
+
+The Company s debt payments are due as follows (in thousands): 
+
+Bank Credit Agreements   
+   
+ During fiscal year 2015, the Company entered into an Amended and Restated Credit Agreement ( Credit Facility , or  facility ).  This five-year Credit Facility expires in December 2019 and has a borrowing limit of $400 million, which can be increased by an amount of up to $100 million, in accordance with specified conditions contained in the agreement.  The facility also includes a $10 million sublimit for swing line loans and a $30 million sublimit for letters of credit.   
+   
+ At September 30, 2018, the Company had standby letters of credit outstanding, primarily for insurance purposes, of $7.4 million and had the ability to borrow $93.1 million under the facility.  At September 30, 2018, the carrying value of the current borrowings under the facility approximates fair value. 
+   
+   11)      Derivative Financial Instruments   
+   
+  Interest Rate Swaps  
+   
+ From time to time as dictated by market opportunities, the Company enters into interest rate swap agreements designed to   manage exposure to interest rates on the Company s variable rate indebtedness.  The Company recognizes all derivatives on its balance sheet at fair value.  The Company has designated its interest rate swap agreements, including those that are forward-dated, as cash flow hedges and changes in the fair value of the swaps are recognized in other comprehensive income until the hedged items are recognized in earnings.  Hedge ineffectiveness associated with the swaps, if any, will be reported by the Company in interest expense.   
+   
+   The Company s effective swap agreements convert the base borrowing rate on $100 million of debt due under our revolving credit agreement from a variable rate equal to LIBOR to a weighted average fixed rate of 2.01% at September 30, 2018.  The fair value of the swaps recognized in accrued expenses and in other comprehensive income is as follows (in thousands, except percentages): 
+  21 
+
+The Company reported no losses for the three months ended September 30, 2018, as a result of hedge ineffectiveness.  Future changes in these swap arrangements, including termination of the agreements, may result in a reclassification of any gain or loss reported in accumulated other comprehensive income (loss) into earnings as an adjustment to interest expense.  Accumulated other comprehensive income (loss) related to these instruments is being amortized into interest expense concurrent with the hedged exposure. 
+   
+  Foreign Exchange Contracts  
+   
+ Forward foreign currency exchange contracts are used to limit the impact of currency fluctuations on certain anticipated foreign cash flows, such as collections from customers and loan payments between subsidiaries.  The Company enters into such contracts for hedging purposes only.  The Company has designated certain of these currency contracts as hedges, and changes in the fair value of these contracts are recognized in other comprehensive income until the hedged items are recognized in earnings.  Hedge ineffectiveness, if any, associated with these contracts will be reported in net income.  At September 30, 2018 and June 30, 2018, the Company had outstanding forward contracts related to hedges of intercompany loans with net unrealized gain (losses) of $(4.1) million and $(2.9) million, respectively, which approximate the unrealized gains and losses on the related loans.  The contracts have maturity dates ranging from 2019 to 2023, which correspond to the related intercompany loans.  The notional amounts of the Company s forward contracts, by currency, are as follows: 
+
+The table below presents the fair value of derivative financial instruments as well as their classification on the balance sheet (in thousands): 
+
+22 
+
+The table below presents the amount of gain (loss) recognized in comprehensive income on our derivative financial instruments (effective portion) designated as hedging instruments and their classification within comprehensive income for the periods ended (in thousands): 
+
+The table below presents the amount reclassified from accumulated other comprehensive income (loss) to Net Income for the periods ended (in thousands): 
+   
+     Details about Accumulated   
+
+Other Comprehensive  
+
+Three Months Ended  
+     
+    Affected line item  
+  
+    Income (Loss) Components  
+
+September 30,  
+     
+    in the Statements  
+
+2018  
+     
+    2017  
+     
+    of Operations  
+  
+   Interest rate swaps 
+
+$ 
+   (61)  
+     
+   $ 
+   151  
+     
+   Interest expense 
+  
+   Foreign exchange contracts 
+
+- 
+
+- 
+     
+   Cost of sales 
+  
+   Foreign exchange contracts 
+
+(598) 
+
+- 
+     
+   Interest expense 
+
+$ 
+   (659) 
+     
+   $ 
+   151 
+
+12)     Retirement Benefits   
+   
+ The Company has defined benefit pension plans covering certain current and former employees both inside and outside of the U.S.  The Company s pension plan for U.S. employees is frozen for substantially all participants and has been replaced with a defined contribution benefit plan. 
+   
+  As of July 1, 2018, the Company adopted ASU No. 2017-07,  Compensation-Retirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost .  This new guidance required the service cost component of net periodic benefit cost to be presented in the same income statement line items as other employee compensation costs arising from services rendered during the period.  Other components of the net periodic benefit cost are to be stated separately from service cost and outside of operating income.  The retrospective adoption this ASU resulted in the reclassification of net benefit costs of $0.2 million from cost of sales and $0.4 million from the selling, general, and administrative expenses to other expense non-operating in the Consolidated Statement of Operations for the quarter ended September 30, 2017.  There were no net benefit costs recorded in the Company s Cooking Solutions Group in either fiscal years 2019 or 2018. 
+  23 
+   Net Periodic Benefit Cost for the Company s U.S. and Foreign pension benefit plans for the three months ended September 30, 2018 and 2017 consisted of the following components (in thousands): 
+
+The Company expects to pay $1.4 million in contributions to its defined benefit plans during fiscal 2019.  Contributions of $0.3 million were made during the three months ended September 30, 2018 and 2017.  Required contributions of $0.8 million will be paid to the Company s U.K. defined benefit plan during 2019.  The Company also expects to make contributions during the current fiscal year of $0.2 million and $0.3 million to its unfunded defined benefit plans in the U.S. and Germany, respectively. 
+   
+    13)     Income Taxes   
+   
+ The Company's effective tax rate from continuing operations for the first quarter of 2019 was 28.9% compared to 25.1% for the prior year quarter.  The tax rate was impacted in the current period by the following items: (i) a benefit from the federal rate decrease to 21 percent under the Tax Cuts and Jobs Act, (ii) estimated withholding taxes on expected distributions of current year earnings in foreign jurisdictions, and (iii) executive compensation deduction limitations as well as income from foreign jurisdictions being taxed in the US under Sec. 951A.  Discontinued operations had an adverse impact on the effective tax rate of 0.9% for the quarter ending September 30, 2018.  This adverse impact is a result of income taxed in a lower jurisdiction (United States) being moved to discontinued operations which put upward pressure on the tax rate from continuing operations. 
+   
+   14)     Earnings Per Share   
+   
+ The following table sets forth a reconciliation of the number of shares used in the computation of basic and diluted earnings per share (in thousands): 
+
+Earnings available to common stockholders are the same for computing both basic and diluted earnings per share.  No options to purchase common stock were excluded as anti-dilutive from the calculation of diluted earnings per share for the three months ended September 30, 2018 and 2017, respectively. 
+   
+ Performance stock units of 80,073 and 54,893 for the three months ended September 30, 2018 and 2017, respectively, are excluded from the diluted earnings per share calculation as the performance criteria have not been met. 
+  24 
+     15)     Comprehensive Income (Loss)    
+   
+ The components of the Company s accumulated other comprehensive income (loss) are as follows (in thousands): 
+
+16)     Contingencies   
+   
+ From time to time, the Company is subject to various claims and legal proceedings, including claims related to environmental remediation, either asserted or unasserted, that arise in the ordinary course of business.  While the outcome of these proceedings and claims cannot be predicted with certainty, the Company s management does not believe that the outcome of any of the currently existing legal matters will have a material impact on the Company s consolidated financial position, results of operations or cash flow.  The Company accrues for losses related to a claim or litigation when the Company s management considers a potential loss probable and can reasonably estimate such potential loss.   
+   
+   17)     Industry Segment Information   
+   
+ The Company has determined that it has five reportable segments organized around the types of product sold: 
+   
+    Food Service Equipment   a manufacturer of commercial food service equipment;  
+   
+    Engraving   provides mold texturizing, slush molding tools, project management and design services, roll engraving, hygiene product tooling, low observation vents for stealth aircraft, and process machinery for a number of industries;  
+   
+    Engineering Technologies   provides net and near net formed single-source customized solutions in the manufacture of engineered components for the aviation, aerospace, defense, energy, industrial, medical, marine, oil and gas, and manned and unmanned space markets.  
+   
+    Electronics   manufacturing and selling of electronic components for applications throughout the end-user market spectrum; and  
+   
+    Hydraulics   manufacturing and selling of single and double-acting telescopic and piston rod hydraulic cylinders  
+  25 
+   Net sales and income (loss) from continuing operations by segment for the three months ended September 30, 2018 and 2017 were as follows (in thousands): 
+
+Net sales include only transactions with unaffiliated customers and include no intersegment sales.  Income (loss) from operations by segment excludes interest expense and other non-operating income (expense). 
+   
+ The Company s identifiable assets at September 30, 2018 and June 30, 2018 are as follows (in thousands): 
+
+18)      Restructuring   
+   
+   The Company has undertaken cost reduction and facility consolidation initiatives that have resulted in severance, restructuring, and related charges.   
+
+2019 Restructuring Initiatives  
+   
+ The Company continues to focus our efforts to reduce cost and improve productivity across our businesses, particularly through headcount reductions, facility closures, and consolidations.  During the first quarter of fiscal year 2019, we incurred restructuring expenses related to third party assistance with analysis and implementation of these activities.   
+  26 
+    Prior Year Restructuring Initiatives  
+   
+ During the first quarter of fiscal year 2018, we incurred restructuring expenses related to three restructuring programs, namely: (1) the realignment of management functions at the Food Service Equipment Group level; (2) headcount reduction and plant realignment with regard to the standard products businesses within Food Service Equipment; and (3) the exit of an unprofitable Engraving business in Brazil. 
+   
+ A summary of charges by initiative is as follows (in thousands): 
+   
+  Fiscal 2019   
+
+Fiscal 2018  
+
+Activity in the reserve related to the restructuring initiatives is as follows (in thousands): 
+
+Prior Year Initiatives  
+ 
+  27 
+   The Company s total restructuring expenses by segment are as follows (in thousands): 
+
+Restructuring expense is expected to be approximately $1.5 million for the remainder of fiscal year 2019. 
+
+ITEM 2.   MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS   
+   
+  Statements contained in this Quarterly Report that are not based on historical facts are  forward-looking statements  within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of forward-looking terminology such as  should,   could,   may,   will,   expect,   believe,   estimate,   anticipate,   intend,   continue,  or similar terms or variations of those terms or the negative of those terms.  There are many factors that affect the Company s business and the results of its operations and that may cause the actual results of operations in future periods to differ materially from those currently expected or anticipated.  These factors include, but are not limited to: materially adverse or unanticipated legal judgments, fines, penalties or settlements; conditions in the financial and banking markets, including fluctuations in exchange rates and the inability to repatriate foreign cash; domestic and international economic conditions, including the impact, length and degree of economic downturns on the customers and markets we serve and more specifically conditions in the food service equipment, automotive, construction, aerospace, energy, oil and gas, transportation, consumer appliance and general industrial markets; lower-cost competition; the relative mix of products which impact margins and operating efficiencies in certain of our businesses; the impact of higher raw material and component costs, particularly steel, petroleum based products and refrigeration components; an inability to realize the expected cost savings from restructuring activities including effective completion of plant consolidations, cost reduction efforts including procurement savings and productivity enhancements, capital management improvements, strategic capital expenditures, and the implementation of lean enterprise manufacturing techniques; the inability to achieve the savings expected from global sourcing of raw materials and diversification efforts in emerging markets; the impact on cost structure and on economic conditions as a result of actual and threatened increases in trade tariffs; the inability to attain expected benefits from acquisitions and the inability to effectively consummate and integrate such acquisitions and achieve synergies envisioned by the Company; market acceptance of our products; our ability to design, introduce and sell new products and related product components; the ability to redesign certain of our products to continue meeting evolving regulatory requirements; the impact of delays initiated by our customers; and our ability to increase manufacturing production to meet demand; and potential changes to future pension funding requirements.  In addition, any forward-looking statements represent management's estimates only as of the day made and should not be relied upon as representing management's   
+  28 
+     estimates as of any subsequent date.  While the Company may elect to update forward-looking statements at some point in the future, the Company and management specifically disclaim any obligation to do so, even if management's estimates change.   
+
+Overview  
+   
+ We are a leading manufacturer of a variety of products and services for diverse commercial and industrial markets.  We have five reportable segments:  Food Service Equipment, Engraving, Engineering Technologies, Electronics and Hydraulics.  Overall management, strategic development and financial control are led by the executive staff at our corporate headquarters located in Salem, New Hampshire.  During the first quarter of 2019, the Company decided to divest its Cooking Solutions Group, which consists of three operating segments, in order to focus its financial assets and managerial resources on its remaining portfolio of businesses.  As a result, our ongoing operations now have nine operating business units.  The management discussion and analysis set forth below pertains to our on-going operations and excludes results from the Cooking Solutions Group.  
+   
+ Our long-term strategy is to build larger industrial platforms through a value creation system that assists management in meeting specific corporate and business unit financial and strategic performance goals in order to create, improve, and enhance shareholder value.  The Standex Value Creation System is a standard methodology which provides consistent tools used throughout the company in order to achieve our organization s goal of transforming from its historic roots as a holding company to an efficient operating company.  The Standex Value Creation System employs four components: Balanced Performance Plan, Standex Growth Disciplines, Standex Operational Excellence, and Standex Talent Management.  The Balanced Performance Plan process aligns annual goals throughout the business and provides a standard reporting, management and review process.  It is focused on setting and meeting annual and quarterly targets that support our short and long-term goals.  The Standex Growth Disciplines use a set of tools and processes including market maps, growth laneways, and market tests to identify opportunities to expand the business organically and through acquisitions.  Standex Operational Excellence employs a standard playbook and processes, including LEAN, to eliminate waste and improve profitability, cash flow and customer satisfaction.  Finally, the Standex Talent Management process is an organizational development process that provides training, development, and succession planning for our employees throughout our worldwide organization.  The Standex Value Creation System ties all disciplines in the organization together under a common umbrella by providing standard tools and processes to deliver our business objectives.     Through the use of our Standex Value Creation System, we have developed a balanced approach to value creation.  While we intend to continue investing acquisition capital in high margin and growth segments such as Electronics and Engraving, we will continue to support all of our businesses as they enhance value through deployment of our GDP+ and OpEx playbooks.   
+   
+      It is our objective to grow larger and more profitable business units through both organic initiatives and acquisitions.  We seek to identify and implement organic growth initiatives such as new product development, geographic expansion, introduction of products and technologies into new markets and applications, key accounts and strategic sales channel partners.  In addition, we have a long-term objective to create sizable business platforms by adding strategically aligned or  bolt on  acquisitions to strengthen the individual businesses, create both sales and cost synergies with our core business platforms, and accelerate their growth and margin improvement.  We look to create both sales and cost synergies within our core business platforms, accelerate growth and improve margins.  We have a particular focus on identifying and investing in opportunities that complement our products and will increase the global presence and capabilities of our businesses.  From time to time, we have divested, and likely will continue to divest, businesses that we feel are not strategic or do not meet our growth and return expectations.  
+   
+    In September 2018, we acquired New Hampshire-based Regional Mfg. Specialists, Inc. (d/b/a Agile Magnetics), a provider of high-reliability magnetics.  The addition of Agile Magnetics is an important step forward in building out the high reliability magnetics business of Standex Electronics.  As a result of this combination, we have broadened our exposure to several high-growth end-markets and added a   
+  29 
+    valuable manufacturing and sales base in the Northeast. Additionally, we can now offer complementary products from Standex s broader portfolio to Agile s customer base.  Agile Magnetics products include transformers, inductors and coils for mission critical applications for blue chip OEMs in the semiconductor, military, aerospace, healthcare, and industrial markets.  It operates one manufacturing facility in New Hampshire.  
+   
+    In August 2018, we acquired Michigan-based Tenibac-Graphion, Inc. (Tenibac-Graphion), a provider of chemical and laser texturing services.  The combination of Tenibac-Graphion and Standex Engraving will expand services available to customers, increase responsiveness to customer demands, and drive innovative approaches to solving customer needs.  The combined customer base now has access to the full line of mold and tool services, such as the Architexture design consultancy, Vycon  part wrapping, chemical and laser engraving, tool finishing, and tool enhancements. Tenibac-Graphion serves automotive, packaging, medical and consumer products customers, and operates three facilities, including two in Michigan and one in China.  
+   
+    As part of our ongoing strategy, we acquired Italy-based Piazza Rosa Group ( Piazza Rosa ) in July 2017.  The privately held company is a leading provider of mold, tool treatment and finishing services for the automotive and consumer products markets.  The combination of these competencies with Standex Engraving s worldwide presence and texturizing capabilities creates a global tool finishing service leader.  The acquisition also opens additional opportunities in the broader surface engineering market.  The Piazza Rosa Group s results are reported within our Engraving segment.  
+      We develop  Customer Intimacy  by utilizing the Standex Growth Disciplines to partner with our customers in order to develop and deliver custom solutions or engineered components.  By partnering with our customers during long-term product development cycles, we become an extension of their development teams.  Through this Partner, Solve, Deliver   methodology, we are able to secure our position as a preferred long-term solution provider for our products and components.  This strategy results in increased sales and operating margins that enhance shareholder returns.    
+      Standex Operational Excellence drives continuous improvement in the efficiency of our businesses, both on the shop floor and in the office environment.  We recognize that our businesses are competing in a global economy that requires us to improve our competitive position.  We have deployed a number of management competencies to drive improvements in the cost structure of our business units including operational excellence through lean enterprise, the use of low cost manufacturing facilities, the consolidation of manufacturing facilities to achieve economies of scale and leveraging of fixed infrastructure costs, alternate sourcing to achieve procurement cost reductions, and capital improvements to increase productivity.  
+      The Company s strong historical cash flow has been a cornerstone for funding our capital allocation strategy.  We use cash flow generated from operations to fund the strategic growth programs described above, including acquisitions and investments for organic growth, investments in capital assets to improve productivity and lower costs and to return cash to our shareholders through payment of dividends and stock buybacks.  
+ Restructuring expenses reflect costs associated with the Company s efforts of continuously improving operational efficiency and expanding globally in order to remain competitive in the end-user markets we serve. We incur costs for actions to size our businesses to a level appropriate for current economic conditions, improve our cost structure, enhance our competitive position and increase operating margins.  Such expenses include costs for moving facilities to locations that allow for lower fixed and variable costs, external consultants who provide additional expertise, starting up plants after relocation, downsizing operations because of changing economic conditions, and other costs resulting from asset redeployment decisions.  Shutdown costs include severance, benefits, stay bonuses, lease and contract terminations, asset write-downs, costs of moving fixed assets, and moving and relocation costs.  Vacant facility costs include maintenance, utilities, property taxes and other costs.  
+  30 
+   Because of the diversity of the Company s businesses, end user markets and geographic locations, management does not use specific external indices to predict the future performance of the Company, other than general information about broad macroeconomic trends.  Each of our individual business units serves niche markets and attempts to identify trends other than general business and economic conditions which are specific to its business and which could impact their performance.  Those units report pertinent information to senior management, which uses it to the extent relevant to assess the future performance of the Company.  A description of any such material trends is described below in the applicable segment analysis. 
+ We monitor several key performance indicators ( KPIs ) including net sales, income from operations, backlog, effective income tax rate, gross profit margin, and operating cash flow.  A discussion of these KPIs is included below.  We may also supplement the discussion of these KPIs by identifying the impact of foreign exchange rates, acquisitions, and other significant items when they have a material impact on a specific KPI.   
+ We believe the discussion of these items provides enhanced information to investors by disclosing their impact on the overall trend which provides a clearer comparative view of the KPI, as applicable.  For discussion of the impact of foreign exchange rates on KPIs, the Company calculates the impact as the difference between the current period KPI calculated at the current period exchange rate as compared to the KPI calculated at the historical exchange rate for the prior period.  For discussion of the impact of acquisitions, we isolate the effect on the KPI amount that would have existed regardless of our acquisition.  Sales resulting from synergies between the acquisition and existing operations of the Company are considered organic growth for the purposes of our discussion. 
+   
+ Unless otherwise noted, references to years are to fiscal years. 
+   
+  Results from Continuing Operations  
+
+Net sales for the first quarter of 2019 increased $3.9 million, or 2.1%, when compared to the prior year period.  Organic sales increased by $2.1 million, or 1.1%, with four of our five businesses contributing to the overall increase in the quarter.  Acquisitions also contributed 1.7% to the overall growth in the quarter.  Foreign currency was unfavorable and reduced sales by 0.7%. 
+
+Gross Profit Margin  
+   
+ Our gross margin for the first quarter of 2019 was 35.9%, compared to the prior year quarter of 34.7%.  Gross margin increased 1.2% primarily due to higher margin business mix. 
+  31 
+    Selling, General, and Administrative Expenses  
+     
+ Selling, General, and Administrative Expenses ( SG A ) for the first quarter of 2019 were $45.5 million, or 23.6% of sales, compared to $43.1 million, or 22.8% of sales, during the prior year quarter.  The increase in SG A expenses during the quarter was driven by incremental costs of $1.1million from the recent acquisitions and increased strategic investments to support growth initiatives.   
+   
+  Restructuring, Acquisition Related Expenses  
+   
+ Restructuring expenses for the first quarter of 2019 were $0.4 million, compared to $3.0 million during the prior quarter.  The decrease is a result of the completion in restructuring activities across the company.  Acquisition related expenses declined $0.3 million as compared to the prior year.  
+   
+  Income from Operations  
+   
+ Income from operations for the first quarter of 2019 was $22.6 million, compared to $18.7 million during the prior year quarter.  The increase of $3.9 million, or 21.4%, is primarily due to higher sales volume, improved gross margin, and reduced restructuring expenses.  
+   
+  Interest Expense  
+   
+ Interest expense for the first quarter of 2019 was $2.2 million, compared to $1.7 million during the prior quarter.  The increase is due to higher borrowings associated with the recent acquisitions in addition to an increase in our effective interest rate as compared to prior year. 
+   
+  Income Taxes  
+   
+  We  continue to report reasonable estimates as provisional amounts for a for the toll/transition tax and the change in the U.S. deferred tax related to the   Tax Cuts and Jobs Act ( TCJA )   signed into law by President Trump on  December 22, 2017 .  Pursuant to  SEC guidance (See Staff Accounting Bulletin No. 118) we are utilizing the measurement period approach for the income tax effects of tax reform for which the accounting is incomplete.  We have made no change to this estimate during the current quarter and expect to finalize the amount in the second quarter of fiscal year 2019 in connection with our fiscal year 2018 tax return preparation. 
+   
+ The calculation for fiscal year 2019 annual effective tax rate reflects various changes due to the TCJA such as a federal corporate tax rate of 21%, the repeal of the Sec. 199 manufacturing deduction, new tax provisions under Section 951A (GILTI) and Sec. 250(a) (FDII), and changes to the executive compensation limitation among others. 
+   
+ The Company's effective tax rate from continuing operations for the first quarter of 2019 was 28.9% compared to 25.1% for the prior year quarter.  The tax rate was impacted in current period by the following items: (i) a benefit for the federal rate decrease to 21 percent under the TCJA, (ii) estimated withholding taxes on expected distributions of current year earnings in foreign jurisdictions, and (iii) executive compensation deduction limitations as well as income from foreign jurisdictions being taxed in the US under Sec. 951A. Discontinued operations had an adverse impact on the effective tax rate of 0.9% for the quarter ending September 30, 2018. This adverse impact is a result of income taxed in a lower jurisdiction (United States) being moved to discontinued operations which put upward pressure on the tax rate from continuing operations. 
+
+Backlog  
+   
+ Backlog includes all active or open orders for goods and services.  Backlog also includes any future deliveries based on executed customer contracts, so long as such deliveries are based on agreed upon delivery schedules.   
+  32 
+    Backlog is not generally a significant factor in the Company s businesses because of our relatively short delivery periods and rapid inventory turnover with the exception of Engineering Technologies.  Backlog orders are not necessarily an indicator of future sales levels because of variations in lead times and customer production demand pull systems. Customers may delay delivery of products or cancel orders prior to shipment, subject to possible cancellation penalties.  Due to the nature of long term agreements in the Engineering Technologies group, the timing of orders and delivery dates can vary considerably resulting in significant backlog changes from one period to another.  In general, the majority of net realizable backlog beyond one year comes from the Engineering Technologies Group.    
+
+Backlog realizable within one year increased $25.1 million, or 13.8%, to $207.0 million at September 30, 2018 from $181.9 million at September 30, 2017.   
+   
+  Segment Analysis   
+   
+  Food Service Equipment Group  
+
+Net sales in the first quarter of fiscal year 2019 decreased $5.5 million, or 7.1%, when compared to the prior year quarter.  Organic sales growth was negative 7.0%.  Overall Refrigerated Solutions sales decreased by $5.2 million, or 13.8% due to a market slowdown in Drug Retail, Dollar Stores and Quick Service Restaurants as major chains have reduced the pace of new construction and remodeling efforts.  Scientific sales increased 11.8% driven by new product introductions.  Merchandising sales increased 4.0% and the specialty pump business was off 7% due to lower carbonated beverage pump sales.  We anticipate the reduced level of spending by our Drug Retail, Dollar Store, and Quick Service Restaurant customers to continue as we enter the winter months. 
+ Income from operations decreased by $1.7 million primarily driven by reduced sales volume in our Refrigerated Solutions, Merchandising, and Specialty Pump Business.  In addition, higher freight costs across all businesses contributed to the margin reduction.  
+  33 
+    Engraving Group  
+
+Net sales for the first quarter of fiscal year 2019 increased by $3.1 million, or 9.6%, when compared to the prior year quarter.  Organic sales growth of $0.8 million or 2.4%, was driven by strong growth in the Americas and Europe as there were a number of automotive new and refreshed model introductions.  Acquisitions contributed $3.3 million or 10.0% to the sales increase, which were partially offset by foreign exchange declines of $0.9 million.  We anticipate that new automotive model introductions will continue to increase in all regions in the coming quarters.  In addition, we see continued strong demand for our new technologies of Architexture, tool finishing, nickel shell and laser as we expand these technologies globally.  
+   
+ Income from operations declined by 0.1% driven by purchase accounting expense increases of $0.3 million as compared to the prior year.  Margins were down from prior year as we continue to integrate acquisitions and make investments in our growth laneways.  
+   
+   Engineering Technologies Group  
+
+Net sales in the first quarter of fiscal year 2019 increased by $0.5 million, or 2.6%, compared to the prior year quarter.  Sales distribution by market for the quarter was as follows: 52% aviation, 24% space, 13% energy, 5% medical, 4% defense and 2% other markets. Sales in the aviation market were up $0.8 million compared to the prior year primarily due to increases in the aircraft structures segment.  Space sales were down $1.2M due to contract timing on development programs in the manned segment of the market.  Energy sales were up $1.2 million due to higher sales into the project based Oil and Gas segment.   
+   
+ We expect sales volumes in the second quarter to be consistent with the first quarter. However, based on forecasts from our customers we expect a meaningful increase during the third and fourth quarters of our fiscal year 2019. Sales in the space market are also expected to grow through fiscal year 2019 with legacy products along with development projects with the various domestic launch vehicle providers.    
+   
+ Income from operations increased by $0.6 million, or 50.2%, when compared to the prior year quarter.  The increase was a result of contract price adjustments and efficiency improvements in the aviation engine markets, along with a favorable product mix in the energy industry. 
+  34 
+    Electronics Group  
+
+Net sales in the first quarter fiscal year 2019 increased by $4.6 million, or 9.9%, when compared to the prior year quarter.  Organic sales growth was $5.1 million, or 10.7%.  The organic sales growth came from improvement in all geographic regions.  Organic growth was particularly strong in the sensor, relay and reed switch product lines as a result of strong global market demand and new product launches.  Growth continues to be strong in markets such as metering, industrial applications and distribution partially offset by lower sales in the automotive and appliance markets.  We experienced higher order rate and increases to backlog this quarter however some customers have indicated inventory corrections in their forecasts for the coming quarters.  New business opportunities in the funnel should help offset any inventory corrections or slowdown in the coming months. 
+   
+ Income from operations in the first quarter fiscal year 2019 increased by $2.5 million, or 24.4%, when compared to the prior year quarter.  Operating income was higher because of the leverage from sales mix and organic sales growth combined with operating cost savings initiatives. 
+   
+  Hydraulics Group  
+
+Net sales in the first quarter of fiscal year 2019 increased $1.1 million, or 9.9%, when compared to the prior year quarter. Sales distribution by market for the quarter was as follows: 33% refuse, 26% dump truck and trailer, 25% aftermarket, 5% export and 11% other markets.  The increase in revenue during the quarter was primarily driven by strong sales to refuse truck and container handler OEM s in North America.  The new pack eject cylinder for front end loading refuse trucks has been well received by the marketplace.  With a strong market presence and recent new customer success, the traditional dump truck and trailer markets also contributed to the increase.  Demand should remain robust for the remainder of the calendar year.  Management is monitoring an OEM s concerns about a potential slowdown in calendar 2019 due to tariffs, material inflation, interest rate increases, and labor shortages. 
+   
+ Income from operations in the first quarter of fiscal year 2019 decreased $0.3 million, or 15.4%, when compared to the prior year quarter.  The decrease to income from operations during the first quarter is partially due to the recent section 301 tariffs on China finished goods imports along with machine downtime in our US facility, which was corrected during the quarter.  We ve only been partially successful at passing along tariff charges thus margins have been negatively impacted.    
+  35 
+    Corporate and Other  
+
+Corporate expenses in the first quarter of fiscal year 2019 were flat compared to prior year.  Restructuring expense declines have been explained above.  
+
+Discontinued Operations  
+
+Sales declined $0.8 million or 3.1% as compared to the prior year primarily due to the prior year rotisserie roll-out with a retail grocer customer which has not yet been offset by new business opportunities.  Operating income reduction of $0.3 million was primarily a result of the sales declines as compared to the prior year.  
+   
+  Liquidity and Capital Resources  
+   
+ At September 30, 2018, our total cash balance was $109.3 million, of which $98.4 million was held outside of the United States.  Beginning in 2019, we expect to repatriate approximately $50 million of our cash held outside of the United States, net of local jurisdictional withholding taxes previously accrued for by us.  The amount and timing of cash repatriation during 2019 will be dependent upon each business unit s operational needs including requirements to fund working capital, capital expenditure, and jurisdictional tax payments.   
+   
+ Net cash used by continuing operating activities for the three months ended September 30, 2018, was $2.6 million compared to net cash used by operating activities of $3.3 million in the prior year.  During the quarter, we generated $23.2 million from income statement activities and used $20.0 million of cash to fund working capital increases.  Cash flow used in investing activities for the three months ended September 30, 2018, was $102.0 million and consisted primarily of cash used for capital expenditures of $7.5 million, $39.2 million for the Agile acquisition and $57.3 million for the Tenibac acquisition.  Cash inflows provided by financing activities for the three months ended September 30, 2018 were $103.0 million and included net borrowings of $105.5 million and cash paid for dividends of $2.3 million.   
+   
+ The Company Amended its Credit Agreement ( Credit Facility , or  facility ) in December 2014.  This five-year Credit Facility has a borrowing limit of $400 million, which can be increased by an amount of up to $100 million, in accordance with specified conditions.  The facility also includes a $10 million sublimit for swing line loans and a $30 million sublimit for letters of credit.  During the second quarter of fiscal year 2019, we intend to begin discussions with our lenders to secure a new five-year facility. 
+   
+ Under the terms of the existing Credit Facility, we will pay a variable rate of interest and a commitment fee on borrowed amounts as well as a commitment fee on unused amounts under the facility.  The amount of the  
+  36 
+    commitment fee will depend upon both the undrawn amount remaining available under the facility and the Company s funded debt to EBITDA (as defined in the agreement) ratio at the last day of each quarter.  As our funded debt to EBITDA ratio increases, the commitment fee will increase.    
+   
+ Funds borrowed under the facility may be used for the repayment of debt, working capital, capital expenditures, acquisitions (so long as certain conditions, including a specified funded debt to EBITDA leverage ratio is maintained), and other general corporate purposes.  As of September 30, 2018, the Company has used $7.4 million against the letter of credit sub-facility and had the ability to borrow $93.1 million under the facility based on our current trailing twelve-month EBITDA.  The facility contains customary representations, warranties and restrictive covenants, as well as specific financial covenants.  The Company s current financial covenants under the facility are as follows: 
+   
+  Interest Coverage Ratio  - The Company is required to maintain a ratio of Earnings Before Interest and Taxes, as Adjusted ( Adjusted EBIT per the Credit Facility ), to interest expense for the trailing twelve months of at least 3.0:1.  Adjusted EBIT per the Credit Facility specifically excludes extraordinary and certain other defined items such as cash restructuring and acquisition-related charges up to $7.5 million, and unlimited non-cash charges including gains or losses on sale of property and goodwill adjustments.  At September 30, 2018, the Company s Interest Coverage Ratio was 11.75:1.  
+   
+  Leverage Ratio  - The Company s ratio of funded debt to trailing twelve month Adjusted EBITDA per the facility, calculated as Adjusted EBIT per the Credit Facility plus depreciation and amortization, may not exceed 3.5:1.  At September 30, 2018, the Company s Leverage Ratio was 2.35:1. 
+   
+ As of September 30, 2018, we had borrowings under our facility of $306.9 million and the effective rate of interest for outstanding borrowings under the facility was 3.32%.  Our primary cash requirements in addition to day-to-day operating needs include interest payments, capital expenditures, acquisitions, share repurchases, and dividends.  Our primary sources of cash for these requirements are cash flows from continuing operations and borrowings under the facility.  We expect 2019 capital spending to be between $35.0 and $36.0 million which includes amounts not spent in 2018 and $0.8 million for our recent acquisitions.   We also expect that depreciation and amortization expense will be between $21.0 and $22.0 million and $8.5 and $9.5 million, respectively. 
+   
+ In order to manage our interest rate exposure, we are party to $100.0 million of active floating to fixed rate swaps.  These swaps convert our interest payments from LIBOR to a weighted average rate of 2.01%. 
+   
+ The following table sets forth our capitalization at September 30, 2018 and June 30, 2018 (in thousands): 
+
+We sponsor a number of defined benefit and defined contribution retirement plans.  The U.S. pension plan is frozen for substantially all participants.  We have evaluated the current and long-term cash requirements of these plans, and our existing sources of liquidity are expected to be sufficient to cover required contributions under ERISA and other governing regulations. 
+   
+ The fair value of the Company's U.S. defined benefit pension plan assets was $188.5 million at September 30, 2018, as compared to $191.0 million at the most recent measurement date, which occurred as of June 30, 2018.  The next measurement date to determine plan assets and benefit obligations will be on June 30, 2019.  
+  37 
+   At September 30, 2018, we do not expect to make mandatory contributions to the plan until fiscal year 2020.  The Company expects to pay $1.4 million in contributions to its defined benefit plans during fiscal 2019.  Contributions of $0.3 million were made during the three months ended September 30, 2018 and 2017.  We expect to pay $0.8 million in prescribed contributions to our U.K. defined benefit plan during fiscal year 2019.  The Company also expects to make contributions during the current fiscal year of $0.2 million and $0.3 million to its unfunded defined benefit plans in the U.S. and Germany, respectively.  Any subsequent plan contributions will depend on the results of future actuarial valuations. 
+   
+ We have an insurance program in place to fund supplemental retirement income benefits for five retired executives.  Current executives and new hires are not eligible for this program.  At September 30, 2018, the underlying policies had a cash surrender value of $17.5 million and are reported net of loans of $8.9 million for which we have the legal right of offset, these amounts are reported net on our balance sheet. 
+   
+  Other Matters  
+   
+  Inflation    Certain of our expenses, such as wages and benefits, occupancy costs and equipment repair and replacement, are subject to normal inflationary pressures.  Inflation for medical costs can impact both our reserves for self-insured medical plans as well as our reserves for workers' compensation claims.  We monitor the inflationary rate and make adjustments to reserves whenever it is deemed necessary.  Our ability to manage medical costs inflation is dependent upon our ability to manage claims and purchase insurance coverage to limit the maximum exposure for us.  Each of our segments is subject to the effects of changing raw material costs caused by the underlying commodity price movements.  In general, we do not enter into purchase contracts that extend beyond one operating cycle.  While Standex considers our relationship with our suppliers to be good, there can be no assurances that we will not experience any supply shortage. 
+   
+  Foreign Currency Translation    Our primary functional currencies used by our non-U.S. subsidiaries are the Euro, British Pound Sterling (Pound), Mexican (Peso), Japanese (Yen), and Chinese (Yuan). 
+   
+  Environmental Matters    To the best of our knowledge, we believe that we are presently in substantial compliance with all existing applicable environmental laws and regulations and do not anticipate any instances of non-compliance that will have a material effect on our future capital expenditures, earnings or competitive position. 
+   
+  Seasonality    We are a diversified business with generally low levels of seasonality, however our fiscal third quarter typically has a comparatively lower level of sales and profitability. 
+   
+   Employee Relations    The Company has labor agreements with several union locals in the United States and several European employees belong to European trade unions.  There was one labor contract that expired during the first quarter of fiscal year 2019, and it was being renegotiated as of September 30, 2018. 
+   
+  Critical Accounting Policies  
+   
+ The condensed consolidated financial statements include the accounts of Standex International Corporation and all of its subsidiaries.  The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires us to make estimates and assumptions in certain circumstances that affect amounts reported in the accompanying condensed consolidated financial statements.  Although we believe that materially different amounts would not be reported due to the accounting policies adopted, the application of certain accounting policies involves the exercise of judgment and use of assumptions as to future uncertainties and, as a result, actual results could differ from these estimates.  Our Annual Report on Form 10-K for the year ended June 30, 2018 lists a number of accounting policies which we believe to be the most critical. 
+  38 
+    ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+  Risk Management  
+   
+ We are exposed to market risks from changes in interest rates, commodity prices and changes in foreign currency exchange.  To reduce these risks, we selectively use, from time to time, financial instruments and other proactive management techniques.  We have internal policies and procedures that place financial instruments under the direction of the Treasurer and restrict all derivative transactions to those intended for hedging purposes only.  The use of financial instruments for trading purposes (except for certain investments in connection with the non-qualified defined contribution plan) or speculation is strictly prohibited.  The Company has no majority-owned subsidiaries that are excluded from the consolidated financial statements.  Further, we have no interests in or relationships with any special purpose entities. 
+   
+  Exchange Rate Risk  
+   
+ We are exposed to both transactional risk and translation risk associated with exchange rates.  Our overall transactional risk is mitigated, in large part, by natural hedges developed with locally denominated debt service on intercompany accounts.  In the three months ended September 30, 2018, net sales to external customers not transacted in functional currency totals 3.5% of our consolidated sales.  We also mitigate certain of our foreign currency exchange rate risks by entering into forward foreign currency contracts from time to time.  The contracts are used as a hedge against anticipated foreign cash flows, such as dividend payments, loan payments, and materials purchases, and are not used for trading or speculative purposes.  The fair values of the forward foreign currency exchange contracts are sensitive to changes in foreign currency exchange rates, as an adverse change in foreign currency exchange rates from market rates would decrease the fair value of the contracts.  However, any such losses or gains would generally be offset by corresponding gains and losses, respectively, on the related hedged asset or liability.  At September 30, 2018, the fair value, in the aggregate, of the Company s open foreign exchange contracts was a liability of $4.1 million.   
+   
+ Our primary translation risk is with the Euro, British Pound Sterling, Peso, Japanese Yen and Chinese Yuan.  A hypothetical 10% appreciation or depreciation of the value of any these foreign currencies to the U.S. Dollar at September 30, 2018, would not result in a material change in our operations, financial position, or cash flows.  We hedge our most significant foreign currency translation risks primarily through cross currency swaps and other instruments, as appropriate. 
+   
+  Interest Rate Risk  
+   
+ Our interest rate exposure is limited primarily to interest rate changes on our variable rate borrowings.  From time to time, we will use interest rate swap agreements to modify our exposure to interest rate movements.  The Company s currently effective swap agreements convert our base borrowing rate on $100.0 million of debt due under our Credit Agreement from a variable rate equal to LIBOR to a weighted average rate of 2.01% at September 30, 2018.  
+   
+ The Company s effective rate on variable-rate borrowings, including the impact of interest rate swaps, under the revolving credit agreement increased from 3.29% at June 30, 2018 to 3.32% at September 30, 2018. 
+   
+  Concentration of Credit Risk  
+   
+ We have a diversified customer base.  As such, the risk associated with concentration of credit risk is inherently minimized.  As of September 30, 2018, no one customer accounted for more than 5% of our consolidated outstanding receivables or of our sales. 
+   
+  Commodity Prices  
+   
+ The Company is exposed to fluctuating market prices for all commodities used in its manufacturing processes.  Each of our segments is subject to the effects of changing raw material costs caused by the underlying commodity  
+  39 
+    price movements and the impact that any tariffs may have on such commodities.  In general, we do not enter into purchase contracts that extend beyond one operating cycle.  While Standex considers our relationship with our suppliers to be good, there can be no assurances that we will not experience any supply shortage.  
+   
+ The Engineering Technologies, Food Service Equipment, Electronics, and Hydraulics Groups are all sensitive to price increases for steel products, other metal commodities and petroleum based products.  In the past year, we have experienced price fluctuations for a number of materials including steel, copper wire, other metal commodities, refrigeration components and foam insulation.  These materials are some of the key elements in the products manufactured in these segments.  Wherever possible, we will implement price increases to offset the impact of changing prices.  The ultimate acceptance of these price increases, if implemented, will be impacted by our affected divisions  respective competitors and the timing of their price increases. 
+    
+   ITEM 4.     CONTROLS AND PROCEDURES   
+   
+ At the end of the period covered by this Report, the management of the Company, including the Chief Executive Officer and the Chief Financial Officer, evaluated the effectiveness of the design and operation of the Company s disclosure controls and procedures (as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended ( Exchange Act ).  Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures were effective as of September 30, 2018 in ensuring that the information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's ( SEC ) rules and forms, and that such information is accumulated and communicated to the Company s management, including its Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.  
+   
+ SEC guidance permits the exclusion of an evaluation of the effectiveness of a registrant's disclosure controls and procedures as they relate to the internal control over financial reporting for an acquired business during the first year following such acquisition.  As discussed in Note 2 to the consolidated financial statements contained in this Report, the Company acquired all of the outstanding stock of the Agile Magnetics and Tenibac-Graphion, Inc. during the last year.  These acquisitions represent approximately 1.3% of the Company's consolidated continuing operations revenue for the three months ended September 30, 2018, and approximately 9.6% of the Company's consolidated assets at September 30, 2018.  Management's evaluation and conclusion as to the effectiveness of the design and operation of the Company s disclosure controls and procedures as of September 30, 2018 excludes any evaluation of the internal control over financial reporting of Agile Magnetics and Tenibac-Graphion Inc.  
+   
+ There was no change in the Company's internal control over financial reporting during the quarterly period ended September 30, 2018 that has materially affected or is reasonably likely to materially affect the Company's internal control over financial reporting. 
+  40 
+    PART II.  OTHER INFORMATION  
+   
+  ITEM 5.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS  
+   
+  (c) The following table provides information about purchases by the Company of equity securities that are registered by the Company pursuant to Section 12 of the Exchange Act:  
+
+(1)    The Company has a Stock Buyback Program (the  Program ) which was originally announced on January 30, 1985 and most recently amended on April 26, 2016.  Under the Program, the Company was authorized to repurchase up to an aggregate of $100 million of its shares.  Under the program, purchases may be made from time to time on the open market, including through 10b5-1 trading plans, or through privately negotiated transactions, block transactions, or other techniques in accordance with prevailing market conditions and the requirements of the Securities and Exchange Commission.  The Board s authorization is open-ended and does not establish a timeframe for the purchases.  The Company is not obligated to acquire a particular number of shares, and the program may be discontinued at any time at the Company s discretion. 
+  41 
+     ITEM 6.  EXHIBITS  
+   
+  (a) Exhibits  
+   
+    31.1     Principal Executive Officer s Certification Pursuant to Rule 13a-14(a)/15d-14(a) and Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  .  
+   
+    31.2    Principal Financial Officer s Certification Pursuant to Rule 13a-14(a)/15d-14(a) and Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002  .  
+   
+    32    Principal Executive Officer and Principal Financial Officer Certifications Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002  .  
+   
+  101 The following materials from this Quarterly Report on Form 10-Q, formatted in Extensible Business Reporting Language (XBRL): (i) Condensed Consolidated Balance Sheets, (ii) Condensed Consolidated Statements of Operations, (iii) Condensed Consolidated Statements of Comprehensive Income, (iv) Condensed Consolidated Statements of Cash Flows, and (v) Notes to Unaudited Condensed Consolidated Financial Statements.  
+
+ALL OTHER ITEMS ARE INAPPLICABLE    
+  42 
+    SIGNATURES  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+STANDEX INTERNATIONAL CORPORATION 
+
+Date: 
+   October 29, 2018 
+    /s/  THOMAS D. DEBYLE  
+
+Thomas D. DeByle 
+
+Vice President/Chief Financial Officer 
+
+(Principal Financial   Accounting Officer) 
+
+Date: 
+   October 29, 2018 
+    /s/  SEAN C. VALASHINAS  
+
+Sean C. Valashinas 
+
+Chief Accounting Officer/Assistant Treasurer 
+
+43 
+
+<EX-31>
+ 2
+ f_ex31z1.htm
+
+EXHIBIT 31 
+
+EXHIBIT 31.1   
+   
+   RULE 13a-14(a) CERTIFICATION   
+   
+    I, David Dunbar, certify that:   
+   
+   1. I have reviewed this Quarterly Report on Form 10-Q of Standex International Corporation for the quarter ending September 30, 2018;   
+   
+   2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;   
+   
+   3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+   
+   4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+   
+   (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;   
+   
+   (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+   
+   (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+   
+   (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and   
+    5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):    
+   
+   (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+   
+   (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+   
+  Date:  October 29, 2018  
+
+/s/  David Dunbar   
+  ______________________________  
+  David Dunbar  
+  President/Chief Executive Officer  
+
+</EX-31>
+
+<EX-31>
+ 3
+ f_ex31z2.htm
+
+EXHIBIT 31 
+
+EXHIBIT 31.2   
+   
+   RULE 13a-14(a) CERTIFICATION   
+   
+    I, Thomas D. DeByle, certify that:   
+   
+   1. I have reviewed this Quarterly Report on Form 10-Q of Standex International Corporation for the quarter ending September 30, 2018;   
+   
+   2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;   
+   
+   3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;   
+   
+   4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:   
+   
+   (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;   
+   
+   (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;   
+   
+   (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and   
+   
+   (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and   
+    5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):    
+   
+   (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and     
+   
+   (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.   
+   
+  Date:  October 29, 2018  
+
+/s/  Thomas D. DeByle   
+  ______________________________  
+  Thomas D. DeByle  
+  Vice President/Chief Financial Officer  
+
+</EX-31>
+
+<EX-32>
+ 4
+ f_ex32.htm
+
+Certification 
+
+EXHIBIT 32   
+
+Certification  
+  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002  
+  (18 U.S.C. Sec. 1350)  
+  With Respect to the Standex International Corporation  
+  Quarterly Report on Form 10-Q  
+  For the Fiscal Quarter Ended September 30, 2018  
+
+Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United States Code), the undersigned Chief Executive Officer and Chief Financial Officer respectively of Standex International Corporation, a Delaware corporation (the  Company ) do hereby certify that:   
+   
+  1.    The Company s Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2018 (the  Form 10-Q ) fully complies with the requirements of Section 13(a) or 15(d) as applicable, of the Securities Exchange Act of 1934, as amended; and   
+  2.    Information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company.   
+   
+   Dated:    October 29, 2018      /s/  David Dunbar    
+   
+    David Dunbar   
+    Chief Executive Officer   
+
+Dated:    October 29, 2018     /s/   Thomas D. DeByle    
+   
+    Thomas D. DeByle   
+    Chief Financial Officer   
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ sxi-20180930.xml
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ sxi-20180930.xsd
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ sxi-20180930_cal.xml
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ sxi-20180930_def.xml
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ sxi-20180930_lab.xml
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ sxi-20180930_pre.xml
+
+</EX-101.PRE>
+
+10-Q
+ 11
+ f_10q.pdf
+

@@ -1,0 +1,847 @@
+
+FORM 10-Q 
+ UNITED STATES  
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C.  20549 
+ (Mark One) 
+
+For the quarterly period ended July 31, 2018 
+ OR 
+
+For the transition period from             to             
+ Commission file number   0-7977 
+   
+ NORDSON CORPORATION 
+ (Exact name of registrant as specified in its charter) 
+
+(440) 892-1580 
+ (Telephone Number) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Common Shares without par value  
+ Securities registered pursuant to Section 12(g) of the Act: 
+ None 
+   
+ Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months, and (2) has been subject to such filing requirements for the past 90 days.    Yes             No        
+ Indicate by check mark whether the Registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit and post such files).    Yes             No        
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer   
+
+Accelerated filer   
+
+Non-accelerated filer  
+
+(Do not check if smaller reporting company)  
+ 
+ Smaller reporting company   
+
+Emerging growth company   
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act        
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes             No        
+ Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date:  Common Shares, without par value as of July 31, 2018:  58,148,676 
+
+Nordson Corporation 
+   
+    Table of   Contents  
+
+Part I     FINANCIAL INFORMATION      
+ 
+ 3  
+
+ITEM 1.  FINANCIAL STATEMENTS (UNAUDITED)    
+ 
+ 3  
+
+C  ondensed   C  onsolidated   S  tatements     of   I  ncome    
+ 
+ 3  
+
+C  ondensed   C  onsolidated   S  tatements     of   C  omprehensive   I  ncome    
+ 
+ 4  
+
+C  ondensed   C  onsolidated   B  alance   S  heets    
+ 
+ 5  
+
+C  ondensed   C  onsolidated   S  tatements of   C  ash   F  lows    
+ 
+ 6  
+
+N  otes   t  o   C  ondensed   C  onsolidated   F  inancial   S  tatements    
+ 
+ 7  
+
+ITEM 2.  MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS    
+ 
+ 19  
+
+Critical Accounting Policies and Estimates    
+ 
+ 19  
+
+Results of Operations    
+ 
+ 19  
+
+Financial Condition    
+ 
+ 23  
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK    
+ 
+ 25  
+
+ITEM 4.  CONTROLS AND PROCEDURES    
+ 
+ 26  
+
+Part I  I   OTHER INFORMATION      
+ 
+ 27  
+
+ITEM 1.  LEGAL PROCEEDINGS    
+ 
+ 27  
+
+ITEM 1A.  RISK FACTORS    
+ 
+ 27  
+
+ITEM 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS    
+ 
+ 27  
+
+ITEM 6.  EXHIBITS    
+ 
+ 28  
+
+SIGNATURE      
+ 
+ 29  
+
+Page 2  
+ 
+ Nordson Corporation 
+   
+        P  art I   FINANCIAL INFORMATION  
+
+I  TEM 1.   
+ 
+   FINANCIAL STATEMENTS (UNAUDITED)    
+
+     Condensed Consolidated Statements of Income    
+
+See accompanying notes. 
+
+Page 3  
+ 
+ Nordson Corporation 
+   
+        C  ondensed Consolidated Statements of Comprehensive Income   
+
+See accompanying notes. 
+
+Page 4  
+ 
+ Nordson Corporation 
+   
+        C  ondensed Consolidated Balance Sheets  
+
+See accompanying notes. 
+
+Page 5  
+ 
+ Nordson Corporation 
+   
+        C  ondensed Consolidated Statements of Cash Flows  
+
+See accompanying notes. 
+
+Page 6  
+ 
+ Nordson Corporation 
+   
+        N  otes to Condensed   Consolidated Financial Statements  
+ July 31, 2018 
+ NOTE REGARDING AMOUNTS AND FISCAL YEAR REFERENCES 
+ In this quarterly report, all amounts related to United States dollars and foreign currency and to the number of Nordson Corporation s common shares, except for per share earnings and dividend amounts, are expressed in thousands. 
+ Unless otherwise noted, all references to years relate to our fiscal year ending October 31. 
+
+1.   
+ 
+ Significant accounting policies    
+
+  Basis of presentation .  The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles for interim financial information and with the instructions to Form 10-Q and Article 10 of Regulation S-X.  Accordingly, they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial statements.  In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included.  Operating results for the three and nine months ended July 31, 2018 are not necessarily indicative of the results that may be expected for the full year.  For further information, refer to the consolidated financial statements and footnotes included in our Annual Report on Form 10-K for the year ended October 31, 2017.   
+  Basis of consolidation .  The consolidated financial statements include the accounts of Nordson Corporation and its majority-owned and controlled subsidiaries.  Investments in affiliates and joint ventures in which our ownership is 50% or less or in which we do not have control but have the ability to exercise significant influence, are accounted for under the equity method.  All significant intercompany accounts and transactions have been eliminated in consolidation.   
+  Use of estimates .  The preparation of financial statements in conformity with accounting principles generally accepted in the United States requires management to make estimates and assumptions that affect the amounts reported in the consolidated financial statements.  Actual amounts could differ from these estimates. 
+  Revenue recognition .  Most of our revenues are recognized upon shipment, provided that persuasive evidence of an arrangement exists, the sales price is fixed or determinable, collectibility is reasonably assured, and title and risk of loss have passed to the customer.   
+   
+ Certain arrangements may include installation, installation supervision, training, and spare parts, which tend to be completed in a short period of time, at an insignificant cost, and utilizing skills not unique to us, therefore, are typically regarded as inconsequential or perfunctory. Revenue for undelivered items is deferred and included within accrued liabilities in the accompanying balance sheet. Revenues deferred in 2018 and 2017 were not material. 
+  Earnings per share .  Basic earnings per share are computed based on the weighted-average number of common shares outstanding during each year, while diluted earnings per share are based on the weighted-average number of common shares and common share equivalents outstanding.  Common share equivalents consist of shares issuable upon exercise of stock options computed using the treasury stock method, as well as restricted shares and deferred stock-based compensation.  Options with an exercise price higher than the average market price are excluded from the calculation of diluted earnings per share because the effect would be anti-dilutive.  No options were excluded from the calculation of diluted earnings per share for the three and nine months ended July 31, 2018 and 2017, respectively.      
+
+2.   
+ 
+ Recently issued accounting standards    
+
+ New accounting guidance adopted: 
+   In March 2016, the Financial Accounting Standards Board ( FASB ) issued a new standard which simplifies the accounting for share-based payment transactions. This guidance requires that excess tax benefits and tax deficiencies be recognized as income tax expense or benefit in the statements of income rather than additional paid-in capital. Additionally, the excess tax benefits will be classified along with other income tax cash flows as an operating activity, rather than a financing activity, in the statements of cash flows. Further, the update allows an entity to make a policy election to recognize forfeitures as they occur or estimate the number of awards expected to be forfeited. We adopted this new standard during the first quarter of 2018. As a result, net excess tax benefits of $7,494 were recognized as a reduction of income tax expense during the nine months ended July 31, 2018. The cash flow classification requirements of this new standard were applied retrospectively. As a result, excess tax benefits of $7,494 are reported as Net cash provided by operating activities for the nine months ended July 31, 2018 and  
+ Page 7 
+ 
+ Nordson Corporation 
+   
+  $  5,600   of excess tax benefits were reclassified from Net cash used i  n financing activities to Net cash provided by operating activities for the   nine   months ended   July 31  , 2017. This new standard also requires that employee taxes paid when an employer withholds shares for tax-withholding purposes be reported as financing ac  tivities in the statements of cash flows on a retrospective basis. Previously, this activity   was included in operating activities. The impact of this change was immaterial to the statements of cash flows.   Additionally, we elected to continue to estimate fo  rfeitures rather than account for them as they occur.  
+ New accounting guidance issued and not yet adopted: 
+ In May 2014, the FASB issued a new standard regarding revenue recognition.  Under this standard, a company recognizes revenue when it transfers promised goods or services to customers in an amount that reflects the consideration to which the company expects to be entitled in exchange for those goods or services. The standard implements a five-step process for customer contract revenue recognition that focuses on transfer of control.  In August 2015, the FASB issued a standard to delay the effective date by one year. The new standard is effective for us beginning November 1, 2018. The new standard is required to be applied retrospectively to each prior reporting period presented or retrospectively with the cumulative effect of initially applying it recognized at the date of initial application (modified retrospective method). We have not yet selected a transition method; however, we are currently anticipating using the modified retrospective method, but will base the final decision on the results of our assessment once complete. Our initial analysis of identifying revenue streams and evaluating a representative sample of contracts and other agreements with our customers is complete. We are in the process of assessing the impact of the new standard, if any, on our business processes, systems and controls. We will finalize our evaluation of potential differences that may result from applying the new standard to our contracts with customers in 2018 and provide updates on our progress in future filings. 
+ In February 2016, the FASB issued a new standard which requires a lessee to recognize on the balance sheet the assets and liabilities for the rights and obligations created by those leases with a lease term of more than twelve months. Leases will continue to be classified as either financing or operating, with classification affecting the recognition, measurement and presentation of expenses and cash flows arising from a lease. It will be effective for us beginning November 1, 2019. We are currently assessing the impact this standard will have on our consolidated financial statements. 
+ In March 2017, the FASB issued a new standard which requires the presentation of the service cost component of the net periodic benefit cost in the same income statement line item as other employee compensation costs arising from services rendered during the period. All other components of net periodic benefit cost will be presented below operating income. Additionally, only the service cost component will be eligible for capitalization in assets. It will be effective for us beginning November 1, 2018. Early adoption is permitted.  We are currently assessing the impact this standard will have on our consolidated financial statements.  
+ In February 2018, the FASB issued a new standard which gives entities the option to reclassify tax effects stranded in accumulated other comprehensive income as a result of the Tax Cuts and Jobs Act ( the Act ) into retained earnings. The guidance allows entities to reclassify from accumulated other comprehensive income to retained earnings stranded tax effects resulting from the Act's new federal corporate income tax rate. The guidance also allows entities to elect to reclassify other stranded tax effects that relate to the Act but do not directly relate to the change in the federal tax rate (e.g., state taxes, changing from a worldwide tax system to a territorial system). Tax effects that are stranded in accumulated other comprehensive income for other reasons (e.g., prior changes in tax law, a change in valuation allowance) may not be reclassified. It will be effective for us beginning November 1, 2019. Early adoption is permitted. We are currently assessing the impact this standard will have on our consolidated financial statements. 
+ In March 2018, the FASB issued a new standard which adds various Securities and Exchange Commission ( SEC ) paragraphs pursuant to the issuance of the December 2017 SEC Staff Accounting Bulletin No. 118 ( SAB 118 ), Income Tax Accounting Implications of the Tax Cuts and Jobs Act , which was effective immediately. The SEC issued SAB 118 to address concerns about reporting entities  ability to timely comply with the accounting requirements to recognize all of the effects of the Act in the period of enactment. SAB 118 allows disclosure that timely determination of some or all of the income tax effects from the Act are incomplete by the due date of the financial statements and if possible to provide a reasonable estimate. We have accounted for the tax effects of the Act under the guidance of SAB 118, on a provisional basis. Our accounting for certain income tax effects is incomplete, but we have determined reasonable estimates for those effects and have recorded provisional amounts in our consolidated financial statements. Refer to Note 7 for additional information. 
+
+Page 8  
+ 
+ Nordson Corporation 
+
+3.   
+ 
+      Acquisitions     
+
+ 2018 acquisition 
+ On January 2, 2018, we purchased 100 percent of the outstanding shares of Sonoscan, Inc. ( Sonoscan ), an Elk Grove Village, Illinois leading designer and manufacturer of acoustic microscopes and sophisticated acoustic micro imaging systems used in a variety of microelectronic, automotive, aerospace and industrial electronic assembly applications. We acquired Sonoscan for an aggregate purchase price of $46,018, net of $641 of cash.  Based on the fair value of the assets acquired and the liabilities assumed, goodwill of $22,836 and identifiable intangible assets of $7,910 were recorded. The identifiable intangible assets consist primarily of $1,700 of customer relationships (amortized over 7 years), $3,300 of tradenames (amortized over 11 years), $2,500 of technology (amortized over 7 years) and $410 of non-compete agreements (amortized over 5 years). Goodwill associated with this acquisition is tax deductible. This acquisition is being reported in our Advanced Technology Systems segment. As of July 31, 2018, the purchase price allocations remain preliminary as we complete our assessments of income taxes and certain reserves.  
+   
+ 2017 acquisitions 
+ On March 31, 2017, we completed the acquisition   of Vention Medical s Advanced Technologies business ( Vention ), a Salem, New Hampshire leading designer, developer and manufacturer of minimally invasive interventional delivery devices, catheters and advanced components for the global medical technology market. This is a highly complementary business that adds significant scale and enhances strategic capabilities of our existing medical platform. We acquired Vention for an aggregate purchase price of $705,000, net of $3,313 of cash and other closing adjustments of $10,726. The acquisition was funded primarily through a new term loan facility, as well as through cash and borrowings on our credit facility. The purchase price was allocated to the underlying assets acquired and liabilities assumed based upon their estimated fair values at the date of acquisition. We determined the estimated fair values based on independent appraisals, discounted cash flow analyses, quoted market prices, replacement cost analyses and estimates made by management. 
+ Based on the fair value of the assets acquired and the liabilities assumed, goodwill of $434,123, of which $37,200 is tax deductible, and identifiable intangible assets of $286,000 were recorded. The identifiable intangible assets consist primarily of $240,000 of customer relationships (amortized over 14 years), $2,000 of tradenames (amortized over 6 years), and $44,000 of technology, consisting of $36,000 (amortized over 14 years) and $8,000 (amortized over 10 years).   Goodwill represents the value we expect to achieve through the expansion of our existing medical platform. This acquisition is being reported in our Advanced Technology Systems segment. No material purchase price allocation adjustments were made during the second quarter of 2018.  
+ On February 16, 2017, we purchased 100 percent of the outstanding shares of InterSelect GmbH ( InterSelect ), a German designer and manufacturer of selective soldering systems used in a variety of automotive, aerospace and industrial electronics assembly applications. We acquired InterSelect for an aggregate purchase price of $5,432, net of cash acquired of $492. Based on the fair value of the assets acquired and the liabilities assumed, goodwill of $3,548 and identifiable intangible assets of $1,879 were recorded. The identifiable intangible assets consist primarily of $1,109 of customer relationships (amortized over 9 years), $348 of tradenames (amortized over 12 years), and $422 of technology (amortized over 9 years). Goodwill associated with this acquisition is not tax deductible. This acquisition is being reported in our Advanced Technology Systems segment.  
+ On February 1, 2017, we purchased 100 percent of the outstanding shares of Plas-Pak Industries, Inc. ( Plas-Pak ), a Norwich, Connecticut designer and manufacturer of injection molded, single-use plastic dispensing products. Plas-Pak s broad product offering includes two-component (2K) cartridges for industrial and commercial do-it-yourself adhesives, dial-a-dose calibrated syringes for veterinary and animal health applications, and specialty syringes for pesticide, dental and other markets. We acquired Plas-Pak for an aggregate purchase price of $70,798, net of cash acquired of $543. Based on the fair value of the assets acquired and the liabilities assumed, goodwill of $24,995 and identifiable intangible assets of $33,800 were recorded. The identifiable intangible assets consist primarily of $23,700 of customer relationships (amortized over 17 years), $4,100 of tradenames (amortized over 12 years), $5,000 of technology (amortized over 9 years) and $1,000 of non-compete agreements (amortized over 5 years). Goodwill associated with this acquisition is tax deductible. This acquisition is being reported in our Advanced Technology Systems segment.  
+   On January 3, 2017, we purchased certain assets of ACE Production Technologies, Inc. ( ACE ), a Spokane, Washington based designer and manufacturer of selective soldering systems used in a variety of automotive and industrial electronics assembly applications. We acquired the assets for an aggregate purchase price of $13,761.  Based on the fair value of the assets acquired and the liabilities assumed, goodwill of $6,383 and identifiable intangible assets of $5,010 were recorded. The identifiable intangible assets consist primarily of $2,800 of customer relationships (amortized over 7 years), $1,000 of tradenames (amortized over 11 years), $1,100 of technology (amortized over 7 years) and $110 of non-compete agreements (amortized over  
+ Page 9 
+ 
+ Nordson Corporation 
+   
+  3 years). Goodwill associated with this acquisition is tax deductible. This acquisition is being reported in our Advanced Technology Systems   segment  .  
+
+4  .   
+ 
+   Inventories      
+
+ At July 31, 2018 and October 31, 2017, inventories consisted of the following: 
+
+5.   
+ 
+ Goodwill and other intangible assets      
+
+ Changes in the carrying amount of goodwill for the nine months ended July 31, 2018 by operating segment are as follows: 
+
+Accumulated impairment losses, which were recorded in 2009, were $232,789 at July 31, 2018 and October 31, 2017.  Of these losses, $229,173 related to the Advanced Technology Systems segment, and $3,616 related to the Industrial Coating Systems segment. 
+ Information regarding our intangible assets subject to amortization is as follows: 
+
+Amortization expense for the three months ended July 31, 2018 and 2017 was $14,036 and $13,689, respectively.   Amortization expense for the nine months ended July 31, 2018 and 2017 was $42,097 and $31,478, respectively.   
+
+Page 10  
+ 
+ Nordson Corporation 
+
+6.   
+ 
+      Pension and other postretirement plans       
+
+ The components of net periodic pension cost for the three and nine months ended July 31, 2018 and July 31, 2017 were:  
+
+The components of other postretirement benefit cost for the three and nine months ended July 31, 2018 and July 31, 2017 were:  
+
+7.   
+ 
+ Income taxes      
+
+ We record our interim provision for income taxes based on our estimated annual effective tax rate, as well as certain items discrete to the current period. The effective tax rates for the three and nine months ended July 31, 2018 were 22.7% and 15.6%, respectively.  The effective tax rates for the three and nine months ended July 31, 2017 were 28.8% and 29.8%, respectively.  The effective tax rate for the current quarter   was lower than the comparable prior year period primarily due to recently enacted law commonly referred to as the U.S. Tax Cuts and Jobs Act ("the Act") as set forth below. 
+ The Act was enacted into law on December 22, 2017.  It reduces the U.S. federal corporate income tax rate from 35% to 21%.  We have an October 31 fiscal year-end, therefore the lower corporate income tax rate will be phased in, resulting in a U.S. statutory federal rate of 23.3% for our fiscal year ending October 31, 2018, and 21% for subsequent fiscal years.  The statutory tax rate of 23.3% was applied to earnings in the current quarter.   
+   The Act requires us to revalue our existing U.S. deferred tax balance to reflect the lower statutory tax rate and pay a one-time transition tax on earnings of certain foreign subsidiaries that were previously deferred from U.S. taxes.  As a result, during the  
+ Page 11 
+ 
+ Nordson Corporation 
+   
+  first quarter of 2018, we recorded a provisional tax benefit   of $45,213 to reflect the revaluation of our tax assets and liabilities at the reduced corporate tax rate. W  e also recorded a provisional tax   expense of $23,124 to reflect th  e transition tax on previously deferred foreign earnings.  The net tax effect of these discrete items resulted in a decrease of $22,089 in income tax expense for the nine months ended July 31, 2018.  We intend to pay the transition tax in installments over   the eight year period allowable under the Act. The transition tax is primarily included in other long-term liabilities in the Consolidated Balance Sheet at July 31, 2018.  The amounts recorded are considered a provisional estimate under the U.S. Securitie  s and Exchange Commission Staff Accounting Bulletin No. 118. The provisional calculations may change after the underlying temporary differences and foreign earnings are finalized.  Furthermore, we are still analyzing certain aspects of the Act and related   interpretive guidance and refining our calculations which could potentially affect the measurement of these balances or potentially give rise to new or additional deferred tax amounts.   
+ In March 2016, the FASB issued a new standard which simplifies the accounting for share-based payment transactions, which we adopted in the first quarter of 2018. This guidance requires that excess tax benefits and tax deficiencies be recognized as income tax expense or benefit in the Consolidated Statements of Income rather than as additional paid-in capital. As a result, our income tax provision for the three and nine months ended July 31, 2018 includes a discrete tax benefit of $544 and $7,494, respectively. 
+ During the three months ended July 31, 2018, we recorded a favorable adjustment to unrecognized tax benefits of $1,041 related to the lapse of statute of limitations. 
+ During the nine months ended July 31, 2017, we recorded a discrete tax expense of $2,600 related to nondeductible acquisition costs. 
+
+8.   
+ 
+ Accumulated other comprehensive loss    
+
+ The components of accumulated other comprehensive loss, including adjustments for items that are reclassified from accumulated other comprehensive loss to net income, are shown below.  
+
+9  .   
+ 
+ Stock-based compensation    
+
+ During the 2018 Annual Meeting of Shareholders, our shareholders approved the Amended and Restated 2012 Stock Incentive and Award Plan (the  2012 Plan ). The 2012 Plan provides for the granting of stock options, stock appreciation rights, restricted shares, restricted share units, performance shares, cash awards and other stock or performance-based incentives. A maximum of 4,525 common shares is available for grant under the 2012 Plan. 
+  Stock Options  
+ Nonqualified or incentive stock options may be granted to our employees and directors.  Generally, options granted to employees may be exercised beginning one year from the date of grant at a rate not exceeding 25 percent per year and expire 10 years from the date of grant.  Vesting accelerates upon a qualified termination in connection with a change in control. In the event of termination of employment due to early retirement or normal retirement at age 65, options granted within 12 months prior to termination are forfeited, and vesting continues post retirement for all other unvested options granted.  In the event of disability or death, all unvested stock options granted within 12 months prior to termination (or at any time prior to December 28, 2017) fully vest.  Termination for any other reason results in forfeiture of unvested options and vested options in certain circumstances.  The amortized cost of options is accelerated if the retirement eligibility date occurs before the normal vesting date.  Option exercises are satisfied through the issuance of treasury shares on a first-in, first-out basis.  We recognized compensation expense related to stock options of $2,479 and $2,390 in the three months ended July 31, 2018 and 2017, respectively.  Corresponding amounts for the nine months ended July 31, 2018 and 2017 were $7,550 and $7,024, respectively.  
+ Page 12  
+ 
+ Nordson Corporation 
+   
+    The following table summarizes activity related to stock options for the nine months ended July 31, 2018:  
+
+As of July 31, 2018, there was $10,330 of total unrecognized compensation cost related to unvested stock options.  That cost is expected to be amortized over a weighted average period of approximately 1.5 years. 
+ The fair value of each option grant was estimated at the date of grant using the Black-Scholes option-pricing model with the following assumptions: 
+
+The weighted-average expected volatility used to value the 2018 and 2017 options was 25.0% and 29.1%, respectively. 
+ Historical information was the primary basis for the selection of the expected volatility, expected dividend yield and the expected lives of the options.  The risk-free interest rate was selected based upon yields of U.S. Treasury issues with a term equal to the expected life of the option being valued. 
+ The weighted average grant date fair value of stock options granted during the nine months ended July 31, 2018 and 2017 was $31.42 and $28.86, respectively. 
+ The total intrinsic value of options exercised during the three months ended July 31, 2018 and 2017 was $2,971 and $1,824, respectively.  The total intrinsic value of options exercised during the nine months ended July 31, 2018 and 2017 was $32,715 and $21,081, respectively.  
+ Cash received from the exercise of stock options for the nine months ended July 31, 2018 and 2017 was $17,352 and $13,209, respectively.  
+  Restricted Shares and Restricted Share Units  
+ We may grant restricted shares and/or restricted share units to our employees and directors.  These shares or units may not be transferred for a designated period of time (generally one to three years) defined at the date of grant.   
+ For employee recipients, in the event of termination of employment due to early retirement with the consent of the Company, restricted shares granted within 12 months prior to termination are forfeited, and other restricted shares vest on a pro-rata basis.  In the event of termination of employment due to normal retirement at age 65, restricted shares granted within 12 months prior to termination are forfeited, and, for other restricted shares, the restriction period will lapse and the shares will vest and be transferable. For restricted shares granted within 12 months prior to termination (or at any time prior to December 28, 2017), the restrictions lapse in the event of a recipient s disability or death.  Termination for any other reason prior to the lapse of any restrictions results in forfeiture of the shares. 
+ For non-employee directors, all restrictions lapse in the event of disability or death of the non-employee director.  Termination of service as a director for any other reason within one year of date of grant results in a pro-rata vesting of shares or units. 
+ As shares or units are issued, deferred stock-based compensation equivalent to the fair value on the date of grant is expensed over the vesting period.   
+ Page 13  
+ 
+ Nordson Corporation 
+   
+    The following table summarizes activity related to restricted shares during the nine months ended J  uly 31, 2018:  
+
+As of July 31, 2018, there was $3,632 of unrecognized compensation cost related to restricted shares. The cost is expected to be amortized over a weighted average period of 1.9 years.  The amount charged to expense related to restricted shares during the three months ended July 31, 2018 and 2017 was $644 and $551, respectively. These amounts included common share dividends for the three months ended July 31, 2018 and 2017 of $17 and $15, respectively. For the nine months ended July 31, 2018 and 2017, the amounts charged to expense related to restricted shares were $2,035 and $1,639, respectively. These amounts included common share dividends for the nine months ended July 31, 2018 and 2017 of $51 and $46, respectively.      
+ The following table summarizes activity related to restricted share units during the nine months ended July 31, 2018: 
+
+As of July 31, 2018, there was $250 of remaining expense to be recognized related to outstanding restricted share units, which is expected to be recognized over a weighted average period of 0.3 years.  The amount charged to expense related to restricted share units during each of the three months ended July 31, 2018 and 2017 was $253 and $252, respectively. For the nine months ended July 31, 2018 and 2017, the corresponding amounts were $758.   
+  Deferred Directors  Compensation  
+ Non-employee directors may defer all or part of their cash and equity-based compensation until retirement.  Cash compensation may be deferred as cash or as share equivalent units.  Deferred cash amounts are recorded as liabilities, and share equivalent units are recorded as equity.  Additional share equivalent units are earned when common share dividends are declared. 
+ The following table summarizes activity related to director deferred compensation share equivalent units during the nine months ended July 31, 2018: 
+
+The amount charged to expense related to director deferred compensation for the three months ended July 31, 2018 and 2017 was $31 and $25, respectively. For the nine months ended July 31, 2018 and 2017, the corresponding amounts were $92 and $77, respectively.  
+  Performance Share Incentive Awards  
+ Executive officers and selected other key employees are eligible to receive common share-based incentive awards. Payouts, in the form of unrestricted common shares, vary based on the degree to which corporate financial performance exceeds predetermined threshold, target and maximum performance goals over three-year performance periods.  No payout will occur unless threshold performance is achieved. 
+   The amount of compensation expense is based upon current performance projections for each three-year period and the percentage of the requisite service that has been rendered.  The calculations are also based upon the grant date fair value  
+ Page 14 
+ 
+ Nordson Corporation 
+   
+  determined using the closing market price of our common shares at the   grant date, reduced by the implied value of dividends not to be paid. The per share values were $123.45 for 2018, $103.75 and $104.49 per share for 2017 and $67.69 per share for 2016.  During the three months ended July 31, 2018 and 2017, $  942   and $1,813   was charged to expense, respectively. For the nine months ended July 31, 2018 and 2017, the corresponding amounts were $  5,928   and $5,243, respectively. The cumulative amount recorded in shareholders  equity at July 31, 2018 was $1  3,050  .  
+  Deferred Compensation  
+ Our executive officers and other highly compensated employees may elect to defer up to 100% of their base pay and cash incentive and for executive officers, up to 90% of their share-based performance incentive payout each year.  Additional share units are credited for quarterly dividends paid our common shares. Expense related to dividends paid under this plan for the three months ended July 31, 2018 and 2017 was $67 and $68, respectively. For the nine months ended July 31, 2018 and 2017, the corresponding amounts were $201 and $197, respectively.                                                                                                     
+
+We offer warranties to our customers depending on the specific product and terms of the customer purchase agreement.  A typical warranty program requires that we repair or replace defective products within a specified time period (generally one year) from the date of delivery or first use.  We record an estimate for future warranty-related costs based on actual historical return rates.  Based on analysis of return rates and other factors, the adequacy of our warranty provisions are adjusted as necessary.  The liability for warranty costs is included in accrued liabilities in the Consolidated Balance Sheet.   
+ Following is a reconciliation of the product warranty liability for the nine months ended July 31, 2018 and 2017: 
+
+We conduct business across three primary business segments:  Adhesive Dispensing Systems, Advanced Technology Systems, and Industrial Coating Systems.  The composition of segments and measure of segment profitability is consistent with that used by our chief operating decision maker.  The primary measure used by the chief operating decision maker for purposes of making decisions about allocating resources to the segments and assessing performance is operating profit, which equals sales less cost of sales and certain operating expenses.  Items below the operating profit line of the Consolidated Statement of Income (interest and investment income, interest expense and other income/expense) are excluded from the measure of segment profitability reviewed by our chief operating decision maker and are not presented by operating segment.  The accounting policies of the segments are the same as those described in Note 1, Significant Accounting Policies, of our annual report on Form 10-K for the year ended October 31, 2017. 
+ Page 15  
+ 
+ Nordson Corporation 
+   
+    The following table presents information about our segments:  
+
+A reconciliation of total segment operating income to total consolidated income before income taxes is as follows: 
+
+We have significant sales in the following geographic regions: 
+
+12.   
+ 
+ Fair value measurements      
+
+ The inputs to the valuation techniques used to measure fair value are classified into the following categories:  
+ Level 1: Quoted market prices in active markets for identical assets or liabilities. 
+ Level 2: Observable market based inputs or unobservable inputs that are corroborated by market data. 
+ Level 3: Unobservable inputs that are not corroborated by market data.  
+ Page 16  
+ 
+ Nordson Corporation 
+   
+    The following   table presents the classification of our assets and liabilities measured at fair value on a recurring basis at July 31, 2018:   
+
+(a)   
+ 
+ We enter into foreign currency forward contracts to reduce the risk of foreign currency exposures resulting from receivables, payables, intercompany receivables, intercompany payables and loans denominated in foreign currencies.  Foreign currency forward contracts are valued using market exchange rates.  Foreign currency forward contracts are not designated as hedges. Foreign currency forward contracts in an asset position are classified in Receivables-net and foreign currency forward contracts in a liability position are classified in Accrued liabilities on the Consolidated Balance Sheets.    
+
+(b)   
+ 
+ Executive officers and other highly compensated employees may defer up to 100% of their salary and annual cash incentive award and for executive officers, up to 90% of their long-term performance share incentive award,   into various non-qualified deferred compensation plans. Deferrals can be allocated to various market performance measurement funds.  Changes in the value of compensation deferred under these plans are recognized each period based on the fair value of the underlying measurement funds.    
+
+13.   
+ 
+ Financial instruments      
+
+ We operate internationally and enter into intercompany transactions denominated in foreign currencies.  Consequently, we are subject to market risk arising from exchange rate movements between the dates foreign currencies are recorded and the dates they are settled.  We regularly use foreign currency forward contracts to reduce our risks related to most of these transactions.  These contracts usually have maturities of 90 days or less and generally require us to exchange foreign currencies for U.S. dollars at maturity, at rates stated in the contracts.  These contracts are not designated as hedging instruments. We do not use financial instruments for trading or speculative purposes. 
+ Gains and losses on foreign currency forward contracts are recorded in  Other   net  on the Consolidated Statement of Income together with the transaction gain or loss from the hedged balance sheet position.  For the three months ended July 31, 2018, we recognized gains of $2,042 on foreign currency forward contracts and losses of $1,152 from the change in fair value of balance sheet positions.  For the three months ended July 31, 2017, we recognized losses of $1,314 on foreign currency forward contracts and gains of $1,617 from the change in fair value of balance sheet positions. For the nine months ended July 31, 2018, we recognized losses of $529 on foreign currency forward contracts and gains of $451 from the change in fair value of balance sheet positions. For the nine months ended July 31, 2017, we recognized losses of $3,214 on foreign currency forward contracts and gains of $2,523 from the change in fair value of balance sheet positions.      
+ The following table summarizes, by currency, the foreign currency forward contracts outstanding at July 31, 2018 :  
+
+Page 17  
+ 
+ Nordson Corporation 
+   
+    The carrying amounts and fair values of financial instruments at July 31, 2018, other than cash and cash equivalents, receivables and accounts payable, are shown in the table below.  The carrying values of cash and cash equivalents, receivables and account  s payable approximate fair value due to the short-term nature of these instruments.    
+
+We used the following methods and assumptions in estimating the fair value of financial instruments: 
+
+Long-term debt is valued by discounting future cash flows at currently available rates for borrowing arrangements with similar terms and conditions, which are considered to be Level 2 inputs under the fair value hierarchy.     
+
+Foreign currency forward contracts are valued using observable market based inputs, which are considered to be Level 2 inputs under the fair value hierarchy.     
+
+In June 2018, we entered into a Note Purchase Agreement with a group of insurance companies under which we sold $350,000 of Senior Notes to the insurance companies and their affiliates. The notes start to mature in June 2023 and mature through June 2030 and bear interest at fixed rates between 3.71% and 4.17%. We were in compliance with all covenants at July 31, 2018. We used the proceeds from the sale of the notes to repay approximately $315,000 of the outstanding balance under our existing syndicated revolving credit facility, and the remainder for general corporate purposes. 
+ In March 2017, we entered into a $705,000 term loan facility with a group of banks. The Term Loan Agreement provides for the following term loans in three tranches: $200,000 due in September 2018, $200,000 due in March 2020, and $305,000 due in March 2022. In May 2018, we entered into a Second Amendment to our $705,000 term loan facility to extend the maturity due date of the first $200,000 tranche from September 2018 to September 2021. The weighted average interest rate for borrowings under this agreement was 3.16% at July 31, 2018. Borrowings under this agreement were used for the single purpose of acquiring Vention during the second quarter of 2017. We were in compliance with all covenants at July 31, 2018. 
+ In February 2015, we increased, amended and extended our existing syndicated revolving credit agreement that was scheduled to expire in December 2016. We entered into a $600,000 unsecured, multicurrency credit facility with a group of banks.  This facility has a five-year term and includes a $50,000 subfacility for swing-line loans and was increased to $850,000 in June 2018.  It expires in February 2020. Balances outstanding under the prior facility were transferred to the new facility. In June 2018, we paid approximately $315,000 of the outstanding balance under the facility. At July 31, 2018, there was no outstanding balance under this facility, compared to $249,138 outstanding at October 31, 2017. We were in compliance with all covenants at July 31, 2018, and the amount we could borrow under the facility would not have been limited by any debt covenants. 
+ We entered into a $150,000 three-year Note Purchase and Private Shelf agreement with New York Life Investment Management LLC in 2011.  In 2015, the amount of the facility was increased to $180,000, and in 2016 it was increased to $200,000. Notes issued under the agreement may have a maturity of up to 12 years, with an average life of up to 10 years, and are unsecured.  The interest rate on each note can be fixed or floating and is based upon the market rate at the borrowing date.  At July 31, 2018 and October 31, 2017, $146,666 was outstanding under this facility. Existing notes mature between September 2018 and September 2026 and bear interest at fixed rates between 2.21% and 2.56%, and floating interest rates between 3.47% and 3.59% per annum.  This agreement contains customary events of default and covenants related to limitations on indebtedness and the maintenance of certain financial ratios.  We were in compliance with all covenants at July 31, 2018, and the amount we could borrow would not have been limited by any debt covenants.   
+ In 2012, we entered into a Note Purchase Agreement with a group of insurance companies under which we sold $200,000 of Senior Notes.  At July 31, 2018 and October 31, 2017 $156,700 and $172,600 was outstanding under this agreement. Existing notes mature between July 2018 and July 2025 and bear interest at fixed rates between 2.62% and 3.13%, respectively.  We were in compliance with all covenants at July 31, 2018. 
+ In April 2015, we entered into a $200,000 term loan facility with a group of banks, of which $100,000 was paid in April 2018 and $100,000 is due in April 2020 with a weighted average interest rate of 3.19%. We were in compliance with all covenants at July 31, 2018.   
+ In July 2015, we entered into a Note Purchase Agreement under which $100,000 of Senior Unsecured Notes were purchased primarily by a group of insurance companies.  The notes start to mature in July 2019 and mature through July 2027 and bear interest at fixed rates of 2.89% and 3.19%.  We were in compliance with all covenants at July 31, 2018.   
+ Page 18  
+ 
+ Nordson Corporation 
+
+I  TEM 2.   
+ 
+          MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS     
+
+ The following is Management's discussion and analysis of certain significant factors affecting our financial condition and results of operations for the periods included in the accompanying condensed consolidated financial statements. 
+ Overview 
+ Founded in 1954, Nordson Corporation delivers precision technology solutions to help customers succeed worldwide.  We engineer, manufacture and market differentiated products and systems used to dispense , apply and control adhesives, coatings, sealants, biomaterials, polymers, plastics and other materials, and fluid management; to test and inspect for quality; and to treat and cure surfaces.  These products are supported with extensive application expertise and direct global sales and service.  We serve a wide variety of consumer non-durable, consumer durable and technology end-markets including packaging, nonwovens, electronics, medical, appliances, energy, transportation, building and construction, and general product assembly and finishing.    We have approximately 7,500 employees and direct operations in more than 35 countries. 
+     Critical Accounting Policies and Estimates 
+ The preparation and fair presentation of the consolidated unaudited interim financial statements and accompanying notes included in this report are the responsibility of management. The financial statements and footnotes have been prepared in accordance with U.S. generally accepted accounting principles for interim financial statements and contain certain amounts that were based upon management s best estimates, judgments and assumptions that were believed to be reasonable under the circumstances. On an ongoing basis, we evaluate the accounting policies and estimates used to prepare financial statements.  Estimates are based on historical experience, judgments and assumptions believed to be reasonable under current facts and circumstances.  Actual amounts and results could differ from these estimates used by management.  
+ A comprehensive discussion of the Company s critical accounting policies and management estimates and significant accounting policies followed in the preparation of the financial statements is included in Item 7 of our Annual Report on Form 10-K for the year ended October 31, 2017. There have been no significant changes in critical accounting policies, management estimates or accounting policies followed since the year ended October 31, 2017. 
+     Results of Operations 
+  Sales  
+ Sales    Worldwide sales for the three months ended July 31, 2018 were $581,243, a decrease of 1.4% from sales of $589,438 for the comparable period of 2017. Sales volume decreased 2.4%, consisting of a 3.2% decrease in organic volume, offset by a 0.8% increase from the first year effect of the Sonoscan acquisition. Favorable currency translation effects increased sales by 1.0%.  
+ Sales of the Adhesive Dispensing Systems segment for the three months ended July 31, 2018 were $244,728 compared to $233,367 in the comparable period of 2017, an increase of $11,361, or 4.9%. The increase was due to a sales volume increase of 3.4% and favorable currency effects of 1.5%. Within this segment, sales volume increased in all geographic regions, except for the Japan region. Growth in packaging,  product assembly and polymer processing product lines was offset by softness in product lines serving nonwoven end markets.   
+ Sales of the Advanced Technology Systems segment for the three months ended July 31, 2018 were $266,595 compared to $290,406 in the comparable period of 2017, a decrease of $23,811, or 8.2%. The decrease was due to lower sales volume of 8.9%, offset by favorable currency effects that increased sales by 0.7%. The sales volume decrease consisted of a 10.6% decrease in organic volume, offset by a 1.7% increase from the first year effect of the Sonoscan acquisition. Within this segment, sales volume, inclusive of acquisitions, increased in the United States and Europe regions, and was offset by softness in other geographic regions.  
+   Sales of the Industrial Coating Systems segment for the three months ended July 31, 2018 were $69,920 compared to $65,665 in the comparable period of 2017, an increase of $4,255, or 6.5%. The increase was due to a sales volume increase of 5.7%, as well as favorable currency effects that increased sales by 0.8%. Within this segment, sales volume increased in the Europe, Japan and Asia Pacific regions and was offset by softness in the United States and Americas regions  . Growth in powder and container product lines serving industrial end markets was offset by softness in liquid product lines. 
+   Sales outside the United States accounted for 67.1% of our sales in the three months ended July 31, 2018, compared to 69.0% for the comparable period of 2017. On a geographic basis, sales in the United States were $191,512, an increase of 4.7% from 2017. The  
+ Page 19 
+ 
+ Nordson Corporation 
+   
+  increase in sales volume consisted of 4.1% from organic volume, and 0.6% from acquisi  tions. In the Americas region, sales were $38,91  1,   a decrease of 6.5% from 2017, with   organic   volume decreasing 4.1%, and unfavorable currency effects of 2.4%. Sales in Europe were $150,710, an increase of 12.6% from 2017, with   organic   volume increasing 9.  4%   and   favorable currency effects of 3.2%.  Sales in Japan were $28,367, a decrease of 31.6% from 2017, with volume decreasing 32.5%, offset by favorable currency effects of 0.9%.  The decrease in sales volume consisted of   lower   organic volume   of 34.3%  , of  fset by a 1.8% increase from acquisitions. Sales in the Asia Pacific region were $171,743, a decrease of 9.4% from 2017  , with volume decreasing   10.8%, offset by favorable currency effects of 1.4%.  The decrease in sales volume consisted of a 12.4%   decrease   in   organic volume, offset by a 1.6% increase from acquisitions.  
+ Worldwide sales for the nine months ended July 31, 2018 were $1,685,373, a 12.9% increase from sales of $1,493,044 for the comparable period of 2017.  Sales volume increased 9.6%, consisting of 6.0% from the first year effect of acquisitions and 3.6% organic growth.  Favorable currency translation effects increased sales by 3.3%.   
+ Sales of the Adhesive Dispensing Systems segment for the nine months ended July 31, 2018 were $704,367 compared to $668,146 in the comparable period of 2017, an increase of 5.4%.  The increase was due to favorable currency translation effects of 4.6% and a sales volume increase of 0.8%.   Within this segment, s ales volume increased in the Japan and Asia Pacific regions, and was offset by decreases in the United States and Americas regions. G rowth in packaging, product assembly and nonwoven product lines was offset by softness in product lines serving polymer processing end markets.  
+ Sales of the Advanced Technology Systems segment for the nine months ended July 31, 2018 were $789,135 compared to $645,907 in the comparable period of 2017, an increase of 22.2%.  Sales volume increased 20.0%, consisting of 13.8% from the first year effect of acquisitions and 6.2% organic growth.  Favorable currency translation effects increased sales by 2.2%.  Within this segment, sales volume, inclusive of acquisitions, increased in all geographic regions except for the Asia Pacific region, and was most pronounced in the United States and Japan regions.  Organic volume was driven by demand for most all product lines within this segment. 
+ Sales of the Industrial Coating Systems segment for the nine months ended July 31, 2018 were $191,871 compared to $178,991 in the comparable period of 2017, an increase of 7.2%.  Sales volume increased 4.5% and favorable currency translation effects increased sales by 2.7%.  Within this segment, sales volume increased in the Europe, Japan and Asia Pacific regions, and was offset by softness in the Americas and United States regions.   Growth in powder and container product lines serving industrial end markets was offset by softness in cold materials product lines serving automotive end markets. 
+ Sales outside the United States accounted for 68.2% of sales in the nine months ended July 31, 2018, compared to 68.9% in the comparable period of 2017.  On a geographic basis, sales in the United States were $536,164, an increase of 15.4% from 2017.  The increase in sales volume consisted of 12.7% growth from acquisitions and 2.7% from organic volume. In the Americas region, sales were $112,149, an increase of 3.9% from 2017, with volume increasing 3.8%, and favorable currency effects of 0.1%. The increase in sales volume consisted of 7.2% from acquisitions, offset by a 3.4% decrease in organic volume. Sales in Europe were $447,384, an increase of 17.3% from 2017, with favorable currency effects of 9.1%, and volume increasing 8.2%.  The increase in sales volume consisted of 5.4% from organic volume, and 2.8% from acquisitions. Sales in Japan were $127,266, an increase of 31.9% from 2017, with volume increasing 29.7% and favorable currency effects of 2.2%.  The increase in sales volume consisted of 27.9% from organic volume and 1.8% from acquisitions. Sales in the Asia Pacific region were $462,410, an increase of 4.5% from 2017, with favorable currency effects of 2.9%, and volume increasing 1.6%.  The increase in sales volume consisted of 2.2% from acquisitions, offset by a 0.6% decrease from organic volume.     
+ Operating profit    Cost of sales for the three months ended July 31, 2018 were $260,847, down from $263,173 in the comparable period of 2017. Gross profit, expressed as a percentage of sales, decreased slightly to 55.1% for this same period from 55.4% in 2017. Of the 0.3 percentage point decline in gross margin, unfavorable product mix contributed 0.8 percentage points. The 0.5 percentage point offset was due to favorable currency translation effects of 0.2 percentage points, and 0.3 percentage points were due to lower short term purchase price accounting charges for acquired inventory in the current period.   
+   
+ Cost of sales for the nine months ended July 31, 2018 were $757,146, up 13.7% from the comparable period of 2017.  Gross profit, expressed as a percentage of sales, decreased to 55.1% for this same period from 55.4% in 2017.  Of the 0.3 percentage point decline in gross margin, unfavorable product mix contributed 1.0 percentage point.  The 0.7 percentage point offset is primarily due to favorable currency translation effects. 
+ Selling and administrative expenses for the three months ended July 31, 2018 were $184,820 compared to $172,799 in the comparable period of 2017. The 7.0% increase includes 6.0% in support of base business, 1.0% due to unfavorable currency translation effects and 0.5% due to higher severance and restructuring costs in the current period. These increases were offset by lower acquisition transaction costs of 0.5% in the current period.   
+ Page 20  
+ 
+ Nordson Corporation 
+
+Selling and administrative expenses for the nine months ended July 31, 2018 were $548,223, compared to $494,000 for the comparable period of 2017.  The 11.0% increase includes 9.3% primarily in support of higher sales growth, 2.9% due to unfavorable currency translation effects, 1.3% due to the first year effect of acquisitions, and 0.4% due to higher severance and restructuring costs. These increases were offset by 2.9% due to lower acquisition transaction costs in the current period. 
+   
+ Selling and administrative expenses as a percentage of sales increased to 31.8% for the three months ended July 31, 2018 compared to 29.3% in the comparable period of 2017. Of the 2.5 percentage point increase, 4.4 percentage points are due to higher base business costs, and 0.1 percentage point is due to higher severance and restructuring expenses in the current period.  These increases were offset by 1.9 percentage points due to the first year effect of acquisitions and 0.1 percentage point is due to lower acquisition transaction costs.   
+   
+ Selling and administrative expenses as a percentage of sales decreased to 32.5% for the nine months ended July 31, 2018 from 33.1% for the comparable period of 2017. Of the 0.6 percentage point improvement, 1.0 percentage point is primarily due to a decrease in acquisition transaction costs.  This decrease was offset by 0.2 percentage points due to the first year effect of acquisitions, and 0.2 percentage points due to higher severance and restructuring expenses.  
+ During the three and nine months ended July 31, 2018, we recognized severance and restructuring costs of $1,490 and $3,639, respectively.  During the three and nine months ended July 31, 2017, we recognized severance and restructuring costs of $703 and $1,421, respectively.  These costs were all recognized within our Adhesives Dispensing Systems segment, and are associated with a restructuring initiative to consolidate certain facilities in the U.S. Additional costs related to this initiative are not expected to be material in future periods. All severance and restructuring costs are included in selling and administrative expenses in the Condensed Consolidated Statements of Income.   
+ Operating capacity for each of our segments can support fluctuations in order activity without significant changes in operating costs. Also, currency translation affects reported operating margins. Operating margins for each segment were favorably impacted by a weaker dollar primarily against the Euro, Japanese Yen and British Pound during 2018 as compared to 2017. 
+ Operating profit as a percentage of sales decreased to 23.3% for the three months ended July 31, 2018 compared to 26.0% for the comparable period of 2017.  Of the 2.7 percentage point decrease, unfavorable leverage of our selling and administrative expenses contributed 2.5 percentage points, 0.8 percentage points were due to unfavorable product mix, and 0.1 percentage point was due to higher severance and restructuring costs.  This decrease was offset by 0.3 percentage points due to favorable currency translation effects,  0.3 percentage points due to lower short-term purchase price accounting charges for acquired inventory, and 0.1 percentage point due to lower acquisition transaction costs.  
+ Operating profit as a percentage of sales increased to 22.5% for the nine months ended July 31, 2018 compared to 22.3% for the comparable period of 2017.  Of the 0.2 percentage point improvement in operating margin, lower acquisition transaction costs contributed 1.0 percentage point, and favorable currency translation effects contributed 0.7 percentage points. This improvement was offset by 1.0 percentage point due to  dilution in gross margin related to the consolidation of certain facilities in the U.S.,  0.3 percentage points due to the first year effect of acquisitions, 0.1 percentage point due to unfavorable leverage of our selling and administrative expenses, and 0.1 percentage point due to higher severance and restructuring expenses. 
+ For the Adhesive Dispensing Systems segment, operating profit as a percentage of sales decreased to 28.0% for the three months ended July 31, 2018 compared to 28.5% for the comparable period of 2017.  Of the 0.5 percentage point decline in operating margin, dilution in gross margin of 0.5 percentage points was due to the consolidation of certain facilities in the U.S. and 0.3 percentage points were due to higher severance and restructuring expenses.  This decrease was offset by 0.3 percentage points due to favorable currency translation effects.   
+   For the Adhesive Dispensing Systems segment, operating profit as a percentag  e of sales decreased to 27.2% for the nine months ended July 31, 2018 compared to 27.7% for the comparable period of 2017.  Of the 0.5 percentage point decline in operating margin,  dilution in gross margin of 0.7 percentage points was due to the consolidation of certain facilities in the U.S. , unfavorable leverage of selling and administrative expenses contributed 0.5 percentage points, and higher severance and restructuring expenses contributed 0.3 percentage points.  These decreases were offset by a 1.0 percentage point increase due to favorable currency translation effects. 
+   For the Advanced Technology Systems segment, operating profit as a percentage of sales decreased to 25.2% for the three months ended July 31, 2018 compared to 30.1% for the comparable period of 2017. Of the 4.9 percentage point decline in operating margin,  
+ Page 21 
+ 
+ Nordson Corporation 
+   
+  unfavorable product mix contributed 3.9 percentage points   and unfavorable leverage of our selling and administrative expenses contributed 1.0 percentage points  .  
+ For the Advanced Technology Systems segment, operating profit as a percentage of sales decreased to 24.4% for the nine months ended July 31, 2018 compared to 26.0% for the comparable period of 2017.  Of the 1.6 percentage point decline in operating margin, unfavorable product mix contributed 2.3 percentage points, offset by favorable leverage of our selling and administrative expenses of 0.7 percentage points. 
+ For the Industrial Coating Systems segment, operating profit as a percentage of sales increased to 21.7% for the three months ended July 31, 2018 compared to 20.1% for the comparable period of 2017. Of the 1.6 percentage point improvement in operating margin, favorable product mix added 2.1 percentage points and favorable currency translation effects contributed 0.1 percentage points.  These increases were offset by 0.6 percentage points due to unfavorable leverage of our selling and administrative expenses. 
+ For the Industrial Coating Systems segment, operating profit as a percentage of sales increased to 19.2% for the nine months ended July 31, 2018 compared to 17.1% in 2017.  Of the 2.1 percentage point improvement in operating margin, favorable product mix added 1.1 percentage points, favorable currency translation effects contributed 0.6 percentage points, and favorable leverage of selling and administrative expenses contributed 0.4 percentage points. 
+ Interest and other income (expense)  - Interest expense for the three months ended July 31, 2018 was $13,765, up from $11,306 for the comparable period of 2017.  Interest expense for the nine months ended July 31, 2018 was $37,210, up from $24,854 for the comparable period of 2017.  These increases were due primarily to higher borrowing levels between periods.   
+   
+ Other income was $528 for the three months ended July 31, 2018, compared to $27 for the comparable period of 2017. Included in the current quarter s other income were foreign currency gains of $890.  
+ Other income was $673 for the nine months ended July 31, 2018, compared to other expense of $1,452 for the comparable period of 2017. Included in the current year s other income was a non-recurring gain of $2,512, offset by $741 related to the  write off of building improvements .  Included in the prior year s other expense were foreign currency losses of $691.  
+ Income taxes    We record our interim provision for income taxes based on our estimated annual effective tax rate, as well as certain items discrete to the current period. Judgment is involved regarding the application of global income tax laws and regulations and when projecting the jurisdictional mix of income. We have considered several factors in determining the probability of realizing deferred income tax assets which include forecasted operating earnings, available tax planning strategies and the time period over which the temporary differences will reverse. We review our tax positions on a regular basis and adjust the balances as new information becomes available. The effective tax rates for the three and nine months ended July 31, 2018 were 22.7% and 15.6%, respectively. The effective tax rate for the three and nine months ended July 31, 2017 were 28.8% and 29.8%, respectively. The effective tax rate for the current quarter was lower than the comparable prior year period primarily due to recently enacted law commonly referred to as the U.S. Tax Cuts and Jobs Act ("the Act") as set forth below.   
+   
+ The Act was enacted into law on December 22, 2017. It reduces the U.S. federal corporate income tax rate from 35% to 21%. We have an October 31 fiscal year-end; therefore, the lower corporate income tax rate will be phased in, resulting in a U.S. statutory federal rate of 23.3% for our fiscal year ending October 31, 2018, and 21% for subsequent fiscal years. The statutory tax rate of 23.3% was applied to earnings in the current quarter.  
+   
+ The Act requires us to revalue our existing U.S. deferred tax balance to reflect the lower statutory tax rate and pay a one-time transition tax on earnings of certain foreign subsidiaries that were previously deferred from U.S. tax. As a result, during the first quarter of 2018, we recorded a provisional tax benefit of $45,213 to reflect the revaluation of our tax assets and liabilities at the reduced corporate tax rate. We also recorded a provisional tax expense of $23,124 to reflect the transition tax on previously deferred foreign earnings. The net tax effect of these discrete items resulted in a decrease of $22,089 in income tax expense for the nine months ended July 31, 2018. We intend to pay the transition tax in installments over the eight year period allowable under the Act. The transition tax is primarily included in other long-term liabilities in the Consolidated Balance Sheet at July 31, 2018. The amounts recorded are considered a provisional estimate under the U.S. Securities and Exchange Commission Staff Accounting Bulletin No. 118. The provisional calculations may change after the underlying temporary differences and foreign earnings are finalized. Furthermore, we are still analyzing certain aspects of the Act and related interpretive guidance and refining our calculations which could potentially affect the measurement of these balances or potentially give rise to new or additional deferred tax amounts.  
+   
+ Page 22  
+ 
+ Nordson Corporation 
+   
+    The Act also establishes new tax laws that will affect future tax years, including, but not limited to, the creation of the base erosion anti-abuse tax, impact of foreign derived intangible income, and a new provision designed to tax glob  al intangible low-taxed income. These provisions are not effective until our fiscal year ending October 31, 2019 and, as such, have not been incorporated into the current period tax provision. We continue to evaluate the future impact of these provisions a  nd there can be no assurance of what impact these provisions or the Act in its totality will have on our business, financial condition and results of operations. In addition, in the absence of guidance on various uncertainties and ambiguities in the applic  ation of certain provisions of the Act, we will use what we believe are reasonable interpretations and assumptions in applying the Act, but it is possible that the Internal Revenue Service could issue subsequent guidance or take positions on audit that dif  fer from our prior interpretations and assumptions, which could materially adversely impact our cash, tax liabilities, financial condition and results of operations.   
+   
+ In March 2016, the FASB issued a new standard which simplifies the accounting for share-based payment transactions, which we adopted during the first quarter of 2018. This guidance requires that excess tax benefits and tax deficiencies be recognized as income tax expense or benefit in the Consolidated Statements of Income rather than as additional paid-in capital. As a result, our income tax provision for the three and nine months ended July 31, 2018 includes a discrete tax benefit of $544 and $7,494, respectively.  
+   
+ During the three months ended July 31, 2018, we recorded a favorable adjustment to unrecognized tax benefits of $1,041 related to the lapse of statute of limitations. 
+   
+ During the nine months ended July 31, 2017, we recorded a discrete tax expense of $2,600 related to nondeductible acquisition costs. 
+ Net income    Net income for the three months ended July 31, 2018 was $94,884, or $1.61 per diluted share, compared to $101,456, or $1.74 per diluted share, in the same period of 2017. This represents a 6.5% decrease in net income and a 7.5% decrease in diluted earnings per share. For the nine months ended July 31, 2018, net income was $290,674, or $4.93 per diluted share, compared to $215,967, or $3.71 per diluted share, in the same period of 2017. This represents a 34.6% increase in net income and a 32.9% increase in diluted earnings per share.   The impact on net income and diluted earnings per share due to the Act for the nine months ended July 31, 2018 was a benefit of $22,089 and $0.37.  
+  Foreign Currency Effects  
+ In the aggregate, average exchange rates for 2018 used to translate international sales and operating results into U.S. dollars were favorable compared   with average exchange rates existing during 2017.  It is not possible to precisely measure the impact on operating results arising from foreign currency exchange rate changes, because of changes in selling prices, sales volume, product mix and cost structure in each country in which we operate.  However, if transactions for the three months ended July 31, 2018 were translated at exchange rates in effect during the same period of 2017, sales would have been approximately $6,185 lower while third-party costs and expenses would have been approximately $2,948 lower. If transactions for the nine months ended July 31, 2018 were translated at exchange rates in effect during the same period of 2017, sales would have been approximately $49,845 lower while third-party costs and expenses would have been approximately $26,236 lower.   
+   
+     Financial Condition 
+  Liquidity and Capital Resources  
+ During the nine months ended July 31, 2018, cash and cash equivalents increased $176,419.  Cash provided by operations during this period was $342,927, compared to $221,791 for the nine months ended July 31, 2017.  Cash of $342,442 was generated from net income adjusted for non-cash income and expenses (consisting of depreciation and amortization, non-cash stock compensation, deferred income taxes, other non-cash expense and (gain)loss on sale of property, plant and equipment), compared to $298,099 for the comparable period of 2017.  Changes in operating assets and liabilities increased cash by $485 in the nine months ended July 31, 2018, compared to a reduction of $76,308 in the comparable period of 2017. This change is due primarily to changes in accounts receivable and inventory balance year-over-year. 
+ Cash used in investing activities was $91,037 for the nine months ended July 31, 2018, compared to $855,831 in the comparable period of 2017.  During the nine months ended July 31, 2018, cash of $45,364 was used for the Sonoscan acquisition and $805,943 was used for acquisitions during the nine months ended July 31, 2017. Capital expenditures in the nine months ended July 31, 2018 were $45,972, compared to $49,324 in the comparable period of 2017.  
+ Page 23  
+ 
+ Nordson Corporation 
+   
+    Cash used in financing activities was $73,464 for the nine months en  ded July 31, 2018, compared to $672,636 provided in the comparable period of the prior year.  Net repayments of long-term debt and short-term borrowings used $29,403, compared to net proceeds of $713,398 in the prior year. Included in the prior year s net   proceeds was our   $705,000 term loan facility used for the Vention   Medical   acquisition during the second quarter of 2017.   During the nine months ended July 31, 2018, cash of $5,063 was used for the purchase of treasury shares tendered for taxes related to v  esting of restricted stock and cash of $52,109 was used for dividend payments, compared to $3,114 and $46,549, respectively, in the comparable period of 2017. Issuance of common shares related to employee benefit plans generated $17,352 compared to $13,209   in the comparable period of 2017.  
+ The following is a summary of significant changes in balance sheet captions from October 31, 2017 to July 31, 2018. Inventories increased $7,094 primarily due to the Sonoscan acquisition. Net property, plant and equipment increased $10,366 due to capital expenditures of $45,972, offset by depreciation expense. Goodwill increased $22,523 due primarily to the Sonoscan acquisition and the effects of foreign currency translation. The decrease of $26,907 in accrued liabilities was primarily due to compensation adjustments and bonuses paid out in the first quarter of 2018. The decrease in deferred income taxes liability of $44,683 was primarily due to the impact of the Act. 
+ In December 2014, the board of directors authorized a $300,000 common share repurchase program. This program replaced the $200,000 program approved by the board in August 2013. In August 2015, the board of directors authorized the repurchase of up to an additional $200,000 of the Company s common shares. This new authorization added capacity to the board s December 2014 authorization to repurchase $300,000 of shares. Approximately $118,971 remained available for share repurchases at July 31, 2018. Uses for repurchased shares include the funding of benefit programs including stock options, restricted stock and 401(k) matching. Shares purchased are treated as treasury shares until used for such purposes. The repurchase program is being funded using cash from operations and proceeds from borrowings under our credit facilities. 
+      Contractual Obligations  
+ In June 2018, we entered into a Note Purchase Agreement with a group of insurance companies under which we sold $350,000 of Senior Notes to the insurance companies and their affiliates. The notes start to mature in June 2023 and mature through June 2030 and bear interest at fixed rates between 3.71% and 4.17%. We were in compliance with all covenants at July 31, 2018. We used the proceeds from the sale of the notes to repay approximately $315,000 of the outstanding balance under our existing syndicated revolving credit facility, and the remainder for general corporate purposes. 
+ In March 2017, we entered into a $705,000 term loan facility with a group of banks. The Term Loan Agreement provides for the following term loans in three tranches: $200,000 due in September 2018, $200,000 due in March 2020, and $305,000 due in March 2022. In May 2018, we entered into a Second Amendment to our $705,000 term loan facility to extend the maturity due date of the first $200,000 tranche from September 2018 to September 2021. The weighted average interest rate for borrowings under this agreement was 3.16% at July 31, 2018. Borrowings under this agreement were used for the single purpose of acquiring Vention during the second quarter of 2017. We were in compliance with all covenants at July 31, 2018.  
+ In February 2015, we increased, amended and extended our existing syndicated revolving credit agreement that was scheduled to expire in December 2016. We entered into a $600,000 unsecured, multicurrency credit facility with a group of banks.  This facility has a five-year term and includes a $50,000 subfacility for swing-line loans and was increased to $850,000 in June 2018.  It expires in February 2020. Balances outstanding under the prior facility were transferred to the new facility. In June 2018, we paid approximately $315,000 of the outstanding balance under the facility. At July 31, 2018, there was no outstanding balance under this facility, compared to $249,138 outstanding at October 31, 2017. We were in compliance with all covenants at July 31, 2018, and the amount we could borrow under the facility would not have been limited by any debt covenants. 
+ We entered into a $150,000 three-year Note Purchase and Private Shelf agreement with New York Life Investment Management LLC in 2011.  In 2015, the amount of the facility was increased to $180,000, and in 2016 it was increased to $200,000. Notes issued under the agreement may have a maturity of up to 12 years, with an average life of up to 10 years, and are unsecured.  The interest rate on each note can be fixed or floating and is based upon the market rate at the borrowing date.  At July 31, 2018 and October 31, 2017, $146,666 was outstanding under this facility. Existing notes mature between September 2018 and September 2026 and bear interest at fixed rates between 2.21% and 2.56%, and floating interest rates between 3.47% and 3.59% per annum.  This agreement contains customary events of default and covenants related to limitations on indebtedness and the maintenance of certain financial ratios.  We were in compliance with all covenants at July 31, 2018, and the amount we could borrow would not have been limited by any debt covenants.   
+   In 2012, we entered into a Note Purchase Agreement with a group of insurance companies under which we sold $200,000 of Senior Notes.  At July 31, 2018 and October 31, 2017 $156,700 and $172,600 was outstanding under this agreement, respectively. Existing  
+ Page 24 
+ 
+ Nordson Corporation 
+   
+  notes mature between July 2018 and July 2025 and bear interest   at fixed rates between 2.62% and 3.13%.  We were in compliance with all covenants at July 31, 2018.  
+ In April 2015, we entered into a $200,000 term loan facility with a group of banks, of which $100,000 was paid in April 2018 and $100,000 is due in April 2020 with a weighted average interest rate of 3.19%. We were in compliance with all covenants at July 31, 2018.   
+ In July 2015, we entered into a Note Purchase Agreement under which $100,000 of Senior Unsecured Notes were purchased primarily by a group of insurance companies.  The notes start to mature in July 2019 and mature through July 2027 and bear interest at fixed rates of 2.89% and 3.19%.  We were in compliance with all covenants at July 31, 2018.   
+ Outlook  
+ For the full year, we expect to generate sales volume growth, including the first year effect of acquisitions, and we remain optimistic about longer term growth opportunities in the diverse consumer durable, non-durable, medical, electronics and industrial end markets we serve. Though the pace of improvement in the global economy remains unclear, our growth potential has been demonstrated over time from our capacity to build and enhance our core businesses by entering emerging markets and pursuing market adjacencies.  We drive value for our customers through our application expertise, differentiated technology, and direct sales and service support.  Our priorities also are focused on operational efficiencies by employing continuous improvement methodologies in our business processes.  We expect our efforts will continue to provide more than sufficient cash from operations for meeting our liquidity needs and paying dividends to common shareholders, as well as enabling us to invest in the development of new applications and markets for our technologies.  We believe our cash provided from operations, our available borrowing capacity, and ready access to capital markets is more than adequate to fund our liquidity needs within the next year and to make other opportunistic investments.     
+ For the fourth quarter of 2018, sales are expected to be flat to down 4% as compared to the fourth quarter a year ago.  This outlook includes a range for organic volume to be up 1% to down 3%, 1% growth from the first year effect of acquisitions, and an unfavorable currency translation effect of 2% based on the current exchange rate environment.  Diluted earnings per share are expected to be in the range of $1.38 to $1.54.   
+   
+ Safe Harbor Statements Under The Private Securities Litigation Reform Act Of 1995 
+ This Form 10-Q, particularly the  Management s Discussion and Analysis , contains forward-looking statements within the meaning of the Securities Act of 1933, as amended, the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995.  Such statements relate to, among other things, income, earnings, cash flows, changes in operations, operating improvements, businesses in which we operate and the U.S. and global economies.  Statements in this Form 10-Q that are not historical are hereby identified as  forward-looking statements  and may be indicated by words or phrases such as  anticipates ,  supports ,  plans ,  projects ,  expects ,  believes ,  should ,  would ,  could ,  hope ,  forecast ,  management is of the opinion , use of the future tense and similar words or phrases.  
+ In light of these risks and uncertainties, actual events and results may vary significantly from those included in or contemplated or implied by such statements.  Readers are cautioned not to place undue reliance on such forward-looking statements.  These forward-looking statements speak only as of the date made.  We undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.  
+ Factors that could cause actual results to differ materially from the expected results are discussed in Item 1A, Risk Factors in our Form 10-K for the year ended October 31, 2017. 
+
+I  TEM 3.   
+ 
+   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK    
+
+ Information regarding our financial instruments that are sensitive to changes in interest rates and foreign currency exchange rates was disclosed in our Form 10-K for the year ended October 31, 2017.  The information disclosed has not changed materially in the interim period since then. 
+ Page 25  
+ 
+ Nordson Corporation 
+
+I  TEM 4.   
+ 
+          CONTROLS AND PROCEDURES     
+
+ Our management with the participation of the principal executive officer (President and Chief Executive Officer) and principal financial officer (Executive Vice President, Chief Financial Officer) has reviewed and evaluated our disclosure controls and procedures (as defined in the Securities Exchange Act Rule 13a-15(e)) as of July 31, 2018.  Based on that evaluation, our management, including the principal executive and financial officers, has concluded that our disclosure controls and procedures were effective as of July 31, 2018 in ensuring that information required to be disclosed in the reports that we file or submit under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms and is accumulated and communicated to management, including the principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+ There were no changes in our internal controls over financial reporting that occurred during the three months ended July 31, 2018 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Page 26  
+ 
+ Nordson Corporation 
+   
+        P  art II   OTHER INFORMATION  
+
+I  TEM 1.   
+ 
+   LEGAL PROCEEDINGS    
+
+ We are involved in pending or potential litigation regarding environmental, product liability, patent, contract, employee and other matters arising from the normal course of business.  Including the environmental matter discussed below, it is our opinion, after consultation with legal counsel, that resolutions of these matters are not expected to result in a material effect on our financial condition, quarterly or annual operating results or cash flows. 
+ We have voluntarily agreed with the City of New Richmond, Wisconsin and other Potentially Responsible Parties to share costs associated with the remediation of the City of New Richmond municipal landfill (the  Site ) and the construction of a potable water delivery system serving the impacted area down gradient of the Site.  At July 31, 2018 and October 31, 2017, our accrual for the ongoing operation, maintenance and monitoring obligation at the Site was $472. The liability for environmental remediation represents management s best estimate of the probable and reasonably estimable undiscounted costs related to known remediation obligations.  The accuracy of our estimate of environmental liability is affected by several uncertainties such as additional requirements that may be identified in connection with remedial activities, the complexity and evolution of environmental laws and regulations, and the identification of presently unknown remediation requirements. Consequently, our liability could be greater than our current estimate.  However, we do not expect that the costs associated with remediation will have a material adverse effect on our financial condition or results of operations. 
+
+I  TEM 1A.   
+ 
+   RISK FACTORS     
+
+ Information regarding our risk factors was disclosed in our Form 10-K filed for the year ended October 31, 2017.  The information disclosed has not changed materially in 2018. 
+
+I  TEM 2.   
+ 
+     UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS    
+
+ The following table summarizes common stock repurchased by the Company during the three months ended July 31, 2018: 
+
+(1)   
+ 
+ In December 2014, the board of directors authorized a $300,000 common share repurchase program. In August 2015, the board of directors authorized the repurchase of up to an additional $200,000 of the Company s common shares.  This new authorization added capacity to the board s December 2014 authorization to repurchase $300,000 of shares. Approximately $118,971 remained available for share repurchases at July 31, 2018. Uses for repurchased shares include the funding of benefit programs including stock options, restricted stock and 401(k) matching.  Shares purchased are treated as treasury shares until used for such purposes.  The repurchase program is being funded using cash from operations and proceeds from borrowings under our credit facilities.      
+
+Page 27  
+ 
+ Nordson Corporation 
+
+I  TEM 6.   
+ 
+          EXHIBITS      
+
+4.1  
+
+Master Note Purchase Agreement, dated as of June 22, 2018, by and among Nordson Corporation and the purchasers named therein (incorporated by reference to Exhibit 4.1 to Registrant s Current Report on Form 8-K filed with the Securities and Exchange Commission on June 28, 2018).    
+
+4.2  
+
+Amendment No. 1, dated June 28, 2018, to the Second Amended and Restated Credit Agreement, dated February 20, 2015, among Nordson Corporation, various financial institutions named therein, and KeyBank, National Association, as administrative agent   (incorporated by reference to Exhibit 4.2 to Registrant s Current Report on Form 8-K filed with the Securities and Exchange Commission on June 28, 2018).    
+
+4.3  
+
+First Amendment dated June 26, 2018 to the Term Loan Facility Agreement dated April 10, 2015 between Nordson Corporation, various financial institutions named therein and PNC Bank, National Association, as administrative agent (incorporated by reference to Exhibit 4.3 to Registrant s Current Report on Form 8-K filed with the Securities and Exchange Commission on June 28, 2018).    
+
+4.4  
+
+Second Amendment to Term Loan Agreement dated as of May 17, 2018, by and between Nordson Corporation, as Borrower, each of the financial institutions party hereto, and PNC Bank, as Administrative Agent for the Lenders (incorporated herein by reference to Exhibit 10.1 to Registrant s Current Report on Form 8-K filed with the Securities and Exchange Commission on May 23, 2018).    
+
+4.5  
+
+Third Amendment dated June 26, 2018 to the Term Loan Agreement dated as of February 21, 2017, between Nordson Corporation, various financial institutions named therein and PNC Bank, National Association, as administrative agent (incorporated by reference to Exhibit 4.4 to Registrant s Current Report on Form 8-K filed with the Securities and Exchange Commission on June 28, 2018).    
+
+31.1  
+
+Certification pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934 by the Chief Executive Officer, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.    
+
+31.2  
+
+Certification pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934 by the Chief Financial Officer, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.    
+
+32.1  
+
+Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.*    
+
+32.2  
+
+Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.*    
+
+101  
+
+The following financial information from Nordson Corporation s Quarterly Report on Form 10-Q for the three and nine months ended July 31, 2018, formatted in Extensible Business Reporting Language (XBRL): (i) the Condensed Consolidated Statements of Income for the three and nine months ended July 31, 2018 and 2017, (ii) the Condensed Consolidated Statements of Comprehensive Income for the three and nine months ended July 31, 2018 and 2017, (iii) the Condensed Consolidated Balance Sheets at July 31, 2018 and October 31, 2017, (iv) the Condensed Consolidated Statements of Cash Flows for the nine months ended July 31, 2018 and 2017, and (v) the Notes to Condensed Consolidated Financial Statements.  
+
+*   
+ 
+ Furnished herewith.    
+
+Page 28  
+ 
+ Nordson Corporation 
+   
+        SI  GNATURE  
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+Date:  September 4, 2018  
+
+Nordson Corporation  
+
+By: /s/     GREGORY A. THAXTON   
+
+Gregory A. Thaxton  
+
+Executive Vice President, Chief Financial Officer  
+
+(Principal Financial Officer)  
+
+Page 29   
+
+<EX-31.1>
+ 2
+ ndsn-ex311_8.htm
+ EX-31.1
+
+ndsn-ex311_8.htm
+
+Exhibit 31.1 
+ CERTIFICATIONS 
+ CERTIFICATION PURSUANT TO RULE 13a-14(a)/15d-14(a) OF THE SECURITIES EXCHANGE ACT OF 1934, AS  ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Michael F. Hilton, certify that:  
+
+1.   
+ 
+ I have reviewed this quarterly report on Form 10-Q of Nordson Corporation;     
+
+2.   
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;    
+
+3.   
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;    
+
+4.   
+ 
+ The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))  and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))  for the registrant and have:    
+
+a)   
+ 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;     
+
+b)   
+ 
+ designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;    
+
+c)   
+ 
+ evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+d)   
+ 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and     
+
+5.   
+ 
+ The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions):     
+
+a)   
+ 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting  which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and     
+
+b)   
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.     
+
+Date: September 4, 2018  
+
+/s/ Michael F. Hilton  
+
+Michael F. Hilton  
+
+President and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ndsn-ex312_7.htm
+ EX-31.2
+
+ndsn-ex312_7.htm
+
+Exhibit 31.2 
+ CERTIFICATION PURSUANT TO RULE 13a-14(a)/15d-14(a) OF THE SECURITIES EXCHANGE ACT OF 1934, AS  ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Gregory A. Thaxton, certify that:  
+
+1.   
+ 
+ I have reviewed this quarterly report on Form 10-Q of Nordson Corporation;     
+
+2.   
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;    
+
+3.   
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;    
+
+4.   
+ 
+ The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))  and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f))  for the registrant and have:    
+
+a)   
+ 
+ designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;     
+
+b)   
+ 
+ designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;    
+
+c)   
+ 
+ evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and     
+
+d)   
+ 
+ disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and     
+
+5.   
+ 
+ The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions):     
+
+a)   
+ 
+ all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting  which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and     
+
+b)   
+ 
+ any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.     
+
+Date: September 4, 2018  
+
+/s/ Gregory A. Thaxton  
+
+Gregory A. Thaxton  
+
+Executive Vice President, Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ndsn-ex321_6.htm
+ EX-32.1
+
+ndsn-ex321_6.htm
+
+Exhibit 32.1 
+ Certification 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ (Section 1350, Chapter 63 of Title 18, United States Code) 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Section 1350, Chapter 63 of Title 18, United States Code), I, Michael F. Hilton, President and Chief Executive Officer of Nordson Corporation, an Ohio corporation (the   Company  ), do hereby certify that: 
+ 1. The Quarterly Report on Form 10-Q for the quarter ended July 31, 2018 of the Company (the   Form 10-Q  ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+ 2. Information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated:  September 4, 2018  
+
+/s/ Michael F. Hilton  
+
+Michael F. Hilton  
+
+President and Chief Executive Officer  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ndsn-ex322_9.htm
+ EX-32.2
+
+ndsn-ex322_9.htm
+
+Exhibit 32.2 
+ Certification 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ (Section 1350, Chapter 63 of Title 18, United States Code) 
+ Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Section 1350, Chapter 63 of Title 18, United States Code), I, Gregory A. Thaxton, Senior Vice President, Chief Financial Officer of Nordson Corporation, an Ohio corporation (the   Company  ), do hereby certify that: 
+ 1. The Quarterly Report on Form 10-Q for the quarter ended July 31, 2018 of the Company (the   Form 10-Q  ) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and  
+ 2. Information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated:  September 4, 2018  
+
+/s/ Gregory A. Thaxton  
+
+Gregory A. Thaxton  
+
+Executive Vice President, Chief Financial Officer  
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ ndsn-20180731.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ ndsn-20180731.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ ndsn-20180731_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ ndsn-20180731_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ ndsn-20180731_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ ndsn-20180731_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

@@ -1,0 +1,1710 @@
+
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C.  20549 
+
+FORM 10-Q 
+
+(Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended July 29, 2018 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the transition period from ____ to ____  
+
+Commission file no: 1-4121 
+
+DEERE     COMPANY 
+
+(Exact name of registrant as specified in its charter) 
+
+One John Deere Place 
+
+Moline, Illinois 61265 
+
+(Address of principal executive offices) 
+
+Telephone Number:    (309) 765-8000 
+
+Indicate by check mark whether the registrant:  (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+
+Yes      X      No             
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+
+Yes      X      No             
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company,  and  emerging growth company  in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer  
+
+X    
+
+Accelerated filer  
+
+Non-accelerated filer  
+
+(Do not check if a smaller reporting company)  
+
+Smaller reporting company  
+
+Emerging growth company  
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.             
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+
+Yes               No      X    
+
+At July 29, 2018, 321,673,523 shares of common stock, $1 par value, of the registrant were outstanding. 
+
+PART I.  FINANCIAL INFORMATION 
+
+See Condensed Notes to Interim Consolidated Financial Statements. 
+
+2 
+
+See Condensed Notes to Interim Consolidated Financial Statements. 
+
+3 
+
+See Condensed Notes to Interim Consolidated Financial Statements. 
+
+4 
+
+See Condensed Notes to Interim Consolidated Financial Statements. 
+
+5 
+
+See Condensed Notes to Interim Consolidated Financial Statements. 
+
+6 
+
+See Condensed Notes to Interim Consolidated Financial Statements. 
+
+7 
+
+See Condensed Notes to Interim Consolidated Financial Statements. 
+
+8 
+
+Condensed Notes to Interim Consolidated Financial Statements (Unaudited)   
+
+(1)        The information in the notes and related commentary are presented in a format which includes data grouped as follows: 
+
+Equipment Operations       Includes the Company s agriculture and turf operations and construction and forestry operations with financial services reflected on the equity basis. On December 1, 2017, the Company acquired the stock and certain assets of substantially all of the business of Wirtgen Group Holding GmbH (Wirtgen). Wirtgen results are included in the construction and forestry operations (see Note 18). 
+
+Financial Services       Includes primarily the Company s financing operations. 
+
+Consolidated       Represents the consolidation of the equipment operations and financial services. References to "Deere   Company" or "the Company" refer to the entire enterprise. 
+
+The Company uses a 52/53 week fiscal year with quarters ending on the last Sunday in the reporting period. The third quarter ends for fiscal year 2018 and 2017 were July 29, 2018 and July 30, 2017, respectively. Both periods contained 13 weeks.  
+
+(2)        The interim consolidated financial statements of Deere   Company have been prepared by the Company, without audit, pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (SEC). Certain information and footnote disclosures normally included in annual financial statements prepared in accordance with accounting principles generally accepted in the U.S. have been condensed or omitted as permitted by such rules and regulations. All adjustments, consisting of normal recurring adjustments, have been included. Management believes that the disclosures are adequate to present fairly the financial position, results of operations, and cash flows at the dates and for the periods presented. It is suggested that these interim consolidated financial statements be read in conjunction with the consolidated financial statements and the notes thereto appearing in the Company s latest annual report on Form 10-K. Results for interim periods are not necessarily indicative of those to be expected for the fiscal year. 
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the U.S. requires management to make estimates and assumptions that affect the reported amounts and related disclosures. Actual results could differ from those estimates. 
+
+Cash Flow Information 
+
+All cash flows from the changes in trade accounts and notes receivable are classified as operating activities in the statement of consolidated cash flows as these receivables arise from sales to the Company s customers. Cash flows from financing receivables that are related to sales to the Company s customers are also included in operating activities. The remaining financing receivables are related to the financing of equipment sold by independent dealers and are included in investing activities. 
+
+The Company had the following non-cash operating and investing activities that were not included in the statement of consolidated cash flows. The Company transferred inventory to equipment on operating leases of approximately $564 million and $519 million in the first nine months of 2018 and 2017, respectively. The Company also had accounts payable related to purchases of property and equipment of approximately $57 million and $37 million at July 29, 2018 and July 30, 2017, respectively. 
+
+(3)        New accounting standards adopted are as follows: 
+
+In the first quarter of 2018, the Company early adopted Financial Accounting Standards Board (FASB) Accounting Standard Update (ASU) No. 2017-07, Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost, which amends Accounting Standards Codification (ASC) 715, Compensation   Retirement Benefits. This ASU required that employers report only the service cost component of the total defined benefit pension and postretirement benefit cost in the same income statement lines as compensation for the participating employees. The other components of these benefit costs are reported outside of operating profit in the income statement line other operating expenses. The ASU was adopted on a retrospective basis that increased operating profit in the third quarter and first nine months of 2018 by none and $12 million, respectively, and third quarter and first nine months of 2017 by $7 million and $21 million, respectively. The income statement line changes for the third quarter and first nine months of 2017 were cost of sales decreased $17 million and $49 million, research and development expenses increased $2 million and $4 million, selling, administrative and general expenses increased $8 million and   
+
+9 
+
+$24 million, and other operating expenses increased $7 million and $21 million, respectively. In addition, only the service cost component of the benefit costs is eligible for capitalization, which was adopted beginning the first quarter of 2018. 
+
+In the first quarter of 2018, the Company adopted ASU No. 2016-07, Simplifying the Transition to the Equity Method of Accounting, which amends ASC 323, Investments   Equity Method and Joint Ventures, which did not have a material effect on the Company s consolidated financial statements. 
+
+In March 2018, the FASB issued ASU No. 2018-05, Amendments to SEC Paragraphs Pursuant to SEC Staff Accounting Bulletin No. 118, which amends ASC 740, Income Taxes. In December 2017, the U.S. government enacted new tax legislation (tax reform). This ASU incorporates SEC Staff Accounting Bulletin No. 118, which was also issued in December 2017, into the ASC. The ASU provides guidance on when to record and disclose provisional amounts related to tax reform. In addition, the ASU allows for a measurement period up to one year after the enactment date of tax reform to complete the related accounting requirements and was effective when issued. The Company will complete the adjustments related to tax reform within the allowed period. The effects of tax reform on the Company s consolidated financial statements are outlined in Note 8. 
+
+New accounting standards to be adopted are as follows: 
+
+In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers (Topic 606), which supersedes the revenue recognition requirements in ASC 605, Revenue Recognition. This ASU is based on the principle that revenue is recognized to depict the transfer of goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The ASU also requires additional disclosure about the nature, amount, timing, and uncertainty of revenue. The FASB issued several amendments clarifying various aspects of the ASU, including revenue transactions that involve a third party, goods or services that are immaterial in the context of the contract, and licensing arrangements. The Company will adopt the ASU effective the first quarter of fiscal year 2019 using a modified retrospective method. The Company s evaluation of the ASU is largely complete, with the exception of the Wirtgen acquisition (see Note 18). The ASU requires that a gross asset and liability rather than a net liability be recorded for the value of estimated service parts returns and the related refund liability. The gross asset will be recorded in other assets and the gross liability will be recorded in accounts payable and accrued expenses. In addition, certain revenue disclosures will be expanded. At this point of the evaluation, the Company has not identified an item that will have a material effect on the Company s consolidated financial statements. The Company continues to evaluate the ASU s potential effects on the consolidated financial statements. 
+
+In January 2016, the FASB issued ASU No. 2016-01, Recognition and Measurement of Financial Assets and Financial Liabilities, which amends ASC 825-10, Financial Instruments - Overall. This ASU changes the treatment for available-for-sale equity investments by recognizing unrealized fair value changes directly in net income and no longer in Other Comprehensive Income (OCI). The effective date will be the first quarter of fiscal year 2019. Early adoption of the provisions affecting the Company is not permitted. The ASU will be adopted with a cumulative-effect adjustment to the balance sheet in the year of adoption. The Company continues to evaluate the ASU s potential effects on the consolidated financial statements. 
+
+In February 2016, the FASB issued ASU No. 2016-02, Leases (Topic 842), which supersedes ASC 840, Leases. The ASU s primary change is the requirement for lessee entities to recognize a lease liability for payments and a right of use asset during the term of operating lease arrangements. The ASU does not significantly change the lessee s recognition, measurement, and presentation of expenses and cash flows from the previous accounting standard. Lessors  accounting under the ASC is largely unchanged from the previous accounting standard. In July 2018, the FASB issued ASU No. 2018-10, Codification Improvements to Topic 842, Leases. The amendments in the ASU affect specific aspects of the guidance under ASU No. 2016-02 and are not expected to have a material impact on the Company s adoption. The ASU requires that lessees and lessors use a modified retrospective transition approach. In July 2018, the FASB issued ASU No. 2018-11, Targeted Improvements, which amends ASC 842, Leases. This ASU provides for an adoption option that will not require earlier periods to be restated at the adoption date. In addition, this ASU provides an option for lessors, if certain criteria are met, to avoid separating the lease and nonlease components (such as preventative maintenance services) in an agreement. The income is recognized based on the predominant component under either the revenue standard or the leasing standard. The effective date for the ASUs will be the first quarter of fiscal year 2020 with early adoption permitted. The Company is evaluating the potential adoption options and the effects on the consolidated financial statements. 
+
+10 
+
+In June 2016, the FASB issued ASU No. 2016-13, Measurement of Credit Losses on Financial Instruments, which establishes ASC 326, Financial Instruments - Credit Losses. The ASU revises the measurement of credit losses for financial assets measured at amortized cost from an incurred loss methodology to an expected loss methodology. The ASU affects trade receivables, debt securities, net investment in leases, and most other financial assets that represent a right to receive cash. Additional disclosures about significant estimates and credit quality are also required. The effective date will be the first quarter of fiscal year 2021, with early adoption permitted beginning in fiscal year 2020. The ASU will be adopted using a modified-retrospective approach. The Company is evaluating the potential effects on the consolidated financial statements. 
+
+In August 2016, the FASB issued ASU No. 2016-15, Classification of Certain Cash Receipts and Cash Payments, which amends ASC 230, Statement of Cash Flows. This ASU provides guidance on the statement of cash flows presentation of certain transactions where diversity in practice exists. The effective date will be the first quarter of fiscal year 2019, with early adoption permitted. The ASU will be adopted using a retrospective transition approach. The adoption will not have a material effect on the Company s consolidated financial statements. 
+
+In October 2016, the FASB issued ASU No. 2016-16, Intra-Entity Transfers of Assets Other Than Inventory, which amends ASC 740, Income Taxes. This ASU requires that the income tax consequences of an intra-entity asset transfer other than inventory are recognized at the time of the transfer. The effective date will be the first quarter of fiscal year 2019. The ASU will be adopted using a modified-retrospective transition approach. The adoption will not have a material effect on the Company s consolidated financial statements. 
+
+In November 2016, the FASB issued ASU No. 2016-18, Restricted Cash, which amends ASC 230, Statement of Cash Flows. This ASU requires that a statement of cash flows explain the change during the reporting period in the total of cash, cash equivalents, and restricted cash or restricted cash equivalents. The effective date will be the first quarter of fiscal year 2019, with early adoption permitted, and will be adopted using a retrospective transition approach. The adoption will not have a material effect on the Company s consolidated financial statements. 
+
+In January 2017, the FASB issued ASU No. 2017-01, Clarifying the Definition of a Business, which amends ASC 805, Business Combinations. This ASU provides further guidance on the definition of a business to determine whether transactions should be accounted for as acquisitions of assets or businesses. The effective date will be the first quarter of fiscal year 2019, with early adoption permitted in certain cases. The ASU will be adopted on a prospective basis and will not have a material effect on the Company s consolidated financial statements. 
+
+In March 2017, the FASB issued ASU No. 2017-08, Premium Amortization on Purchased Callable Debt Securities, which amends ASC 310-20, Receivables   Nonrefundable Fees and Other Costs. This ASU reduces the amortization period for certain callable debt securities held at a premium to the earliest call date. The treatment of securities held at a discount is unchanged. The effective date is the first quarter of fiscal year 2020, with early adoption permitted. The adoption will not have a material effect on the Company s consolidated financial statements. 
+
+In May 2017, the FASB issued ASU No. 2017-09, Scope of Modification Accounting, which amends ASC 718, Compensation   Stock Compensation. This ASU provides guidance about which changes to the terms of a share-based payment award should be accounted for as a modification. A change to an award should be accounted for as a modification unless the fair value of the modified award is the same as the original award, the vesting conditions do not change, and the classification as an equity or liability instrument does not change. The ASU will be adopted on a prospective basis. The effective date is the first quarter of fiscal year 2019, with early adoption permitted. The adoption will not have a material effect on the Company s consolidated financial statements. 
+
+In August 2017, the FASB issued ASU No. 2017-12, Targeted Improvements to Accounting for Hedging Activities, which amends ASC 815, Derivatives and Hedging. The purpose of this ASU is to better align a company s risk management activities and financial reporting for hedging relationships, simplify the hedge accounting requirements, and improve the disclosures of hedging arrangements. The effective date is fiscal year 2020, with early adoption permitted. The Company is evaluating the potential effects on the consolidated financial statements. 
+
+In February 2018, the FASB issued ASU No. 2018-02, Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income, which amends ASC 220, Income Statement   Reporting   
+
+11 
+
+Comprehensive Income. Included in the provisions of tax reform is a reduction of the corporate income tax rate from 35 percent to 21 percent. Accounting principles generally accepted in the U.S. require that deferred taxes are remeasured to the new corporate tax rate in the period legislation is enacted. The deferred tax adjustment is recorded in the provision for income taxes, including items for which the tax effects were originally recorded in OCI. This treatment results in the items in OCI not reflecting the appropriate tax rate, which are referred to as stranded tax effects. This ASU allows a reclassification from accumulated OCI to retained earnings for stranded tax effects resulting from tax reform. The effective date is fiscal year 2020, with early adoption permitted, including in interim periods. The ASU can be adopted at the beginning of an interim or annual period or retrospectively to each period affected by tax reform. The Company is evaluating the potential effects of the ASU on the consolidated financial statements. 
+
+In June 2018, the FASB issued ASU No. 2018-07, Improvements to Nonemployee Share-Based Payment Accounting, which amends ASC 718, Compensation   Stock Compensation. This ASU requires that most of the guidance related to stock compensation granted to employees be followed for non-employees, including the measurement date, valuation approach, and performance conditions. The expense is recognized in the same period as though cash were paid for the good or service. The effective date is the first quarter of fiscal year 2020, with early adoption permitted, including in interim periods. The ASU will be adopted using a modified-retrospective transition approach. The adoption will not have a material effect on the consolidated financial statements. 
+
+In August 2018, the FASB issued ASU No. 2018-13, Disclosure Framework   Changes to the Disclosure Requirements for Fair Value Measurement, which amends ASC 820, Fair Value Measurement. This ASU modifies the disclosure requirements for fair value measurements by removing, modifying, or adding certain disclosures. The effective date is the first quarter of fiscal year 2021, with early adoption permitted for the removed disclosures and delayed adoption until fiscal year 2021 permitted for the new disclosures. The removed and modified disclosures will be adopted on a retrospective basis and the new disclosures will be adopted on a prospective basis. The adoption will not have a material effect on the Company s consolidated financial statements. 
+
+In August 2018, the FASB issued ASU No. 2018-14, Disclosure Framework   Changes to the Disclosure Requirements for Defined Benefit Plans, which amends ASC 715-20, Compensation   Retirement Benefits   Defined Benefit Plans   General. This ASU modifies the disclosure requirements for employers that sponsor defined benefit pension or other postretirement plans by removing and adding certain disclosures for these plans. The eliminated disclosures include (a) the amounts in accumulated OCI expected to be recognized in net periodic benefit costs over the next fiscal year and (b) the effects of a one-percentage-point change in assumed health care cost trend rates on the net periodic benefit costs and the benefit obligation for postretirement health care benefits. The new disclosures include the interest crediting rates for cash balance plans, and an explanation of significant gains and losses related to changes in benefit obligations. The effective date is fiscal year 2021, with early adoption permitted. The adoption will not have a material effect on the Company s consolidated financial statements.  
+
+12 
+
+(4)        The after-tax changes in accumulated other comprehensive income (loss) in millions of dollars follow: 
+
+13 
+
+Following are amounts recorded in and reclassifications out of other comprehensive income (loss), and the income tax effects, in millions of dollars: 
+
+Before  
+
+Tax  
+
+After  
+
+Tax  
+
+(Expense)  
+
+Tax  
+
+Three Months Ended July 29, 2018  
+
+Amount  
+
+Credit  
+
+Amount  
+
+Cumulative translation adjustment  
+
+$  
+
+(422)
+
+$  
+
+1
+
+$  
+
+(421)
+
+Unrealized gain (loss) on derivatives:  
+
+Unrealized hedging gain (loss)  
+
+1
+
+1
+
+Reclassification of realized (gain) loss to:  
+
+Interest rate contracts   Interest expense  
+
+(2)
+
+(2)
+
+Net unrealized gain (loss) on derivatives  
+
+(1)
+
+(1)
+
+Unrealized gain (loss) on investments:  
+
+Unrealized holding gain (loss)  
+
+2
+
+(1)
+
+1
+
+Reclassification of realized (gain) loss   Other income  
+
+Net unrealized gain (loss) on investments  
+
+2
+
+(1)
+
+1
+
+Retirement benefits adjustment:  
+
+Pensions  
+
+Net actuarial gain (loss)  
+
+Reclassification through amortization of actuarial (gain) loss and prior service (credit) cost to other operating expenses: *  
+
+Actuarial (gain) loss  
+
+53   
+
+(14)
+
+39   
+
+Prior service (credit) cost  
+
+3
+
+(1)
+
+2
+
+Settlements/curtailments  
+
+1
+
+1
+
+Health care and life insurance  
+
+Net actuarial gain (loss)  
+
+Reclassification through amortization of actuarial (gain) loss and prior service (credit) cost to other operating expenses: *  
+
+Actuarial (gain) loss  
+
+16   
+
+(4)
+
+12   
+
+Prior service (credit) cost  
+
+(19)
+
+5
+
+(14)
+
+Net unrealized gain (loss) on retirement benefits adjustments  
+
+54   
+
+(14)
+
+40   
+
+Total other comprehensive income (loss)  
+
+$  
+
+(367)
+
+$  
+
+(14)
+
+$  
+
+(381)
+
+*     These accumulated other comprehensive income amounts are components of net periodic pension and postretirement costs. See Note 7 for additional detail. 
+
+14 
+
+Before  
+
+Tax  
+
+After  
+
+Tax  
+
+(Expense)  
+
+Tax  
+
+Nine Months Ended July 29, 2018  
+
+Amount  
+
+Credit  
+
+Amount  
+
+Cumulative translation adjustment  
+
+$  
+
+(196)
+
+$  
+
+(196)
+
+Unrealized gain (loss) on derivatives:  
+
+Unrealized hedging gain (loss)  
+
+16   
+
+$  
+
+(4)
+
+12   
+
+Reclassification of realized (gain) loss to:  
+
+Interest rate contracts   Interest expense  
+
+(3)
+
+1
+
+(2)
+
+Net unrealized gain (loss) on derivatives  
+
+13   
+
+(3)
+
+10   
+
+Unrealized gain (loss) on investments:  
+
+Unrealized holding gain (loss)  
+
+(9)
+
+2
+
+(7)
+
+Reclassification of realized (gain) loss   Other income  
+
+(1)
+
+(1)
+
+Net unrealized gain (loss) on investments  
+
+(10)
+
+2
+
+(8)
+
+Retirement benefits adjustment:  
+
+Pensions  
+
+Net actuarial gain (loss)  
+
+46   
+
+(11)
+
+35   
+
+Reclassification through amortization of actuarial (gain) loss and prior service (credit) cost to other operating expenses: *  
+
+Actuarial (gain) loss  
+
+168   
+
+(48)
+
+120   
+
+Prior service (credit) cost  
+
+9
+
+(3)
+
+6
+
+Settlements/curtailments  
+
+7
+
+(2)
+
+5
+
+Health care and life insurance  
+
+Net actuarial gain (loss)  
+
+60   
+
+(14)
+
+46   
+
+Reclassification through amortization of actuarial (gain) loss and prior service (credit) cost to other operating expenses: *  
+
+Actuarial (gain) loss  
+
+47   
+
+(13)
+
+34   
+
+Prior service (credit) cost  
+
+(57)
+
+16   
+
+(41)
+
+Net unrealized gain (loss) on retirement benefits adjustments  
+
+280   
+
+(75)
+
+205   
+
+Total other comprehensive income (loss)  
+
+$  
+
+87   
+
+$  
+
+(76)
+
+$  
+
+11   
+
+*     These accumulated other comprehensive income amounts are components of net periodic pension and postretirement costs. See Note 7 for additional detail. 
+
+15 
+
+Before  
+
+Tax  
+
+After  
+
+Tax  
+
+(Expense)  
+
+Tax  
+
+Three Months Ended July 30, 2017  
+
+Amount  
+
+Credit  
+
+Amount  
+
+Cumulative translation adjustment  
+
+$  
+
+328   
+
+$  
+
+(2)
+
+$  
+
+326   
+
+Unrealized gain (loss) on derivatives:  
+
+Unrealized hedging gain (loss)  
+
+(2)
+
+1
+
+(1)
+
+Reclassification of realized (gain) loss to:  
+
+Interest rate contracts   Interest expense  
+
+1
+
+1
+
+Foreign exchange contracts   Other operating expenses  
+
+Net unrealized gain (loss) on derivatives  
+
+(1)
+
+1
+
+Unrealized gain (loss) on investments:  
+
+Unrealized holding gain (loss)  
+
+11   
+
+(4)
+
+7
+
+Reclassification of realized (gain) loss   Other income  
+
+(96)
+
+35   
+
+(61)
+
+Net unrealized gain (loss) on investments  
+
+(85)
+
+31   
+
+(54)
+
+Retirement benefits adjustment:  
+
+Pensions  
+
+Net actuarial gain (loss)  
+
+(1)
+
+(1)
+
+Reclassification through amortization of actuarial (gain) loss and prior service (credit) cost to other operating expenses: *  
+
+Actuarial (gain) loss  
+
+61
+
+(22)
+
+39
+
+Prior service (credit) cost  
+
+3
+
+(1)
+
+2
+
+Settlements/curtailments  
+
+1
+
+(1)
+
+Health care and life insurance  
+
+Net actuarial gain (loss)  
+
+Reclassification through amortization of actuarial (gain) loss and prior service (credit) cost to other operating expenses: *  
+
+Actuarial (gain) loss  
+
+25   
+
+(9)
+
+16   
+
+Prior service (credit) cost  
+
+(20)
+
+8
+
+(12)
+
+Net unrealized gain (loss) on retirement benefits adjustments  
+
+69   
+
+(25)
+
+44   
+
+Total other comprehensive income (loss)  
+
+$  
+
+311   
+
+$  
+
+5
+
+$  
+
+316   
+
+*     These accumulated other comprehensive income amounts are components of net periodic pension and postretirement costs. See Note 7 for additional detail. 
+
+In the third quarter of 2018 and 2017, the noncontrolling interests  comprehensive income was $.4 million and $.7 million, respectively, which consisted of net income of $1.0 million and $.5 million and cumulative translation adjustments of $(.6) million and $.2 million, respectively. 
+
+16 
+
+Before  
+
+Tax  
+
+After  
+
+Tax  
+
+(Expense)  
+
+Tax  
+
+Nine Months Ended July 30, 2017  
+
+Amount  
+
+Credit  
+
+Amount  
+
+Cumulative translation adjustment  
+
+$  
+
+327   
+
+$  
+
+(2)
+
+$  
+
+325   
+
+Unrealized gain (loss) on derivatives:  
+
+Unrealized hedging gain (loss)  
+
+(2)
+
+1
+
+(1)
+
+Reclassification of realized (gain) loss to:  
+
+Interest rate contracts   Interest expense  
+
+2
+
+(1)
+
+1
+
+Foreign exchange contracts   Other operating expenses  
+
+2
+
+(1)
+
+1
+
+Net unrealized gain (loss) on derivatives  
+
+2
+
+(1)
+
+1
+
+Unrealized gain (loss) on investments:  
+
+Unrealized holding gain (loss)  
+
+273   
+
+(101)
+
+172   
+
+Reclassification of realized (gain) loss   Other income  
+
+(274)
+
+101   
+
+(173)
+
+Net unrealized gain (loss) on investments  
+
+(1)
+
+(1)
+
+Retirement benefits adjustment:  
+
+Pensions  
+
+Net actuarial gain (loss)  
+
+(10)
+
+3
+
+(7)
+
+Reclassification through amortization of actuarial (gain) loss and prior service (credit) cost to other operating expenses: *  
+
+Actuarial (gain) loss  
+
+182   
+
+(66)
+
+116   
+
+Prior service (credit) cost  
+
+9
+
+(3)
+
+6
+
+Settlements/curtailments  
+
+2
+
+(1)
+
+1
+
+Health care and life insurance  
+
+Net actuarial gain (loss)  
+
+(10)
+
+4
+
+(6)
+
+Reclassification through amortization of actuarial (gain) loss and prior service (credit) cost to other operating expenses: *  
+
+Actuarial (gain) loss  
+
+74   
+
+(27)
+
+47   
+
+Prior service (credit) cost  
+
+(58)
+
+22   
+
+(36)
+
+Net unrealized gain (loss) on retirement benefits adjustments  
+
+189   
+
+(68)
+
+121   
+
+Total other comprehensive income (loss)  
+
+$  
+
+517   
+
+$  
+
+(71)
+
+$  
+
+446   
+
+*     These accumulated other comprehensive income amounts are included in net periodic pension and postretirement costs. See Note 7 for additional detail. 
+
+In the first nine months of 2018 and 2017, the noncontrolling interests  comprehensive income (loss) was $2.4 million and $(.1) million, respectively, which consisted of net income (loss) of $2.6 million and $(.3) million and cumulative translation adjustments of $(.2) million and $.2 million, respectively. 
+
+(5)        Dividends declared and paid on a per share basis were as follows: 
+
+17 
+
+(6)        A  reconciliation of basic and diluted net income per share attributable to Deere   Company follows in millions, except per share amounts: 
+
+During the third quarter and first nine months of 2018, .5 million shares and .4 million shares, respectively, were excluded from the computation because the incremental shares would have been antidilutive. During the third quarter and first nine months of 2017, none and .3 million shares, respectively, were excluded in the above per share computation. 
+
+(7)        The Company has several defined benefit pension plans and defined postretirement health care and life insurance plans covering many of its U.S. employees and employees in certain foreign countries. 
+
+The worldwide components of net periodic pension cost consisted of the following in millions of dollars: 
+
+The worldwide components of net periodic postretirement benefits cost (health care and life insurance) consisted of the following in millions of dollars: 
+
+The components of net periodic pension and postretirement benefits cost excluding the service cost component are included in the line item other operating expenses in the Statement of Consolidated Income.  
+
+In the second quarter, a committee of the Company s Board of Directors approved a voluntary $1,000 million contribution to its U.S. pension and other postretirement benefit plans. During the first nine months of 2018, the Company contributed approximately $922 million to its pension plans and $168 million to its other postretirement benefit plans. The contributions included voluntary contributions of $870 million to a U.S. pension plan and $130 million to a U.S. other postretirement benefit plan, which will increase plan assets. The Company presently anticipates contributing an additional $16 million to its pension plans and $2   
+
+18 
+
+million to its other postretirement benefit plans during the remainder of fiscal year 2018. The remaining anticipated contributions and those contributions exceeding the voluntary amounts primarily include direct payments from Company funds to plan participants. 
+
+In the fourth quarter, a committee of the Company s Board of Directors approved an additional, voluntary contribution to a U.S. other postretirement benefit plan to increase plan assets. The amount of this potential contribution will be based on actual and forecasted operating cash flows, which will be determined in October 2018. The contribution, if any, will be made in October 2018. 
+
+(8)        On December 22, 2017, the U.S. government enacted tax reform. The primary provisions of tax reform impacting the Company in fiscal year 2018 are a reduction to the corporate income tax rate from 35 percent to 21 percent and a transition from a worldwide corporate tax system to a territorial tax system. The reduction in the corporate income tax rate requires the Company to remeasure its net deferred tax assets to the new corporate tax rate and the transition to a territorial tax system requires payment of a one-time tax on deemed repatriation of undistributed and previously untaxed non-U.S. earnings. The Company currently plans to pay the deemed repatriation tax over an eight year period, as allowed by tax reform.  
+
+In December 2017, the SEC issued a staff accounting bulletin that allows for a measurement period up to one year after the enactment date of tax reform to complete the related accounting requirements. The provisional income tax expense (benefit) and measurement period adjustments recorded in the third quarter and first nine months of 2018 in millions of dollars follow: 
+
+The third quarter measurement period benefit on the net deferred tax assets primarily resulted from refining the net deferred tax asset position with the completion of the fiscal year 2017 U.S. income tax return and changing tax accounting methods that affected the timing of certain U.S. tax deductions. The provision for income taxes was also affected by other tax reform items, primarily the lower corporate income tax rate on current year income.  
+
+The 21 percent corporate income tax rate is effective January 1, 2018. Based on the Company s October fiscal year end, the U.S. statutory income tax rate for fiscal year 2018 is approximately 23.3 percent. 
+
+The first nine months of 2018 tax expense is provisional as outlined below and may change during the remaining measurement period. The Company completed a preliminary assessment of earnings that could be repatriated based on reinvestment needs of non-U.S. operations and earnings available for repatriation. The estimated withholding tax that would be incurred from the repatriation of those earnings is included in the first nine months of 2018 provisional income tax expense. The Company continues to analyze the provisions of tax reform addressing the net deferred tax asset remeasurement and the deemed earnings repatriation tax, including the recently issued proposed regulations. In addition, the Company is evaluating actions such as repatriating additional non-U.S. earnings. The Company also continues to undergo income tax audits and monitor potential legislative action and regulatory interpretations related to tax reform.  
+
+Based on the effective date of certain provisions, the Company will be subject to additional requirements of tax reform beginning in fiscal year 2019. Those provisions include a tax on global intangible low-taxed income (GILTI), a tax determined by base erosion and anti-abuse tax benefits (BEAT) from certain payments between a U.S. corporation and foreign subsidiaries, a limitation of certain executive compensation, a deduction for foreign derived intangible income (FDII), and interest expense limitations. The Company has not completed its analysis of those provisions and the estimated effects. The Company also has not determined its accounting policy to treat the taxes due on GILTI as a period cost or include them in the determination of deferred taxes. 
+
+19 
+
+The Company s unrecognized tax benefits at July 29, 2018 were $325 million, compared to $221 million at October 29, 2017. The increase is primarily due to positions related to liabilities assumed in acquisitions, transfer pricing, and certain tax accounting methods. These positions remain under review. The liability at July 29, 2018, October 29, 2017, and July 30, 2017 consisted of approximately $137 million, $86 million, and $83 million, respectively, which would affect the effective tax rate if the tax benefits were recognized. The remaining liability was related to tax positions for which there are offsetting tax receivables, or the uncertainty was only related to timing. Based on the ongoing review of tax accounting methods affecting the timing of certain U.S. tax deductions, the Company believes a reduction of unrecognized tax benefits of approximately $38 million, with a positive impact on the effective tax rate of approximately $13 million, in the next 12 months is reasonably possible. 
+
+(9)        Worldwide net sales and revenues, operating profit, and identifiable assets by segment in millions of dollars follow: 
+
+*     Operating profit is income from continuing operations before corporate expenses, certain external interest expense, certain foreign exchange gains and losses, and income taxes. Operating profit of the financial services segment includes the effect of interest expense and foreign exchange gains and losses. 
+
+**     Reconciling items are primarily corporate expenses, certain external interest expense, certain foreign exchange gains and losses, pension and postretirement benefit costs excluding the service cost component, and net income attributable to noncontrolling interests. 
+
+20 
+
+(10)      Past due balances of financing receivables still accruing finance income represent the total balance held (principal plus accrued interest) with any payment amounts 30 days or more past the contractual payment due date. Non-performing financing receivables represent loans for which the Company has ceased accruing finance income. These receivables are generally 120 days delinquent and the estimated uncollectible amount, after charging the dealer s withholding account, if any, has been written off to the allowance for credit losses. Finance income for non-performing receivables is recognized on a cash basis. Accrual of finance income is generally resumed when the receivable becomes contractually current and collections are reasonably assured. 
+
+An age analysis of past due financing receivables that are still accruing interest and non-performing financing receivables in millions of dollars follows: 
+
+21 
+
+22 
+
+An analysis of the allowance for credit losses and investment in financing receivables in millions of dollars during the periods follows: 
+
+*     Individual allowances were not significant. 
+
+**     Remainder is collectively evaluated. 
+
+23 
+
+Financing receivables are considered impaired when it is probable the Company will be unable to collect all amounts due according to the contractual terms. Receivables reviewed for impairment generally include those that are either past due, or have provided bankruptcy notification, or require significant collection efforts. Receivables that are impaired are generally classified as non-performing. 
+
+An analysis of the impaired financing receivables in millions of dollars follows: 
+
+*      Finance income recognized was not material. 
+
+**     Primarily retail notes. 
+
+***      Primarily retail notes and wholesale receivables. 
+
+A troubled debt restructuring is generally the modification of debt in which a creditor grants a concession it would not otherwise consider to a debtor that is experiencing financial difficulties. These modifications may include a reduction of the stated interest rate, an extension of the maturity dates, a reduction of the face amount or maturity amount of the debt, or a reduction of accrued interest. During the first nine months of 2018, the Company identified 410 financing receivable contracts, primarily retail notes, as troubled debt restructurings with aggregate balances of $22 million pre-modification and $22 million post-modification. During the first nine months of 2017, there were 321 financing receivable contracts, primarily retail notes, identified as troubled debt restructurings with aggregate balances of $9 million pre-modification and $8 million post-modification. During these same periods, there were no significant troubled debt restructurings that subsequently defaulted and were written off. At July 29, 2018, the Company had commitments to lend approximately $7 million to borrowers whose accounts were modified in troubled debt restructurings. 
+
+24 
+
+(11)      Securitization of financing receivables: 
+
+The Company, as a part of its overall funding strategy, periodically transfers certain financing receivables (retail notes) into variable interest entities (VIEs) that are special purpose entities (SPEs), or non-VIE banking operations, as part of its asset-backed securities programs (securitizations). The structure of these transactions is such that the transfer of the retail notes did not meet the accounting criteria for sales of receivables, and is, therefore, accounted for as a secured borrowing. SPEs utilized in securitizations of retail notes differ from other entities included in the Company s consolidated statements because the assets they hold are legally isolated. Use of the assets held by the SPEs or the non-VIEs is restricted by terms of the documents governing the securitization transactions. 
+
+In these securitizations, the retail notes are transferred to certain SPEs or to non-VIE banking operations, which in turn issue debt to investors. The debt securities issued to the third party investors resulted in secured borrowings, which are recorded as  Short-term securitization borrowings  on the balance sheet. The securitized retail notes are recorded as  Financing receivables securitized   net  on the balance sheet. The total restricted assets on the consolidated balance sheet related to these securitizations include the financing receivables securitized less an allowance for credit losses, and other assets primarily representing restricted cash. For those securitizations in which retail notes are transferred into SPEs, the SPEs supporting the secured borrowings are consolidated unless the Company does not have both the power to direct the activities that most significantly impact the SPEs  economic performance and the obligation to absorb losses or the right to receive benefits that could potentially be significant to the SPEs. No additional support to these SPEs beyond what was previously contractually required has been provided during the reporting periods. 
+
+In certain securitizations, the Company consolidates the SPEs since it has both the power to direct the activities that most significantly impact the SPEs  economic performance through its role as servicer of all the receivables held by the SPEs and the obligation through variable interests in the SPEs to absorb losses or receive benefits that could potentially be significant to the SPEs. The restricted assets (retail notes securitized, allowance for credit losses, and other assets) of the consolidated SPEs totaled $2,971 million, $2,631 million, and $3,139 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. The liabilities (short-term securitization borrowings and accrued interest) of these SPEs totaled $2,860 million, $2,571 million, and $3,018 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. The credit holders of these SPEs do not have legal recourse to the Company s general credit. 
+
+In certain securitizations, the Company transfers retail notes to non-VIE banking operations, which are not consolidated since the Company does not have a controlling interest in the entities. The Company s carrying values and interests related to the securitizations with the unconsolidated non-VIEs were restricted assets (retail notes securitized, allowance for credit losses, and other assets) of $592 million, $478 million, and $557 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. The liabilities (short-term securitization borrowings and accrued interest) were $553 million, $454 million, and $517 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. 
+
+In certain securitizations, the Company transfers retail notes into bank-sponsored, multi-seller, commercial paper conduits, which are SPEs that are not consolidated. The Company does not service a significant portion of the conduits  receivables, and therefore, does not have the power to direct the activities that most significantly impact the conduits  economic performance. These conduits provide a funding source to the Company (as well as other transferors into the conduit) as they fund the retail notes through the issuance of commercial paper. The Company s carrying values and variable interest related to these conduits were restricted assets (retail notes securitized, allowance for credit losses, and other assets) of $1,213 million, $1,155 million, and $1,346 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. The liabilities (short-term securitization borrowings and accrued interest) related to these conduits were $1,118 million, $1,096 million, and $1,249 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. 
+
+25 
+
+The Company s carrying amount of the liabilities to the unconsolidated conduits, compared to the maximum exposure to loss related to these conduits, which would only be incurred in the event of a complete loss on the restricted assets, was as follows in millions of dollars: 
+
+The total assets of unconsolidated VIEs related to securitizations were approximately $36 billion at July 29, 2018. 
+
+The components of consolidated restricted assets related to secured borrowings in securitization transactions follow in millions of dollars: 
+
+The components of consolidated secured borrowings and other liabilities related to securitizations follow in millions of dollars: 
+
+The secured borrowings related to these restricted securitized retail notes are obligations that are payable as the retail notes are liquidated. Repayment of the secured borrowings depends primarily on cash flows generated by the restricted assets. Due to the Company s short-term credit rating, cash collections from these restricted assets are not required to be placed into a segregated collection account until immediately prior to the time payment is required to the secured creditors. At July 29, 2018, the maximum remaining term of all securitized retail notes was approximately six years. 
+
+(12)      Most inventories owned by Deere   Company and its U.S. equipment subsidiaries and certain foreign equipment subsidiaries are valued at cost on the  last-in, first-out  (LIFO) method. If all of the Company s inventories had been valued on a  first-in, first-out  (FIFO) method, estimated inventories by major classification in millions of dollars would have been as follows: 
+
+26 
+
+(13)      The changes in amounts of goodwill by operating segments were as follows in millions of dollars: 
+
+*  See Note 18. 
+
+** See Note 19. 
+
+There were no accumulated impairment losses in the reported periods. 
+
+The components of other intangible assets were as follows in millions of dollars: 
+
+*      Weighted-averages 
+
+**     Accumulated amortization at July 29, 2018, October 29, 2017, and July 30, 2017 for customer lists and relationships totaled $38 million, $17 million, and $16 million and technology, patents, trademarks, and other totaled $118 million, $69 million, and $66 million, respectively. 
+
+The amortization of other intangible assets in the third quarter and the first nine months of 2018 was $27 million and $71 million and for 2017 was $4 million and $13 million, respectively. The estimated amortization expense for the next five years is as follows in millions of dollars: remainder of 2018   $29, 2019   $116, 2020   $103, 2021   $99, and 2022   $98. 
+
+(14)      Commitments and contingencies: 
+
+The Company generally determines its total warranty liability by applying historical claims rate experience to the estimated amount of equipment that has been sold and is still under warranty based on dealer inventories and retail sales. The historical claims rate is primarily determined by a review of five-year claims costs and current quality developments. 
+
+The premiums for extended warranties are primarily recognized in income in proportion to the costs expected to be incurred over the contract period. These unamortized extended warranty premiums (deferred revenue) included in the following table totaled $486 million and $454 million at July 29, 2018 and July 30, 2017, respectively. 
+
+27 
+
+A reconciliation of the changes in the warranty liability and unearned premiums in millions of dollars follows: 
+
+*  See Note 18. 
+
+At July 29, 2018, the Company had approximately $445 million of guarantees issued primarily to banks outside the U.S. and Canada related to third-party receivables for the retail financing of John Deere and Wirtgen equipment. The increase from October 29, 2017 primarily relates to the Wirtgen acquisition. The Company may recover a portion of any required payments incurred under these agreements from repossession of the equipment collateralizing the receivables. At July 29, 2018, the Company had accrued losses of approximately $20 million under these agreements. The maximum remaining term of the receivables guaranteed at July 29, 2018 was approximately seven years. 
+
+At July 29, 2018, the Company had commitments of approximately $397 million for the construction and acquisition of property and equipment. The increase from October 29, 2017 primarily relates to the Wirtgen acquisition. Also, at July 29, 2018, the Company had restricted assets of $101 million, primarily restricted other assets. See Note 11 for additional restricted assets associated with borrowings related to securitizations. 
+
+The Company also had other miscellaneous contingent liabilities totaling approximately $125 million at July 29, 2018. The accrued liability for these contingencies was not material at July 29, 2018. 
+
+The Company is subject to various unresolved legal actions which arise in the normal course of its business, the most prevalent of which relate to product liability (including asbestos-related liability), retail credit, employment, patent, and trademark matters. The Company believes the reasonably possible range of losses for these unresolved legal actions would not have a material effect on its consolidated financial statements. 
+
+(15)      Fa  ir value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. To determine fair value, the Company uses various methods including market and income approaches. The Company utilizes valuation models and techniques that maximize the use of observable inputs. The models are industry-standard models that consider various assumptions including time values and yield curves as well as other economic measures. These valuation techniques are consistently applied. 
+
+Level 1 measurements consist of quoted prices in active markets for identical assets or liabilities. Level 2 measurements include significant other observable inputs such as quoted prices for similar assets or liabilities in active markets; identical assets or liabilities in inactive markets; observable inputs such as interest rates and yield curves; and other market-corroborated inputs. Level 3 measurements include significant unobservable inputs. 
+
+28 
+
+The fair values of financial instruments that do not approximate the carrying values in millions of dollars follow: 
+
+*      Fair value measurements above were Level 3 for all financing receivables, Level 3 for equipment operations short-term securitization borrowings, and Level 2 for all other borrowings. 
+
+**     See Note 18. 
+
+Fair values of the financing receivables that were issued long-term were based on the discounted values of their related cash flows at interest rates currently being offered by the Company for similar financing receivables. The fair values of the remaining financing receivables approximated the carrying amounts. 
+
+Fair values of long-term borrowings and short-term securitization borrowings were based on current market quotes for identical or similar borrowings and credit risk, or on the discounted values of their related cash flows at current market interest rates. Certain long-term borrowings have been swapped to current variable interest rates. The carrying values of these long-term borrowings included adjustments related to fair value hedges. 
+
+29 
+
+Assets and liabilities measured at fair value on a recurring basis in millions of dollars follow: 
+
+*      All measurements above were Level 2 measurements except for Level 1 measurements of the equity fund of $46 million, $48 million, and $45 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively; the fixed income fund of $9 million, $15 million, and $15 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively; and U.S. government debt securities of $39 million, $44 million, and $46 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. In addition, $10 million, $17 million, and $18 million of the international debt securities were Level 3 measurements at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. There were no transfers between Level 1 and Level 2 during the first nine months of 2018 or 2017. 
+
+**     Primarily issued by U.S. government sponsored enterprises. 
+
+***      Excluded from this table were the Company s cash equivalents, which were carried at cost that approximates fair value. The cash equivalents consist primarily of money market funds and time deposits.  
+
+The contractual maturities of debt securities at July 29, 2018 in millions of dollars are shown below. Actual maturities may differ from those scheduled as a result of prepayments by the issuers. Because of the potential for prepayment on mortgage-backed securities, they are not categorized by contractual maturity. 
+
+30 
+
+Fair value, recurring Level 3 measurements from available-for-sale marketable securities in millions of dollars follow: 
+
+Fair value,  nonrecurring Level 1 measurements from impairments in millions of dollars follow:  
+
+* See financing receivables with specific allowances in Note 10. Losses were not significant. 
+
+The following is a description of the valuation methodologies the Company uses to measure certain financial instruments on the balance sheet at fair value: 
+
+Marketable Securities       The portfolio of investments, except for the Level 3 measurement international debt securities, is primarily valued on a market approach (matrix pricing model) in which all significant inputs are observable or can be derived from or corroborated by observable market data such as interest rates, yield curves, volatilities, credit risk, and prepayment speeds. Funds are primarily valued using the fund s net asset value, based on the fair value of the underlying securities. The Level 3 measurement international debt securities are primarily valued using an income approach based on discounted cash flows using yield curves derived from limited, observable market data. 
+
+Derivatives       The Company s derivative financial instruments consist of interest rate swaps and caps, foreign currency futures, forwards and swaps, and cross-currency interest rate swaps. The portfolio is valued based on an income approach (discounted cash flow) using market observable inputs, including swap curves and both forward and spot exchange rates for currencies. 
+
+Financing Receivables   Specific reserve impairments are based on the fair value of the collateral, which is measured using a market approach (appraisal values or realizable values). Inputs include a selection of realizable values. 
+
+Investment in Unconsolidated Affiliates   Other than temporary impairments for investments are measured as the difference between the implied fair value and the carrying value of the investments. The fair value for publicly traded entities is the share price multiplied by the shares owned. 
+
+(16)      It is the Company s policy that derivative transactions are executed only to manage exposures arising in the normal course of business and not for the purpose of creating speculative positions or trading. The Company s financial services operations manage the relationship of the types and amounts of their funding sources to their receivable and lease portfolio in an effort to diminish risk due to interest rate and foreign currency fluctuations, while responding to favorable financing opportunities. The Company also has foreign currency exposures at some of its foreign and domestic operations related to buying, selling, and financing in currencies other than the functional currencies. 
+
+All derivatives are recorded at fair value on the balance sheet. Cash collateral received or paid is not offset against the derivative fair values on the balance sheet. Each derivative is designated as a cash flow hedge, a fair value hedge, or remains undesignated. All designated hedges are formally documented as to the relationship with the hedged item as well as the risk-management strategy. Both at inception and on an ongoing basis the hedging instrument is assessed as to its effectiveness. If and when a derivative is determined not to be highly effective as a hedge, or the underlying hedged transaction is no longer likely to occur, or the hedge designation is removed, or the derivative is terminated, hedge accounting is discontinued.   
+
+31 
+
+Any past or future changes in the derivative s fair value, which will not be effective as an offset to the income effects of the item being hedged, are recognized currently in the income statement. 
+
+Cash flow hedges 
+
+Certain interest rate and cross-currency interest rate contracts (swaps) were designated as hedges of future cash flows from borrowings. The total notional amounts of the receive-variable/pay-fixed interest rate contracts at July 29, 2018, October 29, 2017, and July 30, 2017 were $2,400 million, $1,700 million, and $1,700 million, respectively. The total notional amounts of the cross-currency interest rate contracts at July 29, 2018, October 29, 2017, and July 30, 2017 were $11 million, $22 million, and $32 million, respectively. The effective portions of the fair value gains or losses on these cash flow hedges were recorded in OCI and subsequently reclassified into interest expense or other operating expenses (foreign exchange) in the same periods during which the hedged transactions affected earnings. These amounts offset the effects of interest rate or foreign currency exchange rate changes on the related borrowings. Any ineffective portions of the gains or losses on all cash flow interest rate contracts designated as cash flow hedges were recognized currently in interest expense or other operating expenses (foreign exchange) and were not material during any periods presented. The cash flows from these contracts were recorded in operating activities in the statement of consolidated cash flows. 
+
+The amount of gain recorded in OCI at July 29, 2018 that is expected to be reclassified to interest expense or other operating expenses in the next twelve months if interest rates or exchange rates remain unchanged is approximately $9 million after-tax. These contracts mature in up to 23 months. There were no gains or losses reclassified from OCI to earnings based on the probability that the original forecasted transaction would not occur. 
+
+Fair value hedges 
+
+Certain interest rate contracts (swaps) were designated as fair value hedges of borrowings. The total notional amounts of the receive-fixed/pay-variable interest rate contracts at July 29, 2018, October 29, 2017, and July 30, 2017 were $7,792 million, $8,661 million, and $7,716 million, respectively. The effective portions of the fair value gains or losses on these contracts were offset by fair value gains or losses on the hedged items (fixed-rate borrowings). Any ineffective portions of the gains or losses were recognized currently in interest expense. The ineffective portions were a loss of $1 million and a gain of $1 million during the third quarter of 2018 and 2017, respectively, and a loss of $4 million and a gain of $3 million during the first nine months of 2018 and 2017, respectively. The cash flows from these contracts were recorded in operating activities in the statement of consolidated cash flows. 
+
+The gains (losses) on these contracts and the underlying borrowings recorded in interest expense follow in millions of dollars: 
+
+*         Includes changes in fair values of interest rate contracts excluding     net accrued interest expense of $2 million and net accrued interest income of $16 million during the third quarter of 2018 and 2017, respectively, and net accrued interest income of $15 million and $64 million during the first nine months of 2018 and 2017, respectively. 
+
+**     Includes adjustments for fair values of hedged borrowings excluding accrued interest expense of $60 million and $56 million during the third quarter of 2018 and 2017, respectively, and $187 million and $182 million during the first nine months of 2018 and 2017, respectively. 
+
+Derivatives not designated as hedging instruments 
+
+The Company has certain interest rate contracts (swaps and caps), foreign exchange contracts (futures, forwards, and swaps), and cross-currency interest rate contracts (swaps), which were not formally designated as hedges. These derivatives were held as economic hedges for underlying interest rate or foreign currency exposures, primarily for certain borrowings and purchases or sales of inventory. The total notional amounts of these interest rate swaps at July 29, 2018, October 29, 2017, and July 30, 2017 were $6,519 million, $6,757 million, and $6,715 million, the foreign exchange contracts were $7,752 million, $8,499 million, and   
+
+32 
+
+$5,111 million, and the cross-currency interest rate contracts were $96 million, $66 million, and $80 million, respectively. The increase in the total notional amounts of foreign exchange contracts at October 29, 2017 primarily relates to the Wirtgen acquisition (see Note 18). At July 29, 2018, October 29, 2017, and July 30, 2017, there were also $92 million, $253 million, and $308 million, respectively, of interest rate caps purchased and the same amounts sold at the same capped interest rate to facilitate borrowings through securitization of retail notes. The fair value gains or losses from the interest rate contracts were recognized currently in interest expense and the gains or losses from foreign exchange contracts in cost of sales or other operating expenses, generally offsetting over time the expenses on the exposures being hedged. The cash flows from these non-designated contracts were recorded in operating activities in the statement of consolidated cash flows. 
+
+Fair values of derivative instruments in the condensed consolidated balance sheet in millions of dollars follow: 
+
+33 
+
+The classification and gains (losses) including accrued interest expense related to derivative instruments on the statement of consolidated income consisted of the following in millions of dollars: 
+
+*     Includes interest and foreign exchange gains (losses) from cross-currency interest rate contracts. 
+
+**     The amounts are not significant. 
+
+Counterparty Risk and Collateral 
+
+Derivative instruments are subject to significant concentrations of credit risk to the banking sector. The Company manages individual counterparty exposure by setting limits that consider the credit rating of the counterparty, the credit default swap spread of the counterparty, and other financial commitments and exposures between the Company and the counterparty banks. All interest rate derivatives are transacted under International Swaps and Derivatives Association (ISDA) documentation. Each master agreement permits the net settlement of amounts owed in the event of default or termination. 
+
+Certain of the Company s derivative agreements contain credit support provisions that may require the Company to post collateral based on the size of the net liability positions and credit ratings. The aggregate fair value of all derivatives with credit-risk-related contingent features that were in a net liability position at July 29, 2018, October 29, 2017, and July 30, 2017, was $331 million, $132 million, and $85 million, respectively. In accordance with the limits established in these agreements, the Company posted $34 million in cash collateral at July 29, 2018. No cash collateral was posted or received at either October 29, 2017 or July 30, 2017. 
+
+34 
+
+Derivatives are recorded without offsetting for netting arrangements or collateral. The impact on the derivative assets and liabilities related to netting arrangements and any collateral received or paid in millions of dollars follows: 
+
+(17)      In December 2017, the Company granted stock options to employees for the purchase of 476 thousand shares of common stock at an exercise price of $151.95 per share and a binomial lattice model fair value of $39.11 per share at the grant date. At July 29, 2018, options for 8.9 million shares were outstanding with a weighted-average exercise price of $86.82 per share. The Company also granted 413 thousand restricted stock units to employees and non-employee directors in the first nine months of 2018, of which 328 thousand are subject to service based only conditions and 85 thousand are subject to performance/service based conditions. The weighted-average fair value of the service based only units at the grant date was $151.78 per unit based on the market price of a share of underlying common stock. The weighted-average fair value of the performance/service based units at the grant date was $145.33 per unit based on the market price of a share of underlying common stock excluding dividends. At July 29, 2018, the Company was authorized to grant an additional 9.9 million shares related to stock option and restricted stock awards. 
+
+(18)      On December 1, 2017, the Company acquired Wirtgen, which was a privately-held international company and is the leading manufacturer worldwide of road construction equipment. Headquartered in Germany, Wirtgen has six brands across the road construction sector spanning processing, mixing, paving, compaction, and rehabilitation. Wirtgen sells products in more than 100 countries and had approximately 8,200 employees at the acquisition date. 
+
+The total cash purchase price, net of cash acquired of $197 million, was $5,130 million, a portion of which is held in escrow to secure certain indemnity obligations of Wirtgen. In addition to the cash purchase price, the Company assumed $1,717 million in liabilities, which represented substantially all of Wirtgen s liabilities. The Company financed the acquisition and associated transaction expenses from a combination of cash and new debt financing, which consisted of medium-term notes, including  850 million issued in September 2017. 
+
+35 
+
+The preliminary fair values assigned to the assets and liabilities of the acquired entity in millions of dollars, which is based on information as of the acquisition date and available at July 29, 2018 follows: 
+
+During the third quarter of 2018, measurement period adjustments decreased property and equipment by $7 million and increased goodwill by $7 million. The Company continues to review the fair value of the assets and liabilities acquired, which may be updated during the measurement period.  
+
+The identifiable intangible assets  preliminary fair values in millions of dollars and weighted-average useful lives in years follows:  
+
+Weighted-Average  Useful Lives  
+
+Preliminary  Fair Values  
+
+Customer lists and relationships  
+
+16  
+
+$  
+
+534   
+
+Technology, patents, trademarks, and other  
+
+19  
+
+$  
+
+924   
+
+The goodwill was the result of future cash flows and related fair value of Wirtgen exceeding the fair value of the identified assets and liabilities. The goodwill is not expected to be deductible for income tax purposes and is included in the construction and forestry segment. 
+
+Wirtgen s results were included in the Company s consolidated financial statements beginning on the acquisition date. The results are incorporated using a 30-day lag period and are included in the construction and forestry segment. The net sales and revenues and operating profit included in the Company s statement of consolidated income in the third quarter of 2018 and first nine months of 2018 were $1,155 million and $2,282 million, and $88 million and $37 million, respectively. The Company also recognized $1 million of acquisition related costs in the third quarter of 2018, which were recorded in selling, administrative and general expenses. In the first nine months of 2018, the Company recognized $54 million of acquisition related costs, which were recorded $28 million in selling, administrative and general expenses and $26 million in other operating expenses. 
+
+The unaudited pro forma consolidated net sales and revenues and net income are prepared as if the acquisition closed at the beginning of fiscal year 2017 and follow in millions of dollars: 
+
+36 
+
+The pro forma amounts have been calculated using policies consistent with the Company s accounting policies and include the additional expense from the amortization from the allocated purchase price adjustments. The pro forma results exclude acquisition related costs incurred in both periods and assume the medium-term notes used to fund the acquisition were issued in fiscal year 2016 at the interest rate of the actual notes. In addition, the pro forma results for the third quarter and nine months ended July 30, 2017 include nonrecurring pretax expenses of $22 million and $286 million, for the higher cost basis from the inventory fair value adjustment and $21 million and $63 million for the amortization of identifiable intangible assets. Anticipated synergies or other expected benefits of the acquisition are not included in the pro forma results. As a result, the unaudited pro forma financial information may not be indicative of the results for future operations or the results if the acquisition closed at the beginning of fiscal year 2017. 
+
+In March 2018, the Company acquired King Agro, a privately held manufacturer of carbon fiber technology products with headquarters in Valencia, Spain and a production facility in Campana, Argentina. The total cash purchase price before the final adjustment, net of cash acquired of $3 million, was $41 million, excluding a loan to King Agro of $4 million that was forgiven on the acquisition date. In addition to the cash purchase price, the Company assumed $11 million of liabilities. The preliminary asset and liability fair values are as follows: 
+
+Trade accounts and notes receivable  
+
+$  
+
+2
+
+Other receivables  
+
+2
+
+Inventories  
+
+5
+
+Property and equipment  
+
+6
+
+Goodwill  
+
+28
+
+Other intangible assets  
+
+13   
+
+Total assets  
+
+$  
+
+56   
+
+Short-term borrowings  
+
+$  
+
+2
+
+Accounts payable and accrued expenses  
+
+4
+
+Deferred income taxes  
+
+4
+
+Long-term borrowings  
+
+1  
+
+Total liabilities  
+
+$  
+
+11
+
+The identifiable intangibles were primarily related to trade name and technology, which have a weighted-average amortization period of 10 years. 
+
+The goodwill was the result of future cash flows and related fair values of the entity exceeding the fair value of the identified assets and liabilities, which is not expected to be deducted for tax purposes. The results of King Agro were included in the Company s consolidated financial statements in the agriculture and turf segment since the date of acquisition. The pro forma results of operations as if the acquisition had occurred at the beginning of the prior fiscal year would not differ significantly from the reported results. 
+
+(19)      In   November 2017, the Company sold its construction and forestry retail locations in Florida. At the time of the sale, total assets were $93 million and liabilities were $1 million. The assets consisted of inventory of $61 million, property and equipment   net of $21 million, goodwill of $10 million, and $1 million of other assets. The liabilities consisted of $1 million of accounts payable and accrued expenses. The total proceeds from the sale will be approximately $105 million, with $80 million received in the first nine months of 2018. The remaining sales price is due based on standard payment terms of new equipment sales to independent dealers. A pretax gain of $13 million was recorded in other income in the construction and forestry segment. 
+
+In May 2018, the Company sold seven construction and forestry retail locations in Michigan, Minnesota, and Wisconsin. At the time of the sale, total assets for these locations were $74 million and liabilities were approximately $2 million. The assets consisted of trade accounts and notes receivable   net of $3 million, inventory of $52 million, property and equipment   net of $11 million, and goodwill of $8 million. The liabilities consisted of $2 million of accounts payable and accrued expenses. The total proceeds from the sale will be approximately $84 million, with $53 million received in the third quarter of 2018. The remaining sales price is due based on standard payment terms of new equipment sales to independent dealers. A pretax gain of $12 million was recorded in other income in the construction and forestry segment.  
+
+For the retail location sales, the Company sells equipment, service parts, and provides other services to the purchasers as independent dealers. 
+
+37 
+
+*     Deere   Company with Financial Services on the equity basis. 
+
+The supplemental consolidating data is presented for informational purposes. Transactions between the  Equipment Operations  and  Financial Services  have been eliminated to arrive at the consolidated financial statements. 
+
+38 
+
+*     Deere   Company with Financial Services on the equity basis. 
+
+The supplemental consolidating data is presented for informational purposes. Transactions between the  Equipment Operations  and  Financial Services  have been eliminated to arrive at the consolidated financial statements. 
+
+39 
+
+*     Deere   Company with Financial Services on the equity basis. 
+
+The supplemental consolidating data is presented for informational purposes. Transactions between the "Equipment Operations" and "Financial Services" have been eliminated to arrive at the consolidated financial statements. 
+
+40 
+
+*     Deere   Company with Financial Services on the equity basis. 
+
+The supplemental consolidating data is presented for informational purposes. Transactions between the  Equipment Operations  and  Financial Services  have been eliminated to arrive at the consolidated financial statements. 
+
+41 
+
+Item 2.     MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+RESULTS OF OPERATIONS 
+
+Overview 
+
+Organization 
+
+The Company s equipment operations generate revenues and cash primarily from the sale of equipment to John Deere dealers and distributors. The equipment operations manufacture and distribute a full line of agricultural equipment; a variety of commercial and consumer equipment; and a broad range of equipment for construction, road building, and forestry. The Company s financial services primarily provide credit services, which mainly finance sales and leases of equipment by John Deere dealers and trade receivables purchased from the equipment operations. In addition, financial services offers extended equipment warranties. The information in the following discussion is presented in a format that includes information grouped as consolidated, equipment operations, and financial services. The Company also views its operations as consisting of two geographic areas, the U.S. and Canada, and outside the U.S. and Canada. The Company s operating segments consist of agriculture and turf, construction and forestry, and financial services. 
+
+Trends and Economic Conditions 
+
+Industry sales of agricultural machinery in the U.S. and Canada are forecast to increase approximately 10 percent for 2018. Industry sales in the European Union (EU) 28 nations are forecast to increase approximately 5 to 10 percent. In South America, industry sales of tractors and combines are projected to be about the same or increase about 5 percent. Asian sales are forecast to be in line with 2017. Industry sales of turf and utility equipment in the U.S. and Canada are expected to be about the same or increase 5 percent for 2018. The Company s agriculture and turf segment sales increased 18 percent in the third quarter and 19 percent for the first nine months. These sales are forecast to increase about 15 percent for fiscal year 2018. Construction equipment markets reflect continued improvement in demand driven by higher housing starts in the U.S., increased activity in the oil and gas sector, and economic growth worldwide. In forestry, global industry sales are expected to be up about 10 percent. The Company s construction and forestry segment sales increased 100 percent in the third quarter and 83 percent for the first nine months, with Wirtgen adding 77 percent and 56 percent for the respective periods. These sales are forecast to increase about 81 percent in 2018, with Wirtgen adding 55 percent to the segment s sales. Net income attributable to Deere   Company for the Company s financial services operations is forecast to be approximately $815 million in 2018, which includes a provisional income tax benefit of $232 million associated with tax reform. 
+
+Items of concern include the uncertainty of the effectiveness of governmental actions in respect to monetary and fiscal policies, the impact of sovereign debt, eurozone issues, capital market disruptions, trade agreements, labor supply issues, changes in demand and pricing for used equipment, and geopolitical events. Significant fluctuations in foreign currency exchange rates and volatility in the price of many commodities could also impact the Company s results. 
+
+The Company s third quarter results benefited from favorable market conditions. Agricultural machinery sales in North America and Europe improved, while construction equipment sales increased sharply with significant support from the Wirtgen road building unit. The Company is experiencing cost pressures for raw materials and freight, which are being addressed through a combination of cost management and pricing. Replacement demand for large agricultural equipment is driving sales in spite of global trade tensions and other geopolitical issues. With the global population growth trends and increased urbanization, the Company is confident in its position to continue to deliver value to customers and investors. 
+
+2018 Compared with 2017 
+
+Net income attributable to Deere   Company was $910.3 million, or $2.78 per share, for the third quarter of 2018, compared with $641.8 million, or $1.97 per share, for the same period last year. For the first nine months of 2018, net income attributable to Deere   Company was $1,584 million, or $4.82 per share, compared with $1,649 million, or $5.11 per share, last year. Affecting results for the third quarter and first nine months of 2018 were provisional adjustments to the provision for income taxes due to tax reform. Third quarter results included a favorable net adjustment to provisional income tax expense of $62 million, while the first nine months reflected an unfavorable net provisional income tax expense of $741 million (see Note 8). 
+
+42 
+
+Worldwide net sales and revenues increased 32 percent to $10,308 million for the third quarter this year, compared with $7,808 million a year ago, and increased 29 percent to $27,942 million for the first nine months, compared with $21,720 million last year. Net sales of the worldwide equipment operations increased 36 percent to $9,286 million for the third quarter and 33 percent to $25,007 million for the first nine months, compared with $6,833 million and $18,791 million for the same periods last year. The Company s acquisition of Wirtgen in December 2017 (see Note 18) added 17 percent to net sales for the quarter and 12 percent for the first nine months. Equipment net sales in the U.S. and Canada increased 29 percent for the third quarter and 27 percent year to date, with Wirtgen adding 6 percent and 4 percent for the respective periods. Outside the U.S. and Canada, net sales increased 45 percent for the third quarter and 42 percent for the first nine months, with Wirtgen adding 31 percent and 23 percent for the respective periods. Net sales included an unfavorable currency translation effect of 1 percent for the third quarter and a favorable currency translation effect of 3 percent for the first nine months. 
+
+The Company s equipment operations reported operating profit of $1,087 million for the third quarter of 2018 and $2,822 million for the first nine months, compared with $804 million and $2,179 million, respectively, last year. Wirtgen, whose results are included in these amounts, had operating profit of $88 million for the quarter and $37 million for the first nine months. Excluding Wirtgen results, the improvement for both periods was primarily driven by higher shipment volumes, lower warranty costs, and price realization, partially offset by higher production costs and research and development expenses. The corresponding periods of 2017 included a gain on the sale of SiteOne Landscapes Supply, Inc. (SiteOne). 
+
+Net income of the Company s equipment operations was $751 million for the third quarter and $889 million for the first nine months, compared with $506 million and $1,291 million for the corresponding periods of 2017. In addition to the operating factors previously mentioned, the quarter was favorably affected by $58 million and the nine month period unfavorably affected by $974 million due to provisional income tax adjustments related to tax reform. 
+
+The Company s financial services operations reported net income attributable to Deere   Company of $151.2 million for the third quarter and $680.6 million for the first nine months, compared with $131.2 million and $349.1 million for the same periods last year. Results for both periods benefited from a higher average portfolio and a lower provision for credit losses, partially offset by less favorable financing spreads. Results for the nine month period also improved from lower losses on lease residual values. Additionally, provisional income tax adjustments related to tax reform had favorable effects of $3.6 million for the quarter and $232.4 million for the first nine months. 
+
+Business Segment Results 
+
+Agriculture and Turf.   Segment sales increased 18 percent for the quarter and 19 percent for first nine months due to higher shipment volumes, lower warranty expenses, and price realization. Foreign currency translation had an unfavorable impact on sales for the quarter and a favorable effect for the first nine months. Operating profit was $806 million for the quarter and $2,249 million year to date, compared with respective totals of $693 million and $1,920 million for the same periods last year. The improvement was driven by higher shipment volumes, lower warranty related expenses, and price realization, partially offset by higher production costs and research and development expenses. Prior year periods benefited from gains on the SiteOne sale.     
+
+Construction and Forestry.   Segment sales increased 100 percent for the quarter and 83 percent for nine months, with Wirtgen adding 77 percent and 56 percent for the respective periods. Foreign currency translation did not have a material effect on sales for the quarter but had a favorable impact for the first nine months. Both periods were favorably affected by lower warranty expenses and negatively affected by high sales incentive expenses. Operating profit was $281 million for the quarter and $573 million for the first nine months, compared with $111 million and $259 million last year. Wirtgen contributed operating profit of $88 million for the quarter and $37 million for the first nine months. Excluding Wirtgen, the improvements were primarily driven by higher shipment volumes and lower warranty expenses, partially offset by higher production costs and sales incentive costs.     
+
+Financial Services.   The operating profit of the financial services segment was $196 million for the third quarter and $591 million for the first nine months of 2018, compared with $198 million and $523 million in the same periods last year. Results for both periods benefited from a higher average portfolio and a lower provision for credit losses, partially offset by less favorable financing spreads. Nine month results also were helped by lower losses on lease residual values. Total financial services revenues, including intercompany revenues, increased 14 percent to $919 million in the current quarter from $808 million in the third quarter of 2017 and increased 13 percent to $2,636 million in the first nine months of 2018 compared to $2,331 million last year. The average balance of receivables and leases financed was 8 percent higher in the third quarter and 7 percent higher in the first nine months of 2018, compared with the same periods last year. Interest expense increased 55 percent in the third quarter and 41 percent in the first nine months of 2018 primarily as a result of higher average borrowing      
+
+43 
+
+rates and higher average borrowings. The financial services  consolidated ratio of earnings to fixed charges was 1.82 to 1 for the third quarter this year, compared with 2.31 to 1 in the same period last year. The ratio was 1.90 to 1 for the first nine months this year, compared to 2.16 to 1 for the same period last year.     
+
+The cost of sales to net sales ratios for the third quarter and first nine months of 2018 were 77.0 percent and 76.7 percent, respectively, compared to 76.8 percent and 76.9 percent for the same periods last year. The increase in the third quarter was primarily driven by the unfavorable effects of purchase accounting related to Wirtgen (see Note 18) and higher production costs, partially offset by lower warranty costs and price realization. The improvement in the first nine months was primarily due to lower warranty costs, price realization, and the expenses incurred in 2017 associated with a voluntary employee-separation program, partially offset by the unfavorable effects of purchase accounting related to Wirtgen and higher production costs. 
+
+Other income decreased in the third quarter and first nine months of 2018 primarily due to the gains on the sale of the remaining interest in SiteOne in 2017. Research and development expenses increased in both periods primarily as a result of spending to support new products and the impact of acquisitions. Selling, administrative and general expenses increased in the third quarter primarily due to the Wirtgen acquisition. These expenses increased in the first nine months mainly due to the Wirtgen acquisition and acquisition related costs, and higher incentive compensation expenses, partially offset by voluntary employee-separation program expenses in 2017 and a lower provision for credit losses. Other operating expenses increased in the third quarter primarily due to higher depreciation on operating leases. Other operating expenses increased in the first nine months primarily related to higher depreciation on operating leases and acquisition related costs, partially offset by the favorable effect of currency translation and lower losses on lease residual values. 
+
+Market Conditions and Outlook 
+
+Company equipment sales are projected to increase by about 30 percent for fiscal 2018 and by about 21 percent for the fourth quarter compared with the same periods of 2017. Of these amounts, Wirtgen is expected to add about 12 percent to Deere sales for both the full year and the fourth quarter. Foreign currency rates are not expected to have a material translation effect on equipment sales for the year but are anticipated to have an unfavorable translation effect of about 3 percent for the fourth quarter. Net sales and revenues are expected to increase by about 26 percent for fiscal 2018 with net income attributable to Deere   Company forecast to be about $2,360 million. The Company s net income forecast includes $741 million of provisional income tax expense associated with tax reform, representing discrete items for the remeasurement of the Company s net deferred tax assets to the new U.S. corporate tax rate and a one-time deemed earnings repatriation tax. The current outlook for net income compares with previous guidance of $2,300 million, which included $803 million of provisional income tax expense. 
+
+Agriculture and Turf.   The Company s worldwide sales of agriculture and turf equipment are forecast to increase by about 15 percent for fiscal year 2018, with foreign currency rates not expected to have a material translation effect. Industry sales for agricultural equipment in the U.S. and Canada are forecast to be up about 10 percent for 2018, led by higher demand for large equipment. Despite drought concerns in some areas, full year industry sales in the EU28 member nations are forecast to be up 5 to 10 percent as a result of favorable conditions in the dairy and livestock sectors and positive arable farming conditions in certain key markets. South American industry sales of tractors and combines are projected to be flat to up 5 percent benefiting from strength in Brazil. Asian sales are forecast to be in line with last year. Industry sales of turf and utility equipment in the U.S. and Canada are expected to be flat to up 5 percent for 2018  .     
+
+Construction and Forestry.   The Company s worldwide sales of construction and forestry equipment are anticipated to be up about 81 percent for 2018, with foreign currency rates not expected to have a material translation effect. Wirtgen is expected to add about 55 percent to the segment sales for the year. The outlook reflects continued improvement in demand driven by higher housing starts in the U.S., increased activity in the oil and gas sector, and economic growth worldwide. In forestry, global industry sales are expected to be up about 10 percent mainly as a result of improved demand throughout the world, led by North America.     
+
+Financial Services.   Fiscal year 2018 net income attributable to Deere   Company for the financial services segment is expected to be approximately $815 million, including a provisional income tax benefit of $232.4 million associated with tax reform. Results are expected to benefit from a higher average portfolio, a lower provision for credit losses, and lower losses on lease residual values, partially offset by less favorable financing spreads. The financial services net income outlook provided in the second quarter was $800 million. That forecast included a provisional tax benefit estimate of $229 million for remeasurement of the segment s net deferred tax liability to the new U.S. corporate tax rate and a one-time deemed earnings repatriation tax.     
+
+44 
+
+Safe Harbor Statement 
+
+Safe Harbor Statement under the Private Securities Litigation Reform Act of 1995:   Statements under  Overview,   Market Conditions and Outlook,  and other forward-looking statements herein that relate to future events, expectations, and trends involve factors that are subject to change, and risks and uncertainties that could cause actual results to differ materially. Some of these risks and uncertainties could affect particular lines of business, while others could affect all of the Company s businesses. 
+
+The Company s agricultural equipment business is subject to a number of uncertainties including the factors that affect farmers  confidence and financial condition. These factors include demand for agricultural products, world grain stocks, weather conditions, soil conditions, harvest yields, prices for commodities and livestock, crop and livestock production expenses, availability of transport for crops,   trade restrictions and tariffs, global trade agreements (including the North American Free Trade Agreement and the Trans-Pacific Partnership), the level of farm product exports (including concerns about genetically modified organisms),   the growth and sustainability of non-food uses for some crops (including ethanol and biodiesel production), real estate values, available acreage for farming, the land ownership policies of governments, changes in government farm programs and policies, international reaction to such programs,   changes in and effects of crop insurance programs,   changes in environmental regulations and their impact on farming practices, animal diseases and their effects on poultry, beef and pork consumption and prices, and crop pests and diseases. 
+
+Factors affecting the outlook for the Company s turf and utility equipment include consumer confidence, weather conditions, customer profitability, labor supply, consumer borrowing patterns, consumer purchasing preferences, housing starts and supply, infrastructure investment, spending by municipalities and golf courses, and consumable input costs. 
+
+Consumer spending patterns, real estate and housing prices, the number of housing starts, interest rates and the levels of public and non-residential construction are important to sales and results of the Company s construction and forestry equipment. Prices for pulp, paper, lumber, and structural panels are important to sales of forestry equipment. 
+
+All of the Company s businesses and its results are affected by general economic conditions in the global markets and industries in which the Company operates; customer confidence in general economic conditions; government spending and taxing; foreign currency exchange rates and their volatility, especially fluctuations in the value of the U.S. dollar; interest rates; inflation and deflation rates; changes in weather patterns; the political and social stability of the global markets in which the Company operates; the effects of, or response to, terrorism and security threats; wars and other conflicts; natural disasters; and the spread of major epidemics. 
+
+Significant changes in market liquidity conditions, changes in the Company s credit ratings and any failure to comply with financial covenants in credit agreements could impact access to funding and funding costs, which could reduce the Company s earnings and cash flows. Financial market conditions could also negatively impact customer access to capital for purchases of the Company s products and customer confidence and purchase decisions, borrowing and repayment practices, and the number and size of customer loan delinquencies and defaults. A debt crisis, in Europe or elsewhere, could negatively impact currencies, global financial markets, social and political stability, funding sources and costs, asset and obligation values, customers, suppliers, demand for equipment, and Company operations and results. The Company s investment management activities could be impaired by changes in the equity, bond, and other financial markets, which would negatively affect earnings. 
+
+The anticipated withdrawal of the United Kingdom from the European Union and the perceptions as to the impact of the withdrawal may adversely affect business activity, political stability, and economic conditions in the United Kingdom, the European Union, and elsewhere. The economic conditions and outlook could be further adversely affected by (i) the uncertainty concerning the timing and terms of the exit, (ii) new or modified trading arrangements between the United Kingdom and other countries, (iii) the risk that one or more other European Union countries could come under increasing pressure to leave the European Union, or (iv) the risk that the euro as the single currency of the Eurozone could cease to exist. Any of these developments, or the perception that any of these developments are likely to occur, could affect economic growth or business activity in the United Kingdom or the European Union, and could result in the relocation of businesses, cause business interruptions, lead to economic recession or depression, and impact the stability of the financial markets, availability of credit, currency exchange rates, interest rates, financial institutions, and political, financial, and monetary systems. Any of these developments could affect our businesses, liquidity, results of operations, and financial position. 
+
+Additional factors that could materially affect the Company s operations, access to capital, expenses, and results include changes in, uncertainty surrounding and the impact of governmental trade, banking, monetary and fiscal   
+
+45 
+
+policies, including financial regulatory reform and its effects on the consumer finance industry, derivatives, funding costs and other areas, and governmental programs, policies, tariffs, and sanctions in particular jurisdictions or for the benefit of certain industries or sectors; retaliatory actions to such changes in trade, banking, monetary and fiscal policies; actions by central banks; actions by financial and securities regulators; actions by environmental, health and safety regulatory agencies, including those related to engine emissions, carbon, and other greenhouse gas emissions, noise, and the effects of climate change; changes to GPS radio frequency bands or their permitted uses; changes in labor and immigration regulations; changes to accounting standards; changes in tax rates, estimates, laws and regulations and Company actions related thereto; changes to and compliance with privacy regulations; compliance with U.S. and foreign laws when expanding to new markets and otherwise; and actions by other regulatory bodies. 
+
+Other factors that could materially affect results include production, design, and technological innovations and difficulties, including capacity and supply constraints and prices; the loss of or challenges to intellectual property rights whether through theft, infringement, counterfeiting or otherwise; the availability and prices of strategically sourced materials, components, and whole goods; delays or disruptions in the Company s supply chain or the loss of liquidity by suppliers; disruptions of infrastructures that support communications, operations or distribution; the failure of suppliers or the Company to comply with laws, regulations, and Company policy pertaining to employment, human rights, health, safety, the environment, anti-corruption, privacy and data protection, and other ethical business practices; events that damage the Company s reputation or brand; significant investigations, claims, lawsuits or other legal proceedings; start-up of new plants and products; the success of new product initiatives; changes in customer product preferences and sales mix; gaps or limitations in rural broadband coverage, capacity and speed needed to support technology solutions; oil and energy prices, supplies, and volatility; the availability and cost of freight; actions of competitors in the various industries in which the Company competes, particularly price discounting; dealer practices especially as to levels of new and used field inventories; changes in demand and pricing for used equipment     and resulting impacts on lease residual values; labor relations and contracts; changes in the ability to attract, train, and retain qualified personnel; acquisitions and divestitures of businesses; greater than anticipated transaction costs; the integration of new businesses; the failure or delay in closing or realizing anticipated benefits of acquisitions, joint ventures or divestitures; the implementation of organizational changes; the failure to realize anticipated savings or benefits of cost reduction, productivity, or efficiency efforts; difficulties related to the conversion and implementation of enterprise resource planning systems; security breaches, cybersecurity attacks, technology failures and other disruptions to the Company s and suppliers  information technology infrastructure; changes in Company declared dividends and common stock issuances and repurchases; changes in the level and funding of employee retirement benefits; changes in market values of investment assets, compensation, retirement, discount, and mortality rates which impact retirement benefit costs; and significant changes in health care costs. 
+
+The liquidity and ongoing profitability of John Deere Capital Corporation and other credit subsidiaries depend largely on timely access to capital in order to meet future cash flow requirements, and to fund operations, costs, and purchases of the Company s products. If general economic conditions deteriorate or capital markets become more volatile, funding could be unavailable or insufficient. Additionally, customer confidence levels may result in declines in credit applications and increases in delinquencies and default rates, which could materially impact write-offs and provisions for credit losses. 
+
+The Company s outlook is based upon assumptions relating to the factors described above, which are sometimes based upon estimates and data prepared by government agencies. Such estimates and data are often revised. The Company, except as required by law, undertakes no obligation to update or revise its outlook, whether as a result of new developments or otherwise. Further information concerning the Company and its businesses, including factors that could materially affect the Company s financial results, is included in the Company s other filings with the SEC (including, but not limited to, the factors discussed in Item 1A. Risk Factors of the Company s most recent annual report on Form 10-K and quarterly reports on Form 10-Q). 
+
+Critical Accounting Policies 
+
+See the Company s critical accounting policies discussed in the Management s Discussion and Analysis of the most recent annual report filed on Form 10-K. There have been no material changes to these policies. 
+
+CAPITAL RESOURCES AND LIQUIDITY 
+
+The discussion of capital resources and liquidity has been organized to review separately, where appropriate, the Company s consolidated totals, equipment operations, and financial services operations. 
+
+46 
+
+Consolidated 
+
+Negative cash flows from consolidated operating activities in the first nine months of 2018 were $675 million. This cash outflow resulted primarily from a seasonal increase in trade receivables and inventories, along with an increase in overall demand, and a change in net retirement benefits, partially offset by net income adjusted for non-cash provisions, an increase in accounts payable and accrued expenses, and a change in accrued income taxes payable/receivable. Cash outflows from investing activities were $6,465 million in the first nine months of 2018, primarily due to acquisitions of businesses, net of cash acquired, of $5,171 million (see Note 18), costs of receivables (excluding receivables related to sales) and equipment on operating leases acquired exceeding the collections of receivables and proceeds from sales of equipment on operating leases acquired by $736 million, purchases of property and equipment of $571 million, and purchases of marketable securities exceeding proceeds from maturities and sales by $46 million. Partially offsetting these cash outflows were cash inflows from proceeds from sales of businesses and unconsolidated affiliates, net of cash sold, of $133 million. Positive cash flows from financing activities were $1,656 million in the first nine months of 2018 primarily due to an increase in borrowings of $2,551 million and proceeds from issuance of common stock of $209 million (resulting from the exercise of stock options), partially offset by dividends paid of $583 million and repurchases of common stock of $454 million. Cash and cash equivalents decreased $5,412 million during the first nine months of this year. 
+
+In the second quarter of 2018, a committee of the Company s Board of Directors approved a voluntary $1,000 million contribution to its U.S. pension and postretirement plans in 2018. The Company contributed $50 million of the voluntary amount to its plans in the second quarter and the remaining $950 million during the third quarter. These voluntary contributions resulted in a tax deduction applicable to the 2017 tax year. 
+
+Positive cash flows from consolidated operating activities in the first nine months of 2017 were $729 million. This cash inflow resulted primarily from net income adjusted for non-cash provisions, an increase in accounts payable and accrued expenses, a change in net retirement benefits, and a change in accrued income taxes payable/receivable, which were partially offset by a seasonal increase in inventories and trade receivables, along with an increase in overall demand. Cash outflows from investing activities were $301 million in the first nine months of 2017, primarily due to purchases of property and equipment of $374 million and the cost of receivables (excluding receivables related to sales) and cost of equipment on operating leases exceeding the collections of receivables and the proceeds from sales of equipment on operating leases by $300 million. Partially offsetting these cash outflows were cash inflows from the sales of marketable securities exceeding the purchases of marketable securities by $312 million and the proceeds from the sales of businesses and unconsolidated affiliates, net of cash sold, of $114 million. Positive cash flows from financing activities were $1,656 million in the first nine months of 2017 primarily due to an increase in borrowings of $1,808 million and proceeds from issuance of common stock of $489 million (resulting from the exercise of stock options), partially offset by dividends paid of $571 million. Cash and cash equivalents increased $2,202 million during the first nine months of 2017. 
+
+The Company has access to most global markets at a reasonable cost and expects to have sufficient sources of global funding and liquidity to meet its funding needs. Sources of liquidity for the Company include cash and cash equivalents, marketable securities, funds from operations, the issuance of commercial paper and term debt, the securitization of retail notes (both public and private markets), and committed and uncommitted bank lines of credit. The Company s commercial paper outstanding at July 29, 2018, October 29, 2017, and July 30, 2017 was $4,065 million, $3,439 million, and $3,190 million, respectively, while the total cash and cash equivalents and marketable securities position was $4,412 million, $9,787 million, and $6,964 million, respectively. The decrease of $5,375 million during the first nine months of 2018 is primarily due to the Wirtgen acquisition (see Note 18). The total cash and cash equivalents and marketable securities held by foreign subsidiaries, in which earnings are considered indefinitely reinvested, was $1,623 million, $3,386 million, and $4,720 million at July 29, 2018, October 29, 2017, and July 30, 2017, respectively.  
+
+Lines of Credit  . The Company also has access to bank lines of credit with various banks throughout the world. Worldwide lines of credit totaled $8,289 million at July 29, 2018, $3,477 million of which were unused. For the purpose of computing unused credit lines, commercial paper and short-term bank borrowings, excluding secured borrowings and the current portion of long-term borrowings, were primarily considered to constitute utilization. Included in the total credit lines at July 29, 2018 were 364-day credit facility agreements of $750 million expiring in October 2018 and $1,750 million expiring in April 2019. In addition, total credit lines included long-term credit facility agreements of $2,500 million expiring in April 2021 and $2,500 million expiring in April 2022. These credit agreements require John Deere Capital Corporation (Capital Corporation) to maintain its consolidated ratio of earnings to fixed charges at not less than 1.05 to 1 for each fiscal quarter and the ratio of senior debt, excluding securitization indebtedness, to capital base (total subordinated debt and stockholder s equity excluding accumulated other comprehensive income (loss)) at not more than 11 to 1 at the end of any fiscal quarter. The credit agreements also require the equipment operations to maintain a ratio of total debt to total capital (total debt and stockholders    
+
+47 
+
+equity excluding accumulated other comprehensive income (loss)) of 65 percent or less at the end of each fiscal quarter. Under this provision, the Company s excess equity capacity and retained earnings balance free of restriction at July 29, 2018 was $11,470 million. Alternatively under this provision, the equipment operations had the capacity to incur additional debt of $21,302 million at July 29, 2018. All of these requirements of the credit agreement have been met during the periods included in the financial statements. 
+
+Debt Ratings  . To access public debt capital markets, the Company relies on credit rating agencies to assign short-term and long-term credit ratings to the Company s securities as an indicator of credit quality for fixed income investors. A security rating is not a recommendation by the rating agency to buy, sell or hold Company securities. A credit rating agency may change or withdraw Company ratings based on its assessment of the Company s current and future ability to meet interest and principal repayment obligations. Each agency s rating should be evaluated independently of any other rating. Lower credit ratings generally result in higher borrowing costs, including costs of derivative transactions, and reduced access to debt capital markets. The senior long-term and short-term debt ratings and outlook currently assigned to unsecured Company debt securities by the rating agencies engaged by the Company are as follows: 
+
+Senior  
+
+Long-Term  
+
+Short-Term  
+
+Outlook  
+
+Fitch Ratings  
+
+A  
+
+F1  
+
+Stable  
+
+Moody s Investors Service, Inc.  
+
+A2  
+
+Prime-1  
+
+Stable  
+
+Standard   Poor s  
+
+A  
+
+A-1  
+
+Stable  
+
+Trade accounts and notes receivable primarily arise from sales of goods to independent dealers. Trade receivables increased $2,283 million during the first nine months of 2018, primarily due to a seasonal increase, higher shipment volumes, and the Wirtgen acquisition. These receivables increased $1,818 million, compared to a year ago, primarily due to higher shipment volumes and the Wirtgen acquisition. The ratios of worldwide trade accounts and notes receivable to the last 12 months  net sales were 19 percent at July 29, 2018, compared to 15 percent at October 29, 2017 and 18 percent at July 30, 2017. Agriculture and turf trade receivables increased $843 million and construction and forestry trade receivables increased $975 million, compared to a year ago. The percentage of total worldwide trade receivables outstanding for periods exceeding 12 months was 1 percent at July 29, 2018, 1 percent at October 29, 2017, and 2 percent at July 30, 2017. 
+
+Deere   Company stockholders  equity was $10,356 million at July 29, 2018, compared with $9,557 million at   October 29  , 2017 and $8,572 million at July 30, 2017. The increase of $799 million during the first nine months of 2018 resulted primarily from net income attributable to Deere   Company of $1,584 million, a change in the retirement benefits adjustment of $205 million, and an increase in common stock of $170 million, partially offset by a change in the cumulative translation adjustment of $196 million, an increase in treasury stock of $353 million, and dividends declared of $613 million. 
+
+Equipment Operations 
+
+The Company s equipment businesses are capital intensive and are subject to seasonal variations in financing requirements for inventories and certain receivables from dealers. The equipment operations sell a significant portion of their trade receivables to financial services. To the extent necessary, funds provided from operations are supplemented by external financing sources. 
+
+Cash provided by operating activities of the equipment operations, including intercompany cash flows, in the first nine months of 2018 was $1,606 million. This resulted primarily from cash inflows from net income adjusted for non-cash provisions, an increase in accounts payable and accrued expenses, and a change in accrued income taxes payable/receivable. Partially offsetting these operating cash inflows were cash outflows from a seasonal increase in inventories and trade receivables, along with an increase in overall demand, and a change in net retirement benefits. Cash and cash equivalents decreased $5,366 million in the first nine months of 2018, primarily due to the Wirtgen acquisition of $5,130 million (see Note 18). 
+
+Cash provided by operating activities of the equipment operations, including intercompany cash flows, in the first nine months of 2017 was $1,537 million. This resulted primarily from cash inflows from net income adjusted for non-cash provisions, an increase in accounts payable and accrued expenses, a change in net retirement benefits, and a change in accrued income taxes payable/receivable. Partially offsetting these operating cash inflows were cash outflows from a seasonal increase in inventories and trade receivables, along with an increase in overall demand. Cash and cash equivalents increased $2,198 million in the first nine months of 2017. 
+
+48 
+
+Trade receivables held by the equipment operations increased $710 million during the first nine months and increased $827 million from a year ago. The increase in both periods was due primarily to the Wirtgen acquisition. The equipment operations sell a significant portion of their trade receivables to financial services. See the previous consolidated discussion of trade receivables. 
+
+Inventories increased by $2,335 million during the first nine months, primarily due to the Wirtgen acquisition and a seasonal increase, partially offset by foreign currency translation. Inventories increased by $1,986 million compared to a year ago, primarily due to the Wirtgen acquisition and higher production volumes based on increased demand, partially offset by foreign currency translation. Most of these inventories are valued on the last-in, first-out (LIFO) method. The ratios of inventories on a first-in, first-out (FIFO) basis (see Note 12), which approximates current cost, to the last 12 months  cost of sales were 31 percent at July 29, 2018, compared to 27 percent at October 29, 2017 and 30 percent at July 30, 2017. 
+
+Total interest-bearing debt of the equipment operations was $6,405 million at July 29, 2018, compared with $5,866 million at October 29, 2017 and $4,866 million at July 30, 2017. The ratios of debt to total capital (total interest-bearing debt and stockholders  equity) were 38 percent, 38 percent, and 36 percent at July 29, 2018, October 29, 2017, and July 30, 2017, respectively. 
+
+Property and equipment cash expenditures for the equipment operations in the first nine months of 2018 were $569 million, compared with $373 million in the same period last year. Capital expenditures for the equipment operations in 2018 are estimated to be approximately $925 million. 
+
+On July 31, 2018, the Company announced the signing of a definitive agreement to acquire PLA, a privately-held manufacturer of sprayers, planters, and specialty products for agriculture. PLA is based in Argentina, with manufacturing facilities in Argentina and Brazil. The cash purchase price is expected to be approximately $75 million and will be funded with existing cash. The purchase is subject to regulatory approval as well as customary closing conditions and is expected to close in the fourth quarter of 2018. 
+
+Financial Services 
+
+The financial services operations rely on their ability to raise substantial amounts of funds to finance their receivable and lease portfolios. Their primary sources of funds for this purpose are a combination of commercial paper, term debt, securitization of retail notes, equity capital, and borrowings from Deere   Company. 
+
+During the first nine months of 2018, the cash provided by operating activities and financing activities was used primarily to increase receivables and leases. Cash flows provided by operating activities, including intercompany cash flows, were $1,341 million in the first nine months. Cash used for investing activities totaled $4,078 million in the first nine months of 2018 primarily due to an increase in trade and wholesale receivables of $2,330 million and the cost of receivables (excluding trade and wholesale) and the cost of equipment on operating leases acquired exceeding the collection of these receivables and proceeds from sales of equipment on operating leases by $1,658 million. Cash provided by financing activities totaled $2,708 million, resulting primarily from an increase in external borrowings of $2,390 million and an increase in borrowings from Deere   Company of $797 million, partially offset by dividends paid to Deere   Company of $454 million. Cash and cash equivalents decreased $46 million in the first nine months of 2018. 
+
+During the first nine months of 2017, the cash provided by operating activities was used primarily to increase receivables and leases. Cash flows provided by operating activities, including intercompany cash flows, were $1,384 million in the first nine months of 2017. Cash used for investing activities totaled $2,176 million in the first nine months of 2017 primarily due to the cost of receivables (excluding trade and wholesale) and equipment on operating leases acquired exceeding the collection of these receivables and proceeds from sales of equipment on operating leases by $1,100 million and an increase in trade and wholesale receivables of $1,071 million. Cash provided by financing activities totaled $790 million, resulting primarily from an increase in external borrowings of $1,745 million, partially offset by a decrease in borrowings from Deere   Company of $635 million and dividends paid to Deere   Company of $320 million. Cash and cash equivalents increased $4 million in the first nine months of 2017. 
+
+Receivables and leases held by the financial services operations consist of retail notes originated in connection with retail sales of new and used equipment by dealers of John Deere products, retail notes from non-Deere equipment customers, trade receivables, wholesale notes, revolving charge accounts, credit enhanced international export financing generally involving John Deere products, and financing and operating leases. Total receivables and leases increased $2,600 million during the first nine months of 2018 and increased $2,881 million in the past 12 months. Acquisition volumes of receivables (excluding trade and wholesale) and leases were 11 percent higher in the first nine months of 2018, compared with the same period last year, as volumes of retail notes, revolving charge   
+
+49 
+
+accounts, financing leases, and operating leases were all higher. The amount of total trade receivables and wholesale notes increased compared to both October 29, 2017 and July 30, 2017. Total receivables and leases administered by the financial services operations, which include receivables administered but not owned, amounted to $42,598 million at July 29, 2018, compared with $40,001 million at October 29, 2017 and $39,721 million at July 30, 2017. At July 29, 2018, the unpaid balance of all receivables administered, but not owned, was $7 million, compared with $10 million at October 29, 2017 and $11 million at July 30, 2017. 
+
+Total external interest-bearing debt of the financial services operations was $35,965 million at July 29, 2018, compared with $34,179 million at October 29, 2017 and $32,608 million at July 30, 2017. Total external borrowings have changed generally corresponding with the level of receivable and lease portfolio, the level of cash and cash equivalents, the change in payables owed to Deere   Company, and the change in investment from Deere   Company. The financial services operations  ratio of interest-bearing debt to stockholder s equity was 7.8 to 1 at July 29, 2018, compared with 7.6 to 1 at October 29, 2017 and 7.7 to 1 at July 30, 2017. 
+
+Capital Corporation has a revolving credit agreement to utilize bank conduit facilities to securitize retail notes (see Note 11). At July 29, 2018, this facility had a total capacity, or  financing limit,  of $3,500 million of secured financings at any time. After a two-year revolving period, unless the banks and Capital Corporation agree to renew, Capital Corporation would liquidate the secured borrowings over time as payments on the retail notes are collected. At July 29, 2018, $1,579 million of secured short-term borrowings was outstanding under the agreement. 
+
+In the first nine months of 2018, the financial services operations issued $2,601 million and retired $2,280 million of retail note securitization borrowings. In addition, during the first nine months of 2018, the financial services operations issued $5,580 million and retired $4,254 million of long-term borrowings, which were primarily medium-term notes. 
+
+Dividends 
+
+The Company s Board of Directors at its meeting on August 29, 2018 declared a quarterly dividend of $.69 per share payable November 1, 2018, to stockholders of record on September 28, 2018. 
+
+Item 3.     QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+See the Company s most recent annual report filed on Form 10-K (Part II, Item 7A). There has been no material change in this information. 
+
+Item 4.     CONTROLS AND PROCEDURES 
+
+The Company s principal executive officer and its principal financial officer have concluded that the Company s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act)) were effective as of July 29, 2018, based on the evaluation of these controls and procedures required by Rule 13a-15(b) or 15d-15(b) of the Exchange Act. During the third quarter, there were no changes that have materially affected or are reasonably likely to materially affect the Company s internal control over financial reporting. 
+
+50 
+
+PART II.  OTHER INFORMATION 
+
+Item 1.      Legal Proceedings 
+
+The Company is subject to various unresolved legal actions which arise in the normal course of its business, the most prevalent of which relate to product liability (including asbestos-related liability), retail credit, employment, patent, and trademark matters. Item 103 of the SEC s Regulation S-K requires disclosure of certain environmental matters when a governmental authority is a party to the proceedings and the proceedings involve potential monetary sanctions that the Company reasonably believes could exceed $100,000. The following matters are disclosed solely pursuant to that requirement: (a) on July 6, 2017, after self-reporting to the Iowa Department of Natural Resources, the Company received a Notice of Violation alleging that one Iowa facility location exceeded permitted emission limits. The Company responded and is actively cooperating with the Iowa Department of Natural Resources to revise the permits and resolve the notice; and (b) on March 19, 2018, the Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustent vel in Minas Gerais, Brazil issued a fine of approximately $105,000 at current exchange rates against John Deere Equipamentos do Brasil in connection with an oil spill that occurred after an April 2016 roadway accident involving a Company truck. An administrative defense has been filed to cancel the fine. The Company believes the reasonably possible range of losses for these and other unresolved legal actions would not have a material effect on its financial statements. 
+
+Item 1A.      Risk Factors 
+
+See the Company s most recent annual report filed on Form 10-K (Part I, Item 1A). There has been no material change in this information. The risks described in the annual report on Form 10-K, and the  Safe Harbor Statement  in this report, are not the only risks faced by the Company. Additional risks and uncertainties may also materially affect the Company s business, financial condition or operating results. One should not consider the risk factors to be a complete discussion of risks, uncertainties, and assumptions. 
+
+Item 2.      Unregistered Sales of Equity Securities and Use of Proceeds 
+
+The Company s purchases of its common stock during the third quarter of 2018 were as follows: 
+
+(1) 
+
+During the third quarter of 2018, the Company had a share repurchase plan that was announced in December 2013 to purchase up to $8,000 million of shares of the Company s common stock. The maximum number of shares that may yet be purchased under these plans was based on the end of the third quarter closing share price of $140.80 per share. At the end of the third quarter of 2018, $2,815 million of common stock remained to be purchased under the plans.     
+
+Item 3.      Defaults Upon Senior Securities 
+
+None. 
+
+Item 4.      Mine Safety Disclosures 
+
+Not applicable. 
+
+51 
+
+Item 5.      Other Information 
+
+None. 
+
+Item 6.      Exhibits 
+
+Certain instruments relating to long-term borrowings constituting less than 10% of the registrant s total assets are not filed as exhibits herewith pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K. The registrant will file copies of such instruments upon request of the Commission. 
+
+*     Incorporated by reference. Copies of these exhibits are available from the Company upon request. 
+
+52 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+DEERE   COMPANY  
+
+Date:  
+
+August 30, 2018  
+
+By:  
+
+/s/ R. Kalathur  
+
+R. Kalathur Senior Vice President and Chief Financial Officer  
+
+53 
+
+<EX-12>
+ 2
+ de-20180729ex12045d1e5.htm
+ EX-12
+
+de_Ex12
+
+EXHIBIT 12 
+
+DEERE   COMPANY AND CONSOLIDATED SUBSIDIARIES 
+
+COMPUTATION OF RATIO OF EARNINGS TO FIXED CHARGES 
+
+(In millions of dollars) 
+
+The computation of the ratio of earnings to fixed charges is based on applicable amounts of the Company and its consolidated subsidiaries plus dividends received from unconsolidated affiliates.  Earnings  consist of income before income taxes, the cumulative effect of changes in accounting, discontinued operations, and fixed charges excluding unamortized capitalized interest.  Fixed charges  consist of interest on indebtedness, amortization of debt discount and expense, interest related to uncertain tax positions, an estimated amount of rental expense that is deemed to be representative of the interest factor, and capitalized interest. 
+
+The Company has not issued preferred stock. Therefore, the ratios of earnings to combined fixed charges and preferred stock dividends are the same as the ratios presented above. 
+
+</EX-12>
+
+<EX-31.1>
+ 3
+ de-20180729ex311f1fbf9.htm
+ EX-31.1
+
+de_Ex311
+
+Exhibit 31.1 
+
+CERTIFICATIONS 
+
+I, S. R. Allen, certify that: 
+
+1.  I have reviewed this quarterly report on Form 10-Q of Deere   Company; 
+
+2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3.  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations, and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4.    The   registrant s   other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls   and   procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be   designed   under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.    The   registrant s   other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control   over   financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize, and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date:  
+
+August  30, 2018  
+
+By:  
+
+/s/ S. R. Allen  
+
+S. R. Allen  
+
+Chairman and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ de-20180729ex312a99293.htm
+ EX-31.2
+
+de_Ex312
+
+Exhibit 31.2 
+
+CERTIFICATIONS 
+
+I, R. Kalathur, certify that: 
+
+1.  I have reviewed this quarterly report on Form 10-Q of Deere   Company; 
+
+2.  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3.  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations, and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4.    The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and   procedures   (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under   our   supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5.    The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control   over   financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize, and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date:  
+
+August 30, 2018  
+
+By:  
+
+/s/ R. Kalathur  
+
+R. Kalathur  
+
+Senior Vice President and Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ de-20180729xex32.htm
+ EX-32
+
+de_Ex32
+
+EXHIBIT 32 
+
+STATEMENT PURSUANT TO 
+
+18 U.S.C. SECTION 1350 
+
+AS REQUIRED BY 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of Deere   Company (the  Company ) on Form 10-Q for the period ending July 29, 2018, as filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned hereby certify that to the best of our knowledge: 
+
+1.  The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2.  The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+August 30, 2018  
+
+/s/ S. R. Allen  
+
+Chairman and Chief Executive Officer  
+
+S. R. Allen  
+
+August 30, 2018  
+
+/s/ R. Kalathur  
+
+Senior Vice President and Chief Financial Officer  
+
+R. Kalathur  
+
+A signed original of this written statement required by Section 906 has been provided to Deere   Company and will be retained by Deere   Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32>
+
+<EX-101.INS>
+ 6
+ de-20180729.xml
+ EX-101.INS
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ de-20180729.xsd
+ EX-101.SCH
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ de-20180729_cal.xml
+ EX-101.CAL
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ de-20180729_def.xml
+ EX-101.DEF
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ de-20180729_lab.xml
+ EX-101.LAB
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ de-20180729_pre.xml
+ EX-101.PRE
+
+</EX-101.PRE>
+

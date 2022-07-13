@@ -1,0 +1,1761 @@
+Blueprint 
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+Form 10-Q 
+
+QUARTERLY REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934  
+
+For the quarterly period ended August 31, 2018 
+
+TRANSITION REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934  
+
+Commission file number 333-190690 
+
+EXEO ENTERTAINMENT, INC. 
+
+Indicate
+by check mark whether the issuer (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the past 12 months (or for such shorter period that
+the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes
+    No     
+
+Indicate
+by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405
+of Regulation S-T during the preceding 12 months (or for such
+shorter period that the registrant was required to submit and post
+such files). Yes     No     
+
+Indicate
+by check mark whether the Registrant is a large accelerated filer,
+an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See the definitions of "large accelerated
+filer," "accelerated filer" and "smaller reporting company" in Rule
+12b-2 of the Exchange Act.: 
+
+Large
+accelerated filer 
+
+Accelerated
+filer 
+
+Non-accelerated
+filer 
+
+(Do
+not check if a smaller reporting company) 
+
+Smaller
+reporting company 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Exchange Act).    
+Yes     No     
+
+As of
+the date of filing of this report, there were outstanding
+ 26,697,109 
+shares of the issuer s common stock, par value $0.0001 per
+share. There were also outstanding  19,500 Series A,
+and 246,690, Series B Preferred Shares  of the issuers
+preferred stock, par value $0.0001 per share. 
+
+1 
+
+EXEO ENTERTAINMENT, INC. 
+
+Form 10-Q 
+
+Table of Contents 
+
+Page 
+
+PART I - FINANCIAL INFORMATION 
+
+3 
+
+Item
+1. 
+
+Financial
+Statements 
+
+3 
+
+Balance Sheets 
+
+4 
+
+Statements of
+Operations 
+
+5 
+
+Statements of Cash
+Flows 
+
+6 
+
+Notes to Financial
+Statements 
+
+7 
+
+Item
+2. 
+
+Management's Discussion and
+Analysis of Financial Condition and Results of
+Operations 
+
+11 
+
+Item
+3. 
+
+Quantitative and Qualitative
+Disclosures About Market Risk 
+
+15 
+
+Item
+4. 
+
+Controls and
+Procedures 
+
+15 
+
+PART II - OTHER INFORMATION 
+
+16 
+
+Item
+1. 
+
+Legal
+Proceedings 
+
+16 
+
+Item1A. 
+
+Risk Factors 
+
+16 
+
+Item
+2. 
+
+Unregistered Sales of Equity
+Securities 
+
+16 
+
+Item
+3. 
+
+Defaults Upon Senior
+Securities 
+
+16 
+
+Item
+4. 
+
+Mine Safety
+Disclosures 
+
+16 
+
+Item
+5. 
+
+Other
+Information 
+
+16 
+
+Item
+6. 
+
+Exhibits 
+
+17 
+
+SIGNATURES 
+
+18 
+
+PART I   FINANCIAL INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+The
+accompanying unaudited financial statements have been prepared in
+accordance with the instructions to Form 10-Q and Item Regulation
+S-X, Rule 10-01(c) Interim Financial Statements, and, therefore, do
+not include all information and footnotes necessary for a complete
+presentation of financial position, results of operations, cash
+flows, and stockholders' equity in conformity with generally
+accepted accounting principles. In the opinion of management, all
+adjustments considered necessary for a fair presentation of the
+results of operations and financial position have been included and
+all such adjustments are of a normal recurring nature. Operating
+results for the three and nine months ended August 31, 2018 are not
+necessarily indicative of the results that can be expected for the
+year ending November 30, 2018. 
+
+2 
+
+3 
+
+4 
+
+5 
+
+EXEO ENTERTAINMENT, INC. 
+
+Notes to Financial Statements 
+
+(Unaudited) 
+
+August 31, 2018 
+
+Note A:  BASIS OF
+PRESENTATION  
+
+The
+foregoing unaudited interim financial statements have been prepared
+in accordance with generally accepted accounting principles for
+interim financial information and with the instructions for Form
+10-Q and Regulation S-X as promulgated by the Securities and
+Exchange Commission ( SEC ). Accordingly, these
+financial statements do not include all of the disclosures required
+by generally accepted accounting principles in the United States of
+America for complete financial statements. These unaudited interim
+financial statements should be read in conjunction with the audited
+financial statements and the notes thereto included on Form 10-K
+for the year ended November 30, 2017. In the opinion of management,
+the unaudited interim financial statements furnished herein include
+all adjustments, all of which are of a normal recurring nature,
+necessary for a fair statement of the results for the interim
+period presented. 
+
+The
+preparation of financial statements in accordance with generally
+accepted accounting principles in the United States of America
+requires the use of estimates and assumptions that affect the
+reported amounts of assets and liabilities, disclosure of
+contingent assets and liabilities known to exist as of the date the
+financial statements are published, and the reported amounts of
+revenues and expenses during the reporting period. Uncertainties
+with respect to such estimates and assumption are inherent in the
+preparation of the Company s financial statements;
+accordingly, it is possible that the actual results could differ
+from these estimates and assumptions that could have a material
+effect on the reported amounts of the Company s financial
+position and results of operations. 
+
+Operating
+results for the nine month period ended August 31, 2018 are not
+necessarily indicative of the results that may be expected for the
+year ending November 30, 2018. 
+
+As of
+August 31, 2018, the Company has cumulative losses totaling
+$(8,251,134) and negative working capital of $1,116,968. The
+Company incurred a net loss of $877,011 for the nine months ended
+August 31, 2018. Because of these conditions, the Company will
+require additional working capital to develop business operations.
+The Company intends to raise additional working capital through the
+continued licensing of its technology as well as to generate
+revenues for other services. There are no assurances that the
+Company will be able to achieve the level of revenues adequate to
+generate sufficient cash flow from operations to support the
+Company s working capital requirements. To the extent that
+funds generated are insufficient, the Company will have to raise
+additional working capital. No assurance can be given that
+additional financing will be available, or if available, will be on
+terms acceptable to the Company. If adequate working capital is not
+available, the Company may not continue its
+operations. 
+
+These
+conditions raise substantial doubt about the Company s
+ability to continue as a going concern. The financial statements do
+not include any adjustments relating to the recoverability and
+classification of asset carrying amounts or the amount and
+classification of liabilities that might be necessary should the
+Company be unable to continue as a going concern. 
+
+6 
+
+EXEO ENTERTAINMENT, INC. 
+
+Notes to Financial Statements 
+
+(Unaudited) 
+
+August 31, 2018 
+
+Note B:   SUMMARY OF
+SIGNIFICANT ACCOUNTING POLICIES  
+
+Use of Estimates 
+
+The
+preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect
+the amount of assets and liabilities and disclosures of contingent
+assets and liabilities at the date of the financial statements and
+the reported amounts of revenue and expenses during the reporting
+period. A significant estimate includes the carrying value of the
+Company s patents, fair value of the Company s common
+stock, assumptions used in calculating the value of stock options,
+depreciation and amortization. 
+
+Fair Value of Financial Instruments 
+
+Effective
+January 1, 2008, the Company adopted FASB ASC 820, Fair Value
+Measurements and Disclosures, Pre Codification SFAS No. 157,
+ Fair Value Measurements , which provides a framework
+for measuring fair value under GAAP. Fair value is defined as the
+exchange price that would be received for an asset or paid to
+transfer a liability (an exit price) in the principal or most
+advantageous market for the asset or liability in an orderly
+transaction between market participants on the measurement date.
+The standard also expands disclosures about instruments measured at
+fair value and establishes a fair value hierarchy, which requires
+an entity to maximize the use of observable inputs and minimize the
+use of unobservable inputs when measuring fair value. The standard
+describes three levels of inputs that may be used to measure fair
+value: 
+
+Level 1
+  Quoted prices for identical assets and liabilities in
+active markets; 
+
+Level 2
+  Quoted prices for similar assets and liabilities in active
+markets; quoted prices for identical or similar assets and
+liabilities in markets that are not active; and model-derived
+valuations in which all significant inputs and significant value
+drivers are observable in active markets; and 
+
+Level 3
+  Valuations derived from valuation techniques in which one
+or more significant inputs or significant value drivers are
+unobservable. 
+
+The
+Company designates cash equivalents (consisting of money market
+funds) and investments in securities of publicly traded companies
+as Level 1. The total amount of the Company s investment
+classified as Level 3 is de minimis. 
+
+Fair
+value of financial instruments: The carrying amounts of financial
+instruments, including cash and cash equivalents, short-term
+investments, accounts payable, accrued expenses and notes payables
+approximated fair value as of August 31, 2018 and November 30, 2017
+because of the relative short term nature of these instruments. At
+August 31, 2018 and November 30, 2017, the fair value of the
+Company s debt approximates carrying value. 
+
+Foreign Currency Transactions 
+
+Transaction gains and losses, such as those resulting from the
+settlement of nonfunctional currency receivables or payables,
+including intercompany balances, are included in foreign currency
+gain (loss) in our consolidated statements of earnings.
+Additionally, payable and receivable balances denominated in
+nonfunctional currencies are marked-to-market at month-end, and the
+gain or loss is recognized in our statements of
+operations. 
+
+Cash and Cash Equivalents 
+
+The
+Company considers cash on hand, cash in banks, certificates of
+deposit, time deposits, and U.S. government and other short-term
+securities with maturities of three months or less when purchased
+as cash and cash equivalents. 
+
+Inventory 
+
+Inventories
+are stated at cost, not to exceed fair market value. The cost of
+the Company s inventory $58,869 and $64,137 at August 31,
+2018 and November 30, 2017, respectively has been determined using
+the first-in first-out (FIFO) method. The reduction in current
+costs as compared to LIFO costs of inventory equals zero at August
+31, 2018 and November 30, 2017, respectively. 
+
+7 
+
+EXEO ENTERTAINMENT, INC. 
+
+Notes to Financial Statements 
+
+(Unaudited) 
+
+August 31, 2018 
+
+Note B:   SUMMARY OF
+SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)  
+
+Property and Equipment 
+
+Property
+and equipment are stated at the lower of cost or fair value.
+Depreciation is provided on a straight-line basis over the
+estimated useful lives of the assets, as follows: 
+
+Description 
+
+Estimated Life 
+
+Furniture  
+Equipment 
+
+5
+years 
+
+Vehicles 
+
+5
+years 
+
+The
+estimated useful lives are based on the nature of the assets as
+well as current operating strategy and legal considerations such as
+contractual life. Future events, such as property expansions,
+property developments, new competition, or new regulations, could
+result in a change in the manner in which the Company uses certain
+assets requiring a change in the estimated useful lives of such
+assets. 
+
+Maintenance
+and repairs that neither materially add to the value of the asset
+nor appreciably prolong its life are charged to expense as
+incurred. Gains or losses on disposition of property and equipment
+are included in the statements of operations. There were no
+dispositions during the periods presented. 
+
+Impairment of Long-Lived Assets 
+
+The
+Company evaluates its property and equipment and other long-lived
+assets for impairment in accordance with related accounting
+standards. No impairments were recorded at August 31, 2018. For
+assets to be held and used (including projects under development),
+fixed assets are reviewed for impairment whenever indicators of
+impairment exist. If an indicator of impairment exists, the Company
+first groups its assets with other assets and liabilities at the
+lowest level for which identifiable cash flows are largely
+independent of the cash flows of other assets and liabilities (the
+ asset group ). Secondly, the Company estimates the
+undiscounted future cash flows that are directly associated with
+and expected to arise from the completion, use and eventual
+disposition of such asset group. The Company estimates the
+undiscounted cash flows over the remaining useful life of the
+primary asset within the asset group. If the undiscounted cash
+flows exceed the carrying value, no impairment is indicated. If the
+undiscounted cash flows do not exceed the carrying value, then
+impairment is measured based on fair value compared to carrying
+value, with fair value typically based on a discounted cash flow
+model. 
+
+Revenue Recognition 
+
+The
+Company recognizes revenue when products are fully delivered or
+services have been provided and collection is reasonably assured.
+For the nine months ended August 31, 2018 and 2017, the Company
+recognized $4,518 and $9,487 in revenue, respectively. 
+
+Income Taxes 
+
+Income
+taxes are computed using the asset and liability method. Under the
+asset and liability method, deferred income tax assets and
+liabilities are determined based on the differences between the
+financial reporting and tax bases of assets and liabilities and are
+measured using the currently enacted tax rates and laws. A
+valuation allowance is provided for the amount of deferred tax
+assets that, based on available evidence, are not expected to be
+realized. 
+
+Basic Income (Loss) Per Share 
+
+Basic
+income (loss) per share is calculated by dividing the
+Company s net loss applicable to common shareholders by the
+weighted average number of common shares during the period. Diluted
+earnings per share is calculated by dividing the Company s
+net income available to common shareholders by the diluted weighted
+average number of shares outstanding during the year. The diluted
+weighted average number of shares outstanding is the basic weighted
+number of shares adjusted for any potentially dilutive debt or
+equity. 
+
+8 
+
+EXEO ENTERTAINMENT, INC. 
+
+Notes to Financial Statements 
+
+(Unaudited) 
+
+August 31, 2018 
+
+Note B:   SUMMARY OF
+SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)  
+
+Stock-Based Compensation 
+
+Pursuant
+to ASC Topic 718, the Company recorded the fair value of the stock
+options on a monthly basis over the vesting period as stock-based
+compensation expense. The fair value of the options is calculated
+using the Black-Scholes method as of the date of grant. In fiscal
+year 2012, the Company adopted an incentive stock option plan for
+its employees. In fiscal year 2012 the Company granted stock
+options to three officers of the Company. 
+
+Concentrations of Risk 
+
+The
+Company s bank accounts are deposited in insured
+institutions. The maximum insured by the FDIC per bank account is
+not an issue here since the Company s bank accounts do not
+bear any interest and the FDIC limits far exceed balances on
+deposit. The Company s funds were held in a single account.
+At August 31, 2018, the Company s bank balance did not exceed
+the insured amounts. 
+
+Accounting for Research and Development Costs 
+
+The
+Company records an expense in the current period for all research
+and development costs, which include Hardware Development Costs.
+The Company does not capitalize such amounts. Pursuant to ASC Topic
+730 Research and Development, once we determine that our Extreme
+Gamer video game console is technologically feasible and a working
+model is put into use, the Company will capitalize Software
+Development costs associated with its products. Once this occurs we
+will determine a useful life of our software and apply a reasonable
+economic life of five years or less. At this time, our software
+development costs only relate to the Extreme Gamer and Zaaz
+keyboard hardware. The software development costs cannot be
+separated from the associated hardware development. We do not
+develop stand-alone software for sale to the retail consumers,
+rather we develop software in order to operate the designed
+hardware. The software is designed to be encoded within chips
+inside the hardware. Thus, it has been determined that the current
+software development costs, which are intertwined within the
+hardware development, are to be expensed rather than capitalized
+pursuant to ASC Topic 730. 
+
+This
+conclusion is also based upon our decision to devote further
+research and development costs in the support of our product
+interface to the video game players: Sony PS4  (and other
+products such as Nintendo Switch  and Microsoft Xbox
+One ). 
+
+Liquidity and Going Concern 
+
+The
+Company has incurred an accumulated deficit of ($8,251,134) since
+inception. The Company incurred significant initial research and
+product development costs, including expenditures associated with
+hardware engineering and the design and development of its hardware
+components and prototypes associated with the Zaaz  keyboard,
+the Extreme Gamer, and the Psyko Krypton  surround sound
+gaming headphones. The Company also incurred costs associated with
+its acquisition of property, plant and equipment for its 10,000
+square foot office and warehouse. 
+
+These
+factors create substantial doubt about the Company s ability
+to continue as a going concern. The financial statements do not
+include any adjustments to reflect the possible future effects on
+the recoverability and classification of assets or the amounts and
+classification of liabilities that may result from the possible
+inability of the Company to continue as a going
+concern. 
+
+The
+ability of the Company to continue as a going concern is dependent
+on the Company generating cash from the sale of its common stock or
+obtaining debt financing and attaining future profitable
+operations. 
+
+Management s
+plan includes selling its equity securities and obtaining debt
+financing to fund its capital requirement and ongoing operations;
+however, there can be no assurance the Company will be successful
+in these efforts. 
+
+9 
+
+EXEO ENTERTAINMENT, INC. 
+
+Notes to Financial Statements 
+
+(Unaudited) 
+
+August 31, 2018 
+
+Note B:   SUMMARY OF
+SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)  
+
+Subsequent Events 
+
+In
+accordance with ASC 855-10, the Company has analyzed its operations
+subsequent to August 31, 2018 to the date these financial
+statements were issued, and has determined that it does not have
+any material subsequent events to disclose in these financial
+statements. 
+
+Recent Accounting Pronouncements 
+
+The
+Company does not expect the adoption of recently issued accounting
+pronouncements to have a significant impact on the Company s
+results of operations, financial position or cash
+flow. 
+
+Note C:   COMMON
+STOCK  
+
+The
+Company has 100,000,000 shares at $0.0001 par value common stock
+authorized and 26,697,109 and 26,216,646 shares issued and
+outstanding at August 31, 2018 and November 30, 2017,
+respectively. 
+
+During
+the nine months ended August 31, 2018, the Company sold 626,973
+shares of common stock for cash totaling $445,250. The price per
+share is equal to eighty-five percent of the average daily
+ Ask Price  as quoted on the OTC Electronic Bulletin
+Board Quotation System for the ten trading days immediately
+preceding the Closing. In addition, for each share of common stock
+purchased, each investor shall receive two warrants. Warrant A
+shall provide the investor the right to purchase one additional
+share of the Company s common stock equal to one hundred
+percent of the average daily  Ask Price  as quoted on
+the OTC Electronic Bulletin Board Quotation System for the ten
+trading days immediately preceding the Closing. Warrant B shall
+provide the investor the right to purchase one additional share of
+the Company s common stock equal to one hundred twenty-five
+percent of the average daily  Ask Price  as quoted on
+the OTC Electronic Bulletin Board Quotation System for the ten
+trading days immediately preceding the Closing. The stock was
+subscribed for; however, the certificates representing the shares
+were not issued as of August 31, 2018 and, resultantly, are
+considered owed as a common stock payable of $174,000. 
+
+Note D:  COMMITMENTS AND
+CONTINGENCIES  
+
+Royalty Payable Obligation 
+
+At
+January 1, 2015, the Company is obligated to pay minimum monthly
+royalties of approximately $80,000 (CDN $100,000) per quarter for
+the remaining term of the Psyko Audio Labs contract. The company
+carries the risk of currency exchange rate fluctuations as our
+royalty obligation under the license agreement is stated in
+Canadian dollars. Royalty payable was $1,075,595 as of August 31,
+2018. For the nine months ended August 31, 2018 and 2017, royalty
+expense and the related gain/(loss) on foreign currency
+transactions was $16,174 and ($43,974), respectively. 
+
+Operating Lease Obligation 
+
+On
+September 30, 2017, the Company signed a renewed three-year lease
+for its current office and warehouse. The typical monthly rent
+expense is $8,558, which includes base rent of $7,048 and common
+area maintenance of $1,510. Rent expense was $85,580 and $63,054
+for the nine months ended August 31, 2018 and 2017,
+respectively. 
+
+Note E:  SUBSEQUENT
+EVENTS  
+
+In
+accordance with ASC 855-10, Company management reviewed all
+material events through the date of this report and determined that
+there are no additional material subsequent events to
+report. 
+
+10 
+
+Item 2. Management's Discussion and Analysis of Financial Condition
+and Results of Operations 
+
+OVERVIEW 
+
+Exeo
+Entertainment, Inc. designs, develops, licenses, manufacturers, and
+markets consumer electronics in the video gaming, music and smart
+TV sector. Our current business objectives are: 
+
+Complete product
+development and establish channels of distribution,
+and 
+
+Expand SKUs
+within the headphone market for both music and gaming 
+
+Activities to date 
+
+We
+incorporated in the state of Nevada on May 12, 2011. For the nine
+months ended August 31, 2018, we generated $4,518 in revenues and
+continue to operate at a loss. Our activities have centered on the
+design and engineering of peripherals in the video gaming, music,
+and smart TV sector. 
+
+Products and Services 
+
+Products
+under development include the Psyko  5.1 surround sound
+gaming headphones for consoles, Krankz  MAXX Bluetooth 
+wireless headphones, Zaaz  Smart TV keyboards, the Extreme
+Gamer  a multi-disc video game changer, and an android based
+portable gaming system. We are finalizing development on the
+Zaaz  keyboard and will soon begin tooling for manufacturing.
+The Extreme Gamer  and portable gaming system are still in
+development. 
+
+Strategy and Marketing Plan 
+
+Once
+manufacturing is established we intend on utilizing existing
+consumer electronics distributers, such as Synnex Corp. (SNX) and
+Ingram Micro to distribute our products to big box retailers such
+as Best Buy, GameStop, and Fry s Electronics. We do not have
+distribution agreements with these companies at this
+time. 
+
+Competition 
+
+Psyko   Headphones 
+
+While
+our Psyko  headphone offering differs from the competition in
+the method of 5.1-surround sound delivery, we will face competition
+from manufacturers with established channels of distribution,
+mature capital structures, and significantly larger marketing
+budgets. Well established gaming headphone manufacturers include
+Turtle Beach; a private company, Tritton   a subsidiary of
+Mad Catz Interactive (MCZ), and Astro Gaming which is a subsidiary
+of Skullcandy (SKUL). 
+
+While
+other headphone manufacturers replicate 5.1 surround sound through
+Digital Signal Processing (DSP), the Psyko  headphones use a
+patented method of sound delivery that doesn t require the
+use of DSP. Management believes that the difference in audio
+quality is a major differentiating factor between our product
+offering and what is currently available on the
+market. 
+
+Krankz  Headphones 
+
+The
+driver design provides a deep bass sound with clear midrange audio
+for a full-range for use up to 30  distance. These headsets
+work with most mobile devices and have a retractable, foldable
+design with built-in microphone and noise cancelling feature. We
+expect to face competition from lifestyle headphone companies such
+as Beats by Dr. Dre and Skull candy. These entities are well
+established and have a loyal customer following. We expect to carve
+out a niche within the market by initially marketing to the X games
+demographic through endorsements and sponsorships in Extreme sports
+such as motocross, supercross, snowboarding, surfing, skating, and
+similar such sports.. 
+
+Zaaz  Keyboard 
+
+The
+majority of the competition in the Bluetooth wireless keyboard
+arena is concentrated amongst a few well-known companies such as
+Logitech  (LOGI), Microsoft  (MSFT), Apple  (AAPL),
+and Samsung  (SSNLF). While management believes that only
+Samsung makes keyboards specifically designed to interact with
+smart TVs, and that their keyboards only work with certain
+Samsung  TVs, there can be no assurance that other companies
+do not currently manufacture, or plan to manufacture, such units in
+the future. Any such companies that manufacture keyboards capable
+of connecting to a smart TV would further increase
+competition. 
+
+11 
+
+The
+Company intends on differentiating the Zaaz  keyboard through
+a set of features designed specifically for smart TV users. The
+Zaaz  keyboard features a customized set of  one touch
+access keys  that allows users to access specific, user
+defined features of the consumers smart TV. Examples include one
+touch access to the following: Netflix , Facebook ,
+Hulu , and Amazon . Additionally, the Zaaz 
+keyboard will differentiate itself by including a full size track
+pad   built into the keyboard   to navigate, point,
+click, and select. 
+
+Extreme Gamer  
+
+The
+Extreme Gamer  is a patent pending (patent application
+12/543,296) multi-disc video game changer that connects to current
+generation video game consoles offered by Nintendo ,
+Microsoft , and Sony . 
+
+Management
+believes from regularly reading Video Gaming news from sources such
+as IGN.com, EGNnow.com, 1up.com, and gamespot.com that no other
+company is currently manufacturing a multi-disc video game changer.
+If such a unit is being made management is unaware of its
+existence. 
+
+Management
+however acknowledges that while it cannot find any commercially
+available products that our patents may never be awarded and that
+we could face competition from any number of existing video game
+accessory manufacturers. 
+
+Sources and Availability of Suppliers and Supplies 
+
+Currently
+we have access to an adequate supply of products, from various
+manufacturers. These companies and their products are new, not well
+established, and are a subject to significant risk and
+uncertainty. 
+
+Dependence on One or a few Major Customers 
+
+We do
+not anticipate dependence on one or a few major customers into the
+foreseeable future. 
+
+Patents, Trademarks, Licenses, Franchise Restrictions and
+Contractual Obligations and Concessions 
+
+We
+executed a license agreement with Psyko Audio Labs Canada to
+manufacture and distribute the Carbon and Krypton line of patented
+headphones. US Patent # 8,000,486 (for the Psyko Krypton 
+surround sound gaming headphones). With regard to intellectual
+property rights associated with Psyko   Headphones, we have a
+license to use this mark as well as the patented
+technology. 
+
+In
+regard to intellectual property rights associated with
+Krankz  Bluetooth  wireless headphones, we do not have a
+federally registered trademark in the word Krankz. Therefore, we do
+not have the same presumptive rights which might otherwise apply
+had we obtained a federally registered trademark. We believe we
+have intellectual property rights to this mark under common law. If
+we are unable to register this mark, we may use an alternative name
+for these headphones. On April 2, 2015, Krank  Amplifiers
+(associated with guitar amplifiers) filed an application for a
+design plus words mark on the Principal Register with the U.S. PTO.
+Guitar amplifiers consist of electronic communication and
+amplification devices and would generally fall in the same or
+similar category as our Krankz  Bluetooth  Audio
+Headset. As of this date of this report, no office action has been
+issued by the U.S. PTO, and Krank  Amplifiers reported in
+April that they have not yet made any use of this mark in
+interstate commerce. We have been using this mark in interstate
+commerce for quite some time prior to April, 2015. We may no longer
+be able to use the common law trademark  Krankz  
+if Krank Amplifiers is granted its trademark and we do not file an
+opposition to such mark or we do not prevail in the defense of our
+mark in the U.S. Trademark and Trial Appeal Board (TTAB). We shall
+continue to monitor the status of that mark to determine what
+impact it might have, if any, as to our Krankz mark. 
+
+Subsidiaries 
+
+We do
+not have any subsidiaries. 
+
+12 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+
+COMPARISON OF THREE MONTH RESULTS FOR THE QUARTERS ENDED AUGUST 31,
+2018 AND 2017, RESPECTIVELY 
+
+Revenues and Gross Profit 
+
+For the
+three months ended August 31, 2018 and 2017, the Company recognized
+$591 and $1,970 in revenue, respectively. Cost of sales for the
+quarter ended August 31, 2018 was $1,583, leading to a gross profit
+of $992 during the period. In the comparable quarter ended August
+31, 2017, cost of sales was $2,299, resulting in a gross profit of
+$329. 
+
+Costs and Expenses 
+
+Total
+cost and expenses were $253,769 and $384,282 for the three months
+ended August 31, 2018 and 2017, respectively. The decrease was
+primarily due to staff turnover and decreases in legal and
+consulting fees paid. 
+
+Other Income and Expenses 
+
+During
+the course of our business, we experienced a gain from foreign
+currency transactions of $10,971 in the three month period ended
+August 31, 2018, compared to a loss of $15,474 in the comparable
+period ended August 31, 2017. These gains/losses are associated
+with currency exchange rate fluctuations as our royalty obligation
+under the license agreement is stated in Canadian
+dollars. 
+
+Interest
+expense associated with obligations to related parties was $1,172
+and $1,171 in the three month periods ended August 31, 2018 and
+2017, respectively. 
+
+Interest
+expense associated with non-related party obligations was $181 and
+$250 in the three month periods ended August 31, 2018 and 2017,
+respectively. 
+
+COMPARISON OF NINE MONTH RESULTS FOR THE PERIODS ENDED AUGUST 31,
+2018 AND 2017, RESPECTIVELY 
+
+Revenues and Gross Profit 
+
+For the
+nine months ended August 31, 2018 and 2017, the Company recognized
+$4,518 and $9,487 in revenue, respectively. Cost of sales for the
+nine months ended August 31, 2018 was $3,282, leading to a gross
+profit of $1,236 during the period. In the comparable nine months
+ended August 31, 2017, cost of sales was $7,365, resulting in a
+gross profit of $1,852. 
+
+Costs and Expenses 
+
+Total
+cost and expenses were $768,110 and $990,116 for the nine months
+ended August 31, 2018 and 2017, respectively. The decrease was
+primarily due to staff turnover and decreases in legal and
+consulting fees paid. 
+
+Other Income and Expenses 
+
+During
+the course of our business, we experienced a gain from foreign
+currency transactions of $16,174 in the nine month period ended
+August 31, 2018, compared to a loss of $43,974 in the comparable
+period ended August 31, 2017. These gains/losses are associated
+with currency exchange rate fluctuations as our royalty obligation
+under the license agreement is stated in Canadian
+dollars. 
+
+Interest
+expense associated with obligations to related parties was $3,490
+and $3,489 in the nine month periods ended August 31, 2018 and
+2017, respectively. 
+
+Interest
+expense associated with non-related party obligations was $595 and
+$2,300 in the nine month periods ended August 31, 2018 and 2017,
+respectively. 
+
+13 
+
+Liquidity and Capital Resources 
+
+Other
+than what is described in this Report, the Company had no material
+commitments for capital expenditures at August 31, 2018 and
+2017. 
+
+On May
+25, 2011, Exeo Entertainment, Inc. entered into an exclusive
+license agreement with Digital Extreme Technologies, Inc. whereby
+Exeo Entertainment, Inc. will manufacture and market the Extreme
+Gamer and Zaaz keyboard. Exeo Entertainment, Inc. will pay Digital
+Extreme Technologies, Inc. a 5% royalty fee on gross sales of both
+products. 
+
+Unless
+the Royalty Agreement is modified by Psyko Audio Labs Canada and
+the Company, at January 1, 2016, the Company is obligated to pay
+minimum monthly royalties of $80,000 (CDN $100,000) per quarter for
+the remaining term of the contract. No such modification has been
+made as of the date of this report. The company carries the risk of
+currency exchange rate fluctuations as our royalty obligation under
+the license agreement is stated in Canadian dollars. For the nine
+months ended August 31, 2018 and 2017, the Company made no payments
+towards this obligation and no royalty invoices have been received
+from Psyko Audio Labs. Royalty payable was $1,075,595 for the nine
+months ended August 31, 2018. For the nine months ended August 31,
+2018 and 2017, respectively, royalty expense and related
+gain/(loss) on foreign currency transactions was $16,174 and
+($43,974), respectively. 
+
+The
+Company has an office and warehouse rental lease obligation through
+September 30, 2020, which equals $213,950 as of August 31, 2018.
+The monthly minimum rental payment is $8,558. Rent expense was
+$85,580 and $63,054 for the nine months ended August 31, 2018 and
+2017, respectively. 
+
+Cash Flow Information 
+
+On
+August 31, 2018, the Company had working capital of approximately
+$(1,116,968). On November 30, 2017, the Company had working capital
+of approximately $(810,872). The decrease in working capital of
+$306,096 primarily relates to an increase in royalty payable in the
+amount of $217,453 during the nine months ending August 31, 2018.
+The Company believes it has insufficient cash resources to meet its
+liquidity requirements for the next 12 months. 
+
+The
+Company had cash and cash equivalents of approximately $45,265 and
+$139,525 at August 31, 2018 and November 30, 2017, respectively.
+This represents a decrease in cash of $94,260. 
+
+Cash used in Operating Activities 
+
+The
+Company used approximately $532,310 of cash for operating
+activities in the nine months ended August 31, 2018 as compared to
+using $554,849 of cash for operating activities in the nine months
+ended August 31, 2017. This decrease in cash used in operating
+activities, is primarily attributed to a decrease in the net loss
+and decrease in stock based compensation to the
+officers. 
+
+Cash Provided by Financing Activities 
+
+Financing
+activities in the nine months ended August 31, 2018 provided
+$438,250 of cash as compared to providing $585,708 of cash in the
+nine months ended August 31, 2017. The difference is attributable
+to an increase in cash receipts from sales of the Company s
+common stock. 
+
+The
+Company s principal sources and uses of funds are investments
+from accredited investors. The Company would need to raise
+additional capital in order to meet its business plan. Management
+intends to secure additional funds using borrowing or the further
+sale of Regulation D, Section 506 securities to accredited
+investors in the future. 
+
+The
+Company anticipates that its future liquidity requirements will
+arise from the need to fund its growth, pay its current obligations
+and future capital expenditures. The primary sources of funding for
+such requirements are expected to be cash generated from operations
+and raising additional funds from private sources and/or debt
+financing. 
+
+Going Concern Consideration 
+
+There
+is substantial doubt about the Company s ability to continue
+as a going concern. The financial statements do not include any
+adjustments to reflect the possible future effects on the
+recoverability and classification of assets or the amounts and
+classification of liabilities that may result from the possible
+inability of the Company to continue as a going
+concern. 
+
+The
+ability of the Company to continue as a going concern is dependent
+on the Company generating cash from the sale of its common stock or
+obtaining debt financing and attaining future profitable
+operations. Management s plan includes selling its equity
+securities and obtaining debt financing to fund its capital
+requirement and ongoing operations; however, there can be no
+assurance the Company will be successful in these
+efforts. 
+
+14 
+
+Off-Balance Sheet Arrangements 
+
+The
+Company has no off-balance sheet arrangements. 
+
+Forward-Looking Statements 
+
+Many
+statements made in this report are forward-looking statements that
+are not based on historical facts. Because these forward-looking
+statements involve risks and uncertainties, there are important
+factors that could cause actual results to differ materially from
+those expressed or implied by these forward-looking statements. The
+forward-looking statements made in this report relate only to
+events as of the date on which the statements are
+made. 
+
+Item 3. Quantitative and Qualitative Disclosure About Market
+Risks 
+
+As a
+ smaller reporting company , we are not required to
+provide the information required by this Item. 
+
+Item 4. Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our
+management has evaluated the effectiveness of our disclosure
+controls and procedures (as defined in Rule 13a-15(e) under the
+Securities Exchange Act of 1934, as amended) as of the end of the
+period covered by this Report. Based on the management evaluation,
+we concluded that our disclosure controls and procedures may not be
+effective to provide reasonable assurance that information we are
+required to disclose in the reports that we file or submit under
+the Exchange Act is recorded, processed, summarized, and reported
+within the time periods specified in the SEC s rules and
+forms, and that such information is accumulated and communicated to
+our management, including our principal executive officer and
+principal financial officer, or persons performing similar
+functions, as appropriate to allow timely decisions regarding
+required disclosure. In the 3 rd  Quarter, 2018, management is in the
+process of determining how to most effectively improve our
+disclosure controls and procedures. 
+
+Management s Report on Internal Control over Financial
+Reporting 
+
+Our
+management is responsible for establishing and maintaining adequate
+internal control, as is defined in the Securities Exchange Act of
+1934. These internal controls are designed to provide reasonable
+assurance that the reported financial information is presented
+fairly, that disclosures are adequate and that the judgments
+inherent in the preparation of financial statements are reasonable.
+There are inherent limitations in the effectiveness of any system
+of internal controls, including the possibility of human error and
+overriding of controls. Consequently, an effective internal control
+system can only provide reasonable, not absolute, assurance with
+respect to reporting financial information. 
+
+Our
+internal control over financial reporting includes policies and
+procedures that: (i) pertain to maintaining records that in
+reasonable detail accurately and fairly reflect our transactions;
+(ii) provide reasonable assurance that transactions are recorded as
+necessary for preparation of our financial statements in accordance
+with generally accepted accounting principles and the receipts and
+expenditures of company assets are made and in accordance with our
+management and directors authorization; and (iii) provide
+reasonable assurance regarding the prevention or timely detection
+of unauthorized acquisition, use or disposition of assets that
+could have a material effect on our financial
+statements. 
+
+Management
+has undertaken an assessment of the effectiveness of our internal
+control over financial reporting based on the framework and
+criteria established in the Internal Control   Integrated
+Framework issued by the Committee of Sponsoring Organizations of
+the Treadway Commission ( COSO ). Based upon this
+evaluation, management concluded that our internal control over
+financial reporting may not be effective as of August 31, 2018.
+Other than our two officers, we have no employees or contractors
+that have the authority to implement any changes in our internal
+control or financial reporting. 
+
+This
+quarterly report does not include an attestation report of our
+registered public accounting firm regarding internal control over
+financial reporting. Management s report was not subject to
+attestation by our registered public accounting firm pursuant to
+the temporary rules of the Securities and Exchange Commission that
+permit us to provide only management s report in this
+quarterly report. 
+
+15 
+
+Changes in Internal Control Over Financial Reporting 
+
+There
+were changes in our internal control over financial reporting that
+occurred during our most recent fiscal quarter that may have
+materially affected, or may be reasonably likely to materially
+affect, our internal control over financial reporting. 
+
+Limitations on Effectiveness of Controls and
+Procedures 
+
+In
+designing and evaluating the disclosure controls and procedures,
+management recognizes that any controls and procedures, no matter
+how well designed and operated, can provide only reasonable
+assurance of achieving the desired control objectives. In addition,
+the design of disclosure controls and procedures must reflect the
+fact that there are resource constraints and that management is
+required to apply its judgment in evaluating the benefits of
+possible controls and procedures relative to their
+costs. 
+
+PART II   OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+
+The
+Company has no knowledge of existing or pending legal proceedings
+against the Company, nor is the Company involved as a plaintiff in
+any proceeding or pending litigation. There are no proceedings in
+which any of the Company s directors, officers or any of
+their respective affiliates, or any beneficial stockholder, is an
+adverse party or has a material interest adverse to our interest.
+The Company s address for service of process in Nevada is
+Business Filings, Incorporated located at 311 S. Division Street,
+Carson City, Nevada 89703. 
+
+Item 1A. Risk Factors 
+
+As a
+ smaller reporting company , we are not required to
+provide the information required by this Item. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of
+Proceeds 
+
+During
+the three months ended August 31, 2018, the Company sold 307,784
+shares of common stock for cash totaling $229,000. The price per
+share is equal to eighty-five percent of the average daily
+ Ask Price  as quoted on the OTC Electronic Bulletin
+Board Quotation System for the ten trading days immediately
+preceding the Closing. In addition, for each share of common stock
+purchased, each investor shall receive two warrants. Warrant A
+shall provide the investor the right to purchase one additional
+share of the Company s common stock equal to one hundred
+percent of the average daily  Ask Price  as quoted on
+the OTC Electronic Bulletin Board Quotation System for the ten
+trading days immediately preceding the Closing. Warrant B shall
+provide the investor the right to purchase one additional share of
+the Company s common stock equal to one hundred twenty-five
+percent of the average daily  Ask Price  as quoted on
+the OTC Electronic Bulletin Board Quotation System for the ten
+trading days immediately preceding the Closing. The stock was
+subscribed for; however, the certificates representing the shares
+were not issued as of August 31, 2018 and, resultantly, are
+considered owed as a common stock payable of $174,000. 
+
+Item 3. Defaults Upon Senior Securities 
+
+None. 
+
+Item 4. Mine Safety Disclosures 
+
+Not
+applicable. 
+
+Item 5. Other Information 
+
+Market for the Company s Common Stock 
+
+The
+Company s common stock is traded on the over-the-counter
+market and quoted on the Over-The-Counter Bulletin Board (OTCBB)
+under the trading symbol  EXEO . Our common stock is
+also quoted on OTCQB, a segment of OTC Link LLC and OTC Markets
+Group. As of the date of this report, there is a limited public
+market for our common stock. For purpose of this Item, the
+existence of limited or sporadic quotations should not of itself be
+deemed to constitute an  established public trading
+market,  if any, for our common stock. We can provide no
+assurance that our shares will be actively traded on the OTC or,
+that the public market will achieve or continue with any particular
+daily volume or price for our listed securities. 
+
+16 
+
+Item 6. Exhibits 
+
+17 
+
+SIGNATURES 
+
+Pursuant
+to the requirements of the Exchange Act of 1934, the Registrant has
+duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized. 
+
+EXEO ENTERTAINMENT, INC. 
+
+(Registrant) 
+
+Signature 
+
+Title 
+
+Date 
+
+/s/ Jeffrey A. Weiland 
+
+President
+and Director 
+
+October
+15, 2018 
+
+Jeffrey
+A. Weiland 
+
+/s/ Robert S. Amaral 
+
+Chief
+Executive Officer, 
+
+October
+15, 2018 
+
+Robert
+S. Amaral 
+
+Treasurer
+and Director 
+
+(Principal
+Executive and Financial Officer) 
+
+18 
+
+<EX-31.1>
+ 2
+ exhibit_31-1.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECURITIES EXCHANGE ACT RULE 13A-14(A)/15D-14(A), AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+Blueprint 
+
+EXHIBIT 31.1 
+
+Certification of Principal Executive Officer 
+
+Section 302 Certification 
+
+I,
+Robert S. Amaral, certify that: 
+
+1.           I
+have reviewed this quarterly report on Form 10-Q for Exeo
+Entertainment, Inc.; 
+
+2.           Based
+on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.           Based
+on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash
+flows of the registrant as of, and for, the periods presented in
+this report; 
+
+4.           The
+registrant s other certifying officer and I are responsible
+for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and the
+internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have: 
+
+(a)           Designed
+such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in
+which this report is being prepared; 
+
+(b)           Designed
+such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+(c)           Evaluated
+the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the
+end of the period covered by this report based on such evaluation;
+and 
+
+(d)           Disclosed
+in this report any change in the registrant s internal
+control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over
+financial reporting; and 
+
+5.           The
+registrant s other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors (or
+persons performing the equivalent functions): 
+
+(a)           All
+significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial
+information; and 
+
+(b)           Any
+fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Date: 
+
+October
+15, 2018 
+
+/s/
+Robert S. Amaral 
+
+Robert
+S. Amaral, Chief Executive Officer 
+
+(Principal
+Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit_31-2.htm
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO SECURITIES EXCHANGE ACT RULE 13A-14(A)/15D-14(A), AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+Blueprint 
+
+EXHIBIT 31.2 
+
+Certification of Principal Financial Officer 
+
+Section 302 Certification 
+
+I,
+Robert S. Amaral, certify that: 
+
+1.           I
+have reviewed this quarterly report on Form 10-Q of Exeo
+Entertainment, Inc.; 
+
+2.           Based
+on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which
+such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3.           Based
+on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash
+flows of the registrant as of, and for, the periods presented in
+this report; 
+
+4.           The
+registrant s other certifying officer and I are responsible
+for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and the
+internal control over financial reporting (as defined in Exchange
+Act Rules 13a-15(f) and 15d-15(f)) for the registrant and
+have: 
+
+(a)           Designed
+such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant,
+including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in
+which this report is being prepared; 
+
+(b)           Designed
+such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the
+reliability of financial reporting and the preparation of financial
+statements for external purposes in accordance with generally
+accepted accounting principles; 
+
+(c)           Evaluated
+the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the
+end of the period covered by this report based on such evaluation;
+and 
+
+(d)           Disclosed
+in this report any change in the registrant s internal
+control over financial reporting that occurred during the
+registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over
+financial reporting; and 
+
+5.           The
+registrant s other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors (or
+persons performing the equivalent functions): 
+
+(a)           All
+significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are
+reasonably likely to adversely affect the registrant s
+ability to record, process, summarize and report financial
+information; and 
+
+(b)           Any
+fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+Date: 
+
+October
+15, 2018 
+
+/s/
+Robert S. Amaral 
+
+Robert
+S. Amaral, Chief Financial Officer 
+
+(Principal
+Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit_32-1.htm
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Blueprint 
+
+EXHIBIT 32.1 
+
+CERTIFICATIONS PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Quarterly Report of Exeo Entertainment,
+Inc. (the  Company ) on Form 10-Q for the quarter
+ended August 31, 2018, as filed with the Securities and Exchange
+Commission on the date hereof (the  Report ), I, Robert
+S. Amaral, as Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+
+The
+Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+
+The
+information contained in the Report fairly presents, in all
+material respects, the financial condition and result of operations
+of the Company. 
+
+By: 
+
+/s/
+Robert S. Amaral 
+
+Dated:   
+
+October
+15, 2018 
+
+Robert
+S. Amaral 
+
+Title: 
+
+Chief
+Executive Officer 
+
+(Principal
+Executive Officer and Principal Financial Officer) 
+
+This
+certification is being furnished to the SEC as an exhibit to the
+Report pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002 and shall not, except to the extent required by the of the
+Sarbanes-Oxley Act of 2002, be deemed filed by the Company for
+purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended. 
+
+A
+signed copy of this written statement required by Section 906
+of the Sarbanes-Oxley Act of 2002 has been provided by the Company
+and will be retained by the Company and furnished to the Securities
+and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ exhibit_32-2.htm
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Blueprint 
+
+EXHIBIT 32.2 
+
+CERTIFICATIONS PURSUANT TO 
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+connection with the Quarterly Report of Exeo Entertainment,
+Inc. (the  Company ) on Form 10-Q for the quarter
+ended August 31, 2018, as filed with the Securities and Exchange
+Commission on the date hereof (the  Report ), I, Robert
+S. Amaral, as Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+
+The
+Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+
+The
+information contained in the Report fairly presents, in all
+material respects, the financial condition and result of operations
+of the Company. 
+
+By: 
+
+/s/ Robert
+S. Amaral 
+
+Dated:   
+
+October
+15, 2018 
+
+Robert
+S. Amaral 
+
+Title: 
+
+Chief
+Financial Officer 
+
+(Principal
+Financial Officer) 
+
+This
+certification is being furnished to the SEC as an exhibit to the
+Report pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002 and shall not, except to the extent required by the of the
+Sarbanes-Oxley Act of 2002, be deemed filed by the Company for
+purposes of Section 18 of the Securities Exchange Act of 1934,
+as amended. 
+
+A
+signed copy of this written statement required by Section 906
+of the Sarbanes-Oxley Act of 2002 has been provided by the Company
+and will be retained by the Company and furnished to the Securities
+and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ exeo-20180831.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ exeo-20180831.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ exeo-20180831_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ exeo-20180831_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ exeo-20180831_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ exeo-20180831_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

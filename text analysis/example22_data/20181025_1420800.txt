@@ -1,0 +1,1170 @@
+ION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+   (Unaudited) 
+
+UNITED STATES  
+  SECURITIES AND EXCHANGE COMMISSION  
+  Washington, D.C. 20549  
+
+For the Quarterly Period Ended   September 28, 2018    
+  OR  
+
+For the transition period from                     to                      
+  Commission file number - 001-34045  
+  Colfax Corporation 
+  (Exact name of registrant as specified in its charter)      
+
+Delaware 
+      
+    54-1887631 
+      (State or other jurisdiction of 
+  incorporation or organization) 
+      
+    (I.R.S. Employer 
+  Identification Number) 
+
+420 National Business Parkway, 5th Floor Annapolis Junction, Maryland 
+      
+    20701 
+      (Address of principal executive offices) 
+      
+    (Zip Code) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes           No         
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   Yes          No      
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of  large accelerated filer,   accelerated filer,   smaller reporting company  and  emerging growth company  in Rule 12b-2 of the Exchange Act.  
+  Large accelerated filer                   Accelerated filer                Non-accelerated filer           
+  Smaller reporting company            Emerging growth company      
+  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act     
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes           No      
+  As of   September 28, 2018  , there were   117,199,449   shares of the registrant s common stock, par value $.001 per share, outstanding. 
+  
+   1 
+
+TABLE OF CONTENTS  
+
+Page 
+      PART I - FINANCIAL INFORMATION 
+      
+      Item 1. Financial Statements 
+    2 
+                  Condensed Consolidated Statements of Income 
+    2 
+                  Condensed Consolidated Statements of Comprehensive (Loss) Income 
+    3 
+                  Condensed Consolidated Balance Sheets 
+    4 
+                  Condensed Consolidated Statement of Equity 
+    5 
+                  Condensed Consolidated Statements of Cash Flows 
+    6 
+                  Notes to Condensed Consolidated Financial Statements 
+    7 
+                       Note 1. General 
+    7 
+                       Note 2. Recently Issued Accounting Pronouncements 
+    8 
+                       Note 3. Discontinued Operations 
+    12 
+                       Note 4. Acquisitions 
+    13 
+                       Note 5. Revenue 
+    13 
+                       Note 6. Net Income Per Share 
+    15 
+                       Note 7. Income Taxes 
+    15 
+                       Note 8. Equity 
+    16 
+                       Note 9. Inventories, Net 
+    17 
+                       Note 10. Debt 
+    17 
+                       Note 11. Accrued Liabilities 
+    18 
+                       Note 12. Net Periodic Benefit Cost - Defined Benefit Plans 
+    20 
+                       Note 13. Financial Instruments and Fair Value Measurements 
+    20 
+                       Note 14. Commitments and Contingencies 
+    22 
+                       Note 15. Segment Information 
+    24 
+      Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+    25 
+      Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+    37 
+      Item 4. Controls and Procedures 
+    38 
+
+PART II - OTHER INFORMATION 
+      
+      Item 1. Legal Proceedings 
+    39 
+      Item 1A. Risk Factors 
+    39 
+      Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+    39 
+      Item 3. Defaults Upon Senior Securities 
+    39 
+      Item 4. Mine Safety Disclosures 
+    39 
+      Item 5. Other Information 
+    39 
+      Item 6. Exhibits 
+    40 
+
+SIGNATURES 
+    41 
+
+1 
+
+PART I - FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+COLFAX CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF INCOME 
+  Dollars in thousands, except per share amounts 
+  (Unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements. 
+
+2 
+
+COLFAX CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE (LOSS) INCOME  
+  Dollars in thousands 
+  (Unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements. 
+
+3 
+
+COLFAX CORPORATION 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  Dollars in thousands, except share amounts 
+  (Unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements. 
+
+4 
+
+COLFAX CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENT OF EQUITY 
+  Dollars in thousands, except share amounts and as noted 
+  (Unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements. 
+
+5 
+
+COLFAX CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  Dollars in thousands 
+  (Unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements. 
+  
+   6 
+
+COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+   (Unaudited) 
+
+1. General 
+    
+  Colfax Corporation (the  Company  or  Colfax ) is a leading diversified industrial technology company that provides air and gas handling and fabrication technology products and services to customers around the world under the Howden and ESAB brands. 
+    
+  On December 11, 2017, the Company completed the sale of its Fluid Handling business ( Fluid Handling ) to CIRCOR International, Inc., a Delaware corporation ( CIRCOR  or  the Buyer ), pursuant to a definitive purchase agreement (the Purchase Agreement) signed on September 24, 2017. Accordingly, the accompanying Condensed Consolidated Financial Statements for all periods presented reflect the Fluid Handling business as a discontinued operation. See Note 3, Discontinued Operations, for further information.  
+    
+  The Condensed Consolidated Financial Statements included in this quarterly report have been prepared by the Company in accordance with the rules and regulations of the Securities and Exchange Commission ( SEC ) and accounting principles generally accepted in the United States of America ( GAAP ) for interim financial statements.  
+    
+  The Condensed Consolidated Balance Sheet as of   December 31, 2017   is derived from the Company s audited financial statements. Certain information and footnote disclosures normally included in financial statements prepared in accordance with GAAP have been omitted in accordance with the SEC s rules and regulations for interim financial statements. The Condensed Consolidated Financial Statements included herein should be read in conjunction with the audited financial statements and related footnotes included in the Company s Annual Report on Form 10-K for the year ended   December 31, 2017   (the    2017   Form 10-K ), filed with the SEC on   February 16, 2018  . 
+    
+  The Condensed Consolidated Financial Statements reflect, in the opinion of management, all adjustments, which consist solely of normal recurring adjustments, necessary to present fairly the Company s financial position and results of operations as of and for the periods indicated. Intercompany transactions and accounts are eliminated in consolidation. Certain prior period amounts have been reclassified to conform to current year presentations.  
+    
+  The Company makes certain estimates and assumptions in preparing its Condensed Consolidated Financial Statements in accordance with GAAP. These estimates and assumptions affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities at the date of the Condensed Consolidated Financial Statements and the reported amounts of revenues and expenses for the periods presented. Actual results may differ from those estimates. 
+    
+  The results of operations for the   three and nine months ended September 28, 2018   are not necessarily indicative of the results of operations that may be achieved for the full year. Quarterly results are affected by seasonal variations in the Company s business. As air and gas handling customers seek to fully utilize capital spending budgets before the end of the year, usually our shipments peak during the fourth quarter. Also, our European operations typically experience a slowdown during the July, August and December holiday seasons. General economic conditions may, however, impact future seasonal variations. 
+
+7 
+
+COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+2. Recently Issued Accounting Pronouncements 
+    
+  Accounting Guidance Implemented in 2018 
+    
+                       Standards Adopted 
+      
+    Description 
+      
+    Effective Date 
+      Accounting Standards Update (ASU) 2014-09, Revenue from Contracts with Customers 
+
+The standard outlines a single set of comprehensive principles for recognizing revenue under U.S. GAAP and supersedes existing revenue recognition guidance. The main principle of the standard is that revenue should be recognized to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. The Company applied the ASU and its related updates on a full retrospective basis as of January 1, 2018. The adoption of the ASU did not have a material impact on the consolidated financial statements; therefore, no cumulative catch-up adjustment was recorded for prior periods. See Note 5,  Revenue , for additional information. 
+
+January 1, 2018 
+    
+      ASU 2016-01, Financial Instruments - Overall (Subtopic 825-10): Recognition and Measurement of Financial Assets and Financial Liabilities 
+      
+    The standard requires various changes to the measurement and disclosure of equity investments. For the Company, the most relevant change under ASU 2016-01 is the elimination of the available-for-sale classification for equity securities with readily determinable fair values. The adoption of the standard as of January 1, 2018 resulted in a reclassification of a $5.2 million gain, net of tax, on short term investments from Accumulated other comprehensive loss to Retained earnings on the Company s Condensed Consolidated Financial Statements. Additionally, as a result of the adoption of this ASU, any changes in fair value of the Company s Short term investments is included in Loss on short term investments in the Condensed Consolidated Statement of Income.      
+
+January 1, 2018 
+    
+      ASU No. 2016-15, Statement of Cash Flows (Topic 203) 
+      
+    The guidance addresses eight specific cash flow issues and clarifies their presentation and classification in the Statement of Cash Flows. The Company has retrospectively adopted the standard on its consolidated financial statements as of January 1, 2018. The adoption of the ASU did not have a material impact on the consolidated financial statements. As such, no retrospective adjustment was recorded.  
+
+January 1, 2018 
+    
+      ASU 2016-16, Accounting for Income Taxes: Intra-Entity Asset Transfers of Assets Other than Inventory 
+      
+    The standard eliminates the exception that the tax effects of an intra-entity transfer (sales) are deferred until the transferred asset is sold to a third party or recovered through use. The resulting impact is the recognition of tax expense in the seller s jurisdiction and any deferred tax asset in the buyer s jurisdiction in the period the transfer occurs. The new guidance does not apply to intra entity sales of inventory whose tax effects will continue to be deferred until the inventory is sold to a third party. The Company adopted the ASU as of January 1, 2018 using a modified retrospective approach and concluded the ASU had no material impact on the consolidated financial statements; therefore, no cumulative catch-up adjustment was recorded. 
+
+January 1, 2018 
+    
+      ASU No. 2017-07, Compensation - Retirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Post-retirement Benefit Cost 
+      
+    The standard requires that the service cost component of net benefit costs of pension and post-retirement benefit plans be reported in the same line item as other compensation costs. Other components of net periodic pension cost and net periodic post-retirement benefit cost are required to be presented in the income statement separately from the service cost component, and only the service cost is eligible for capitalization. The Company adopted the ASU   as of January 1, 2018   retrospectively for the presentation requirements and prospectively for the capitalization of the service cost.   The adoption of the ASU did not have a material impact on the consolidated financial statements. No adjustment was recorded as a result of the adoption.  
+
+January 1, 2018 
+
+8 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+Standards Adopted 
+      
+    Description 
+      
+    Effective Date 
+      ASU 2018-05, Income Taxes (Topic 740): Amendments to SEC Paragraphs pursuant to SEC Staff Accounting Bulletin No. 118 
+  ( SAB 118 ) 
+      
+    The standard addresses the application of U.S. GAAP in situations when a registrant does not have the necessary information available, prepared, or analyzed (including computations) in reasonable detail to complete the accounting for certain income tax effects of the 2017 U.S. Tax Cut and Jobs Act ( Tax Act ). SAB 118 allows registrants to include a provisional amount to account for the implications of the Tax Act where a reasonable estimate can be made and requires the completion of the accounting no later than one year from the date of enactment of the Tax Act or December 22, 2018. In its financial statements for the year ended December 31, 2017, the Company included a provisional estimate of approximately $52 million for the transition tax, payable over 8 years. Generally, the foreign earnings subject to the transition tax can be distributed without additional U.S. tax; however, if distributed, the amount could be subject to foreign taxes and U.S. state and local taxes. The Company also recorded a provisional tax benefit estimate of approximately $55 million for the re-measurement of its U.S. deferred tax assets and liabilities to a 21% effective tax rate. The Company continues to evaluate the implications of the Tax Act and have not made any adjustments to the provisional amounts recorded in the prior year. Additionally, the Company filed its 2017 U.S. income tax return in the fourth quarter of 2018. The Company does not anticipate significant provision to return adjustments related to changes in tax basis in temporary differences, tax pools, earnings and profits, or other elements of the income tax effects of the Tax Act that will be recorded in the fourth quarter of 2018 that were previously estimated in the financial statements as of December 31, 2017. 
+      
+    December 31, 2017 
+
+9 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+New Accounting Guidance to be Implemented 
+                           Standards Pending Adoption 
+      
+    Description 
+      
+    Anticipated Impact 
+      
+    Effective/Adoption Date 
+      ASU 2016-02, Leases   (Topic 842) 
+
+The standard requires a lessee to recognize assets and liabilities associated with the rights and obligations attributable to most leases but also recognize expenses similar to current lease accounting. The standard also requires certain qualitative and quantitative disclosures designed to assess the amount, timing and uncertainty of cash flows arising from leases, along with additional key information about leasing arrangements. The new guidance can be adopted using a modified retrospective transition and provides for certain practical expedients. 
+      
+    The Company is analyzing and updating data previously collected to evaluate the impact of adopting the ASU on its consolidated financial statements, and further assessing the related systems required to support increased reporting and disclosures requirements. The Company will adopt the package of practical expedients for all leases commenced before January 1, 2019. The adoption of the guidance will result in the recording of an operating lease asset and liability, which are estimated to be less than 3% of Total assets. The impacts on the consolidated statements of income or consolidated statements of cash flows are expected to be immaterial.  
+      
+    January 1, 2019 
+    
+      ASU No. 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments 
+      
+    The ASU is effective for fiscal periods beginning after December 15, 2019 and early adoption is permitted. The ASU eliminates the probable initial recognition threshold under current U.S. GAAP and broadens the information an entity must consider when developing its expected credit loss estimates to include forward-looking information. 
+      
+    The Company is currently evaluating the impact of adopting the ASU on its consolidated financial statements. 
+      
+    January 1, 2020 
+    
+      ASU No. 2017-12, Derivatives and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging Activities 
+      
+    The ASU amends the current hedge accounting model and eliminates the requirement to separately measure and report hedge ineffectiveness and requires the entire change in the fair value of a hedging instrument to be presented in the same income statement line as the hedged item. The ASU also eases certain documentation and assessment requirements and modifies the accounting for components excluded from the assessment of hedge effectiveness. Companies are required to apply amendments to cash flow and net investment hedge relationship using modified retrospective method and apply prospective method for the presentation and disclosure requirements.  
+      
+    The Company is currently evaluating the impact of adopting the ASU on its consolidated financial statements and the timing of adoption. 
+
+January 1, 2019 
+    
+      ASU 2018-02, Income Statement - Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income 
+      
+    The standard provides entities the option to reclassify to retained earnings the tax effects resulting from the Tax Act related to items stranded in accumulated other comprehensive income. The new guidance may be applied retrospectively to each period in which the effect of the Tax Act is recognized in the period of adoption.  
+      
+    The Company is currently evaluating the impact of this ASU on its consolidated financial statements and the timing of adoption. 
+
+January 1, 2019 
+
+10 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+Standards Pending Adoption 
+      
+    Description 
+      
+    Anticipated Impact 
+      
+    Effective/Adoption Date 
+      Topic 740, No. 5, Accounting for Global Intangible Low-Taxed Income 
+      
+    The FASB Staff Q A, Topic 740, No. 5, Accounting for Global Intangible Low-Taxed Income (GILTI), states that an entity can make an accounting policy election to either recognize deferred taxes for temporary basis differences expected to reverse as GILTI in future years or provide for a current tax expense related to GILTI in the year the tax is incurred.  
+      
+    The Tax Act subjects the Company to tax on the GILTI earned by certain of its foreign subsidiaries. The Company has included an estimate of GILTI in determining its annual effective tax rate; however, given the complexity of the GILTI provisions, the Company is still evaluating the effects of the GILTI provisions and has not yet determined its accounting policy.  
+
+December 31, 2018 
+    
+      ASU 2018-13, Fair Value Measurement (Topic 820): Disclosure Framework-Changes to the Disclosure Requirements for Fair Value Measurement  
+      
+    The ASU modifies the disclosure requirements for fair value measurements.  
+      
+    The Company is currently evaluating the impact of this ASU on its consolidated financial statements and the timing of adoption. 
+
+January 1, 2020 
+      ASU 2018-14, Compensation - Retirement Benefits - Defined Benefit Plans - General (Topic 715-20): Disclosure Framework - Changes to the Disclosure Requirements for Defined Benefit Plans 
+      
+    The ASU modifies the disclosure requirements for employers that sponsor defined benefit pension or other postretirement plans.  
+
+The Company is currently evaluating the impact of this ASU on its consolidated financial statements and the timing of adoption. 
+
+January 1, 2021 
+
+11 
+
+COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+3. Discontinued Operations 
+    
+           Sale of Fluid Handling Business    
+    
+  The Company sold its Fluid Handling business to CIRCOR on December 11, 2017. After certain post-closing adjustments, total consideration for the sale was   $860.6   million, consisting of   $551.0 million   of cash,   3.3   million shares of CIRCOR common stock ( CIRCOR Shares ), and assumption of   $168.0 million   of net retirement liabilities. All cash consideration has been collected.  
+    
+  During the three months ended June 29, 2018, the Company sold its CIRCOR Shares for   $139.5 million  , net of   $5.8 million   of underwriters' fees.  
+    
+  The key components of (Loss) income from discontinued operations for the   three and nine months ended September 28, 2018   and   September 29, 2017   were as follows: 
+
+(1) Pursuant to the Purchase Agreement, the Company retained its asbestos-related contingencies and insurance coverages. However, as the Company did not retain an interest in the ongoing operations of the business subject to the contingencies, the Company has classified asbestos-related activity in its Condensed Consolidated Statements of Income as part of (Loss) income from discontinued operations. See Note 14,  Commitments and Contingencies  for further information.  
+  (2) Primarily related to professional and consulting fees associated with the divestiture including due diligence and preparation of regulatory filings, as well as employee benefit arrangements and other disposition-related activities.  
+  (3)     During the nine months ended September 29, 2017, the Company recorded a gain of approximately   $12 million   from the sale of a facility. 
+  (4) Interest expense has not been allocated to the discontinued operations. 
+  (5) Income tax expense for the nine months ended September 28, 2018 includes incremental tax expense due to changes in the estimated gain allocation by jurisdiction which were recognized during the three months ended June 29, 2018.  
+    
+  The Company did not have material cash flows for discontinued operations during the   nine months ended September 28, 2018  . Cash provided by operating activities of discontinued operations for the   nine months ended September 29, 2017   was   $33.9 million  . Cash used in investing activities of discontinued operations was   $6.0 million   for the   nine months ended September 29, 2017  . There are no material items in the accompanying Condensed Consolidated Statements of Income that had been eliminated in consolidation prior to the disposal.  
+
+12 
+
+COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+4. Acquisitions 
+    
+  During the   nine months ended September 28, 2018  , the Company completed two acquisitions in the Air   Gas Handling segment for net cash consideration of   $35.9 million  . During the same period, the Company also completed an acquisition in the Fabrication Technology segment for net cash consideration of   $38.2 million  . All three acquisitions are subject to certain purchase price adjustments. 
+    
+          On October 1, 2018, the Company acquired Gas Control Equipment Group AB ( GCE ) for cash consideration of   $216.1 million  , subject to purchase price adjustments. The acquisition will be integrated into the Fabrication Technology reporting segment, improving scale and customer reach in Europe, and increasing presence in specialty gas applications. For the twelve months ended September 28, 2018, GCE had revenues of approximately   $120 million  . 
+
+5. Revenue 
+    
+  The Company accounts for revenue in accordance with Topic 606,  Revenue from Contracts with Customers,  which the Company adopted on January 1, 2018, using the full retrospective method. Accordingly, the Company recognizes revenue when control of promised goods or services is transferred to the customer. The amount of revenue recognized reflects the consideration to which the Company expects to be entitled in exchange for transferring the goods or services. The nature of the Company s contracts gives rise to certain types of variable consideration, including rebates and other discounts. The Company includes estimated amounts of variable consideration in the transaction price to the extent that it is probable there will not be a significant reversal of revenue. Estimates are based on historical or anticipated performance and represent the Company s best judgment at the time. Any estimates are evaluated on a quarterly basis until the uncertainty is resolved.  
+    
+  The Company provides a variety of products and services to its customers. Most of the Company s contracts consist of a single, distinct performance obligation or promise to transfer goods or services to a customer. For contracts that include multiple performance obligations, the Company allocates the total transaction price to each performance obligation using the Company s best estimate of the standalone selling price of each identified performance obligation.  
+    
+  A majority of revenue recognized by the Company relates to contracts with customers for standard or off-the-shelf products. As control typically transfers to the customer upon shipment of the product in these circumstances, revenue is generally recognized at that point in time. For service contracts, the Company recognizes revenue ratably over the period of performance as the customer simultaneously receives and consumes the benefits of the services provided.  
+    
+  The following tables disaggregate the Company s revenue by segment and timing of transfer: 
+
+13 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+In certain contracts, particularly within the Air and Gas Handling segment, the Company is engaged to engineer and build highly-customized, large-scale products and systems. In these circumstances, the Company produces an asset with no alternative use and has a right to payment for performance completed to date. As a result, revenue is recognized over time based on progress to date. To measure progress, the Company uses an input method based on costs incurred relative to total estimated costs. Under this method, contract revenues are recognized over the performance period of the contract. The amount recognized is directly proportionate to the costs incurred as a percentage of total estimated costs for the entirety of the contract. This method requires estimates to determine the appropriate cost and revenue recognition. Significant management judgments and estimates, including estimated costs to complete projects, must be made and used in connection with revenue recognized during each period. Current estimates may be revised as additional information becomes available. The revisions are recorded in income in the period in which they are determined using the cumulative catch-up method of accounting.  
+    
+  As of   September 28, 2018  , the Air and Gas Handling business had   $835.6 million   of remaining performance obligations, which is also referred to as total backlog. Of that total backlog, the Company expects to recognize approximately   43%   as revenue in 2018 and an additional   57%   thereafter. 
+    
+  Given the nature of these long-term contracts, the Company is often paid at various points throughout the process, based on the contractual terms. The Company applies the available practical expedient involving the existence of a significant financing component. As the Company generally does not receive payments greater than one year in advance or arrears of revenue recognition, the Company does not consider any arrangements to include financing components.   
+    
+  Any recognized revenues in excess of customer billings are recorded as a component of Trade receivables. Billings to customers in excess of recognized revenues are recorded as a component of Customer advances and billings in excess of costs incurred. For long-term contracts, amounts are billed as work progresses, based on the specified timeline included in the contractual terms. Each contract is evaluated individually to determine the net asset or net liability position. As of   September 28, 2018   and December 31, 2017, there were   $185.2 million   and   $203.9 million  , respectively, of revenues in excess of billings and   $77.2 million   and   $94.2 million  , respectively, of billings in excess of revenues on long-term contracts in the Condensed Consolidated Balance Sheets. For contracts recognized at a point in time, revenue recognition and billing typically occur simultaneously. 
+    
+  The Company s Fabrication Technology business formulates, develops, manufactures and supplies consumable products and equipment. Substantially all revenue from the Fabrication Technology business is recognized at a point in time. As a result, of the total amount of remaining unsatisfied performance obligations, the majority relate to ship and bill arrangements. Given the nature of this business, the total amount of unsatisfied performance obligations with an original contract duration of greater than one year as of   September 28, 2018   is immaterial.  
+    
+  In some circumstances for both over time and point in time contracts, customers are billed in advance of revenue recognition, resulting in contract liabilities. As of December 31, 2017 and 2016, total contract liabilities were   $133.3 million   and   $137.6 million  , respectively. During the   three and nine months ended September 28, 2018  , revenue recognized that was included in the contract liability balance at the beginning of the year was   $5.9 million   and   $103.8 million  , respectively. Of this total   16.1%   and   67.5%  , respectively, was related to long-term contracts which have met the criteria for over time recognition. During the three and nine months ended September 29, 2017, revenue recognized that was included in the contract liability balance at the beginning of the year was   $9.0 million   and   $106.7 million  , respectively. Of this total   49.2%   and   71.2%  , respectively, was related to long-term contracts which have met the criteria for over time recognition. As of   September 28, 2018   and   September 29, 2017  , total contract liabilities were   $143.7 million   and   $121.9 million  , respectively.  
+    
+  The period of benefit for the Company s incremental costs of obtaining a contract would generally have less than a one-year duration; therefore, the Company applies the practical expedient available and expenses costs to obtain a contract when incurred. 
+
+14 
+
+COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+6. Net Income Per Share from Continuing Operations 
+    
+  Net income per share from continuing operations was computed as follows: 
+
+(1)   Net income from continuing operations attributable to Colfax Corporation for the respective periods is calculated using Net income from continuing operations less the income attributable to noncontrolling interest, net of taxes. 
+    
+   The weighted-average computation of the dilutive effect of potentially issuable shares of Common stock under the treasury stock method for the   three and nine months ended September 28, 2018   and   September 29, 2017   excludes   3.5 million   and   2.8 million   of outstanding stock-based compensation awards, respectively, as their inclusion would be anti-dilutive.  
+
+7. Income Taxes  
+    
+  During the   three and nine months ended September 28, 2018  , Income from continuing operations before income taxes was   $50.3 million   and   $148.8 million  , respectively, while the income tax expense was   $12.4 million   and   $11.5 million  , respectively. The effective tax rates were   24.6%   and   7.7%   for the   three and nine months ended September 28, 2018  , respectively. The effective tax rate for the three months ended September 28, 2018 differed from the 2018 U.S. federal statutory rate of   21%   mainly due to international taxes which are higher than the U.S. tax rate, losses in certain jurisdictions where a tax benefit is not expected to be recognized in 2018, and U.S. tax on certain foreign earnings including GILTI, offset in part by net discrete tax benefits of   $6.8 million  , primarily attributed to the expected realization of certain U.S. tax credits. The effective tax rate for the nine months ended September 28, 2018 differed from the 2018 U.S. federal statutory rate of   21%   mainly due to net discrete tax benefits of   $33.7 million  , including the effective settlement of uncertain tax positions, an enacted tax rate change in a foreign jurisdiction, valuation allowance reversals, and the expected realization of certain U.S. tax credits, offset in part by international taxes, which are higher than the U.S. tax rate, losses in certain jurisdictions where a tax benefit is not expected to be recognized in 2018, and U.S. tax on certain foreign earnings including GILTI. 
+    
+  During the   three and nine months ended September 29, 2017  , Income from continuing operations before income taxes was   $63.4 million   and   $176.0 million  , respectively, while the Provision for income taxes was   $13.8 million   and   $46.1 million  , respectively. The effective tax rates were   21.8%   and   26.2%   for the   three and nine months ended September 29, 2017  , respectively. The effective tax rate differed from the   2017   U.S. federal statutory rate of   35%   primarily due to international tax rates, which were lower than the U.S. tax rate, offset in part by losses in certain jurisdictions where a tax benefit was not expected to be recognized  
+  
+   15 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+in   2017  . The provision for income taxes for the   three and nine months ended September 29, 2017   includes   $1.6 million   and   $2.3 million   of discrete tax benefits, respectively. 
+
+8. Equity 
+    
+  Share Repurchase Program 
+    
+  On   February 12, 2018  , the Company s Board of Directors authorized the repurchase of up to   $100 million   of the Company s Common stock from time-to-time on the open market or in privately negotiated transactions. The Board of Directors increased the repurchase authorization by an additional   $100 million   on   June 6, 2018  . On   July 19, 2018  , the Board of Directors increased the repurchase authorization by an additional   $100 million  . The timing, amount and method of shares repurchased is determined by management based on its evaluation of market conditions and other factors. 
+    
+  During the   nine months ended September 28, 2018  , the Company repurchased   6,449,425   shares of the Company s Common stock in open market transactions for   $200.0 million  . As of   September 28, 2018  , the remaining stock repurchase authorization provided by the Company s Board of Directors was   $100.0 million  . 
+    
+  Accumulated Other Comprehensive Loss 
+    
+  The following tables present the changes in the balances of each component of Accumulated other comprehensive loss including reclassifications out of Accumulated other comprehensive loss for the   nine months ended September 28, 2018   and   September 29, 2017  . All amounts are net of tax and noncontrolling interest, if any. 
+
+16 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+(1)    Included in the computation of net periodic benefit cost. See Note 12,  Net Periodic Benefit Cost - Defined Benefit Plans  for additional details. 
+
+9. Inventories, Net 
+    
+  Inventories, net consisted of the following: 
+
+10. Debt 
+    
+  Long-term debt consisted of the following:  
+
+The Company is party to a credit agreement by and among the Company, as the borrower, certain U.S. subsidiaries of the Company identified therein, as guarantors, each of the lenders party thereto and Deutsche Bank AG New York Branch, as  
+  
+   17 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+administrative agent, swing line lender and global coordinator (the  DB Credit Agreement ). As of   September 28, 2018  , the weighted-average interest rate of borrowings under the DB Credit Agreement was   3.73%  , excluding accretion of original issue discount and deferred financing fees, and there was   $1.2 billion   available on the revolving credit facility. 
+    
+  On April 19, 2017, the Company issued senior unsecured notes with an aggregate principal amount of    350 million   (the  Euro Notes ). The Euro Notes are due in April 2025 and have an interest rate of   3.25%  . The proceeds from the Euro Notes offering were used to repay borrowings under the DB Credit Agreement and bilateral credit facilities totaling    283.5 million  , as well as for general corporate purposes, and are guaranteed by certain of the Company s domestic subsidiaries (the "Guarantees"). In conjunction with the issuance, the Company recorded   $6.0 million   of deferred financing fees. The Euro Notes and the Guarantees have not been, and will not be, registered under the Securities Act of 1933, as amended (the "Securities Act"), or the securities laws of any other jurisdiction. 
+    
+  As of   September 28, 2018  , the Company had an original issue discount of   $2.0 million   and deferred financing fees of   $7.5 million   included in its Condensed Consolidated Balance Sheet, which will be accreted to Interest expense, primarily using the effective interest method, over the life of the applicable debt agreements.  
+    
+  In addition to the debt agreements discussed above, the Company is party to various bilateral credit facilities with a borrowing capacity of   $273.9 million  . As of   September 28, 2018  , outstanding borrowings under these facilities were   $90.0 million  , and had a weighted average borrowing rate of   3.23%  . 
+    
+  The Company is also party to letter of credit facilities with total capacity of   $752.6 million  . Total letters of credit of   $375.8 million   were outstanding as of   September 28, 2018  .  
+    
+  As of September 28, 2018, the Company is in compliance with the covenants under the DB Credit Agreement. 
+
+11. Accrued Liabilities 
+    
+  Accrued liabilities in the Condensed Consolidated Balance Sheets consisted of the following: 
+
+Warranty Liability 
+    
+  The activity in the Company s warranty liability consisted of the following:   
+
+18 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+Accrued Restructuring Liability 
+    
+  The Company s restructuring programs include a series of actions to reduce the structural costs of the Company. A summary of the activity in the Company s restructuring liability included in Accrued liabilities and Other liabilities in the Condensed Consolidated Balance Sheets is as follows: 
+
+(1)     Includes severance and other termination benefits, including outplacement services.  
+   (2)     Includes the cost of relocating associates, relocating equipment and lease termination expense in connection with the closure of facilities.  
+   (3)    As of   September 28, 2018  ,   $13.0 million   of the Company s restructuring liability was included in Accrued liabilities. 
+    
+  The Company expects to incur charges of approximately   $30 million   during the remainder of   2018   related to its restructuring activities. 
+  
+   19 
+
+COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+12  . Net Periodic Benefit Cost - Defined Benefit Plans 
+    
+  In connection with the sale of the Fluid Handling business, the Buyer assumed the Fluid Handling liability for all foreign defined benefit plans specific to the Fluid Handling business, a portion of the U.S. defined benefit plan, and certain other postretirement obligations. Net benefit cost for the Fluid Handling business is included in   (Loss) income from discontinued operations, net of taxes  , within the Condensed Consolidated Statements of Income. See Note 3,  Discontinued Operations  for further information.  
+    
+  The following table sets forth the components of total net periodic benefit cost of the Company s defined benefit pension plans and other post-retirement employee benefit plans:  
+
+During the   three and nine months ended September 29, 2017  , net periodic benefit cost of   $2.0 million   and   $4.3 million  , respectively, are included in   (Loss) income from discontinued operations, net of taxes  . 
+
+13  . Financial Instruments and Fair Value Measurements 
+    
+  The carrying values of financial instruments, including Trade receivables and Accounts payable, approximate their fair values due to their short-term maturities. The   $1.1 billion   estimated fair value of the Company s debt as of   September 28, 2018   and   December 31, 2017  , was based on current interest rates for similar types of borrowings and is in Level Two of the fair value hierarchy. The estimated fair values may not represent actual values of the financial instruments that could be realized as of the balance sheet date or that will be realized in the future. 
+
+20 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+A summary of the Company s assets and liabilities that are measured at fair value for each fair value hierarchy level for the periods presented is as follows: 
+
+There were no transfers in or out of Level One, Two or Three during the   nine months ended September 28, 2018  .  
+
+21 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+Foreign Currency Contracts 
+    
+  As of   September 28, 2018   and   December 31, 2017  , the Company had foreign currency contracts with the following notional values: 
+
+The Company recognized the following in its Condensed Consolidated Financial Statements related to its derivative instruments:  
+
+(1)    The unrealized gain (loss) on net investment hedges is attributable to the change in valuation of Euro denominated debt.  
+
+14  . Commitments and Contingencies 
+    
+  For further description of the Company s litigation and contingencies, reference is made to Note 16,  Commitments and Contingencies  in the Notes to Consolidated Financial Statements in the   2017   Form 10-K. Because the Company did not retain an interest in the ongoing operations of the divested Fluid Handling business, the retained asbestos-related activity has been classified in its Condensed Consolidated Statements of Operations as a component of (Loss) income from discontinued operations, net of taxes. 
+
+22 
+
+    COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+Asbestos Contingencies 
+    
+  Claims activity since December 31 related to asbestos claims is as follows: 
+
+(1)    Claims filed include all asbestos claims for which notification has been received or a file has been opened. 
+   (2)    Claims resolved include all asbestos claims that have been settled, dismissed or that are in the process of being settled or dismissed based upon agreements or understandings in place with counsel for the claimants. 
+    
+  The Company s Condensed Consolidated Balance Sheets included the following amounts related to asbestos-related litigation: 
+
+(1)    Included in Other assets in the Condensed Consolidated Balance Sheets. 
+   (2)    Represents current accruals for probable and reasonably estimable asbestos-related liability costs that the Company believes the subsidiaries will pay, and unpaid legal costs related to defending themselves against asbestos-related liability claims and legal action against the Company s insurers, which is included in Accrued liabilities in the Condensed Consolidated Balance Sheets. 
+   (3)    Included in Other liabilities in the Condensed Consolidated Balance Sheets. 
+    
+  Management s analyses are based on currently known facts and assumptions. Projecting future events, such as new claims to be filed each year, the average cost of resolving each claim, coverage issues among layers of insurers, the method in which losses will be allocated to the various insurance policies, interpretation of the effect on coverage of various policy terms and limits and their interrelationships, the continuing solvency of various insurance companies, the amount of remaining insurance available, as well as the numerous uncertainties inherent in asbestos litigation could cause the actual liabilities and insurance recoveries to be higher or lower than those projected or recorded which could materially affect the Company s financial condition, results of operations or cash flow.  
+    
+  Other Litigation Matters 
+    
+  The Company is also involved in other pending legal proceedings arising out of the ordinary course of the Company s business. None of these legal proceedings are expected to have a material adverse effect on the financial condition, results of operations or cash flow of the Company. With respect to these proceedings and the litigation and claims described in the preceding paragraphs, management of the Company believes that it will either prevail, has adequate insurance coverage or has established appropriate accruals to cover potential liabilities. Any costs that management estimates may be paid related to these proceedings or claims are accrued when the liability is considered probable and the amount can be reasonably estimated. There can be no assurance, however, as to the ultimate outcome of any of these matters, and if all or substantially all of these legal proceedings were to be determined adverse to the Company, there could be a material adverse effect on the financial condition, results of operations or cash flow of the Company.  
+
+23 
+
+COLFAX CORPORATION  
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   (Continued) 
+   (Unaudited) 
+
+15. Segment Information 
+    
+  The Company conducts its continuing operations through the Air and Gas Handling and Fabrication Technology segments, which also represent the Company s reportable segments. 
+
+Air and Gas Handling   - a global supplier of centrifugal and axial fans, rotary heat exchangers, gas compressors, ventilation control systems and software, and aftermarket services; and 
+
+Fabrication Technology   -     a global supplier of welding equipment, cutting equipment, automated welding and cutting systems, and consumables. 
+       
+  Certain amounts not allocated to the two reportable segments and intersegment eliminations are reported under the heading  Corporate and other.  The Company s management evaluates the operating results of each of its reportable segments based upon Net sales and segment operating income, which represents Operating income before Restructuring and other related charges.  
+    
+  The Company s segment results were as follows: 
+
+(1)    The following is a reconciliation of Income from continuing operations before income taxes to segment operating income: 
+
+24 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    
+  MANAGEMENT S DISCUSSION AND ANALYSIS OF  
+  FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+    
+  The following discussion of the financial condition and results of operations of Colfax Corporation ( Colfax,   the Company,   we,   our,  and  us ) should be read in conjunction with the Condensed Consolidated Financial Statements and related footnotes included in Part I. Item 1.  Financial Statements  of this Quarterly Report on Form 10-Q for the quarterly period ended   September 28, 2018   (this  Form 10-Q ) and the Consolidated Financial Statements and related footnotes included in Part II. Item 8.  Financial Statements and Supplementary Data  of our Annual Report on Form 10-K for the year ended   December 31, 2017   (the    2017   Form 10-K ) filed with the Securities and Exchange Commission (the  SEC ) on   February 16, 2018  .  
+    
+  SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS  
+    
+  Some of the statements contained in this Form 10-Q that are not historical facts are forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934 (the  Exchange Act ). We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 21E of the Exchange Act. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date this Form 10-Q is filed with the Securities and Exchange Commission (the  SEC ). All statements other than statements of historical fact are statements that could be deemed forward-looking statements, including statements regarding: projections of revenue, profit margins, expenses, tax provisions and tax rates, earnings or losses from operations, impact of foreign exchange rates, cash flows, pension and benefit obligations and funding requirements, synergies or other financial items; plans, strategies and objectives of management for future operations including statements relating to potential acquisitions, compensation plans or purchase commitments; developments, performance or industry or market rankings relating to products or services; future economic conditions or performance; the outcome of outstanding claims or legal proceedings including asbestos-related liabilities and insurance coverage litigation; potential gains and recoveries of costs; assumptions underlying any of the foregoing; and any other statements that address activities, events or developments that we intend, expect, project, believe or anticipate will or may occur in the future. Forward-looking statements may be characterized by terminology such as  believe,   anticipate,   should,   would,   intend,   plan,   will,   expect,   estimate,   project,   positioned,   strategy,   targets,   aims,   seeks,   sees,  and similar expressions. These statements are based on assumptions and assessments made by our management in light of their experience and perception of historical trends, current conditions, expected future developments and other factors we believe to be appropriate. These forward-looking statements are subject to a number of risks and uncertainties, including but not limited to the following:  
+
+changes in the general economy, as well as the cyclical nature of the markets we serve; 
+
+a significant or sustained decline in commodity prices, including oil; 
+
+our ability to identify, finance, acquire and successfully integrate attractive acquisition targets; 
+
+our exposure to unanticipated liabilities resulting from acquisitions; 
+
+our ability and the ability of our customers to access required capital at a reasonable cost; 
+
+our ability to accurately estimate the cost of or realize savings from our restructuring programs; 
+
+the amount of and our ability to estimate our asbestos-related liabilities; 
+
+the solvency of our insurers and the likelihood of their payment for asbestos-related costs; 
+
+material disruptions at any of our manufacturing facilities; 
+
+noncompliance with various laws and regulations associated with our international operations, including anti-bribery laws, export control regulations and sanctions and embargoes; 
+
+risks associated with our international operations, including risks from trade protection measures and other changes in trade relations; 
+     
+   25 
+
+risks associated with the representation of our employees by trade unions and work councils; 
+
+our exposure to product liability claims; 
+
+potential costs and liabilities associated with environmental, health and safety laws and regulations; 
+
+failure to maintain, protect and defend our intellectual property rights; 
+
+the loss of key members of our leadership team; 
+
+restrictions in our principal credit facility that may limit our flexibility in operating our business;  
+
+impairment in the value of intangible assets; 
+
+the funding requirements or obligations of our defined benefit pension plans and other post-retirement benefit plans; 
+
+significant movements in foreign currency exchange rates; 
+
+availability and cost of raw materials, parts and components used in our products; 
+
+new regulations and customer preferences reflecting an increased focus on environmental, social and governance issues, including new regulations related to the use of conflict minerals; 
+
+service interruptions, data corruption, cyber-based attacks or network security breaches affecting our information technology infrastructure; 
+
+risks arising from changes in technology; 
+
+the competitive environment in our industry; 
+
+changes in our tax rates or exposure to additional income tax liabilities, including the effects of the U.S. Tax Cuts and Jobs Act; 
+
+our ability to manage and grow our business and execution of our business and growth strategies; 
+
+the level of capital investment and expenditures by our customers in our strategic markets; 
+
+our financial performance; and 
+
+Any such forward-looking statements are not guarantees of future performance and actual results, developments and business decisions may differ materially from those envisaged by such forward-looking statements. These forward-looking statements speak only as of the date this Form 10-Q is filed with the SEC. We do not assume any obligation and do not intend to update any forward-looking statement except as required by law. See Part I. Item 1A.  Risk Factors  in our   2017   Form 10-K for a further discussion regarding some of the reasons that actual results may be materially different from those that we anticipate. 
+
+26 
+
+Overview 
+    
+  We conduct our continuing operations through the Air and Gas Handling and Fabrication Technology segments, which also represent our reportable segments. 
+
+Air and Gas Handling   - a global supplier of industrial centrifugal and axial fans, rotary heat exchangers, gas compressors, ventilation control systems and software, and aftermarket services; and  
+
+Fabrication Technology   -     a global supplier of consumable products and equipment for use in the cutting, joining and automated welding of steels, aluminum and other metals and metal alloys. 
+       
+  We sold our Fluid Handling business to CIRCOR International ( CIRCOR ), Inc., a Delaware corporation on December 11, 2017. Total consideration for the sale was   $860.6   million, consisting of   $551.0 million   of cash,   3.3   million shares of CIRCOR common stock ( CIRCOR Shares ), and assumption of   $168.0 million   of net retirement liabilities. All cash consideration has been collected. During the second quarter of 2018, we sold the CIRCOR Shares for net cash proceeds of $139.5 million. See Note 3,  Discontinued Operations  for further information.  
+    
+  Certain amounts not allocated to the two reportable segments and intersegment eliminations are reported under the heading  Corporate and other.   
+    
+  We have sales, engineering, administrative and production facilities in Europe, North America, South America, Asia, Australia and Africa. Through our reportable segments, we serve a global customer base across multiple markets through a combination of direct sales and third-party distribution channels. Our customer base is highly diversified and includes commercial, industrial and government customers. 
+    
+  During the third quarter of 2018, Argentina became a highly inflationary economy, resulting in the remeasurement of our Argentinian operations into Brazilian real, the functional currency of its direct parent. Gains and losses from the re-measurement are reflected in current earnings. Future impacts to earnings of applying highly inflationary accounting for Argentina on our Consolidated Financial Statements will be dependent upon movements in the applicable exchange rates. As of and for the nine months ended September 28, 2018, the Argentina operation represented less than 1% of the Company s Total assets and Net sales. The devaluation of the peso resulted in a loss of $1.2 million recognized in the Fabrication Technology segment operating income during the third quarter of 2018. 
+    
+  Integral to our operations is Colfax Business System (CBS). CBS is our business management system, including a comprehensive set of tools, and is a repeatable, teachable processes that we use to create superior value for our customers, shareholders and associates. Rooted in our core values, it is our culture. We believe that our management team s access to, and experience in, the application of CBS is one of our primary competitive strengths. 
+
+Results of Operations 
+    
+  The following discussion of Results of Operations addresses the comparison of the periods presented. Our management evaluates the operating results of each of its reportable segments based upon Net sales and segment operating income, which represents Operating income before Restructuring and other related charges.  
+
+Items Affecting Comparability of Reported Results 
+    
+  The comparability of our operating results for the   third quarter and nine months ended September 28, 2018   to the comparable   2017   periods is affected by the following additional significant items: 
+    
+  Strategic Acquisitions    
+    
+  We complement our organic growth plans with strategic acquisitions. Acquisitions can significantly affect our reported results, and we report the change in our Net sales between periods both from existing and acquired businesses. Orders and order backlog are presented only for the Air and Gas Handling segment, where this information is relevant. The change in Net sales due to acquisitions for the periods presented in this filing represents the incremental sales as a result of acquisitions. During the   nine months ended September 28, 2018  , the Company completed three acquisitions: one in our Fabrication Technology segment and  
+  
+   27 
+
+two in our Air   Gas Handling segment. During the   nine months ended September 29, 2017  , we completed three acquisitions: two in our Fabrication Technology segment and one in our Air and Gas Handling segment.  
+    
+  Foreign Currency Fluctuations 
+    
+  A significant portion of our Net sales, approximately   79% and 80%   for the   third quarter and nine months ended September 28, 2018  , respectively, were derived from operations outside the U.S., with the majority of those sales denominated in currencies other than the U.S. dollar. Because much of our manufacturing and employee costs are outside the U.S., a significant portion of our costs are also denominated in currencies other than the U.S. dollar. Changes in foreign exchange rates can impact our results of operations and are quantified when significant. Changes in foreign exchange during the third quarter of 2018 decreased Net sales and Income from continuing operations before income taxes by approximately 4% when compared with the third quarter of 2017. Changes in foreign exchange during the nine months ended September 28, 2018 increased Net sales and Income from continuing operations before income taxes by approximately 1% when compared with the same period in 2017. The changes in foreign exchange rates since   December 31, 2017   decreased net assets by approximately 5% as of the nine months ended September 28, 2018. 
+    
+  Seasonality 
+    
+  As our air and gas handling customers seek to fully utilize capital spending budgets before the end of the year, usually our shipments peak during the fourth quarter. Also, our European operations typically experience a slowdown during the July, August and December vacation seasons. General economic conditions may, however, impact future seasonal variations.  
+
+28 
+
+Total Company 
+    
+  Sales, Orders and Backlog 
+    
+  Net sales for the   third quarter and nine months ended September 28, 2018   increased as compared with the   third quarter and nine months ended September 29, 2017  . The following table presents the components of changes in our consolidated Net sales and, for our Air and Gas Handling segment, orders and order backlog: 
+
+(1)    Represents contracts for products or services, net of current year cancellations for orders placed in the current and prior periods.  
+   (2)    Excludes the impact of foreign exchange rate fluctuations and acquisitions, thus providing a measure of growth due to factors such as price, product mix and volume. 
+   (3)    Represents the incremental sales, orders and order backlog as a result of our acquisitions discussed previously. 
+   (4)    Represents the difference between prior year sales, orders and order backlog valued at the actual prior year foreign exchange rates and prior year sales, orders and order backlog valued at current year foreign exchange rates. 
+    
+  The increase in Net sales during the   third quarter of 2018   compared to the   third quarter of 2017   is primarily attributed to Net sales from acquisitions. Net sales from acquisitions in our Air and Gas Handling segment and Fabrication Technology segment were   $43.1 million   and   $18.3 million  , respectively. Net sales from existing businesses increased   $48.6 million   in our Fabrication Technology segment and decreased   $43.8 million   in our Air and Gas Handling segment. Fluctuation of foreign currency translation rates had a negative impact of $35.3 million during the quarter. Orders from existing businesses during the   third quarter of 2018   as compared to the   third quarter of 2017   increased by   $41.0 million  . The increase in orders is primarily attributable to increased orders in the general industrial, mining and oil and gas end markets, partially offset by a decline in the power generation end market.  
+    
+  The increase in Net sales during the   nine months ended September 28, 2018   compared to   nine months ended September 29, 2017   is also mainly driven by acquisitions. Acquisitions contributed   $132.1 million   of sales to our Air and Gas Handling segment and   $68.2 million   to our Fabrication Technology segment. Net sales from existing businesses increased   $118.5 million   in our Fabrication Technology segment and decreased by   $83.8 million   in our Air and Gas Handling segment. Orders from existing  
+  
+   29 
+
+businesses during the   nine months ended September 28, 2018   compared to the   nine months ended September 29, 2017   decreased by   $78.9 million  . The decrease is primarily attributable to a decline in the power generation end market, and a $20 million cancellation during the second quarter of 2018 as a result of the wind-down of business activities by our non-U.S. subsidiaries due to newly-implemented restrictions implemented by the U.S. government. 
+
+Operating Results 
+    
+  The following table summarizes our results of continuing operations for the comparable periods. 
+
+Third Quarter of 2018 Compared to Third Quarter of 2017  
+    
+  The   $7.0 million   increase in Gross profit during the   third quarter of 2018   in comparison to the   third quarter of 2017   was attributable to increases of   $3.4 million   in our Fabrication Technology segment and   $3.6 million   in our Air and Gas Handling segment. Acquisition-related growth in both segments contributed   $21.1 million   of gross profit in the   third quarter of 2018   and previously executed restructuring initiatives added   $6.7 million   when compared to the   third quarter of 2017  . These improvements were partially offset by negative foreign currency exchange translation of   $10.3 million   and lower sales volume in the Air and Gas Handling segment, and higher material and inflation costs within the Fabrication Technology segment. Gross profit margin remained relatively consistent during the third quarter of 2018 compared to the third quarter of 2017.  
+    
+  The   $13.0 million   increase in Selling, general and administrative expense in the   third quarter of 2018   as compared to the   third quarter of 2017   was mainly due to acquisition-related growth of   $15.0 million  . Restructuring and other related items increased during the   third quarter of 2018   as compared to the   third quarter of 2017  , driven by the expanding scope of our cost reduction programs.  
+    
+  Interest expense, net for the   third quarter of 2018   decreased by $  1.4 million   compared to the   third quarter of 2017  , primarily attributable to changes in foreign currency translation rates and a lower term loan principal balance. 
+    
+  The effective tax rate for continuing operations during the   third quarter of 2018   was   24.6%  , which was higher than the   2018   U.S. federal statutory tax rate of   21%   mainly due to international taxes which are higher than the U.S. tax rate, losses in certain jurisdictions where a tax benefit is not expected to be recognized in 2018 and U.S. tax on certain foreign earnings including GILTI, offset in part by net discrete tax benefits of   $6.8 million   including the expected realization of certain U.S. tax credits. The effective tax rate for the   third quarter of 2017   was   21.8%  , which was lower than the   2017   U.S. federal statutory tax rate of   35%   primarily due to foreign earnings, where international tax rates were lower than the U.S. tax rate, offset in part by losses in certain jurisdictions where a tax benefit was not expected to be recognized in   2017  .  
+    
+  Nine Months Ended September 28, 2018 Compared to Nine Months Ended September 29, 2017 
+    
+  The   $67.2 million   increase in Gross profit for the   nine months ended September 28, 2018   in comparison to the nine months ended   September 29, 2017   included $  46.7 million   of growth in our Fabrication Technology segment and   $20.5 million   of growth in our Air and Gas Handling segment. Acquisitions contributed   $60.5 million   of gross profit during the   nine months ended September  
+  
+   30 
+
+28, 2018   and foreign exchange translation constituted   $7.7 million   of the increase. Restructuring initiatives contributed approximately   $11.3 million   to Gross profit during the   nine months ended September 28, 2018  . The positive impact of acquisitions and restructuring benefits was partially offset by lower sales volume in the Air and Gas Handling segment and higher material costs and inflation in our Fabrication Technology segment, leading to a lower gross profit margin for the   nine months ended September 28, 2018   compared to the nine months ended   September 29, 2017  . 
+    
+  The   $66.5 million   increase in Selling, general and administrative expense in the nine months ended   September 28, 2018   as compared to the nine months ended   September 29, 2017   includes   $47.9 million   of acquisition-related growth and a   $6.5 million   foreign currency translation impact. Restructuring and other related items increased during the nine months ended   September 28, 2018   as compared to the   Nine months ended September 29, 2017  , driven by the expanding scope of our cost reduction programs.  
+    
+  Interest expense for the nine months ended   September 28, 2018   was consistent with the nine months ended September 29, 2017. 
+    
+  The loss on short term investments of   $10.1 million   during the nine months ended   September 28, 2018   was due to the change in fair value and subsequent sale of the CIRCOR Shares received in connection with the Fluid Handling business sale.  
+    
+  The effective tax rate for continuing operations during the nine months ended   September 28, 2018   was   7.7%  , which is lower than the U.S. federal statutory tax rate primarily due to net discrete tax benefits of   $33.7 million   including the effective settlement of uncertain tax positions, an enacted tax rate change in a foreign jurisdiction, valuation allowance reversals, and the expected realization of certain U.S. tax credits offset in part by international taxes which are higher than the U.S. tax rate, losses in certain jurisdictions where a tax benefit is not expected to be recognized in 2018 and U.S. tax on certain foreign earnings including GILTI.  
+    
+  The effective tax rate during the nine months ended September 29, 2017 was   26.2%  , which was lower than the U.S. federal statutory tax rate primarily due to foreign earnings, where international tax rates were lower than the U.S. tax rate, offset in part by losses in certain jurisdictions where a tax benefit was not expected to be recognized in   2017  .  
+
+Business Segments 
+    
+  As discussed further above, we report results in two reportable segments: Air and Gas Handling and Fabrication Technology.  
+    
+  Air and Gas Handling 
+    
+  We design, manufacture, install and maintain air and gas handling products for use in a wide range of markets, including power generation, oil, gas and petrochemical, mining, wastewater, and general industrial and other. Our air and gas handling products are principally marketed under the Howden brand name. Howden s primary products are heavy-duty fans, rotary heat exchangers, blowers, and compressors. The fans and heat exchangers are used primarily in steel sintering plants and other industrial applications that require movement of large volumes of air, often in harsh applications, underground mines, and coal-fired power stations, both in combustion and emissions control applications. Howden s compressors and blowers are used in oil and gas, petrochemical, wastewater and other industrial end markets. 
+  
+   31 
+
+The following table summarizes selected financial data for our Air and Gas Handling segment:  
+
+Net sales from existing businesses, as discussed and defined under  Sales, Orders and Backlog  above, decreased by   $43.8 million   during the   third quarter of 2018   in comparison to the   third quarter of 2017  , primarily due to the decline in power generation and oil and gas end markets, partially offset by an increase in general industrial end market. Acquisitions contributed   $43.1 million   to Net sales in the third quarter of 2018, while foreign currency translation reduced Net sales by   $10.2 million   during that same period. Gross profit increased in the   third quarter of 2018   as compared to the   third quarter of 2017  , primarily as a result of   $15.3 million   of acquisition-related growth and approximately   $5 million   of savings from previously executed restructuring initiatives, partially offset by lower sales volumes. Gross profit margin improved in the   third quarter of 2018   as compared to the   third quarter of 2017   reflecting positive impacts of acquisitions and, to a lesser extent, savings from previously executed restructuring initiatives and favorable change in mix of sales from less-profitable to more-profitable projects. Selling, general and administrative expense increased in the   third quarter of 2018   compared to the   third quarter of 2017   due to   $11.4 million   acquisition-related growth, partially offset by   $1.1 million   of foreign exchange translation effects. The lower existing business sales volume, partially offset by acquisition growth and restructuring benefits, was the primary driver for the reduction of Segment operating income margin. Restructuring and other related items increased during the   third quarter of 2018   as compared to the   third quarter of 2017  , due to the expanding scope of our cost reduction programs. 
+    
+  For the   nine months ended September 28, 2018  , Net sales from existing businesses decreased by   $83.8 million   in comparison to the   nine months ended September 29, 2017  . This decrease was primarily due to declines in power generation end market, partially offset by an increase in general industrial end market. Acquisition-related growth contributed an increase of   $132.1 million  , and changes in foreign currency translation rates had a positive impact of   $26.1 million  . Gross profit increased during the   nine months ended September 28, 2018   as compared to the   nine months ended September 29, 2017  , reflecting acquisition-related growth of   $42.5 million   and a positive foreign currency translation impact of $7.1 million, offset by lower sales volume. Overall gross profit margin for the   nine months ended September 28, 2018   was consistent with the   nine months ended September 29, 2017  . Selling, general and administrative expense for the   nine months ended September 28, 2018   increased mainly due to acquisition-related growth of   $36.2 million   and foreign currency translation impact of   $6.2 million  , partially offset by a $7.1 million gain on sale of facility recognized in the first quarter of 2018. The lower sales volume, partially offset by acquisition growth, and restructuring benefits were the primary drivers for the reduction of Segment operating income margin. Restructuring and other related items increased during the   nine months ended September 28, 2018  , as a result of expanded cost reduction programs. 
+    
+  Fabrication Technology 
+    
+  We formulate, develop, manufacture and supply consumable products and equipment for use in the cutting, joining and automated welding of steels, aluminum and other metals and metal alloys. Our fabrication technology products are marketed under several brand names, most notably ESAB, which we believe is well known in the global cutting and welding industry. ESAB s comprehensive range of welding consumables includes electrodes, cored and solid wires and fluxes using a wide range of specialty and other materials, and cutting consumables including electrodes, nozzles, shields and tips. ESAB s fabrication technology equipment ranges from portable welding machines to large customized automated cutting and welding systems. Products are sold into a wide range of end markets, including infrastructure, wind power, marine, pipelines, mobile/off-highway equipment, oil, gas, and mining. 
+  
+   32 
+
+The following table summarizes selected financial data for our Fabrication Technology segment: 
+
+Net sales increased   $41.8 million   in the third quarter of 2018 compared to the third quarter of 2017. This growth included   $48.6 million   from existing businesses across all regions,   $18.3 million   of acquisition-related growth and a negative foreign currency translation impact of   $25.1 million  . The growth rate from existing businesses included   5.5%   from increased customer prices to address higher material and inflation costs, and   4.6%   from higher volumes. Gross profit increased in the   third quarter of 2018   as compared to the   third quarter of 2017   mainly due to increased sales volume and acquisition-related growth. Higher customer pricing was more than offset by higher material costs and other inflation in the quarter, which reduced gross profit margins as compared to the same period in 2017. Gross profit margin decreased as compared to the same period 2017, due mainly to the dilutive effect of price increases to customers to address inflation and currency impacts. Selling, general and administrative expense increased in the   third quarter of 2018   compared to the   third quarter of 2017  , mainly due to   $3.6 million   of acquisition-related growth. Higher material costs and inflation were the primary drivers for the reduction of Segment operating income margin. During the third quarter of 2018, the devaluation of the Argentine peso resulted in a loss of $1.2 million, recognized in Cost of sales and Selling, general and administrative expense. Restructuring and other related items increased during the   third quarter of 2018   in comparison to the   third quarter of 2017  , as a result of expanded cost reduction programs. 
+    
+  Net sales from existing business increased   $118.5 million   during the   nine months ended September 28, 2018   in comparison to the   nine months ended September 29, 2017   with continued growth in most markets. Acquisition-related growth provided   $68.2 million   of incremental sales during the   nine months ended September 28, 2018  . The growth rate from existing businesses included 4.4% from increased customer prices to address higher material and inflation costs, and 3.8% from higher volumes. Gross profit increased during the   nine months ended September 28, 2018  , driven by acquisition-related growth of   $18.0 million   and increased sales volumes. Gross margin decreased   100 basis points   due to the dilutive effect of higher material costs and inflation being largely addressed by price increases to customers. Selling, general and administrative expense increased during the   nine months ended September 28, 2018   as compared to the   nine months ended September 29, 2017  , primarily driven by an   $11.7 million   acquisition-related increase and higher costs to support growth initiatives. Higher material costs and inflation partially offset by price increases were the primary drivers for the reduction of Segment operating income margin. Restructuring and other related items increased during the   nine months ended September 28, 2018   in comparison to the   nine months ended September 29, 2017  , as a result of expanded cost reduction programs. 
+
+33 
+
+Liquidity and Capital Resources 
+
+Overview 
+    
+  We have financed our capital and working capital requirements through a combination of cash flows from operating activities, various borrowings and the issuances of equity. We expect that our primary ongoing requirements for cash will be for working capital, funding of acquisitions, capital expenditures, restructuring, and asbestos-related cash outflows and funding of our pension plans. We believe we could raise additional funds in the form of debt or equity if it was determined to be appropriate for strategic acquisitions or other corporate purposes. 
+    
+  Equity Capital 
+    
+  On   February 12, 2018  , the Company s Board of Directors authorized the repurchase of up to   $100 million   of our Common stock from time-to-time on the open market or in privately negotiated transactions. The Board of Directors increased the repurchase authorization by an additional   $100 million   on   June 6, 2018  , and again for an additional   $100 million   on   July 19, 2018  . The timing, amount, and method of shares repurchased is determined by management based on its evaluation of market conditions and other factors. 
+    
+  During the   nine months ended September 28, 2018  , we repurchased   6,449,425   shares of our Common stock in open market transactions. As of   September 28, 2018  , the remaining stock repurchase authorization provided by our Board of Directors was   $100.0 million  . 
+    
+  Borrowing Arrangements 
+    
+  We are party to a credit agreement by and among the Company, as the borrower, certain U.S. subsidiaries of the Company identified therein, as guarantors, each of the lenders party thereto and Deutsche Bank AG New York Branch, as administrative agent, swing line lender and global coordinator (the  DB Credit Agreement ). As of   September 28, 2018  , the weighted-average interest rate of borrowings under the DB Credit Agreement was   3.73%  , excluding accretion of original issue discount and deferred financing fees, and there was   $1.2 billion   available on the revolving credit facility. 
+    
+  On April 19, 2017, we issued senior unsecured notes with an aggregate principal amount of    350 million   (the  Euro Notes ). The Euro Notes are due in April 2025 and have an interest rate of   3.25%  . The proceeds from the Euro Notes offering were used to repay borrowings under our DB Credit Agreement and bilateral credit facilities totaling    283.5 million  , as well as for general corporate purposes, and are guaranteed by certain of our domestic subsidiaries (the  Guarantees ). The Euro Notes and the Guarantees have not been, and will not be, registered under the Securities Act of 1933, as amended (the "Securities Act"), or the securities laws of any other jurisdiction. 
+    
+  In addition, we are party to various bilateral credit facilities with a borrowing capacity of   $273.9 million  . As of   September 28, 2018  , outstanding borrowings under these facilities total   $90.0 million  , with a weighted average borrowing rate of   3.23%  . 
+    
+  We are also party to letter of credit facilities with total capacity of   $752.6 million  . Total letters of credit of   $375.8 million   were outstanding as of   September 28, 2018  .  
+    
+  Certain of our U.S. subsidiaries have agreed to guarantee the obligations of the Company under the DB Credit Agreement. The DB Credit Agreement contains customary covenants limiting the ability of the Company and its subsidiaries to, among other things, incur debt or liens, merge or consolidate with others, dispose of assets or make certain investments. In addition, the DB Credit Agreement contains financial covenants requiring the Company to maintain a total leverage ratio, as defined therein, of not more than 3.5 to 1.0 (not more than 4.0 to 1.0 in the case of certain acquisitions) and minimum interest coverage ratio, as defined therein, of 3.0 to 1.0, measured at the end of each quarter. The DB Credit Agreement contains various events of default (including failure to comply with the covenants under the DB Credit Agreement and related agreements) and upon an event of default the lenders may, subject to various customary cure rights, require the immediate payment of all amounts outstanding under the Term Loan and the Revolver. The Company is in compliance with all such covenants as of   September 28, 2018  . We believe that our sources of liquidity, including the DB Credit Agreement, are adequate to fund our operations for the next twelve months. 
+
+34 
+
+Cash Flows 
+    
+  As of   September 28, 2018  , we had   $285.9 million   of Cash and cash equivalents, an increase of   $23.9 million   from   $262.0 million   as of   December 31, 2017  . The following table summarizes the change in Cash and cash equivalents during the periods indicated:  
+
+We did not have material cash flows for discontinued operations during the   nine months ended September 28, 2018  . During the   nine months ended September 29, 2017  , net cash provided by operating activities of discontinued operations, which is included in the net cash provided by operating activities above, was   $33.9 million  . Cash used in investing activities of discontinued operations, which is included in the net cash used in investing activities, was   $6.0 million   for the   nine months ended September 29, 2017  . 
+    
+  Cash flows from operating activities can fluctuate significantly from period to period due to changes in working capital and the timing of payments for items such as pension funding and asbestos-related costs. Changes in significant operating cash flow items are discussed below. 
+
+Net cash received or paid for asbestos-related costs, net of insurance proceeds, including the disposition of claims, defense costs and legal expenses related to litigation against our insurers, creates variability in our operating cash flows. During the   nine months ended September 28, 2018  , we had net cash outflows of   $13.7 million  . During the   nine months ended September 29, 2017  , we had net cash inflows of   $4.4 million  . Net cash inflows for the   nine months ended September 29, 2017   includes $30.5 million of reimbursements from insurance companies on our asbestos insurance receivable. 
+
+Funding requirements of our defined benefit plans, including pension plans and other post-retirement benefit plans, can vary significantly from period to period due to changes in the fair value of plan assets and actuarial assumptions. For the   nine months ended September 28, 2018   and   nine months ended September 29, 2017  , cash contributions for defined benefit plans were   $30.6 million   and   $22.7 million  , respectively.  
+
+Changes in net working capital also affected the operating cash flows for the periods presented. We define working capital as Trade receivables, net and Inventories, net reduced by Accounts payable and Customer advances and billings in excess of costs incurred. During the   nine months ended September 28, 2018  , net working capital consumed cash of   $83.2 million  , before the impact of foreign exchange, primarily due to an increase in receivables and inventory, partially offset by an increase in payables, all of which resulted from an increase in Net sales. During the nine months ended September 29, 2017, net working capital consumed cash of   $156.7 million  , before the impact of foreign exchange, primarily due to an increase in receivables and inventories, reflecting current year sales growth and lower customer advance payments and progress billings on projects.  
+     
+   35 
+
+Cash flows provided by investing activities during the   nine months ended September 28, 2018   reflect proceeds from the sale of CIRCOR common stock and proceeds from the divestiture of the Fluid Handling business. See Note 3,  Discontinued Operations  for further information. Cash flows used in investing activities during the   nine months ended September 28, 2018   included an acquisition in our Fabrication Technology segment during the first quarter and two acquisitions in our Air and Gas Handling segment during the third quarter. During the   nine months ended September 29, 2017  , cash flows used in investing activities included two acquisitions in our Fabrication Technology segment and one acquisition in our Air and Gas Handling segment.  
+    
+  Cash flows used in financing activities for the   nine months ended September 28, 2018   were impacted by the repurchase of   6.4   million shares of our Common stock for   $200.0 million  . Cash flows provided by financing activities during the   nine months ended September 29, 2017   reflect net borrowings inclusive of fees incurred in the issuance of the Euro Notes during the   third quarter of 2017  . 
+    
+  Our Cash and cash equivalents as of   September 28, 2018   include   $281.7 million   held in jurisdictions outside the U.S. We currently do not intend nor foresee a need to repatriate these funds. If, however, we elect to repatriate future earnings from foreign jurisdictions, such repatriation remittances may be subject to taxes, other local statutory restrictions and minority partner distributions. 
+
+Critical Accounting Policies  
+    
+  The methods, estimates and judgments that we use in applying our critical accounting policies have a significant impact on our results of operations and financial position. We evaluate our estimates and judgments on an ongoing basis. Our estimates are based upon our historical experience, our evaluation of business and macroeconomic trends and information from other outside sources, as appropriate. Our experience and assumptions form the basis for our judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may vary from what our management anticipates, and different assumptions or estimates about the future could have a material impact on our results of operations and financial position.  
+    
+  We account for revenue in accordance with Topic 606,  Revenue from Contracts with Customers,  which we adopted on January 1, 2018, using the full retrospective method. Accordingly, we recognize revenue when control of promised goods or services is transferred to the customer. The amount of revenue recognized reflects the consideration to which we expect to be entitled in exchange for transferring the goods or services. The nature of our contracts gives rise to certain types of variable consideration, including rebates and other discounts. We include estimated amounts of variable consideration in the transaction price to the extent that it is probable there will not be a significant reversal of revenue. Estimates are based on historical or anticipated performance and represent our best judgment at the time. Any estimates are evaluated on a quarterly basis until the uncertainty is resolved.  
+  We provide a variety of products and services to our customers. Most of our contracts consist of a single, distinct performance obligation or promise to transfer goods or services to a customer. For contracts that include multiple performance obligations, we allocate the total transaction price to each performance obligation using our best estimate of the standalone selling price of each identified performance obligation.  
+  A majority of the revenue we recognize relates to contracts with customers for standard or off-the-shelf products. As control typically transfers to the customer upon shipment of the product in these circumstances, revenue is generally recognized at that point in time. For service contracts, we recognize revenue ratably over the period of performance as the customer simultaneously receives and consumes the benefits of the services provided.  
+    
+  In certain contracts, particularly within our Air and Gas Handling segment, we are engaged to engineer and build highly-customized, large-scale products and systems. In these circumstances, we produce an asset with no alternative use and have a right to payment for performance completed to date. As a result, revenue is recognized over time based on progress to date. To measure progress, we use an input method based on costs incurred relative to total estimated costs. Under this method, contract revenues are recognized over the performance period of the contract. The amount recognized is directly proportionate to the costs incurred as a percentage of total estimated costs for the entirety of the contract. This method requires estimates to determine the appropriate cost and revenue recognition. Significant management judgments and estimates, including estimated costs to complete projects, must be made and used in connection with revenue recognized during each period. Current estimates may be revised as additional  
+  
+   36 
+
+information becomes available. The revisions are recorded in income in the period in which they are determined using the cumulative catch-up method of accounting. See Note 5,  Revenue  in our Notes to Condensed Consolidated Financial Statements included in this Form 10-Q for additional information regarding how we account for revenue.  
+    
+  There have been no other significant additions to the methods, estimates and judgments included in  Item 7. Management s Discussion and Analysis of Financial Condition and Results of Operations Critical Accounting Policies  in our   2017   Form 10-K. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk  
+    
+  We are exposed to market risk from changes in short-term interest rates, foreign currency exchange rates and commodity prices that could impact our results of operations and financial condition. We address our exposure to these risks through our normal operating and financing activities. We do not enter into derivative contracts for trading purposes. 
+    
+  Interest Rate Risk 
+    
+  We are subject to exposure from changes in short-term interest rates related to interest payments on our borrowing arrangements. A significant amount of our borrowings as of   September 28, 2018  , are variable-rate facilities based on LIBOR or EURIBOR. In order to mitigate our interest rate risk, we may enter into interest rate swap or collar agreements. A hypothetical increase in interest rates of 1.00% during the   third quarter and nine months ended September 28, 2018   would have increased Interest expense by $2.8 million and $7.5 million, respectively. 
+    
+  Exchange Rate Risk 
+    
+  We have manufacturing sites throughout the world and sell our products globally. As a result, we are exposed to movements in the exchange rates of various currencies against the U.S. dollar and against the currencies of other countries in which we manufacture and sell products and services. During the   third quarter and nine months ended September 28, 2018  , approximately   79% and 80%  , respectively, of our sales were derived from operations outside the U.S. We have significant manufacturing operations in European countries that are not part of the Eurozone. Sales are more highly weighted toward the Euro and U.S. dollar. We also have significant contractual obligations in U.S. dollars that are met with cash flows in other currencies as well as U.S. dollars. To better match revenue and expense as well as cash needs from contractual liabilities, we regularly enter into cross currency swaps and forward contracts. 
+    
+  We also face exchange rate risk from our investments in subsidiaries owned and operated in foreign countries. Euro denominated borrowings under the DB Credit Agreement and Euro Notes provide a natural hedge to a portion of our European net asset position. The effect of a change in currency exchange rates on our net investment in international subsidiaries, net of the translation effect of the Company s Euro denominated borrowings, is reflected in the Accumulated other comprehensive loss component of Equity. A 10% depreciation in major currencies, relative to the U.S. dollar as of   September 28, 2018   (net of the translation effect of our Euro denominated borrowings) would result in a reduction in Equity of approximately $345 million. 
+    
+  We also face exchange rate risk from transactions with customers in countries outside the U.S. and from intercompany transactions between affiliates. Although we use the U.S. dollar as our functional currency for reporting purposes, we have manufacturing sites throughout the world, and a substantial portion of our costs are incurred and sales are generated in foreign currencies. Costs incurred and sales recorded by subsidiaries operating outside of the U.S. are translated into U.S. dollars using exchange rates effective during the respective period. As a result, we are exposed to movements in the exchange rates of various currencies against the U.S. dollar. In particular, the Company has more sales in European currencies than it has expenses in those currencies. Although a significant portion of this difference is hedged, when European currencies strengthen or weaken against the U.S. dollar, operating profits are increased or decreased, respectively. 
+    
+  We have generally accepted the exposure to exchange rate movements without using derivative financial instruments to manage this risk. Both positive and negative movements in currency exchange rates against the U.S. dollar will, therefore, continue to affect the reported amount of sales, profit, assets and liabilities in our Condensed Consolidated Financial Statements. 
+
+37 
+
+Commodity Price Risk 
+    
+  We are exposed to changes in the prices of raw materials used in our production processes. Commodity futures contracts are periodically used to manage such exposure. As of   September 28, 2018  , our open commodity futures contracts were not material.  
+    
+  See Note   13  ,  Financial Instruments and Fair Value Measurements  in our Notes to Condensed Consolidated Financial Statements included in this Form 10-Q for additional information regarding our derivative instruments. 
+
+Item 4. Controls and Procedures  
+    
+  Evaluation of Disclosure Controls and Procedures 
+    
+  Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of our disclosure controls and procedures as defined in Rule 13a-15(e) under the Securities Exchange Act of 1934, as amended (the  Exchange Act ), as of   September 28, 2018  . Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective in providing reasonable assurance that the information required to be disclosed in this report on Form 10-Q has been recorded, processed, summarized and reported as of the end of the period covered by this report on Form 10-Q. 
+    
+  Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in reports we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission s rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. 
+    
+  Changes in Internal Control over Financial Reporting 
+    
+  There was no change in our internal control over financial reporting (as defined in Rule 13a-15(f)) identified in connection with the evaluation required by Rule 13a-15(d) of the Exchange Act that occurred during the period covered by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+38 
+
+PART II - OTHER INFORMATION 
+   
+  Item 1. Legal Proceedings 
+    
+  Discussion of legal proceedings is incorporated by reference to Note   14  ,  Commitments and Contingencies,  in the Notes to Condensed Consolidated Financial Statements included in Part I. Item 1.  Financial Statements  of this Form 10-Q. 
+
+Item 1A. Risk Factors 
+    
+  An investment in our common stock involves a high degree of risk. There have been no material changes to the risk factors included in  Part I. Item 1A. Risk Factors  in our 2017 Form 10-K. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+    
+  On   February 12, 2018  , the Company s Board of Directors authorized the repurchase of up to   $100 million   of the Company s Common stock from time-to-time on the open market or in privately negotiated transactions. The Board of Directors increased the repurchase authorization by an additional   $100 million   on   June 6, 2018  , and again for an additional     $100 million     o  n   July 19, 2018  . The timing, amount and method of shares repurchased is determined by management based on its evaluation of market conditions and other factors. The following table presents additional information with respect to our Common stock repurchase program. 
+
+(1)     Represents the weighted-average price paid per share during the three months ended   September 28, 2018  .  
+   (2)     Represents the repurchase program limit authorized by the Board of Directors of   $300 million   less the value of purchases made during the nine months ended   September 28, 2018  . 
+
+Item 3. Defaults Upon Senior Securities  
+    
+  None. 
+
+Item 4. Mine Safety Disclosures 
+    
+  None. 
+
+Item 5. Other Information 
+    
+  None. 
+
+39 
+
+Item 6. Exhibits 
+
+40 
+
+SIGNATURES  
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+    
+  Registrant: Colfax Corporation 
+    
+  By: 
+    
+                       /s/ Matthew L. Trerotola 
+      
+    President and Chief Executive Officer 
+
+Matthew L. Trerotola 
+      
+    (Principal Executive Officer) 
+      
+    October 25, 2018 
+
+/s/ Christopher M. Hix 
+      
+    Senior Vice President, Finance, 
+
+Christopher M. Hix 
+      
+    Chief Financial Officer and Treasurer 
+      
+    October 25, 2018 
+
+(Principal Financial and Accounting Officer) 
+
+41 
+
+<EX-31.1>
+ 2
+ exhibit3101ceocertificatio.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.01 
+  CERTIFICATIONS  
+  I, Matthew L. Trerotola, certify that:  
+    
+                 1. 
+    I have reviewed this quarterly report on Form 10-Q of Colfax Corporation; 
+
+2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Dated:   October 25, 2018    
+    
+               /s/  Matthew L. Trerotola 
+      Matthew L. Trerotola 
+  President and Chief Executive Officer 
+  (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit3102cfocertificatio.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.02 
+  CERTIFICATIONS  
+  I, Christopher M. Hix, certify that:  
+    
+                 1. 
+    I have reviewed this quarterly report on Form 10-Q of Colfax Corporation; 
+
+2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+
+5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+
+(a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+
+(b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Dated:   October 25, 2018    
+    
+               /s/  Christopher M. Hix  
+      Christopher M. Hix 
+  Senior Vice President, Finance,  
+  Chief Financial Officer and Treasurer 
+  (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit3201ceocertificatio.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.01  
+    
+  Certification Pursuant to 18 U.S.C. Section 1350  
+  (as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002)  
+    
+  I, Matthew L. Trerotola, as President and Chief Executive Officer of Colfax Corporation (the  Company ), certify, pursuant to 18 U.S.C. Section 1350 (as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002), that to my knowledge: 
+    
+           1. 
+    the quarterly report on Form 10-Q of the Company for the period ended   September 28, 2018   (the "Report"), filed with the U.S. Securities and Exchange Commission, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              2. 
+    the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+  Dated:   October 25, 2018    
+    
+               /s/  Matthew L. Trerotola 
+      Matthew L. Trerotola 
+  President and Chief Executive Officer 
+  (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ exhibit3202cfocertificatio.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.02 
+    
+  Certification Pursuant to 18 U.S.C. Section 1350  
+  (as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002)  
+  I, Christopher M. Hix, as Senior Vice President, Finance, Chief Financial Officer and Treasurer of Colfax Corporation (the  Company ), certify, pursuant to 18 U.S.C. Section 1350 (as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002), that to my knowledge:  
+    
+           1. 
+    the quarterly report on Form 10-Q of the Company for the period ended   September 28, 2018   (the "Report"), filed with the U.S. Securities and Exchange Commission, fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+              2. 
+    the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+       
+  Dated:   October 25, 2018    
+    
+               /s/  Christopher M. Hix  
+      Christopher M. Hix 
+  Senior Vice President, Finance,  
+  Chief Financial Officer and Treasurer 
+  (Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.INS>
+ 6
+ cfx-20180928.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ cfx-20180928.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ cfx-20180928_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ cfx-20180928_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ cfx-20180928_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ cfx-20180928_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

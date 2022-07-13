@@ -1,0 +1,933 @@
+, 2018
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C.  20549
+
+FORM 10-Q
+
+(Mark One)
+
+For the quarterly period ended: June 30, 2018
+
+or
+
+For the transition period from                     to                    .
+
+Commission file number:   0-21121 
+
+______________________________________________________________________
+
+_____________________________________________________________________
+
+(Exact name of registrant as specified in its charter)
+
+Delaware
+
+06-1456680
+
+(State or Other Jurisdiction of Incorporation or Organization)
+
+(I.R.S. Employer Identification No.)
+
+(Former name, former address and former fiscal year, if changed since last report.)
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes         No      
+
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes         No     
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act.  (check one):
+
+Large accelerated filer     
+
+Accelerated filer     
+
+Non-accelerated filer      (Do not check if a smaller reporting company)
+
+Smaller reporting company     
+
+Emerging growth company     
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial standards provided pursuant to Section 13(a) of the Exchange Act.     
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes         No      
+
+As of July 31, 2018, the number of shares outstanding of the Company's common stock, $0.01 par value, was 7,377,778.
+
+TRANSACT TECHNOLOGIES INCORPORATED 
+
+INDEX 
+
+PART I - Financial Information:
+
+Page
+
+Item 1
+
+Financial Statements (unaudited)
+
+Condensed Consolidated Balance Sheets as of June 30, 2018 and December 31, 2017 
+
+3
+
+Condensed Consolidated Statements of Income for the three and six months ended June 30, 2018 and 2017 
+
+4
+
+Condensed Consolidated Statements of Comprehensive Income for the three and six months ended June 30, 2018 and 2017 
+
+5
+
+Condensed Consolidated Statements of Cash Flows for the six months ended June 30, 2018 and 2017 
+
+6
+
+Notes to Condensed Consolidated Financial Statements 
+
+7
+
+Item 2
+
+Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+12
+
+Item 3
+
+Quantitative and Qualitative Disclosures About Market Risk 
+
+23
+
+Item 4
+
+Controls and Procedures 
+
+23
+
+PART II - Other Information:
+
+Item 1
+
+Legal Proceedings 
+
+23
+
+Item 1A
+
+Risk Factors 
+
+23
+
+Item 2
+
+Unregistered Sales of Equity Securities and Use of Proceeds 
+
+24
+
+Item 3
+
+Default Upon Senior Securities 
+
+24
+
+Item 4
+
+Mine Safety Disclosures 
+
+24
+
+Item 5
+
+Other Information 
+
+24
+
+Item 6
+
+Exhibits 
+
+24
+
+SIGNATURES 
+
+25
+
+2 
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. 
+ 
+ FINANCIAL STATEMENTS
+
+TRANSACT TECHNOLOGIES INCORPORATED
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+(unaudited)
+
+See notes to Condensed Consolidated Financial Statements.
+
+3 
+
+TRANSACT TECHNOLOGIES INCORPORATED
+
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+
+(unaudited)
+
+See notes to Condensed Consolidated Financial Statements.
+
+4 
+
+TRANSACT TECHNOLOGIES INCORPORATED
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+(unaudited)
+
+See notes to Condensed Consolidated Financial Statements.
+
+5 
+
+TRANSACT TECHNOLOGIES INCORPORATED
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(unaudited)
+
+See notes to Condensed Consolidated Financial Statements.
+
+6 
+
+TRANSACT TECHNOLOGIES INCORPORATED
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+(unaudited)
+
+1. Basis of presentation
+
+The accompanying unaudited financial statements of TransAct Technologies Incorporated (the "Company") have been prepared in accordance with accounting principles generally accepted in the United States of America ("U.S. GAAP") for interim financial information.  Accordingly, they do not include all of the information and footnotes required by U.S. GAAP to be included in full year financial statements.  In the opinion of management, all adjustments considered necessary for a fair statement of the results for the periods presented have been included and are of a normal recurring nature.  The December 31, 2017 Condensed Consolidated Balance Sheet data was derived from audited financial statements, but does not include all disclosures required by U.S. GAAP.  These interim financial statements should be read in conjunction with the audited financial statements for the year ended December 31, 2017 included in our Annual Report on Form 10-K.
+
+The financial position and results of operations of our U.K. subsidiary are measured using local currency as the functional currency.  Assets and liabilities of such subsidiary have been translated at the end of period exchange rates, and related revenues and expenses have been translated at the weighted average exchange rates with the resulting translation gain or loss recorded in "Accumulated other comprehensive loss, net of tax", in the Condensed Consolidated Balance Sheets.  Transaction gains and losses are included in "Interest and other income (expense)" in the Condensed Consolidated Statements of Income.
+
+The results of operations for the three and six months ended June 30, 2018 are not necessarily indicative of the results to be expected for the full year.
+
+2. Inventories, net
+
+The components of inventories, net are:
+
+3. Accrued product warranty liability
+
+We generally warrant our products for up to 24 months and record the estimated cost of such product warranties at the time the sale is recorded. Estimated warranty costs are based upon actual past experience of product repairs and the related estimated cost of labor and material to make the necessary repairs.
+
+The following table summarizes the activity recorded in the accrued product warranty liability during the six months ended June 30, 2018 and 2017:
+
+As of June 30, 2018, $208 thousand of the accrued product warranty liability is classified as current in "Accrued liabilities" in the Condensed Consolidated Balance Sheets and the remaining $95 thousand is classified as non-current in "Other liabilities".
+
+7 
+
+4. Earnings per share
+
+The following table sets forth the reconciliation of basic weighted average shares outstanding and diluted weighted average shares outstanding:
+
+The computation of diluted earnings per share excludes the effect of the potential exercise of stock awards, including stock options and restricted stock units, when the average market price of the common stock is lower than the exercise price of the related stock award during the period.  These outstanding stock awards are not included in the computation of diluted earnings per share because the effect would be anti-dilutive.  For the three months ended June 30, 2018 and 2017, there were 196 thousand and 407 thousand, respectively, of potentially dilutive shares consisting of stock awards that were excluded from the calculation of earnings per diluted share.  For the six months ended June 30, 2018 and 2017, there were 147 thousand and 732 thousand, respectively, of potentially dilutive shares consisting of stock awards that were excluded from the calculation of earnings per diluted share.
+
+5. Shareholders' equity
+
+Changes in shareholders' equity for the six months ended June 30, 2018 were as follows (in thousands):
+
+For the three months ended June 30, 2018, our Board of Directors declared a quarterly cash dividend of $0.09 per share, totaling $663 thousand, which was paid on June 15, 2018 to common shareholders of record at the close of business on May 21, 2018.  For the three months ended June 30, 2017, dividends declared and paid totaled $663 thousand, or $0.09 per share.  For the six months ended June 30, 2018 and 2017, dividends declared and paid totaled $1.3 million, or $0.18 per share, and $1.3 million, or $0.17 per share, respectively.
+
+6. Income taxes
+
+We recorded an income tax provision for the second quarter of 2018 of $305 thousand at an effective tax rate of 20.1%, compared to an income tax provision during the second quarter of 2017 of $429 thousand at an effective tax rate of 33.1%.  For the six months ended June 30, 2018, we recorded an income tax provision of $483 thousand at an effective tax rate of 20.4%, compared to an income tax provision during the six months ended June 30, 2017 of $888 thousand at an effective tax rate of 32.9%.  The effective tax rate for the three and six months ended June 30, 2018 was lower than the three and six months ended June 30, 2017 effective tax rate due to the passage of the Tax Cuts and Jobs Act (the "Tax Reform Act") enacted on December 22, 2017.  The legislation significantly changes U.S. tax law by, among other things, lowering corporate income tax rates, implementing a territorial tax system and imposing a one-time repatriation tax on undistributed foreign earnings. The Tax Reform Act reduced the U.S. corporate income tax rate from a maximum of 35% to a flat 21% rate effective January 1, 2018 and, as a result, reduced our statutory U.S. corporate income tax rate from 34% to 21%.
+
+8 
+
+On December 22, 2017, the Securities and Exchange Commission ("SEC") staff issued Staff Accounting Bulletin No. 118 ("SAB 118") to address the application of U.S. GAAP in situations where a registrant does not have the necessary information available, prepared, or analyzed in reasonable detail to complete the accounting for certain income tax effects of the Tax Reform Act. SAB 118 provides a measurement period, not to exceed one year from the enactment of the Tax Reform Act. In accordance with SAB 118, the Company has recognized provisional tax impacts related to the revaluation of deferred tax assets and liabilities and included these amounts in its consolidated financial statements for the year ended December 31, 2017, and no changes were made to these provisional amounts during the quarter ended June 30, 2018. The ultimate impact may differ from these provisional amounts, possibly materially, due to, among other things, additional analysis, changes in interpretations and assumptions, additional regulatory guidance from Treasury, the Internal Revenue Service and State Governments, and actions the Company may take as a result of the Tax Reform Act, but the enactment of this legislation did not result in a material adjustment for the six months ended June 30, 2018.
+
+While the Tax Reform Act provides for a territorial tax system, beginning in 2018, it includes two new U.S. tax base erosion provisions, the global intangible low-taxed income ("GILTI") provisions and the base-erosion and anti-abuse tax ("BEAT") provisions. The GILTI provisions require the Company to include in its U.S. income tax return foreign subsidiary earnings in excess of an allowable return on the foreign subsidiary's tangible assets. The BEAT provisions in the Tax Reform Act eliminate the deduction of certain base-erosion payments made to related foreign corporations, and impose a minimum tax if greater than regular income tax. The Company has not recorded any impacts of GILTI or BEAT in its consolidated financial statements for the quarter ended June 30, 2018.
+
+We are subject to U.S. federal income tax, as well as income tax in certain state and foreign jurisdictions.  We have substantially concluded all U.S. federal income tax, state and local, and foreign tax regulatory examination matters through 2013.  However, our federal tax returns for the years 2014 through 2016 remain open to examination. Various state and foreign tax jurisdiction tax years remain open to examination as well, though we believe that any additional assessment would be immaterial to the Condensed Consolidated Financial Statements.  
+
+As of June 30, 2018, we had $104 thousand of total gross unrecognized tax benefits that, if recognized, would favorably affect the effective income tax rate in any future periods.  We expect $28 thousand of the $104 thousand of unrecognized tax benefits will reverse in 2018 upon the expiration of the statute of limitations.
+
+We recognize interest and penalties related to uncertain tax positions in the income tax provision reported as "Deferred tax assets" in the Condensed Consolidated Balance Sheet.  As of June 30, 2018, we have $23 thousand of accrued interest and penalties related to uncertain tax positions.  The Company maintains a valuation allowance against certain deferred tax assets where realization is not certain.
+
+7. Accounting pronouncements
+
+The following accounting pronouncements will be adopted in future reporting periods:
+
+In February 2016, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2016-02,  Leases (Topic 842 ), which sets out the principles for the recognition, measurement, presentation and disclosure of leases for both parties to a contract (i.e., lessees and lessors).  The new standard requires lessees to apply a dual approach, classifying leases as either finance or operating leases based on the principle of whether or not the lease is effectively a financed purchase by the lessee.  This classification will determine whether lease expense is recognized based on an effective interest method or on a straight-line basis over the term of the lease, respectively.  A lessee is also required to record a right-of-use asset and a lease liability for all leases with a term of greater than 12 months regardless of their classification.  Leases with a term of 12 months or less will be accounted for similar to existing guidance for operating leases today.  ASU 2016-02 supersedes the previous leases standard, ASC 840,  Leases , and is effective for public entities for annual periods beginning after December 15, 2018 and for interim periods within those fiscal years.  Early adoption is permitted.  The Company does have leases for equipment and real property which exceed 12 months and we are currently evaluating the impact that the adoption of ASU 2016-02 will have on our financial statements. 
+
+The following accounting pronouncements were adopted during 2018:
+
+1)
+
+Revenue recognition:
+
+ASU No. 2014-09," Revenue from Contracts with Customers" and its related amendments (collectively, ASC 606) are effective for reporting periods beginning after December 15, 2017, and interim periods therein.  This ASU is intended to clarify the principles for recognizing revenue by removing inconsistencies in revenue requirements; providing a more robust framework for addressing revenue issues; improving comparability of revenue recognition practices across entities, industries, jurisdictions and capital markets; and providing more useful information to users of financial statements through improved revenue disclosure requirements.  Entities have the option of using either a full retrospective approach or modified retrospective approach to adopt the amended guidance.  We adopted ASC 606 effective January 1, 2018 and elected the modified retrospective approach.  The results for periods before 2018 were not adjusted for the new standard and no cumulative effective for the change in accounting was recognized through retained earnings at the date of adoption.
+
+9 
+
+Periods prior to January 1, 2018
+
+The Company's revenue recognition method prior to the adoption of ASC 606 can be found under Note 2. Summary of significant accounting policies within the "Notes to Consolidated Financial Statements" in the Annual Report on Form 10-K for the fiscal year ended December 31, 2017.
+
+Periods commencing January 1, 2018
+
+In accordance with ASC 606, a performance obligation is a promise in a contract with a customer to transfer a distinct good or service to the customer. Some of our contracts with customers contain a single performance obligation, while other contracts contain multiple performance obligations (most commonly when contracts include product and extended warranties). A contract's transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. When there are multiple performance obligations within a contract, we allocate the transaction price to each performance obligation based on its standalone selling price.
+
+The transaction price is determined based on the consideration to which the Company will be entitled in exchange for transferring services to the customer. To the extent the transaction price includes variable consideration, such as price protection, reserves for returns and other allowances, the Company estimates the amount of variable consideration that should be included in the transaction price utilizing either the "expected value" method or the "most likely amount" method depending on the nature of the variable consideration. Variable consideration is included in the transaction price if, in the Company's judgment, it is probable that a significant future reversal of cumulative revenue under the contract will not occur.
+
+For a majority of our revenue, which consists of printers, terminals, consumables, and replacement parts, the Company recognizes revenue as of a point of time.  The transaction price is recognized upon shipment of the order when control of the goods is transferred to the customer and at the time the performance obligation is fulfilled.  We also sell a software solution, EPICENTRAL , that enables casino operators to create promotional coupons and marketing messages and to print them in real-time at the slot machine.  EPICENTRAL TM  is primarily comprised of both a software component, which is licensed to the customer, and a hardware component.  EPICENTRAL  software and hardware are integrated to deliver the system's full functionality.  The transaction prices from EPICENTRAL  software license and hardware are recognized upon installation and formal acceptance by the customer when control of the license is transferred to the customer.  For out-of-warranty repairs, the transaction price is recognized after completion of the repair work is completed and the printer or terminal is returned to the customer, as control of the product is transferred to the customer.
+
+Performance obligations are satisfied over-time if the customer receives the benefits as we perform work, if the customer controls the asset as it is being produced, or if the product being produced for the customer has no alternative use and we have a contractual right to payment. For our separately priced extended warranty and maintenance agreements (including free one-year maintenance received by the customers upon completion of EPICENTRAL  installation) revenue is recognized over-time as the customer receives the benefit.  The transaction price from the maintenance services is recognized ratably over-time, using output methods, as control of the services is transferred to the customer. For extended warranties, the transaction price is recognized ratably over the warranty period, using output methods, as control of the services is transferred to the customer.
+
+In the cases where there is more than one performance obligation in a customer arrangement, the Company typically uses the "standalone selling price" method to determine the transaction price to allocate to each performance obligation. The Company sells the performance obligations separately and has established standalone selling prices for its products and services. In the case of an overall price discount, the discount is applied to each performance obligation proportionately based on standalone selling price. To determine the standalone selling price for initial EPICENTRAL  installations, the Company uses the adjusted market assessment approach.
+
+Disaggregation of revenue
+
+The following table disaggregates our revenue by market-type, as we believe it best depicts how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors.  Sales and usage-based taxes are excluded from revenues.
+
+10 
+
+Changes in accounting policies and financial statement impact of adopting ASC 606
+
+Except for the changes below, we have consistently applied the accounting policies to all periods presented in the consolidated financial statements.  As noted above, we adopted ASC 606 using the modified retrospective approach which allows the Company to record any changes using the cumulative effect.  The adoption of the ASC 606 did not require the Company to record an adjustment to retained earnings at January 1, 2018 and did not have an impact on the consolidated income statement during the first six months of 2018, basic or diluted earnings per share, consolidated statement of cash flows or consolidated balance sheet at June 30, 2018.
+
+Costs to Obtain a Contract      Costs to obtain a contract, such as sales commissions, were previously expensed as incurred. The Company applied the practical expedient for contracts with customers for a term of twelve months or less, in accordance with ASC 340-40-25-4, which allows TransAct to continue to expense sales commissions as incurred, since the expected amortization period of the cost to obtain a contract is less than 12 months.  No amounts were capitalized as of the adoption of ASC 606 or as of June 30, 2018.
+
+Contract balances
+
+Our contract liabilities consist of customer pre-payments and deferred revenue.  Customer prepayments are reported as "Accrued Liabilities" in current liabilities in the Condensed Consolidated Balance Sheets and represent customer payments made in advance of performance obligations in instances where credit has not been extended and is recognized as revenue when the performance obligation is complete.  The increase in customer pre-payments is due to increased sales to our European casino and gaming customers who sometimes require higher pre-payment amounts compared to our other customers.  Deferred revenue is reported separately in current liabilities and non-current liabilities and consists of our extended warranty contracts, EPICENTRAL  maintenance contracts and testing service contracts, and is recognized as revenue as (or when) we perform under the contract.  We do not have any contract asset balances as of June 30, 2018 or December 31, 2017.  In the first six month of 2018, we recognized revenue of $372 thousand related to our contract liabilities at January 1, 2018.  Total contract liabilities consist of the following:
+
+Remaining performance obligations
+
+Remaining performance obligations represents the transaction price of firm orders for which a good or service has not been delivered to our customer.  As of June 30, 2018, the aggregate amount of the transaction price allocated to remaining performance obligations was $6.0 million.  The Company expects to recognize revenue on $5.0 million of our remaining performance obligations within the next twelve months, with the balance of these remaining performance obligations recognized within the next 24 months.
+
+2)
+
+Stock compensation:
+
+In May 2017, the FASB issued ASU No. 2017-09, "Compensation-Stock Compensation: Scope of modification accounting".  ASU 2017-09 provides guidance about which changes to the terms or conditions of a share-based payment award require an entity to apply modification accounting in Topic 718.  ASU No. 2017-09 is effective for fiscal years beginning after December 15, 2017.  The amendments are applied prospectively to an award modified on or after the adoption date.  We adopted this guidance in the first quarter of 2018 and the adoption has not resulted in a change to our financial statements.
+
+11 
+
+Item 2.                              Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+Forward Looking Statements
+
+Certain statements included in this report, including without limitation statements in this Management's Discussion and Analysis of Financial Condition and Results of Operations, which are not historical facts are "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Forward-looking statements generally can be identified by the use of forward-looking terminology, such as "may", "will", "expect", "intend", "estimate", "anticipate", "believe", "project" or "continue", or the negative thereof, or other similar words.  All forward-looking statements involve risks and uncertainties, including, but not limited to those listed in Item 1A of our most recently filed Annual Report on Form 10-K.  Actual results may differ materially from those discussed in, or implied by, the forward-looking statements.  The forward-looking statements speak only as of the date of this report and we assume no duty to update them.  As used in this Quarterly Report on Form 10-Q, unless the context otherwise requires, references to "we", "us", "our", the "Company" and "TransAct" refer to the consolidated operations of TransAct Technologies Incorporated, and its consolidated subsidiaries.
+
+Overview
+
+TransAct Technologies Incorporated ("TransAct") is a global leader in developing and selling software-driven technology and printing solutions for high growth markets including restaurant solutions, point of sale ("POS") automation and banking, casino and gaming, lottery, and oil and gas.  Our world-class products are designed from the ground up based on market and customer requirements and are sold under the AccuDate , Epic, EPICENTRAL , Ithaca  and Printrex  brand names.  Known and respected worldwide for innovative designs and real-world service reliability, our thermal and inkjet printers and terminals generate top-quality labels and transaction records such as receipts, tickets, coupons, register journals and other documents, as well as printed logging and plotting of data. We sell our products to original equipment manufacturers ("OEMs"), value-added resellers ("VARs"), select distributors, as well as directly to end-users.  Our product distribution spans across the Americas, the Middle East, Africa, Asia, Australia, the Caribbean Islands and the South Pacific. TransAct also provides world-class service, spare parts, accessories and printing supplies to its growing worldwide installed base of products. Through our TransAct Services Group ("TSG"), we provide a complete range of supplies and consumables used in the printing and scanning activities of customers in the restaurant and hospitality, banking, retail, casino and gaming, government and oil and gas exploration markets.  Through our webstore,   www.transactsupplies.com  , and our direct selling team, we address the demand for these products. We operate in one reportable segment, the design, development, and marketing of software-driven technology and printing solutions for high growth markets, and provide related services, supplies and spare parts.
+
+Critical Accounting Judgments and Estimates
+
+Our discussion and analysis of our financial condition and results of operations are based upon our Condensed Consolidated Financial Statements, which have been prepared by us in accordance with accounting principles generally accepted in the United States of America.  The presentation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, and disclosure of contingent assets and liabilities.  Our estimates include those related to revenue recognition, inventory obsolescence, the valuation of deferred tax assets and liabilities, depreciable lives of equipment, warranty obligations, and contingent liabilities.  We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances.
+
+For a complete description of our accounting policies, see Item 7 - Management's Discussion and Analysis of Financial Condition and Results of Operations, "Critical Accounting Policies and Estimates," included in our Annual Report on Form 10-K for the year ended December 31, 2017.  We have reviewed those policies and determined that they remain our critical accounting policies for the six months ended June 30, 2018.
+
+12 
+
+Results of Operations: Three months ended June 30, 2018 compared to three months ended June 30, 2017
+
+Net Sales.  Net sales, which include printer, terminal and software sales, as well as sales of replacement parts, consumables and maintenance and repair services, by market for the three months ended June 30, 2018 and 2017 were as follows (in thousands, except percentages):
+
+* 
+ 
+ International sales do not include sales of printers and terminals made to domestic distributors or other domestic customers who may in turn ship those printers and terminals to international destinations.
+
+Net sales for the second quarter of 2018 increased $1.2 million, or 8%, from the same period in 2017.  Printer and terminal sales volume increased 6% to approximately 39 thousand units driven primarily by an 81% increase in unit volume from the casino and gaming market and, to a lesser extent, a 14% increase in unit volume from the POS automation and banking market.  These increases were partially offset by an 83% decline in unit volume from the lottery market.  The average selling price of our printers and terminals increased 7% in the second quarter of 2018 compared to the second quarter of 2018 due primarily to lower lottery printer sales.
+
+International sales for the second quarter of 2018 increased $2.3 million, or 221%, from the same period in 2017 due primarily to a 267% increase in sales in the international casino and gaming market.
+
+Restaurant Solutions:
+
+Revenue from the restaurant solutions market includes sales of terminals that combine hardware and software (including software sold on a subscription basis) in a device that includes an operating system, touchscreen and one or two thermal print mechanisms that print easy-to-read food rotation labels, grab and go labels for prepared foods, and "enjoy by" date labels to help food service establishments and restaurants (including fine dining, casual dining, quick-serve convenience and hospitality establishments) effectively manage food safety and automate and manage back-of-the-restaurant operations.  A summary of sales of our worldwide restaurant solutions products for the three months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+The increase in domestic restaurant solutions terminal sales in the second quarter of 2018 compared to the second quarter of 2017 was driven by the initial shipments of the AccuDate XL to two existing customers in support of large-scale, multi-quarter rollouts of the terminal.  This increase was partially offset by decreased sales of our AccuDate 9700 terminal to our former U.S. distributor during the second quarter of 2018 compared to the second quarter of 2017.  Shipments of AccuDate XL terminals exceeded sales of AccuDate 9700 terminals for the first time in the second quarter of 2018.  We expect sales of our restaurant solutions terminals to continue to increase in 2018 compared to 2017 as we benefit from the strategic selling and marketing investments implemented during 2017.
+
+POS automation and banking:
+
+Revenue from the POS automation and banking market includes sales of thermal printers used primarily by restaurants (including fine dining, casual dining, quick serve and hospitality establishments) located either at the checkout counter or within self-service kiosks to print receipts for consumers or print on linerless labels.  In addition, revenue includes sales of inkjet printers used by banks, credit unions and other financial institutions to print deposit or withdrawal receipts and/or validate checks at bank teller stations.  A summary of sales of our worldwide POS automation and banking products for the three months ended June 30, 2018 and  2017 is as follows (in thousands, except percentages):
+
+13 
+
+The increase in both domestic and international POS automation and banking product revenue from the second quarter of 2017 was driven by an 21% increase in sales of our Ithaca  9000 printer, as sales to McDonald's have returned to the near record levels experienced during 2017.  We expect this level of sales to McDonald's to continue into the third quarter of 2018.  This increase was partially offset by 71% lower sales of our legacy banking and other POS printers for the second quarter of 2018 compared to the second quarter of 2017.  We expect sales of these legacy products to continue to decline during the second half of 2018, as expect to exit the banking market at the end of 2018 and have shifted our focus to our newer products.
+
+Casino and gaming:
+
+Revenue from the casino and gaming market includes sales of thermal ticket printers used in slot machines, video lottery terminals, and other gaming machines that print tickets or receipts instead of issuing coins at casinos and racetracks and other gaming venues worldwide.  Revenue from this market also includes sales of thermal roll-fed printers used in the international off-premise gaming market in gaming machines such as Amusement with Prizes, Skills with Prizes and Fixed Odds Betting Terminals at non-casino gaming establishments. Revenue from this market also includes royalties related to our patented casino and gaming technology.  In addition, casino and gaming market revenue includes sales of the EPICENTRAL  print system, our software solution (including annual software maintenance), that enables casino operators to create promotional coupons and marketing messages and to print them real-time at the slot machine. A summary of sales of our worldwide casino and gaming products for the three months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+The increase in domestic sales of our casino and gaming products was due to an 8% increase in domestic sales of our thermal casino printer sales in the second quarter of 2018 compared to the second quarter of 2017, driven primarily by increased sales to our OEMs.  Additionally, we experienced a significant increase in domestic sales of our off-premise gaming printers to an OEM based in the U.S.  We did not complete any new installations of our EPICENTRAL  software systems in the second quarter of 2018 or 2017.  Sales of EPICENTRAL  are project based, and as a result, may fluctuate significantly quarter-to-quarter and year-to-year.
+
+The increase in international sales in the second quarter of 2018 compared to the second quarter of 2017 was due to a 366% increase in sales of our thermal casino printers and a 153% increase in sales of our off-premise gaming printers in Europe, Australia and Asia.  These increases were due to the early success of the transition away from using our previous exclusive worldwide distributor whose contract ended at the end of 2017.  We expect international sales of both our thermal casino printers and off-premise gaming printers to continue to increase in the second half of 2018, as we benefit from the transition to selling directly to slot machine manufacturers and end user casino and gaming customers in Europe.
+
+Lottery :
+
+Revenue from the lottery market includes sales of thermal on-line and other lottery printers primarily to International Game Technology and its subsidiaries ("IGT") and, to a lesser extent, other lottery system companies for various lottery applications. A summary of sales of our worldwide lottery printers for the three months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+Our sales to IGT are directly dependent on the timing and number of new and upgraded lottery terminal installations that IGT performs, and as a result, may fluctuate significantly quarter-to-quarter and year-to-year.  However, our lottery market sales are not indicative of IGT's overall business or revenue.  While we expect to increase sales of our lottery printers to other customers, we expect total lottery printer sales to be lower for the 2018 fiscal year compared to the 2017 fiscal year, as we have shifted our focus away from the lottery market to our higher-value, technology enabled restaurant solutions and casino and gaming products.
+
+14 
+
+Printrex:
+
+Printrex branded printers are sold into markets that include wide format, desktop and rack mounted and vehicle mounted black/white thermal printers used by customers to log and plot oil field, seismic and down hole well drilling data in the oil and gas exploration industry.  It also includes high-speed color inkjet desktop printers used to print logs at the data centers of the oil and gas field service companies.  Revenue in this market also includes sales of vehicle mounted printers used to print schematics and certain other critical information in emergency services vehicles and other mobile printing applications.  A summary of sales of our worldwide Printrex printers for the three months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):   
+
+The increase in sales of Printrex printers in the second quarter of 2018 compared to second quarter of 2017 resulted from a 84% increase in domestic and international sales of our oil and gas printers.  This increase was partially offset by 76% lower sales of our medical and mobile printers in the second quarter of 2018 compared to the second quarter of 2017.  We expect Printrex sales for the full year of 2018 to be higher than 2017, as we expect a continued modest recovery in the global oil and gas industry to more than offset lower expected sales of medical and mobile printers as we shift our focus to our higher value, technology-enabled restaurant solutions and casino and gaming products.
+
+TSG:
+
+Revenue from TSG includes sales of consumable products (inkjet cartridges, ribbons, receipt paper, color thermal paper, food safety labels and other printing supplies), replacement parts, maintenance and repair services, testing services, refurbished printers, and shipping and handling charges.  A summary of sales in our worldwide TSG market for the three months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+The decrease in domestic revenue from TSG for the second quarter of 2018 as compared to the prior year period was due primarily to decreased replacement part sales, service revenue and non-Printrex consumable product sales.  Replacement part sales decreased 6% due to lower sales of lottery printer spare parts to IGT.  Service revenue declined 9% in the second quarter of 2018 compared to the second quarter of 2017 due to paper testing sales that occurred in 2017 but did not repeat in 2018.  Non-Printrex consumables declined 5% due to lower sales of our legacy HP inkjet cartridges used in our banking printers, as we continue to deemphasize our sales of this commoditized consumable product and expect to exit the banking market at the end of 2018.  The decrease in Non-Printrex consumables was partially offset by AccuDate label sales which nearly tripled in second quarter of 2018 compared to the second quarter of 2017.  Based on our backlog of orders and contractual commitments for replacement parts for our installed base of lottery printers, we expect TSG sales to decrease for the full year 2018 compared to the unusually high level of spare parts sales, largely from lottery printer spare part sales to IGT, during 2017.
+
+Internationally, TSG revenue increased due to a 98% increase in sales of replacement parts and accessories in the second quarter of 2018 compared to the second quarter of 2017.
+
+Gross Profit.   Gross profit information for the three months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+Gross profit is measured as revenue less cost of sales, which includes primarily the cost of all raw materials and component parts, direct labor, manufacturing overhead expenses, cost of finished products purchased directly from our contract manufacturers and expenses associated with installations of our EPICENTRAL  print system.  In the second quarter of 2018, gross profit increased $561 thousand, or 9%, compared to the same period in 2017 and our gross margin improved slightly by 10 basis points.  The increase in gross profit was driven by 8% higher sales in the second quarter of 2018.  We expect our gross margins to continue to improve during the second half of 2018 as our sales mix shifts towards higher-value, technology driven solutions in the restaurant solutions and casino and gaming markets.
+
+15 
+
+Operating Expenses - Engineering, Design and Product Development.   Engineering, design and product development expense information for the three months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+Engineering, design and product development expenses primarily include salary and payroll related expenses for our hardware and software engineering staff, depreciation and design expenses (including prototype printer expenses, outside design, development and testing services, and supplies).  Such expenses increased $163 thousand, or 16% in the second quarter of 2018 compared to the second quarter of 2017 due primarily to the hiring of additional engineering staff and increased prototype expenses to support new product development in the restaurant solutions and casino and gaming markets.  We expect engineering, design and product development expenses to be higher for the full year 2018 compared to full year 2017, due to the expanded engineering staff to support new product development for the restaurant solutions market.
+
+Operating Expenses - Selling and Marketing.  Selling and marketing expense information for the three months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+Selling and marketing expenses primarily include salaries and payroll related expenses for our sales and marketing staff, sales commissions, travel expenses, expenses associated with the lease of sales offices, advertising, trade show expenses, e-commerce and other promotional marketing expenses. Such expenses increased by $45 thousand, or 2%, in the second quarter of 2018 compared to the second quarter of 2017 due primarily to the hiring of additional sales staff in the U.K. to support our new direct selling model for the casino and gaming market in Europe.  This increase was partially offset by the retirement of our EVP, Sales and Marketing in December 2017, whose position was replaced by an existing employee of TransAct, as well as the elimination of commission expense to our former international casino and gaming distributor, Suzo-Happ.  We expect selling and marketing expenses to be higher in 2018 compared to 2017 due to the build-out of our internal sales infrastructure to sell directly to slot machine manufacturers and end user casino and gaming customers in Europe during 2018.
+
+Operating Expenses - General and Administrative  .  General and administrative expense information for the three months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+General and administrative expenses primarily include salaries, incentive compensation, and other payroll related expenses for our executive, accounting, human resource and information technology staff, expenses for our corporate headquarters, professional and legal expenses, telecommunication expenses, and other expenses related to being a publicly-traded company.  General and administrative expenses increased $41 thousand, or 2%, in the second quarter of 2018 compared to the second quarter of 2017 due primarily to higher incentive compensation expenses and legal expenses incurred during 2018.  We expect general and administrative expenses in 2018 to be higher than 2017 due to increased recruiting expenses related to the expansion our restaurant solutions sales staff, sales staff for our European casino and gaming market, and engineering staff.
+
+Operating Income.   Operating income information for the three months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+Our operating income increased $312 thousand, or 24%, in the second quarter of 2018 compared to the second quarter of 2017, and our operating margin increased to 11% of net sales largely due to higher gross profit resulting from an 8% increase in sales, as well as proportionately lower operating expenses as a percentage of net sales, in the second quarter of 2018 compared to the prior year period.
+
+16 
+
+Interest expense.   We recorded net interest expense of $6 thousand in the second quarter of 2018 compared to $8 thousand in the second quarter of 2017.  We do not expect significant changes in net interest expense for the remainder of 2018.
+
+Other expense, net.   We recorded other expense of $97 thousand in the second quarter of 2018 compared to $2 thousand in the second quarter of 2017 due to higher foreign exchange losses recorded by our U.K. entity in the second quarter of 2018.  Going forward we may continue to experience more foreign exchange volatility as we increase our casino and gaming sales in Europe.
+
+Income Taxes.   We recorded an income tax provision for the second quarter of  2018 of $305 thousand at an effective tax rate of 20.1%, compared to an income tax provision during the second quarter of 2017 of $429 thousand at an effective tax rate of 33.1%.  The effective tax rate in the second quarter of 2018 was lower than the effective tax rate in the second quarter of 2017 due to the passage of the Tax Reform Act that was signed on December 22, 2017.  The legislation significantly changed U.S. tax law by, among other things, lowering corporate income tax rates, implementing a territorial tax system and imposing a one-time repatriation tax on undistributed foreign earnings. The Tax Reform Act reduced the U.S. corporate income tax rate from a maximum of 35% to a flat 21% rate effective January 1, 2018 and, as a result, reduced our statutory U.S. corporate income tax rate from 34% to 21%.  We expect our effective tax rate to be between 20% and 21% for the full year 2018.
+
+Net Income  .   We reported net income for the second quarter of 2018 of $1.2 million, or $0.16 per diluted share compared to $867 thousand, or $0.12 per diluted share, for the second quarter of 2017.
+
+Results of Operations:  Six months ended June 30, 2018 compared to six months ended June 30, 2017
+
+Net Sales.  Net sales, which include printer, terminal and software sales, as well as sales of replacement parts, consumables and maintenance and repair services, by market for the six months ended June 30, 2018 and 2017 were as follows (in thousands, except percentages):
+
+* 
+ 
+ International sales do not include sales of printers and terminals made to domestic distributors or other domestic customers who may in turn ship those printers and terminals to international destinations.
+
+Net sales for the first half of 2018 decreased $599 thousand, or 2%, from the same period in 2017. Printer sales volume decreased by 12% to approximately 70,000 units in the first half of 2018 driven primarily by an 81% decrease in unit volume from the lottery market and, to a lesser extent, a 10% decrease in the POS automation and banking market.  These decreases were partially offset by an increase in sales volume of 38% in the casino and gaming market and, to a lesser extent, a 32% increase in unit volume from the restaurant solutions market.  Although unit volume decreased in the first six months of 2018 primarily due to the decreased volume of lottery printers sold during the first half of 2018, which carry lower prices than our other products, the average selling price of our printers increased 11% during the first half of 2018 compared to the first half of 2017.
+
+International sales increased $920 thousand, or 20%, primarily driven by 65% higher international sales in the casino and gaming market.  This increase was partially offset by a $1.1 million sales decrease in our international lottery market during the first half of 2018 compared to the first half of 2017.
+
+17 
+
+Restaurant solutions:
+
+A summary of sales of our worldwide restaurant solutions products for the six months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+The increase in domestic restaurant solutions terminal sales in the first half of 2018 compared to the first half of 2017 was primarily driven by increased sales of our AccuDate 9700 terminal during the first half of 2018 and the initial shipments of the AccuDate XL to two large corporate customers in support of a large-scale, multi-quarter rollouts of the terminal.
+
+International restaurant solutions sales increased during the first half of 2018 compared to the first half of 2017 due to increased sales of the AccuDate 9700 for McDonald's through our Asian distributor.
+
+POS automation and banking:
+
+A summary of sales of our worldwide POS automation and banking products for the six months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+The decrease in domestic POS automation and banking sales in the first half of 2018 compared to the first half of 2017 was primarily driven by a 72% decrease in sales of our legacy banking and other POS printers during the first half of 2018 as we continue to deemphasize these products.  Sales also decreased during the first half of 2018 compared to the first half of 2017 due to a 7% decline in sales of our Ithaca  9000 printer due to lower sales to McDonald's in the first quarter of 2018, but which subsequently rebounded to prior year, near-record levels in the second quarter of 2018.
+
+International sales increased due to higher sales of our Ithaca  9000 printer to our Canadian distributor for McDonald's during the first half of 2018 compared to the first half of 2017.
+
+Casino and gaming:
+
+A summary of sales of our worldwide casino and gaming products for the six months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+The increase in domestic sales of our casino and gaming products was due primarily to a 13% increase in domestic sales of our thermal casino printer in the first half of 2018 compared to the first half of 2017, driven primarily by increased sales to our OEMs.  Domestic sales also increased due to a significant sale of our off-premise gaming printers to an OEM based in the U.S.  During the first half of 2018 domestic EPICENTRAL  software sales increased 128% as we completed one new installation during the first half of 2018 compared to no new installations completed in the first half of 2017.  Sales of EPICENTRAL  are project based, and as a result, may fluctuate significantly quarter-to-quarter and year-to-year.
+
+The increase in international sales in the first half of 2018 compared to the first half of 2017 was due to a 118% increase of thermal casino printer sales and, to a lesser extent, a 13% increase in international sales of off-premise gaming printers.  These increases were due to the early success of the transition away from using our previous exclusive worldwide distributor and using our new direct sales team to sell to end user casino and gaming customers in Europe.
+
+18 
+
+Lottery :
+
+A summary of sales of our worldwide lottery printers for the six months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+Our sales to IGT are directly dependent on the timing and number of new and upgraded lottery terminal installations that IGT performs, and as a result, may fluctuate significantly quarter-to-quarter and year-to-year.  However, our lottery market sales are not indicative of IGT's overall business or revenue.  
+
+The decrease in international lottery sales in the first half of 2018 compared to the first half of 2017 was due to a sale of lottery printers to IGT for the Canadian lottery in the first half of 2017 and no comparable sale occurring in the first half of 2018.
+
+Printrex:
+
+A summary of sales of our worldwide Printrex printers for the six months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):   
+
+The increase in domestic Printrex sales in the first half of 2018 compared to the first half of 2017 resulted from higher domestic sales in the oil and gas market due to a continued recovery in the oil and gas market.  This increase was partially offset by lower sales of domestic medical and mobile printers in the first half of 2018 compared to the first half of 2017 as we shift our focus away from the medical and mobile markets to our higher value, technology-enabled restaurant solutions and casino and gaming products.
+
+TSG:
+
+A summary of sales in our worldwide TSG market for the six months ended June 30, 2018 and 2017 is as follows (in thousands, except percentages):
+
+The decrease in domestic revenue from TSG in the first half of 2018 as compared to the first half of 2017 was due primarily to decreased replacement part sales, service revenue and non-Printrex consumable product sales.  Replacement part sales decreased 6% due to lower sales of lottery printer spare parts to IGT.  Service revenue declined 10% in the first half of 2018 compared to the same period in 2017 due to paper testing sales that occurred in the 2017 period but did not repeat in the 2018 period.  Non-Printrex consumables declined 6% due to lower sales of our legacy HP inkjet cartridges used in our banking printers, as we continue to deemphasize our sales of this commoditized consumable product and expect to exit the banking market at the end of 2018.  The decrease in Non-Printrex consumables was partially offset by AccuDate label sales which more than quadrupled in the six months ended June 30, 2018 compared to the six months ended June 30, 2017.
+
+Internationally, TSG revenue increased primarily due to a 57% increase in sales of replacement parts and accessories in the first half of 2018 compared to the first half of 2017.
+
+19 
+
+Gross Profit.   Gross profit information for the six months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+Gross profit increased $330 thousand, or 3%, due primarily to a more favorable sales mix in the first half of 2018 compared to the first half of 2017 as gross margin increased 220 basis points to 47.6% in the first half of 2018 compared to 45.4% in the same period 2017.  The increased gross margin reflects a favorable shift in sales mix towards higher-value, technology driven solutions, as well as lower sales volume of lottery and POS printers, which carry lower margins than our other products.
+
+Operating Expenses - Engineering, Design and Product Development.   Engineering, design and product development expense information for the six months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+Engineering, design and product development expenses increased $391 thousand, or 19%, in the first half of 2018 compared to the first half of 2017 due primarily to the hiring of additional engineering staff and increased expenses related to product development for the restaurant solutions and casino and gaming markets. 
+
+Operating Expenses - Selling and Marketing.  Selling and marketing expense information for the six months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+Selling and marketing expenses decreased $54 thousand, or 2%, in the first half of 2018 compared to the first half of 2017 primarily due to the retirement of our EVP, Sales and Marketing in December 2017, whose position was replaced by an existing employee of TransAct, as well as the elimination of commission expense to our former international casino and gaming distributor, Suzo-Happ.  These decreases were partially offset by the hiring of additional sales staff to replace our former distributor with a direct selling team for our casino and gaming sales in Europe. 
+
+Operating Expenses - General and Administrative  .  General and administrative expense information for the six months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+General and administrative expenses increased $241 thousand, or 6%, in the first half of 2018 compared to the first half of 2017 due primarily to higher incentive compensation, severance and legal expenses incurred in the 2018 period. 
+
+Operating Income.   Operating income information for the six months ended June 30, 2018 and 2017 is summarized below (in thousands, except percentages):
+
+Our operating income decreased by $248 thousand, or 9%, during the first half of 2018 compared to the first half of 2017 primarily due to a 2% decrease in sales and a 6% increase in operating expenses, somewhat offset by a 220 basis point increase in gross margin in the first half of 2018 compared to the first half of 2017.
+
+20 
+
+Interest expense.   We recorded net interest expense of $14 thousand in the first half of 2018 compared to $16 thousand in the first half of 2017.  
+
+Other expense, net.   We recorded other expense of $87 thousand in the first half of 2018 compared to $8 thousand in the first half of 2017 due to higher foreign exchange losses recorded by our U.K. entity in the first half of 2018 compared to the first half of 2017.
+
+Income Taxes.   We recorded an income tax provision for the first six months of 2018 of $483 thousand at an effective tax rate of 20.4%, compared to an income tax provision during the first six months of 2017 of $888 thousand at an effective tax rate of 32.9%.  The effective tax rate in the six months ended 2018 was lower than the effective tax rate in the six months ended 2017 due to the passage of the Tax Reform Act that was signed on December 22, 2017. 
+
+Net Income  .   We reported net income during the first half of 2018 of $1.9 million, or $0.24 per diluted share, compared to $1.8 million, or $0.24 per diluted share, for the first half of 2017.
+
+Impact of Inflation  .   We believe that inflation has not had a material impact on our results of operations for the six months ended June 30, 2018 or 2017.  However, there can be no assurance that future inflation would not have an adverse impact upon our future operating results and financial condition.
+
+Liquidity and Capital Resources 
+
+Cash Flow
+
+In the first six months of 2018, our cash and cash equivalents balance decreased $1.8 million, or 32%, from December 31, 2017 and we ended the second quarter of 2018 with $3.8 million in cash and cash equivalents, of which $1.2 million was held by our U.K. subsidiary, and no debt outstanding.
+
+Operating activities :  The following significant factors affected our cash provided by operating activities of $2.5 million in the first six months of 2018 compared to our cash provided by operating activities of $4.0 million in the first six months of 2017:
+
+During the first six months of 2018:
+
+We reported net income of $1.9 million.
+
+We recorded depreciation and amortization of $480 thousand, and share-based compensation expense of $337 thousand.
+
+Accounts receivable decreased $678 thousand, or 6%, due largely to the collection of past due receivables for 2017 sales made to our former international casino and gaming distributor.
+
+Inventories increased $2.5 million, or 28%, due to the buildup of inventory on hand to support future anticipated sales in the casino and gaming and restaurant solutions markets.
+
+Accounts payable increased $1.4 million, or 36%, due to increased inventory purchases made during the first six months of 2018.
+
+Accrued liabilities and other liabilities decreased $188 thousand, or 5%, due primarily to the payment of 2017 annual bonuses in March 2018, partially offset by increased customer payments.
+
+During the first six months of 2017:
+
+We reported net income of $1.8 million
+
+We recorded depreciation and amortization of $602 thousand, and share-based compensation expense of $296 thousand.
+
+Accounts receivable decreased $3.2 million, or 30%, due to the collection of receivables related to sales made in the fourth quarter of 2016.
+
+Inventories decreased $189 thousand, or 2%, due to the sell through of inventory on hand at the end of 2016 largely offset by increased purchases of inventory in 2017 to support anticipated sales of our restaurant solutions terminals.
+
+Prepaid income taxes increased $209 thousand due to the timing of estimated income tax payments made in the first half of 2017.
+
+Other current assets and long-term assets increased $299 thousand or 73%, due largely to advance payments made in the first quarter of 2017 for annual ERP software maintenance expense and prepaid engineering expenses related to the development of our restaurant solutions terminals.
+
+Accounts payable decreased $1.5 million, or 31%, due primarily to increased inventory purchases towards the end of the fourth quarter of 2016 and subsequently paid in the first half of 2017.
+
+Investing activities:   Our capital expenditures, including capitalized software costs, were $751 thousand and $409 thousand in the first six months of 2018 and 2017, respectively.  Expenditures in the 2018 period were primarily for computer and networking equipment and furniture and fixtures purchases related to investments made in our U.K. facility to support the build-out of our internal sales infrastructure to sell directly to slot machine manufacturers and end user casino and gaming customers.  To a lesser extent, expenditures in the 2018 period included computer and networking equipment for our U.S. operations and leasehold improvements made at our Las Vegas facility.  Expenditures in the first six months of 2017 were primarily for computer and networking equipment and, to a lesser extent, new product tooling equipment  and purchases of furniture and fixtures.  
+
+21 
+
+Capital expenditures and capitalized software development costs for the full year 2018 are expected to be approximately $2 million primarily for new product tooling and tooling enhancements for our existing products, new computer software and equipment purchases, leasehold improvements at our Las Vegas and UK facilities, as well as capitalized software development costs related to our restaurant solutions products.
+
+Financing activities:   We used $3.5 million of cash from financing activities during the first six months of 2018 to purchase $2.0 million of common stock for treasury, pay dividends of $1.3 million to common shareholders and $265 thousand related to the relinquishment of shares to pay for withholding taxes on stock issued from our stock compensation plan, partially offset by proceeds from stock option exercises of $108 thousand.  During the first six months of 2017, we used $1.2 million of cash from financing activities to pay dividends of $1.3 million to common shareholders and $18 thousand related to the relinquishment of shares to pay for withholding taxes on stock issued from our stock compensation plan, partially offset by proceeds from stock option exercises of $85 thousand.  
+
+Credit Facility and Borrowings
+
+We maintain a credit facility (the "TD Bank Credit Facility") with TD Bank N.A., which provides for a $20 million revolving credit line.  On November 21, 2017, we signed an amendment to the TD Bank Credit Facility through November 28, 2022.  Borrowings under the revolving credit line bear a floating rate of interest at the prime rate minus one percent and are secured by a lien on all of our assets.  We also pay a fee of 0.125% on unused borrowings under the revolving credit line.  The amendment increased the amount of revolving credit loans we may use to fund future cash dividend payments or treasury share buybacks to $12.5 million from $10 million.  
+
+The TD Bank Credit Facility imposes certain quarterly financial covenants on us and restricts, among other things, our ability to incur additional indebtedness and the creation of other liens. We were in compliance with all financial covenants of the TD Bank Credit Facility at June 30, 2018.  The following table lists the financial covenants and the performance measurements at June 30, 2018:
+
+As of June 30, 2018, borrowings available under the TD Bank Credit facility were $20 million.
+
+Shareholder Dividend Payments
+
+In 2012, our Board of Directors initiated a quarterly cash dividend program which is subject to the Board's approval each quarter.  Our Board of Directors declared an increase to the quarterly cash dividend from $0.06 to $0.07 per share in May 2013, from $0.07 to $0.08 per share in May 2014, and from $0.08 to $0.09 per share in May 2017.  Dividends declared and paid on our common stock totaled $663 thousand, or $0.09 per share in both the second quarter of 2018 and second quarter of 2017.  We expect to pay approximately $2.7 million in cash dividends to our common shareholders during the full year 2018.  For the six months ended June 30, 2018 and 2017, dividends declared and paid totaled $1.3 million, or $0.18 per share and $1.3 million, or $0.17 per share, respectively.
+
+Stock Repurchase Program
+
+On March 1, 2018, our Board of Directors approved a new stock repurchase program (the "2018 Stock Repurchase Program").  Under the 2018 Stock Repurchase Program, we are authorized to repurchase up to $5 million of our outstanding shares of common stock from time to time in the open market at prevailing market prices based on market conditions, share price and other factors.  The 2018 Stock Repurchase Program expires on December 31, 2019, if we do not discontinue the repurchase program prior to such time.  We use the cost method to account for treasury stock purchases, under which the price paid for the stock is charged to the treasury stock account.  Repurchases of our common stock are accounted for as of the settlement date.  During the six months ended June 30, 2018, we repurchased 156,510 shares of our common stock for approximately $2.0 million at an average price per share of $12.78.  During the six months ended June 30, 2107, we purchased no shares of our common stock.
+
+Resource Sufficiency
+
+We believe that our cash and cash equivalents on hand, our expected cash flows generated from operating activities and borrowings available under our TD Bank Credit Facility will provide sufficient resources to meet our working capital needs, finance our capital expenditures and dividend payments and meet our liquidity requirements through at least the next twelve months.
+
+Contractual Obligations / Off-Balance Sheet Arrangements
+
+The disclosure of payments we have committed to make under our contractual obligations is set forth under the heading "Management's Discussion and Analysis of Financial Condition and Results of Operations Contractual Obligations" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2017.  
+
+There have been no material changes in our contractual obligations outside the ordinary course of business since December 31, 2017.  We have no material off-balance sheet arrangements as defined in Item 303(a)(4)(ii) of Regulation S-K.
+
+22 
+
+Item 3.  
+ 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The disclosure of our exposure to market risk is set forth under the heading "Quantitative and Qualitative Disclosures about Market Risk" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2017.  There has been no material change in our exposure to market risk during the six months ended June 30, 2018.
+
+Item 4.  
+ 
+  CONTROLS AND PROCEDURES
+
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer (our principal executive officer and principal financial officer, respectively), evaluated the effectiveness of our disclosure controls and procedures as of June 30, 2018.  The term "disclosure controls and procedures," as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission's rules and forms.  Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company's management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.  Management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures.  Based on the evaluation of our disclosure controls and procedures as of June 30, 2018, our Chief Executive Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level.
+
+No change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred during the fiscal quarter ended June 30, 2018 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+
+PART II.  OTHER INFORMATION
+
+Item 1. 
+ 
+   LEGAL PROCEEDINGS
+
+The Company may, in the ordinary course of business, become a party to litigation involving collection matters, contract claims and other legal proceedings relating to the conduct of its business.  Management believes that the final outcome of such matters, if determined adversely, will not have a material adverse effect on our business, financial condition or results of operations.
+
+Item 1A.   
+ 
+ RISK FACTORS
+
+Information regarding risk factors appears in Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2017.  There have been no material changes from the risk factors previously disclosed in that Annual Report on Form 10-K. The risks described in our Annual Report on Form 10-K are not the only risks facing our Company.  Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or future results.
+
+23 
+
+Item 2.                              UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+
+ISSUER PURCHASES OF EQUITY SECURITIES
+
+On March 1, 2018, our Board of Directors approved the 2018 Stock Repurchase Program.  Under the 2018 Stock Repurchase Program, we are authorized to repurchase up to $5 million of our outstanding shares of common stock from time to time in the open market through December 31, 2019 at prevailing market prices based on market conditions, share price and other factors.  During the six months ended June 30, 2018, we purchased 156,410 shares of our common stock for $2.0 million at an average price per share of $12.78.  As of June 30, 2018, $3.0 million remains authorized for future repurchase under the Stock Repurchase Program.  The following table summarizes the repurchase of our common stock in the three months ended June 30, 2018:
+
+Item 3.  
+ 
+ DEFAULTS UPON SENIOR SECURITIES
+
+None.
+
+Item 4.  
+ 
+ MINE SAFETY DISCLOSURES
+
+Not applicable.
+
+Item 5.   
+ 
+ OTHER INFORMATION
+
+None.  
+
+Item 6.                               EXHIBITS 
+
+Exhibit 31.1 
+
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 31.2 
+
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+Exhibit 32.1 
+
+Certification pursuant to 18 U.S.C. Section 1350 as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002.
+
+101.INS
+
+XBRL Instance Document.
+
+101.SCH
+
+XBRL Taxonomy Extension Schema Document.
+
+101.CAL
+
+XBRL Taxonomy Extension Calculation Linkbase Document.
+
+101.DEF
+
+XBRL Taxonomy Extension Definition Linkbase Document.
+
+101.LAB
+
+XBRL Taxonomy Extension Label Linkbase Document.
+
+101.PRE
+
+XBRL Taxonomy Extension Presentation Linkbase Document.
+
+24 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+TRANSACT TECHNOLOGIES INCORPORATED
+
+(Registrant)
+
+By: /s/ Steven A. DeMartino
+
+Dated: August 13, 2018
+
+Steven A. DeMartino
+
+President, Chief Financial Officer, Treasurer and Secretary
+
+(Principal Financial Officer)
+
+By: /s/ David B. Peters
+
+Dated: August 13, 2018
+
+David B. Peters
+
+Vice President and Chief Accounting Officer
+
+(Principal Accounting Officer)
+
+25 
+
+<EX-31.1>
+ 2
+ exhibit311.htm
+ CERTIFICATION OF CEO PURSUANT TO SECTION 302 OF SOX ACT OF 2002
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 302 OF THE 
+
+SARBANES-OXLEY ACT OF 2002 
+
+I, Bart C. Shuldman, certify that:
+
+1. 
+ 
+ I have reviewed this quarterly report on Form 10-Q of TransAct Technologies Incorporated;
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. 
+ 
+ The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+(a) 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this periodic report is being prepared;
+
+(b) 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
+
+(c) 
+ 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+
+(d) 
+ 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
+
+5. 
+ 
+ The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions):
+
+(a) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+
+(b) 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.
+
+August 13, 2018
+
+/s/ Bart C. Shuldman
+
+Bart C. Shuldman
+
+Chairman and Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit312.htm
+ CERTIFICATION OF CFO PURSUANT TO SECTION 302 OF SOX ACT OF 2002
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO SECTION 302 OF THE 
+
+SARBANES-OXLEY ACT OF 2002 
+
+I, Steven A. DeMartino, certify that:
+
+1. 
+ 
+ I have reviewed this quarterly report on Form 10-Q of TransAct Technologies Incorporated;
+
+2. 
+ 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+
+3. 
+ 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. 
+ 
+ The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:
+
+(a) 
+ 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this periodic report is being prepared;
+
+(b) 
+ 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;
+
+(c) 
+ 
+ Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and
+
+(d) 
+ 
+ Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and
+
+5. 
+ 
+ The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of registrant's board of directors (or persons performing the equivalent functions):
+
+(a) 
+ 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and
+
+(b) 
+ 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting.
+
+Date: August 13, 2018
+
+/s/ Steven A. DeMartino
+
+Steven A. DeMartino
+
+President, Chief Financial Officer, Treasurer and Secretary
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit321.htm
+ CERTIFICATION OF CEO AND CFO PURSUANT TO SECTION 906 OF SOX ACT OF 2002
+
+CERTIFICATION PURSUANT TO
+
+18 U.S.C. SECTION 1350
+
+AS ADOPTED PURSUANT TO
+
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of TransAct Technologies Incorporated (the "Company") on Form 10-Q for the period ending June 30, 2018, as filed with the Securities and Exchange Commission on the date hereof (the "Report"), each of the undersigned officers of the Company, certifies, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that to the best of his knowledge:
+
+(1) 
+ 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+(2) 
+ 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.
+
+Date:  August 13, 2018
+
+/s/ Bart C. Shuldman
+
+Bart C. Shuldman
+
+Chairman and Chief Executive Officer
+
+Date:  August 13, 2018
+
+/s/ Steven A. DeMartino
+
+Steven A. DeMartino
+
+President, Chief Financial Officer, Treasurer and Secretary
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ tact-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ tact-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ tact-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ tact-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ tact-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ tact-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

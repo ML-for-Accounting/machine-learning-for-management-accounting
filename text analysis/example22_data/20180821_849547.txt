@@ -1,0 +1,851 @@
+ Contents  
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+  FORM 10-Q 
+  (Mark One) 
+
+For the quarterly period ended   June 30, 2018    
+  OR 
+
+For the transition period from                          to                        
+  Commission File Number: 0-18706 
+  Black Box Corporation 
+  (Exact name of registrant as specified in its charter) 
+
+Registrant s telephone number, including area code:   724-746-5500 
+  Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.       Yes   o   No 
+  Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).       Yes   o   No 
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act. (Check one): 
+                       Large accelerated filer   o 
+    Accelerated filer   o 
+    Non-accelerated filer   o 
+  (Do not check if a smaller reporting company) 
+    Smaller reporting company     
+    Emerging growth company   o 
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   o   Yes       No 
+  As of   July 13, 2018  , there were   15,234,162   shares of common stock, par value $.001 (the "common stock"), outstanding. 
+  
+   1 
+
+Table of Contents  
+
+BLACK BOX CORPORATION 
+  FOR THE QUARTER ENDED   JUNE 30, 2018    
+  INDEX 
+
+Page 
+       PART I. FINANCIAL INFORMATION  
+
+Item 1.  
+     Financial Statements   . 
+
+Consolidated Balance Sheets   . 
+     3 
+
+Consolidated Statements of Operations.  
+     4 
+
+Consolidated Statements of Comprehensive Income (Loss).  
+     5 
+
+Consolidated Statements of Cash Flows   . 
+     6 
+
+Notes to the Consolidated Financial Statements.  
+     7 
+
+Item 2.  
+     Management s Discussion and Analysis of Financial Condition and Results of Operations.  
+     24 
+
+Item 3.  
+     Quantitative and Qualitative Disclosures about Market Risk.  
+     34 
+
+Item 4.  
+     Controls and Procedures.  
+     34 
+
+PART II. OTHER INFORMATION  
+
+Item 6.  
+     Exhibits.  
+     35 
+
+SIGNATURE  
+     36 
+
+2 
+
+Table of Contents  
+
+PART I   FINANCIAL INFORMATION 
+
+Item 1. Financial Statements. 
+
+BLACK BOX CORPORATION 
+  CONSOLIDATED BALANCE SHEETS 
+
+See     Notes to the Consolidated Financial Statements 
+  
+    3 
+
+Table of Contents  
+
+BLACK BOX CORPORATION 
+  CONSOLIDATED STATEMENTS OF OPERATIONS 
+  (Unaudited) 
+
+*       Exclusive of depreciation and intangibles amortization. 
+  See     Notes to the Consolidated Financial Statements 
+  
+    4 
+
+Table of Contents  
+
+BLACK BOX CORPORATION 
+  CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+  (Unaudited) 
+
+See     Notes to the Consolidated Financial Statements 
+
+5 
+
+Table of Contents  
+
+BLACK BOX CORPORATION 
+  CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (Unaudited) 
+
+See     Notes to the Consolidated Financial Statements 
+  
+    6 
+
+Table of Contents  
+
+BLACK BOX CORPORATION 
+  NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS 
+  (UNAUDITED) 
+
+Note 1: Business, Basis of Presentation and Going Concern 
+  Business 
+  Black Box Corporation ("Black Box," or "the Company ) is a leading digital solutions provider dedicated to helping customers design, build, manage, and secure their IT infrastructure. The Company offers Services and Products that it distributes through two platforms it has built over its   42  -year history. The Services platform is comprised of engineering and design, network operations centers, technical certifications, national and international sales teams, remote monitoring, on-site service teams and technology partner centers of excellence which includes dedicated sales and engineering resources. The primary services offered through this platform include: (i) communications lifecycle services, (ii) unified communications, (iii) structured cabling, (iv) video/AV services (v) in-building wireless and (vi) data center services. The Products platform provides networking solutions through the sale of products including: (i) IT infrastructure, (ii) specialty networking, (iii) multimedia and (iv) keyboard/video/mouse ("KVM") switching. Founded in 1976, Black Box, a Delaware corporation, is headquartered near Pittsburgh in Lawrence, Pennsylvania. 
+  Basis of Presentation 
+  The accompanying unaudited interim consolidated financial statements of Black Box have been prepared in accordance with accounting principles generally accepted in the United States ("GAAP") and with the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements. The Company believes that these consolidated financial statements reflect all normal, recurring adjustments needed to present fairly the Company s results for the interim periods presented. The results as of and for interim periods presented may not be indicative of the results of operations for any other interim period or for the full year. These financial statements should be read in conjunction with the financial statements and notes thereto included in the Company s most recent Annual Report on Form 10-K as filed with the Securities and Exchange Commission ("SEC") for the fiscal year ended   March 31, 2018   (the "Form 10-K"). 
+  The Company s fiscal year ends on March 31. The fiscal quarters consist of   13   weeks and end on the Saturday generally nearest each calendar quarter end, adjusted to provide relatively equivalent business days for each fiscal quarter. The actual ending dates for the periods presented in these Notes to the Consolidated Financial Statements as of   June 30, 2018   and   2017   were   June 30, 2018   and   July 1, 2017  , respectively. References herein to "Fiscal Year" or "Fiscal" mean the Company s fiscal year ended March 31 for the year referenced. All references to dollar amounts herein are presented in thousands, except per share amounts, unless otherwise noted. 
+  The consolidated financial statements include the accounts of the parent company and its wholly-owned subsidiaries. All significant intercompany accounts and transactions have been eliminated in consolidation. Certain items in the consolidated financial statements of prior years have been reclassified to conform to the current year s presentation. These reclassifications had no effect on reported net income (loss), comprehensive income (loss), cash flows, total assets or total stockholders' equity. 
+  The preparation of financial statements in conformity with GAAP requires Company management ("Management") to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Significant estimates in these financial statements include project progress towards completion to estimated budget, allowances for doubtful accounts receivable, sales returns, net realizable value of inventories, loss contingencies, warranty reserves, property, plant and equipment, intangible assets and goodwill. Actual results could differ from those estimates. Management believes the estimates made are reasonable. 
+  In the second quarter of Fiscal 2018, Management completed a plan to sell the Company's current headquarters' building and adjacent vacant land and move to another local facility that better aligns to the needs of the business. At that time, Management believed it was probable that the sale of the building and land would occur in the next twelve months. As of the third quarter of Fiscal 2018, Management believes that only the sale of certain parcels of the adjacent vacant land is probable to occur in the next twelve months. As of the   first   quarter of   Fiscal 2019  , Management continues to believe that only the sale of certain parcels of the adjacent vacant land is probable to occur in the next twelve months. These assets, all of which are Property, plant and equipment, are presented as "Assets held for sale" on the Consolidated Balance Sheets. These assets are reported under the North America Products operating segment. 
+  
+    7 
+
+     Table of Contents  
+
+Going Concern 
+  Our financial statements have been prepared assuming that we will continue as a going concern, which contemplates that we will realize our assets and satisfy our liabilities and commitments in the ordinary course of business. 
+    
+  Please see Note 6 for a description of and defined terms regarding our Credit Agreement, Amended Credit Agreement, and Second Amended Credit Agreement. On June 29, 2018, the Company and all the Lenders entered into the Second Amendment to our Credit Agreement ("Second Amended Credit Agreement" or "Second Amendment") in order to waive and modify certain covenants and other provisions contained in the Amended Credit Agreement and to fund its ongoing operations with the LIFO Facility. The Company would have defaulted the minimum Adjusted EBITDA covenant and certain other covenants as defined by the Amended Credit Agreement had these defaults not been waived under the Second Amendment. See Note 6 for additional information. We anticipate that our principal sources of liquidity, including this LIFO Facility, will be sufficient to fund our activities through approximately December 2018. 
+    
+  Beyond that date, current conditions raise substantial doubt about our ability to repay our indebtedness under the Second Amended Credit Agreement upon maturity and to meet the covenants as defined under the Second Amendment. These conditions raise substantial doubt about the Company s ability to continue as a going concern. These conditions are based on the Company's recurring losses from operations and negative operating cash flow, which have resulted in the need to take significant steps to generate additional liquidity. 
+    
+  Our ability to continue as a going concern is dependent on raising additional capital to repay our indebtedness when due and to fund our operations and ultimately on generating future profitable operations. As part of the Company s review of its strategic alternatives, the Company agreed under the Second Amended Credit Agreement to pursue the sale of its Federal Business (as defined in Note 6). The Company entered into an executed purchase agreement with respect to the sale of the Federal Business on August 17, 2018 which is expected to close on or before August 31, 2018. The Company believes the expected net proceeds from the sale of the Federal Business will enable the Company to take further steps to generate additional liquidity, including entering into a transaction, selling additional assets or businesses, or obtaining alternative financing, as well as making changes to the overall cost structure of the business. We believe these plans, if successfully executed, may remediate the current liquidity concerns. However, there can be no assurance that we will be able to raise sufficient additional capital through these plans, which have not yet been consummated outside of an executed purchase agreement with respect to the sale of the Federal Business, to repay all of our indebtedness under the Second Amended Credit Agreement. 
+
+Note 2: Significant Accounting Policies 
+  Significant Accounting Policies 
+  The significant accounting policies used in the preparation of the Company s consolidated financial statements are disclosed in Note 2 of the Notes to the Consolidated Financial Statements within the Form 10-K. The Company's significant accounting policy as it relates to revenues has been updated to reflect ASC 606 (as defined in the Recent Accounting Pronouncements below). 
+    
+  Under ASC 606, the Company recognizes revenues in a manner that best depicts the transfer of promised goods or services to customers for amounts that reflect the consideration to which we expect to be entitled in exchange for those goods or services. Products revenues are recognized at the point in time in which control of the products transfer to customers. Services revenues include network integration services, in which revenues are recognized over time either using either a cost-to-cost input method or a time and materials input method as those services are provided. The Company has historically made reasonably accurate estimates of the extent of progress towards completion under the cost-to-cost input method. However, due to uncertainties inherent in the estimation process, actual results could differ materially from those estimates. Services revenues also include on demand services, in which revenues are recognized typically when completed, due to the short-term duration of this work (which typically spans   one   to   thirty   days), and maintenance services, in which revenues are recognized over time using a time-based method. These maintenance services are generally pre-billed and are recorded in deferred revenue within the Company s Consolidated Balance Sheets and recognized into revenues over the service period. Refer to Note 3 for additional information. 
+  
+    8 
+
+     Table of Contents  
+
+Recent Accounting Pronouncements 
+  In May 2014, the FASB issued Accounting Standards Update ("ASU" or the "Update") No. 2014-09, "Revenue from Contracts with Customers", along with subsequent Updates (collectively, "ASC 606" or "the standard"), that outline a single comprehensive model for entities to use in accounting for revenue arising from contracts with customers. The core principle of the standard is that an entity recognizes revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expected to be entitled in exchange for those goods or services. The standard is effective for annual reporting periods (including interim periods therein) beginning after December 15, 2017 for public companies. Entities can use either of two methods: (i) retrospective to each prior period presented with the option to elect certain practical expedients as defined within the standard; or (ii) retrospective with the cumulative effect of initially applying the standard recognized at the date of initial application and providing certain additional disclosures as defined in the standard. As of April 1, 2018, the Company adopted ASC 606 using the modified retrospective method for all contracts not completed as of the date of adoption.  Refer to Note 3 for additional information. 
+    
+  In February 2018, the FASB issued ASU No. 2018-02, "Income Statement - Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income." The amendments in this Update allow for a reclassification from accumulated other comprehensive income to retained earnings for stranded tax effects resulting from the Tax Cuts and Jobs Act. This Update is effective for all entities for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. The Company is currently evaluating the impact of this Update. 
+
+Note 3: Revenues 
+    
+  ASC 606 adoption and cumulative effect 
+  As of April 1, 2018, the Company adopted ASU No. 2014-09, Revenue from Contracts with Customers, and subsequent Updates (collectively, "ASC 606" or "the standard") using the modified retrospective method for all contracts not completed as of the date of adoption.  The reported results for periods presented in Fiscal 2019 reflect the application of ASC 606 while the reported results for periods presented in Fiscal 2018 were prepared under ASC 605, Revenue Recognition.  The adoption of ASC 606 represents a change in accounting principle that will more closely align revenue recognition with the delivery of the Company's services and will provide financial statement readers with enhanced disclosures. The core principle of ASC 606 is that an entity recognizes revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expected to be entitled in exchange for those goods or services.   
+    
+  Under the modified retrospective method, the Company recognized the cumulative effect of adopting ASC 606 as an adjustment to the opening balance of retained earnings at the beginning of Fiscal 2019.  This adjustment to the opening balance of retained earnings was a decrease of   $2,752  . This decrease in retained earnings was mainly due to the deferral of   $1,826   of revenues and gross profit associated with materials costs incurred as part of installation projects in order to best depict the Company's performance on these projects, where progress is measured over time using a cost-to-cost input method; this deferral resulted in a decrease in costs/estimated earnings in excess of billings of   $1,371   and an increase in billings in excess of costs/estimated earnings of   $455  . The adoption of ASC 606 had no impact on the Company s net cash used for operating activities and only resulted in offsetting adjustments to net loss and various working capital balances.  
+    
+  Disaggregation of revenues 
+  The following table breaks down revenues by offering types at the operating segment level for the first quarter of Fiscal 2019. Refer to the Performance obligations section below for further information on these offering types. 
+
+Performance obligations 
+  Under ASC 606, revenues are to be recognized when or as performance obligations are satisfied by transferring control of a promised good or service to a customer. Companies must determine, at contract inception, whether control of a good or service transfers to a customer over time or at a point in time.  
+
+9 
+
+Products revenues represent product-only networking solutions sold through our Products platform. The Company employs point in time revenue recognition to our Products revenues when control of these products transfer to our customers, which generally occurs upon shipment from the Company's location. Payments are due from customers after we satisfy these performance obligations. While it is our standard business practice to control products and services before these products and services are transferred to customers, and thus act as the principal in arrangements, there are certain arrangements in which the Company acts as an agent whereby revenues are recognized for the amounts into which we expect to be entitled to when our performance obligations as the agent are satisfied, which has historically been at a point in time.  
+    
+  Projects include installation projects from our Services platform, which comprise both product sales and corresponding installation services (collectively, installation projects).     The Company employs over time revenue recognition to our installation projects either on a cost-to-cost input method or a time and materials input method, depending on the nature and pricing structure of the arrangement. For installation projects, the timing of when payments are due varies by contract, but is often based on certain milestones being met which will not always coincide with the timing in which our performance obligations are satisfied; this results in the costs and estimated earnings in excess of billings and billings in excess of costs and estimated earnings accounts as reported within the Company's Consolidated Balance Sheets.  
+    
+  Services revenues include our maintenance services and on demand services. The company employs over time revenue recognition to our maintenance services on a time-based method. Revenues are recognized on our on demand services typically when completed, due to the short-term duration of this work (which typically spans   one   to   thirty   days). In limited cases, the Company also provides extended warranties, which are considered separate performance obligations; revenues for these warranties are recognized over time using a time-based method as well. For maintenance services, payments may be due prior to the commencement of the maintenance period, periodically during the maintenance period and/or after the completion of the maintenance period. Payments received in advance of their related maintenance service periods will result in deferred revenue as reported within the Company's Consolidated Balance Sheets. 
+    
+  Payment terms do not have any significant financing components and while contracts can have certain types of variable consideration, including discounts, rebates and returns, all of which factor into our estimated amounts of consideration to which the Company will be entitled under ASC 606, these are currently neither significant nor constrained. 
+    
+  Revenues recognized in the first quarter of Fiscal 2019 from performance obligations satisfied (or partially satisfied) in previous periods, as a result of changes in estimates under the cost-to-cost input method or otherwise, were not significant. Revenues related to remaining unsatisfied performance obligations from open contracts that have not yet been recognized through the first quarter of Fiscal 2019 are   $302,397  ,   $157,438   of which is expected to be recognized in the next six months. 
+    
+  Contract balances 
+  The following table summarizes information about the Company's contract balances. 
+
+Accounts receivable increased   $10,385   mainly due to the timing of revenues recognized in the quarter, primarily driven by our commercial services and federal businesses within North America Services. Costs in excess of billings decreased   $5,350   as a result of as a result of changes related to customer projects in the North America commercial services business as well as due to the ASC 606 adjustment to best depict the Company's performance on projects under the cost-to-cost input method, as described above. Billings in excess of costs decreased   $1,504   stemming from an increase in average collection days, primarily driven by the commercial and federal businesses in North America Services, partially offset by an increase due to the aforementioned ASC 606 adjustment. Deferred revenue, including the long-term portion which is included in Other liabilities within the Company's Consolidated Balance Sheets, increased   $1,358   as a result of deferral of revenues associated with certain extended warranties under ASC 606, partially offset by changes related to customer maintenance contracts in the North America commercial services business. During the three months ended June 30, 2018, the Company recognized revenues of   $15,872   and   $7,601   that was included in deferred revenue and billings in excess of costs at March 31, 2018, respectively. 
+    
+  Practical expedients and policy elections 
+  
+    10 
+
+The Company has taken the practical expedient as outlined in ASC 606-10-65-1(f)(4) which aggregates the effect to the opening balance sheet of all contract modifications that occur through the adoption date. We have also taken the practical expedient as outlined in ASC 340-40-25-4 where we will recognize the incremental costs of obtaining a contract as an expense when incurred if the amortization period of the asset that the entity otherwise would have recognized is one year or less. While the Company has incremental commission costs associated with contracts greater than one year in duration, these amounts earned for the first quarter of Fiscal 2019 were not significant. The Company also incurs incremental costs to fulfill contracts, which are capitalized and amortized over the associated contract lives; however, these amounts for the first quarter of Fiscal 2019 were not significant. 
+    
+  Regarding policy elections, the Company has elected to account for shipping and handling activities performed by the Company after the transfer of title as activities to fulfill the promise to transfer products and not evaluate whether these activities are promised services that should be treated as separate performance obligations.  The Company has also elected to present all sales taxes collected from customers on a net basis. 
+    
+  The impact of applying these practical expedients and policy elections are not significant to our results.  
+    
+  Transition impact 
+  The following tables summarize the impacts of adopting ASC 606 on the Company's consolidated financial statements as of and for the three months ended June 30, 2018: 
+
+11 
+
+Note 4: Inventories 
+  The Company s Inventories consist of the following: 
+
+12 
+
+Table of Contents  
+
+Note 5: Intangible Assets 
+  The following table summarizes the gross carrying amount, accumulated amortization and net carrying amount by intangible asset class: 
+
+The Company s indefinite-lived intangible assets consist solely of the Company s trademark portfolio. The Company s definite-lived intangible assets now consist solely of customer relationships. 
+    
+  The following table summarizes the changes to the net carrying amounts by intangible asset class: 
+
+The following table details the estimated intangibles amortization expense for the remainder of Fiscal   2019  , each of the succeeding four fiscal years and the periods thereafter. 
+
+13 
+
+Table of Contents  
+
+`Note 6: Indebtedness 
+  The Company s debt consists of the following: 
+
+(1) Refer below for additional details regarding the Company's amended credit agreement which includes a revolving credit agreement and a term loan. 
+  In addition, the Company finances certain vendor-specific inventory under an unsecured revolving arrangement through third parties which provide extended payment terms beyond those offered by the vendor at no incremental cost to the Company. The outstanding balance for these unsecured revolving arrangements was   $2,696   as of   June 30, 2018  ,   $2,478   of which is classified as a current liability, and   $1,814   as of   March 31, 2018  ,   $1,596   of which was classified as a current liability.  These balances are recorded as other liabilities within the Company's Consolidated Balance Sheets. 
+  On May 9, 2016, the Company refinanced its then existing   $200,000   credit facility in the form of a line of credit pursuant to a new credit agreement (the "Credit Agreement") with PNC Bank, National Association, as administrative agent, Bank of America, N.A., as syndication agent, and certain other lender parties (the "Banks"). The Credit Agreement expires on May 9, 2021. Borrowings under the Credit Agreement were permitted up to a maximum amount of   $200,000  , and included up to   $15,000   of swing-line loans and   $25,000   of letters of credit. Interest on outstanding indebtedness under the Credit Agreement accrued, at the Company s option, at a rate based on either: (a) a Base Rate Option equal to the highest of (i) the federal funds open rate, plus fifty (50) basis points (  0.5%  ), (ii) the bank s prime rate, and (iii) the daily LIBOR rate, plus 100 basis points (  1.0%  ), in each case plus   0%   to   1.00%   (determined by a leverage ratio based on the Company s consolidated EBITDA) or (b) a rate per annum equal to the LIBOR rate plus   1.00%   to   2.00%   (determined by a leverage ratio based on the Company s consolidated EBITDA). The Credit Agreement required the Company to maintain compliance with certain non-financial and financial covenants such as leverage and interest coverage ratios.  
+  The Company s obligations under the Credit Agreement were secured by substantially all of the assets of the Company s material direct and indirect subsidiaries that are incorporated (or organized) under the laws of the District of Columbia or under the laws of any state or commonwealth of the United States and are guaranteed by such domestic subsidiaries. 
+  On August 9, 2017, the Company and certain of the Banks entered into an Amendment and Joinder Agreement to amend and restate the Credit Agreement (as amended and restated, the  Amended Credit Agreement ) in order to avoid a default of its leverage covenant. Under the Amended Credit Agreement, the credit facility was reduced to   $170,000   comprised of a   $50,000   term loan and   $120,000   line of credit. As of August 9, 2017,   $50,000   was borrowed under the term loan and   $52,528   remained outstanding under the line of credit. The amortization of the term loan is   $1,250   per quarter for four (4) quarters beginning in the quarter ending December 31, 2017 and   $2,500   per quarter beginning in the quarter ending December 31, 2018 through the end of the Amended Credit Agreement on May 9, 2021, the same expiration date of the Credit Agreement. Mandatory prepayments of the term loan are required with the net proceeds from certain asset sales, insurance recoveries and debt or equity issuances, as well as from   75%   to   50%   of any excess cash flow generated in Fiscal 2019 and Fiscal 2020. Interest on the term loan is, at the Company s option:  (i) a Base Rate Option equal to the highest of (x) the federal funds open rate, plus fifty (50) basis points (  0.5%  ), (y) the bank s prime rate, and (z) the daily LIBOR rate, plus 100 basis points (  1.0%  ), in each case plus   2.5%   or (ii) LIBOR plus   3.5%  .  Interest on outstanding indebtedness under the line of credit accrues, at the Company s option, at a rate based on either: (a) the Base Rate Option plus   0.25%   to   2.00%   (determined by a leverage ratio based on the Company s consolidated EBITDA) or (b) a rate per annum equal to the LIBOR rate plus   1.25%   to   3.00%   (determined by a leverage ratio based on the Company s consolidated EBITDA).  
+  
+    14 
+
+     Table of Contents  
+
+Under the Amended Credit Agreement, the leverage ratio covenant is suspended until the second quarter of Fiscal 2019.  The Amended Credit Agreement contains a minimum Adjusted EBITDA covenant and a provision requiring the Company to repay revolving credit loans with any excess cash. During that same period, a covenant will limit capital expenditures to an agreed upon amount. The ability of the Company to make dividends or other distributions (including stock repurchases other than up to a limited dollar amount for tax payments from vested equity awards) has been eliminated. 
+  The leverage ratio covenant that starts in the second quarter of Fiscal 2019 will be   4.00   to 1.00 and will reduce to   3.00   to 1.00 over the remaining life of the credit facility. A fixed charge coverage ratio of   1.00   to 1.00 begins in the second quarter of Fiscal 2019 increasing to   1.10   to 1.00 in the fourth quarter of Fiscal 2019 and thereafter.   
+  The Company s obligations under the Amended Credit Agreement are secured by substantially all of the assets of the Company and the Company s direct and indirect subsidiaries that are incorporated (or organized) under the laws of the District of Columbia or under the laws of any state or commonwealth of the United States (a  U.S. Entity ) and are guaranteed by such domestic subsidiaries. Under the Amended Credit Agreement, the Company and each U.S. Entity pledged   65%   of the voting ownership interests and   100%   of the non-voting ownership interests of its foreign subsidiaries. 
+    
+  On June 29, 2018, the Company and certain direct and indirect wholly-owned subsidiaries of the Company (collectively, the  Guarantors  and together with the Company, the  Loan Parties ) entered into a Second Amendment (the  Second Amended Credit Agreement  or the  Second Amendment ) with PNC Bank, National Association, as administrative agent (the  Agent ), and certain other lenders party thereto (together with the Agent, the  Lenders ) to amend the Credit Agreement entered into among the Loan Parties, the Agent and the Lenders on May 9, 2016 (as amended by the Amendment and Joinder Agreement, dated August 9, 2017, the  Amended Credit Agreement,  and as further amended by the  Second Amended Credit Agreement ). 
+    
+  The Second Amended Credit Agreement established a new  last in first out  senior revolving credit facility in an amount not to exceed   $10,000   (the  LIFO Facility ). The borrowings under the LIFO Facility will be used to finance the Company s cash flow needs, subject to an approved budget and certain variance restrictions, including payments to vendors to allow the Company to operate in the ordinary course of its business. Interest on the LIFO Facility is LIBOR plus   10.0%  . The Company entered into the Second Amendment to waive and modify certain covenants and other provisions contained in the Amended Credit Agreement and to fund its ongoing operations with the LIFO Facility. The Company would have defaulted the minimum Adjusted EBITDA covenant and certain other covenants as defined by the Amended Credit Agreement had these defaults not been waived under the Second Amendment. 
+    
+  The Company continues to engage Raymond James   Associates ( Raymond James ) as its financial advisor to assist the Company in exploring strategic alternatives. As part of the Company s review of its alternatives, the Company has agreed under the Second Amended Credit Agreement to pursue the sale (the  Sale Transaction ) of its federal government IT services business (the  Federal Business ). The Federal Business is part of the Services business segment. Under the Second Amendment, the Company must meet certain milestone dates leading to the consummation of the Sale Transaction, including the delivery of an executed purchase agreement in respect of the Sale Transaction on or before July 31, 2018, and the consummation of the Sale Transaction on or before August 31, 2018 (the  Sale Milestones ). The Agent, in its sole discretion, may extend the Sale Milestone dates and the Agent did extend the date by which the Company must execute the sales agreement to August 17, 2018. The Company entered into an executed purchase agreement with respect to the sale of the Federal Business on August 17, 2018 which is expected to close on or before August 31, 2018. All net cash proceeds of the Sale Transaction will first be used to pay down loans outstanding under the LIFO Facility, and after, repayment of such loans, the Company s other indebtedness under the Second Amended Credit Agreement. 
+    
+  The Second Amended Credit Agreement, among other things, (i) waived certain potential defaults and events of default under the Amended Credit Agreement; (ii) deferred principal and interest payments on the Company s existing term loans and revolving loans, except the LIFO Facility, until December 15, 2018; provided that the aggregate amount of deferred principal and interest payments through the closing of the Sale Transaction will be due upon such closing; and (iii) modified the interest rates applicable to such outstanding loans so that interest accrues at a rate equal to: (a) for the term loan, the highest of (1) the federal funds open rate plus   0.5%  , (2) the Agent s prime rate or (3) LIBOR plus   1.0%   (the  Base Rate ), in each case plus   2.5%  , and (b) for the revolving loans, the Base Rate plus an amount between   0.25%   and   2.0%   (as determined by a leverage ratio based on the Company s consolidated EBITDA). 
+    
+  The Second Amended Credit Agreement also revised the Company s covenants under the Amended Credit Agreement to, among other things, (i) suspend the leverage ratio and fixed charge coverage ratio covenants until December 15, 2018; (ii) modify the minimum consolidated EBITDA covenant to require that the Company s minimum consolidated EBITDA for the three fiscal month period ending on the close of each fiscal month equal or exceed (i)  negative   $3,000   for the fiscal months ending June 30, 2018, July 31, 2018 and August 31, 2018, and (ii) negative   $3,500   for the fiscal months ending September 30, 2018 and thereafter;  
+  
+    15 
+
+     Table of Contents  
+
+(iii) reduce the sub-limit for the issuance of letters of credit to   $10,000  ; (iv) require periodic delivery of updated budgets and budget variance reports to the Agent and compliance with certain disbursement and net cash flow variance thresholds; (v) restrict the incurrence of expenses related to implementation of the ERP system; (vii) require that the net cash proceeds from certain asset sales and certain excess cash be used to prepay the Company s obligations under the Amended Credit Agreement; and (viii) require the repatriation to the Loan Parties of cash on hand above a certain amount maintained by certain excluded foreign subsidiaries of the Loan Parties and restrict the transfer of assets by the Loan Parties (other than inventory in the course of ordinary business) to such excluded foreign subsidiaries unless accounted for in the budget. 
+    
+  The Company s obligations under the Second Amended Credit Agreement continue to be secured by substantially all of the personal property assets of the Company and all of the Company s direct and indirect owned subsidiaries that are incorporated (or organized) under the laws of the District of Columbia or under the laws of any state or commonwealth of the United States (other than BBOX Holdings Mexico LLC). In addition, under the Second Amendment, the Company s obligations are required to be secured by additional collateral, including (i) a first-priority pledge of all of the capital stock of each existing and subsequently acquired or organized subsidiary of the Loan Parties not pledged under the Credit Agreement, with certain exceptions; and (ii) mortgages over certain material real property of the Loan Parties located in the U.S. The Company is also required to cause the execution of deposit account control agreements with respect to certain U.S. bank accounts of the Loan Parties and to deliver to the Agent executed assignment agreements and forms of notice of assignment with respect to certain federal government contracts. Such notices may be sent upon an event of default or potential default.  
+    
+  Effectiveness of the Second Amendment was subject to certain conditions precedent, each of which were satisfied on June 29, 2018. The outstanding balance of the LIFO Facility and all accrued and unpaid interest, fees and expenses are due and payable on December 15, 2018 or the earlier proper termination of the LIFO Facility by the Agent following an event of default. 
+  The maximum amount of debt outstanding under the Second Amended Credit Agreement, the weighted-average balance outstanding under the Second Amended Credit Agreement and the weighted-average interest rate on all outstanding debt for the three-months ended   June 30, 2018   was   $157,500  ,   $156,186   and   5.7%  , respectively, compared to   $171,237  ,   $140,455   and   2.8%  , respectively, for the three-months ended   June 30, 2017   under the Credit Agreement. 
+  As of   June 30, 2018  , the Company had   $9,825   outstanding in letters of credit and   $10,000   in unused commitments, which are limited by a financial covenant, under the Second Amended Credit Agreement. 
+
+Note 7: Derivative Instruments and Hedging Activities 
+  The Company is exposed to certain market risks, including the effect of changes in foreign currency exchange rates and interest rates. The Company uses derivative instruments to manage financial exposures that occur in the normal course of business. It does not hold or issue derivatives for speculative trading purposes. The Company is exposed to non-performance risk from the counterparties in its derivative instruments. This risk would be limited to any unrealized gains on current positions. To help mitigate this risk, the Company transacts only with counterparties that are rated as investment grade or higher and all counterparties are monitored on a continuous basis. The fair value of the Company s derivatives reflects this credit risk. 
+  The Company enters into foreign currency contracts to hedge exposure to variability in expected fluctuations in foreign currencies. All of the foreign currency contracts have been designated and qualify as cash flow hedges. The effective portion of any changes in the fair value of the derivative instruments is recorded in Accumulated Other Comprehensive Income ("AOCI") until the hedged forecasted transaction occurs or the recognized currency transaction affects earnings. Once the forecasted transaction occurs or the recognized currency transaction affects earnings, the effective portion of any related gains or losses on the cash flow hedge is reclassified from AOCI to the Company s Consolidated Statements of Operations.  
+  
+    16 
+
+     Table of Contents  
+
+As of   June 30, 2018  , the Company had open contracts in Australian and Canadian dollars, Danish krone, Euros, Mexican pesos, Norwegian kroner, British pounds sterling, Swedish krona, Swiss francs and Japanese yen, all of which have been designated as cash flow hedges. These contracts had a notional amount of   $47,885   and will expire within   2   months. There was no hedge ineffectiveness during Fiscal   2019   or Fiscal   2018  . 
+  The following tables summarize the carrying amounts of derivative assets/liabilities and the impact on the Company s Consolidated Statements of Operations: 
+
+Three-months ended 
+
+June 30 
+        
+    Classification 
+    2018 
+      
+    2017 
+      
+      Derivatives designated as hedging instruments 
+
+Gain (loss) recognized in other comprehensive income (effective portion), net of taxes 
+    Other comprehensive 
+  income 
+    $ 
+    (741 
+    ) 
+    $ 
+    (667 
+    ) 
+      Amounts reclassified from AOCI into results of operations (effective portion), net of taxes 
+    Selling, general   
+  administrative expenses 
+    10 
+      
+    386 
+
+Note 8: Fair Value Disclosures 
+  Recurring fair value measurements 
+  The following table presents information about the Company s assets and liabilities measured at fair value on a recurring basis as of   June 30, 2018  , and indicates the fair value hierarchy of the valuation techniques utilized by the Company to determine such fair value: 
+
+(1) The fair value of pension plan assets is measured annually, thus this value is as of   March 31, 2018  . 
+  Non-recurring fair value measurements 
+  The Company's assets and liabilities that are measured at fair value on a non-recurring basis include non-financial assets and liabilities initially measured at fair value in a business combination. 
+   
+  Note 9: Stockholder's Equity 
+  Accumulated Other Comprehensive Income 
+  The components of AOCI consisted of the following for the periods presented: 
+  
+    17 
+
+     Table of Contents  
+
+Common Stock Repurchases 
+    
+  The following table presents information about the Company's common stock repurchases: 
+
+During the   three  -months ended   June 30, 2018  , the Company made tax payments of   $112   and withheld   47,644   shares of common stock, which were designated as treasury shares, at an average price per share of   $2.35  , in order to satisfy employee income taxes due as a result of the vesting of certain restricted stock units. During the   three  -months ended   June 30, 2017  , the Company made tax payments of   $393   and withheld   44,507   shares of common stock, which were designated as treasury shares, at an average price per share of   $8.84  , in order to satisfy employee income taxes due as a result of the vesting of certain restricted stock units. 
+  Since the inception of its repurchase programs beginning in April 1999 and through   June 30, 2018  , the Company has repurchased   11,392,851   shares of common stock for an aggregate purchase price of   $408,621  , or an average purchase price per share of   $35.87  . These shares do not include the treasury shares withheld for tax payments due upon the vesting of certain restricted stock units and performance shares. As of   June 30, 2018  ,   1,107,149   shares were available under the most recent repurchase programs. 
+  Under the Second Amended Credit Agreement, the Company is no longer permitted to repurchase common stock through its repurchase program but is allowed to repurchase a limited amount of shares for tax payments related to the vesting of certain restricted stock units and performance shares, as applicable. This restriction is in effect until May 9, 2021, the termination date of the Second Amended Credit Agreement. See Note 6 for additional information regarding our Second Amended Credit Agreement. 
+
+Note 10: Income Taxes 
+  On December 22, 2017, the Tax Cuts and Jobs Act was enacted, which among numerous provisions reduced the federal statutory corporate tax rate from 35% to   21%  . Based on the provisions of the Tax Reform, the Company adjusted its estimated annual effective income tax rate to incorporate the lower federal corporate tax rate into the tax provision for the current quarter ended   June 30, 2018  .  Under the new Global Intangible Low-Taxed Income (GILTI) tax rules of the Tax Reform, and the application of ASC 740, Income Taxes, the Company s accounting policy is to treat taxes due on future U.S. inclusions in taxable income related to GILTI as a current-period expense when incurred (the  period cost method ) and has been incorporated into the tax provision for the current quarter ended   June 30, 2018  .   
+    
+  Pursuant to SEC Staff Accounting Bulletin 118 (regarding the application of ASC 740 associated with the enactment of the Tax Reform), the Company continues to evaluate the impact of various domestic and international provisions of the Tax Reform as well as the impact of additional guidance that may be provided. The final impact of the Tax Reform may differ due to changes in interpretations, assumptions made by the Company, and the issuance of additional guidance. 
+    
+  The Company's benefit from income taxes for the three-months ended   June 30, 2018   was   $150  , an effective tax rate of   2.0%   on a loss before provision for income taxes of   $7,472  , compared to a benefit from income taxes of   $4,498  , an effective tax rate of   31.6%   on a loss before provision for income taxes of   $14,245   for the three-months ended   June 30, 2017  . The decrease in the benefit was primarily due to valuation allowances booked against U.S. deferred tax assets. The effective tax rate for the three-months ended June 30, 2018 of   2.0%   differs from the federal statutory rate primarily due to valuation allowances booked and the mix of income across various taxing jurisdictions.  
+    
+  The Company provides for income taxes at the end of each interim period based on the estimated effective tax rate adjusted for certain discrete items for the full fiscal year.  Cumulative adjustments to the Company's estimate are recorded in the interim period in which a change in the estimated annual effective rate is determined. 
+    
+  Fiscal 2015 through Fiscal 2017 remain open to examination by the Internal Revenue Service and Fiscal 2013 through Fiscal 2017 remain open to examination by certain state and foreign taxing jurisdictions. 
+    
+  A valuation allowance is provided on deferred tax assets if determined that it is more likely than not that the asset will not be realized. The Company considers all available evidence, both positive and negative, in assessing the need for a valuation allowance in each taxing jurisdiction. The evidence considered in evaluating deferred tax assets includes but is not limited to cumulative financial income over the three-year period ended   June 30, 2018  , excluding significant one-time charges for impairment (goodwill  
+  
+    18 
+
+     Table of Contents  
+
+and other), the composition and reversal patterns of existing taxable and deductible temporary differences between financial reporting and tax, and subjective projected future income. 
+    
+  Based on the available evidence, a valuation allowance of   $514   has been recorded against U.S. deferred tax assets and certain foreign net operating losses for the three months ended   June 30, 2018  .  Future positive and negative events, such as the significant underperformance relative to projected or future operating results, will be monitored accordingly and a determination will be made on the ability to realize deferred tax assets at that time. 
+
+Note 11: Stock-based Compensation 
+  In August 2008, the Company s stockholders approved the 2008 Long-Term Incentive Plan, as amended (the "Incentive Plan"), which replaced the 1992 Stock Option Plan, as amended, and the 1992 Director Stock Option Plan, as amended. As of   June 30, 2018  , the Incentive Plan is authorized to issue stock options, restricted stock units and performance shares, among other types of awards, for up to   6,676,734   shares of common stock, par value   $0.001   per share (the "common stock"). 
+  The Company recognized stock-based compensation expense of   $1,004   and   $2,198   for the three-months ended   June 30, 2018   and   2017  , respectively. The Company recognized total income tax benefit for stock-based compensation arrangements of   $251   and   $818   for the three-months ended   June 30, 2018   and   2017  , respectively. Stock-based compensation expense is recorded in Selling, general   administrative expenses within the Company s Consolidated Statements of Operations. 
+  Stock options 
+  Stock option awards are granted with an exercise price equal to the closing market price of the common stock on the date of grant; such stock options generally become exercisable in equal amounts over a   three  -year period and have a contractual life of   ten   years from the grant date. The fair value of stock options is estimated on the grant date using the Black-Scholes option pricing model, which includes the following weighted-average assumptions. 
+
+The following table summarizes the Company s stock option activity: 
+
+The weighted-average grant-date fair value of options granted during the   three  -months ended   June 30, 2018   and   2017   was   $1.47   and   $2.51  , respectively. The intrinsic value of options exercised during the   three  -months ended   June 30, 2018   and   2017   was   $0   and   $0  , respectively. The aggregate intrinsic value in the preceding table is based on the closing stock price of the common stock on   June 29, 2018  , which was   $2.03  . 
+  
+    19 
+
+     Table of Contents  
+
+The following table summarizes certain information regarding the Company s non-vested stock options: 
+
+As of   June 30, 2018  , there was   $2,996   of total unrecognized pre-tax stock-based compensation expense related to non-vested stock options, which is expected to be recognized over a weighted-average period of   2.5   years. 
+  Restricted stock units 
+  Restricted stock unit awards are subject to a service condition and typically vest in equal amounts over a   three  -year period from the grant date. The fair value of restricted stock units is determined based on the number of restricted stock units granted and the closing market price of the common stock on the date of grant. 
+  The following table summarizes the Company s restricted stock unit activity: 
+
+The total fair value of shares that vested during the   three  -months ended   June 30, 2018   and   2017   was   $332   and   $1,894  , respectively. 
+  As of   June 30, 2018  , there was   $1,500   of total unrecognized pre-tax stock-based compensation expense related to non-vested restricted stock units, which is expected to be recognized over a weighted-average period of   1.6   years. 
+  
+    20 
+
+     Table of Contents  
+
+Performance share awards 
+  Performance share awards are subject to one of the performance goals - the Company's Relative Total Shareholder Return ("TSR") Ranking or cumulative Adjusted EBITDA - each over a   three  -year period. The Company s Relative TSR Ranking metric is based on the three-year cumulative return to stockholders from the change in stock price and dividends paid between the starting and ending dates. The fair value of performance share awards (subject to cumulative Adjusted EBITDA) is determined based on the number of performance shares granted and the closing market price of the common stock on the date of grant. The fair value of performance share awards (subject to the Company s Relative TSR Ranking) is estimated on the grant date using the Monte-Carlo simulation valuation method. 
+  There have been no performance share awards granted in Fiscal 2019. The following table summarizes the Company s performance share award activity: 
+
+The total fair value of shares that vested during the   three  -months ended   June 30, 2018   and   2017   was   $0   and   $0  , respectively, as there were no payouts because certain performance obligations were not met. 
+  As of   June 30, 2018  , there was   $534   of total unrecognized pre-tax stock-based compensation expense related to non-vested performance share awards, which is expected to be recognized over a weighted-average period of   1.6   years. 
+   
+  Note 12: Earnings (loss) Per Share 
+  The following table details the computation of basic and diluted earnings (loss) per common share from continuing operations for the periods presented (share numbers in table in thousands): 
+
+The Weighted-average common shares outstanding (diluted) computation is not impacted during any period where the exercise price of a stock option is greater than the average market price. There were   3,242,964   and   1,796,632   non-dilutive equity awards outstanding for the three-months ended   June 30, 2018   and   2017  , respectively, that are not included in the corresponding period Weighted-average common shares outstanding (diluted) computation. 
+
+21 
+
+     Table of Contents  
+
+Note 13: Segment Information 
+  The Company conducts business globally and is managed on a geographic-service type basis consisting of   four   operating segments which are (i) North America Products, (ii) North America Services, (iii) International Products and (iv) International Services. These operating segments are also the Company's reporting units for purposes of testing goodwill for impairment and its reporting segments for financial reporting purposes. Revenues within our North America segments are primarily attributed to the United States while revenues within our International segments are attributed to countries in Europe, the Pacific Rim and Latin America.  
+  The accounting policies of the operating segments are the same as those of the Company. The Company allocates resources to its operating segments and evaluates the performance of the operating segments based upon operating income. 
+  The financial results for the Company's reporting segments are as follows: 
+
+Note 14: Commitments and Contingencies 
+  In connection with the Amended Credit Agreement disclosed in Note 6, the Company is required to make payments of   $8,750   on its term loan over the next 12 months. Correspondingly, the Company expects its long-term payments (greater than 1 year) under the credit facility to decrease by   $8,750  . 
+    
+  The Company is involved in, or has pending, various legal proceedings, claims, suits and complaints arising out of the normal course of business. Based on the facts currently available to the Company, Management believes these matters are adequately provided for, covered by insurance, without merit or not probable that an unfavorable material outcome will result. 
+    
+  There has been no other significant or unusual activity during Fiscal   2019  . 
+
+Note 15: Restructuring 
+
+22 
+
+The Company has incurred and continues to incur costs related to facility consolidations, such as idle facility rent obligations and the write-off of leasehold improvements, and employee severance (collectively referred to as  restructuring expense ) in a continued effort to consolidate back office functions and to make its organization more efficient. These restructuring activities are compartmentalized and are not part of an overall plan and therefore the Company cannot estimate the total amount to be incurred in connection with the activity. Employee severance is generally payable within the next twelve months with certain facility costs extending through Fiscal 2019.     
+    
+  The following table summarizes the changes to the restructuring liability for the periods presented. 
+
+The restructuring liability amount shown above is classified as a current liability under other liabilities on the Company s Consolidated Balance Sheets for the period ended   June 30, 2018  . 
+    
+  The following table summarizes restructuring expense, which is recorded in Selling, general   administrative expenses in the Company s Consolidated Statements of Operations, for the   three  -months ended   June 30, 2018  , for the Company s reporting segments: 
+
+Company management is continuing to assess ways to align costs with revenues to improve profitability. 
+  
+    23 
+
+Note 16: Subsequent Event 
+    
+  On August 17, 2018, the Company entered into a definitive agreement to sell the Federal Business to a private equity firm for a cash purchase price of $75 million. The buyer has agreed to purchase 100% of the equity interests of the Federal Business on a debt-free, cash-free basis. Consummation of the transaction is subject to customary closing conditions and the parties anticipate a closing on or before August 31, 2018. All net cash proceeds of the Sale Transaction will first be used to pay down loans outstanding under the LIFO Facility, and after, repayment of such loans, the Company s other indebtedness under the Second Amended Credit Agreement. Refer to Note 6 for additional information. Revenues and gross profit for the Federal Business for the fiscal year ended March 31, 2018 were $119.0 million and $30.1 million, respectively.  
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations ("MD A"). 
+  The discussion and analysis for the three-months and   three  -months ended   June 30, 2018   and   2017   as set forth below in this Part I, Item 2 should be read in conjunction with the response to Part I, Item 1 of this report and the consolidated financial statements of Black Box Corporation ("Black Box," the "Company," "we" or "our"), including the related notes, and "Management s Discussion and Analysis of Financial Condition and Results of Operations" included in the Company s most recent Annual Report on Form 10-K, as filed with the Securities and Exchange Commission ("SEC") for the fiscal year ended   March 31, 2018   (the "Form 10-K"). References to    1Q19    mean the three-month period ended   June 30, 2018   while references to    1Q18    mean the three-month period ended   June 30, 2017  . The Company s fiscal year ends on March 31. The fiscal quarters consist of   13   weeks and generally end on the Saturday nearest each calendar quarter end, adjusted to provide relatively equivalent business days for each fiscal quarter. The actual ending dates for the periods presented as of   June 30, 2018   and   2017   were   June 30, 2018   and   July 1, 2017  , respectively. References to "Fiscal Year" or "Fiscal" mean the Company s fiscal year ended March 31 for the year referenced. All dollar amounts are presented in thousands except for per share amounts or unless otherwise noted. 
+  Recent Developments 
+    
+  Second Amendment to the Credit Agreement 
+  On June 29, 2018, the Company and certain direct and indirect wholly-owned subsidiaries of the Company (collectively, the  Guarantors  and together with the Company, the  Loan Parties ) entered into a Second Amendment (the  Second Amended Credit Agreement  or the  Second Amendment ) with PNC Bank, National Association, as administrative agent (the  Agent ), and certain other lenders party thereto (together with the Agent, the  Lenders ) to amend the Credit Agreement entered into among the Loan Parties, the Agent and the Lenders on May 9, 2016 (as amended by the Amendment and Joinder Agreement, dated August 9, 2017, the  Amended Credit Agreement,  and as further amended by the  Second Amended Credit Agreement ). 
+    
+  The Second Amended Credit Agreement established a new  last in first out  senior revolving credit facility in an amount not to exceed   $10,000   (the  LIFO Facility ). The borrowings under the LIFO Facility will be used to finance the Company s cash flow needs, subject to an approved budget and certain variance restrictions, including payments to vendors to allow the Company to operate in the ordinary course of its business. Interest on the LIFO Facility is LIBOR plus   10.0%  . The Company entered into the Second Amendment to waive and modify certain covenants and other provisions contained in the Amended Credit Agreement and to fund its ongoing operations with the LIFO Facility. The Company would have defaulted the minimum Adjusted EBITDA covenant and certain other covenants as defined by the Amended Credit Agreement had these defaults not been waived under the Second Amendment. 
+    
+  Sale of Federal Business and Other Strategic Alternatives 
+  The Company continues to engage Raymond James   Associates ( Raymond James ) as its financial advisor to assist the Company in exploring strategic alternatives. As part of the Company s review of its alternatives, the Company has agreed under the Second Amended Credit Agreement to pursue the sale (the  Sale Transaction ) of its federal government IT services business (the  Federal Business ). The Federal Business is part of the Services business segment. Under the Second Amendment, the Company must meet certain milestone dates leading to the consummation of the Sale Transaction, including the delivery of an executed purchase agreement in respect of the Sale Transaction on or before July 31, 2018, and the consummation of the Sale Transaction on or before August 31, 2018 (the  Sale Milestones ). The Agent, in its sole discretion, may extend the Sale Milestone dates and the Agent did extend the date by which the Company must execute the sales agreement to August 17, 2018. The Company entered into an executed purchase agreement with respect to the sale of the Federal Business on August 17, 2018 which is expected to close on or before August 31, 2018. All net cash proceeds of the Sale Transaction will first be used to pay down loans outstanding  
+  
+    24 
+
+     Table of Contents  
+
+under the LIFO Facility, and after, repayment of such loans, the Company s other indebtedness under the Second Amended Credit Agreement. 
+    
+  While the entry into a definitive agreement for the sale of the Federal Business is a significant milestone for Black Box, the Company also remains focused on exploring all other strategic alternatives with the assistance of Raymond James and Jones Day to address its liquidity needs including, among others, refinancing, restructuring and the sale of some or all of the remaining businesses of the Company. This process reflects the continued commitment of the Board of Directors of the Company to act in the best interests of the Company and to maximize value for the Company s stockholders. 
+    
+  While the Company is working expeditiously to consummate the sale of the Federal Business and on other strategic alternatives, there can be no assurances that the sale of the Federal Business will be consummated or that the Company will be able to consummate any other strategic alternatives. 
+    
+  The Company 
+  Black Box is a leading digital solutions provider dedicated to helping customers design, build, manage and secure their IT infrastructure. The Company offers Services and Products that it distributes through two platforms that it has built over its   42  -year history.  
+  Our Services platform is comprised of engineering and design, project management, field service management, network operations centers, our national technology team, national and international sales teams and technology solutions centers which include dedicated sales and engineering resources. The primary services offered through this platform include managed services, infrastructure services (including wired and wireless network solutions, structured cabling and video/AV services), communications lifecycle services, unified communications and data center services. 
+    
+  The Company generates revenues in its Services business from the design, sale and/or installation of new communications and network infrastructure systems, the support of existing systems and on demand services. We periodically generate revenues from contracts performed over time that may result in an asset on our balance sheet for multiple periods constituting part of our working capital. We have not experienced significant collectability issues related to such contracts. For the sale and implementation of new communications systems or other major projects, most significant orders are subject to competitive bidding processes and, generally, competition can be significant for such new orders. The Company is continually bidding on new projects for services revenues. Projects account for the majority of Services revenues and are primarily driven by the overall economic environment and information technology capital spending. The Company also serves government clients whose revenues are not as dependent on the overall economic environment as commercial clients but are subject to governmental budgetary constraints. 
+    
+  New communications systems orders often generate post-implementation maintenance via a fixed fee model where revenues are earned ratably over the term of the agreement (generally 1-3 years for commercial clients and 3-5 years for government clients) or a variable fee model that is based on time and materials per occurrence, similar to on demand services. Maintenance revenues generally are not dependent on the economy as clients contract for maintenance to extend the life of their existing equipment and delay capital spending on new communications systems. Maintenance and on demand services revenues are also dependent upon the Company's relationship with its clients and its long track record of providing high-quality service. 
+    
+  The Company's Services business generates backlog which is defined by the Company as orders and contracts considered to be firm. At   June 30, 2018  , the Company's total backlog, which relates primarily to Services, was   $323,460  , of which   $228,405     is expected to be completed within the next twelve months. 
+    
+  Under our Products platform, we provide networking solutions through the sale of products for KVM switching, IT infrastructure, specialty networking and multimedia. 
+    
+  Our Products revenues are generated from sales to key channel partners and system integrators and through a global distribution network. Products sells through a direct sales team as well as through its internet site and catalogs. In order to meet client demand, we keep a moderate level of inventory which consumes part of our working capital. The market for these products is a highly fragmented and competitive. The Company has participated in this market for 40+ years and has earned a reputation for providing high quality products, rapid order fulfillment and free 24/7/365 technical support. The Company's Products revenues is driven both by general information technology spending and capital budgets. 
+
+25 
+
+     Table of Contents  
+
+Our platforms introduce scale, flexibility and leverage to the business, and provide the following competitive advantages: 
+
+A diversified client base:   We have built a diversified client base that ranges from small organizations to many of the world's largest corporations and institutions. Black Box clients participate in many industries, including government, technology, business services, healthcare, manufacturing, banking and retail, among others. Revenues from our clients are segmented with approximately 60% from large companies (  i.e.  , revenues greater than $1 billion, including federal governments), approximately 20% from medium-sized companies (  i.e.  , revenues between $50 million and $1 billion, including state governments) and approximately 20% from small companies (  i.e.  , revenues less than $50 million, including local governments). We strive to develop extensive and long-term relationships with high-quality clients as we believe that satisfied clients will demand quality services and product offerings even in economic downturns. Also, we believe that our distinctive portfolio of products and services will allow us to leverage the relationships and introduce additional offerings to satisfied clients. 
+
+Key relationships with leading technology partners:    We have built long-term relationships with all major communications equipment manufacturers and we are a top partner with the market leaders. 
+
+Broad geographic footprint:   We have built a global footprint with offices throughout the world. 
+
+Deep organic resources:   We have   3,228   team members world-wide, with the collective experience and certifications to serve our clients with on-site and remote capabilities. 
+
+Dedicated sales force:   We have a team of direct sales people world-wide. 
+       
+  The Company services a variety of clients within most major industries, with the highest concentration in the government, business services, manufacturing, banking, retail, healthcare and technology industry verticals. Factors that impact those verticals, therefore, could have an impact on the Company. While the Company generates most of its revenues in North America, the Company also generates revenues from around the world, primarily Europe, such that factors that impact European markets could impact the Company. Management strives to develop extensive and long-term relationships with high-quality clients as Management believes that satisfied clients will demand quality services and product offerings from us even in economic downturns. 
+    
+  1Q19   vs   1Q18   Summary 
+
+n/m = not meaningful 
+  Diluted   loss   per share was   $0.48  , compared to   $0.65     in the same period last year as a result of: 
+             
+    a   $1,271     increase   in gross profit as a result of a   $1,798     increase   in Service gross profit due to margin improvements in North America Services, including in both of our commercial and federal businesses, partially offset by margin deterioration in International Services, and a   $527     decrease   in Products gross profit due to margin improvement in International Products, partially offset by margin deterioration in North America Products, and 
+                
+    a   $6,429     decrease   in selling, general and administrative expenses which was primarily the result of reductions of $4,124 reduction in restructuring expense, $2,306 in compensation and benefits expense, $1,890 in ERP implementation expense, and $1,194 in stock compensation expense, partially offset by an increase of $2,980 in financial consulting expense, partially offset by 
+                
+    a   $1,333     increase   in interest expense resulting from higher interest rates and higher average debt, and 
+                
+    a   $4,348   decrease in the benefit from income taxes primarily due to valuation allowances booked against U.S. deferred tax assets. 
+     
+    26 
+
+     Table of Contents  
+
+Net cash used for operating activities was   $2,320  , which included net loss of   $7,322   and   negative   cash from working capital of   $714  , compared to net cash used for operating activities of   $16,267  , which included net loss of   $9,747   and   negative   cash from working capital of   $8,907  , in the same period last year. 
+
+27 
+
+     Table of Contents  
+
+Results of Operations 
+  Segments 
+  We conduct our business globally and manage our business by geographic-service type under the following four operating segments: North America Products, North America Services, International Products and International Services. The revenues, gross profit and operating income (loss) amounts in the table below are presented on a basis consistent with GAAP. 
+
+28 
+
+     Table of Contents  
+
+1Q19   vs   1Q18 
+  Total revenues were   $190,799  , a   decrease   of   0.4%   from   $191,644   in the same period last year. Services revenues were   $159,247  , an   increase   of   0.3%   from   $158,756   in the same period last year primarily due to a decrease in our federal business's revenues offset by a realignment of several international entities between Products and Services as a result of changes in our management structure in the second quarter of Fiscal 2018. Products revenues were   $31,552  , a   decrease   of   4%   from   $32,888   in the same period last year primarily due to the aforementioned realignment of several international entities between Products and Services. 
+  Total gross profit margin was   28.2%  , an   increase   from   27.4%   in the same period last year. Service gross profit margin was   25.5%  , an   increase   from   24.4%   in the same period last year due to margin improvements in North America Services, including in both of our commercial and federal businesses, partially offset by margin deterioration in International Services. Product gross profit margin was   42.3%  , an   increase   from   42.1%   in the same period last year due to margin improvement in International Products, partially offset by margin deterioration in North America Products. 
+  Total operating loss margin was   2.3%  , compared to a total operating loss margin of   6.7%   in the same period last year. Service operating loss margin was   1.7%  , compared to Service operating loss margin of   4.8%   in the same period last year, primarily due to favorable gross margin and favorable operating expense in the current period. Product operating loss margin was   5.3%  , compared to Product operating loss margin of   15.9%   in the same period last year, primarily due to favorable operating expense in the current period. 
+    
+  Interest expense, net and Income Taxes 
+
+1Q19   vs   1Q18 
+  Interest expense was   $2,551  , an   increase   of   109%   from   $1,218   in the same period last year primarily as a result of higher interest rates and a higher average debt. The weighted-average outstanding debt and weighted-average interest rate was   $156,186   and   5.7%  , respectively, compared to   $140,455   and   2.8%   in the same period last year. 
+  Benefit from   income taxes was   $150  , compared to   $4,498   in the same period last year. This decrease was primarily due to valuation allowances booked against U.S. deferred tax assets in 2019. 
+   
+  Liquidity and Capital Resources 
+  Overview 
+  A majority of our revenues are generated through individual sales of services and products. Approximately 20% of our revenues are generated from long-term support contracts. We depend on repeat client business, as well as our ability to develop new client business, to sustain and grow our revenues. Most significant orders are subject to a competitive bidding process and, generally, competition can be significant for such new orders. Our business model provides us with flexibility in terms of capital expenditures and other required operating expenses. 
+  We seek to allocate company resources in a manner that will enhance our operating results. Our discretionary investments include: investments in growth programs and infrastructure and repaying our debt. 
+  
+    29 
+
+     Table of Contents  
+
+Liquidity Position 
+  The following is a summary of our capitalization and liquidity position. 
+
+(1) The 4Q18 unused commitments relate to the Amended Credit Agreement. The Second Amendment established a new LIFO Facility in an amount not to exceed $10,000. See Note 6 of the Notes to Consolidated Financial Statements for additional information regarding our Second Amended Credit Agreement. 
+    
+  The Company's liquidity (cash and cash equivalents and unused credit commitments) was   $32,035   at the end of the   first   quarter of   Fiscal 2019  , compared to   $33,469   at the end of   Fiscal 2018  . This decrease in liquidity was driven by a decline in cash on hand partially offset by the increased availability provided by the new LIFO line of credit. The Company is emphasizing margin expansion, cost reductions and working capital initiatives in order to improve profitability and to bring working capital levels in line with revenues and activity levels. 
+    
+  On August 9, 2017, the Company and certain of the Banks entered into an Amendment and Joinder Agreement to amend and restate the Credit Agreement (as amended and restated, the  Amended Credit Agreement ) in order to avoid a default of its leverage covenant. Under the Amended Credit Agreement, the credit facility was reduced to   $170,000   and comprised of a $50,000 term loan and $120,000 line of credit. As of August 9, 2017, $50,000 was borrowed under the term loan and $52,528 remained outstanding under the line of credit. The amortization of the term loan was $1,250 per quarter for four (4) quarters beginning in the quarter ending December 31, 2017 and $2,500 per quarter beginning in the quarter ending December 31, 2018 through the end of the Amended Credit Agreement on May 9, 2021, the same expiration date of the Credit Agreement. Mandatory prepayments of the term loan were required with the net proceeds from certain asset sales, insurance recoveries and debt or equity issuances, as well as from 75% to 50%of any excess cash flow generated in Fiscal 2019 and Fiscal 2020. Interest on the term loan was, at the Company s option: (i) a Base Rate Option equal to the highest of (x) the federal funds open rate, plus fifty (50) basis points (0.5%), (y) the bank s prime rate, and (z) the daily LIBOR rate, plus 100 basis points (1.0%), in each case plus 2.5% or (ii) LIBOR plus 3.5%. Interest on outstanding indebtedness under the line of credit accrued, at the Company s option, at a rate based on either: (a) the Base Rate Option plus 0.25% to 2.00% (determined by a leverage ratio based on the Company s consolidated EBITDA) or (b) a rate per annum equal to the LIBOR rate plus 1.25% to 3.00% (determined by a leverage ratio based on the Company s consolidated EBITDA). 
+    
+  Under the Amended Credit Agreement, the leverage ratio covenant was suspended until the second quarter of Fiscal 2019. The Amended Credit Agreement contained a minimum Adjusted EBITDA covenant and a provision requiring the Company to repay revolving credit loans with any excess cash. During that same period, a covenant was established to limit capital expenditures to an agreed upon amount. The ability of the Company to make dividends or other distributions (including stock repurchases other than up to a limited dollar amount for tax payments from vested equity awards) was eliminated. 
+                      
+  The leverage ratio covenant that was to commence in the second quarter of Fiscal 2019 was to be 4.00 to 1.00 and was to reduce to 3.00 to 1.00 over the remaining life of the credit facility. A fixed charge coverage ratio of 1.00 to 1.00 was to begin in the second quarter of Fiscal 2019 and increase to 1.10 to 1.00 in the fourth quarter of Fiscal 2019 and thereafter. 
+    
+  The Company s obligations under the Amended Credit Agreement were secured by substantially all of the assets of the Company and the Company s direct and indirect subsidiaries that are incorporated (or organized) under the laws of the District of Columbia or under the laws of any state or commonwealth of the United States (a  U.S. Entity ) and are guaranteed by such domestic subsidiaries. Under the Amended Credit Agreement, the Company and each U.S. Entity pledged 65% of the voting ownership interests and 100% of the non-voting ownership interests of its foreign subsidiaries. 
+    
+  On June 29, 2018, the Company and the Loan Parties entered into a Second Amendment with the Lenders to amend the Credit Agreement entered into on May 9, 2016 (as amended by Amended Credit Agreement and as further amended by the Second Amended Credit Agreement). 
+  
+    30 
+
+     Table of Contents  
+
+The Second Amended Credit Agreement established a new LIFO Facility in an amount not to exceed $10,000. The borrowings under the LIFO Facility will be used to finance the Company s cash flow needs, subject to an approved budget and certain variance restrictions, including payments to vendors to allow the Company to operate in the ordinary course of its business. Interest on the LIFO Facility is LIBOR plus 10.0%. The Company entered into the Second Amendment to waive and modify certain covenants and other provisions contained in the Amended Credit Agreement and to fund its ongoing operations with the LIFO Facility. 
+    
+  The Company continues to engage Raymond James as its financial advisor to assist the Company in exploring strategic alternatives. As part of the Company s review of its alternatives, the Company has agreed under the Second Amended Credit Agreement to pursue the sale of its Federal Business. The Federal Business is part of the Services business segment. Under the Second Amendment, the Company must meet certain milestone dates leading to the consummation of the Sale Transaction, including the delivery of an executed purchase agreement in respect of the Sale Transaction on or before July 31, 2018, and the consummation of the Sale Transaction on or before August 31, 2018. The Agent, in its sole discretion, may extend the Sale Milestone dates and the Agent did extend the date by which the Company must execute the sales agreement to August 17, 2018. The Company entered into an executed purchase agreement with respect to the sale of the Federal Business on August 17, 2018 which is expected to close on or before August 31, 2018. All net cash proceeds of the Sale Transaction will first be used to pay down loans outstanding under the LIFO Facility, and after, repayment of such loans, the Company s other indebtedness under the Second Amended Credit Agreement. 
+    
+  The Second Amended Credit Agreement, among other things, (i) waived certain potential defaults and events of default under the Amended Credit Agreement; (ii) deferred principal and interest payments on the Company s existing term loans and revolving loans, except the LIFO Facility, until December 15, 2018; provided that the aggregate amount of deferred principal and interest payments through the closing of the Sale Transaction will be due upon such closing; and (iii) modified the interest rates applicable to such outstanding loans so that interest accrues at a rate equal to: (a) for the term loan, the highest of (1) the federal funds open rate plus 0.5%, (2) the Agent s prime rate or (3) LIBOR plus 1.0% (the  Base Rate ), in each case plus 2.5%, and (b) for the revolving loans, the Base Rate plus an amount between 0.25% and 2.0% (as determined by a leverage ratio based on the Company s consolidated EBITDA). 
+    
+  The Second Amended Credit Agreement also revised the Company s covenants under the Amended Credit Agreement to, among other things, (i) suspend the leverage ratio and fixed charge coverage ratio covenants until December 15, 2018; (ii) modify the minimum consolidated EBITDA covenant to require that the Company s minimum consolidated EBITDA for the three fiscal month period ending on the close of each fiscal month equal or exceed (i) negative $3,000 for the fiscal months ending June 30, 2018, July 31, 2018 and August 31, 2018, and (ii) negative $3,500 for the fiscal months ending September 30, 2018 and thereafter; (iii) reduce the sub-limit for the issuance of letters of credit to $10,000; (iv) require periodic delivery of updated budgets and budget variance reports to the Agent and compliance with certain disbursement and net cash flow variance thresholds; (v) restrict the incurrence of expenses related to implementation of the ERP system; (vii) require that the net cash proceeds from certain asset sales and certain excess cash be used to prepay the Company s obligations under the Amended Credit Agreement; and (viii) require the repatriation to the Loan Parties of cash on hand above a certain amount maintained by certain excluded foreign subsidiaries of the Loan Parties and restrict the transfer of assets by the Loan Parties (other than inventory in the course of ordinary business) to such excluded foreign subsidiaries unless accounted for in the budget. 
+    
+  The Company s obligations under the Second Amended Credit Agreement continue to be secured by substantially all of the personal property assets of the Company and all of the Company s direct and indirect owned subsidiaries that are incorporated (or organized) under the laws of the District of Columbia or under the laws of any state or commonwealth of the United States (other than BBOX Holdings Mexico LLC). In addition, under the Second Amendment, the Company s obligations are required to be secured by additional collateral, including (i) a first-priority pledge of all of the capital stock of each existing and subsequently acquired or organized subsidiary of the Loan Parties not pledged under the Credit Agreement, with certain exceptions; and (ii) mortgages over certain material real property of the Loan Parties located in the U.S. The Company is also required to cause the execution of deposit account control agreements with respect to certain U.S. bank accounts of the Loan Parties and to deliver to the Agent executed assignment agreements and forms of notice of assignment with respect to certain federal government contracts. Such notices may be sent upon an event of default or potential default.  
+    
+  Effectiveness of the Second Amendment was subject to certain conditions precedent, each of which were satisfied on June 29, 2018. The outstanding balance of the LIFO Facility and all accrued and unpaid interest, fees and expenses are due and payable on December 15, 2018 or the earlier proper termination of the LIFO Facility by the Agent following an event of default. 
+    
+  Sources and Uses of Cash 
+  The following is a summary of our sources and uses of cash. 
+  
+    31 
+
+     Table of Contents  
+
+Net cash provided by (used for) operating activities 
+  Net cash used for operating activities was   $2,320  , due primarily to Net loss of   $7,322  , inclusive of non-cash charges, and cash outflows of   $11,425   for Accounts receivable, partially offset by cash inflows of   $7,791   for Accounts payable, compared to net cash used for operating activities of   $16,267   in the same period last year, due primarily to Net loss of   $9,747  , inclusive of non-cash charges, and cash outflows of   $11,228   and   $7,204   for All other liabilities and Accounts payable, respectively, partially offset by cash inflows of   $15,238   for Accounts receivable. Changes in the above accounts are based on average   Fiscal 2019   and   Fiscal 2018   exchange rates, as applicable. 
+  Changes in working capital, and particularly changes in Accounts receivable, Costs in excess of billings and Billings in excess of cost, can have a significant impact on net cash provided by operating activities, largely due to the timing of payments and receipts.  
+  Net cash provided by (used for) investing activities 
+  Capital expenditures 
+  The Company made investments of   $528   compared to   $1,097   in the same period last year which primarily related to information technology infrastructure, computer hardware and service vehicles. 
+  Net cash provided by (used for) financing activities 
+  Debt 
+  Repayments of short-term debt were   $1,031   compared to proceeds from short-term debt of   $4,944   and long-term debt of   $10,172   in the same period last year. 
+  Common stock repurchases 
+  The Company did not make any discretionary investments in the form of common stock repurchases in the current period nor in the same period last year. The Company withheld shares in the amount of   $112  , compared to   $393   in the prior year, to satisfy employee income taxes due as a result of the vesting of certain restricted stock units.  
+  Since the inception of the repurchase program beginning in April 1999 through   June 30, 2018  , the Company has repurchased   11,392,851   shares of common stock for an aggregate purchase price of   $408,621  , or an average purchase price per share of   $35.87  . These shares do not include the treasury shares withheld for tax payments due upon the vesting of certain restricted stock units and performance shares. Under the Second Amended Credit Agreement, the Company is no longer permitted to repurchase common stock through its repurchase program but is allowed to repurchase a limited amount of shares for tax payments related to the vesting certain restricted stock units and performance shares, as applicable. This restriction is in effect until May 9, 2021. See Note 6 of the Notes to the Consolidated Financial Statements contained in Part I of this Quarterly Report for additional information. 
+  Dividends 
+  The Company is no longer permitted to pay dividends under the Second Amended Credit Agreement. This restriction is in effect until May 9, 2021, the termination date of the Second Amended Credit Agreement. 
+    
+  Credit Agreement 
+    
+  On June 29, 2018, the Company and certain Banks entered into a Second Amended Credit Agreement. See Note 6 of the Notes to the Consolidated Financial Statements contained in Part I of this Quarterly Report for additional information. 
+    
+  Legal Proceedings 
+    
+  See Note 14 of the Notes to the Consolidated Financial Statements of this Form 10-Q, which information is incorporated herein by reference. 
+
+32 
+
+     Table of Contents  
+
+Inflation 
+    
+  The overall effects of inflation on the Company have been nominal. Although long-term inflation rates are difficult to predict, the Company continues to strive to minimize the effect of inflation through improved productivity and cost reduction programs as well as price adjustments within the constraints of market competition. 
+
+Critical Accounting Policies/Impact of Recently Issued Accounting Pronouncements 
+  Critical Accounting Policies 
+  The Company s critical accounting policies require the most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain and are the most important to the portrayal of the Company s consolidated financial statements. The Company s critical accounting policies are disclosed in Part II, Item 7, "Management s Discussion and Analysis of Financial Condition and Results of Operations" of the Form 10-K. The significant accounting policies used in the preparation of the Company s consolidated financial statements are disclosed in Note 2 of the Notes to the Consolidated Financial Statements within the Form 10-K as well as in Note 2 of the Notes to the Consolidated Financial Statements contained in Part I of this Quarterly Report for significant accounting policies adopted during Fiscal   2019  . 
+  
+    33 
+
+     Table of Contents  
+
+Impact of Recently Issued Accounting Pronouncements 
+  As of April 1, 2018, the Company adopted ASC 606 using the modified retrospective method for all contracts not completed as of the date of adoption.  Refer to Note 3 for additional information. There have been no other accounting pronouncements adopted during Fiscal   2019   that have had a material impact on the Company's consolidated financial statements.  
+  Cautionary Forward Looking Statements 
+  Any forward-looking statements contained in this Quarterly Report on Form 10-Q or in documents incorporated herein by reference are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and speak only as of the date of this Form 10-Q. You can identify these forward-looking statements by the fact that they use words such as "should," "anticipate," "estimate," "approximate," "expect," "target," "may," "will," "project," "intend," "plan," "believe" and other words of similar meaning and expression in connection with any discussion of future operating or financial performance. One can also identify forward-looking statements by the fact that they do not relate strictly to historical or current facts. Forward-looking statements are inherently subject to a variety of risks and uncertainties that could cause actual results to differ materially from those projected. Although it is not possible to predict or identify all risk factors, such risks and uncertainties may include, among others, liquidity, compliance with bank covenants, our going concern qualification, the Company's arrangements with its vendors and subcontractors, levels of business activity and operating expenses, expenses relating to compliance requirements, cash flows, global economic and business conditions, the timing and costs of restructuring programs and other initiatives, such as our enterprise resource planning system initiatives, successful marketing of the Company's product and services offerings, successful implementation of the Company's integration initiatives and successful implementation of the Company's government contracting programs, as well as competition, changes in foreign, political and economic conditions, fluctuating foreign currencies compared to the U.S. dollar, rapid changes in technologies, client preferences, government budgetary constraints and various other matters, many of which are beyond the Company's control. Additional risk factors are included in the Company's Annual Report on Form 10-K for the fiscal year ended March 31, 2018. We can give no assurance that any goal, plan or target set forth in forward-looking statements will be achieved and readers are cautioned not to place undue reliance on such statements, which speak only as of the date made. We undertake no obligation to release publicly any revisions to forward-looking statements as a result of future events or developments and caution you not to unduly rely on any such forward-looking statements. 
+   
+  Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+  The Company is exposed to market risks in the ordinary course of business that include interest-rate volatility and foreign currency exchange rates volatility. Market risk is measured as the potential negative impact on earnings, cash flows or fair values resulting from a hypothetical change in interest rates or foreign currency exchange rates over the next year. The Company does not hold or issue any other financial derivative instruments (other than those specifically noted below) nor does it engage in speculative trading of financial derivatives. 
+  Interest-rate Risk 
+  The Company s primary interest-rate risk relates to its long-term debt obligations under the Amended Credit Agreement which was   $155,722   as of   June 30, 2018  . As of   June 30, 2018  , an instantaneous 100 basis point increase in the interest rate of the variable rate debt would reduce the Company s earnings in the subsequent fiscal quarter by   $395   (  $296   net of tax) assuming the Company employed no intervention strategies. The Company expects that its interest rates under the Amended Credit Agreement will be higher than the interest rates under the Credit Agreement thus increasing its exposure to interest on variable rate debt. 
+  Foreign Exchange Rate Risk 
+  The Company has operations, clients and suppliers worldwide, thereby exposing the Company s financial results to foreign currency fluctuations. In an effort to reduce this risk of foreign currency fluctuations, the Company generally sells and purchases inventory based on prices denominated in U.S. dollars. Intercompany sales to subsidiaries are generally denominated in the subsidiaries  local currency. The Company has entered and will continue in the future, on a selective basis, to enter into foreign currency contracts to reduce the foreign currency exposure related to certain intercompany transactions, primarily trade receivables and loans. All of the foreign currency contracts have been designated and qualify as cash flow hedges. The effective portion of any changes in the fair value of the derivative instruments is recorded in Accumulated Other Comprehensive Income ("AOCI") until the hedged forecasted transaction occurs or the recognized currency transaction affects earnings. Once the forecasted transaction occurs or the recognized currency transaction affects earnings, the effective portion of any related gains or losses on the cash flow hedge is reclassified from AOCI to the Company s Consolidated Statements of Operations. In the event it becomes probable that the hedged forecasted transaction will not occur, the ineffective portion of any gain or loss on the related cash flow hedge would be reclassified from AOCI to the Company s Consolidated Statements of Operations. 
+  As of   June 30, 2018  , the Company had open foreign currency contracts in Australian and Canadian dollars, Danish krone, Euros, Mexican pesos, Norwegian kroner, British pounds sterling, Swedish krona, Swiss francs and Japanese yen. The open contracts have contract rates ranging from   1.27   to   1.38   Australian dollar,   1.29   to   1.34   Canadian dollar,   5.96   to   5.96   Danish krone,   0.80   to   0.86   Euro,   19.26   to   19.26   Mexican peso,   7.70   to   8.28   Norwegian kroner,   0.71   to   0.72   British pound sterling,   8.05   to   9.10   Swedish krona,   0.92   to   1.01   Swiss franc and   105.34   to   112.90   Japanese yen, all per U.S. dollar. The total open contracts had a notional amount of   $47,885   and will expire within   two   months. 
+   
+  Item 4. Controls and Procedures. 
+  Conclusions Regarding the Effectiveness of Disclosure Controls and Procedures 
+  Management, including the Company s Chief Executive Officer and Chief Financial Officer, is responsible for establishing and maintaining adequate disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the "Exchange Act")), for the Company. Management assessed the effectiveness of the Company s disclosure controls and procedures as of   June 30, 2018  . Based upon this assessment, Management has concluded that the Company s disclosure controls and procedures were effective as of   June 30, 2018   to provide reasonable assurance that information required to be disclosed by the Company in the reports filed or submitted by it under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms, and to provide reasonable assurance that information required to be disclosed by the Company in such reports is accumulated and communicated to Management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. 
+  Changes in Internal Control Over Financial Reporting 
+  There have not been any changes in the Company s internal control over financial reporting (as such term is defined in Rules  13a-15(f) and 15d-15(f) of the Exchange Act) during the most recent fiscal quarter that have materially affected or are reasonably likely to materially affect the Company s internal control over financial reporting. 
+  Limitations on the Effectiveness of Controls 
+  All internal control systems, no matter how well designed, have inherent limitations. Therefore, even those systems determined to be effective can provide only reasonable assurance with respect to financial statement preparation and presentation. Because of its inherent limitations, the Company s internal control over financial reporting may not prevent or detect misstatements. In addition, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies and procedures may deteriorate. 
+  
+    34 
+
+Table of Contents  
+
+PART II. OTHER INFORMATION 
+
+Item 6. Exhibits. 
+
+35 
+
+Table of Contents  
+
+SIGNATURE 
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+  BLACK BOX CORPORATION 
+  Date:    August 20, 2018                    
+  /s/ DAVID J. RUSSO                                 
+  David J. Russo 
+  Executive Vice President, Chief Financial Officer,  
+  Treasurer and Principal Accounting Officer 
+  
+    36 
+
+<EX-31.1>
+ 2
+ exhibit311_masterx1q19.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+
+CERTIFICATION    
+  I, Joel T. Trammell, certify that:  
+    
+           1. 
+    I have reviewed this   Quarterly   Report on Form   10-Q   of Black Box Corporation; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c. 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d. 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date:    August 20, 2018    
+    
+  /s/ Joel T. Trammell                                 
+    
+  Joel T. Trammell 
+  President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit312_masterx1q19.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+
+CERTIFICATION    
+  I, David J. Russo, certify that:  
+    
+           1. 
+    I have reviewed this   Quarterly   Report on Form   10-Q   of Black Box Corporation; 
+       
+           2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+       
+           3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+       
+           4. 
+    The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+       
+           a. 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+       
+           b. 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+       
+           c. 
+    Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+       
+           d. 
+    Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and 
+       
+           5. 
+    The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions): 
+       
+           a. 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information; and 
+       
+           b. 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+
+Date:    August 20, 2018    
+    
+  /s/ David J. Russo                                     
+    
+  David J. Russo 
+  Executive Vice President, Chief Financial Officer and  
+  Treasurer (Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit321_masterx1q19.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+  18 U.S.C. SECTION 1350, 
+  AS ADOPTED PURSUANT TO 
+  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002    
+    
+  In connection with the Annual Report of Black Box Corporation (the "Company") on Form   10-Q   for the period ended   June 30, 2018   as filed with the Securities and Exchange Commission on the date hereof (the "Report"), each of the undersigned officers of the Company, pursuant to 18 U.S.C.  1350, as adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, certifies that to his knowledge: 
+    
+           (1) 
+    The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+       
+           (2) 
+    The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Joel T. Trammell                       
+    
+  Joel T. Trammell 
+  President and Chief Executive Officer 
+  August 20, 2018    
+
+/s/ David J. Russo                          
+    
+  David J. Russo 
+  Executive Vice President, Chief Financial Officer and  
+  Treasurer (Principal Accounting Officer) 
+  August 20, 2018    
+
+This certification is made solely for purposes of 18 U.S.C. Section 1350, subject to the knowledge standard contained therein, and not for any other purpose. 
+
+</EX-32.1>
+
+<EX-101.INS>
+ 5
+ bbox-20180630.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ bbox-20180630.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ bbox-20180630_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ bbox-20180630_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ bbox-20180630_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ bbox-20180630_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

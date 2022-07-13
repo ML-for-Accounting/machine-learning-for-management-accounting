@@ -1,0 +1,1234 @@
+
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE
+COMMISSION  
+
+  WASHINGTON, D.C. 20549  
+
+FORM 10-K/A   
+
+(Amendment No. 1)   
+
+(Mark One)  
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the fiscal year ended June 30, 2018  
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the transition period from ________
+to ________  
+
+Commission File Number 1-16027  
+
+LANTRONIX, INC.  
+
+  (Exact name of registrant as specified
+in its charter)  
+
+Delaware    
+        33-0362767     
+ 
+       (State or other jurisdiction of incorporation or organization)   
+       (I.R.S. Employer Identification No.)    
+
+7535 Irvine Center Drive, Suite 100,
+Irvine, California 92618  
+
+  (Address of principal executive offices)  
+
+(949) 453-3990  
+
+  (Registrant s telephone number,
+including area code)  
+
+Securities registered pursuant to Section
+12(b) of the Act:  
+
+Title of each class    
+        Name of each exchange on which registered     
+ 
+       Common Stock, $0.0001 par value   
+       The NASDAQ Stock Market LLC    
+
+Securities registered pursuant to Section
+12(g) of the Act: None.  
+
+Indicate by check mark if the registrant
+is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes       No       
+
+Indicate by check mark if the registrant
+is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes       No       
+
+Indicate by check mark whether the registrant:
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes       No       
+
+Indicate by check mark whether the registrant
+has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted
+and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter
+period that the registrant was required to submit and post such files). Yes       No       
+
+Indicate by check mark if disclosure of
+delinquent filers pursuant to Item 405 of Regulation S-K (  229.405 of this chapter) is not contained herein, and will
+not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference
+in Part III of this Form 10-K or any amendment to this Form 10-K.         
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.
+See the definitions of  large accelerated filer,   accelerated filer ,  smaller reporting company ,
+and  emerging growth company  in Rule 12b-2 of the Exchange Act. (Check one) 
+
+Large accelerated filer        
+      Accelerated filer        
+      Non-accelerated filer        
+      Smaller reporting company         
+
+Emerging growth company         
+
+If an emerging growth company, indicate by
+check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.       
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act). Yes       No       
+
+The aggregate market value of the registrant s
+common stock held by non-affiliates based upon the closing sales price of the common stock as reported by the NASDAQ Capital Market
+on December 29, 2017, the last trading day of the registrant s second fiscal quarter, was approximately $16,789,000. The
+determination of affiliate status for this purpose shall not be a conclusive determination for any other purpose. 
+
+As of September 4, 2018, there were 19,116,589
+shares of the registrant s common stock outstanding.  
+
+DOCUMENTS INCORPORATED BY REFERENCE  
+
+None.  
+
+LANTRONIX, INC.  
+
+   AMENDMENT NO. 1 TO ANNUAL REPORT
+ON FORM 10-K   
+
+For the Fiscal Year Ended June 30, 2018  
+
+TABLE OF CONTENTS  
+
+PART III     
+
+Item 10.  
+       Directors, Executive Officers and Corporate Governance   
+      1   
+
+Item 11.  
+       Executive Compensation   
+      8   
+
+Item 12.  
+       Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters   
+      16   
+
+Item 13.  
+       Certain Relationships and Related Transactions and Director Independence   
+     18  
+
+Item 14.  
+       Principal Accountant Fees and Services   
+      18   
+
+PART IV     
+
+Item 15.  
+       Consolidated Financial Statements and Exhibits   
+      20   
+
+i       
+
+EXPLANATORY NOTE    
+
+Lantronix, Inc. (the
+ Company,   we,   us  or  our ) is filing this Amendment No. 1 on Form
+10-K/A (this  Amendment ) to its Annual Report on Form 10-K for the fiscal year ended June 30, 2018 (the
+ Original Filing  or our  Form 10-K ), which was originally filed with the Securities and Exchange
+Commission (the  SEC ) on August 23, 2018 solely to include the information required in Part III (Items 10
+through 14) of Form 10-K. In addition, we are amending Item 15 of Part IV, solely to include new certifications by our Chief
+Executive Officer and Chief Financial Officer as Exhibits 31.3 and 31.4 hereto, as required by Section 302 of the
+Sarbanes-Oxley Act of 2002, as amended, in accordance with Rule 13a-14(a) under the Securities Exchange Act of 1934, as
+amended (the  Exchange Act ). However, because no financial statements are contained within this Amendment, we
+are not including certifications pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, as amended.  
+
+Except as specifically described above,
+no other changes have been made to the Original Filing. In order to preserve the nature and character of the disclosures in the
+Original Filing, except as specifically discussed in this Amendment No. 1, no attempt has been made to modify or update such
+disclosures for events which occurred subsequent to the Original Filing. Accordingly, this Amendment No. 1 should be read
+in conjunction with the Company s subsequent filings with the SEC. Among other things, forward-looking statements made in
+the Original Filing have not been revised to reflect events that occurred or facts that became known to us after the filing of
+the Original Filing, and such forward-looking statements should be read in their historical context.  
+
+PART III  
+
+ITEM 10.   
+         DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE    
+
+Board of Directors   
+
+The following table sets forth certain
+information, in each case as of September 4, 2018, concerning our directors:  
+
+The following is a description of the
+business experience, qualifications, skills and educational background of each of our directors, including each director s
+relevant business experience:  
+
+Jeffrey Benck   has served
+as our President and Chief Executive Officer, and as a member of our Board, since December 2015. Before joining the Company, Mr.
+Benck served as President and Chief Executive Officer, and as a director, of Emulex Corporation, a global supplier of advanced
+networking, monitoring and management solutions, from July 2013 to May 2015, when Emulex was acquired by Avago Technologies. Mr.
+Benck joined Emulex in May 2008 as Executive Vice President and Chief Operating Officer and was subsequently appointed to President
+and Chief Operating Officer in August 2010. Prior to joining Emulex, Mr. Benck was President and Chief Operating Officer of QLogic
+Corporation, a supplier of storage networking solutions. Prior to that, Mr. Benck worked for IBM Corporation, a global leader
+in information technology and services, for 18 years, including serving as Vice President of xSeries BladeCenter and Retail Store
+Solutions development.  
+
+As our Chief Executive Officer, Mr. Benck
+provides intimate knowledge of our operations that are a vital component of Board discussions. In addition, Mr. Benck s
+prior experience as a chief executive officer in the technology industry provides the Board with insight into important issues
+that we face.  
+
+Bernhard Bruscha   has served
+as Chairman of the Board of the Company from June 1989 to May 2002 and from May 2012 to the present. Mr. Bruscha is a serial entrepreneur
+who started his career in the 1970s, as one of three founding partners in a computer networking software company and for more
+than 20 years has successfully founded, grown and sold or merged several technology and other companies. From May 2002 to April
+2015, Mr. Bruscha served as chairman of the Supervisory Board of transtec AG, a computer systems manufacturer and direct computer
+reseller. Mr. Bruscha is also Managing Director of TL Investment GmbH and Managing Director of technovest alpha GmbH located in
+T bingen, Germany.  
+
+Mr. Bruscha s extensive business,
+managerial, executive and leadership experience in the technology industry, including as an active designer of software systems
+and a founder of several technology distribution and hardware companies, make him a valuable member of the Board.  
+
+Bruce C. Edwards   has served
+as a member of our Board since 2012. Mr. Edwards has served as a director of Semtech Corporation, a supplier of analog and mixed-signal
+semiconductor products since 2006, and serves as chairman of its compensation committee. He served as a director of Emulex Corporation,
+a global supplier of advanced storage networking infrastructure solutions from May 2000 to May 2015, when Emulex was acquired
+by Avago Technologies. Mr. Edwards was chairman of the board of Emulex from February 2014 to May 2015. From February 2005 to November
+2007, he served as the executive chairman of the board of directors of Powerwave Technologies, Inc., a leading designer, manufacturer
+and supplier of advance coverage and capacity solutions for the wireless communications industry. From February1996 until February
+2005, Mr. Edwards served as Chief Executive Officer and as a director of Powerwave. Mr. Edwards also served as President of Powerwave
+from February 1996 to May 2004. Before joining Powerwave, Mr. Edwards served eleven years at AST Research, Inc., a personal computer
+company, where his last positions were Executive Vice President, Chief Financial Officer and a director.  
+
+Mr. Edwards has leadership experience
+through his past experience as the chairman and chief executive officer of a publicly-traded global technology company. His management
+and operational expertise is accompanied by his experience relating to the design and manufacture of technology products, and
+skills relating to financial statements and accounting matters, making him a valuable member of the Board.  
+
+Paul F. Folino   has served
+as a member of our Board since 2012. Mr. Folino served in a number of board and executive positions at Emulex from 1993 to May
+2015 when Emulex was acquired by Avago Technologies, including as Emulex s executive chairman of the board of directors
+from September 2006 to November 2011; as Chief Executive Officer from May 1993 to September 2006; and as chairman of the board
+of directors from 2002 to 2006 and from November 2011 to July 2013. Prior to joining Emulex, Mr. Folino served as President and
+Chief Operating Officer of Thomas-Conrad Corporation, a manufacturer of local area networking products from 1991 to 1993. He also
+serves on the boards of directors of CoreLogic, Inc., a provider of consumer, financial and property information, analytics and
+services to business and government, where he serves as chairman of the board.  
+
+Mr. Folino s current experience
+as director of several public companies and his prior experience as an executive in the technology industry provide him with the
+skills and qualifications to serve on our Board.  
+
+Martin Hale, Jr.   has served
+as a member of our Board since June 2016. Mr. Hale has served as the founder and Chief Executive Officer of Hale Capital Partners,
+LP, a New York-based private growth equity fund, since 2007. Mr. Hale currently serves as a director of Falconstor Software, Inc.
+and Top Image Systems, Ltd. Mr. Hale has also served as a director of Adept Technology, Inc., Flarion Corporation, Celiant Corporation,
+Analex Corporation, Aurora Flight Sciences, Vallent Corporation, Paradigm Holdings, LocationLogic LLC, United Silver Corp., and
+Telanetix. Prior to Hale Capital Partners, Mr. Hale was a Managing Director and member of the founding team of Pequot Ventures,
+an associate at Geocapital Partners, and an analyst with Broadview International.  
+
+Mr. Hale s qualifications to serve
+on the Board include his 19 years of experience in venture capital and private equity as an investor and a board member of technology
+companies.  
+
+Hoshi Printer   has served
+as a member of our Board since 2010. Mr. Printer s background includes four decades of relevant general and financial management
+experience, including serving as chief financial officer for several technology companies, including the following: Autobytel,
+an online automotive marketplace; Peerless Systems Corporation, an embedded imaging systems company; Neuron Data, a developer
+of high-end, client-server, object- and web-oriented tools; Soane Technologies, an ophthalmic and bioscience business; and Catalytica,
+a developer of environmental technology. From 2005 to 2010, Mr. Printer was a chief financial officer consultant. His clients
+included Private Access, Inc., a technology company, Avamar Technologies, Inc., a provider of enterprise data storage software,
+and Path 1 Network Technologies, a provider of television over IP technology to broadcasters. Mr. Printer also served as the divisional
+Vice President of Finance for Xerox Corporation.  
+
+Mr. Printer s financial expertise,
+exemplified by his background and experience in a number of companies as a senior financial officer, and his broad experience
+with technology companies make him a valuable asset to the Board and qualify him to serve as an audit committee financial expert
+and Chairman of the Audit Committee.  
+
+Corporate Governance Guidelines   
+
+The Board has established Corporate
+Governance Guidelines that it follows in matters of corporate governance, which are posted under the  About Us   Investor
+Relations  section of our website at  www.lantronix.com . The information included on or accessed through our website
+shall not be incorporated into or otherwise be made a part of this Amendment. References to our website address in this Amendment
+are inactive textual references only.  
+
+The following includes a summary of
+our Corporate Governance Guidelines and additional information regarding our Board.  
+
+Director Independence   
+
+Our Corporate Governance Guidelines
+require that a majority of our directors meet the criteria for independence set forth under applicable securities laws, including
+applicable rules and regulations of the SEC and applicable listing standards of the Nasdaq Stock Market ( Nasdaq ).
+The Nasdaq listing standards provide that an independent director is one who the Board affirmatively determines is free of any
+relationship that would interfere with that individual s exercise of independent judgment. Our Board has reviewed the relationships
+between the Company, including our subsidiaries and affiliates, and each Board member. Based on its review, the Board has affirmatively
+determined that Bernhard Bruscha, Bruce C. Edwards, Paul F. Folino, Martin Hale, Jr. and Hoshi Printer currently have no relationships
+that would interfere with their exercise of independent judgment and that each of them is  independent  in accordance
+with the foregoing independence standards. Jeffrey Benck was determined not to be independent based on his service as our President
+and Chief Executive Officer.  
+
+Board Leadership Structure    
+
+Our Corporate Governance Guidelines
+provide that the Board will appoint a Chairman of the Board with the approval of a majority of the directors then in office or
+as otherwise provided in our Bylaws. While any director (including the Chief Executive Officer or other management director) is
+eligible for appointment as the Chairman of the Board, the Board s current preferred governance structure is to have an
+independent director serve as Chairman of the Board. Accordingly, the Board is currently led by Bernhard Bruscha, our Chairman
+of the Board, a position separate from our Chief Executive Officer and President. Separating the positions of Chief
+Executive Officer and Chairman of the Board allows our Chief Executive Officer to focus on our day-to-day business, while allowing
+the Chairman of the Board to lead the Board in its fundamental role of providing advice to and independent oversight of management.  
+
+Risk Oversight   
+
+While our management has primary responsibility
+for identifying and mitigating risks, the Board has overall responsibility for oversight of such risks, with a focus on the most
+significant risks facing the Company. At least annually, management and the Board jointly review our strategic goals and associated
+risks. Throughout the year, the Board and the committees to which the Board has delegated responsibility dedicate a portion of
+their meetings to review and discuss specific risk topics in greater detail.  
+
+The Board has delegated responsibility
+for the oversight of specific risks to Board committees as follows:  
+
+The
+                                         Audit Committee oversees our risk policies and processes relating to financial statements
+                                         and financial reporting, as well as investment, capital structure and compliance risks,
+                                         and the guidelines, policies and processes for monitoring and mitigating those risks.     
+
+The
+                                         Compensation Committee oversees risks associated with our incentive plans, the compensation
+                                         of executive management, and the effect the compensation structure may have on business
+                                         decisions.     
+
+The
+                                         Corporate Governance and Nominating Committee oversees risks related to our governance
+                                         structure and the evaluation of individual Board members and committees.      
+
+The Board s risk oversight process
+builds upon management s enterprise-wide risk assessment and mitigation processes, which include ongoing monitoring of various
+risks including those associated with long-term strategy and business operations, regulatory and legal compliance and financial
+reporting.  
+
+Meetings of the Board   
+
+During fiscal 2018, the Board held eleven
+meetings. Each director attended at least 75% of the meetings of the Board held during the period of his tenure in fiscal 2018.  
+
+Executive Sessions   
+
+Although the Chief Executive Officer
+and other members of senior management are invited to attend meetings of the Board, the members of the Board meet in executive
+session, without executive management present, in conjunction with each of the regularly scheduled meetings of the Board. Each
+committee of the Board also meets regularly in executive session without executive management present. In addition, the Audit
+Committee meets quarterly in separate executive sessions with our independent registered public accounting firm and with our Chief
+Financial Officer.  
+
+Director Attendance at Annual Stockholder Meetings   
+
+Under our Corporate Governance Guidelines,
+our directors are expected to attend our annual meetings of stockholders. All of our directors attended the 2017 annual meeting
+of stockholders.  
+
+Committees of the Board   
+
+To facilitate independent director review,
+and to make the most effective use of our directors  time and capabilities, the Board has established the following standing
+committees: the Audit Committee, the Compensation Committee and the Corporate Governance and Nominating Committee. The responsibilities
+of each committee are set forth in a written charter, each of which has been approved by the Board. Each standing committee reviews
+and assesses the adequacy of its charter on an annual basis. Each such charter is available under the  About Us  
+Investor Relations  section of our website at  www.lantronix.com . The Board is permitted to establish other committees
+from time to time as it deems appropriate. Current committee membership and the number of meetings of each committee in fiscal
+2018 are shown in the table below.  
+
+Audit
+    Committee    
+         
+        Compensation
+    Committee    
+           
+        Corporate   
+           Governance   Nominating
+        Committee     
+ 
+       Bruce
+    C. Edwards   
+       Member   
+           
+       Chair   
+           
+       Member    
+ 
+       Paul
+    F. Folino   
+       Member   
+           
+       Member   
+           
+       Chair    
+ 
+       Martin
+    Hale, Jr.   
+
+Member   
+
+Hoshi
+    Printer   
+       Chair   
+           
+       Member   
+           
+       Member    
+ 
+       Number
+    of Fiscal 2018 Meetings   
+       4   
+           
+       5   
+           
+       4    
+
+Jeffrey Benck and Bernhard Bruscha are
+not currently members of any committee. Each of the directors who were members of a committee attended 100% of all meetings
+held by each committee of the Board on which he served during the period of his tenure in fiscal 2018.  
+
+Audit Committee   
+
+The Audit Committee is composed of three
+directors, each of whom is independent and meets the Nasdaq financial literacy requirements for audit committee service. The Board
+has determined that each of the members of the Audit Committee meets the enhanced independence requirements of the SEC and that
+Mr. Printer is an  audit committee financial expert  under the rules of the SEC.  
+
+The Audit Committee assists the Board
+in fulfilling its responsibilities for general oversight of the integrity of our financial statements, compliance with legal and
+regulatory requirements, the qualifications and independence of our independent registered public accounting firm, the performance
+of our independent registered public accounting firm, risk assessment and risk management, and finance and accounting functions.
+The Audit Committee also appoints, retains, terminates, determines compensation for, and oversees our independent registered public
+accounting firm, reviews the scope of the audit by our independent registered public accounting firm, and reviews the effectiveness
+of our accounting and internal control functions. The Audit Committee has the authority to obtain advice and assistance from,
+and receive appropriate funding for, internal or external legal, accounting or other advisers as the Audit Committee deems necessary
+to carry out its duties.  
+
+In addition, the Audit Committee assists
+the Board in overseeing the implementation and monitoring of the effectiveness of our Code of Business Conduct and Ethics Policy
+( Code of Conduct ). The Audit Committee also reviews, with our management and our independent registered public accounting
+firm, our policies and procedures with respect to risk assessment and risk management relating to financial statements and financial
+reporting, as well as investment, capital structure and compliance risk, and the guidelines, policies and processes for monitoring
+and mitigating those risks. The Audit Committee is also responsible for the review and approval of related party transactions.  
+
+Compensation Committee   
+
+The Compensation Committee is composed
+of four directors, each of whom is independent as the term is defined within the Nasdaq listing standards for compensation committee
+service. The Board has determined that each of the members of the Compensation Committee meets the enhanced independence requirements
+of the SEC. Each of the members of the committee is also a  nonemployee director  as that term is defined under Rule
+16b-3 of the Exchange Act and an  outside director  as that term is defined in Treasury Regulation Section 1.162-27(e)(3).  
+
+The Compensation Committee determines
+our overall policies on compensation, and determines the compensation of our Chief Executive Officer and other executive officers.
+In addition, the Compensation Committee administers our equity incentive plans and reviews the philosophy and policies behind,
+and any material risks created by, the salary, bonus and equity compensation arrangements for all employees. The Compensation
+Committee also makes recommendations to the Board with respect to amendments to our equity incentive plans. The Compensation Committee
+also reviews and recommends to the Board the compensation of directors. The Compensation Committee has the authority to obtain
+advice and assistance from, and receive appropriate funding for, internal or external legal, compensation, accounting or other
+advisers as the Compensation Committee deems necessary to carry out its duties.  
+
+Corporate Governance and Nominating Committee   
+
+The Corporate Governance and Nominating
+Committee is composed of three directors, each of whom is independent as the term is defined within the Nasdaq listing standards.  
+
+The Corporate Governance and Nominating
+Committee makes recommendations to the Board regarding candidates for election as directors and is otherwise responsible for matters
+relating to the nomination of directors, including evaluating the  independence  of directors and director nominees
+against the independence requirements of the Nasdaq listing standards, SEC rules and other applicable laws. The Corporate Governance
+and Nominating Committee assists with the structure and membership of Board committees.  
+
+The Corporate Governance and Nominating
+Committee reviews our corporate governance policies and procedures and recommends changes it deems appropriate. The Corporate
+Governance and Nominating Committee also oversees the Board and committee self-assessment and director performance evaluation
+process.  
+
+Code of Conduct and Complaint Procedures   
+
+We have adopted a Code of Conduct that
+applies to all of our directors, officers and employees. The Code of Conduct operates as a tool to help our directors, officers
+and employees understand and adhere to the high ethical standards we expect. The Code of Conduct is posted under the  About
+Us   Investor Relations  section of our website at  www.lantronix.com .  
+
+Concerns relating to accounting, internal
+controls or auditing matters should be brought to the attention of a member of our senior management or the Audit Committee, as
+appropriate, and will be handled in accordance with procedures established by the Audit Committee with respect to such matters.  
+
+Section 16(a) Beneficial Ownership Reporting Compliance   
+
+Section 16(a) of the Exchange Act requires
+our directors, executive officers and persons who own more than 10% of our outstanding shares of common stock to file with the
+SEC initial reports of ownership and reports of changes in ownership of our common stock. Such persons are required by SEC regulations
+to furnish us with copies of all ownership forms they file pursuant to Section 16(a).  
+
+Based solely on a review of the reports
+that were filed and upon written representations from our directors, executive officers and stockholders that such reports accurately
+reflect all reportable transactions and holdings, we believe that all forms required to be filed pursuant to Section 16(a) during
+fiscal 2018 were filed on a timely basis.  
+
+Arrangements with Directors or Executive
+Officers    
+
+No arrangement
+or understanding exists between any of our directors or executive officers and any other person, pursuant to which any of them
+were selected as our director or executive officer.  
+
+Family Relationships    
+
+There are no family
+relationships among any of our directors or executive officers.  
+
+No Legal Proceedings    
+
+There are no legal
+proceedings related to any of our directors or executive officers which must be disclosed pursuant to applicable SEC regulations.  
+
+Executive Officers   
+
+Executive officers serve at the discretion
+of our board of directors. The following table presents the names, ages, and positions held by our executive officers:  
+
+Name    
+         
+        Age    
+         
+        Position     
+ 
+       Jeffrey W. Benck   
+         
+       53   
+         
+       President and Chief Executive Officer    
+ 
+       Jeremy R. Whitaker   
+         
+       47   
+         
+       Chief Financial Officer    
+ 
+       Fathi Hakam   
+         
+       50   
+         
+       Vice President of Engineering     
+ 
+       Kevin M. Yoder   
+         
+       54   
+         
+       Vice President of Worldwide Sales    
+
+For information concerning   Jeffrey
+W. Benck  , please see the section entitled  Board of Directors  above.  
+
+Jeremy R. Whitaker   has
+served as our Chief Financial Officer since September 2011. Mr. Whitaker returned to Lantronix after serving as vice president,
+corporate controller at Mindspeed from January 2011 to September 2011. Mr. Whitaker previously served as our Vice President of
+Finance and Accounting from September 2010 to January 2011, where he was responsible for managing all worldwide finance and accounting
+functions. Mr. Whitaker also served as our Senior Director of Finance and Accounting from February 2006 to September 2010 and
+our Director of Finance and Accounting from August 2005 to February 2006. Prior to August 2005, Mr. Whitaker held vice president
+and director level finance and accounting positions with two publicly-traded companies and worked in the assurance practice at
+Ernst   Young LLP for six years. Mr. Whitaker holds a Bachelor of Arts degree in business administration with a concentration
+in accounting from the California State University at Fullerton and a Master of Science degree in accountancy from the University
+of Notre Dame s Mendoza College of Business.  
+
+Fathi Hakam   has served
+as our Vice President of Engineering since August 2018. Prior to joining Lantronix, Mr. Hakam served as Interim Senior Vice President
+of International Operations for Viewstream, a provider of marketing agency services for technology companies, from September 2016
+to August 2018. Prior to joining Viewstream, Mr. Hakam was the Founder and Senior Vice President of Engineering and Product Management
+at SwitchRay Inc., a provider of communication service platform for global telecom carriers, from December 2012 to September 2016.
+Hakam has also held various senior management positions at other technology companies including Motorola, Kyocera Wireless, Networks
+in Motion and Lintelus. Mr. Hakam holds both a Bachelor of Science degree in aerospace engineering and a Master of Software Engineering
+degree from Embry-Riddle Aeronautical University.  
+
+Kevin M. Yoder   has served
+as our Vice President of Worldwide Sales since March 2016. Prior to joining Lantronix, Mr. Yoder served as vice president of sales
+for the Americas region at Avago Technologies (now Broadcom Limited), where he was responsible for driving more than $1.3 billion
+in annual revenues. Prior to joining Avago, Mr. Yoder was vice president of worldwide sales for XMOS, a start-up semiconductor
+company. Prior to that, he held sales leadership positions at Analog Devices, Texas Instruments, and CoWare. Mr. Yoder holds a
+Bachelor of Science degree in electrical engineering from Notre Dame University.  
+
+ITEM 11.    
+          EXECUTIVE COMPENSATION     
+
+For fiscal 2018, our named executive
+officers, which consist of our principal executive officer and our two other most highly compensated executive officers, were:
+Jeffrey Benck, our President and Chief Executive Officer; Jeremy R. Whitaker, our Chief Financial Officer; and Kevin Yoder, our
+Vice President of Worldwide Sales.  
+
+Summary Compensation Table   
+
+The following table sets forth, for
+the fiscal years indicated, the compensation paid to our named executive officers:  
+
+(1)   
+       The dollar value of stock
+    and option awards shown represents the grant date fair value determined in accordance with FASB ASC Topic 718. For a discussion
+    of the valuation assumptions used in the calculations, see Note 4 of Notes to Consolidated Financial Statements, included
+    in Part IV, Item 15 of our Form 10-K.    
+
+(2)   
+       On August
+    29, 2017, the named executive officers were granted the following stock options under the Lantronix, Inc. Amended and Restated
+    2010 Stock Incentive Plan (the  2010 Plan ) at an exercise price of $2.16 per share, which was equal to the closing
+    price of our common stock on the grant date: (1) Mr. Benck was granted an option to purchase 120,000 shares of our common
+    stock; (2) Mr. Whitaker was granted an option to purchase 50,000 shares of our common stock; and (3) Mr. Yoder was granted
+    an option to purchase 85,000 shares of our common stock. The options vest according to the following schedule: 25% of the
+    shares subject to the option vest on the first anniversary of the applicable grant date, with the remaining shares vesting
+    ratably each month thereafter for a period of 36 months, such that 100% of the shares subject to this option will be fully
+    vested as of the fourth anniversary of the grant date.    
+
+(3)   
+       The amounts shown represent cash bonus payments
+    earned for fiscal 2018 performance under our Bonus Program.    
+
+(4)   
+       The amounts shown represent cash bonus payments
+    earned for fiscal 2017 performance under our Bonus Program.    
+
+(5)   
+       Mr. Yoder was not a named executive officer
+    prior to fiscal 2018.    
+
+(6)   
+       The amount shown represents (1) $113,398
+    of cash bonus payments earned for fiscal 2018 performance under our Bonus Program, and (2) $72,394 of cash incentive payments
+    earned for fiscal 2018 performance under our Sales Compensation Program.    
+
+Outstanding Equity Awards at 2018 Fiscal Year End    
+
+The following table provides information
+concerning outstanding equity awards held by our named executive officers as of June 30, 2018.  
+
+(1)   
+       In
+    accordance with applicable SEC regulations, the market value of the shares has been determined based on the closing price
+    of our common stock on June 30, 2018, which was $2.84.    
+
+(2)   
+       The options
+    vest according to the following schedule: 25% of the shares subject to the option vest on the first anniversary of the applicable
+    grant date, with the remaining shares vesting ratably each month thereafter for a period of 36 months, such that 100% of the
+    shares subject to this option will be fully vested as of the fourth anniversary of the grant date.    
+
+(3)   
+       The remaining unvested restricted stock units ( RSUs ) vest quarterly at a rate of 37,500
+shares per quarter.    
+
+(4)   
+       The options
+    vest according to the following schedule: 25% of the shares subject to the option vest on September 1, 2018, with the remaining
+    options vesting monthly at a rate of 3,125 shares per month thereafter.     
+
+(5)   
+       The remaining
+    unvested options vest monthly at a rate of 3,125 shares per month.    
+
+(6)   
+       The remaining
+    unvested RSUs vest quarterly at a rate of 1,250 shares per quarter.    
+
+(7)   
+       The remaining
+    unvested options vest monthly at a rate of 1,042 shares per month.    
+
+(8)   
+       The remaining
+    unvested options vest monthly at a rate of 833 shares per month.    
+
+(9)   
+       The remaining
+    unvested options vest monthly at a rate of 4,167 shares per month.     
+
+Components of Executive Compensation   
+
+Our Compensation Committee utilizes
+three main components for executive officer compensation: base salary, a cash incentive program, and long-term equity-based awards.
+Our compensation program is designed to balance our need to provide our executive officers with incentives to achieve our short-
+and long-term performance goals with the need to pay competitive base salaries.  
+
+There is no pre-established policy
+for allocating between cash and non-cash or short-term and long-term compensation. In determining the allocation each year
+among base salary, annual cash incentive bonus, and long-term equity-based awards, the Compensation Committee considers the
+following factors: our short-term and long-term business objectives, competitive trends within our industry, and each named
+executive officer s current and prior compensation.  
+
+An important guiding principle for our
+executive compensation program is our belief that it benefits our stockholders for executive management s compensation to
+be tied to our short-term and long-term performance, so that a significant portion of each executive officer s compensation
+is tied to the achievement of our goals and objectives. As a result,  at risk  compensation makes up a significant
+portion of our executives  compensation.  
+
+Base Salaries   
+
+Base salary is the only element of annual
+cash compensation that is not  at risk.  Base salaries for our executive officers are set with regard to a number
+of factors, including the executive s title and responsibilities within the Company, the executive s performance in
+recent periods, the executive s potential for continued development within the organization, an assessment of peer group
+data, and internal parity with other executives. The base salary levels for each executive officer, and any increases or decreases
+to those levels, are reviewed and approved each year by the Compensation Committee.  
+
+The base salaries for the named executive
+officers are shown in the following table:  
+
+Equity Awards   
+
+We believe that providing a significant
+portion of our executive officers  total compensation opportunity in equity awards aligns the incentives of our executives
+with the interests of our stockholders and with our long-term success. By compensating our executives with our equity, executives
+receive a stake in our financial future and the gains realized in the long term depend on the executives  ability to drive
+our financial performance. Equity incentive awards are also a useful vehicle for attracting and retaining executive talent in
+a competitive market.  
+
+Our Compensation Committee administers
+the Amended and Restated 2010 Stock Incentive Plan and establishes the rules for all awards granted thereunder, including grant
+guidelines, vesting schedules, and other provisions. We have typically used two forms of equity for long-term equity incentive
+compensation for our executive officers: time-vesting stock options and time-vesting RSUs. The Compensation Committee continually
+evaluates its equity compensation program to determine whether to issue either RSUs, stock options, a combination thereof, or
+other types of equity awards.  
+
+Stock options are granted at fair market
+value with an exercise price equal to the closing price of our common stock on Nasdaq on the date of grant. Stock options generally
+have a seven-year contractual term. Options and RSUs granted to employees, including our named executive officers, typically vest
+over four years.  
+
+The Compensation Committee intends to
+continue to evaluate its equity compensation program and may in the future issue either restricted stock awards, stock options
+or a combination thereof as it deems appropriate.  
+
+Benefits   
+
+All of our executive officers are eligible
+to participate in our employee benefits program, which includes medical, dental and vision plans, our 2013 Employee Stock Purchase
+Plan, a 401(k) plan, tuition reimbursement, life insurance and short and long-term disability coverage. We also have a patent
+award program, under which employees can receive cash awards in connection with the filing and issuance of patents relating to
+employee inventions. Our employee benefits program is available to all of our employees. In designing our employee benefits program,
+we seek to provide an overall level of benefits that is competitive with that offered by similarly situated companies in the markets
+in which we operate based upon our general understanding of industry practice.  
+
+The Company makes matching contributions
+under the 401(k) plan to each plan participant, including our executive officers, in an amount equal to 25% of the first 6% of
+salary deferred by the participant.  
+
+Annual Cash Incentive Program   
+
+Our Compensation Committee believes
+that annual performance-based cash bonuses play an important role in providing incentives to our executive officers to achieve
+short-term performance goals. To that end, we have established an annual cash bonus program (the  Bonus Program )
+in order to align executives  goals with our financial, strategic and tactical objectives for the current year.  
+
+Selected employees, including all of
+our named executive officers, are eligible to participate in the Bonus Program. Each participant in the Bonus Program is assigned
+a target annual cash bonus, generally expressed as a percentage of the participant s base salary, the payment of which is
+conditioned on the achievement of certain performance goals and objectives as outlined in the Bonus Program. Bonuses paid under
+the Bonus Program, if any, are based upon achievement of performance goals for two independent semi-annual performance periods,
+corresponding with the first and second half of the fiscal year, respectively (each, a  Performance Period ).  
+
+The Compensation Committee generally
+sets the semi-annual corporate performance goals at levels the Compensation Committee believes are challenging, but reasonable,
+for management to achieve.  
+
+At the end of each Performance Period,
+the Compensation Committee determines the level of Company achievement with respect to the specified goals. The Compensation Committee
+retains discretion to make appropriate adjustments to the performance goals for the effects of events that were not anticipated
+in establishing the performance goals, to exclude one-time or non-recurring expenses in calculating achievement of performance
+goals, and to make other adjustments to the bonuses that otherwise would be payable based on actual performance. Final bonus levels
+are then based on those determinations.  
+
+Under the Bonus Program, the maximum
+aggregate amount of bonuses that all participants will be eligible to receive during a Performance Period (the  Bonus Pool )
+is limited to a percentage of our earnings before interest, taxes, depreciation, amortization, and share-based compensation excluding
+(1) the impact of non-recurring charges or gains, consistent with the approach used for reporting  Non-GAAP Net Income 
+in our quarterly earnings releases, and (2) the total amount of bonus payments earned under the Bonus Program for the Performance
+Period ( Adjusted EBITDAS ). If the Bonus Pool during a Performance Period is insufficient to fully fund the bonuses
+earned during the Performance Period, each participant s bonus is ratably reduced. Actual bonuses are generally paid to
+the executives in the quarter following the completion of a Performance Period.  
+
+For fiscal 2018, the Compensation Committee
+approved two performance measures for Messrs. Benck and Whitaker. These goals related to the Company achieving specified levels
+of revenue and Adjusted EBITDAS for the applicable Performance Periods. The goals were weighted 60% towards the revenue goal and
+40% towards the Adjusted EBITDAS goal.   
+
+The revenue and Adjusted EBITDAS goals
+apply to all other participants, including Mr. Yoder. The Compensation Committee believes revenue and Adjusted EBITDAS to be good
+indicators of our success, given the market in which we compete. In addition, they are measures that management can easily calculate
+and communicate to employees throughout the applicable Performance Period. In addition, bonus determinations for all participants
+other than Messrs. Benck and Whitaker took into account the Company s achievement of goals established by the Compensation
+Committee relating to certain corporate management by objectives goals ( MBOs ), and the individual participant s
+performance in relation to personal MBOs. For these other participants, these goals were weighted 40% towards revenue, 30% towards
+Adjusted EBITDAS and 30% towards corporate and personal MBOs.  
+
+Under the Bonus Program for fiscal 2018,
+payouts based upon revenue and Adjusted EBITDAS performance could range from zero to 200% of target depending on the level of
+our performance. For fiscal 2018, the Bonus Pool was funded by 50% of the Company s Adjusted EBITDAS during the applicable
+Performance Period. For fiscal 2018, bonus targets for all participants were weighted 50% towards the first half of the fiscal
+year and 50% towards the second half of the fiscal year.  
+
+The table below shows the target bonus,
+incentive mix, and maximum payout for each of the named executive officers under the Bonus Program for fiscal 2018:  
+
+(1)   
+       Reflects
+    actual bonuses earned by the named executive officers for fiscal 2018 under the Bonus Program.    
+
+(2)   
+       For Mr. Yoder,
+    excludes cash incentives under the Sales Compensation Program.   
+
+(3)   
+       For Mr. Yoder,
+    the MBO portion of the potential bonus was weighted 50% towards corporate MBOs and 50% towards personal MBOs.   
+
+Sales Compensation Program   
+
+Mr. Yoder, along with certain
+other employees, participates in our Sales Compensation Program, which provides an opportunity to earn a cash incentive payment
+upon achievement of sales objectives approved by management. Under the Sales Compensation Program for fiscal 2018, for each half
+of the fiscal year, management established sales objectives for individuals, by region, which served as the basis for determining
+the amount of cash incentives to be paid to the individuals under the program. After the end of each six-month period, management
+reviewed an individual s performance with respect to his or her individual sales objectives and determined the amount of
+cash incentives to be paid under the program to the individual. Payments under the Sales Compensation Program for fiscal 2018
+were calculated based upon the level of performance, and targets for all participants were weighted 50% towards the first half
+of the fiscal year and 50% towards the second half of the fiscal year.  
+
+For fiscal 2018, such objectives were
+measured for Mr. Yoder with respect to the  global  territory. Mr. Yoder s annual sales incentive
+compensation target was equal to 30% of his base salary, or $76,500. In fiscal 2018, Mr. Yoder earned $72,394 in total sales
+incentive compensation under the Sales Compensation Program.  
+
+Severance and Change in Control Arrangements with Named
+Executive Officers   
+
+Although we do not have fixed term employment
+agreements with any of our employees, the named executive officers are each a party to an agreement with the Company that provides
+cash payments and acceleration of equity awards in certain circumstances that result in termination of employment.  
+
+Offer Letter with Jeffrey Benck   
+
+Under the offer letter dated December
+5, 2015 between the Company and Mr. Benck, Mr. Benck is eligible to receive severance payments if his employment is terminated
+involuntarily by us without Cause or by Mr. Benck for Good Reason, in each case as defined in the offer letter. Severance payments
+for Mr. Benck would consist of 12 months of base salary plus payment of an amount equal to 50% of his target bonus. If the termination
+occurs in connection with a Change in Control (as defined in the offer letter), Mr. Benck is entitled to  double trigger 
+severance payments as follows: (1) if the market capitalization of the Company at the time of the Change in Control is $50 million
+or less, Mr. Benck will receive 12 months of base salary plus payment of an amount equal to 100% of his target bonus; and (2)
+if the market capitalization of the Company at the time of the Change in Control is greater than $50 million, Mr. Benck will receive
+24 months of base salary plus payment of an amount equal to 200% of his target bonus.  
+
+In the event of termination of employment
+without Cause or for Good Reason, Mr. Benck s basic employee benefits such as health insurance would be continued for up
+to 12 months (or up to 24 months following a Change in Control occurring at a time that the Company s market capitalization
+is greater than $50 million).  
+
+In addition, if Mr. Benck s employment
+is terminated without Cause or for Good Reason in connection with a Change in Control, all unvested stock options and RSUs awarded
+to Mr. Benck will accelerate and become fully vested.  
+
+Letter Agreement with Jeremy Whitaker   
+
+On August 31, 2016, the Company entered
+into a five-year letter agreement with Mr. Whitaker setting forth certain terms of his employment as the Company s Chief
+Financial Officer. Under the letter agreement, Mr. Whitaker is eligible for severance payments if within the term of the letter
+agreement his employment is terminated, either involuntarily by the Company without Cause or by Mr. Whitaker for Good Reason,
+in each case as defined in the letter agreement.  
+
+Severance payments for Mr. Whitaker
+consist of 6 months of base salary plus payment of an amount equal to 50% of the amount of bonuses (if any) paid to Mr. Whitaker
+during the 12 months preceding termination. If the termination occurs in connection with a Change in Control (as defined in the
+letter agreement), Mr. Whitaker is entitled to  double trigger  severance payments as follows: (1) if the market capitalization
+of the Company at the time of the Change in Control is $50 million or less, Mr. Whitaker will receive 6 months of base salary
+plus payment of an amount equal to 50% of the amount of bonuses (if any) paid to Mr. Whitaker during the 12 months preceding termination,
+and up to 6 months of COBRA benefits; and (2) if the market capitalization of the Company at the time of the Change in Control
+is greater than $50 million, Mr. Whitaker will receive 12 months of base salary plus payment of an amount equal to 100% of his
+target bonus, and up to 12 months of COBRA benefits.  
+
+In addition, the letter agreement provides
+that if Mr. Whitaker s employment is terminated in connection with a Change in Control, all of Mr. Whitaker s outstanding
+equity awards will accelerate and become fully vested.  
+
+Offer Letter with Kevin Yoder   
+
+Under the offer letter dated January
+22, 2016 between the Company and Mr. Yoder, Mr. Yoder is eligible to receive severance payments if his employment is terminated
+within five years involuntarily by us without Cause or by Mr. Yoder for Good Reason, in each case as defined in the offer letter.
+Severance payments for Mr. Yoder would consist of 6 months of base salary plus payment of an amount equal to 50% of his target
+bonus and sales incentive. If the termination occurs in connection with a Change in Control (as defined in the offer letter),
+Mr. Yoder is entitled to  double trigger  severance payments as follows: (1) if the market capitalization of the Company
+at the time of the Change in Control is $50 million or less, Mr. Yoder will receive 6 months of base salary plus payment of an
+amount equal to 50% of his target bonus and sales incentive, and up to 6 months of COBRA benefits; and (2) if the market capitalization
+of the Company at the time of the Change in Control is greater than $50 million, Mr. Yoder will receive 12 months of base salary
+plus payment of an amount equal to 100% of his target bonus and sales incentive, and up to 12 months of COBRA benefits.  
+
+In addition, the offer letter provides
+that if Mr. Yoder s employment is terminated in connection with a Change in Control, all of Mr. Yoder s outstanding
+equity awards will accelerate and become fully vested.  
+
+Non-Employee Director Compensation   
+
+The table below sets forth the compensation
+earned by non-employee directors for services during fiscal 2018:  
+
+(1)   
+         
+       Under our Non-Employee
+    Director Compensation Policy, each non-employee director is entitled to receive the following cash compensation for board
+    services, as applicable: (i) $36,000 annual retainer for service as a Board member; (ii) $15,000 additional annual retainer
+    for service as Chairman of the Board; and (iii) $10,000 annual retainer for service as chairperson of the Audit Committee,
+    $7,500 annual retainer for service as chairperson of the Compensation Committee and $5,000 annual retainer for service as
+    chairperson of the Corporate Governance and Nominating Committee. Under the Non-Employee Director Compensation Policy, directors
+    are not paid fees for service as members on any of our standing committees, apart from the chairperson fees discussed above.
+    Further, directors are not paid meeting fees, except that (i) each non-employee director will be paid a meeting fee of $1,000
+    for each Board meeting attended in person or by telephone in excess of twelve meetings during the fiscal year; and (ii) each
+    non-employee director will be paid a meeting fee of $1,000 for attending in person or by telephone each meeting of a standing
+    committee of which he or she is a member in excess of twelve meetings per committee during the fiscal year.     
+
+(2)   
+         
+       The dollar value of stock and option awards
+    shown represents the grant date fair value determined in accordance with FASB ASC Topic 718. For a discussion of the valuation
+    assumptions used in the calculations, see Note 4 of Notes to Consolidated Financial Statements, included in Part IV, Item
+    15 of our Form 10-K.    
+
+(3)   
+         
+       In accordance with our Non-Employee Director Compensation
+        Policy, following the Company s 2017 annual meeting of stockholders (1) Messrs. Bruscha, Hale and Printer were each
+        granted an option to purchase 25,000 shares of our common stock at an exercise price of $1.92 per share, which was equal
+        to the closing price of our common stock on the grant date; and (2) Messrs. Edwards and Folino were each awarded 10,000
+        RSUs. Mr. Hale holds the stock options granted, and any shares of common stock issuable upon exercise thereof, for the
+        benefit of Hale Capital Partners, LP.    
+
+(4)   
+         
+       Mr. Bruscha elected not to receive a
+    cash fee for his services on the Board during fiscal 2018. Instead, pursuant to an arrangement with Mr. Bruscha, the Company
+    accrued $8,000 which represents a travel stipend to be paid at a future date.    
+
+The following table shows the total
+number of stock and option awards outstanding as of June 30, 2018, for each person who served as a non-employee director during
+fiscal 2018:  
+
+ITEM 12.   
+         SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS    
+
+Beneficial Ownership Table   
+
+The following table sets forth certain
+information with respect to beneficial ownership of our common stock as of September 4, 2018, by: (1) each stockholder known
+by us to be the beneficial owner of more than 5% of our common stock based on filings pursuant to Section 13 or Section 16 of
+the Exchange Act; (2) each of our current directors; (3) each of the executive officers set forth in the Summary Compensation
+Table below; and (4) all current directors and executive officers as a group. Beneficial ownership is determined in accordance
+with the rules of the SEC and includes voting or investment power with respect to the securities. Except as otherwise indicated
+in the footnotes to the table, and subject to community property laws, where applicable, we believe the persons and entities identified
+in the table below have sole voting and investment power with respect to all shares beneficially owned. The number of shares of
+common stock outstanding used in calculating the percentage for each listed person includes shares of common stock underlying
+options or warrants held by such person that are exercisable within 60 calendar days of September 4, 2018 but excludes shares
+of common stock underlying options or warrants held by any other person.  
+
+*   
+       Represents
+    beneficial ownership of less than 1% of the outstanding shares of our common stock.    
+
+(1)   
+       Unless otherwise
+    indicated, the address of each beneficial owner listed is c/o Lantronix, Inc., 7535 Irvine Center Drive, Suite 100, Irvine,
+    California 92618.    
+
+(2)   
+       Represents shares
+    of common stock issuable upon exercise of stock options or upon vesting of restricted stock units ( RSUs ) within
+    60 days of September 4, 2018.    
+
+(3)   
+       Based
+    upon information contained in a Form 4 filed by TL Investment GmbH with the SEC on March 9, 2016. According to the Form 4,
+    Mr. Bruscha is the managing director of TL Investment GmbH and has sole voting and investment power with respect to these
+    shares.    
+
+(4)   
+       Based upon information
+    contained in a Schedule 13D filed jointly by Hale Capital Partners, LP and Martin Hale, Jr. with the SEC on June 24, 2016.
+
+(5)   
+       Based upon information
+    contained in a Schedule 13D filed jointly by Peterson Capital Group, LLC, Peterson Capital Group, Inc., and James J. Peterson
+    with the SEC on August 16, 2018.    
+
+(6)   
+       Includes an aggregate
+    of 6,120,880 shares held by TL Investment GmbH, of which Mr. Bruscha is the managing director.    
+
+(7)   
+       Includes an aggregate
+    of 1,941,748 shares held by Hale Capital Partners, LP, of which Mr. Hale is the Chief Executive Officer. Mr. Hale holds
+    the stock options granted to him, and any shares of common stock issuable upon exercise thereof, for the benefit of Hale Capital
+    Partners, LP.    
+
+Equity Compensation Plan Information   
+
+The following table gives information
+about our common stock that may be issued upon the exercise of options, warrants and rights under all of our existing equity compensation
+plans as of the end of fiscal 2018:  
+
+(1)   
+       The number of securities to be issued includes
+    shares subject to outstanding stock options and RSUs under the Lantronix, Inc. 2000 Stock Incentive Plan (the  2000
+    Plan ) and the 2010 Plan.     
+
+(2)   
+       Represents (1) 3,340 shares subject to outstanding
+    stock options under the Lantronix, Inc. 2010 Inducement Equity Incentive Plan; (2) 75,000 inducement RSUs
+    issued to Jeffrey Benck, our President and Chief Executive Officer; and (3) an aggregate of 440,000 shares subject to inducement
+    stock options granted to Sanjeev Datla, our former Chief Technology Officer, Kevin Yoder, our Vice President of Worldwide
+    Sales and Shahram Mehraban, our Vice President of Marketing.    
+
+(3)   
+       The number of securities remaining available
+    for future issuance includes (1) 3,381,990 shares available for future issuance under the 2010 Plan; and (2) 148,000 shares
+    reserved for future issuance under the Lantronix, Inc. 2013 Employee Stock Purchase Plan. Options outstanding under the 2000
+    Plan and the 2010 Plan that expire without having been exercised in full, or are otherwise forfeited to the Company, will
+    be added to the share reserve of the 2010 Plan.    
+
+ITEM 13.   
+         CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS AND DIRECTOR INDEPENDENCE    
+
+For information relating to the board,
+independence of directors, and board committees, their charters and responsibilities, reference is hereby made to Item 10,
+ Directors, Executive Officers and Corporate Governance .  
+
+Policies and Procedures with Respect to Related Party
+Transactions   
+
+The Board is committed to upholding
+the highest legal and ethical conduct in fulfilling its responsibilities and recognizes that related party transactions can present
+a heightened risk of potential or actual conflicts of interest.  
+
+Our Audit Committee charter requires
+that members of the Audit Committee review and approve all related party transactions. Current SEC rules define a related party
+transaction to include any transaction, arrangement or relationship in which:  
+
+we are
+    a participant;    
+
+the amount involved
+    exceeds $120,000; and    
+
+an executive officer,
+    director, or any person who is known to be the beneficial owner of more than 5% of our common stock, or any person who is
+    an immediate family member of an executive officer, director or beneficial owner of more than 5% of our common stock had or
+    will have a direct or indirect material interest.    
+
+In addition, the Audit Committee is
+responsible for reviewing and investigating any matters pertaining to the integrity of management, including conflicts of interest
+and adherence to our Code of Conduct. Under our Code of Conduct, directors, officers and all other members of the workforce are
+expected to avoid any relationship, influence or activity that would cause or even appear to cause a conflict of interest. All
+directors must recuse themselves from any discussion or decision affecting their personal, business or professional interests.  
+
+All related party transactions must
+be disclosed in our applicable filings with the SEC as required under SEC rules.  
+
+Related Party Transactions    
+
+There were no transactions with related
+persons that required disclosure under applicable SEC rules during the fiscal years ended June 30, 2018 and 2017, nor are any
+such transactions currently proposed.  
+
+ITEM 14.   
+         PRINCIPAL ACCOUNTANT FEES AND SERVICES    
+
+The accounting firm of Squar Milner
+LLP ( Squar Milner ) served as the Company s independent registered public accounting firm for the fiscal years
+ended June 30, 2018 and June 30, 2017.  
+
+Fees Paid to the Principal Accountants   
+
+During fiscal 2018 and fiscal 2017,
+we retained Squar Milner to provide services in the following categories and amounts:  
+
+Audit Fees.  Consist of fees billed
+for professional services rendered for the audit of our consolidated financial statements and review of our quarterly interim
+consolidated financial statements, as well as services that are normally provided by our independent registered public accountants
+in connection with statutory and regulatory filings or engagements. For fiscal 2017, these fees also included the review of our
+registration statements on Form S-3 and Form S-8 and certain other related matters such as the delivery of comfort letters and
+consents in connection with our registration statements.  
+
+Audit-Related Fees.  Consist of
+fees billed for professional services that are reasonably related to the performance of the audit or review of our consolidated
+financial statements but are not reported under  Audit Fees.  These fees were related to the audits of our 401(k)
+employee benefit plan and our 2013 Employee Stock Purchase Plan.  
+
+Tax Fees.  Consist of fees billed
+for professional services, including tax advice, tax planning and preparation of returns relating to federal, state and international
+taxes.  
+
+All Other Fees.  There were no
+fees billed by our independent registered public accounting firm for other services in fiscal 2018 or 2017.  
+
+Pre-Approval of Services   
+
+The Audit Committee is required to pre-approve
+the audit and non-audit services performed by our independent registered public accounting firm in order to ensure that the provision
+of such services does not impair the auditor s independence. Unless a type of service to be provided by our independent
+registered public accounting firm has received general pre-approval, it requires specific pre-approval by the Audit Committee.
+The term of any general pre-approval is 12 months from the date of pre-approval, unless the Audit Committee specifically provides
+for a different period. At least annually, the Audit Committee reviews and pre-approves the services that may be provided by our
+independent registered public accounting firm without obtaining specific pre-approval from the Audit Committee. The Audit Committee
+does not delegate its responsibilities to pre-approve services performed by our independent registered public accounting firm
+to management. The Audit Committee may delegate, and has delegated, pre-approval authority to one or more of its members. The
+member or members to whom such authority is delegated must report any pre-approval decisions to the Audit Committee at its next
+scheduled meeting. The annual audit services engagement terms and fees are subject to the specific pre-approval of the Audit Committee.
+All fees set forth above were pre-approved by the Audit Committee.  
+
+PART IV  
+
+ITEM 15.   
+         CONSOLIDATED FINANCIAL STATEMENTS AND EXHIBITS    
+
+2.  Exhibits  
+
+The exhibits listed on the accompanying Index to Exhibits immediately
+following the consolidated financial statements are filed as part of, and incorporated by reference into, this Report.  
+
+SIGNATURES  
+
+Pursuant to the requirements of Section
+13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this  Amendment
+ to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+LANTRONIX, INC.   
+
+Date: September 10, 2018   
+      By:  
+      /s/ JEFFREY BENCK  
+
+Jeffrey Benck  
+
+President, Chief Executive Officer and Director  
+
+(Principal Executive Officer)  
+
+Pursuant to the requirements of the
+Securities Exchange Act of 1934, as amended, this  Amendment
+has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated:   
+
+*By:   /s/  JEREMY
+WHITAKER                                  
+
+          Jeremy
+Whitaker  
+
+          Attorney-in-Fact  
+
+INDEX TO EXHIBITS   
+
+__________ 
+
+*  
+       
+      Indicates management contract or compensatory plan, contract or arrangement.   
+ 
+      **  
+       
+      Furnished, not filed.   
+
+<EX-31.3>
+ 2
+ lantronix_10k-ex3103.htm
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER
+
+Exhibit 31.3  
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE
+OFFICER  
+
+  PURSUANT TO   
+
+  SECTION 302 OF THE SARBANES-OXLEY ACT
+OF 2002  
+
+I, Jeffrey Benck, certify that: 
+
+1.  
+       I have reviewed this Amendment No. 1 to Annual Report on Form 10-K of Lantronix, Inc.; and   
+
+2.  
+      Based on my knowledge, this report does not
+    contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in
+    light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+    report.   
+
+Date:   
+      September 10, 2018  
+      /s/
+    JEFFREY BENCK   
+
+Jeffrey Benck 
+         President, Chief Executive Officer and Director 
+          (Principal Executive Officer)    
+
+</EX-31.3>
+
+<EX-31.4>
+ 3
+ lantronix_10k-ex3104.htm
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER
+
+Exhibit 31.4  
+
+CERTIFICATION OF PRINCIPAL FINANCIAL
+OFFICER  
+
+  PURSUANT TO  
+
+  SECTION 302 OF THE SARBANES-OXLEY ACT
+OF 2002  
+
+I, Jeremy Whitaker, certify that: 
+
+1.  
+      I  have reviewed this Amendment No. 1 to Annual Report on Form 10-K of Lantronix, Inc.; and  
+
+2.  
+      Based on my knowledge, this report does not
+    contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in
+    light of the circumstances under which such statements were made, not misleading with respect to the period covered by this
+    report.   
+
+Date:   
+      September 10, 2018  
+      /s/
+    JEREMY WHITAKER   
+
+Jeremy Whitaker 
+         Chief Financial Officer 
+          (Principal Financial and Accounting Officer)    
+
+</EX-31.4>
+

@@ -1,0 +1,1315 @@
+  SECURITIES AND EXCHANGE COMMISSION 
+  Washington, D.C. 20549 
+    
+  FORM 10-Q 
+  (Mark One) 
+  x   QUARTERLY REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+    
+  For the quarterly period ended   September 30, 2018    
+    
+  or 
+    
+  o   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT  
+          OF 1934 
+  For the transition period from         to  
+    
+  Commission File Number: 1-4018 
+  
+  (Exact name of registrant as specified in its charter) 
+                 Delaware 
+    53-0257888 
+      (State or other jurisdiction of incorporation or organization) 
+    (I.R.S. Employer Identification No.) 
+
+3005 Highland Parkway 
+      
+      Downers Grove, Illinois 
+    60515 
+      (Address of principal executive offices) 
+    (Zip Code) 
+
+(630) 541-1540 
+  (Registrant s telephone number, including area code) 
+    
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+  Yes        No    o 
+    
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+  Yes        No    o 
+    
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company, or an emerging growth company. See definitions of "large accelerated filer," "accelerated filer,"  "smaller reporting company," and "emerging growth company" in Rule 12-b-2 of the Exchange Act. 
+                   Large accelerated filer                 
+      
+    Accelerated filer                          o 
+      Non-accelerated filer                 o  
+      
+    Smaller reporting company         o 
+
+Emerging growth company         o 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act     o 
+    
+  Indicate by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act). Yes   o    No      
+    
+  The number of shares outstanding of the Registrant s common stock as of   October 11, 2018   was   146,332,674  . 
+
+Dover Corporation 
+  Form 10-Q 
+  Table of Contents 
+    
+                    PART I   FINANCIAL INFORMATION  
+    Page 
+       Item 1.  
+     Financial Statements (unaudited)  
+
+Condensed Consolidated Statements of Earnings for the three and nine months ended September 30, 2018 and 2017  
+    1 
+        
+     Condensed Consolidated Statements of Comprehensive Earnings for the three and nine months ended September 30, 2018 and 2017  
+    2 
+        
+     Condensed Consolidated Balance Sheets at September 30, 2018 and December 31, 2017  
+    3 
+        
+     Condensed Consolidated Statement of Stockholders  Equity for the nine months ended September 30, 2018  
+    4 
+        
+     Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2018 and 2017  
+    5 
+        
+     Notes to Condensed Consolidated Financial Statements  
+    6 
+       Item 2.  
+     Management s Discussion and Analysis of Financial Condition and Results of Operations  
+    30 
+       Item 3.  
+     Quantitative and Qualitative Disclosures About Market Risk  
+    45 
+       Item 4.  
+     Controls and Procedures  
+    45 
+
+PART II   OTHER INFORMATION  
+      
+       Item 1.  
+     Legal Proceedings  
+    46 
+       Item 1A.  
+     Risk Factors  
+    46 
+       Item 2.  
+     Unregistered Sales of Equity Securities and Use of Proceeds  
+    46 
+       Item 3.  
+     Defaults Upon Senior Securities  
+    46 
+       Item 4.  
+     Mine Safety Disclosures  
+    46 
+       Item 5.  
+     Other Information  
+    46 
+       Item 6.  
+     Exhibits  
+    48 
+       SIGNATURES  
+    49 
+
+Table of Contents  
+
+Item 1. Financial Statements 
+
+DOVER CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF EARNINGS 
+  (In thousands, except per share data) 
+  (Unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements 
+
+1 
+
+Table of Contents  
+
+DOVER CORPORATION  
+  CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE EARNINGS 
+  (In thousands) 
+  (Unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements 
+
+2 
+
+Table of Contents  
+
+DOVER CORPORATION 
+  CONDENSED CONSOLIDATED BALANCE SHEETS 
+  (In thousands) 
+  (Unaudited) 
+
+See Notes to Condensed Consolidated Financial Statements 
+
+3 
+
+Table of Contents  
+
+DOVER CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDERS  EQUITY 
+  (In thousands, except share data) 
+  (Unaudited) 
+
+(1)  See   Note 20   Recent Accounting Pronouncements   and   Note 3   Revenue   for additional information. 
+    
+  See Notes to Condensed Consolidated Financial Statements 
+
+4 
+
+Table of Contents  
+
+DOVER CORPORATION 
+  CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+  (In thousands) 
+  (Unaudited)   
+
+See Notes to Condensed Consolidated Financial Statements 
+  
+   5 
+
+Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+1. Basis of Presentation 
+    
+  The accompanying unaudited interim Condensed Consolidated Financial Statements have been prepared pursuant to the rules and regulations of the Securities and Exchange Commission ("SEC") for interim periods and do not include all of the information and note disclosures required by accounting principles generally accepted in the United States of America ("GAAP") for complete financial statements. These unaudited interim Condensed Consolidated Financial Statements should therefore be read in conjunction with the Consolidated Financial Statements and Notes for Dover Corporation ("Dover" or the "Company") for the year ended   December 31, 2017  , included in the Company's Annual Report on Form 10-K/A filed with the SEC on February 16, 2018. The year end Condensed Consolidated Balance Sheet was derived from audited financial statements. Certain amounts in the prior periods have been reclassified to conform to the current year presentation.   
+    
+  On May 9, 2018, the Company completed a pro-rata distribution of the common stock of Apergy Corporation ("Apergy") to the Company's shareholders of record as of the close of business on April 30, 2018. Apergy holds entities conducting upstream energy businesses previously included in the Energy segment. As discussed in Note 5 - Discontinued and Disposed Operations, the Apergy businesses met the criteria to be reported as discontinued operations because the spin-off is a strategic shift in business that has a major effect on the Company's operations and financial results. Therefore, the Company is reporting the historical results of Apergy, including the results of operations, cash flows, and related assets and liabilities, as discontinued operations for all periods presented herein. Subsequent to the spin-off of Apergy, effective the second quarter of 2018, the Company no longer has the Energy segment and is aligned into three reportable segments.   See Note 17   Segment Information   for additional information regarding the updated segments, including segment results for the   three and nine months   ended   September 30, 2018   and   2017  . Unless otherwise noted, the accompanying Notes to the Consolidated Financial Statements have all been revised to reflect the effect of the separation of Apergy and all prior year balances have been revised accordingly to reflect continuing operations only.  
+    
+  The accompanying unaudited interim Condensed Consolidated Financial Statements have been prepared in accordance with U.S. GAAP, which requires management to make estimates and assumptions that affect amounts reported in the Condensed Consolidated Financial Statements and accompanying disclosures. Although these estimates are based on management s best knowledge of current events and actions that the Company may undertake in the future, actual results may differ from those estimates. The Condensed Consolidated Financial Statements reflect all adjustments of a normal, recurring nature that are, in the opinion of management, necessary for a fair statement of results for these interim periods. The results of operations of any interim period are not necessarily indicative of the results of operations for the full year. 
+
+2. Spin-off of Apergy Corporation    
+    
+  On May 9, 2018, Dover completed the distribution of Apergy to its shareholders. The transaction was completed through the pro rata distribution of 100% of the common stock of Apergy to Dover's shareholders of record as of the close of business on April 30, 2018. Each Dover shareholder received one share of Apergy common stock for every two shares of Dover common stock held as of the record date. 
+    
+  The following is a summary of the assets and liabilities transferred to Apergy as part of the separation on May 9, 2018: 
+
+6 
+
+     Table of Contents  
+
+In connection with the spin-off from the company, Apergy issued and sold   $300.0 million   in aggregate principal amount of its   6.375%   senior notes due May 2026 in a private offering exempt from the registration requirements of the Securities Act of 1933, as amended, and incurred   $415.0 million   in borrowings under its new senior secured term loan facility to fund a one-time cash payment of   $700.0 million   to Dover. Dover received net cash of   $689.6 million   upon separation, which reflects   $10.4 million   of cash held by Apergy on the distribution date and retained by it in connection with its separation from Dover. Dover utilized the proceeds from Apergy as the primary source of funding for   $1 billion   of share repurchases started in December 2017. See   Note 18   Share Repurchases   for further information. 
+  Included within the net assets distributed to Apergy is approximately   $33 million   of accumulated other comprehensive earnings attributable to Apergy, relating primarily to foreign currency translation gains, offset by unrecognized losses on pension obligations.  
+  The historical results of Apergy, including the results of operations, cash flows, and related assets and liabilities have been reclassified to discontinued operations for all periods presented herein.   See Note 5   Discontinued and Disposed Operations  . Pursuant to the separation of Apergy from Dover, and the related separation and distribution agreements, any liabilities due from Dover to Apergy are not significant and will be paid in the near future. 
+
+3. Revenue    
+    
+  Revenue from contracts with customers 
+  Effective January 1, 2018, the Company adopted Accounting Standard Codification ("ASC") Topic 606, Revenue from Contracts with Customers     ("Topic 606  or  ASC 606 ), using the modified retrospective method applied to those contracts which were not completed as of January 1, 2018. Accordingly, all periods prior to January 1, 2018 are presented in accordance with ASC Topic 605, Revenue Recognition     ("Topic 605  or  ASC 605 ). 
+  Under Topic 606, a contract with a customer is an agreement which both parties have approved, that creates enforceable rights and obligations, has commercial substance and where payment terms are identified and collectability is probable. Once the Company has entered a contract, it is evaluated to identify performance obligations. For each performance obligation, revenue is recognized as control of promised goods or services transfers to the customer in an amount that reflects the consideration the Company expects to receive in exchange for those goods or services. The amount of revenue recognized takes into account variable consideration, such as discounts and volume rebates.  
+  A majority of the Company s revenue is short cycle in nature with shipments within one year from order.  A small portion of the Company s revenue derives from contracts extending over one year. The Company's payment terms generally range between 30 to 90 days and vary by the location of businesses, the type of products manufactured to be sold and the volume of products sold, among other factors. 
+  Disaggregation of Revenue 
+  Revenue from contracts with customers is disaggregated by end markets, segments and geographic location, as it best depicts the nature and amount of the Company s revenue.  
+  
+   7 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+The following table presents revenue disaggregated by end market and segment: 
+
+The following table presents revenue disaggregated by geography based on the location of the Company's customer: 
+
+The majority of revenue from our Engineered Systems, Fluids and Refrigeration and Food Equipment segments is generated from sales to customers within the United States and Europe. Each segment also generates revenue across the other geographies, with no significant concentration of any segment s remaining revenue.  
+    
+  Performance Obligations 
+    
+  A performance obligation is a promise in a contract to transfer a distinct good or service, or a bundle of goods or services, to the customer, and is the unit of accounting under ASC Topic 606. A contract s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. A majority of the Company s contracts have a single performance obligation which represents, in most cases, the equipment or product being sold to the customer. Some contracts include multiple performance obligations such as a product and the related installation, extended warranty and/or maintenance services. These contracts require judgment in determining the number of performance obligations.  
+    
+  The Company has elected to use the practical expedient to not adjust the promised amount of consideration for the effects of a significant financing component if it is expected, at contract inception, that the period between when Dover transfers a promised good or service to a customer, and when the customer pays for that good or service, will be one year or less. Thus, the Company may not consider an advance payment to be a significant financing component, if it is received less than one year before product completion. 
+    
+  The majority of the Company s contracts offer assurance-type warranties in connection with the sale of a product to a customer. Assurance-type warranties provide a customer with assurance that the related product will function as the parties intended because it complies with agreed-upon specifications. Such warranties do not represent a separate performance obligation.  
+
+8 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+The Company may also offer service-type warranties that provide services to the customer, in addition to the assurance that the product complies with agreed-upon specifications. If a warranty is determined to be a service-type warranty, it represents a distinct service and is treated as a separate performance obligation. 
+    
+  For contracts with multiple performance obligations, the Company allocates the total transaction price to each performance obligation in an amount based on the estimated relative standalone selling prices of the promised goods or services underlying each performance obligation. The Company uses an observable price to determine the stand-alone selling price for separate performance obligations or a cost plus margin approach when one is not available. 
+    
+  Over   95%   of the Company s performance obligations are recognized at a point in time that relate to the manufacture and sale of a broad range of products and components. Revenue is recognized when control transfers to the customer upon shipment or completion of installation, testing, certification, or other substantive acceptance provisions required under the contract. Less than   5%   of the Company s revenue is recognized over time and relates to the sale of engineered to order equipment or services.  
+    
+  For revenue recognized over time, there are two types of methods for measuring progress and both are relevant to the Company: (1) input methods and (2) output methods. Although this may vary by business, input methods generally are based on costs incurred relative to estimated total costs. Output methods generally are based on a measurement of progress, such as milestone achievement. The businesses use the method and measure of progress that best depicts the transfer of control to the customer of the goods or services to date relative to the remaining goods or services promised under the contract. 
+    
+  Transaction Price Allocated to the Remaining Performance Obligations 
+    
+  At   September 30, 2018  , we estimated that   $71.6 million   in revenue is expected to be recognized in the future related to performance obligations that are unsatisfied (or partially unsatisfied) at the end of the reporting period. We expect to recognize approximately   56%   of our unsatisfied (or partially unsatisfied) performance obligations as revenue in   2019  , with the remaining balance to be recognized in   2020   and thereafter. 
+    
+  Remaining consideration, including variable consideration, from contracts with customers is included in the amounts presented above and primarily consists of extended warranties on products and multi-year maintenance agreements, which are typically recognized as the performance obligation is satisfied. 
+    
+  The Company applied the standard's practical expedient that permits the omission of unsatisfied performance obligations for (i) contracts with an original expected length of one year or less and (ii) contracts for which the Company recognizes revenue at the amount to which the Company has the right to invoice for services performed. 
+    
+  Contract Balances 
+    
+  The following table provides information about contract assets and contract liabilities from contracts with customers: 
+
+Contract assets primarily relate to the Company's right to consideration for work completed but not billed at the reporting date and are recorded in prepaid and other current assets in the Condensed Consolidated Balance Sheet. Contract assets are transferred to receivables when the right to consideration becomes unconditional. Contract liabilities relate to advance consideration received from customers for which revenue has not been recognized. Current contract liabilities are recorded in other accrued expenses and non-current contract liabilities are recorded in other liabilities in the Condensed Consolidated Balance Sheet. Contract liabilities are reduced when the associated revenue from the contract is recognized. 
+
+9 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+Significant changes in contract assets and liabilities balances during the period are as follows: 
+
+Contract Costs 
+    
+  Costs incurred to obtain a customer contract are not material to the Company. The Company elected to apply the practical expedient to not capitalize contract costs to obtain contracts with a duration of one year or less, which are expensed and included within cost of goods and services in the Condensed Consolidated Statements of Earnings. 
+    
+  Critical Accounting Estimates 
+    
+  Estimates are used to determine the amount of variable consideration in contracts, the standalone selling price among separate performance obligations and the measure of progress for contracts where revenue is recognized over time. The Company reviews and updates these estimates regularly. 
+    
+  Some contracts with customers include variable consideration primarily related to volume rebates. The Company estimates variable consideration at the most likely amount to determine the total consideration which the Company expects to be entitled. Estimated amounts are included in the transaction price to the extent it is probable that a significant reversal of cumulative revenue recognized will not occur when the uncertainty associated with the variable consideration is resolved. The Company s estimates of variable consideration and determination of whether to include estimated amounts in the transaction price are based largely on an assessment of our anticipated performance and all information (historical, current and forecasted) that is reasonably available.  
+    
+  Changes in Accounting Policies 
+    
+  The Company adopted Topic 606, effective January 1, 2018, using the modified retrospective method applying Topic 606 to contracts that are not complete as of the date of initial application. Under the modified retrospective method, the cumulative effect of applying the standard has been recognized at the date of initial application, January 1, 2018. The comparative information has not been adjusted and continues to be reported under Topic 605. The Company's accounting policy has been updated to align with Topic 606, and no significant changes to revenue recognition have occurred as a result of the change. 
+    
+  Shipping and handling charges are not considered a separate performance obligation. If revenue is recognized for the related good before the shipping and handling activities occur, the related costs of those shipping and handling activities must be accrued. 
+  Additionally, all taxes assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected from a customer (e.g., sales, use, value added, and some excise taxes) are excluded from revenue. The Company's policy elections related to shipping and handling and taxes have not changed with the adoption of Topic 606. 
+
+10 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+Under Topic 605, revenue was generally recognized when all of the following criteria were met: a) persuasive evidence of an arrangement exists, b) price is fixed or determinable, c) collectability is reasonably assured and d) delivery has occurred or services have been rendered. The majority of the Company's revenue is generated through the manufacture and sale of a broad range of specialized products and components and revenue was recognized upon transfer of title and risk of loss, which was generally upon shipment. In limited cases, the Company's revenue arrangements with customers required delivery, installation, testing, certification, or other acceptance provisions to be satisfied before revenue was recognized. The Company included shipping costs billed to customers in Revenue and the related shipping costs in Cost of goods and services. 
+    
+  Impact on Financial Statements 
+    
+  The adoption of Topic 606 impacted certain contracts for highly customized customer products that have no alternative use and in which the contract specifies the Company has a right to payment for its costs, plus a reasonable margin. For these contracts, the Company now recognizes revenue over time based on the method and measure of progress that best depicts the transfer of control to the customer of the goods or services to date relative to the remaining goods or services promised under the contract. 
+    
+  The Company recorded a cumulative catch-up adjustment to retained earnings at January 1, 2018 for   $0.2 million  , related to the impact of adopting Topic 606 under the modified retrospective method. 
+    
+  The impact of adopting Topic 606 was not material to the Company s consolidated financial statements as of and for the   three and nine months   ended   September 30, 2018  . 
+
+4. Acquisitions 
+    
+  2018 Acquisitions 
+    
+  During the   nine months   ended   September 30, 2018  , the Company acquired two businesses in separate transactions for total consideration of   $68,557  , net of cash acquired. These businesses were acquired to complement and expand upon existing operations within the Fluids and Refrigeration   Food Equipment segments. The goodwill recorded as a result of these acquisitions reflects the benefits expected to be derived from product line expansions and operational synergies. The goodwill is non-deductible for U.S. federal income tax purposes for these acquisitions. 
+    
+  On January 2, 2018, the Company acquired   100%   of the voting stock of Ettlinger Group ("Ettlinger"), within the Fluids segment for   $53,218  , net of cash acquired. In connection with this acquisition, the Company recorded goodwill of   $36,493   and intangible assets of   $19,907  , primarily related to customer intangibles. The intangible assets are being amortized over   8   to   15   years.  
+    
+  On January 12, 2018, the Company acquired   100%   of the voting stock of Rosario Handel B.V. ("Rosario"), within the Refrigeration   Food Equipment segment for total consideration of   $15,339  , net of cash acquired. In connection with this acquisition, the Company recorded goodwill of   $10,402   and a customer intangible asset of   $4,149  . The customer intangible asset is being amortized over   10   years.  
+    
+  2017 Acquisitions 
+    
+  During the   nine months   ended   September 30, 2017  , the Company acquired Caldera Graphics S.A.S. ("Caldera") within the Engineered Systems segment for   $32,680  , net of cash acquired and including contingent consideration. In connection with this acquisition, the Company recorded goodwill of   $24,649    and intangible assets of   $8,169  , primarily related to customer intangibles. The goodwill is non-deductible for U.S. federal income tax purposes. The intangible assets are being amortized over   7   to   15   years. 
+    
+  Pro Forma Information 
+    
+  The following unaudited pro forma information illustrates the impact of   2018   and   2017   acquisitions on the Company s revenue and earnings from operations for the   nine months   ended   September 30, 2018   and   2017  , respectively. In the year   2017  , the Company acquired   two   businesses in separate transactions for total net consideration of   $34,300  .  
+    
+  The unaudited pro forma information assumes that the   2018   and   2017   acquisitions had taken place at the beginning of the prior year,   2017   and   2016  , respectively. Unaudited pro forma earnings are adjusted to reflect the comparable impact of additional depreciation and amortization expense, net of tax, resulting from the fair value measurement of intangible and tangible assets relating to the year of acquisition. 
+  
+   11 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+The unaudited pro forma effects for the   three and nine months   ended   September 30, 2018   and   2017   were as follows: 
+
+5. Discontinued and Disposed Operations 
+    
+  Discontinued Operations 
+    
+  The Apergy businesses, as discussed in Note 2, met the criteria to be reported as discontinued operations because the spin-off is a strategic shift in business that has a major effect on the Company's operations and financial results. Therefore, the results of discontinued operations for the   three and nine months   ended   September 30, 2018   and   2017   include the historical results of Apergy prior to its distribution on May 9, 2018. The   three and nine months   ended   September 30, 2018   included costs incurred by Dover to complete the spin-off of Apergy amounting to   $0   and   $46,384  , respectively, reflected in selling, general and administrative expenses in discontinued operations. The spin-off costs for the   three and nine months   ended   September 30, 2017   were both at   $1,721  . See   Note 2 Spin-off of Apergy Corporation   for further information. 
+    
+  Summarized results of the Company's discontinued operations are as follows: 
+
+12 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+Assets and liabilities of discontinued operations are summarized below: 
+
+On May 9, 2018, all assets and liabilities of Apergy were spun-off. Therefore, as of   September 30, 2018  , there were no assets and liabilities classified as discontinued operations. 
+    
+  Disposed Operations 
+    
+  2018 
+    
+  There were no other dispositions aside from the spin-off of Apergy during the   nine months   ended   September 30, 2018  . 
+    
+  2017 
+    
+  On February 14, 2017, the Company completed the sale of Performance Motorsports International ("PMI"), which was a wholly owned subsidiary of the Company that manufactures pistons and other engine related components serving the motorsports and powersports markets. Total consideration for the transaction was   $147,313  , including cash proceeds of   $118,706  . We recognized a pre-tax gain on sale of   $88,402   for the   nine months   ended   September 30, 2017   within gain on sale of businesses in the Condensed Consolidated Statements of Earnings and recorded a   25%   equity method investment at fair value of   $18,607   as well as a subordinated note receivable of   $10,000  .  
+    
+  During the   nine months   ended   September 30, 2017  , the Company recorded a working capital adjustment for the sale of Tipper Tie in the fourth quarter of 2016 for   $1,691  . This adjustment is included within gain on sale of businesses in the Condensed Consolidated Statements of Earnings. 
+    
+  These disposals did not represent strategic shifts in operations and, therefore, did not qualify for presentation as discontinued operations. 
+
+13 
+
+Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+6. Inventories 
+
+7. Property, Plant and Equipment, net   
+
+Depreciation expense totaled   $32,514   and   $34,663   for the three months ended   September 30, 2018   and   2017  , respectively. For the   nine months   ended   September 30, 2018   and   2017  , depreciation expense was   $97,625   and   $98,812  , respectively.  
+
+8. Goodwill and Other Intangible Assets 
+    
+  ASC 350,  Intangibles - Goodwill and Other Intangibles  provides guidance on an entity's subsequent measurement and subsequent recognition of goodwill and other intangibles, including subsequent changes to carrying amounts, including impairment and fair value adjustments. In accordance with the guidance set forth in ASC 350, and in connection with the separation of Apergy, the Company was required to calculate the portion of goodwill included in the Apergy distribution. Using a relative fair value approach, the Company reallocated   $3,546   of goodwill from a reporting unit that included Apergy to a reporting unit now included within the Engineered Systems segment. Refer to   See Note 17   Segment Information   for further information. 
+    
+  Further, the Company realigned its remaining businesses and reallocated goodwill among its reporting units based on their relative fair value and tested goodwill for impairment in the second quarter of 2018. The Company concluded that no impairment indicators exist. 
+    
+  The changes in the carrying value of goodwill by reportable operating segments were as follows:  
+
+During the   nine months   ended   September 30, 2018  , the Company recorded additions of   $46,895   to goodwill as a result of the acquisitions discussed in   Note 4   Acquisitions  . The net goodwill transferred to Apergy on May 9, 2018 amounted to   $899,888  . 
+
+14 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+The Company s definite-lived and indefinite-lived intangible assets by major asset class were as follows: 
+
+Amortization expense was   $35,576   and   $37,870  , respectively, including acquisition-related intangible amortization of   $35,258   and   $37,324   for the   three months   ended   September 30, 2018   and   2017  , respectively. For the   nine months   ended   September 30, 2018   and   2017  , amortization expense was   $108,393   and   $113,349  , respectively, including acquisition-related intangible amortization of   $107,092   and   $111,722  , respectively.  
+
+9. Restructuring Activities 
+    
+  The Company's restructuring charges by segment were as follows:  
+
+The restructuring expenses of   $24,201   and   $36,423   incurred during the   three and nine months   ended   September 30, 2018  , respectively, were related to restructuring programs initiated during   2018   and   2017  . Restructuring expense includes   $24,201   and   $34,058   related to rightsizing restructuring programs for the   three and nine months   ended   September 30, 2018  , respectively. The current quarter rightsizing programs were comprised primarily of broad-based selling, general and administrative expense reduction initiatives designed to increase operating margin, enhance operations and position the Company for sustained growth and investment. The first half of the year rightsizing programs were largely initiated in the fourth quarter of   2017   and designed to better align the Company's cost structure in preparation for the Apergy separation and included targeted facility consolidations, headcount reductions and other measures to further optimize operations. The rightsizing actions taken due to the Apergy separation are substantially complete. The Company expects to incur total charges of approximately   $39 million   related to selling, general and administrative expense reduction initiatives,   $21 million   of which was incurred during the three months ended   September 30, 2018   and   $18 million   of which the Company expects to incur during the fourth quarter of 2018 and into the first half of 2019.   
+  
+   15 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+The   $24,201   of restructuring charges incurred during the   third   quarter of   2018   primarily included the following items: 
+
+The Engineered Systems segment recorded   $10,637     of restructuring charges related to programs focused on headcount reduction.     
+
+The Fluids segment recorded   $10,473     of restructuring charges principally related to headcount reductions and facility restructuring costs, focused on achieving acquisition integration benefits.    
+
+The Refrigeration and Food Equipment segment recorded   $452   of restructuring expense primarily due to headcount reductions and facility restructuring costs. 
+
+Corporate recorded   $2,639   of restructuring charges primarily related to headcount reductions. 
+       
+  The Company s severance and exit accrual activities were as follows: 
+
+(1)   
+    Other activity in exit reserves primarily represents the non-cash write-off of certain long-lived assets and inventory in connection with certain facility closures and product exits. 
+
+16 
+
+Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+10. Borrowings 
+    
+  Borrowings consisted of the following: 
+
+(1)    Carrying amount is net of unamortized debt discount and deferred debt issuance costs. Total unamortized debt discounts were  
+  $16.4 million   and   $17.6 million   as of   September 30, 2018   and   December 31, 2017  , respectively. Total deferred debt issuance costs were   $13.5 million   and   $14.9 million   as of   September 30, 2018   and   December 31, 2017  , respectively. 
+    
+  On March 15, 2018, the outstanding   5.45%   notes with a principal value of   $350.0 million   matured.   The repayment of debt was funded by the Company's commercial paper program and through a reduction of existing cash balances.    
+    
+  The Company maintains a   $1.0 billion   five-year unsecured revolving credit facility (the "Credit Agreement") with a syndicate of banks which expires on   November 10, 2020  .   The Company was in compliance with all covenants in the Credit Agreement and other long-term debt covenants at September 30, 2018 and had a coverage ratio of 10.2 to 1.0.   The Company uses the Credit Agreement as liquidity back-up for its commercial paper program and has not drawn down any loans under the facility and does not anticipate doing so. The Company generally uses commercial paper borrowings for general corporate purposes, funding of acquisitions and repurchases of its common stock. 
+    
+  As of   September 30, 2018  , the Company had approximately   $142.3 million   outstanding in letters of credit and performance and other guarantees which expire on various dates in   2018   through   2028  . These letters of credit are primarily maintained as security for insurance, warranty and other performance obligations. In general, we would only be liable for the amount of these guarantees in the event of default in the performance of our obligations. 
+
+17 
+
+Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+11. Financial Instruments    
+    
+  Derivatives    
+    
+  The Company is exposed to market risk for changes in foreign currency exchange rates due to the global nature of its operations and certain commodity risks. In order to manage these risks, the Company has hedged portions of its forecasted sales and purchases to occur within the next twelve months that are denominated in non-functional currencies, with currency forward contracts designated as cash flow hedges. At   September 30, 2018   and   December 31, 2017  , the Company had contracts with U.S. dollar equivalent notional amounts of   $205,850   and   $115,580  , respectively, to exchange foreign currencies, principally the Pound Sterling, Chinese Yuan, Swedish Krona, Swiss Franc, Canadian Dollar and Euro. The Company believes it is probable that all forecasted cash flow transactions will occur.  
+    
+  In addition, the Company had outstanding contracts with a total notional amount of   $98,008   and   $59,952   as of   September 30, 2018   and   December 31, 2017  , respectively, that are not designated as hedging instruments. These instruments are used to reduce the Company's exposure for operating receivables and payables that are denominated in non-functional currencies. Gains and losses on these contracts are recorded in other (income) expense, net in the Condensed Consolidated Statements of Earnings. 
+    
+  The following table sets forth the fair values of derivative instruments held by the Company as of   September 30, 2018   and   December 31, 2017   and the balance sheet lines in which they are recorded: 
+
+For a cash flow hedge, the effective portion of the change in estimated fair value of a hedging instrument is recorded in accumulated other comprehensive loss as a separate component of the Condensed Consolidated Statement of Stockholders' Equity and is reclassified into revenues and cost of goods and services in the Condensed Consolidated Statements of Earnings during the period in which the hedged transaction is recognized. The amount of gains or losses from hedging activity recorded in earnings is not significant, and the amount of unrealized gains and losses from cash flow hedges that are expected to be reclassified to earnings in the next twelve months is not significant; therefore, additional tabular disclosures are not presented. There are no amounts excluded from the assessment of hedge effectiveness and the Company's derivative instruments that are subject to credit risk contingent features were not significant. 
+    
+  The Company is exposed to credit loss in the event of nonperformance by counterparties to the financial instrument contracts held by the Company; however, nonperformance by these counterparties is considered unlikely as the Company s policy is to contract with highly-rated, diversified counterparties.  
+    
+  The Company has designated the    600,000   and    300,000   of euro-denominated notes issued November 9, 2016 and December 4, 2013, respectively, as hedges of a portion of its net investment in euro-denominated operations. Changes in the value of the euro-denominated debt are recognized in foreign currency translation adjustments within other comprehensive (loss) earnings of the Condensed Consolidated Statements of Comprehensive Earnings to offset changes in the value of the net investment in euro-denominated operations.  
+    
+  Amounts recognized in other comprehensive (loss) earnings for the gains (losses) on net investment hedges were as follows: 
+
+18 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+Fair Value Measurements  
+    
+  ASC 820, Fair Value Measurements and Disclosures, establishes a fair value hierarchy that requires the Company to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. A financial instrument s categorization within the hierarchy is based on the lowest level of input that is significant to the fair value measurement. ASC 820 establishes three levels of inputs that may be used to measure fair value.  
+    
+  Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities.  
+    
+  Level 2 inputs include inputs other than Level 1 that are observable, either directly or indirectly, such as quoted prices in active markets for similar assets and liabilities, quoted prices for identical or similar assets or liabilities in markets that are not active, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of assets or liabilities.  
+    
+  Level 3 inputs are unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions.  
+    
+  The following table presents the Company s assets and liabilities measured at fair value on a recurring basis as of   September 30, 2018   and   December 31, 2017  :  
+
+In addition to fair value disclosure requirements related to financial instruments carried at fair value, accounting standards require interim disclosures regarding the fair value of all of the Company s financial instruments.  
+    
+  The estimated fair value of long-term debt, net at   September 30, 2018   and   December 31, 2017  , was   $3,162,629   and   $3,324,776  , respectively, compared to the carrying value of   $2,981,923   and   $2,986,702  , respectively. The estimated fair value of long-term debt is based on quoted market prices for similar instruments and is, therefore, classified as Level 2 within the fair value hierarchy.  
+    
+  The carrying values of cash and cash equivalents, trade receivables, accounts payable and notes payable are reasonable estimates of their fair values as of   September 30, 2018  , and   December 31, 2017   due to the short-term nature of these instruments. 
+
+12. Income Taxes    
+    
+  The effective tax rates for the three months ended   September 30, 2018   and   2017   were   18.5%   and   22.9%  , respectively.  The decrease in the effective tax rate for the three months ended   September 30, 2018   relative to the prior comparable period was principally due to the decrease in the U.S. statutory tax rate from   35%   to   21%   and other U.S. tax law changes.  
+  The effective tax rates for the   nine months   ended   September 30, 2018   and   2017   were   19.6%   and   25.3%  , respectively. The decrease in the effective tax rate for the   nine months   ended   September 30, 2018   relative to the prior comparable period was primarily driven by the decrease in the U.S. statutory tax rate from   35%   to   21%   and other U.S. tax law changes.  
+  The discrete items for the three and nine months ended September 30, 2018 primarily resulted from the net tax benefit from stock award exercises. The discrete items for the three and nine months ended September 30, 2017 principally resulted from adjustments to the provision based on filed tax returns in foreign jurisdictions and the effect of the settlement of the 2013 IRS audit. Additionally, the discrete items for the nine months ended September 30, 2017 also included the tax effect of the gain on the sale of PMI.    
+  On December 22, 2017, the SEC staff issued Staff Accounting Bulletin No. 118 ( SAB 118 ) to address the application of U.S. GAAP in situations when a registrant does not have the necessary information available, prepared, or analyzed (including computations) in reasonable detail to complete the accounting for certain income tax effects of the U.S. bill commonly referred to as the Tax Cuts and Jobs Act ( Tax Reform Act ). In accordance with the SAB 118 guidance, the Company recognized the provisional tax impacts related to deemed repatriated earnings and the benefit for the revaluation of deferred tax assets and liabilities  
+  
+   19 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+in its consolidated financial statements for the year ended December 31, 2017.   For the nine months ended   September 30, 2018  , the Company recorded a   $1.3 million   tax benefit, which resulted in a   0.2%     decrease in the effective tax rate, as an adjustment to the provisional estimates as a result of additional regulatory guidance and changes in interpretations and assumptions the Company has made as a result of the Tax Reform Act. In accordance with SAB 118, any additional adjustment to the financial reporting impact of the Tax Reform Act will be completed by the fourth quarter of 2018.    
+    
+  Dover and its subsidiaries file tax returns in the U.S., including various state and local returns and in other foreign jurisdictions.  We believe adequate provision has been made for all income tax uncertainties. The Company is routinely audited by taxing authorities in its filing jurisdictions, and a number of these audits are currently underway. The Company believes that within the next twelve months uncertain tax positions may be resolved and statutes of limitations will expire, which could result in a decrease in the gross amount of unrecognized tax benefits of approximately   zero   to   $10.6 million  . 
+
+13. Equity Incentive Program 
+    
+  The Company typically grants equity awards annually at its regularly scheduled first quarter meeting of the Compensation Committee of the Board of Directors. Additionally, in the second quarter, the Company granted equity awards to its new President and Chief Executive Officer. During the   nine months   ended   September 30, 2018  , the Company issued stock-settled appreciation rights ("SARs") covering   757,603   shares, performance share awards of   122,459   and restricted stock units ("RSUs") of   284,721  . 
+    
+  In addition, in connection with the separation of Apergy, the Company modified the outstanding equity awards for its employees. The awards were modified such that all individuals received an equivalent fair value both before and after the separation of Apergy. This modification resulted in the issuance of an additional   1,138,008   SARs,   26,316   performance shares, and   47,063   RSUs. The exercise price of these outstanding awards, where applicable, was adjusted to preserve the value of the awards immediately prior to the separation. As no incremental fair value was awarded as a result of the issuance of these additional shares, the modification did not result in additional compensation expense. 
+    
+  The Company uses the Black-Scholes option pricing model to determine the fair value of each SAR on the date of grant. Expected volatilities are based on Dover's stock price history, including implied volatilities from traded options on Dover stock. The Company uses historical data to estimate SAR exercise and employee termination patterns within the valuation model. The expected life of SARs granted is derived from the output of the option valuation model and represents the average period of time that SARs granted are expected to be outstanding. The interest rate for periods within the contractual life of the SARs is based on the U.S. Treasury yield curve in effect at the time of grant. 
+    
+  The range of assumptions used in determining the fair value of the SARs awarded during the respective periods were as follows: 
+
+(1)    Updated to reflect the modification of grants in connection with the separation of Apergy on May 9, 2018. 
+    
+  The performance share awards granted in   2018   and   2017   are considered performance condition awards as attainment is based on Dover's performance relative to established internal metrics. The fair value of these awards was determined using Dover's closing stock price on the date of grant. The expected attainment of the internal metrics for these awards is analyzed each reporting period, and the related expense is adjusted based on expected attainment, if that attainment differs from previous estimates. The cumulative effect on current and prior periods of a change in attainment is recognized in selling, general and administrative expenses in the Condensed Consolidated Statements of Earnings in the period of change.    
+
+20 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+The fair value and average attainment used in determining stock-based compensation cost for the performance shares issued in    2018   and   2017   is as follows for the   nine months   ended   September 30, 2018  : 
+
+(1)    Updated to reflect the modification of grants in connection with the separation of Apergy on May 9, 2018. 
+    
+  The Company also has granted RSUs, and the fair value of these awards was determined using Dover's closing stock price on the date of grant (updated to reflect the modification of grants in connection with the separation of Apergy).  
+    
+  Stock-based compensation is reported within selling, general and administrative expenses of continuing operations in the Condensed Consolidated Statements of Earnings. The following table summarizes the Company s compensation expense relating to all stock-based incentive plans: 
+
+Stock-based compensation expense attributable to Apergy employees for the   three months   ended   September 30, 2018   and   2017   was   $0   and   $671  , respectively. For the   nine months   ended   September 30, 2018   and   2017  , stock-based compensation expense attributable to Apergy employees was   $744   and   $1,932  , respectively. These costs are reported within earnings from discontinued operations in the Condensed Consolidated Statement of Earnings. 
+
+14. Commitments and Contingent Liabilities 
+    
+  Litigation 
+    
+  Certain of the Company s subsidiaries are involved in legal proceedings relating to the cleanup of waste disposal sites identified under federal and state statutes that provide for the allocation of such costs among "potentially responsible parties." In each instance, the extent of the Company s liability appears to be very small in relation to the total projected expenditures and the number of other "potentially responsible parties" involved and is anticipated to be immaterial to the Company. In addition, certain of the Company s subsidiaries are involved in ongoing remedial activities at certain current and former plant sites, in cooperation with regulatory agencies, and appropriate reserves have been established. At   September 30, 2018   and   December 31, 2017  , the Company has reserves totaling   $30,893   and   $34,991  , respectively, for environmental and other matters, including private party claims for exposure to hazardous substances that are probable and estimable. 
+    
+  The Company and certain of its subsidiaries are also parties to a number of other legal proceedings incidental to their businesses. These proceedings primarily involve claims by private parties alleging injury arising out of use of the Company s products, patent infringement, employment matters, and commercial disputes. Management and legal counsel, at least quarterly, review the probable outcome of such proceedings, the costs and expenses reasonably expected to be incurred and currently accrued to-date, and the availability and extent of insurance coverage. The Company has reserves for legal matters that are probable and estimable and not otherwise covered by insurance, and at   September 30, 2018   and   December 31, 2017  , these reserves were not significant. While it is not possible at this time to predict the outcome of these legal actions, in the opinion of management, based on the aforementioned reviews, the Company is not currently involved in any legal proceedings which, individually or in the aggregate, could have a material effect on its financial position, results of operations, or cash flows.  
+
+21 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+Warranty Accruals 
+    
+  Estimated warranty program claims are provided for at the time of sale of the Company's products. Amounts provided for are based on historical costs and adjusted for new claims and are included within other accrued expenses and other liabilities in the Condensed Consolidated Balance Sheet. The changes in the carrying amount of product warranties through   September 30, 2018   and   2017  , were as follows: 
+
+15. Employee Benefit Plans 
+    
+  Retirement Plans 
+    
+  The Company offers defined contribution retirement plans which cover the majority of its U.S. employees, as well as employees in certain other countries. In addition, the Company sponsors qualified defined benefit pension plans covering certain employees of the Company and its subsidiaries. The plans  benefits are generally based on years of service and employee compensation. The Company also provides to certain management employees, through non-qualified plans, supplemental retirement benefits in excess of qualified plan limits imposed by federal tax law. 
+    
+  Upon separation from Dover, Apergy participants in the Dover U.S. pension plan (other than Norris USW participants) fully vested in their benefits and ceased accruing future benefits. Dover retained the obligation and participants were able to elect lump-sum payments from plan assets to be paid in the fourth quarter. Such payments are expected to result in a non-cash settlement charge to the Company's fourth quarter 2018 earnings when lump sum payments are paid out, the amount of which will be finalized in the fourth quarter. Assets and obligations related to the Norris USW participants were moved to a new plan sponsored by Apergy. The separation of Apergy triggered a pension plan curtailment which required a re-measurement of the Plan's benefit obligation in the second quarter, assuming a discount rate of   4.2%   and an expected return on assets of   6.8%  . The re-measurement resulted in one-time charges of   $0.2 million   in the second quarter of 2018. 
+    
+  The following tables set forth the components of the Company s net periodic expense relating to retirement benefit plans: 
+    
+  Qualified Defined Benefits 
+
+22 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+Non-Qualified Supplemental Benefits 
+
+Post-Retirement Benefit Plans 
+    
+  The Company also maintains post-retirement benefit plans, although these plans are closed to new entrants. The supplemental and post-retirement benefit plans are supported by the general assets of the Company. The following table sets forth the components of the Company s net periodic expense relating to its post-retirement benefit plans: 
+
+The total amount amortized out of accumulated other comprehensive earnings into net periodic pension and post-retirement expense totaled   $1,407   and   $3,049   for the three months ended   September 30, 2018    and   2017  , respectively, and   $7,765   and   $9,071   for the   nine months   ended   September 30, 2018   and   2017  , respectively. 
+    
+  On January 1, 2018, the Company adopted Accounting Standards Update ("ASU") 2017-07, Compensation-Retirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost. The service cost component is recognized within selling, general and administrative expenses and cost of goods and services, depending on the functional area of the underlying employees included in the plans, and the non-operating components of pension costs are included within other (income) expense, net in the Condensed Consolidated Statements of Earnings. See   Note 20   Recent Accounting Pronouncements   for additional information. 
+    
+  Defined Contribution Retirement Plans 
+    
+  The Company also offers defined contribution retirement plans which cover the majority of its U.S. employees, as well as employees in certain other countries. The Company s expense relating to defined contribution plans was   $8,649  , and   $7,521   for the three months ended   September 30, 2018   and   2017  , respectively, and   $27,500   and   $25,632   for the   nine months   ended   September 30, 2018   and   2017  .  
+
+23 
+
+Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+16. Other Comprehensive Earnings    
+    
+  The amounts recognized in other comprehensive (loss) earnings were as follows: 
+
+Total comprehensive earnings were as follows: 
+
+Amounts reclassified from accumulated other comprehensive (loss) to earnings during the   three and nine months   ended   September 30, 2018   and   2017   were as follows:  
+
+24 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+The Company recognizes the amortization of net actuarial gains and losses and prior service costs in other (income) expense, net within the Condensed Consolidated Statements of Earnings.  
+    
+  Cash flow hedges consist mainly of foreign currency forward contracts. The Company recognizes the realized gains and losses on its cash flow hedges in the same line item as the hedged transaction, such as revenue, cost of goods and services, or selling, general and administrative expenses.  
+
+17. Segment Information 
+    
+  As described in Note 2 - Spin-off of Apergy Corporation, Dover completed the distribution of Apergy to its shareholders on May 9, 2018. Apergy holds entities conducting upstream energy businesses previously included in the Energy segment. Following completion of the spin-off, the retained Precision Components (Bearings   Compression) and Tulsa Winch Group businesses, which were historically reported within the former Energy segment, became part of the Fluids and Engineered Systems segments, respectively. As a result of the spin-off of Apergy, the Company no longer has the Energy segment.  
+    
+  Effective the second quarter of 2018, the Company categorizes its operating companies into   three   reportable segments based on how the Chief Operating Decision Makers (CODM) analyze performance, allocate capital and make strategic and operational decisions. The three reportable segments are as follows:  
+
+Engineered Systems segment is comprised of two platforms, Printing   Identification and Industrials, and is focused on the design, manufacture and service of critical equipment and components serving the fast-moving consumer goods, digital textile printing, vehicle service, environmental solutions and industrial end markets.  
+
+Fluids segment, serving the Fueling   Transport, Pumps and Process Solutions end markets, is focused on the safe handling of critical fluids, and providing critical components to the retail fueling, chemical, hygienic, oil and gas, power generation and industrial markets. 
+
+Refrigeration   Food Equipment segment is a provider of innovative and energy efficient equipment and systems serving the commercial refrigeration and food equipment end markets. 
+     
+   25 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+Segment financial information and a reconciliation of segment results to consolidated results is as follows:  
+
+(1)       
+    Segment earnings includes non-operating income and expense directly attributable to the segments. Non-operating income and expense includes gain on sale of businesses and other (income) expense, net. 
+              (2)  
+    Certain expenses are maintained at the corporate level and not allocated to the segments. These expenses include executive and functional compensation costs, non-service pension costs, non-operating insurance expenses, shared business services costs and various administrative expenses relating to the corporate headquarters.  
+
+18. Share Repurchases 
+    
+  Under the January 2015 authorization which expired on January 9, 2018, the Company repurchased   440,608   shares of common stock during the   nine months   ended   September 30, 2018   at a total cost of   $44,977  , or   $102.08   per share. There were   5,271,168   shares available for repurchase under this authorization upon expiration. There were   no   repurchases during the   nine months   ended   September 30, 2017  . 
+    
+  In February 2018, the Company's Board of Directors approved a new standing share repurchase authorization, whereby the Company may repurchase up to   20 million   shares of its common stock through December 31, 2020. This share repurchase authorization replaced the January 2015 share repurchase authorization.  
+    
+  On May 22, 2018, the Company entered into an accelerated share repurchase agreement (the  ASR Agreement ) with Goldman Sachs   Co. LLC ( Goldman Sachs ) pursuant to which it will repurchase   $700,000   of shares in an accelerated share repurchase program (the  ASR Program ). The Company is conducting the ASR Program under the February 2018 share repurchase authorization. The Company funded the ASR Program with funds received from Apergy in connection with the consummation of the Apergy spin-off. 
+    
+  Under the terms of the ASR Agreement, the Company paid Goldman Sachs   $700,000   on May 24, 2018 and on that date received initial deliveries of   7,078,751   shares, representing a substantial majority of the shares expected to be retired over the course of the ASR Agreement. The total number of shares ultimately repurchased under the ASR Agreement will be based on the volume-weighted average share price of Dover s common stock during the calculation period of the ASR Program, less a discount. The ASR Program is scheduled to be completed in 2018, subject to postponement or acceleration under the terms of the ASR Agreement. The actual number of shares repurchased will be determined at the completion of the ASR Program. 
+  
+   26 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+Under the February 2018 share repurchase authorization, exclusive of the ASR Agreement, the Company repurchased   1,729,048   shares of common stock during the   three and nine months   ended   September 30, 2018   at a total cost of   $147,793  , or   $85.48   per share.  
+    
+  As of   September 30, 2018  ,   11,192,201   shares remain authorized for repurchase under the February 2018 share repurchase authorization. 
+    
+  Together with other repurchases in December 2017 and over the course of 2018, the Company has substantially completed the   $1 billion   of share repurchases it announced in November 2017.  
+
+19. Earnings per Share 
+    
+  The following table sets forth a reconciliation of the information used in computing basic and diluted earnings per share: 
+
+The following table is a reconciliation of the share amounts used in computing earnings per share: 
+
+Diluted earnings per share amounts are computed using the weighted average number of common shares outstanding and, if dilutive, potential common shares outstanding during the period. Potential common shares consist of the incremental common shares issuable upon the exercise of SARs and vesting of performance shares and RSUs, as determined using the treasury stock method.   
+    
+  The weighted average number of anti-dilutive potential common shares excluded from the calculation above were approximately   10,000   and   87,000   for the three months ended   September 30, 2018   and   2017  , respectively, and   1,000   and   37,000   for the   nine months   ended   September 30, 2018   and   2017  , respectively. 
+
+27 
+
+Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+20. Recent Accounting Pronouncements 
+    
+  Recently Issued Accounting Standards 
+    
+  The following standards, issued by the Financial Accounting Standards Board ("FASB"), will, or are expected to, result in a change in practice and/or have a financial impact to the Company s Consolidated Financial Statements: 
+    
+  In August 2018, the FASB issued ASU 2018-15, Intangibles-Goodwill and Other-Internal-Use Software (Subtopic 350-40): Customer s Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement That Is a Service Contract. The     amendments in this update align the requirements for capitalizing implementation costs incurred in a hosting arrangement that is a service contract with the requirements for capitalizing implementation costs incurred to develop or obtain internal-use software (and hosting arrangements that include an internal-use software license). The accounting for the service element of a hosting arrangement that is a service contract is not affected by the amendments in this update. The amendments in this update are effective for interim and annual periods for the Company beginning on January 1, 2020, with early adoption permitted. The amendments in this update should be applied either retrospectively or prospectively to all implementation costs incurred after the date of adoption. The Company is in the process of assessing the impact of this ASU on its Consolidated Financial Statements but does not expect this update to have a material impact on the Company's Consolidated Financial Statements. 
+    
+  In August 2017, the FASB issued ASU 2017-12, Derivatives and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging Activities. This ASU provides new guidance about income statement classification and eliminates the requirement to separately measure and report hedge ineffectiveness. The entire change in fair value for qualifying hedge instruments included in the effectiveness will be recorded in Other Comprehensive Income ("OCI") and amounts deferred in OCI will be reclassified to earnings in the same income statement line item in which the earnings effect of the hedged item is reported. The guidance is effective for interim and annual periods for the Company beginning on January 1, 2019, with early adoption permitted. The Company does not expect the adoption of this ASU to have a material impact on its Consolidated Financial Statements. 
+    
+  In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842), which amends existing guidance to require lessees to recognize assets and liabilities on the balance sheet for the rights and obligations created by long-term leases and to disclose additional quantitative and qualitative information about leasing arrangements. This ASU also provides clarifications surrounding the presentation of the effects of leases in the income statement and statement of cash flows. This guidance will be effective for the Company beginning on January 1, 2019. In addition, the FASB issued ASU 2018-11, Leases Targeted Improvements which provides an additional transition method that allows entities to apply the new leases standard at adoption date and recognize a cumulative effect adjustment to the opening balance of retained earnings in the period of adoption. The Company has elected this new transition method when it adopts ASU 2016-02 on January 1, 2019. 
+    
+  During the second half of 2017, the Company developed a project plan to guide the implementation of ASU 2016-02. The Company made progress on this plan including surveying the Company s businesses, assessing the Company s portfolio of leases and compiling a central repository of active leases. The Company evaluated key policy elections and considerations under the standard and completed an internal policy to address the new standard requirements.  Additionally, the Company selected a lease accounting software solution to support the new reporting requirements and started using the software during the third quarter of 2018. Significant progress has been made on extracting and loading lease data elements required for lease accounting into the software solution. The Company also completed the design of the future lease process, with training on-going. Although the Company is still finalizing its evaluation of the impact the new lease accounting guidance will have on its Consolidated Financial Statements, the Company expects to recognize right of use assets and liabilities for its operating leases in the Consolidated Balance Sheet upon adoption. 
+    
+  Recently Adopted Accounting Standards 
+    
+  In March 2018, the FASB issued ASU 2018-07, Income Taxes (Topic 740) Amendments to SEC Paragraphs Pursuant to the SEC SAB 118. This ASU provides guidance on income tax accounting implications under the Tax Reform Act. SAB 118 addressed the application of GAAP to situations when a registrant does not have the necessary information available, prepared and analyzed in reasonable detail to complete the accounting for certain income tax effects of the Tax Reform Act and allows companies to record provisional amounts during the re-measurement period not to exceed one year after the enactment date while the accounting impact remains under analysis. This guidance was effective immediately upon issuance.   See Note 12   Income Taxes   for further details.   
+  In February 2018, the FASB issued ASU No. 2018-02, Income Statement - Reporting Comprehensive Income (Topic 220) Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income. The ASU allows for the reclassification  
+  
+   28 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+from Accumulated Other Comprehensive Income ("AOCI") to retained earnings for tax effects resulting from the Tax Reform Act that are stranded in AOCI. ASU 2018-02, however, does not change the underlying guidance that requires that the effect of a change in tax laws or rates be included in income from continuing operations. The Company early adopted this guidance on January 1, 2018, and elected to reclassify the stranded tax effects from AOCI to retained earnings of   $12.9 million  . The stranded tax effects were specifically identified and represented the difference between the change in the amount of income tax from   35%   to   21%  , recognized in AOCI primarily for the deferred tax associated with the pension activity, which were recognized in the Consolidated Statement of Earnings for the year ended December 31, 2017.   
+    
+  In March 2017, the FASB issued ASU 2017-07, Compensation-Retirement Benefits (Topic 715): Improving the Presentation of Net Periodic Pension Cost and Net Periodic Postretirement Benefit Cost. This ASU changes the income statement presentation of defined benefit and post-retirement benefit plan expense by requiring separation between operating expense (service cost component of net periodic benefit expense) and non-operating expense (all other components of net periodic benefit expense, including interest cost, amortization of prior service cost, curtailments and settlements, etc.). The operating expense component is reported with similar compensation costs while the non-operating components are reported outside of operating income. The non-operating components are reported in the other (income) expense, net line item in the Consolidated Statement of Earnings. The Company s non-service cost components of net periodic benefit cost were a benefit of   $2.7 million   and   $3.7 million   during the   three months    ended   September 30, 2018   and   2017   respectively and a benefit of   $5.6 million   and   $3.7 million   for the   nine months   ended   September 30, 2018   and   2017  , respectively. The impact of this adoption resulted in a reclassification to the Company s Condensed Consolidated Statement of Earnings for the   nine months   ended   September 30, 2017  , in which previously reported selling, general and administrative expenses was increased by   $3.7 million  , with a corresponding   $3.7 million   decrease to other (income) expense, net. The Company utilized a practical expedient included in the ASU which allowed the Company to use amounts previously disclosed in its pension and other post-retirement benefits note for the prior period as the estimation basis for applying the required retrospective presentation requirements. The Company adopted this guidance on January 1, 2018.  
+    
+  In January 2017, the FASB issued ASU 2017-01, Business combinations (Topic 805): Clarifying the definition of a business, which clarifies the definition of a business and assists entities with evaluating whether transactions should be accounted for as acquisitions (or disposals) of assets or businesses. Under this guidance, when substantially all of the fair value of gross assets acquired is concentrated in a single asset (or group of similar assets), the assets acquired would not represent a business. In addition, in order to be considered a business, an acquisition would have to include at a minimum an input and a substantive process that together significantly contribute to the ability to create an output. The amended guidance also narrows the definition of outputs by more closely aligning it with how outputs are described in FASB guidance for revenue recognition. The Company adopted this guidance on January 1, 2018. The adoption of this ASU did not have a material impact on the Company's Consolidated Financial Statements. 
+    
+  In August 2016, the FASB issued ASU 2016-15, Statement of Cash Flows (Topic 230): Classification of Certain Cash Receipts and Cash Payments. This ASU addresses the following eight specific cash flow issues: Debt prepayment or debt extinguishment costs; settlement of zero-coupon debt instruments or other debt instruments with coupon interest rates that are insignificant in relation to the effective interest rate of the borrowing; contingent consideration payments made after a business combination; proceeds from the settlement of insurance claims; proceeds from the settlement of corporate-owned life insurance policies (including bank-owned life insurance policies); distributions received from equity method investees; beneficial interests in securitization transactions; and separately identifiable cash flows and application of the predominance principle. The Company adopted this guidance on January 1, 2018. The adoption of this ASU did not have a material impact on the Company's Consolidated Financial Statements. 
+    
+  In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers (Topic 606). The guidance introduced a new five-step revenue recognition model in which an entity should recognize revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity expects to be entitled in exchange for those goods or services. This ASU also required disclosures sufficient to enable users to understand the nature, amount, timing and uncertainty of revenue and cash flows arising from contracts with customers, including qualitative and quantitative disclosures about contracts with customers, significant judgments and changes in judgments and assets recognized from the costs to obtain or fulfill a contract. The Company adopted this guidance on January 1, 2018. 
+    
+  The Company commenced its assessment of ASU 2014-09 during the second half of 2015 and developed a project plan to guide the implementation. The Company completed this project plan, in which it analyzed the ASU s impact on the Company's contract portfolio, surveyed the Company's businesses and discussed the various revenue streams, completed contract reviews, compared its historical accounting policies and practices to the requirements of the new guidance, identified potential differences from applying the requirements of the new guidance to its contracts and updated and provided training on its accounting policy. The Company also evaluated new disclosure requirements and identified and implemented appropriate changes to its business processes,  
+  
+   29 
+
+     Table of Contents  
+  DOVER CORPORATION 
+  NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS  
+  (Amounts in thousands except share data and where otherwise indicated) (Unaudited) 
+
+systems and controls to support recognition and disclosure under the new guidance. The Company adopted this new guidance using the modified retrospective method that resulted in a cumulative catch-up adjustment of   $0.2 million   to retained earnings as of the date of adoption.  
+
+Item 2.  Management s Discussion and Analysis of Financial Condition and Results     of Operations 
+    
+  Refer to the section below entitled "Special Notes Regarding Forward-Looking Statements" for a discussion of factors that could cause our actual results to differ from the forward-looking statements contained below and throughout this quarterly report. 
+    
+  Throughout this Management s Discussion and Analysis of Financial Condition and Results of Operations ("MD A"), we refer to measures used by management to evaluate performance as well as liquidity, including a number of financial measures that are not defined under accounting principles generally accepted in the United States of America ("GAAP"). We believe these measures provide investors with important information that is useful in understanding our business results and trends. Explanations within this MD A provide more details on the use and derivation of these measures. 
+
+OVERVIEW       
+    
+  Dover is a diversified global manufacturer delivering innovative equipment and components, specialty systems, consumable supplies, software and digital solutions and support services through three operating segments: Engineered Systems, Fluids, and Refrigeration   Food Equipment. The Company's entrepreneurial business model encourages, promotes and fosters deep customer engagement and collaboration, which has led to Dover's well-established and valued reputation for providing superior customer service and industry-leading product innovation. Unless the context indicates otherwise, references herein to "Dover," "the Company," and words such as "we," "us," or "our" include Dover Corporation and its consolidated subsidiaries. 
+    
+  Effective beginning in the second quarter of 2018, Dover's three operating segments are as follows:    
+
+Our Engineered Systems segment is comprised of two platforms, Printing   Identification and Industrials, and is focused on the design, manufacture and service of critical equipment and components serving the fast-moving consumer goods, digital textile printing, vehicle service, environmental solutions and industrial end markets.    
+
+Our Fluids segment, serving the Fueling   Transport, Pumps and Process Solutions end markets, is focused on the safe handling of critical fluids, and providing critical components to the retail fueling, chemical, hygienic, oil and gas, power generation and industrial markets. 
+
+Our Refrigeration   Food Equipment segment is a provider of innovative and energy efficient equipment and systems serving the commercial refrigeration and food equipment end markets.    
+       
+  The following table shows the percentage of total revenue and segment earnings generated by each of our three segments for the three months ended   September 30, 2018   and   2017  :     
+
+In the   third   quarter of   2018  , revenue of   $1.7 billion   was essentially flat as compared to the   third   quarter of   2017  . Results were driven by organic revenue   growth   of   3.1%   and acquisition-related revenue   growth   of   0.3%  . This growth was offset by a revenue decline of   2.8%   due to disposed businesses primarily in our Engineered Systems and Refrigeration   Food Equipment segments and   an unfavorable   impact from foreign currency translation of   0.6%  . 
+    
+  The   3.1%   organic revenue growth was led by   9.1%   organic growth in our Fluids segment, which was driven by strong activity in international retail fueling, industrial pumps and other industrial markets. Engineered Systems segment organic revenue increased   5.2%  , reflecting broad-based growth across the segment with particular strength in our Printing   Identification platform,  
+  
+   30 
+
+     Table of Contents  
+
+environmental solutions and defense businesses. Organic revenue declined   8.8%   in our Refrigeration   Food Equipment segment driven by continued weak retail refrigeration markets, especially with respect to refrigerated door cases.  
+    
+  From a geographic perspective, revenue for the U.S., our largest market, was flat organically year over year, primarily reflecting weakness in our retail refrigeration business. Revenue in Europe and Asia both grew organically year over year.  
+    
+  During the three months ended   September 30, 2018  , we began to execute on our previously announced broad-based selling, general and administrative expense rightsizing initiatives which are designed to increase operating margin, enhance operations and position us for sustained growth and investment. These actions, along with our previous rightsizing programs initiated to better align our cost structure as a result of the Apergy separation, resulted in approximately   $24.2 million   of rightsizing costs across our segments as well as at the corporate level. These charges relate to employee reductions and facility restructuring costs. We incurred rightsizing costs of   $10.6 million   in Engineered Systems,   $10.5 million   in Fluids,   $0.5 million   in Refrigeration   Food Equipment and   $2.6 million   at the corporate level. These charges were recorded in cost of goods and services and selling, general and administrative expenses in the Condensed Consolidated Statement of Earnings. The rightsizing actions taken due to the Apergy separation are substantially complete. We expect to incur total charges of approximately   $39 million   related to selling, general and administrative expense reduction initiatives,   $21 million   of which was incurred during the three months ended   September 30, 2018   and   $18 million   of which we expect to incur during the fourth quarter of 2018 and into the first half of 2019.   
+    
+  During the three months ended   September 30, 2018  , we repurchased   1,729,048   shares of common stock at a total cost of   $147.8 million  , or   $85.48   per share. Together with other repurchases in December 2017 and over the course of 2018, we have substantially completed the $1 billion of share repurchases announced in November 2017. As of   September 30, 2018  ,   11,192,201   shares remain authorized for repurchase under our current share repurchase authorization. 
+
+31 
+
+Table of Contents  
+
+CONSOLIDATED RESULTS OF OPERATIONS 
+
+*  nm - not meaningful   
+    
+  Revenue 
+    
+  In the   third   quarter of   2018  , revenue   decreased     $0.4 million  , essentially flat from the comparable period. Results included organic revenue   growth   of   3.1%   and acquisition-related revenue   growth   of   0.3%  . This growth was partially offset by a revenue decline of   2.8%   due to disposed businesses primarily within our Engineered Systems and Refrigeration   Food Equipment segments and   an unfavorable   impact from foreign currency translation of   0.6%  . Customer pricing favorably impacted revenue by approximately 1.1% in the   third   quarter of   2018  . 
+    
+  Revenue for the   nine months   ended   September 30, 2018     increased     $114.8 million  , or   2.3%  , from the comparable period. The   increase   primarily reflects organic revenue   growth   of   2.8%  , led by our Engineered Systems and Fluids segments, acquisition-related growth of   0.4%   and   a favorable   impact from foreign currency translation of   1.9%  . Revenue growth was partially offset by revenue decline of   2.8%   related primarily to disposed businesses within our Engineered Systems segment. Customer pricing favorably impacted revenue by approximately 0.8% for the   nine months   ended   September 30, 2018  . 
+    
+  Gross Profit 
+    
+  Gross profit for the   three months   ended   September 30, 2018     decreased     $2.7 million  , or   0.4%  , from the comparable period, primarily reflecting higher material costs, inclusive of unfavorable commodity pricing impacts attributable to U.S. Section 232 tariffs, Section 301 tariffs, and temporary costs associated with site consolidations, partially offset by productivity initiatives and the benefits of rightsizing and other restructuring actions taken in 2017. Gross profit margin decreased by 10 basis points for the   three months   ended   September 30, 2018   from the comparable period. 
+    
+  Gross profit for the   nine months   ended   September 30, 2018     increased     $35.4 million  , or   1.9%  , from the comparable period, consistent with the increase in revenues for the period. Gross profit margin decreased by 20 basis points for the   nine months   ended   September 30, 2018   from the comparable period.  
+
+32 
+
+     Table of Contents  
+
+Selling, General and Administrative Expenses 
+    
+  Selling, general and administrative expenses for the   three months   ended   September 30, 2018     increased     $16.4 million  , or   4.0%  , from the comparable period, primarily due to increased restructuring charges of   $17.9 million  , partially offset by the benefit of rightsizing and other restructuring actions. Excluding restructuring, selling, general and administrative expenses as a percentage of revenue improved 10 basis points as compared to the prior year comparable period. 
+    
+  Selling, general and administrative expenses for the   nine months   ended   September 30, 2018     increased     $33.2 million  , or   2.6%  , from the comparable period, reflecting increased restructuring charges of   $22.1 million   and certain costs to support higher year over year sales, partially offset by the benefit of rightsizing and other restructuring actions. Excluding restructuring, selling, general and administrative expenses as a percentage of revenue improved 30 basis points as compared to the prior year comparable period. 
+    
+  Non-Operating Items 
+    
+  Gain on sale of businesses 
+    
+  There was no gain on sale of businesses for the three and   nine months   ended   September 30, 2018   or the three months ended   September 30, 2017  . Gain on sale of businesses of   $90.1 million   for the   nine months   ended   September 30, 2017   was due to the sale of Performance Motorsports International ("PMI") during the first quarter of 2017 for a pre-tax gain of   $88.4 million  , as well as a working capital adjustment for our sale of Tipper Tie in the fourth quarter of 2016. 
+    
+  Income Taxes 
+    
+  The effective tax rates for the   three months   ended   September 30, 2018   and   2017   were   18.5%   and   22.9%  , respectively. The decrease in the effective tax rate for the three months ended   September 30, 2018   relative to the prior comparable period was principally due to the decrease in the U.S. statutory tax rate from   35%   to   21%   and other U.S. tax law changes.  
+    
+  The effective tax rates for the   nine months   ended   September 30, 2018   and   2017   were   19.6%   and   25.3%  , respectively. The decrease in the effective tax rate for the   nine months   ended   September 30, 2018   relative to the prior comparable period was primarily driven by the decrease in the U.S. statutory tax rate from   35%   to   21%   and other U.S. tax law changes.  
+  The discrete items for the three and nine months ended September 30, 2018 primarily resulted from the net tax benefit from stock award exercises. The discrete items for the three and nine months ended September 30, 2017 principally resulted from adjustments to the provision based on filed tax returns in foreign jurisdictions and the effect of the settlement of the 2013 IRS audit. Additionally, the discrete items for the nine months ended September 30, 2017 also included the tax effect of the gain on the sale of PMI.    
+  On December 22, 2017, the SEC staff issued Staff Accounting Bulletin No. 118 ( SAB 118 ) to address the application of U.S. GAAP in situations when a registrant does not have the necessary information available, prepared, or analyzed (including computations) in reasonable detail to complete the accounting for certain income tax effects of the U.S. bill commonly referred to as the Tax Cuts and Jobs Act ( Tax Reform Act ). In accordance with the SAB 118 guidance, the Company recognized the provisional tax impacts related to deemed repatriated earnings and the benefit for the revaluation of deferred tax assets and liabilities in its consolidated financial statements for the year ended December 31, 2017.   For the   nine months   ended   September 30, 2018  , the Company recorded a   $1.3 million   tax benefit, which resulted in a   0.2%     decrease in the effective tax rate, as an adjustment to the provisional estimates as a result of additional regulatory guidance and changes in interpretations and assumptions the Company has made as a result of the Tax Reform Act. In accordance with SAB 118, any additional adjustment to the financial reporting impact of the Tax Reform Act will be completed by the fourth quarter of 2018.    
+  Dover and its subsidiaries file tax returns in the U.S., including various state and local returns and in other foreign jurisdictions.  We believe adequate provision has been made for all income tax uncertainties. The Company is routinely audited by taxing authorities in its filing jurisdictions, and a number of these audits are currently underway. The Company believes that within the next twelve months uncertain tax positions may be resolved and statutes of limitations will expire, which could result in a decrease in the gross amount of unrecognized tax benefits of approximately   zero   to   $10.6 million  . 
+    
+  Earnings from Continuing Operations 
+    
+  Earnings from continuing operations for the three months ended   September 30, 2018     decreased     1.3%   to   $157.3 million  , or   $1.05   diluted earnings per share, from   $159.5 million  , or   $1.01   diluted earnings per share, from the comparable period. The decrease in earnings from continuing operations reflects weakness in the retail refrigeration market served by our Refrigeration   Food  
+  
+   33 
+
+     Table of Contents  
+
+Equipment segment, higher material costs, lost earnings from the Warn Industries Inc. ("Warn") business, which was divested in the fourth quarter of 2017 and higher restructuring costs. This decrease was partially offset by leverage on year over year organic volume growth in our Engineered Systems and Fluids segments, the benefit of lower U.S. tax rates, reduced interest expense, favorable pricing, and the benefit of rightsizing and other restructuring actions taken in 2017 and 2018.  
+    
+  Diluted earnings per share improved due to the benefit of the share repurchase programs initiated in 2018. 
+    
+  Earnings from continuing operations for the   nine months   ended   September 30, 2018     decreased     5.2%   to   $433.2 million  , or   $2.82   diluted earnings per share, from   $457.0 million  , or   $2.90   diluted earnings per share from the comparable period. The   decrease   in earnings from continuing operations was principally attributable to the gain on sale of PMI of $61.7 million, net of tax, recognized during the   nine months   ended   September 30, 2017   and higher restructuring costs. Excluding the PMI gain and restructuring costs, earnings from continuing operations for the three months ended   September 30, 2018   increased $57.9 million, or 14.3%. The increase reflects leverage on year over year volume growth in our Engineered Systems and Fluids segment, the benefit of lower U.S. tax rates, reduced corporate and interest expense, the benefit of rightsizing and other restructuring actions taken in 2017 and 2018 and favorable pricing.  
+    
+  The decrease in diluted earnings per share was offset by the benefit of the share repurchase programs initiated in 2018.  
+    
+  Discontinued Operations 
+    
+  For the three and   nine months   ended   September 30, 2018   and   2017  , the historical results of Apergy were presented as discontinued operations as the spin-off represents a strategic shift in operations with a major impact on our operations and financial results. For the three months ended   September 30, 2018  , there were no earnings or losses presented as discontinued operations. For the   nine months   ended   September 30, 2018  , losses from discontinued operations were   $4.5 million   which included costs incurred by Dover to complete the spin-off of Apergy amounting to   $46.4 million  . For the   three and nine months   ended   September 30, 2017  , earnings from discontinued operations were   $19.5 million   and   $58.2 million  , respectively. 
+
+34 
+
+Table of Contents  
+
+SEGMENT RESULTS OF OPERATIONS 
+
+Engineered Systems 
+  Our Engineered Systems segment is comprised of two platforms, Printing   Identification and Industrials, and is focused on the design, manufacture and service of critical equipment and components serving the fast-moving consumer goods, digital textile printing, vehicle service, environmental solutions and industrial end markets. 
+
+(1)    Excluding gain on sale of businesses, segment earnings was   $337.4 million   and   $301.7 million   for the   nine months   ended   September 30, 2018   and   2017  , respectively. Segment margin was   16.5%   and   15.3%   for the   nine months   ended   September 30, 2018   and   2017  , respectively. 
+   (2)    Excluding gain on sale of businesses, segment EBITDA was   $394.1 million   and   $366.7 million   for the   nine months   ended   September 30, 2018   and   2017  , respectively. Segment EBITDA margin was   19.3%   and   18.5%   for the   nine months   ended   September 30, 2018   and   2017  , respectively.  See "Non-GAAP Disclosures" for definitions of segment EBITDA and segment EBITDA margin. 
+    
+  Third   Quarter   2018   Compared to the   Third   Quarter   2017    
+    
+  Engineered Systems revenue for the   third   quarter of   2018     increased     $0.5 million  , or   0.1%  , as compared to the   third   quarter of   2017  , comprised of broad-based organic   growth   of   5.2%  . This increase was partially offset by a   4.9%   decrease from the 2017 disposition of the consumer and industrial winch business of Warn in the fourth quarter of 2017 and   an unfavorable   impact from foreign currency translation of   0.2%  . Customer pricing favorably impacted revenue by approximately 1.6% in the   third   quarter of   2018  . 
+
+Printing   Identification revenue (representing   42.2%   of segment revenue)   increased     $10.3 million  , or   3.8%  , as compared to the prior year quarter. Organic revenue of 5.2% was partially offset by an unfavorable impact from foreign currency  
+     
+   35 
+
+     Table of Contents  
+
+translation of 1.4%. Organic revenue growth was led by strong activity in our digital printing businesses, complemented by growth in our marking and coding businesses.  
+
+Industrials revenue (representing   57.8%   of segment revenue)   decreased     $9.8 million  , or   2.5%  , as compared to the prior year quarter. The decrease reflects the impact of the Warn disposition of 8.1% partially offset by organic revenue growth of 5.3% and a favorable impact of foreign currency translation of 0.3%. Organic revenue growth was broad-based, with particular strength in our environmental solutions, industrial winch, and defense/commercial aerospace businesses. 
+       
+  Engineered Systems segment earnings   increased     $5.9 million  , or   5.8%  , compared to the   third   quarter of   2017  . This increase was primarily driven by solid conversion on organic volume growth, favorable pricing and productivity initiatives including the benefits of prior year rightsizing actions and current year cost reduction initiatives across both platforms. These benefits more than offset increases in material costs primarily driven by U.S. Section 232 tariffs, most notably commodity cost increases impacting steel, Section 301 tariffs, lost earnings of $6.7 million and disposition costs associated with the divested Warn business and higher restructuring costs. Excluding restructuring charges, lost earnings and disposition costs associated with the Warn divestiture, segment margins increased 200 basis points to 17.8% from 15.8% as compared to the prior year quarter. 
+     
+  Bookings increased   0.5%   for the segment, including organic growth of 5.7%, partially offset by a 4.9% impact from a disposition and an unfavorable impact of 0.3% from foreign currency translation. Bookings for our Industrials platform increased   0.1%  , compared to the prior year quarter, driven by broad-based organic growth which more than offset lost bookings from a divested business. Our Printing   Identification bookings increased   1.0%   compared to the prior year quarter, driven by broad-based organic growth in both our marking and coding businesses which more than offset the unfavorable impact from foreign currency translation. Segment book-to-bill was   0.99  .  
+    
+  Nine Months Ended September 30,     2018   Compared to the   Nine Months Ended September 30,     2017    
+    
+  Engineered Systems revenue for the   nine months   ended   September 30, 2018     increased     $68.0 million  , or   3.4%  , compared to the prior year comparable period. This was comprised of   6.3%   organic revenue growth and   a favorable   impact from foreign currency translation of   2.6%  , which was partly offset by dispositions of   5.7%  . Organic revenue growth was broad-based across both Printing and Identification and Industrials platforms. Customer pricing favorably impacted revenue by approximately 1.0% for the   nine months   ended   September 30, 2018  .  
+    
+  Segment earnings for the   nine months   ended   September 30, 2018     decreased     $52.6 million  , or   13.5%   as compared to the   2017   period. The decrease in earnings was attributable to the $88.4 million gain recognized from the sale of PMI in the first quarter of 2017, increases in material costs, primarily driven by U.S. Section 232 tariffs, most notably commodity cost increases impacting steel, Section 301 tariffs, and higher restructuring costs. Excluding the PMI gain, lost earnings of $23.4 million and disposition costs associated with 2017 divested businesses and incremental restructuring costs, segment earnings increased by $67.0 million, or 23.6%. This increase was primarily driven by solid conversion on organic volume growth, favorable pricing and productivity initiatives including the benefits of prior year rightsizing actions and current year cost reduction initiatives, as well as the net benefit of an earn-out reversal recorded in the second quarter of 2018. Segment margin decreased from   19.7%   to   16.5%   as compared to the prior year quarter primarily due to the gain from the PMI sale in the first quarter of 2017, lost earnings and disposition costs from 2017 divested businesses and incremental restructuring costs. Excluding these items, margins increased 200 basis points from 15.2% to 17.2% from the prior year period. 
+
+36 
+
+Table of Contents  
+
+Fluids 
+  Our Fluids segment, serving the Fueling   Transport, Pumps and Process Solutions end markets, is focused on the safe handling of critical fluids, and providing critical components to the retail fueling, chemical, hygienic, oil and gas, power generation and industrial markets.    
+
+Third   Quarter   2018   Compared to the   Third   Quarter   2017    
+    
+  Fluids revenue for the   third   quarter of   2018     increased     $52.0 million  , or   8.1%  , comprised of organic growth of   9.1%   and acquisition-related growth of   0.5%  , partially offset by   an unfavorable   impact from foreign currency translation of   1.3%  . Customer pricing favorably impacted revenue by approximately 0.8% in the   third   quarter of   2018  . 
+
+Fueling   Transport revenue (representing   53.3%   of segment revenue)   increased     $36.8 million  , or   11.1%  , as compared to the prior year quarter, primarily driven by continued strong international retail fueling activity, specifically in the Asia Pacific region and improving U.S. based Europay, Mastercard and Visa (EMV) activity. Transport revenue improved over the prior year and the rail business experienced strong growth, in part, due to softer volumes experienced in last year s second half and the continued rebound of aftermarket volumes.  
+
+Pumps revenue (representing   24.3%   of segment revenue)   increased     $8.3 million  , or   5.2%  , as compared to the prior year quarter. This increase reflects growth in the oil and gas markets in North America, with improved offshore activity in the Europe, Middle East and Africa region as well. Additionally, strong activity in other industrial markets, specifically biopharma and medical businesses, continue to trend positively.   
+
+Process Solutions revenue (representing   22.4%   of segment revenue)   increased     $6.9 million  , or   4.7%  , as compared to the prior year quarter. This revenue increase was driven by the acquisition of Ettlinger Group ("Ettlinger"), strength in our Asia Pacific markets, continued infrastructure spending by our original equipment manufacturer ("OEM") customers, and polymer plant demand increase.   
+
+37 
+
+     Table of Contents  
+
+Fluids segment earnings   decreased     $1.8 million  , or   1.8%  , over the prior year quarter. The decrease was predominantly driven by incremental restructuring charges taken during the quarter as part of our selling, general and administrative expense reduction initiatives as well as impacts of footprint consolidation and supply chain disruptions. Excluding these items, earnings increased $11.0 million, or 10.5%, over the prior year quarter, driven by pricing initiatives, volume leverage, and continued productivity actions. These benefits were partially offset by increased material costs and U.S. Sections 232 and 301 exposure. Segment margin decreased 150 basis points over the prior year quarter. Excluding the previously mentioned restructuring charges and disruption impacts, segment margin improved 40 basis points over the prior year quarter.  
+    
+  Overall bookings   increased     10.5%   as compared to the prior year quarter, driven by nearly double-digit growth in all of our platforms. Consistent with revenue trends, a substantial portion of our bookings growth was due to continued strength in our international markets. Segment book to bill was   1.05  . 
+    
+  Nine Months Ended September 30,     2018   Compared to the   Nine Months Ended September 30,     2017    
+    
+  Fluids segment revenue   increased     $142.9 million  , or   7.6%  , as compared to the   nine months   ended   September 30, 2017  , attributable to organic growth of   5.6%  , acquisition-related growth of   0.6%  , and   a favorable   impact from foreign currency translation of   1.6%  . The organic growth was principally driven by industrial pump activity and solid biopharma and medical markets, along with continued strength in retail fueling in the Asia Pacific region. Customer pricing favorably impacted revenue by approximately 0.6% for the   nine months   ended   September 30, 2018  . 
+  Fluids segment earnings   decreased     $0.1 million  , or essentially flat, for the   nine months   ended   September 30, 2018  , predominantly driven by increased material costs, costs associated with the exit of a minority interest investment, higher restructuring costs and the productivity impacts of footprint consolidation and supply chain disruptions. Segment margin decreased 100 basis points primarily due to one-time cost impacts driven by footprint consolidations and temporary supply chain disruptions impacting production. Excluding these items and incremental restructuring impacts, segment earnings increased $22.0 million, or 8.1% for the   nine months   ended   September 30, 2018   compared to the prior year period.  
+
+38 
+
+Table of Contents  
+
+Refrigeration   Food Equipment 
+  Our Refrigeration   Food Equipment segment is a provider of innovative and energy efficient equipment and systems serving the commercial refrigeration and food equipment end markets. 
+
+Third   Quarter   2018   Compared to the   Third   Quarter   2017    
+    
+  Refrigeration   Food Equipment revenue   decreased     $52.6 million  , or   12.0%  , as compared to the   third   quarter of   2017  , reflecting an organic revenue   decline   of   8.8%  , the impact from product line dispositions of   3.3%   and   an unfavorable   impact from foreign currency translation of   0.2%  , partially offset by acquisition-related   growth   of   0.3%  . Customer pricing favorably impacted revenue by approximately 0.6% in the   third   quarter   2018  . 
+
+Refrigeration revenue (representing   85.0%   of segment revenue)   decreased     $42.7 million  , or   11.5%  , as compared to the prior year quarter, principally driven by weak capital spending and deferred remodel programs with key U.S. retail refrigeration customers, as well as certain product line exits. The retail refrigeration shortfall was partially offset by increased demand for heat exchanger products, most notably in Europe. 
+                
+    Food Equipment revenue (representing   15.0%   of segment revenue)   decreased     $9.9 million  , or   14.6%  , as compared to the prior year quarter, due to project timing in our can shaping businesses, partially offset by the addition of sales from our Rosario acquisition. 
+     Refrigeration   Food Equipment segment earnings   decreased     $23.0 million  , or   35.1%  , as compared to the   third   quarter of   2017  . Segment margin decreased to   11.0%   from   14.9%   in the prior year quarter due to volume reductions, unfavorable product mix and rising material costs, most notably steel, inclusive of unfavorable commodity pricing impacts attributable to U.S. Section 232 tariffs, more than offsetting productivity gains and rightsizing savings. We continued to take actions in order to reduce operating costs in response to ongoing market softness in our retail refrigeration markets and as part of our selling, general and administrative expense reduction initiatives. 
+  Bookings in the   third   quarter of   2018     decreased     7.2%   from the prior year quarter driven by market softness in retail refrigeration and timing of project orders in our can shaping businesses. Segment book to bill for the   third   quarter of   2018   was   0.86  . Backlog   decreased     15.5%   over the prior year quarter as a result of reduced orders in our retail refrigeration and can-shaping businesses.  
+  
+   39 
+
+     Table of Contents  
+
+Nine Months Ended September 30,     2018   Compared to the   Nine Months Ended September 30,     2017    
+    
+  Refrigeration   Food Equipment segment revenue   decreased     $95.7 million  , or   7.8%  , compared to the   nine months   ended   September 30, 2017  , reflecting an organic revenue decline of   7.2%   and the impact from product line dispositions of   2.2%  , partially offset by a favorable foreign currency translation of   1.1%   and acquisition-related growth of   0.5%  . The organic revenue decrease for the   nine months   ended   September 30, 2018   was driven primarily by soft U.S. retail refrigeration market activity. Customer pricing favorably impacted revenue by approximately 0.8% for the   nine months   ended   September 30, 2018  . 
+  Refrigeration   Food Equipment segment earnings   decreased     $41.8 million  , or   25.4%  , for the   nine months   ended   September 30, 2018  , as compared to the prior year period. Segment margin decreased to   10.9%   from   13.5%   in the prior year period, as benefits from rightsizing and other restructuring actions, productivity gains and lower restructuring costs were more than offset by volume reductions, unfavorable product mix in our can shaping business and and a favorable $1.7 million one-time disposition gain in 2017 due to a working capital adjustment. 
+
+40 
+
+Table of Contents  
+
+FINANCIAL CONDITION 
+    
+  We assess our liquidity in terms of our ability to generate cash to fund our operating, investing and financing activities. Significant factors affecting liquidity are: cash flows generated from operating activities, capital expenditures, acquisitions, dispositions, dividends, repurchases of outstanding shares, adequacy of available commercial paper and bank lines of credit, and the ability to attract long-term capital with satisfactory terms. We generate substantial cash from the operations of our businesses and remain in a strong financial position, with sufficient liquidity available for reinvestment in existing businesses and strategic acquisitions, while managing our capital structure on a short and long-term basis. 
+    
+  Cash Flow Summary 
+    
+  The following table is derived from our Condensed Consolidated Statements of Cash Flows: 
+
+Operating Activities 
+    
+  Cash provided by operating activities for the   nine months   ended   September 30, 2018     decreased   approximately   $35.3 million   compared to the comparable period in   2017  . This   decrease   was primarily driven by higher investments in working capital of   $98.4 million   relative to the prior year in support of growth in organic bookings. The decrease was also attributable to higher compensation payouts primarily as a result of improved 2017 performance compared to 2016. These reductions were partially offset by higher continuing earnings before the impact of depreciation, amortization and gain on sale of businesses.  
+    
+  Adjusted Working Capital:   We believe adjusted working capital (a non-GAAP measure calculated as accounts receivable, plus inventory, less accounts payable) provides a meaningful measure of our operational results by showing changes caused solely by revenue.  
+
+Adjusted working capital   increased   from   December 31, 2017   by   $160.6 million  , or   16.4%  , to   $1.1 billion   at   September 30, 2018  , which reflected   an increase   of   $100.3 million   in accounts receivable and   an increase   of   $126.9 million   in inventory, partially offset by   an increase   in accounts payable of   $66.6 million  . Excluding acquisitions and the effects of foreign currency translation, adjusted working capital increased by $169.0 million, or 17.3%, for the   nine months   ended   September 30, 2018   primarily driven by higher investments in working capital to support growth in organic bookings.  
+    
+  Investing Activities 
+    
+  Cash provided by or used in investing activities generally results from cash outflows for capital expenditures and acquisitions, offset by proceeds from sales of businesses and property, plant and equipment. For the   nine months   ended   September 30, 2018   and   2017  , we used cash through investing activities of   $210.1 million   and   $7.6 million  , respectively, driven mainly by the following factors: 
+
+Acquisitions:   During the   nine months   ended   September 30, 2018  , we acquired Ettlinger, within the Fluids segment for $53.2 million, net of cash acquired, and Rosario, within the Refrigeration   Food Equipment segment for   $15.3 million  , net of cash acquired. During the   nine months   ended   September 30, 2017  , we acquired Caldera within the Engineered Systems segment for a cash consideration of   $25.6 million  .  
+
+41 
+
+     Table of Contents  
+
+Capital spending:   Our capital expenditures   increased     $4.2 million   during the   nine months   ended   September 30, 2018   compared to the   nine months   ended   September 30, 2017   primarily due to investments in support of increased sales. 
+
+Proceeds from sale of businesses:   For the   nine months   ended   September 30, 2018  , we received proceeds of   $2.1 million   primarily from the sale of a small business in the fourth quarter of 2017. For the   nine months   ended   September 30, 2017  , we generated cash of   $121.2 million   from the sale of PMI as well as from a working capital adjustment for our sale of Tipper Tie in the fourth quarter of 2016. 
+       
+  We anticipate that capital expenditures and any acquisitions we make through the remainder of   2018   will be funded from available cash and internally generated funds and through the issuance of commercial paper, use of established lines of credit or public or private debt or equity markets, as necessary. 
+    
+  Financing Activities 
+    
+  Our cash flow from financing activities generally relates to the use of cash for the repurchase of our common stock and payments of dividends, offset by net borrowing activity and proceeds from the exercises of share-based awards. For the   nine months   ended   September 30, 2018   and   2017  , we used cash totaling   $749.3 million   and   $507.2 million  , respectively, for financing activities, with the activity primarily attributable to the following: 
+
+Cash received from Apergy, net of cash distributed:   In connection with the separation of Apergy from Dover, Apergy incurred borrowings to fund a one-time cash payment of $700.0 million to Dover in connection with Dover's contribution to Apergy of stock and assets relating to the businesses spun off with Apergy. Dover received net cash of   $689.6 million   upon separation, which reflects   $10.4 million   of cash held by Apergy at the time of distribution and retained by it in in connection with its separation from Dover.  
+
+Repurchase of common stock, including prepayment under an accelerated share repurchase program:   During the   nine months   ended   September 30, 2018  , we used   $45.0 million   to repurchase   440,608   shares under our January 2015 authorization, which expired on January 9, 2018, and, under a new share repurchase authorization adopted by the Board of Directors in February 2018, we repurchased   1,729,048   shares of common stock at a total cost of   $147.8 million   and used   $700 million   to repurchase a variable number of shares through an accelerated share repurchase transaction. We funded the accelerated share repurchase primarily with funds received from Apergy in connection with the consummation of the Apergy spin-off. There were   no   repurchases during the   nine months   ended   September 30, 2017  .   
+
+Long-term debt and commercial paper and notes payable:   During the   nine months   ended   September 30, 2018  , we received net proceeds from commercial paper and notes payable of   $67.6 million  . We increased net borrowings from commercial paper to partially fund the repayment of the Company's $350.0 million 5.45% notes, which matured on March 15, 2018, offset by borrowings paid down with cash repatriated to the U.S. For the   nine months   ended   September 30, 2017  , we repaid   $279.9 million   of commercial paper.  
+
+Payments to settle employee tax obligations:   Payments to settle tax obligations from the exercise of share based awards   increased     $30.6 million   compared to the prior year period. This increase is primarily due to the increased number of shares exercised as well as an increase in the average stock price compared to the prior year period. 
+       
+  Cash Flows from Discontinued Operations 
+    
+  Our cash flows from discontinued operations for the   nine months   ended   September 30, 2018   and   2017   used   $7.9 million   and generated   $31.1 million  , respectively. These cash flows reflect the operating results of Apergy prior to its separation during the second quarter. Cash flows used in discontinued operations for the   nine months   ended   September 30, 2018   primarily reflects cash payments of spin-off costs of $46.0 million and capital expenditures, partially offset by cash provided by operations of approximately $61.8 million. Cash flow generated for the   nine months   ended   September 30, 2017   primarily reflects cash provided by discontinued operations of approximately   $57.9 million  , partially offset by capital expenditures.  
+
+42 
+
+     Table of Contents  
+
+Liquidity and Capital Resources 
+    
+  Free Cash Flow 
+    
+  In addition to measuring our cash flow generation and usage based upon the operating, investing and financing classifications included in the Condensed Consolidated Statements of Cash Flows, we also measure free cash flow (a non-GAAP measure) which represents net cash provided by operating activities minus capital expenditures. We believe that free cash flow is an important measure of operating performance because it provides management and investors a measurement of cash generated from operations that is available for mandatory payment obligations and investment opportunities, such as funding acquisitions, paying dividends, repaying debt and repurchasing our common stock. 
+    
+  The following table reconciles our free cash flow to cash flow provided by operating activities: 
+
+For the   nine months   ended   September 30, 2018  , we generated free cash flow of   $284.1 million  , representing   5.5%   of revenue and   65.6%   of earnings from continuing operations. Free cash flow for the   nine months   ended   September 30, 2018     decreased     $39.5 million   compared to the prior year period, primarily due to lower cash flow provided by operations, as previously noted, as well as higher capital expenditures. Reflected in cash flow provided by operating activities for the   nine months   ended   September 30, 2018   and 2017 is $38.6 million and $15.8 million, respectively, of cash paid for restructuring actions.  
+    
+  Capitalization 
+    
+  We use commercial paper borrowings for general corporate purposes, including the funding of acquisitions and the repurchase of our common stock. We maintain a $1.0 billion, five-year, unsecured committed revolving credit facility (the "Credit Agreement") with a syndicate of banks which will expire on November 10, 2020. The Credit Agreement is used as liquidity back-up for our commercial paper program. We have not drawn down any loans under the facility nor do we anticipate doing so. Under the Credit Agreement, we are required to pay a facility fee and to maintain an interest coverage ratio of consolidated EBITDA to consolidated net interest expense of not less than 3.0 to 1.0. We were in compliance with this covenant and our other long-term debt covenants at   September 30, 2018   and had a coverage ratio of   10.2 to 1.0  . We are not aware of any potential impairment to our liquidity and expect to remain in compliance with all of our debt covenants.  
+    
+  On March 15, 2018, the outstanding   5.45%   notes with a principal value of $350.0 million matured.   The repayment of debt was funded by the Company's commercial paper program and through a reduction of existing cash balances.    
+    
+  We also have a current shelf registration statement filed with the Securities and Exchange Commission that allows for the issuance of additional debt securities that may be utilized in one or more offerings on terms to be determined at the time of the offering. Net proceeds of any offering would be used for general corporate purposes, including repayment of existing indebtedness, capital expenditures and acquisitions. 
+    
+  At   September 30, 2018  , our cash and cash equivalents totaled   $209.3 million  , of which $177.9 million was held outside the United States. At   December 31, 2017  , our cash and cash equivalents totaled   $754.0 million  , of which $609.8 million was held outside the United States. The reduction in non U.S. cash from   December 31, 2017   was primarily the result of repatriating $502.5 million  to the U.S. during the   nine months   ended   September 30, 2018  . Cash and cash equivalents are invested in highly liquid investment-grade money market instruments and bank deposits with maturities of three months or less. We regularly invest cash in excess of near-term requirements in money market instruments or short-term investments, which consist of investment grade time deposits with original maturity dates at the time of purchase of no greater than three months.      
+  
+   43 
+
+     Table of Contents  
+
+We utilize the net debt to net capitalization calculation (a non-GAAP measure) to assess our overall financial leverage and capacity and believe the calculation is useful to investors for the same reason. Net debt represents total debt minus cash and cash equivalents.  Net capitalization represents net debt plus stockholders' equity. The following table provides a reconciliation of net debt to net capitalization to the most directly comparable GAAP measures: 
+
+Our net debt to net capitalization ratio increased to   52.8%   at   September 30, 2018   from   39.1%   at   December 31, 2017  . The increase in this ratio was driven primarily by the reduction in our net capitalization of   $1.4 billion   for the period due to the   $906.8 million   distribution of Apergy,   $892.8 million   in share repurchases including prepayment under an accelerated share repurchase program, and   $213.1 million   of dividends, offset by   $428.7 million   of current earnings. As described above, we also received a cash payment of   $689.6 million   from Apergy upon distribution on May 9, 2018, which was used to fund share repurchases. Net debt increased   $257.5 million   during the period primarily due to a reduction in cash levels to fund dividends and other operating purposes, offset by net reduction in current maturities of long term debt as a result of the repayment of the $350.0 million note maturing on March 15, 2018. 
+    
+  Operating cash flow and access to capital markets are expected to satisfy our various cash flow requirements, including acquisitions and capital expenditures. Acquisition spending and/or share repurchases could potentially increase our debt.  
+    
+  Critical Accounting Policies and Estimates 
+    
+  Our Condensed Consolidated Financial Statements and related public financial information are based on the application of GAAP which requires the use of estimates, assumptions, judgments and subjective interpretations of accounting principles that have an impact on the assets, liabilities, revenue and expense amounts reported. These estimates can also affect supplemental information contained in our public disclosures, including information regarding contingencies, risk and our financial condition. We believe our use of estimates and underlying accounting assumptions conform to GAAP and are consistently applied. We review valuations based on estimates for reasonableness on a consistent basis. 
+    
+  Recent Accounting Standards 
+    
+  See Part 1, Notes to Condensed Consolidated Financial Statements,   Note 20   Recent Accounting Pronouncements  .  The adoption of recent accounting standards as included in   Note 20   Recent Accounting Pronouncements   in the Condensed Consolidated Financial Statements has not had and is not expected to have a significant impact on our revenue, earnings or liquidity. 
+    
+  Special Notes Regarding Forward-Looking Statements 
+    
+  This Quarterly Report on Form 10-Q, especially "Management s Discussion and Analysis of Financial Condition and Results of Operations," contains "forward-looking" statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements in this document other than statements of historical fact are statements that are, or could be deemed,  forward-looking  statements. Some of these statements may be indicated by words such as  may ,  anticipate ,  expect , believe ,  intend ,  guidance ,  estimates ,  suggest ,  will ,  plan ,  should ,  would ,  could ,  forecast  and other words and terms that use the future tense or have a similar meaning.  Forward-looking statements are based on current expectations and are subject to numerous important risks, uncertainties, assumptions and other factors, some of which are beyond the Company s control.  Factors that could cause actual results to differ materially from current expectations include, among other things, general economic conditions and conditions in the particular markets in which we operate, changes in customer demand and capital spending, competitive factors  
+  
+   44 
+
+     Table of Contents  
+
+and pricing pressures, our ability to develop and launch new products in a cost-effective manner, changes in law, including the effect of U.S. tax reform and developments with respect to trade policy and tariffs, our ability to identify and complete acquisitions and integrate and realize synergies from newly acquired businesses, the impact of interest rate and currency exchange rate fluctuations, capital allocation plans and changes in those plans, including with respect to dividends, share repurchases, investments in research and development, capital expenditures and acquisitions, our ability to derive expected benefits from restructuring, productivity initiatives and other cost reduction actions, changes in material costs or the supply of input materials, the impact of legal compliance risks and litigation, including with respect to product quality and safety, cybersecurity and privacy, our ability to capture and protect intellectual property rights, and various other factors that are described in our periodic reports filed with or furnished to the Securities and Exchange Commission, including our Annual Report on Form 10-K/A for the year ended   December 31, 2017  . The Company undertakes no obligation to publicly update any forward-looking statement, whether as a result of new information, future events or otherwise. 
+    
+  The Company may, from time to time, post financial or other information on its website, www.dovercorporation.com. The website is for informational purposes only and is not intended for use as a hyperlink. The Company is not incorporating any material on its website into this report. 
+    
+  Non-GAAP Disclosures 
+  In an effort to provide investors with additional information regarding our results as determined by GAAP, we also disclose non-GAAP information that we believe provides useful information to investors. Segment EBITDA, segment EBITDA margin, free cash flow, net debt, net capitalization, the net debt to net capitalization ratio, adjusted working capital and organic revenue growth are not financial measures under GAAP and should not be considered as a substitute for cash flows from operating activities, debt or equity, earnings, revenue or working capital as determined in accordance with GAAP, and they may not be comparable to similarly titled measures reported by other companies. We believe that segment EBITDA and segment EBITDA margin are useful to investors and other users of our financial information in evaluating ongoing operating profitability as they exclude the depreciation and amortization expense related primarily to capital expenditures and acquisitions that occurred in prior years, as well as in evaluating operating performance in relation to our competitors. Segment EBITDA is calculated by adding back depreciation and amortization expense to segment earnings, which is the most directly comparable GAAP measure. We do not present segment net income because corporate expenses are not allocated at a segment level. Segment EBITDA margin is calculated as segment EBITDA divided by segment revenue.  
+  We believe the net debt to net capitalization ratio and free cash flow are important measures of liquidity. Net debt to net capitalization is helpful in evaluating our capital structure and the amount of leverage we employ. Free cash flow provides both management and investors a measurement of cash generated from operations that is available to fund acquisitions, pay dividends, repay debt and repurchase our common stock. Reconciliations of free cash flow, net debt and net capitalization can be found above in this Item 2, MD A. We believe that reporting adjusted working capital, which is calculated as accounts receivable, plus inventory, less accounts payable, provides a meaningful measure of our operational results by showing the changes caused solely by revenue. We believe that reporting organic revenue and organic revenue growth, which exclude the impact of foreign currency exchange rates and the impact of acquisitions and divestitures, provides a useful comparison of our revenue performance and trends between periods. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+    
+  There has been no significant change in our exposure to market risk during the   nine months   ended   September 30, 2018  . For a discussion of our exposure to market risk, refer to Item 7A, "Quantitative and Qualitative Disclosures about Market Risk," contained in our Annual Report on Form 10-K/A for the fiscal year ended   December 31, 2017  . 
+
+Item 4  .   Controls and Procedures 
+    
+  At the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with the participation of the Company s management, including the Company s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of the Company s disclosure controls and procedures pursuant to Exchange Act Rule 13a-15(e). Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures were effective as of   September 30, 2018  . 
+    
+  During the   third   quarter of   2018  , there were no changes in the Company s internal control over financial reporting that materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+
+45 
+
+Table of Contents  
+
+PART II   OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+    
+  See Part I, Notes to Condensed Consolidated Financial Statements,   Note 14   Commitments and Contingent Liabilities  . 
+
+Item 1A. Risk Factors 
+    
+  There have been no material changes from the risk factors previously disclosed in our Annual Report on Form 10-K/A for the year ended   December 31, 2017   and our Quarterly Report on Form 10-Q for the quarter ended June 30, 2018.   
+   
+  Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+    
+           (a) 
+    Not applicable. 
+              (b) 
+    Not applicable. 
+              (c) 
+    The table below presents shares of Dover stock that we acquired during the quarter.  
+
+(1)    In February 2018, the Company's Board of Directors approved a new standing share repurchase authorization, whereby the Company may repurchase up to   20 million   shares of its common stock through December 31, 2020. The Company repurchased   1,729,048   shares under the February 2018 authorization during the three months ended   September 30, 2018  . As of   September 30, 2018  , the number of shares still available for repurchase under the February 2018 share repurchase authorization was   11,192,201  .  
+   
+  Item 3. Defaults Upon Senior Securities 
+    
+  Not applicable. 
+
+Item 4. Mine Safety Disclosures 
+    
+  Not applicable. 
+
+Item 5. Other Information 
+    
+  Under the Iran Threat Reduction and Syrian Human Rights Act of 2012, which added Section 13(r) of the Exchange Act, we are required to disclose in our periodic reports if we or any of our affiliates knowingly engaged in certain activities, transactions or dealings relating to Iran or with certain Iran-related entities or individuals designated pursuant to certain Executive Orders. Disclosure is required even where the activities are authorized by and in compliance with applicable law. In connection with the easing of certain sanctions by the U.S. against Iran in January 2016 and in compliance with the economic sanctions regulations administered by U.S. Treasury s Office of Foreign Assets Control ( OFAC ), a wholly-owned non-U.S. subsidiary in our Fluids segment sold non-U.S. origin spare parts related to the oil, gas and/or petrochemical sectors to Iranian counterparties and non-U.S. origin pump and filtering equipment to European engineering parties with end use in the petrochemical sector in Iran, which resulted in revenue of approximately  869.5 thousand and net profits of approximately  470.6 thousand in the third quarter of 2018. On May 8, 2018, President Trump announced his decision to re-impose secondary sanctions against Iran. In response, on June 27, 2018, OFAC revoked General License H, with a provision authorizing the wind down of transactions  
+  
+   46 
+
+     Table of Contents  
+
+previously authorized under General License H pursuant to 31 CFR  560.537.  The sales described above were made by our non-U.S. subsidiary pursuant to contracts entered into prior to May 8, 2018, and in compliance with the terms and conditions of OFAC s General License H and the applicable wind-down license. Our non-U.S. subsidiary will complete all wind down activities by November 4, 2018 in compliance with U.S. economic sanctions laws. 
+  
+   47 
+
+Table of Contents  
+
+Item 6. Exhibits 
+                  31.1  
+     Certificate pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended, signed and dated by Brad M. Cerepak.  
+
+31.2  
+     Certificate pursuant to Rule 13a-14(a) of the Securities Exchange Act of 1934, as amended, signed and dated by Richard J. Tobin.  
+
+32  
+     Certificate pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, signed and dated by Richard J. Tobin and Brad M. Cerepak.  
+
+101 
+    The following materials from Dover Corporation s Quarterly Report on Form 10-Q for the quarter ended September 30, 2018 formatted in XBRL (eXtensible Business Reporting Language):  (i) the Condensed Consolidated Statements of Earnings, (ii) the Condensed Consolidated Statements of Comprehensive Earnings, (iii) the Condensed Consolidated Balance Sheets, (iv) the Condensed Consolidated Statement of Stockholders  Equity, (v) the Condensed Consolidated Statements of Cash Flows, and (vi) Notes to the Condensed Consolidated Financial Statements. 
+
+48 
+
+Table of Contents  
+
+Signatures 
+    
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report on Form 10-Q to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+DOVER CORPORATION 
+
+Date: 
+    October 18, 2018 
+    /s/ Brad M. Cerepak  
+
+Brad M. Cerepak 
+
+Senior Vice President   Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+Date: 
+    October 18, 2018 
+    /s/ Carrie Anderson 
+
+Carrie Anderson 
+
+Vice President, Controller 
+
+(Principal Accounting Officer) 
+
+49 
+
+<EX-31.1>
+ 2
+ a2018093010-qexhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  Certification 
+  I, Brad M. Cerepak, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Dover Corporation; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+                      Date: 
+    October 18, 2018 
+    /s/ Brad M. Cerepak 
+
+Brad M. Cerepak 
+
+Senior Vice President   Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a2018093010-qexhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  Certification 
+  I, Richard J. Tobin, certify that: 
+           1. 
+    I have reviewed this Quarterly Report on Form 10-Q of Dover Corporation; 
+              2. 
+    Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+              3. 
+    Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+              4. 
+    The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+              (a) 
+    Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+              (b) 
+    Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+              (c) 
+    Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and 
+              (d) 
+    Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+              5. 
+    The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+              (a) 
+    All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+              (b) 
+    Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+                      Date: 
+    October 18, 2018 
+    /s/ Richard J. Tobin 
+
+Richard J. Tobin 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer)  
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ a2018093010-qexhibit32.htm
+ EXHIBIT 32
+
+Exhibit 
+
+Exhibit 32 
+  Certification 
+  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+  with Respect to the Quarterly Report on Form 10-Q 
+  for the Period ended   September 30, 2018    
+  of Dover Corporation 
+    
+  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (subsections (a) and (b) of section 1350, chapter 63 of title 18, United States Code), each of the undersigned officers of Dover Corporation, a Delaware corporation (the  Company ), does hereby certify, to such officer s knowledge, that: 
+            2. 
+    Information contained in the Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+                      Dated: 
+    October 18, 2018 
+    /s/ Richard J. Tobin 
+
+Richard J. Tobin 
+
+President and Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Dated: 
+    October 18, 2018 
+    /s/ Brad M. Cerepak  
+
+Brad M. Cerepak 
+
+Senior Vice President   Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+The certification set forth above is being furnished as an exhibit solely pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and is not being filed as part of the Form 10-Q or as a separate disclosure document of the Company or the certifying officers. 
+
+</EX-32>
+
+<EX-101.INS>
+ 5
+ dov-20180930.xml
+ XBRL INSTANCE DOCUMENT
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 6
+ dov-20180930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ dov-20180930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ dov-20180930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ dov-20180930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ dov-20180930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

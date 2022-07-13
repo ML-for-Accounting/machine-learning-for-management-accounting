@@ -1,0 +1,1707 @@
+TIES
+AND EXCHANGE COMMISSION   
+
+   WASHINGTON,
+D.C. 20549   
+
+FORM
+10-Q   
+
+For
+the quarterly period ended June 30, 2018   
+
+OR 
+
+For
+the transition period ___________________ to _____________________.  
+
+Commission
+file number 1-13810  
+
+SOCKET
+MOBILE, INC.   
+
+  (Exact
+name of registrant as specified in its charter)  
+
+39700
+Eureka Drive, Newark, CA 94560   
+
+  (Address
+of principal executive offices including zip code)  
+
+(510)
+933-3000   
+
+  (Registrant s
+telephone number, including area code)  
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. YES [ X ] NO [ ]  
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T ( 232.405 of this chapter) during the
+preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). YES [ X ] NO
+[ ]  
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company. See the definitions of  large accelerated filer,   accelerated filer,  and  smaller
+reporting company  in Rule 12b-2 of the Exchange Act.  
+
+  Large
+accelerated filer [ ] Accelerated filer [ ] Non-accelerated filer [ ] Smaller reporting company [X] Emerging growth company [
+]  
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES [ ] NO [X]  
+
+The
+number of shares of Common Stock ($0.001 par value) outstanding as of August 6, 2018 was 5,883,109 shares.  
+
+INDEX   
+
+Index   
+
+PART
+I   
+
+     Item
+1. Financial Statements   
+
+See
+accompanying notes to condensed financial statements.  
+
+Index   
+
+See
+accompanying notes to condensed financial statements.   
+
+Index   
+
+See
+accompanying notes to condensed financial statements.  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018    
+
+NOTE
+1       Basis of Presentation   
+
+The
+accompanying unaudited condensed financial statements of Socket Mobile, Inc. (the  Company ) have been prepared in
+accordance with accounting principles generally accepted in the United States for interim financial information and with the instructions
+to Form 10-Q and Article 8 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by
+accounting principles generally accepted in the United States for complete financial statements. In the opinion of management,
+all adjustments, consisting only of normal recurring accruals considered necessary for fair presentation have been included. The
+results of operations for the interim periods are not necessarily indicative of the operating results for the full fiscal year
+or any future period. These financial statements should be read in conjunction with the audited financial statements and notes
+included in the Company s Annual Report on Form 10-K for the year ended December 31, 2017.  
+
+NOTE
+2   Summary of Significant Accounting Policies   
+
+Use
+of Estimates   
+
+  The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States requires
+management to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent
+assets and liabilities at the date of the financial statements, and the reported amounts of revenue and expense during the reporting
+period. Actual results could differ from those estimates, and such differences may be material to the financial statements.  
+
+Cash
+Equivalents and Fair Value of Financial Instruments   
+
+  The
+Company considers all highly liquid investments purchased with a maturity date of 90 days or less at date of purchase to be cash
+equivalents. At June 30, 2018 and December 31, 2017, all of the Company s cash and cash equivalents consisted of amounts
+held in demand deposit accounts in banks. The aggregate cash balance on deposit in these accounts are insured by the Federal Deposit
+Insurance Corporation up to $250,000. The Company s cash balance on deposit in these accounts may, at times, exceed the
+federally insured limits. The Company has never experienced any losses in such accounts.  
+
+The
+carrying value of the Company s cash and cash equivalents, accounts receivable, accounts payable, debt and foreign exchange
+contracts approximate fair value due to the relatively short period of time to maturity.  
+
+Revenue
+Recognition and Deferred Revenue   
+
+  On
+January 1, 2017, the Company adopted ASU No. 2014-09 (now ASC 606  Revenue from Contracts with Customers ) and implemented
+a new revenue recognition policy. Instead of deferring 100% of revenue and cost of revenue until products are sold by distributors,
+under the new policy, we recognized revenue on sales to distributors when shipping of product is completed and title transfers
+to the distributor, less a reserve for estimated product returns (sales and cost of sales). The reserves are based on estimates
+of future returns calculated from actual return history plus knowledge of pending returns outside of the norm. Actual return history
+is approximately 17% of the channel inventory, primarily from stock rotations. On January 1, 2017, the Company recorded a one-time
+reduction (debit) to net deferred revenue in the amount of $836,000 less the deferred tax effects of $333,000 for a net improvement
+in retained deficit of $503,000. At June 30, 2018, the deferred revenue and deferred cost on shipments to distributors were approximately
+$441,000 and $181,000 respectively, compared to approximately $493,000 and $204,000, respectively, at December 31, 2017.  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018  
+
+NOTE
+3   Inventories   
+
+Inventories
+consist principally of raw materials and sub-assemblies, which are stated at the lower of cost (first-in, first-out) or market.
+Inventories at June 30, 2018 and December 31, 2017 were as follows:  
+
+NOTE
+4   Short Term Related Party Convertible Notes Payable   
+
+The
+Company s Subordinated Convertible Notes of $752,625 matured on September 4, 2017. At the option of the note holders, note
+payable principal and accrued interest totaling $1,216,109 was converted into 972,884 shares of common stock at a conversion rate
+of $1.25 per share. The conversion reduced current liabilities and increased stockholders  equity by $1,216,109. These 4-year
+notes were originally issued on September 4, 2013 to officers and directors of the company and converted into common stock at
+maturity pursuant to the terms of the notes. Accrued interest was $441,306 at June 30, 2017 and was included in Accounts Payable
+and Accrued Expenses. Interest expense on these convertible notes for the three and six months ended June 30, 2017 was $29,789
+and $58,497, respectively.  
+
+NOTE
+5   Bank Financing Arrangements   
+
+On
+January 31, 2018, the Company entered into an Amended and Restated Business Financing Agreement (the  Third Financing Agreement )
+with Western Alliance Bank (the  Bank), that provides for a $2.5 million revolving line of credit and a $4.0 million term
+loan that the Company may use to repurchase shares of common stock. Pursuant to the revolving line of credit, the Company is permitted
+to borrow up to the lesser of $2.5 million or 80% of eligible accounts receivables. Amounts outstanding under the line of credit
+bear interest at the  U.S. Prime Rate  published by the Wall Street Journal plus 0.75%. Interest is payable monthly
+on the line of credit, and the principal is due upon the maturity date of January 31, 2020. Amounts outstanding under the term
+loan bear interest at the  U.S. Prime Rate  published by the Wall Street Journal plus 1.75%. Following a three-month
+interest only period, the term loan is payable in 45 equal monthly installments of principal and interest. The loans are secured
+by all of the Company s present and future assets, including intellectual property and general intangibles. Termination
+of the revolving line of credit or term loan prior to its termination date may be subject to early termination fees, subject to
+certain exceptions. Amounts repaid or prepaid under the term loan may not be reborrowed. At the end of each quarter through the
+quarter ending December 31, 2018, the Company is required to prepay outstanding term loan principal in an amount equal to 25%
+of excess cash flow, as set forth in the Third Financing Agreement, for the most recent quarter ended. The Company is also obligated
+to pay customary fees for a loan facility of this size and type.  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018  
+
+The
+Third Financing Agreement contains customary affirmative and negative covenants, including covenants that limit or restrict the
+Company s ability to, among other things, grant liens, make investments, incur indebtedness, merge or consolidate, dispose
+of assets, make acquisitions, pay dividends or make distributions, repurchase stock, enter into transactions with affiliates and
+enter into restrictive agreements, in each case subject to customary exceptions for a credit facility of this size and type. The
+Company is also required to maintain compliance with an asset coverage ratio measured monthly, which requirements increase during
+the term of the Financing Agreement, a fixed charge coverage ratio of no less than 1.75 to 1.0, measured quarterly, and a total
+funded debt to trailing twelve months EBITDA multiple of not more than 1.75 to 1.0, measured monthly.  
+
+The
+Third Financing Agreement also contains customary events of default including, among others, payment defaults, breaches of covenants,
+bankruptcy and insolvency events, cross defaults with certain material indebtedness, judgment defaults, and breaches of representations
+and warranties. Upon an event of default, the Bank may declare all or a portion of the Company s outstanding obligations
+payable to be immediately due and payable and exercise other rights and remedies provided for under the Financing Agreement. During
+the existence of an event of default, interest on the obligations could be increased.  
+
+On
+March 1, 2018, the Company received proceeds of $4.0 million under the provisions of the term loan for a common stock repurchase.
+On March 9, 2018, the Company completed a tender offer to purchase and retire 1,250,000 shares of common stock from multiple investors
+at a purchase price of $3.90 per share, for an aggregate cost of approximately $4.9 million, excluding fees and expenses relating
+to the tender offer.  
+
+On
+April 12, 2018, the Company advised the Bank that its operating results for the quarter ended March 31, 2018 were not expected
+to be in compliance with two financial covenants, the first a Fixed Charge Coverage Ratio and the second a Total Funded Debt to
+EBITDA ratio. The Company reported the non-compliance in its Form 10-Q for the quarter ended March 31, 2018. The Bank verbally
+agreed to forbear the events of default subject to further modification of the Financing Agreement. The Company subsequently paid
+down the term loan from $4.0 million at March 31, 2018 to $1.0 million at June 30, 2018. The paydowns were made from its cash
+and revolving lines of credit.  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018  
+
+On
+June 4, 2018, the Company entered into an Amended and Restated Business Financing Agreement (the  Fourth Financing Agreement )
+with the Bank. In the Fourth Financing Agreement, the Bank recognizes the repayment of the outstanding term loan balance to $1.0
+million by June 30, 2018. The remaining balance is repayable in 24 equal monthly installments. The Fixed Charge Coverage Ratio
+is replaced with a commitment to maintain cash plus available credit at or above the term loan balance. The Total Funded Debt
+to EBITDA ratio and the excess cash flow application provisions that were designed to accelerate the pay down of the term loan
+balance are removed. The Bank permanently waived the defaults resulting from March 31, 2018 results when pay down of the term
+loan balance to $1.0 million by June 30, 2018 was achieved. In the Fourth Financing Agreement, the Company is required to maintain
+compliance with the Asset Coverage Ratio measured monthly. The required Asset Coverage Ratio at June 30, 2018 was 1.0 to 1.0.  
+
+On
+July 30, 2018, the Company entered into an Amended and Restated Business Financing Agreement (the  Fifth Financing Agreement )
+with the Bank. The Company is required to maintain daily cash plus available credit at or above 90% of the outstanding principal
+balance of the term loan until the Asset Coverage Ratio is at 1.25 to 1.0. The Asset Coverage Ratio increases to 1.2 to 1.0 on
+October 1, 2018 and to 1.25 to 1.0 on December 31, 2018.  
+
+As
+of June 30, 2018, the total amount borrowed under the domestic and international lines was $5.716 million and the total repayments
+was $4.181 million. No amounts were drawn during the six months ended June 30, 2017.  
+
+Interest
+expense on the term loan for three and six months ended June 30, 2018 was $34,924 and $56,730, respectively. Interest expense
+on the amounts drawn under the Company s bank credit lines during the three and six months ended June 30, 2018 was $14,397.
+Accrued interest payable related to the amounts outstanding under the term loan and bank credit facilities at June 30, 2018 was
+$8,572.  
+
+NOTE
+6   Segment Information and Concentrations   
+
+Segment
+Information   
+
+  The
+Company operates in the mobile barcode scanning and RFID/NFC data capture market. Mobile scanning typically consists of using
+mobile devices such as smartphones or tablets, with mobile scanning peripherals for data collection, and third-party vertical
+applications software. The Company distributes its products in the United States and foreign countries primarily through distributors
+and resellers. The Company markets its products primarily through application developers whose applications are designed to work
+with Company s products. Revenues by geographic area for three and six months ended June 30, 2018 and 2017 were as follows:  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018  
+
+Export
+revenues are attributable to countries based on the location of the Company s customers. The Company does not hold long-lived
+assets in foreign locations.  
+
+Major
+Customers   
+
+  Customers
+who accounted for at least 10% of the Company s total revenues for the three and six-month periods ended June 30, 2018 and
+2017 were:  
+
+Concentration
+of Credit Risk   
+
+  Financial
+instruments that potentially subject the Company to significant concentrations of credit risk include cash, cash equivalents and
+accounts receivable. The Company invests its cash in demand deposit accounts in banks. To date, the Company has not experienced
+losses on the investments. The Company s trade accounts receivables are primarily with distributors. The Company performs
+ongoing credit evaluations of its customers  financial condition but the Company generally requires no collateral. Reserves
+are maintained for potential credit losses, and such losses have been within management s expectations. Customers who accounted
+for at least 10% of the Company s accounts receivable balances at June 30, 2018 and December 31, 2017 were as follows:  
+
+_____________  
+
+  *
+Customer accounted for less than 10% of total accounts receivable balances  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018  
+
+Concentration
+of Suppliers   
+
+  Several
+of the Company s component parts are produced by a sole or limited number of suppliers. Shortages could occur in these essential
+materials due to increased demand, or to an interruption of supply. Suppliers may choose to restrict credit terms or require advance
+payments causing delays in the procurement of essential materials. If the Company were unable to procure certain of such materials,
+it could have a material adverse effect upon its results. At June 30, 2018, 27% of the Company s accounts payable balances
+was concentrated in the top two suppliers. For the three months ended June 30, 2018, the top two suppliers accounted for 46% of
+the inventory purchases.  
+
+NOTE
+7   Stock-Based Compensation   
+
+The
+Company recognizes the compensation cost in the financial statements for all stock-based awards to employees, including grants
+of employee stock options, based on the fair value of the awards as of the date that the awards are issued. The fair values of
+stock options are generally determined using a binomial lattice valuation model that incorporates assumptions about expected volatility,
+risk-free interest rate, dividend yield, and expected life. Compensation cost for stock-based awards is recognized on a straight-line
+basis over the vesting period. Total stock-based compensation expense for the three and six months ended June 30, 2018, was $118,843
+and $230,976, respectively. Total stock-based compensation expense for the three and six months ended June 30, 2017, was $107,389
+and $203,086, respectively. In the three and six months ended June 30, 2018, 259,700 stock options were granted at a weighted
+average per share fair value estimated at $1.65.  
+
+NOTE
+8   Net Income (Loss) Per Share Applicable to Common Stockholders   
+
+The
+following table sets forth the computation of basic and diluted net income (loss) per share:  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018  
+
+In
+the three and six months ended June 30, 2018, 2,359,034 stock options were excluded in the calculation of diluted net loss per
+share because their effect would be anti-dilutive.  
+
+NOTE
+9   Income Taxes   
+
+The
+Tax Cuts and Jobs Act of 2017, effective on January 1, 2018, eliminates alternative minimum taxes and lowers the U.S. federal
+corporate income tax from 34% to 21%. In the three and six months ended June 30, 2018, the Company recorded deferred tax benefits
+of $53,707 and $133,634, respectively, based on an expectation of at least a breakeven in its full year s results. In the
+same periods one year ago, the Company recorded income tax expenses of $387,437 and $639,988, respectively. Income tax expense
+is offset for income tax purposes by Federal and State net operating loss carryovers.  
+
+NOTE
+10   Commitments and Contingencies   
+
+Operating
+Lease   
+
+  The
+Company leases office space under a non-cancelable operating lease that provides the Company approximately 37,100 square feet
+in Newark, California. The lease agreement expires on June 30, 2022. Monthly base rent increases four percent per year annually
+on July 1 st  of each year. Rental expense was $109,851 and $219,918 for the three and six-month periods ended June 30,
+2018, respectively. Rental expense was $109,237 and $218,036 for the three and six-month periods ended June 30, 2017, respectively.
+The Company recorded a deferred rent obligation in accrued liabilities in the amount of $263,962 and $274,388 at June 30, 2018
+and December 31, 2017, respectively.  
+
+Future
+minimum lease payments under the operating lease at June 30, 2018 are as shown below:  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018  
+
+Capital
+Lease Obligations   
+
+  The
+Company leases certain of its equipment under capital leases. These leases are collateralized by their underlying assets. At June
+30, 2018 and December 31, 2017, equipment with a cost of $100,584 was subject to such financing arrangements. The accumulated
+depreciation of the assets associated with the capital leases as of June 30, 2018 and December 31, 2017, amounted to $65,493 and
+$51,400 respectively.  
+
+Future
+minimum payments under capital lease and equipment financing arrangements as of June 30, 2018, are as follows:  
+
+Purchase
+Commitments   
+
+  As
+of June 30, 2018, the Company has non-cancelable purchase commitments for inventory to be used in the ordinary course of business
+of approximately $3,215,000.  
+
+Legal
+Matters   
+
+  The
+Company is subject to disputes, claims, requests for indemnification and lawsuits arising in the ordinary course of business.
+Under the indemnification provisions of the Company s customer agreements, the Company routinely agrees to indemnify and
+defend its customers against infringement of any patent, trademark, copyright, trade secrets, or other intellectual property rights
+arising from customers  legal use of the Company s products or services. The exposure to the Company under these indemnification
+provisions is generally limited to the total amount paid for the indemnified products. However, certain indemnification provisions
+potentially expose the Company to losses in excess of the aggregate amount received from the customer. To date, there have been
+no claims against the Company by its customers pertaining to such indemnification provisions, and no amounts have been recorded.
+The Company is currently not a party to any material legal proceedings.  
+
+Recently
+Issued Financial Accounting Standards   
+
+  In
+June 2018, the FASB issued ASU 2018-07 Compensation   Stock Compensation (Topic 718), Improvements to Nonemployee Share-Based
+Payment Accounting. This ASU is intended to simplify aspects of share-based compensation issued to non-employees by making the
+guidance consistent with the accounting for employee share-based compensation. It is effective for annual reporting periods, and
+interim periods within those years, beginning after December 15, 2018 and is not expected to have a significant impact on the
+Company s financial statements.  
+
+Index   
+
+SOCKET
+MOBILE, INC.   
+
+   NOTES
+TO CONDENSED FINANCIAL STATEMENTS (Unaudited)   
+
+  June
+30, 2018  
+
+From
+time to time, new accounting pronouncements are issued by the FASB or other standards setting bodies that are adopted by the Company
+as of the specified effective date. Unless otherwise discussed, management believes that the impact of recently issued standards
+that are not yet effective will not have a material impact on the Company s financial position, results of operations or
+cash flows upon adoption.  
+
+NOTE
+11   Subsequent Events   
+
+On
+July 30, 2018, the Company entered into an Amended and Restated Business Financing Agreement (the  Fifth Financing Agreement )
+with the Bank. The Company is required to maintain daily cash plus available credit at or above 90% of the outstanding principal
+balance of the term loan until the Asset Coverage Ratio is at 1.25 to 1.0. The Asset Coverage Ratio increases to 1.2 to 1.0 on
+October 1, 2018 and to 1.25 to 1.0 on December 31, 2018.  
+
+Index   
+
+Item
+2. Management s Discussion and Analysis of Financial Condition and Results of Operations    
+
+This
+Quarterly Report contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended,
+and Section 21E of the Securities Exchange Act of 1934, as amended. These statements include statements forecasting our future
+financial condition and results, our future operating activities, market acceptance of our products, expectations for general
+market growth of mobile computing devices, growth in demand for our data capture products, expansion of the markets that we serve,
+expansion of the distribution channels for our products, and the timing of the introduction and availability of new products,
+as well as other forecasts discussed under  Management s Discussion and Analysis of Financial Condition and Results
+of Operations.  Words such as  may,   will,   predicts,   anticipates, 
+ expects,   intends,   plans,   believes,   seeks,   estimates, 
+variations of such words, and similar expressions are intended to identify such forward-looking statements. Such forward-looking
+statements are based on current expectations, estimates, and projections about our industry, management s beliefs, and assumptions
+made by management. These forward-looking statements are not guarantees of future performance and are subject to certain risks,
+uncertainties, and assumptions that are difficult to predict; therefore, actual results and outcomes may differ materially from
+what is expressed or forecasted in any such forward looking statements. Factors that could cause actual results and outcomes to
+differ materially include, but are not limited to: volatility in the world economy generally and in the markets we serve in particular;
+the risk of delays in the availability of our products due to technological, market or financial factors including the availability
+of product components and necessary working capital; our ability to successfully develop, introduce and market future products;
+our ability to effectively manage and contain our operating costs; the availability of third-party hardware and software that
+our products are intended to work with; product delays associated with new model introductions and product changeovers by the
+makers of products that our products are intended to work with; continued growth in demand for barcode scanners; market acceptance
+of emerging standards such as RFID/Near Field Communications and of our related data capture products; the ability of our strategic
+relationships to benefit our business as expected; our ability to enter into additional distribution relationships; or other factors
+described in this Form 10-Q including  Item 1A. Risk Factors  and recent Form 8-K and Form 10-K reports filed with
+the Securities and Exchange Commission. We assume no obligation to update such forward-looking statements or to update the reasons
+why actual results could differ materially from those anticipated in such forward-looking statements.   
+
+You
+should read the following discussion in conjunction with the interim condensed financial statements and notes included elsewhere
+in this report, the Company s annual financial statements in form 10-K, and other information contained in other reports
+and documents filed from time to time with the Securities and Exchange Commission.   
+
+Index   
+
+The
+Company  
+
+We
+are a leading producer of data capture products for mobile applications used in Retail, Commercial Services, Industrial  
+Manufacturing, Transportation   Logistics, and Health Care. Our primary products are cordless data capture devices that connect
+over Bluetooth and work with applications running on smartphones, tablets and mobile computers using operating systems from Apple 
+(iOS), Google  (Android ) and Microsoft  (Windows ). We focus on serving the needs of software application
+developers as scanner sales are primarily driven by the deployment of barcode and NFC/RFID enabled mobile applications.  
+
+We
+design our own products and subcontract the manufacturing of product components to independent third-party contract manufacturers
+who are located in the U.S., Mexico, Singapore, Malaysia, Indonesia and Taiwan and who have the equipment, know-how and capacity
+to manufacture products to our specifications. Final products are assembled, tested, packaged, and distributed at and from our
+Newark, California facility. We offer the products worldwide through two-tier distribution enabling customers to purchase from
+a large number of on-line resellers around the world including some application developers. The geographic regions that we serve
+include the Americas, Europe, Asia Pacific and Africa.  
+
+We
+believe growth in mobile applications and the mobile workforce are resulting from technical advances in mobile technologies, cost
+reductions in mobile devices and the growing adoption by businesses of mobile applications running on smartphones and tablets,
+building a growing demand for our products. Our data capture products address the growing need for speed and accuracy by today s
+mobile workers and by the systems supporting those workers, thereby enhancing their productivity and allowing them to exploit
+time sensitive opportunities and improve customer satisfaction.  
+
+Products   
+
+Cordless
+barcode scanners   
+
+  We
+offer a full range of handheld cordless barcode scanners connecting to smartphones, tablets and other computing devices over Bluetooth.
+Our 7 Series standard barcode scanners are lightweight and ergonomically designed for easy handling as stand-alone cordless barcode
+scanners. The 7 Series scanners come in six vivid colors, blue, gray, green, red, white and yellow. In April 2018, we introduced
+our SocketScan  700 Series colorful barcode scanners that will eventually replace the 7 Series. The SocketScan 700 Series
+come in three modules: linear imager (S700), laser (S730) and 2D imager (S740) in five vivid colors: blue, green, red, white and
+yellow. Our DuraScan  line of durable barcode scanners come in four models: linear imager (D700), laser (D730) and 2D imager
+(D740 and D750). Using the same ergonomic form factor, these barcode scanners have an IP54 durability rating and improved usability
+features in industrial colors: Construction Orange, Safety Green and Utility Gray. Our SocketScan 800 Series cordless barcode
+scanners in linear imaging (S800) and 2D models (S850) are designed to be attachable, with an easily detachable clip, to smartphones
+and other mobile devices for more integrated barcode scanning. The 800 Series scanners can also be used in simple handheld mode.
+Our 800 Series sleeve solution,  DuraCase , is designed to keep an iPod or smartphone and barcode scanner together
+and enable both devices to be used and charged simultaneously and easily operated with a single hand.  
+
+Index   
+
+Contactless
+RFID/NFC Reader/Writer   
+
+  Our
+Contactless RFID/NFC Reader/Writer version of durable handheld scanner, D600, can read and write many different types of electronic
+SmartTags. SmartTags are used in many applications today, like digital wallet applications for loyalty cards, identification cards,
+payment cards, coupons, event tickets and others which leverage the exchange of electronic  tokens . We are working
+with our registered application developers to encourage them to include Near Field Communications capabilities in their mobile
+applications. We are an early entrant into this market and do not face significant head to head competition from alternative reader/writer
+devices.  
+
+Software
+Developer Kit (Capture SDK)   
+
+  Our
+Software Developer Kit (Capture SDK) supports all of our data capture devices (both barcode reader and RFID/NFC Reader/Writer)
+with a single installation, making it easy for registered third-party application developers to integrate our data capture capabilities
+into their application centric solution while giving the customers the ability to select the products that work best for them.
+Our Capture SDK enables the developers to modify the placement of the captured data in their application and control the feedback
+to the users that the transaction and transmission was successfully completed. The Capture SDK also enables the built-in camera
+in a customer s smartphone or tablet to be used for occasional or lower volume data collection requirements. In April 2018,
+we introduced a new Capture SDK which has been restructured to better support our existing iOS and Android developers by enabling
+them to develop in their preferred development environments and make it easier and quicker to integrate scanner support. The Capture
+SDK enables us to support many development environments that corporate developers prefer.  
+
+Service   
+
+  Our
+products are warranted for one year and we offer SocketCare extended warranty programs for up to five years including repair or
+replacement due to accidental breakage. We also repair or replace products that are beyond their warranty period.  
+
+Revenues   
+
+Total
+revenues for the three and six months ended June 30, 2018 were $4.2 million and $8.2 million, respectively, a decrease of 28%
+from revenues of $5.8 million and $11.4 million, respectively, in the comparable periods one year ago. Our product revenues and
+the corresponding decrease and increase in revenues for the comparable periods are shown in the following table:  
+
+Index   
+
+Revenue
+of our  cordless barcode scanners and accessories  was $4.14 million or 99% of our overall revenues for the second quarter
+of 2018, a decrease of 27% or $1.55 million compared to the revenue of $5.69 million for the second quarter of 2017. Revenue for
+the six months ended June 30, 2018 was $8.0 million, a decrease of 29% or $3.2 million compared to the revenue of $11.2 million
+in the same period a year ago. Lower revenue for the three and six-month periods ended June 30, 2018 is primarily due to a lack
+of enterprise deployments during 2018. Revenue in 2017 included large shipments of cordless barcode scanner orders to two customers
+of $0.7 million and $1.9 million for the three and six-month periods ended June 30, 2017, respectively, whereas shipments in the
+first half of 2018 were primarily fulfilling smaller unit orders. Lower revenue in 2018 is also due to delays in shipping of our
+new SocketScan products. At the beginning of the year, we announced our expectation to launch our newest product line, SocketScan
+series in mid-Q1 but the actual shipments commenced in late April due to some technical issues. With the delivery of our new products,
+our developers have started their qualification of the new products, which may take several months to evaluate and recommend our
+new products.  
+
+Service
+ comprised 1% of revenue for the three and six-month periods ended June 30, 2018 and 2017. Our SocketCare service contracts
+are purchased by our customers in conjunction with the purchase of cordless barcode scanners. Due to the robustness and lower
+cost of the data capture products, service revenue continues to be a small portion of the total revenue.  
+
+Gross
+Margins  
+
+Our
+gross margins on sales for the three and six-month periods ended June 30, 2018 were 50.9% and 51.3%, respectively, compared to
+53.6% and 52.7%, respectively, for the corresponding periods a year ago. The lower margins in 2018 reflected absorption of fixed
+manufacturing costs over a smaller number of units sold. Q2 2018 gross margins were also impacted by the higher costs associated
+with expedited production of the first 1,200 units of the new SocketScan products shipped in April and May.  
+
+Research
+and Development Expense   
+
+Research
+and development expense in the three and six months ended June 30, 2017 were $917,000 and $1,864,000, an increase of 7% and 13%
+compared to expenses of $859,000 and $1,656,000 in the corresponding periods a year ago. Increase in the level of research and
+development expense was primarily due to higher personnel costs reflecting headcount additions to facilitate product development
+and meet more complex requirements of today s products. We expect research and development expense to remain flat for the
+remainder of the year.  
+
+Sales
+and Marketing Expense   
+
+Sales
+and marketing expense in the three and six months ended June 30, 2018 were $734,000 and $1,472,000, a decrease of 1% and 2% compared
+to the expense of $742,000 and $1,501,000 in the corresponding periods a year ago. Sales and marketing expense for the second
+half of 2018 is expected to remain flat.  
+
+Index   
+
+General
+and Administrative Expense   
+
+General
+and administrative expense in the second quarter of 2018 was $625,000, an increase of 4% compared to expense of $601,000 in Q2
+2017. Expense in the six-month period of both 2018 and 2017 was at the same level, $1.29 million. General and administrative expense
+is expected to decline slightly for the balance of 2018.  
+
+Interest
+Expense, Net of Interest Income   
+
+Interest
+expense, net of interest income, in the three and six months ended June 30, 2018 was $47,981 and $67,900, respectively, compared
+to $30,678 and $60,354, respectively, in the same periods one year ago. Interest expense in 2018 was primarily related to interest
+on bank term loan and credit line facilities (see  NOTE 5   Bank Financing Arrangements  for more information).
+Average outstanding balance of bank term loan and credit lines during the first six months of 2018 was $2.75 million. Interest
+expense in 2017 was primarily related to interest on subordinated convertible notes payable issued in 2012 and reissued in September
+of 2013 (see  NOTE 4   Short-Term Related Party Convertible Notes Payable  for more information). Additionally,
+interest expense in each of the comparable first quarters includes interest on equipment lease financing obligations.  
+
+Interest
+income reflects interest earned on cash balances. Interest income was nominal in each of the comparable first quarters, reflecting
+low average cash balances combined with low average rates of return.  
+
+Income
+Taxes   
+
+The
+Tax Cuts and Jobs Act of 2017, effective on January 1, 2018, eliminates alternative minimum taxes and lowers the U.S. federal
+corporate income tax from 34% to 21%. On December 31, 2017, we remeasured the net deferred tax assets and posted a one-time reduction
+of $2.6 million in deferred tax assets to reflect the lower realization rate to be applied commencing in 2018.  
+
+In
+the three and six months ended June 30, 2018, we recorded deferred tax benefits of $53,707 and $133,634, respectively, based on
+an expectation of at least a breakeven in our full year s results. In the same period one year ago, we recorded income tax
+expenses of $387,437 and $639,988, respectively. Our deferred tax asset, primarily representing future income tax savings from
+the application of net operating loss carry forwards, was valued at $5,771,000 at June 30, 2018.  
+
+We
+have determined that utilization of existing net operating losses against future taxable income is not limited by Section 382
+of the Internal Revenue Code. Future ownership changes, however, may limit our ability to fully utilize the existing net operating
+loss carryforwards against any future taxable income.  
+
+Index   
+
+Cash
+Flows and Contractual Obligations   
+
+As
+reflected in our Statements of Cash Flows, net cash provided by operating activities was $409,000 in the first half of 2018, compared
+to net cash provided by operating activities of $702,000 in the comparable period a year ago. We calculate net cash provided by
+operating activities by decreasing our net loss ($363,000 in the first half of 2018) or increasing our net income ($876,000 in
+the first half of 2017) by the expenses, such as stock based compensation expense, depreciation, and deferred tax expense, that
+did not require the use of cash. These amounts totaled $295,000 and $976,000 in the first half of 2018 and 2017, respectively.
+In addition, we report increases in assets and reductions in liabilities as uses of cash and decreases in assets and increases
+in liabilities as sources of cash, together referred to as changes in operating assets and liabilities. In the first half of 2018,
+changes in operating assets and liabilities resulted in a net source of cash of $477,000 and were primarily from reductions in
+accounts receivables due to lower overall shipments to our distributors in the first half of 2018, increases in accounts payables
+due to the timing of vendor payments, and partially offset by the decreases of accrued liabilities. In the first six months of
+2017, changes in operating assets and liabilities resulted in a net use of cash of $1,149,000 which was primarily due to the buildup
+of inventories to accommodate rising sales, increases in accounts receivable driven by the higher shipments in the second half
+of Q2 2017, prepayments for insurance policies and operating leases, and increases in capitalized software development costs for
+our new product D600.  
+
+In
+the first half of 2018 and 2017, we invested $270,000 and $88,000, respectively, in manufacturing tooling costs and computer software
+development costs.  
+
+Net
+cash used in financing activities was $2.2 million in the first half of 2018, compared to net cash provided of $201,000 in the
+comparable period a year ago. Financing activities in the first half of 2018 consisted primarily of the $5.0 million use of cash
+related to repurchase of company stock, partially offset by net $1.0 million borrowed on our term loan, net $1.5 million borrowed
+on our bank lines of credit, and $279,000 proceeds from the exercise of stock options. Financing activities in the first quarter
+of 2017 consisted primarily of the proceeds from the exercise of stock options.  
+
+Our
+contractual cash obligations at June 30, 2018 are outlined in the table below:  
+
+Index   
+
+Off-Balance
+Sheet Arrangements   
+
+As
+of June 30, 2018, we have no off-balance sheet arrangements as defined in Item 303 of Regulation S-K.  
+
+Item
+3. Quantitative and Qualitative Disclosures about Market Risk  
+
+Interest
+Rate Risk   
+
+Our
+exposure to market risk for changes in interest rates relates primarily to our bank term loan and credit line facilities. Amounts
+outstanding under the term loan bear interest at lender's prime rate (minimum of 4.25%) plus 1.75%. Our bank credit line facilities
+of up to $2.5 million have variable interest rates based upon the lender's prime rate (minimum of 4.25%) plus 0.75%, for both
+the domestic line (up to $2.0 million) and the international line (up to $0.5 million). Accordingly, interest rate increases could
+increase our interest expense on outstanding term loan and credit line balances. Based on a sensitivity analysis during the three
+months ended June 30, 2018, an increase of 1% in the interest rate would have increased our second quarter borrowing costs by
+approximately $7,000.  
+
+Foreign
+Currency Risk  
+
+A
+substantial majority of our revenue, expense and purchasing activities are transacted in U.S. dollars. However, we require our
+European distributors to purchase our products in Euros and we pay the expenses of our European employees in Euros and British
+pounds. We may enter into selected future purchase commitments with foreign suppliers that may be paid in the local currency of
+the supplier. We hedge a significant portion of our European receivables balance denominated in Euros to reduce the foreign currency
+risk associated with these assets, and we have not been subject to significant losses from material foreign currency fluctuations.
+Based on a sensitivity analysis of our net foreign currency denominated assets and expenses at the beginning, during and at the
+end of the quarter ended June 30, 2018, an adverse change of 10% in exchange rates would have resulted in an decrease in our net
+income for the second quarter of 2018 of approximately $42,600 if left unprotected. For the second quarter of 2018, the total
+net adjustment for the effects of changes in foreign currency on cash balances, collections, payables, and derivatives used to
+hedge foreign currency risks, was a net loss of $12,700. We will continue to monitor, assess, and mitigate through hedging activities,
+our risks related to foreign currency fluctuations.  
+
+Index   
+
+Item
+4. Controls and Procedures   
+
+Conclusion
+Regarding the Effectiveness of Disclosure Controls and Procedures   
+
+  Our
+management evaluated, with the participation of our Chief Executive Officer and our Chief Financial Officer, the effectiveness
+of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on
+this evaluation, our Chief Executive Officer and our Chief Financial Officer have concluded that our disclosure controls and procedures
+are effective to ensure that information we are required to disclose in reports that we file or submit under the Securities Exchange
+Act of 1934 is (i) recorded, processed, summarized and reported within the time periods specified in Securities and Exchange Commission
+rules and forms, and (ii) accumulated and communicated to our management, including our Chief Executive Officer and our Chief
+Financial Officer, as appropriate to allow timely decisions regarding required disclosure.  
+
+Changes
+in Internal Control over Financial Reporting   
+
+  There
+was no change in our internal control over financial reporting that occurred during the period covered by the last fiscal quarter
+ended June 30, 2017 and this Quarterly Report on Form 10-Q that has materially affected, or is reasonably likely to materially
+affect, our internal control over financial reporting.  
+
+Index   
+
+PART
+II   
+
+Item
+1A. Risk Factors   
+
+The
+risks described in this Quarterly Report on Form 10-Q are not the only risks facing our Company. Additional risks and uncertainties
+not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial
+condition, and operating results.   
+
+We
+may not maintain ongoing profitability.   
+
+We
+have been unprofitable in the past two quarters. To maintain ongoing profitability, we must accomplish numerous objectives, including
+continued growth in our business, ongoing support to registered developers whose applications support the use of our data capture
+products, and the development of successful new products. We cannot foresee with any certainty whether we will be able to achieve
+these objectives in the future. Accordingly, we may not generate sufficient net revenue or manage our expenses sufficiently to
+maintain ongoing profitability. If we cannot maintain ongoing profitability, we will not be able to support our operations from
+positive cash flows, and we would use our existing cash to support operating losses. If we are unable to secure the necessary
+capital to replace that cash, we may need to suspend some or all of our current operations.  
+
+We
+may require additional capital in the future, but that capital may not be available on reasonable terms, if at all, or on terms
+that would not cause substantial dilution to investors  stock holdings.   
+
+We
+may need to raise capital to fund our growth or operating losses in future periods. Our forecasts are highly dependent on factors
+beyond our control, including market acceptance of our products and delays in deployments by businesses of applications that use
+our data capture products. Even if we maintain profitable operating levels, we may need to raise capital to provide sufficient
+working capital to fund our growth. If capital requirements vary materially from those currently planned, we may require additional
+capital sooner than expected. There can be no assurance that such capital will be available in sufficient amounts or on terms
+acceptable to us, if at all.  
+
+If
+application developers are not successful in their efforts to develop, market and sell their applications into which our software
+and products are incorporated, we may not achieve our sales projections.   
+
+We
+are dependent upon application developers to integrate our scanning and software products into their applications designed for
+mobile workers using smartphones, tablets and mobile computers, and to successfully market and sell those application products
+and solutions into the marketplace. We focus on serving the needs of application developers as sales of our data capture products
+are application driven. However, these developers may take considerable time to complete development of their applications, may
+experience delays in their development timelines, may develop competing applications, may be unsuccessful in marketing and selling
+their application products and solutions to customers, or may experience delays in customer deployments and implementations, which
+would adversely affect our ability to achieve our revenue projections.  
+
+Index   
+
+Failure
+to maintain effective internal controls could have a material adverse effect on our business, operating results and stock price.   
+
+We
+have evaluated and will continue to evaluate our internal control procedures in order to satisfy the requirements of Section 404
+of the Sarbanes-Oxley Act, which requires an annual management assessment of the design and effectiveness of our internal control
+over financial reporting. If we fail to maintain the adequacy of our internal controls, as such standards are modified, supplemented
+or amended from time to time, we may not be able to ensure that we can conclude on an ongoing basis that we have effective internal
+control over financial reporting in accordance with Section 404 of the Sarbanes-Oxley Act. Moreover, effective internal controls,
+particularly those related to revenue recognition, are necessary for us to produce reliable financial reports and are important
+to helping prevent financial fraud. If we cannot provide reliable financial reports or detect and prevent fraud, our business
+and operating results could be harmed, investors could lose confidence in our reported financial information, and the trading
+price of our stock could drop significantly.  
+
+Despite
+security protections, our business records and information systems could be hacked by unauthorized personnel   
+
+We
+protect our business records and information from access by unauthorized personnel. We maintain adequate segregation of duties
+in safeguarding our assets and related records and monitor our systems to detect any attempts to bypass our controls and procedures
+which we evaluate and update from time to time. We are aware that unauthorized efforts to access our business records and information
+with sophisticated tools could bypass our controls and procedures and we remain alert to that possibility.  
+
+Global
+economic conditions may have a negative impact on our business and financial condition in ways that we currently cannot predict,
+and may further limit our ability to raise additional funds.   
+
+Global
+economic conditions may have an impact on our business and our financial condition. We may face significant challenges if global
+economic growth slows down and conditions in the financial markets worsen. In particular, should these conditions cause our revenues
+to be materially less than forecast, we may find it necessary to initiate reductions in our expenses and defer product development
+programs. In addition, our ability to access the capital markets and raise funds required for our operations may be severely restricted
+at a time when we would like, or need, to do so, which could have an adverse effect on our ability to meet our current and future
+funding requirements and on our flexibility to react to changing economic and business conditions.  
+
+Index   
+
+Our
+quarterly operating results may fluctuate in future periods, which could cause our stock price to decline.   
+
+We
+expect to experience quarterly fluctuations in operating results in the future. We generally ship orders as received, and as a
+result we may have little backlog. Quarterly revenues and operating results therefore depend on the volume and timing of orders
+received during the quarter, which are difficult to forecast. Historically, we have often recognized a substantial portion of
+our revenue in the last month of the quarter. This subjects us to the risk that even modest delays in orders or in the manufacture
+of products relating to orders received, may adversely affect our quarterly operating results. Our operating results may also
+fluctuate due to factors such as:  
+
+the
+                                         demand for our products;    
+
+the
+                                         size and timing of customer orders;    
+
+unanticipated
+                                         delays or problems in our introduction of new products and product enhancements;    
+
+the
+                                         introduction of new products and product enhancements by our competitors;    
+
+the
+                                         timing of the introduction and deployments of new applications that work with our products;    
+
+changes
+                                         in the revenues attributable to royalties and engineering development services;    
+
+product
+                                         mix;    
+
+timing
+                                         of software enhancements;    
+
+changes
+                                         in the level of operating expenses;    
+
+competitive
+                                         conditions in the industry including competitive pressures resulting in lower average
+                                         selling prices;    
+
+timing
+                                         of distributors  shipments to their customers;    
+
+delays
+                                         in supplies of key components used in the manufacturing of our products, and     
+
+general
+                                         economic conditions and conditions specific to our customers  industries.    
+
+Because
+we base our staffing and other operating expenses on anticipated revenues, unanticipated declines or delays in the receipt of
+orders can cause significant variations in operating results from quarter to quarter. As a result of any of the foregoing factors,
+or a combination, our results of operations in any given quarter may be below the expectations of public market analysts or investors,
+in which case the market price of our common stock would be adversely affected.  
+
+To
+maintain the availability of our bank lines of credit we must remain in compliance with the covenants as specified under the terms
+of the credit agreements and the bank may exercise discretion in making advances to us.   
+
+Our
+credit agreements with our bank requires us to maintain compliance with an asset coverage ratio measured monthly, which requirements
+increase during the term of the financing agreement. The agreement contains customary affirmative and negative covenants, including
+covenants that limit or restrict our ability to, among other things, grant liens, make investments, incur indebtedness, merge
+or consolidate, dispose of assets, make acquisitions, pay dividends or make distributions, repurchase stock, enter into transactions
+with affiliates and enter into restrictive agreements, in each case subject to customary exceptions for a credit facility of this
+size and type. The agreement also contains customary events of default including, among others, payment defaults, breaches of
+covenants, bankruptcy and insolvency events, cross defaults with certain material indebtedness, judgment defaults, and breaches
+of representations and warranties. Upon an event of default, our bank may declare all or a portion of our outstanding obligations
+payable to be immediately due and payable and exercise other rights and remedies provided for under the agreement. During the
+existence of an event of default, interest on the obligations could be increased. The agreement may be terminated by us or by
+our bank at any time. Upon such termination, our bank would no longer make advances under the credit agreement and outstanding
+advances would be repaid as receivables are collected. All advances are at our bank s discretion and our bank is not obligated
+to make advances.  
+
+Index   
+
+Deferred
+tax assets comprise a significant portion of our assets and are dependent upon future tax profitability to realize the benefits.   
+
+We
+have recorded deferred tax assets on our balance sheet because we believe that it is more likely than not that we will generate
+sufficient tax profitability in the future to realize the tax savings our deferred tax assets represent. If we do not achieve
+and maintain sufficient profitability, the tax savings represented by our deferred tax assets may never be realized and we would
+need to recognize a loss for those deferred tax assets.  
+
+Goodwill
+comprises a significant portion of our assets and may be subject to impairment write-downs in future periods which would substantially
+increase our losses, make it more difficult to achieve profitability, and could cause our stock price to decline.   
+
+We
+review our goodwill for impairment at least annually as of September 30th, and more often if factors suggest potential impairment.
+Many factors are considered in evaluating goodwill including our market capitalization, comparable companies within our industry,
+our estimates of our future performance, and discounted cash flow analysis. Many of these factors are highly subjective and may
+be negatively impacted by our financial results and market conditions in the future. We may incur goodwill impairment charges
+in the future and any future write-downs of our goodwill would adversely affect our operating results, make it more difficult
+to maintain profitability, and as a result the market price of our common stock could be adversely affected.  
+
+We
+may be unable to manufacture our products because we are dependent on a limited number of qualified suppliers for our components.   
+
+Several
+of our component parts are produced by one or a limited number of suppliers. Shortages or delays could occur in these essential
+components due to an interruption of supply or increased demand in the industry. Suppliers may choose to restrict credit terms
+or require advance payment causing delays in the procurement of essential materials. If we are unable to procure certain component
+parts, we could be required to reduce our operations while we seek alternative sources for these components, which could have
+a material adverse effect on our financial results. To the extent that we acquire extra inventory stocks to protect against possible
+shortages, we would be exposed to additional risks associated with holding inventory, such as obsolescence, excess quantities,
+or loss.  
+
+If
+we fail to develop and introduce new products rapidly and successfully, we will not be able to compete effectively, and our ability
+to generate sufficient revenues will be negatively affected.   
+
+The
+market for our products is prone to rapidly changing technology, evolving industry standards and short product life cycles. If
+we are unsuccessful at developing and introducing new products and services on a timely basis that include the latest technologies
+conform to the newest standards and that are appealing to end users, we will not be able to compete effectively, and our ability
+to generate significant revenues will be seriously harmed.  
+
+Index   
+
+The
+development of new products and services can be very difficult and requires high levels of innovation. The development process
+is also lengthy and costly. Short product life cycles for smartphones and tablets expose our products to the risk of obsolescence
+and require frequent new product upgrades and introductions. We will be unable to introduce new products and services into the
+market on a timely basis and compete successfully, if we fail to:  
+
+invest
+                                         significant resources in research and development, sales and marketing, and customer
+                                         support;    
+
+identify
+                                         emerging trends, demands and standards in the field of mobile computing products;    
+
+enhance
+                                         our products by adding additional features;     
+
+maintain
+                                         superior or competitive performance in our products; and    
+
+anticipate
+                                         our end users  needs and technological trends accurately.    
+
+We
+cannot be sure that we will have sufficient resources to make adequate investments in research and development or that we will
+be able to identify trends or make the technological advances necessary to be competitive.  
+
+A
+significant portion of our revenue currently comes from a limited number of distributors, and any decrease in revenue from these
+distributors could harm our business.   
+
+A
+significant portion of our revenue comes from a limited number of distributors. In the first half year of 2018 and 2017, Ingram
+Micro Inc., ScanSource ,  Inc., and BlueStar, Inc. together represented approximately 64% and 75%, respectively, of our worldwide
+revenues. We expect that a significant portion of our revenue will continue to depend on sales to a limited number of distributors.
+We do not have long-term commitments from our distributors to carry our products, and any of our distributors may from quarter
+to quarter comprise a significant concentration of our revenues. Any could choose to stop selling some or all of our products
+at any time, and each of these companies also carries our competitors  products. If we lose our relationship with any of
+our significant distributors, we would experience disruption and delays in marketing our products.  
+
+We
+may not be able to collect receivables from customers who experience financial difficulties .  
+
+Our
+accounts receivables are derived primarily from distributors. We perform ongoing credit evaluations of our customers  financial
+conditions but generally require no collateral from our customers. Reserves are maintained for potential credit losses, and such
+losses have historically been within such reserves. However, many of our customers may be thinly capitalized and may be prone
+to failure in adverse market conditions. Although our collection history has been good, from time to time a customer may not pay
+us because of financial difficulty, bankruptcy or liquidation. If global financial conditions have an impact on our customers 
+ability to pay us in a timely manner, and consequently, we may experience increased difficulty in collecting our accounts receivable,
+and we may have to increase our reserves in anticipation of increased uncollectible accounts.  
+
+Index   
+
+We
+could face increased competition in the future, which would adversely affect our financial performance.   
+
+The
+market in which we operate is very competitive. Our future financial performance is contingent on a number of unpredictable factors,
+including that:  
+
+some
+                                         of our competitors have greater financial, marketing, and technical resources than we
+                                         do;     
+
+we
+                                         periodically face intense price competition, particularly when our competitors have excess
+                                         inventories and discount their prices to clear their inventories; and    
+
+certain
+                                         manufacturers of tablets and mobile phones offer products with built-in functions, such
+                                         as Bluetooth wireless technology or barcode scanning, that compete with our products.
+
+Increased
+competition could result in price reductions, fewer customer orders, reduced margins, and loss of market share. Our failure to
+compete successfully against current or future competitors could harm our business, operating results and financial condition.  
+
+If
+we do not correctly anticipate demand for our products, our operating results will suffer.   
+
+The
+demand for our products depends on many factors and is difficult to forecast as we introduce and support more products, and as
+competition in the markets for our products intensifies. If demand is lower than forecasted levels, we could have excess production
+resulting in higher inventories of finished products and components, which could lead to write-downs or write-offs of some or
+all of the excess inventories, and reductions in our cash balances. Lower than forecasted demand could also result in excess manufacturing
+capacity at our third-party manufacturers and in our failure to meet minimum purchase commitments, each of which may lower our
+operating results.  
+
+If
+demand increases beyond forecasted levels, we would have to rapidly increase production at our third-party manufacturers. We depend
+on suppliers to provide additional volumes of components, and suppliers might not be able to increase production rapidly enough
+to meet unexpected demand. Even if we were able to procure enough components, our third-party manufacturers might not be able
+to produce enough of our devices to meet our customer demand. In addition, rapid increases in production levels to meet unanticipated
+demand could result in higher costs for manufacturing and supply of components and other expenses. These higher costs could lower
+our profit margins. Further, if production is increased rapidly, manufacturing yields could decline, which may also lower operating
+results.  
+
+We
+rely primarily on distributors to sell our products, and our sales would suffer if any of these distributors stops selling our
+products effectively.   
+
+Because
+we sell our products primarily through distributors, we are subject to risks associated with channel distribution, such as risks
+related to their inventory levels and support for our products. Our distribution channels may build up inventories in anticipation
+of growth in their sales. If such growth in their sales does not occur as anticipated, the inventory build-up could contribute
+to higher levels of product returns. The lack of sales by any one significant participant in our distribution channels could result
+in excess inventories and adversely affect our operating results and working capital liquidity.  
+
+Index   
+
+Our
+agreements with distributors are generally nonexclusive and may be terminated on short notice by them without cause. Our distributors
+are not within our control, are not obligated to purchase products from us, and may offer competitive lines of products simultaneously.
+Sales growth is contingent in part on our ability to enter into additional distribution relationships and expand our sales channels.
+We cannot predict whether we will be successful in establishing new distribution relationships, expanding our sales channels or
+maintaining our existing relationships. A failure to enter into new distribution relationships or to expand our sales channels
+could adversely impact our ability to grow our sales.  
+
+We
+allow our distribution channels to return a portion of their inventory to us for full credit against other purchases. In addition,
+in the event we reduce our prices, we credit our distributors for the difference between the purchase price of products remaining
+in their inventory and our reduced price for such products. Actual returns and price protection may adversely affect future operating
+results and working capital liquidity by reducing our accounts receivable and increasing our inventory balances, particularly
+since we seek to continually introduce new and enhanced products and are likely to face increasing price competition.  
+
+We
+depend on alliances and other business relationships with third-parties, and a disruption in these relationships would hinder
+our ability to develop and sell our products.   
+
+We
+depend on strategic alliances and business relationships with leading participants in various segments of the mobile applications
+market to help us develop and market our products. Our strategic partners may revoke their commitment to our products or services
+at any time in the future or may develop their own competitive products or services. Accordingly, our strategic relationships
+may not result in sustained business alliances, successful product or service offerings, or the generation of significant revenues.
+Failure of one or more of such alliances could result in delay or termination of product development projects, failure to win
+new customers, or loss of confidence by current or potential customers.  
+
+We
+have devoted significant research and development resources to design products to work with a number of operating systems used
+in mobile devices including Apple (iOS), Google (Android), and Microsoft (Windows/Windows Mobile). Such design activities have
+diverted financial and personnel resources from other development projects. These design activities are not undertaken pursuant
+to any agreement under which Apple, Google or Microsoft is obligated to collaborate or to support the products produced from such
+collaboration. Consequently, these organizations may terminate their collaborations with us for a variety of reasons, including
+our failure to meet agreed-upon standards or for reasons beyond our control, such as changing market conditions, increased competition,
+discontinued product lines, and product obsolescence.  
+
+Index   
+
+Our
+intellectual property and proprietary rights may be insufficient to protect our competitive position.   
+
+Our
+business depends on our ability to protect our intellectual property. We rely primarily on patent, copyright, trademark, trade
+secret laws, and other restrictions on disclosure to protect our proprietary technologies. We cannot be sure that these measures
+will provide meaningful protection for our proprietary technologies and processes. We cannot be sure that any patent issued to
+us will be sufficient to protect our technology. The failure of any patents to provide protection to our technology would make
+it easier for our competitors to offer similar products. In connection with our participation in the development of various industry
+standards, we may be required to license certain of our patents to other parties, including our competitors that develop products
+based upon the adopted standards.  
+
+We
+also generally enter into confidentiality agreements with our employees, distributors, and strategic partners, and generally control
+access to our documentation and other proprietary information. Despite these precautions, it may be possible for a third-party
+to copy or otherwise obtain and use our products, services, or technology without authorization, develop similar technology independently,
+or design around our patents.  
+
+Effective
+copyright, trademark, and trade secret protection may be unavailable or limited in certain foreign countries.  
+
+We
+may become subject to claims of intellectual property rights infringement, which could result in substantial liability.   
+
+In
+the course of operating our business, we may receive claims of intellectual property infringement or otherwise become aware of
+potentially relevant patents or other intellectual property rights held by other parties. Many of our competitors have large intellectual
+property portfolios, including patents that may cover technologies that are relevant to our business. In addition, many smaller
+companies, universities, and individuals have obtained or applied for patents in areas of technology that may relate to our business.
+The industry is moving towards aggressive assertion, licensing, and litigation of patents and other intellectual property rights.  
+
+If
+we are unable to obtain and maintain licenses on favorable terms for intellectual property rights required for the manufacture,
+sale, and use of our products, particularly those products which must comply with industry standard protocols and specifications
+to be commercially viable, our results of operations or financial condition could be adversely impacted.  
+
+In
+addition to disputes relating to the validity or alleged infringement of other parties  rights, we may become involved in
+disputes relating to our assertion of our own intellectual property rights. Whether we are defending the assertion of intellectual
+property rights against us or asserting our intellectual property rights against others, intellectual property litigation can
+be complex, costly, protracted, and highly disruptive to business operations by diverting the attention and energies of management
+and key technical personnel. Plaintiffs in intellectual property cases often seek injunctive relief, and the measures of damages
+in intellectual property litigation are complex and often subjective or uncertain. Thus, any adverse determinations in this type
+of litigation could subject us to significant liabilities and costs.  
+
+Index   
+
+New
+industry standards may require us to redesign our products, which could substantially increase our operating expenses.   
+
+Standards
+for the form and functionality of our products are established by standards committees. These independent committees establish
+standards, which evolve and change over time, for different categories of our products. We must continue to identify and ensure
+compliance with evolving industry standards so that our products are interoperable and we remain competitive. Unanticipated changes
+in industry standards could render our products incompatible with products developed by major hardware manufacturers and software
+developers. Should any major changes, even if anticipated, occur, we would be required to invest significant time and resources
+to redesign our products to ensure compliance with relevant standards. If our products are not in compliance with prevailing industry
+standards for a significant period of time, we would miss opportunities to sell our products for use with new hardware components
+from mobile computer manufacturers and OEMs, thus affecting our business.  
+
+Undetected
+flaws and defects in our products may disrupt product sales and result in expensive and time-consuming remedial action.   
+
+Our
+hardware and software products may contain undetected flaws, which may not be discovered until customers have used the products.
+From time to time, we may temporarily suspend or delay shipments or divert development resources from other projects to correct
+a particular product deficiency. Efforts to identify and correct errors and make design changes may be expensive and time consuming.
+Failure to discover product deficiencies in the future could delay product introductions or shipments, require us to recall previously
+shipped products to make design modifications, or cause unfavorable publicity, any of which could adversely affect our business
+and operating results.  
+
+The
+loss of one or more of our senior personnel could harm our existing business.   
+
+A
+number of our officers and senior managers have been employed for more than twenty years by us, including our President, Chief
+Financial Officer, Vice President of Operations and Vice President of Engineering/Chief Technical Officer. Our future success
+will depend upon the continued service of key officers and senior managers. Competition for officers and senior managers is intense,
+and there can be no assurance that we will be able to retain our existing senior personnel. The loss of one or more of our officers
+or key senior managers could adversely affect our ability to compete.  
+
+The
+expensing of options will continue to reduce our operating results such that we may find it necessary to change our business practices
+to attract and retain employees.   
+
+Historically,
+we have used stock options as a key component of our employee compensation packages. We believe that stock options provide an
+incentive to our employees to maximize long-term stockholder value and, through the use of vesting, encourage valued employees
+to remain with us. The expensing of employee stock options adversely affects our net income and earnings per share, will continue
+to adversely affect future quarters, and will make profitability harder to achieve. In addition, we may decide in response to
+the effects of expensing stock options on our operating results to reduce the number of stock options granted to employees or
+to grant options to fewer employees. This could adversely affect our ability to retain existing employees and attract qualified
+candidates, and also could increase the cash compensation we would have to pay to them.  
+
+Index   
+
+If
+we are unable to attract and retain highly skilled sales and marketing and product development personnel, our ability to develop
+and market new products and product enhancements will be adversely affected.   
+
+We
+believe our ability to achieve increased revenues and to develop successful new products and product enhancements will depend
+in part upon our ability to attract and retain highly skilled sales and marketing and product development personnel. Our products
+involve a number of new and evolving technologies, and we frequently need to apply these technologies to the unique requirements
+of mobile products. Our personnel must be familiar with both the technologies we support and the unique requirements of the products
+to which our products connect. Competition for such personnel is intense, and we may not be able to attract and retain such key
+personnel. In addition, our ability to hire and retain such key personnel will depend upon our ability to raise capital or achieve
+increased revenue levels to fund the costs associated with such key personnel. Failure to attract and retain such key personnel
+will adversely affect our ability to develop and market new products and product enhancements.  
+
+Our
+operating results could be harmed by economic, political, regulatory and other risks associated with export sales.   
+
+Our
+operating results are subject to the risks inherent in export sales, including:  
+
+longer
+                                         payment cycles;    
+
+unexpected
+                                         changes in regulatory requirements, import and export restrictions and tariffs;    
+
+difficulties
+                                         in managing foreign operations;    
+
+the
+                                         burdens of complying with a variety of foreign laws;    
+
+greater
+                                         difficulty or delay in accounts receivable collection;    
+
+potentially
+                                         adverse tax consequences; and     
+
+political
+                                         and economic instability.    
+
+Our
+export sales are primarily denominated in Euros for our sales to European distributors. Accordingly, an increase in the value
+of the United States dollar relative to Euros could make our products more expensive and therefore potentially less competitive
+in European market. Declines in the value of the Euro relative to the United States dollar may result in foreign currency losses
+relating to collection of Euro denominated receivables if left unhedged.  
+
+Our
+operations are vulnerable to interruption by fire, earthquake, power loss, telecommunications failure, and other events beyond
+our control.   
+
+Our
+corporate headquarters is located near an earthquake fault. The potential impact of a major earthquake on our facilities, infrastructure,
+and overall business is unknown. Additionally, we may experience electrical power blackouts or natural disasters that could interrupt
+our business. Should a disaster be widespread, such as a major earthquake, or result in the loss of key personnel, we may not
+be able to implement our disaster recovery plan in a timely manner. Any losses or damages incurred by us as a result of these
+events could have a material adverse effect on our business.  
+
+Index   
+
+Failure
+to maintain effective internal controls could have a material adverse effect on our business, operating results and stock price.   
+
+We
+have evaluated and will continue to evaluate our internal control procedures in order to satisfy the requirements of Section 404
+of the Sarbanes-Oxley Act, which requires an annual management assessment of the design and effectiveness of our internal control
+over financial reporting. If we fail to maintain the adequacy of our internal controls, as such standards are modified, supplemented
+or amended from time to time, we may not be able to ensure that we can conclude on an ongoing basis that we have effective internal
+control over financial reporting in accordance with Section 404 of the Sarbanes-Oxley Act. Moreover, effective internal controls,
+particularly those related to revenue recognition, are necessary for us to produce reliable financial reports and are important
+to helping prevent financial fraud. If we cannot provide reliable financial reports or prevent fraud, our business and operating
+results could be harmed, investors could lose confidence in our reported financial information, and the trading price of our stock
+could drop significantly.  
+
+The
+sale of a substantial number of shares of our common stock could cause the market price of our common stock to decline.   
+
+Sales
+of a substantial number of shares of our common stock in the public market could adversely affect the market price for our common
+stock. The market price of our common stock could also decline if one or more of our significant stockholders decided for any
+reason to sell substantial amounts of our common stock in the public market.  
+
+As
+of August 6, 2018, we had 5,883,109 shares of common stock outstanding. Substantially all of these shares are freely tradable
+in the public market, either without restriction or subject, in some cases, only to S-3 prospectus delivery requirements and,
+in other cases, only to manner of sale, volume, and notice requirements of Rule 144 under the Securities Act.  
+
+As
+of August 6, 2018, we had 2,358,134 shares of common stock subject to outstanding options under our stock option plans, and 132,693
+shares of common stock were available for future issuance under the plans. We have registered the shares of common stock subject
+to outstanding options and reserved for issuance under our stock option plans. Accordingly, the shares of common stock underlying
+vested options will be eligible for resale in the public market as soon as the options are exercised.  
+
+Index   
+
+Volatility
+in the trading price of our Common Stock could negatively impact the price of our Common Stock.   
+
+During
+the period from January 1, 2017 through August 6, 2018, our common stock price fluctuated between a high of $4.90 and a low of
+$1.86. We have experienced low trading volumes in our stock, and thus relatively small purchases and sales can have a significant
+effect on our stock price. The trading price of our common stock could be subject to wide fluctuations in response to many factors,
+some of which are beyond our control, including general economic conditions and the outlook of securities analysts and investors
+on our industry. In addition, the stock markets in general, and the markets for high technology stocks in particular, have experienced
+high volatility that has often been unrelated to the operating performance of particular companies. These broad market fluctuations
+may adversely affect the trading price of our common stock.  
+
+Index   
+
+Item
+6. Exhibits   
+
+Exhibit 
+     Number  
+      Description   
+
+32.1    Certification
+                                         of Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the
+                                         Sarbanes-Oxley Act of 2002.    
+
+Index   
+
+SIGNATURES   
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized.  
+
+SOCKET
+MOBILE, INC.   
+ Registrant  
+
+Date:   August 14, 2018  
+        /s/ Kevin J. Mills     
+
+Kevin J. Mills   
+
+President and Chief Executive Officer   
+
+(Duly Authorized Officer and Principal Executive Officer)   
+
+Date: August   14, 2018  
+        /s/ David W. Dunlap    
+
+David W. Dunlap   
+
+Vice President of Finance and Administration and Chief Financial
+    Officer (Duly Authorized Officer and Principal Financial and Accounting Officer)    
+
+Index   
+
+Index
+to Exhibits   
+
+Exhibit 
+     Number  
+      Description   
+
+32.1    Certification
+                                         of Chief Executive Officer and Chief Financial Officer pursuant to Section 906 of the
+                                         Sarbanes-Oxley Act of 2002.    
+
+Index   
+
+<EX-31>
+ 2
+ exhibit31_1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1  
+
+  CERTIFICATION  
+
+I, Kevin J. Mills, certify that:  
+
+1.       I
+have reviewed this quarterly report on Form 10-Q of Socket Mobile, Inc.;  
+
+2.    Based on my knowledge, this report
+                                         does not contain any untrue statement of a material fact or omit to state a material
+                                         fact necessary to make the statements made, in light of the circumstances under which
+                                         such statements were made, not misleading with respect to the period covered by this
+                                         report;    
+
+3.    Based on my knowledge, the financial
+                                         statements, and other financial information included in this report, fairly present in
+                                         all material respects the financial condition, results of operations and cash flows of
+                                         the registrant as of, and for, the periods presented in this report;    
+
+4.    The registrant s other certifying
+                                         officer and I are responsible for establishing and maintaining disclosure controls and
+                                         procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control
+                                         over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for
+                                         the registrant and have:    
+
+(a)    Designed
+                                         such disclosure controls and procedures, or caused such disclosure controls and procedures
+                                         to be designed under our supervision, to ensure that material information relating to
+                                         the registrant is made known to us by others within those entities, particularly during
+                                         the period in which this report is being prepared;    
+
+(b)    Designed
+                                         such internal control over financial reporting, or caused such internal control over
+                                         financial reporting to be designed under our supervision, to provide reasonable assurance
+                                         regarding the reliability of financial reporting and the preparation of financial statements
+                                         for external purposes in accordance with generally accepted accounting principles;    
+
+(c)    Evaluated the effectiveness
+                                         of the registrant s disclosure controls and procedures and presented in this report
+                                         our conclusions about the effectiveness of the disclosure controls and procedures, as
+                                         of the end of the period covered by this report based on such evaluation; and    
+
+(d)    Disclosed in this report any
+                                         change in the registrant s internal control over financial reporting that occurred
+                                         during the registrant s most recent fiscal quarter (the registrant s fourth
+                                         fiscal quarter in the case of an annual report) that has materially affected, or is reasonably
+                                         likely to materially affect, the registrant s internal control over financial reporting;
+                                         and    
+
+5.    The registrant s other certifying
+                                         officer and I have disclosed, based on our most recent evaluation of internal control
+                                         over financial reporting, to the registrant s auditors and the audit committee
+                                         of the registrant s board of directors (or persons performing the equivalent functions):    
+
+(a)    All significant deficiencies
+                                         and material weaknesses in the design or operation of internal control over financial
+                                         reporting which are reasonably likely to adversely affect the registrant s ability
+                                         to record, process, summarize and report financial information; and    
+
+(b)    Any fraud, whether or not material,
+                                         that involves management or other employees who have a significant role in the registrant s
+                                         internal control over financial reporting.    
+
+Date:  
+      August 
+    14, 2018   
+      By:  
+       /s/
+    Kevin J. Mills   
+
+Name:  
+       Kevin
+                                                                      J. Mills  
+
+Title:  
+      President
+    and Chief Executive Officer (Principal Executive Officer)   
+
+</EX-31>
+
+<EX-31>
+ 3
+ exhibit31_2.htm
+ EXHIBIT 31.2
+
+Exhibit
+31.2  
+
+  CERTIFICATION  
+
+I,
+David W. Dunlap, certify that:  
+
+1.       I
+have reviewed this quarterly report on Form 10-Q of Socket Mobile, Inc.;  
+
+2.    Based
+                                         on my knowledge, this report does not contain any untrue statement of a material fact
+                                         or omit to state a material fact necessary to make the statements made, in light of the
+                                         circumstances under which such statements were made, not misleading with respect to the
+                                         period covered by this report;    
+
+3.    Based
+                                         on my knowledge, the financial statements, and other financial information included in
+                                         this report, fairly present in all material respects the financial condition, results
+                                         of operations and cash flows of the registrant as of, and for, the periods presented
+                                         in this report;    
+
+4.    The
+                                         registrant s other certifying officer and I are responsible for establishing and
+                                         maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+                                         and 15d-15(e)) and internal control over financial reporting (as defined in Exchange
+                                         Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:    
+
+(a)    Designed
+                                         such disclosure controls and procedures, or caused such disclosure controls and procedures
+                                         to be designed under our supervision, to ensure that material information relating to
+                                         the registrant is made known to us by others within those entities, particularly during
+                                         the period in which this report is being prepared;    
+
+(b)    Designed
+                                         such internal control over financial reporting, or caused such internal control over
+                                         financial reporting to be designed under our supervision, to provide reasonable assurance
+                                         regarding the reliability of financial reporting and the preparation of financial statements
+                                         for external purposes in accordance with generally accepted accounting principles;    
+
+(c)    Evaluated
+                                         the effectiveness of the registrant s disclosure controls and procedures and presented
+                                         in this report our conclusions about the effectiveness of the disclosure controls and
+                                         procedures, as of the end of the period covered by this report based on such evaluation;
+                                         and    
+
+(d)    Disclosed
+                                         in this report any change in the registrant s internal control over financial reporting
+                                         that occurred during the registrant s most recent fiscal quarter (the registrant s
+                                         fourth fiscal quarter in the case of an annual report) that has materially affected,
+                                         or is reasonably likely to materially affect, the registrant s internal control
+                                         over financial reporting; and    
+
+5.    The
+                                         registrant s other certifying officer and I have disclosed, based on our most recent
+                                         evaluation of internal control over financial reporting, to the registrant s auditors
+                                         and the audit committee of the registrant s board of directors (or persons performing
+                                         the equivalent functions):    
+
+(a)    All
+                                         significant deficiencies and material weaknesses in the design or operation of internal
+                                         control over financial reporting which are reasonably likely to adversely affect the
+                                         registrant s ability to record, process, summarize and report financial information;
+                                         and    
+
+(b)    Any
+                                         fraud, whether or not material, that involves management or other employees who have
+                                         a significant role in the registrant s internal control over financial reporting.    
+
+Date:  
+      August
+    14, 2018  
+      By:  
+       /s/
+    David W. Dunlap   
+
+Name:  
+       David
+                                         W. Dunlap  
+
+Title:  
+      Vice
+    President of Finance and Administration and Chief Financial Officer 
+    (Principal Financial Officer)   
+
+</EX-31>
+
+<EX-32>
+ 4
+ exhibit32_1.htm
+ EXHIBIT 32.1
+
+Exhibit
+32.1  
+
+CERTIFICATION
+OF THE CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER   
+
+   PURSUANT
+TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+I,
+Kevin J. Mills, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+that the Quarterly Report of Socket Mobile, Inc. on Form 10-Q for the quarter ended June 30, 2017 fully complies with the requirements
+of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form
+10-Q fairly presents in all material respects the financial condition and results of operations of Socket Mobile, Inc.  
+
+By:  
+         
+       /s/
+    Kevin J. Mills   
+
+Name:  
+         
+       Kevin
+                                         J. Mills  
+
+Title:  
+         
+      President
+    and Chief Executive Officer (Principal Executive Officer)   
+
+Date:  
+         
+      August
+    14, 2018   
+
+I,
+David W. Dunlap, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that the Quarterly Report of Socket Mobile, Inc. on Form 10-Q for the quarter ended June 30, 2017 fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly
+Report on Form 10-Q fairly presents in all material respects the financial condition and results of operations of Socket Mobile,
+Inc.  
+
+By:  
+         
+       /s/
+    David W. Dunlap   
+
+Name:  
+         
+       David
+                                         W. Dunlap  
+
+Title:  
+         
+      Vice
+    President of Finance and Administration and Chief Financial Officer (Principal Financial Officer)   
+
+Date:  
+         
+      August
+    14, 2018   
+
+</EX-32>
+
+<EX-101.INS>
+ 6
+ sckt-20180630.xml
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 7
+ sckt-20180630.xsd
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ sckt-20180630_cal.xml
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ sckt-20180630_def.xml
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ sckt-20180630_lab.xml
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ sckt-20180630_pre.xml
+
+</EX-101.PRE>
+

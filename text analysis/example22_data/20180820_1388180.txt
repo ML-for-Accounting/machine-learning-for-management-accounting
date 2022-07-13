@@ -1,0 +1,1648 @@
+ON   
+
+   Washington,
+D.C. 20549   
+
+Form
+10-Q   
+
+Mark
+One  
+
+[  ]  
+      TRANSITION
+    REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+For
+    the transition period from __________ to __________   
+
+Commission
+File No. 000-53006   
+
+Novus
+Robotics Inc.   
+
+  (Name
+of small business issuer in its charter)  
+
+Nevada   
+         
+       20-3061959    
+ 
+      (State
+    or other jurisdiction of  
+    incorporation or organization)  
+         
+      (I.R.S.
+    Employer  
+    Identification No.)   
+
+7669
+Kimbal Street   
+
+   Mississauga,
+Ontario   
+
+    Canada
+L5S 1A7    
+
+  (Address
+of principal executive offices)  
+
+(905)
+672-7669    
+
+  (Issuer s
+telephone number)  
+
+N/A    
+
+  (Former
+name, former address and former fiscal year, if changes since last report)  
+
+Securities
+    registered pursuant to Section  
+    12(b) of the Act:  
+         
+      Name
+    of each exchange on which  
+    registered:   
+ 
+       None   
+
+Securities
+registered pursuant to Section 12(g) of the Act:  
+
+   Common
+Stock, $0.001   
+
+  (Title
+of Class)  
+
+Indicate
+by checkmark whether the issuer: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during
+the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. Yes [X] No [  ]  
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 229.405 of this chapter) during
+the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files. Yes [X] No
+[  ]  
+
+Indicate
+by check mark whether the registrant is a large accelerated filed, an accelerated filer, a non-accelerated filer, or a smaller
+reporting company.  
+
+Large
+    accelerated filer  
+      [  ]  
+      Accelerated
+    filer  
+      [  ]   
+
+Non-accelerated
+    filer  
+      [  ]  
+      Smaller
+    reporting company  
+      [X]   
+
+Emerging
+    growth company  
+      [  ]  
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 7(a)(2)(B) of the Securities Act.
+[  ]  
+
+Indicate
+by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [  ] No [X]  
+
+Applicable
+Only to Issuer Involved in Bankruptcy Proceedings During the Preceding Five Years.  
+
+N/A  
+
+Indicate
+by checkmark whether the issuer has filed all documents and reports required to be filed by Section 12, 13 and 15(d) of the Securities
+Exchange Act of 1934 after the distribution of securities under a plan confirmed by a court. Yes [  ] No [  ]  
+
+Applicable
+Only to Corporate Registrants.   
+
+Indicate
+the number of shares outstanding of each of the issuer s classes of common stock, as of the most practicable date:  
+
+NOVUS
+ROBOTICS INC.   
+
+Form
+10-Q   
+
+PART I. FINANCIAL INFORMATION    
+
+Item
+    1.  
+       Financial Statements (unaudited)   
+      4   
+
+Interim Consolidated Balance Sheets (unaudited)   
+      4   
+
+Interim Consolidated Statements of Earnings and Comprehensive Income (unaudited)   
+      5   
+
+Interim Consolidated Statements of Cash Flows (unaudited)   
+      6   
+
+Interim Consolidated Notes to Financial Statements   
+      7   
+
+Item
+    2.  
+       Management s Discussion and Analysis of Financial Condition and Results of Operations   
+      14   
+
+Item
+    3.  
+       Quantitative and Qualitative Disclosures About Market Risk   
+      22   
+
+Item
+    4.  
+       Controls and Procedures   
+      22   
+
+PART II. OTHER INFORMATION    
+
+Item
+    1.  
+       Legal Proceedings   
+      24   
+
+Item
+    1A.  
+       Risk Factors   
+      24   
+
+Item
+    2.  
+       Unregistered Sales of Equity Securities and Use of Proceeds   
+      24   
+
+Item
+    3.  
+       Defaults Upon Senior Securities   
+      24   
+
+Item
+    4.  
+       Mine Safety Disclosures   
+      24   
+
+Item
+    5.  
+       Other Information   
+      24   
+
+Item
+    6.  
+       Exhibits   
+      24   
+
+FORWARD
+LOOKING STATEMENTS   
+
+Statements
+made in this Form 10-Q that are not historical or current facts are  forward-looking statements  made pursuant to
+the safe harbor provisions of Section 27A of the Securities Act of 1933 (the  Act ) and Section 21E of the Securities
+Exchange Act of 1934. These statements often can be identified by the use of terms such as  may,   will, 
+ expect,   believe,   anticipate,   estimate,   approximate  or  continue, 
+or the negative thereof. We intend that such forward-looking statements be subject to the safe harbors for such statements. We
+wish to caution readers not to place undue reliance on any such forward-looking statements, which speak only as of the date made.
+Any forward-looking statements represent management s best judgment as to what may occur in the future. However, forward-looking
+statements are subject to risks, uncertainties and important factors beyond our control that could cause actual results and events
+to differ materially from historical results of operations and events and those presently anticipated or projected. We disclaim
+any obligation subsequently to revise any forward-looking statements to reflect events or circumstances after the date of such
+statement or to reflect the occurrence of anticipated or unanticipated events.  
+
+PART
+I   
+
+ITEM
+1. FINANCIAL STATEMENTS   
+
+NOVUS
+ROBOTICS INC.   
+
+   CONSOLIDATED
+FINANCIAL STATEMENTS   
+
+NOVUS
+ROBOTICS INC.   
+
+    Consolidated
+Balance Sheets  
+
+The
+accompanying notes are an integral part of these consolidated financial statements   
+
+NOVUS
+ROBOTICS INC.   
+
+    Consolidated
+Statements of Earnings and Comprehensive Income  
+
+  (Unaudited)  
+
+The
+accompanying notes are an integral part of these consolidated financial statements   
+
+NOVUS
+ROBOTICS INC.   
+
+    Consolidated
+Statements of Cash Flows  
+
+  (Unaudited)  
+
+The
+accompanying notes are an integral part of these consolidated financial statements   
+
+NOVUS
+ROBOTICS INC.   
+
+     Notes
+to Consolidated Financial Statements    
+
+  June
+30, 2018  
+
+  (Unaudited)  
+
+1.     Basis
+                                         of Presentation and Continuance     
+
+Novus
+Robotics Inc. ( Novus  or  the Company ), formerly known as Ecoland International Inc. ( Ecoland ),
+a Nevada corporation, was incorporated on June 24, 2005 under the name Guano Distributors, Inc. for the purpose of selling Dry-Bar
+Cave bat guano. On June 28, 2006, the articles of incorporation were amended to change its name to Ecoland. On March 13, 2012,
+the articles of incorporation were amended to change the Company s name to Novus. The Company carries on business in one
+segment being the engineering, design and the manufacturing of automated tube processing solutions for the automotive industry.  
+
+2.     Significant
+                                         Accounting Policies     
+
+Basis
+of Presentation   
+
+These
+interim consolidated financial statements and related notes are presented in accordance with accounting principles generally accepted
+in the United States and are expressed in US dollars. The functional currency of Novus is the Canadian Dollar.  
+
+The
+interim consolidated financial information furnished herein reflects all adjustments, which, in the opinion of management, all
+adjustments (consisting of normal recurring accruals) considered necessary for a fair statement of results in accordance with
+General Accepted Accounting Principles in the United States ( U.S. GAAP ), have been included and properly prepared
+within reasonable limits of materiality and within the framework of the significant accounting policies summarized below.  
+
+Principles
+of Consolidation   
+
+The
+interim consolidated financial statements include the accounts and operations of Novus and its wholly owned subsidiaries D R
+Technologies Inc and D R Toolings Inc. All inter-company accounts and transactions have been eliminated on consolidation.  
+
+Use
+of Estimates   
+
+The
+preparation of interim consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at
+the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period.
+Financial statement items subject to significant judgment include expense accruals, as well as income taxes and loss contingencies.
+Actual results could differ from those estimates.  
+
+The
+areas which require management to make significant judgments, estimates and assumptions in determining carrying values include,
+but are not limited to:  
+
+NOVUS
+ROBOTICS INC.   
+
+   Notes
+to Consolidated Financial Statements    
+
+  June
+30, 2018  
+
+  (Unaudited)  
+
+2.     SIGNIFICANT
+                                         ACCOUNTING POLICIES - continued     
+
+Assets 
+carrying values and impairment charges    
+
+Assets,
+including property and equipment and inventory, are reviewed for impairment whenever events or changes in circumstances indicate
+that their carrying amount exceeds their recoverable amounts. In the determination of carrying values and impairment charges,
+management looks at the higher of recoverable amount or fair value less costs to sell in the case of assets and at objective evidence,
+significant or prolonged decline of fair value on financial assets indicating impairment. These determinations and their individual
+assumptions require that management make a decision based on the best available information at each reporting period.  
+
+Income
+taxes and recoverability of potential deferred tax assets   
+
+In
+assessing the probability of realizing income tax assets recognized, management makes estimates related to expectations of future
+taxable income, applicable tax planning opportunities, expected timing of reversals of existing temporary differences and the
+likelihood that tax positions taken will be sustained upon examination by applicable tax authorities. In making its assessments,
+management gives additional weight to positive and negative evidence that can be objectively verified. Estimates of future taxable
+income are based on forecasted cash flows from operations and the application of existing tax laws in each jurisdiction. The Company
+considers whether relevant tax planning opportunities are within the Company s control, are feasible, and are within management s
+ability to implement. Examination by applicable tax authorities is supported based on individual facts and circumstances of the
+relevant tax position examined in light of all available evidence. Where applicable tax laws and regulations are either unclear
+or subject to ongoing varying interpretations, it is reasonably possible that changes in these estimates can occur that materially
+affect the amounts of income tax assets recognized. Also, future changes in tax laws could limit the Company from realizing the
+tax benefits from the deferred tax assets. The Company reassesses unrecognized income tax assets at each reporting period.  
+
+Warranty
+Provision   
+
+In
+assessing the warranty provision, management makes estimates related to expectations of future repair cost needed to service new
+seat frame sales under its two year warranty terms. These determinations and their individual assumptions require that management
+make a decision based on the best available information at each reporting period  
+
+Long-lived
+Assets   
+
+In
+accordance with the Financial Accounting Standards Board ( FASB ) ASC No. 360,  Property, Plant and Equipment 
+the carrying value of intangible assets and other long-lived assets is reviewed on a regular basis for the existence of facts
+or circumstances that may suggest impairment. The Company recognizes impairment when the sum of the expected undiscounted future
+cash flows is less than the carrying amount of the asset. Impairment losses, if any, are measured as the excess of the carrying
+amount of the asset over its estimated fair value.  
+
+NOVUS
+ROBOTICS INC.   
+
+   Notes
+to Consolidated Financial Statements    
+
+  June
+30, 2018  
+
+  (Unaudited)  
+
+2.     SIGNIFICANT
+                                         ACCOUNTING POLICIES - continued     
+
+Regulatory
+Matters   
+
+The
+Company is subject to a variety of federal, provincial and state regulations governing land use, health, safety and environmental
+matters. The Company s management believes it has been in substantial compliance with all such regulations.  
+
+Cash
+and Cash Equivalents   
+
+The
+Company considers all highly liquid instruments with maturities of three months or less at the time of issuance to be cash equivalents.
+At June 30, 2018, the Company had no cash equivalents. The Company maintains its cash in bank deposit accounts which may exceed
+federally insured limits. As of June 30, 2018, the Company s accounts are insured for $100,000 CDN by Canadian Deposit Insurance
+Corporation for Canadian bank deposits  and are insured for $250,000 by FDIC for US bank
+deposits .  
+
+Factoring
+Agreement and Accounts Receivable   
+
+The
+Company has a financing agreement that included a non-recourse factoring arrangement that provides nonrecourse factoring on the
+Company s receivable from its primary customer Johnson Controls, Inc. to assist in its operational cash flow requirements.
+The factor is based on credit approved orders, assumes the accounts receivable risk of the Company s customer in the event
+of insolvency or non-payment. The Company assumes the risk on accounts receivable not factored to which is shown as accounts receivable
+on the accompanying balance sheets. As of June 30,2018, the Company had $20,170 and had $23,243 at December 31, 2017 of factored
+receivables. Finance charges associated with the sale of factored receivable for the period ended June 30, 2018 and June 30, 2017
+were $2,411 and $6,068 and are included in office and general expense.  
+
+Allowance
+for Doubtful Accounts   
+
+The
+Company extends credit to customers in the normal course of business. The allowance for doubtful accounts represents the Company s
+best estimate of the amount of probable credit losses in the Company s existing accounts receivable. The Company determines
+the allowance based on specific customer information, historical write-off experience and current industry and economic data.
+Account balances are charged off against the allowance when the Company believes it is probable the receivable will not be recovered.
+Management believes that there are no concentrations of credit risk for which an allowance has not been established. Although
+management believes that the allowance is adequate, it is possible that the estimated amount of cash collections with respect
+to accounts receivable could change. As of June 30, 2018, the Company has not deemed any accounts uncollectible.  
+
+NOVUS
+ROBOTICS INC.   
+
+   Notes
+to Consolidated Financial Statements   
+
+  June
+30, 2018  
+
+  (Unaudited)  
+
+2.
+SIGNIFICANT ACCOUNTING POLICIES - continued   
+
+Inventory   
+
+Inventory
+is stated at the lower of cost or market using the first-in, first-out ( FIFO ) method. Cost of work in progress
+and finished goods includes raw materials, direct labor and indirect manufacturing costs. The Company s inventory
+balance at June 30, 2018 was comprised of work-in-progress. This policy requires D R to make estimates
+regarding the market value of our inventory, including an assessment of excess or obsolete inventory. The Company determines
+excess and obsolete inventory based on an estimate of the future demand and estimated selling prices for its
+products.  
+
+Fixed
+Assets   
+
+Fixed
+assets are stated at cost. Depreciation is recorded on a straight line basis reflective of the useful lives of the assets. Expenditures
+for maintenance and repairs are charged to operations when incurred, while additions and betterments are capitalized. When assets
+are retired or disposed, the asset s original cost and related accumulated depreciation are eliminated from accounts and
+any gain or loss is reflected in income.  
+
+Estimated   
+
+Useful
+    Life   
+
+Office
+    equipment   
+      5
+    years   
+ 
+      Computer
+    equipment  
+      5
+    years   
+ 
+      Delivery
+    trucks  
+      5
+    years   
+ 
+      Shop
+    and Machinery equipment  
+      5
+    to 10 years   
+
+Foreign
+Currency Translation   
+
+Gains
+and losses arising upon settlement of foreign currency denominated transactions or balances are included in the determination
+of income. The Company s functional currency is the Canadian dollar. Transactions in foreign currency are translated into
+Canadian dollars then translated into U.S. dollars for reporting in accordance with the ASC 830-30 as follows:  
+
+For assets and liabilities, the exchange rate at the balance sheet date shall be used.  
+
+For revenues, expenses, gains, and losses, the exchange rate at the dates on which those elements are recognized shall be used.  
+
+Translation
+adjustments are included in accumulated other comprehensive income (loss), a separate component of shareholders  equity.  
+
+Financial
+Instruments   
+
+The
+carrying values of the Company s financial instruments, which comprise cash, accounts receivable, accounts payable, payroll
+liabilities, loan payable, taxes payable and due to officers/shareholders, approximate their fair values due to the immediate
+or short-term maturity of these instruments. Currently, the Company does not use derivative instruments to reduce its exposure
+to foreign currency risk.  
+
+NOVUS
+ROBOTICS INC.   
+
+   Notes
+to Consolidated Financial Statements   
+
+  June
+30, 2018  
+
+  (Unaudited)  
+
+2.
+SIGNIFICANT ACCOUNTING POLICIES - continued   
+
+Fair
+Value Measurements   
+
+The
+authoritative guidance for fair values establishes a three tier fair value hierarchy, which prioritizes the inputs used in measuring
+fair value. Level 1, defined as observable inputs such as quoted prices in active markets; Level 2, defined as inputs other than
+quoted prices in active markets that are either directly or indirectly observable; and Level 3, defined as unobservable inputs
+in which little or no market data exists, therefore requiring an entity to develop its own assumptions.  
+
+Income
+T  axes   
+
+Potential
+benefits of income tax losses are not recognized in the accounts until realization is more likely than not. The Company has adopted
+ASC 740,  Accounting for Income Taxes,  as of its inception. Pursuant to ASC 740, the Company is required to compute
+tax asset benefits for net operating losses carried forward. The potential benefits of net operating losses have not been recognized
+in these financial statements because the Company cannot be assured it is more likely than not it will be able to utilize the
+net operating losses carried forward in future years.  
+
+Recorded
+in other (income) and expenses are monies recovered relating to non-refundable, federal government Scientific Research   Experimental
+Development ( SR ED ) tax credits. Due to the uncertain nature of these expenditures, the Company does not record
+any amount until such time as the deduction is approved by Canadian provincial and federal governments.  
+
+Advertising
+Costs   
+
+Advertising
+costs are expensed as incurred. No advertising costs have been incurred by the Company to date.  
+
+Revenue
+Recognition   
+
+The
+Company recognizes revenue in accordance with ASC 606, Revenue from Contracts with Customers  ( ASC 606 ).
+In accordance with ASC 606, Novus applies the following methodology to recognize revenue:  
+
+i.  
+      Identify
+    the contract with a customer.   
+
+ii.  
+      Identify
+    the performance obligations in the contract.   
+
+iii.  
+      Determine
+    the transaction price.   
+
+iv.  
+      Allocate
+    the transaction price to the performance obligations in the contract.   
+
+v.  
+      Recognize
+    revenue when (or as) the entity satisfies a performance obligation.   
+
+NOVUS
+ROBOTICS INC.   
+
+   Notes
+to Consolidated Financial Statements   
+
+  June
+30, 2018  
+
+  (Unaudited)  
+
+2.
+SIGNIFICANT ACCOUNTING POLICIES - continued   
+
+Accordingly,
+the Company recognizes specific components of revenue as described below:    
+
+1.  
+      Spare
+    parts   Revenues and cost of sales are recognized at the time of sale.   
+
+2.  
+      Service
+      Revenues and cost of sales are recognized at the time services are performed and accepted by customer via sign off.   
+
+3.  
+      Seat
+    systems and tooling   progress invoicing to the customer are recorded as deferred revenue. When the projects are installed
+    and accepted by the customer the final invoice is issued and all deferred revenue is recognized along with the related work
+    in process costs for the project. Systems generally take 20-28 weeks to design, manufacture, assemble, and then ship to our
+    various customers. As of June 30, 2018 and December 31, 2017 customer deposits were $180,886 and $828,184 respectively.   
+
+D R
+provides standard warranties for its product from the date of shipment. Estimated warranty obligations are recorded at the time
+of sale and amortized over the two year warranty period. As of June 30, 2018 and December 31, 2017, warranty liability was $41,069
+and $18,529.  
+
+Earnings
+per Common Share   
+
+Net
+income per share is provided in accordance with ASC 260-10,  Earnings per Share . We present basic income per share
+( EPS ) and diluted EPS the face of the statement of operations. Basic EPS is computed by dividing reported net income
+(loss) applicable to common shareholders by the weighted average number of common shares outstanding during the period. Except
+where the result would be anti-diluted to income from continuing operations, diluted earnings per share would be computed assuming
+the conversion of the convertible long-term debt and the elimination of the related interest expense, and the exercise of stock
+warrants. Income per common share has been computed using the weighted average number of common shares outstanding during the
+year.  
+
+Comprehensive
+Income   
+
+The
+Company has adopted ASC 220,  Comprehensive Income,  which establishes standards for reporting and the display of
+comprehensive income, its components and accumulated balances. Comprehensive income (loss) is defined to include all changes in
+equity except those resulting from investments by owners or distributions to owners. Among other disclosures, ASC 220 requires
+that all items that are required to be recognized under the current accounting standards as a component of comprehensive income
+be reported in a financial statement that is displayed with the same prominence as other financial statements. Comprehensive income
+(loss) is displayed in the balance sheet as a component of shareholders  equity.  
+
+Recent
+Accounting Pronouncements   
+
+The
+Company has evaluated recent accounting updates and the potential impact upon adoption from which Novus has discerned that any
+new accounting standard updates are not expected to have a significant impact on the Company s financial statements.  
+
+NOVUS
+ROBOTICS INC.   
+
+   Notes
+to Consolidated Financial Statements   
+
+  June
+30, 2018  
+
+  (Unaudited)  
+
+3.
+FIXED ASSETS   
+
+Fixed
+assets are comprised of the following:  
+
+Depreciation
+expense for the six months ended June 30, 2018 was $14,205 (2017 - $13,357).  
+
+4.
+OBLIGATION UNDER CAPITAL LEASE   
+
+The
+Company entered into a lease to purchase equipment in November of 2015. An initial payment of $16,900 was made with the balance
+of the lease to be satisfied in 36 equal monthly payments of approximately $820. The interest rate related to the lease obligation
+is 14% with a maturity date of November 2018 at which time the option exists to purchase the equipment for $4,600.  
+
+5.
+COMMON AND PREFERRED STOCK   
+
+On
+October 26, 2015, the Board of Directors approved a reverse stock split of one for three hundred reverse stock split of the Company s
+total issued and outstanding shares of common stock. The Reverse Stock Split was affected on January 21, 2016 and reduced the
+total number of issued and outstanding common shares from 88,650,000 to 296,641. The resultant decrease in the value attributed
+to the common stock was transferred to Additional Paid In Capital ( APIC ) in the amount of $88,354. All share and
+related stock option information presented in these consolidated financial statements has been retroactively adjusted to the reduced
+number of shares resulting from this transaction.  
+
+Each
+share of Series A Preferred Stock is convertible on a one-for-one basis into common stock, has all of the voting rights that the
+holders of the common shares and has the ability to elect three directors.  
+
+The
+Series B Preferred Stock ( Series B ) has voting rights whose holders must vote together with the common stock. Each
+Series B share has the same number of votes equal to 5,000 common shares and in the event of a stock split, share dividend or
+otherwise for the common shares will retain this voting proportion.  
+
+6 .
+RELATED PARTY TRANSACTION   
+
+D R
+Technologies paid consulting fees to a company owned by the President consulting fees in the second quarter in the amount of $42,120
+(2017 - $Nil) and for the six months ended of $xx (2017 - $Nil).  
+
+7.
+ LEASES AND OTHER COMMITMENTS   
+
+The
+Company leases premises totaling 18,000 square feet with monthly lease payments of approximately CDN$8,400 per month. Total minimum
+lease payments of CDN$109,200 are required to the lease expiration date on July 31, 2019.  
+
+D R
+Technology has entered into purchase agreements to acquire two pre-construction rental properties totaling CDN$740,000. Deposits
+in the amount of $23,000 have been paid and included in prepaid expenses. Closings on these properties are scheduled between November
+of 2019 and March 2020.  
+
+D R
+Technology failed to comply with Section 5 of the Securities Act of 1933 regarding registration of its common shares issued to
+shareholders of D Mecatronics in connection with its spin-off of D R Technology in 2011. In management s opinion, any
+legal liability with this failure to comply has been deemed remote.  
+
+ITEM
+2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS   
+
+GENERAL   
+
+We
+were formed in the State of Nevada on June 24, 2005 under the name Guano Distributors, Inc. Prior to our incorporation, on April
+15, 2005, David Wallace, our then-chief executive officer, chief financial officer and sole director, formed Guano Distributors
+(Pty) Ltd., a South African registered company, for the purpose of selling Dry-Bar Cave bat guano. On May 15, 2005, Mr. Wallace
+transferred all of his ownership interest in Guano Distributors (Pty) Ltd. to us. On June 28, 2006, we amended our Articles of
+Incorporation to change our name to Ecoland International, Inc.  
+
+Please
+note that throughout this Quarterly Report, and unless otherwise noted, the words  we,   our,   us, 
+the  Company,  or  Novus Robotics,  refers to Novus Robotics Inc.  
+
+Share
+Exchange Agreement   
+
+Ecoland
+International, Inc., now known as Novus Robotics Inc., D R Technology Inc., a private corporation ( D R
+Technology ) and, Berardino Paolucci and Drakso Karanovic, the shareholders of D R Technology Inc. (the
+ D R Shareholders ) entered into that certain share exchange agreement dated January 27, 2012 (the
+ Share Exchange Agreement ). Our Board of Directors approved the execution and consummation of the transaction
+under the Share Exchange Agreement on February 1, 2012. In accordance with the terms and provisions of the Share Exchange
+Agreement, we issued an aggregate of 59,000,000 pre-Reverse Stock Split shares of our restricted common stock to the D R
+Shareholders (which consisted of Messrs. Paolucci and Karanovic and D Mecatronics, which is holding the shares for the
+benefit of the remaining shareholders of D R Technology) in exchange for 100% of the total issued and outstanding shares
+of D R Technology, thus making D R Technology its wholly-owned subsidiary. Our Board of Directors deemed it in the
+best interests of our shareholders to enter into the Share Exchange Agreement pursuant to which it would acquire all the
+technology and assets and assume all liabilities of D R Technology. This resulted in a change in control and our overall
+business operations thus bringing potential value to our shareholders. D R Technology was previously the wholly-owned
+subsidiary of D Mecatronics Inc., a Delaware corporation. On approximately November 10, 2011, D Mecatronics spun-off D R
+Technology. D R Technology subsequently issued shares of its restricted common stock to the shareholders of D
+Mecatronics on a pro-rata basis in accordance with their respective equity holdings in D Mecatronics. The equity percentages
+regarding the issuance of shares by D R Technology were 48% to Berardino Paolucci, 24% to Drasko Karanovic and 28% to
+various shareholders (which shares were previously held by D Mecatronics on behalf of these shareholders).  
+
+Escrow
+Agreement.   
+
+On
+June 4, 2013, our Board of Directors authorized the execution of that certain escrow agreement dated June 4, 2013 (the  Escrow
+Agreement ) with Manhattan Transfer Registrar Co., our transfer agent ( Manhattan Transfer ). As disclosed in
+previous filings with the Securities and Exchange Commission, on approximately November 10, 2011, D Mecatronics Inc. ( D
+Mecatronics ) spun-off our wholly-owned subsidiary, D R Technology. D R Technology subsequently issued shares of
+its restricted common stock to the shareholders of D Mecatronics on a pro-rata basis in accordance with their respective equity
+holdings in D Mecatronics. The equity percentages regarding the issuance of shares by D R Technology were 48% to Berardino
+Paolucci, 24% to Drasko Karanovic and 28% to various shareholders (which shares were being held by D Mecatronics on behalf of
+these shareholders). The transfer agent for D Mecatronics at the time of the spin-off was Global Sentry Equity Transfer Inc. ( Global
+Sentry ). At the time of the spin-off, management of D Mecatronics had attempted on several occasions to contact Global
+Sentry with regards to its shareholder list and records. However, any and all attempts were to no avail. To date, D Mecatronics
+has not been able to obtain any of its records, including a shareholders list, from Global Sentry. Management has no knowledge
+or information as to the whereabouts of Global Sentry or its management nor of the location of its records and shareholders list.
+This has impeded the issuance of the shares of D R Technology to the appropriate 28% minority shareholders of D Mecatronics
+and thus the reason why D Mecatronics was holding the shares in trust for the benefit of its shareholders.  
+
+Subsequently,
+we entered into the Share Exchange Agreement. Our Board of Directors had approved the execution and consummation of the transaction
+under the Share Exchange Agreement on February 1, 2012. In accordance with the terms and provisions of the Share Exchange Agreement,
+we issued an aggregate of 59,000,000 pre-reverse stock split shares of our restricted common stock to the D R Shareholders
+(which consisted of Messrs. Paolucci and Karanovic and D Mecatronics, which held the shares for the benefit of the remaining shareholders
+of D R Technology) in exchange for 100% of the total issued and outstanding shares of D R Technology, thus making D R
+Technology our wholly-owned subsidiary. The Board of Directors deemed it in the best interests of the shareholders to enter into
+the Share Exchange Agreement pursuant to which it would acquire all the technology and assets and assume all liabilities of D R
+Technology.  
+
+The
+majority shareholders of D R Technology approved the Share Exchange Agreement as did its Board of Directors. The Board of
+Directors of D R Technology resolved in its board resolutions to issue to D Mecatronics the 16,520,000 pre-reverse stock split
+shares on behalf of the missing 28% minority shareholders of D R Technology (who are also the unknown shareholders of D Mecatronics).  
+
+Therefore,
+D Mecatronics held in trust and for the benefit of its unknown shareholders (and as shareholders of D R Technology) the shares
+to be issued to them by the Company. D Mecatronics is in the process of attempting to locate the transfer agent in order to obtain
+its records.  
+
+We
+are also in the process of locating the missing shareholders of D Mecatronics (and also as shareholders of D R Technology)
+to whom our shares should be issued in accordance with the terms and provisions of the Share Exchange Agreement. Therefore, we
+entered into the Escrow Agreement. In accordance with the terms and provisions of the Escrow Agreement, D Mecatronics returned
+to Manhattan Transfer the share certificate evidencing the shares of our common stock issued to it as trustee. A new share certificate
+was issued to Manhattan Transfer as trustee in the aggregate denomination of 16,520,000 shares to be held in escrow. Together
+with Manhattan Transfer, we created a shareholders list (the  Shareholders List ) indicating each record owner of
+the shares. Subsequent to the date of the Escrow Agreement, Manhattan Transfer has released shares to certain of the persons indicated
+on the Shareholders List. As of the date of this Quarterly Report, Manhattan Transfer has issued approximately 5,331,641 of the
+16,520,000 shares held in escrow to the shareholders listed on the Shareholder List.  
+
+We
+will place on our website www.novusrobotics.com (which is currently under construction) under  Investor Relations 
+contact information to be used by persons/entities that believe they were shareholders of D Mecatronics. Such individuals/entities
+should contact our management.  
+
+CURRENT
+BUSINESS OPERATIONS   
+
+We
+are involved in the area of engineering, design and manufacture of robotics and automation technology solutions for tube bending
+machines, which management believes will enable us to become a recognized technology pioneer and market leader in the area of
+engineering. Through our wholly-owned subsidiary, D R Technology, we will provide state of the art automation technologies
+through its automated tube bending machines which we design, engineer and build for the automotive industry to solve its customers 
+complex automation needs, increase efficiencies and improve manufacturing processes. Serving as a comprehensive engineering partner,
+we will work with other leading robotic manufacturers to provide the best automation technologies. We will provide automation
+solutions to a wide spectrum of customers and industries ranging from large Fortune 500 companies to small privately-held businesses.
+Our automated solutions can be found in manufacturing, assembly and processing lines throughout the United States, Canada, Mexico
+and South America. D R Technology, has served the automotive industry for more than seven years and is currently applying
+its service solutions to other markets, such as medical robotics, personal robotic devices and water treatment industry. Management
+believes that increasing use of robotics in sectors such as food handling and processing, clean technology and energy, as well
+as pharmaceutical and general consumer goods production, will lead to increased demand for company s products as manufacturers
+look to improve the speed, quality and reliability of production through automation. As of the date of this Quarterly Report,
+we have not generated any revenue from the medical robotics, personal robotic devices, water treatment industry, food handling
+and processing, clean technology and energy or pharmaceutical and general consumer goods production.  
+
+We
+are involved in the area of engineering, design and the manufacturing of automated solutions through its automated tube bending
+machines for the automotive industry and intends to rapidly become one of the leading providers of automated manufacturing solutions,
+which are used primarily by three of the top ten Tier I automotive part suppliers in the world. We also make precision components
+and tooling using our own custom-built manufacturing systems, process knowledge and automation technology. We purchase from third
+parties components for the electrical cabinet, which creates the automation and controls section of the machinery. The electrical
+cabinet consists of fuses, holders, relays, cables, wiring, controls and sensors, which we purchase from our suppliers, i.e. Gerrie
+Electric, Beckhoff, Allen Bradley and others. We integrate these purchased parts from our suppliers into our electrical and controls
+design to make the automated tube bending machines operational. We provide all the programming of the electrical cabinet as well.
+The computer programming is based upon the specific needs.  
+
+Our
+business is in the early development and operating stages. To date, our primary activities include designing and installation
+of retrofits to existing automated systems, automated spare parts for our tube bending machines, automated maintenance and repairs.
+We are currently offering products such as Seat Frame Systems, IP Tube systems and Integrated Bend-Weld Systems for the automotive
+industry. Our primary focus will be placed on product engineering and manufacturing processes as discussed above to ensure the
+highest quality, product features and efficient manufacturing processing.  
+
+We
+are a full service provider of turn-key production solutions, specializing in tubular components for our tube bending machines.
+Our experience is firmly rooted in fabrication solutions for automated components, such as seat frames and instrument panel beams.
+Our expertise is in the areas of automation and machinery for computer numerical control (CNC) bending, forming, piercing and
+laser cutting, which is applicable to a wide range of production solutions. We produce spare parts for the manufacturing equipment
+we design. We do not produce spare parts for automobiles.  
+
+MANAGEMENT
+DISCUSSION AND ANALYSIS AND PLAN OF OPERATIONS RESULTS OF OPERATION   
+
+NOVUS
+ROBOTICS INC.   
+
+  Consolidated
+Statements of Earnings and Comprehensive Income  
+
+  (Unaudited)  
+
+The
+accompanying notes are an integral part of these consolidated financial statements   
+
+The
+financial information in the table above is derived from the quarterly unaudited financial statements. The following discussion
+should be read in conjunction with our audited financial statements and the related notes that appear elsewhere in this Quarterly
+Report on Form 10-Q. The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs.
+The Corporation s actual results could differ materially from those discussed in the forward looking statements. Factors
+that could cause or contribute to such differences include, but are not limited to those discussed below and elsewhere in this
+Quarterly Report on Form 10-Q. The financial statements are stated in United States Dollars and are prepared in accordance with
+United States Generally Accepted Accounting Principles.  
+
+Three
+Month Period Ended June    30, 2018 Compared to Three Month Period Ended June 30, 2017.   
+
+We
+generated revenue during the three month period ended June 30, 2018 in the amount of $1,799,908 compared to $1,022,570 generated
+during the three month period ended June 30, 2017 (an increase of $777,338). Major components of the revenue mix for change from
+June 30, 2018 to June 30, 2017 are as follows:  
+
+1.  
+      Prototypes
+    Parts   decreased $162,570 for prototypes for Adient/JCI projects as no projects were initiated in the second quarter
+    of 2018.   
+
+2.  
+      Spare
+    Parts and Services increased $4,600 for replacement parts required by many customers including Adient, Toyota, PWO Kitchener,
+    Van Rob Mexico and Adient Athens to replace worn parts.   
+
+3.  
+       Retrofit
+Systems - increased $107,640. We assess old machines and recommend that specified work needs to be done on them. This includes
+all mechanical , electrical, hydraulic and pneumatics as required. We then replace worn parts on old benders overhauled benders
+for Adient - Lakewood System C, Adient   Athens, PWO - Kitchener, Adient   Ramos move machines for customers, install
+additional tooling units on existing benders. We did a retrofit for a machine at Adient.    
+
+4.  
+      Seat
+    Frame System - increase of $827,668 as one machine was sold during Q2 2017 compared to the 3 unitst sold during Q2 2018. They
+    were to existing and new customers.   
+
+5.  
+       Medical
+        robotics, personal robotic devices and water treatment industry We have not generated revenue from these sources as yet
+        and will continue to investigate opportunities in these areas to augment its core business.  
+
+Cost
+of sales:  During the three month period ended June 30, 2018, cost of sales was $1,332,109 compared to $612,766 during the
+three month period ended June 30, 2017 (a increase of $719,343). The change in products sold in the three month period ended June
+30, 2018 contributed to a decrease in our gross margin over the three month period ended June 30, 2017. Less work for retrofit
+systems, where the majority of the costs are borne by the customer, did not assist in offsetting the lower product margins generated
+on the sale of seat frames during the three month period ended June 30, 2018.  
+
+Gross
+Profit.  Thus, based on the above, our gross profit increased to $467,799 during the three month period ended June 30, 2018
+from $409,804 during the three month period ended June 30, 2017.  
+
+Operating
+expenses:  During the three month period ended June 30, 2018, we incurred operating expenses in the amount of $330,892
+compared to operating expenses incurred during the three month period ended June 30, 2017 of $240,026 (a increase of
+$90,866). Operating expenses include: (i) compensation of $145,728 (2017: $152,510); (ii) occupancy costs of $17,244 (2017:
+$16,681); (iii) travel of $33,629 (2017: $12,113); (iv) professional fees of $86,706 (2017: $37,113); (v) communication of
+$2,527 (2017: $2,084); and (vi) office and general of $45,058(2017: $19,524). In respect of compensation, more labor charges
+were capitalized to the work in process projects during the three month period ended June 30, 2017 compared to the three
+month period ended June 30, 2018 due to the timing and completion of specific projects resulting in a decrease of $6,782
+being charged in 2018. Travel increased by $21,516 as we installed 3 machines in 2018 compared to 1 in 2017, on acquiring new
+customers and opportunities during the three month period ended June 30, 2017 as compared to the same period in 2018.
+Professional fees increased by $49,593 in the three month period ended June 30, 2018 as the additional charges associated
+with our auditors were incurred during this time frame, which we did not incur in 2017. Office and general expenses increased
+by $25,533 due to increase of office costs, and rebates during 2018.  
+
+Income
+from Operations.  Thus, this resulted in net income before other income or expenses of $136,907 during the three month period
+ended June 30, 2018 compared to income before other income of $169,778 during the three month period ended June 30, 2017.  
+
+Other
+Income (Expense).  During the three month period ended June 30, 2018, we recorded $53,203 in other income as compared to other
+income of $5,165 recorded in the three month period ended June 30, 2017. The continued fluctuation of the Canadian dollar in 2018
+and 2017 against the United States dollar resulted during the three month period ended June 30, 2018 in a foreign exchange gain
+of $53,203 compared to a foreign exchange gain of $5,165 during the three month period ended June 30, 2017 on denominations transacted
+and settled in foreign currencies, primarily being sales to the United States from which the monies are being converted and used
+to satisfy Canadian dollar operational requirements.  
+
+Net
+income before income taxes.  Thus, during the three month period ended June 30, 2018, this resulted in net income before income
+taxes of $190,111 compared to net income before income taxes of $174,943 during the three month period ended June 30, 2017.  
+
+Provision
+for Income taxes.  During the three month period ended June 30, 2018, we incurred 0 in income taxes compared to ($28,266) during
+the three month period ended June 30, 2017.  
+
+Net
+Income.  Thus, this resulted in net income of $190,111 during the three month period ended June 30, 2018 as compared to net
+income of $146,678 incurred during the three month period ended June 30, 2017.  
+
+Other
+Comprehensive Gain (Loss).  During the three month period ended June 30, 2018, we recorded a foreign exchange adjustment of
+($83,075) as compared to ($10,168) during the three month period ended June 30, 2017.  
+
+Comprehensive
+Income.  Thus, during the three month period ended June 30, 2018, our comprehensive income was $107,036 or $0.00 per share
+compared to comprehensive income of $136,510 or $0.00 for the three month period ended June 30, 2017. The weighted average number
+of shares outstanding was 54,296,541 for the three month periods ended June 30, 2018 and June 30, 2017, respectively.  
+
+Six
+Month Period Ended June 30, 2018 Compared to Six Month Period Ended June 30, 2017.   
+
+We
+generated revenue during the six month period ended June 30, 2018 in the amount of $2,321,207 compared to $3,110,862 generated
+during the six month period ended June 30, 2017 (a decrease of $789,656). Major components of the revenue mix for change from
+June 30, 2018 to June 30, 2017 are as follows:  
+
+1.  
+      Prototypes
+    Parts   decreased $527,652 for prototypes for Adient/JCI projects as no projects were initiated in the six months of
+    2018.   
+
+2.  
+      Spare
+    Parts and Services - decreased $49,546 for parts required by many customers including Adient, Toyota, PWO Kitchener, Van Rob
+    Mexico and Adient Athens to replace worn parts.   
+
+3.  
+       Retrofit
+                                                         Systems - increased $135,243. We did new tooling on older machines for Adient and Constellium. We assess old machines and
+                                                         recommend that specified work needs to be done on them. This includes all mechanical , electrical, hydraulic and pneumatics
+                                                         as required. We then replace worn parts on old benders overhauled benders for Adient - Lakewood System C, Adient  
+                                                         Athens, PWO - Kitchener, Adient   Ramos move machines for customers, install additional tooling units on existing
+                                                         benders.    
+
+4.  
+      Seat
+    Frame System - decrease of $347,700 as 2 machines were sold during 6 months of 2017 at a higher price point compared to the
+    three units sold during first six months of 2018.   
+
+5.  
+       Medical
+        robotics, personal robotic devices and water treatment industry We have not generated revenue from these sources as yet
+        and will continue to investigate opportunities in these areas to augment its core business.  
+
+Cost
+of sales:  During the six month period ended June 30, 2018, cost of sales was $1,573,501 compared to $1,712,964 during the
+six month period ended June 30, 2017 (a decrease of $139,463). The change in products sold in the six month period ended June
+30, 2018 contributed to a decrease in our gross margin over the six month period ended June 30, 2017. Less work for retrofit systems,
+where the majority of the costs are borne by the customer, did not assist in offsetting the lower product margins generated on
+the sale of seat frames during the six month period ended June 30, 2018.  
+
+Gross
+Profit.  Thus, based on the above, our gross profit decreased to $747,706 during the six month period ended June 30, 2018 from
+$1,397,898 during the six month period ended June 30, 2017.  
+
+Operating
+expenses:  During the six month period ended June 30, 2018, we incurred operating expenses in the amount of $493,054 compared
+to operating expenses incurred during the six month period ended June 30, 2017 of $530,876 (a decrease of $37,811). Operating
+expenses include: (i) compensation of $202,683 (2017: $348,695); (ii) occupancy costs of $35,843 (2017: $35,348); (iii) travel
+of $47,909 (2017: $50,261); (iv) professional fees of $137,059 (2017: $55,066); (v) communication of $4,749 (2017: $4,319); and
+(vi) office and general of $64,811 (2017: $37,186). In respect of compensation, more labor charges were capitalized to the work
+in process projects during the six month period ended June 30, 2017 compared to the six month period ended June 30, 2018 due to
+the timing and completion of specific projects resulting in a decrease of $146,013 being charged in 2018. Travel decreased by
+$2,352 during the six month period ended June 30, 2017 as compared to the same period in 2018. Professional fees increased by
+$81,933 in the six month period ended June 30, 2018 as the additional charges associated with our auditors were incurred during
+this time frame, which we did not incur in 2017. Office and general expenses increased by $27,625 due to rebates, new printers,
+paper etc during 2018.  
+
+Income
+from Operations.  Thus, this resulted in net income before other income or expenses of $254,652 during the six month period
+ended June 30, 2018 compared to income before other income of $867,022 during the six month period ended June 30, 2017.  
+
+Other
+Income (Expense).  During the six month period ended June 30, 2018, we recorded $74,506 in other income as compared to other
+income of $56,945 recorded in the six month period ended June 30, 2017. The continued fluctuation of the Canadian dollar in 2018
+and 2017 against the United States dollar resulted during the six month period ended June 30, 2018 in a foreign exchange gain
+of $74,506 compared to a foreign exchange loss of ($2,888) during the six month period ended June 30, 2017 on denominations transacted
+and settled in foreign currencies, primarily being sales to the United States from which the monies are being converted and used
+to satisfy Canadian dollar operational requirements. We recovered $0 in expenses associated with recovery of scientific research
+and development expenditures during the six month period ended June 30, 2018 compared to $59,833 recovered during the six month
+period ended June 30, 2017.  
+
+Net
+income before income taxes.  Thus, during the six month period ended June 30, 2018, this resulted in net income before income
+taxes of $329,158 compared to net income of $923,967 during the six month period ended June 30, 2017.  
+
+Provision
+for Income taxes.  During the six month period ended June 30, 2018, we incurred $0 in income taxes compared to ($226,890) during
+the six month period ended June 30, 2017.  
+
+Net
+Income.  Thus, this resulted in net income of $329,158 during the six month period ended June 30, 2018 as compared to net income
+of $697,077 incurred during the six month period ended June 30, 2017.  
+
+Other
+Comprehensive Gain (Loss).  During the six month period ended June 30, 2018, we recorded a foreign exchange adjustment of ($98,623)
+as compared to $4,000 during the six month period ended June 30, 2017.  
+
+Comprehensive
+Income.  Thus, during the six month period ended June 30, 2018, our comprehensive income was $230,535 or $0.01 per share compared
+to comprehensive income of $701,077 or $0.02 for the six month period ended June 30, 2017. The weighted average number of shares
+outstanding was 54,296,541 for the six month periods ended June 30, 2018 and June 30, 2017, respectively.  
+
+LIQUIDITY
+AND CAPITAL RESOURCES   
+
+As
+of June 30, 2018   
+
+As
+of June 30, 2018, our current assets were $2,307,012 and our current liabilities were $796,415, which resulted in a working capital
+surplus of $1,510,597. As of June 30, 2018, current assets were comprised of: (i) $1,458,562 in cash; (ii) $641,358 in amounts
+receivable, net; (iii) $124,271 in inventory; (iv) $41,097 in sales tax recoverable; (v) $9,996 in security deposits; and (vi)
+$31,737 in prepaid expenses. As of June 30, 2018, current liabilities were comprised of: (i) $1898,703 in accounts payable and
+accrued expenses; (ii) $180,886 in customer deposits; (iii) $41,069 in warranty provision; (iv) $372,691 in incomes taxes payable;
+and (v) $12,066 in obligations under capital lease.  
+
+As
+of June 30, 2018, our total assets were $2,418,318 comprised of: (i) $2,307,021 in current assets; and (ii) $111,297 in
+fixed assets, net of depreciation. The decrease of total assets of $556,481 during the six month period ended June 30, 2018
+from fiscal year ended December 31, 2017 was primarily due a decrease in cash of $247,244, decrease in amounts receivable,
+net of $259,171, a decrease of sales tax recoverable of $567,466, and a decrease of $20,836 in prepaid expenses.  
+
+As
+of June 30, 2018, our total liabilities were $823,823 comprised of: (i) $796,415 in current liabilities; and (ii) $27,408 in deferred
+income taxes. The decrease in total liabilities of $787,106 during the six month period ended June 30, 2018 from December 31,
+2017 was primarily due to a decrease in accounts payable and accrued expenses of $159,606, a decrease in customer deposits of
+$647,298 and a decrease in warranty provision of $22,540, and a decrese in obligation under capital lease of $2,652.  
+
+Total
+stockholders  equity increased from $1,363,960 as of December 31, 2017 to $1,594,495 as of June 30, 2018.  
+
+Cash
+Flows from Operating Activities   
+
+For
+the six month period ended June 30, 2018, net cash flows used by operating activities was ($213,467) consisting primarily of net
+income of $267,718. Net cash flows provided by operating activities was adjusted by $14,205 in depreciation. Net cash flow from
+operating activities was further changed by: (i) a decrease of $259,171 in accounts receivable; (ii) an increase of $567,466 in
+inventory; (iii) an increase of ($20,836) in prepaid expenses; (iv) a decrease of $521 in security deposit; (v) a decrease of
+$159,606 in accounts payable and accrued expense; (vi) a decrease of $647,298 in customer deposits; (vii) a decrease of $22,540
+in warranty payable; and (viii) an increase of $992 in taxes recoverable/payable.  
+
+Cash
+Flows from Investing Activities   
+
+For
+the six month periods ended June 30, 2018 and March 31, 2017, net cash flows used in investing activity was $-0-.  
+
+Cash
+Flows from Financing Activities   
+
+For
+the six month period ended June 30, 2018, net cash flow used in financing activity was $2,652 comprised of obligation under capital
+lease, net of repayments compared to net cash flow used in financing activity of $2,652 during the six month period ended March
+31, 2017 comprised of obligation under capital lease, net of repayments.  
+
+We
+expect that working capital requirements will continue to be funded through a combination of our existing funds and generation
+of revenues. Our working capital requirements are expected to increase in line with the growth of our business.  
+
+PLAN
+OF OPERATION   
+
+Our
+principal demands for liquidity are to increase capacity, inventory purchase, sales distribution, and general corporate purposes.
+We are in the process of being accepted as a global prototype supplier by Johnson Controls compared to our prior role as a supplier
+for North America. We had been involved in discussions with Johnson Controls regarding prototypes and parts production. Johnson
+Controls visited our facility during early 2012 to conduct an audit for global recommendation. Their goal was to understand the
+processes we use to run the business and the controls that we have in place so that we were assured to have utmost control over
+the quality of work. The audit was based on our employees and their qualifications, data management, processes, tooling and equipment
+and parts and material management. Johnson Controls conducted a tour of our facility, which was followed up with a final review
+on May 3, 2012. Subsequently we received a call from Johnson Controls stating that we had been accepted and recommended for their
+global work. Therefore, we have been accepted for global work and thus provided the basis for previously disclosed projections.
+ We may achieve those revenue projections during fiscal year 2018, however, we may also not achieve that level of revenue.  
+
+We
+intend to meet our liquidity requirements, including capital expenditures related to the purchase of equipment, purchase of inventory,
+and the expansion of its business, through cash flow provided by operations and funds raised through proceeds from the issuance
+of debt or equity.  
+
+With
+a flexible labor force, workers are hired on a project by project basis, and strong inventory management, we are able to manage
+our cash flow to meet the ever changing needs of the business. We can expand and contract very quickly based on customer demand.
+Our major customers, JCI, Adient and Constellium, are consistently submitting new projects. We had $180,886 of project work in
+process at the end of June 30, 2018 with a total contract value of approximately $570,394. We have received committed future orders
+of $670,000., which are anticipated to be completed during the second half of 2018. Other revenue opportunities have historically
+materialized to supplement this revenue being service and retooling.  
+
+We
+have not paid any sums for public relations or investor relations.  
+
+MATERIAL
+COMMITMENTS   
+
+Other
+than the lease obligation and note referenced below, we have no other reportable material commitments for the as of June 30, 2018.  
+
+Lease   
+
+We
+currently have a three-year lease on a standalone building located at 7669 Kimbel Street, Mississauga, Ontario, Canada, which
+is 18,000 square feet. The building is located on approximately one acre of land. The building has two floors of office/engineering
+space, 1,500 square feet, and the balance is used for its welding, assembly and machining areas. We also have two loading docks
+for shipping.  
+
+We
+lease the premises with monthly lease payments of approximately CDN$8,400 per month. Total minimum lease payments of CDN$134,400
+are required to the lease expiration date on July 31, 2019.  
+
+RECENT
+ACCOUNTING PRONOUNCEMENTS   
+
+We
+evaluated recent accounting updates and the potential impact upon adoption. See Footnote No. 2 to the financial statements.  
+
+CRITICAL
+ACCOUNTING ESTIMATES AND POLICIES   
+
+The
+discussion and analysis of our financial condition and plan of operations is based upon our interim consolidated financial statements,
+which have been prepared in accordance with U.S. generally accepted accounting principles ( GAAP ). The preparation
+of these interim financial statements requires us to make estimates and judgments that affect the reported amounts of assets,
+liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities. On an on-going basis, we evaluate
+our estimates including, among others, those affecting revenue, the allowance for doubtful accounts, the salability of inventory
+and the useful lives of tangible and intangible assets. The discussion below is intended as a brief discussion of some of the
+judgments and uncertainties that can impact the application of these policies and the specific dollar amounts reported on our
+financial statements. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable
+under the circumstances, the results of which form our basis for making judgments about the carrying values of assets and liabilities
+that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or
+conditions, or if management made different judgments or utilized different estimates. Many of our estimates or judgments are
+based on anticipated future events or performance, and as such are forward-looking in nature, and are subject to many risks and
+uncertainties, including those discussed elsewhere in this Quarterly Report on Form 10-Q. We do not undertake any obligation to
+update or revise this discussion to reflect any future events or circumstances.  
+
+See
+Footnote No. 2 to the financial statements.  
+
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK   
+
+Not
+required for smaller reporting company.  
+
+ITEM
+4. CONTROLS AND PROCEDURES   
+
+EVALUATION
+OF DISCLOSURE CONTROLS AND PROCEDURES   
+
+We
+have performed an evaluation under the supervision and with the participation of our management, including our Chief Executive
+Officer (CEO) and Chief Financial Officer (CFO), of the effectiveness of our disclosure controls and procedures, (as defined in
+Rules 13a-15(e) and 15d-15(e) under the Exchange Act). Based on that evaluation, our management, including our CEO and CFO, concluded
+that our disclosure controls and procedures were not effective as of June 30, 2018 to provide reasonable assurance that information
+required to be disclosed by us in the reports filed or submitted by us under the Exchange Act is recorded, processed, summarized
+and reported within the time periods specified in the SEC s rules and forms.  
+
+Based
+on such evaluation, our Chief Executive Officer/Chief Financial Officer have concluded that, as of the end of the period covered
+by this Quarterly Report on Form 10-Q, our internal controls over financial reporting were not effective:  
+
+to
+    give reasonable assurance that the information required to be disclosed by us in reports that we file under the Securities
+    Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the Securities and
+    Exchange Commission s rules and forms, and   
+
+to
+    ensure that information required to be disclosed in the reports that we file or submit under the Securities Exchange Act of
+    1934 is accumulated and communicated to our management, including our Chief Executive Officer and our Chief Financial Officer,
+    to allow timely decisions regarding required disclosure.   
+
+We
+believe that the foregoing steps will remediate the significant deficiencies identified above, and we will continue to monitor
+the effectiveness of these steps and make any changes that our management deems appropriate. A material weakness (within the meaning
+of PCAOB Auditing Standard No. 5) is a deficiency, or a combination of deficiencies, in internal control over financial reporting,
+such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not
+be prevented or detected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal
+control over financial reporting that is less severe than a material weakness, yet important enough to merit attention by those
+responsible for oversight of the company s financial reporting.  
+
+During
+our assessment of the effectiveness of internal control over financial reporting as of June 30, 2018, management identified significant
+deficiencies related to: (i) the absence of an Audit Committee as of June 30, 2018; and (ii) a lack of segregation of duties within
+accounting functions.  
+
+We
+began preparing to be in compliance with the internal control obligations, including Section 404, for our fiscal year ending December
+31, 2018. In an effort to improve our internal control environment, management has engaged a Chartered Accountant to review the
+work prepared by the controller. He is independent of the daily accounting function. He prepares the quarterly financial statement
+after reviewing and recommending adjustments to the records based on his analysis of the financial information presented. This
+review includes vouching and reconciling key accounts to source documents.  
+
+In
+order to correct the foregoing weaknesses, we have taken certain further remediation measures and designed new internal controls
+and procedures to ensure: (a) effectiveness and efficiency of operations; (b) reliability of financial reporting; and (c) compliance
+with laws and regulations. To that end, management will provide a controlled environment which organizes and influences its people.  
+
+(a)  
+      Management
+    is establishing an information and communication system for its executives and employees allowing them to carry out their
+    responsibilities in an organized and process driven manner.   
+
+(b)  
+      The
+    firm engaged the Chartered Accountant to assist with: (a) compiling and maintaining our financial records; (b) assisting the
+    bookkeeping staff with proper recording of transactions; (c) maintaining permanent accounting records and proper backup procedures;
+    and (d) providing continuous monitoring of accounting functions throughout the company. In addition, the Chartered Accountant
+    will perform a risk assessment which identifies and analyzes the relevant risks management should address in order to achievement
+    of its objectives. The Chartered Accountant will also assist with the preparation of written policies and procedures that
+    will help ensure management directives are carried out.   
+
+(c)  
+      Our
+    President/Chief Executive Officer is serving as the point of communication between us and the audit firm. Communication between
+    our President/Chief Executive Officer and the audit firm s engagement partner has been established to ensure that the
+    audit is aware of management s intent and actions.   
+
+Management s
+Annual Report on Internal Control Over Financial Reporting   
+
+Our
+management is responsible for establishing and maintaining adequate internal control over financial reporting (as defined in Rule
+13a-15(f) under the Exchange Act). Under the supervision and with the participation of the Company s management, including
+the chief executive officer and principal financial officer, we evaluated the effectiveness of our internal control over financial
+reporting as of June 30, 2018. In making this assessment, management used the criteria set forth by the Committee of Sponsoring
+Organizations of the Treadway Commission ( COSO 2013 ) in Internal Control-Integrated Framework. Based on our assessment,
+no progress toward remediation of our previously disclosed material weaknesses has been implemented.  
+
+Inherent
+Limitations on Effectiveness of Controls   
+
+We
+believe that a controls system, no matter how well designed and operated, cannot provide absolute assurance that the objectives
+of the controls system are met, and no evaluation of controls can provide absolute assurance that all control issues and instances
+of fraud, if any, within a company have been detected. Our disclosure controls and procedures are designed to provide reasonable
+assurance of achieving their objectives, and our CEO and our CFO have concluded that these controls and procedures are not effective
+at the  reasonable assurance  level.  
+
+Changes
+in internal controls   
+
+There
+were no changes in internal controls for the three month period ended June 30, 2018.  
+
+AUDIT
+COMMITTEE REPORT   
+
+Our
+Board of Directors has not established an audit committee. The respective role of an audit committee has been conducted by our
+Board of Directors. We intend to establish an audit committee during fiscal year 2017. When established, the audit committee s
+primary function will be to provide advice with respect to our financial matters and to assist our Board of Directors in fulfilling
+its oversight responsibilities regarding finance, accounting, and legal compliance. The audit committee s primary duties
+and responsibilities will be to: (i) serve as an independent and objective party to monitor our financial reporting process and
+internal control system; (ii) review and appraise the audit efforts of our independent accountants; (iii) evaluate our quarterly
+financial performance as well as its compliance with laws and regulations; (iv) oversee management s establishment and enforcement
+of financial policies and business practices; and (v) provide an open avenue of communication among the independent accountants,
+management and our Board of Directors.  
+
+PART
+II. OTHER INFORMATION   
+
+ITEM
+1. LEGAL PROCEEDINGS   
+
+No
+report required.  
+
+ITEM
+1A. RISK FACTORS   
+
+No
+report required.  
+
+ITEM
+2. UNREGISTERED SALES OF SECURITIES AND USE OF PROCEEDS   
+
+No
+report required.  
+
+ITEM
+3. DEFAULTS UPON SENIOR SECURITIES   
+
+No
+report required.  
+
+ITEM
+4. MINE SAFETY DISCLOSURES   
+
+No
+report required.  
+
+ITEM
+5. OTHER INFORMATION   
+
+No
+report required.  
+
+ITEM
+6. EXHIBITS AND REPORTS ON FORM 8-   K   
+
+(d)
+ Exhibits .  
+
+Exhibit  
+                                                           Number   
+       
+      Description   
+
+31.1  
+         
+       Rule 13a-15(e)/15d-15(e) Certification by the Chief Executive Officer and Chief Financial Officer *    
+
+32.1  
+         
+       Certification by the Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 *    
+
+101.INS
+    **  
+         
+      XBRL
+    Instance Document   
+
+101.SCH
+    **  
+         
+      XBRL
+    Taxonomy Extension Schema Document   
+
+101.CAL
+    **  
+         
+      XBRL
+    Taxonomy Extension Calculation Linkbase Document   
+
+101.DEF
+    **  
+         
+      XBRL
+    Taxonomy Extension Definition Linkbase Document   
+
+101.LAB
+    **  
+         
+      XBRL
+    Taxonomy Extension Label Linkbase Document   
+
+101.PRE
+    **  
+         
+      XBRL
+    Taxonomy Extension Presentation Linkbase Document   
+
+**
+XBRL (Extensible Business Reporting Language) information is furnished and not filed or a part of a registration statement or
+prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, is deemed not filed for purposes of Section
+18 of the Securities Exchange Act of 1934, as amended, and otherwise is not subject to liability under these sections.  
+
+SIGNATURES   
+
+Pursuant
+to the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.  
+
+NOVUS
+    ROBOTICS INC.    
+
+Dated:
+    August 20, 2018    
+      By:  
+       /s/
+    Berardino Paolucci    
+
+Berardino
+    Paolucci,   
+
+President/Chief
+    Executive Officer   
+
+<EX-31.1>
+ 2
+ ex31-1.htm
+
+EXHIBIT
+31.1   
+
+CERTIFICATION
+OF CHIEF EXECUTIVE OFFICER   
+
+   AS
+ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002   
+
+I,
+Berardino Paolucci, certify that:  
+
+1.  
+      I
+    have reviewed this Form 10-Q of Novus Robotics, Inc.;   
+
+2.  
+      Based
+    on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+    to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+    to the period covered by this report;   
+
+3.  
+      Based
+    on my knowledge, the financial statements, and other financial information included in this report, fairly present in all
+    material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods
+    present in this report;   
+
+4.  
+      The
+    registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls
+    and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as
+    defined in Exchange Act Rules 13-a-15(f) and 15d-15(f)) for the registrant and have:   
+
+(a)  
+      Designed
+    such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+    to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to
+    us by others within those entities, particularly during the period in which this report is being prepared;   
+
+(b)  
+      Designed
+    such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+    our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial
+    statements for external purposes in accordance with generally accepted accounting principals;   
+
+(c)  
+      Evaluated
+    the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+    about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based
+    on such evaluation; and   
+
+(d)  
+      Disclosed
+    in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+    most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially
+    affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting;
+    and   
+
+5.  
+      The
+    registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control
+    over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors
+    (or persons performing the equivalent functions):   
+
+(a)  
+      All
+    significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+    are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial
+    information; and   
+
+(b)  
+      Any
+    fraud, whether or not material, that involved management or other employees who have a significant role in the registrant s
+    internal control over financial reporting.   
+
+Date:
+    August 20, 2018  
+      By:  
+       /s/
+    Berardino Paolucci    
+
+Berardino
+        Paolucci  
+          President/Chief
+        Executive Officer  
+          (Principal
+        Executive Officer)    
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ ex32-1.htm
+
+EXHIBIT
+32.1   
+
+CERTIFICATION
+OF CHIEF EXECUTIVE OFFICER   
+
+   PURSUANT
+TO 18 U.S.C. SECTION 1350   
+
+   AS
+ADOPTED PURSUANT TO   
+
+   SECTION
+906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+connection with the accompanying Quarterly Report on Form 10-Q  of Novus Robotics, Inc. for the period ending June 30, 2018,
+I, Berardino Paolucci, Chief Executive Officer (Principal Executive Officer/Principal Financial Officer) of Novus Robotics, Inc.,
+hereby certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to the
+best of my knowledge and belief, that:  
+
+1.  
+      Such
+    Quarterly Report on Form 10-Q for the period ending June 30, 2018 fully complies with the requirements of section 13(a) or
+    15(d) of the Securities Exchange Act of 1934; and   
+
+2.  
+      The
+    information contained in such Quarterly Report on Form 10-Q for the period ending June 30, 2018 fairly presents, in all material
+    respects, the financial condition and results of operations of Novus Robotics, Inc.   
+
+Date:
+    August 20, 2018  
+      By:  
+       /s/
+    Berardino Paolucci    
+
+Berardino
+        Paolucci  
+          President/Chief
+        Executive Officer  
+          (Principal
+        Executive Officer/Principal Financial Officer)    
+
+</EX-32.1>
+
+<EX-101.INS>
+ 4
+ nrbt-20180630.xml
+ XBRL INSTANCE FILE
+
+</EX-101.INS>
+
+<EX-101.SCH>
+ 5
+ nrbt-20180630.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ nrbt-20180630_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ nrbt-20180630_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ nrbt-20180630_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ nrbt-20180630_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

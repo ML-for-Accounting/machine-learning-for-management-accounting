@@ -1,0 +1,604 @@
+1q2019exhibit10120.htm
+ EXHIBIT 10.1
+
+Exhibit 
+
+Exhibit 10.1 
+  LAM RESEARCH CORPORATION   2015 Stock Incentive Plan 
+  Market-Based Performance Restricted Stock Unit Award Agreement 
+  (U.S. Participants) 
+    
+  Pursuant to the terms of the 2015 Stock Incentive Plan (the  Plan ) Lam Research Corporation, a Delaware corporation (the  Company ), hereby awards market-based performance restricted stock units ( mPRSUs ) to the Grantee (the  Participant ) on the terms and conditions as set forth in this Market-Based Performance Restricted Stock Unit Award Agreement (including the attached Exhibit A) (the  Agreement ) and the Plan.  Capitalized terms used but not defined in this Agreement shall have the meaning specified in the Plan.  This Agreement is effective as of the Grant Date. 
+  NOW, THEREFORE  , it is hereby agreed as follows: 
+  1.  Award of mPRSUs  .  Subject to the terms and conditions of this Agreement and the Plan (the terms of which are incorporated herein by reference) and effective as of the date set forth above, the Company hereby grants to the Participant a Target Number of mPRSUs as set forth in Exhibit A.  Subject to the Company s attainment of the relative performance set forth in the attached Exhibit A (the  Performance Criteria ), the Participant may vest in the mPRSUs in a designated Payout Range as set forth in Exhibit A.  The mPRSUs represent an unfunded, unsecured promise by the Company to deliver Shares subject to the terms and conditions of this Agreement.   
+  2.      Vesting  . 
+  (a)     Subject to the terms and conditions of this Agreement, the mPRSUs shall vest and become payable in Shares on the Performance Vesting Date set forth in the attached Exhibit A.  The number of mPRSUs that vest shall be determined by the Company s performance under the Vesting Formula during the Performance Period, as set forth in the attached Exhibit A.  Except as otherwise provided herein, the Participant s right to receive Shares subject to the mPRSUs is contingent upon the Participant continuing to provide Service (as defined in Section 3 below) to the Company (or any Related Entity) through the Performance Vesting Date. 
+  (b)    Notwithstanding the provisions above, in the event of a Corporate Transaction or a Change in Control   1    (defined hereinafter as  Triggering Event ) prior to the Performance Vesting Date in Section 2(a), a portion of the mPRSUs shall convert into a cash award (the  Cash Award ).  The number of mPRSUs that convert into a Cash Award shall be the sum of the  performance pro rata  number of Shares and the  target pro rata  number of Shares.  This sum shall be multiplied by the closing price of the Company s common stock as of the closing date of the Triggering Event to determine the dollar amount of the Cash Award.  The Cash Award will vest on the Performance Vesting Date, contingent upon the Participant continuing to provide Service (as defined in Section 3 below) to the Company (or any Related  
+  
+   _____________________________ 
+   1    A  s may be defined by any applicable Employment or Change in Control Agreement. 
+  Page   1   of   11 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for U.S. Participants 
+
+Entity) through the Performance Vesting Date.  Any remaining portion of the mPRSUs that are not converted into a Cash Award shall be cancelled. 
+  (i)       Performance Pro Rata  .  The Target Number of mPRSUs (as set forth in the attached Exhibit A) shall be multiplied by the total number of days from the first day of the Performance Period until the earlier of the closing date of the  Triggering Event or the last day of the Performance Period divided by the number of days in the Performance Period ( Elapsed Target Shares ).  The Company s performance under the Vesting Formula (as set forth in the attached Exhibit A) from the first day of the Performance Period until the closing date of the Triggering Event shall be applied to the Elapsed Target Shares to determine the  performance pro rata  number of Shares. 
+  (ii)      Target Pro Rata  .  The Target Number of mPRSUs (as set forth in the attached Exhibit A) shall be multiplied by the total number of days from the day following the closing date of the Triggering Event until the last day of the Performance Period (but not less than zero) divided by the number of days in the Performance Period to determine the  target pro rata  number of Shares.    
+  3.      Effect of Termination of Service or Leave of Absence  . 
+  (a)    For purposes of this Agreement,  Service  shall mean the performance of services for the Company (or any Related Entity) in the capacity of an Employee and shall be considered terminated on the last day the Participant is on payroll.  In the event of termination of the Participant s Service by the Participant or by the Company or a Related Entity for any reason, excluding Participant s death or Disability before the mPRSUs have vested, the unvested mPRSUs shall be cancelled by the Company (subject to the terms of any applicable Employment or Change in Control Agreement).   
+  (b)    In the event of termination of the Participant s Service due to death prior to the Performance Vesting Date, a portion of the mPRSUs granted to the Participant shall vest on the date of death.  To determine the applicable number of Shares, the Target Number of mPRSUs (as set forth in the attached Exhibit A) shall be multiplied by the total number of days from the first day of the Performance Period until the earlier of the date of death or the last day of the Performance Period, divided by the number of days in the Performance Period to determine the  death pro rata  target number of Shares.  The Company s performance under the Vesting Formula (as set forth in the attached Exhibit A) from the first day of the Performance Period until the earlier of the date of death or the last day of the Performance Period shall be applied to the greater of: (i) the  death pro rata  target number of Shares or (ii) 50% of the original Target Number of mPRSUs (as set forth in the attached Exhibit A), to determine the number of Shares which shall vest on the date of death (the  Death Vesting Date ).  Any remaining unvested portion of the mPRSUs shall be cancelled. 
+  (c)    In the event of termination of the Participant s Service due to Disability prior to the Performance Vesting Date, a portion of the mPRSUs granted to the Participant shall vest on the date the Disability is incurred.  To determine the applicable number of Shares, the Target Number of mPRSUs (as set forth in the attached Exhibit A) shall be multiplied by the total  
+  
+   Page   2   of   11 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for U.S. Participants 
+
+number of days from the first day of the Performance Period until the earlier of the date the Disability is incurred or the last day of the Performance Period, divided by the number of days in the Performance Period to determine the  disability pro rata  target number of Shares.  The Company s performance under the Vesting Formula (as set forth in the attached Exhibit A) from the first day of the Performance Period until the earlier of the date the Disability is incurred or the last day of the Performance Period shall be applied to the greater of: (i) the  disability pro rata  target number of Shares or (ii) 50% of the original Target Number of mPRSUs (as set forth in the attached Exhibit A) to determine the number of Shares which shall vest on the date the Disability is incurred (the  Disability Vesting Date , and collectively with  Performance Vesting Date , and the  Death Vesting Date , the  Vesting Date ).  Any remaining unvested portion of the mPRSUs shall be cancelled. 
+  (d)    Vesting of the mPRSUs will be suspended and vesting credit will no longer accrue as of the day of the Leave of Absence as set forth in Exhibit A, unless otherwise determined by the Administrator or required by contract or statute.  If the Participant returns to Service immediately after the end of an approved Leave of Absence, vesting credit shall continue to accrue from that date of continued Service. 
+    
+  4.      Form and Timing of Payment  .   
+  (a)    Subject to Section 5 of this Agreement and provided that the Participant has satisfied the vesting requirements of Section 2 or 3 of this Agreement, on each Vesting Date, as applicable, the mPRSUs shall automatically be converted into unrestricted Shares.  Such Shares will be issued to the Participant (as evidenced by the appropriate entry in the books of the Company or a duly authorized transfer agent of the Company) on the applicable Vesting Date (or as soon as practicable), but in any event, within the period ending on the later to occur of the date that is 2   months after the end of (i) the Participant s tax year that includes the applicable Vesting Date, or (ii) the Company s tax year that includes the applicable Vesting Date.   
+  (b)    Shares issued in respect of mPRSUs shall be deemed to be issued in consideration of past services actually rendered by the Participant to the Company or a Related Entity or for its benefit for which the Participant has not previously been compensated or for future services to be rendered, as the case may be, which the Company deems to have a value at least equal to the aggregate par value of the Shares subject to the mPRSUs.  
+  5.      Tax Withholding Obligations  .  Regardless of any action the Company or the Participant s employer (the  Employer ) takes with respect to any or all income tax (including federal, state and local taxes), social insurance, payroll tax, or other tax-related withholding ( Tax-Related Items ), the Participant acknowledges that the ultimate liability for all Tax-Related Items legally due by the Participant is and remains the Participant s responsibility and that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the mPRSUs, including the grant of the mPRSUs, the vesting of the mPRSUs, or the receipt of an equivalent cash payment, the subsequent sale of any Shares acquired at vesting and the receipt of any dividends; and (ii) do  
+  
+   Page   3   of   11 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for U.S. Participants 
+
+not commit to structure the terms of the grant or any aspect of the mPRSUs to reduce or eliminate the Participant s liability for Tax-Related Items or achieve any particular tax result. 
+  Prior to the issuance of Shares upon vesting of the mPRSUs (or any other tax or withholding event), the Participant shall pay, or make arrangements satisfactory to the Company (in the Company s sole discretion) to satisfy all withholding obligations.  In those cases where a prior arrangement has not been made (or where the amount of money provided under the prior arrangement is insufficient to satisfy the obligations for Tax-Related Items), the Company shall withhold a number of whole Shares otherwise deliverable at vesting having a Fair Market Value sufficient to satisfy the statutory minimum (or such higher amount as is allowable without adverse accounting consequences) of the Participant s estimated obligations for Tax-Related Items applicable to the mPRSUs; such withholding will result in the issuance to the participant of a lower number of Shares.   
+  The Company and/or the Employer may also, in lieu of or in addition to the foregoing, at the Company s sole discretion, as authorized herein by the Participant, withhold all applicable Tax-Related Items legally payable by the Participant from the Participant s wages or other cash compensation or to withhold in one of the following ways, as determined by the Company: (i) require the Participant to deposit with the Company an amount of cash sufficient to meet his or her obligation for Tax-Related Items, and/or (ii) sell or arrange for the sale of Shares to be issued on the vesting of the mPRSUs to satisfy the withholding obligation.  If the Participant s obligation for Tax-Related Items is satisfied as described in (ii) of this section, the Company will endeavor to sell only the number of Shares required to satisfy the Participant s obligations for Tax-Related Items; however, the Participant agrees that the Company may sell more Shares than necessary to cover the Tax-Related Items and that in such event, the Company will reimburse the Participant for the excess amount withheld, in cash and without interest.  The Participant shall pay to the Employer any amount of Tax-Related Items that the Employer may be required to withhold as a result of the Participant s receipt of the mPRSUs, the vesting of the mPRSUs that cannot be satisfied by the means previously described.  The Company may refuse to deliver Shares to the Participant if the Participant fails to comply with his or her obligation in connection with the Tax-Related Items as described herein.  The Participant hereby consents to any action reasonably taken by the Company and/or the Employer to meet his or her obligation for Tax-Related Items. 
+  Further, in consideration of the grant of the mPRSUs, no claim or entitlement to compensation or damages arises if, in satisfying the Participant s (and/or the Employer s) obligation for Tax-Related Items, the Company and/or the Employer withholds an amount in excess of the amount legally required to be withheld, the Participant irrevocably releases the Company and the Employer from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by signing this Agreement, the Participant shall be deemed irrevocably to have waived his or her entitlement to pursue such claim or damages. 
+  6.      Restriction on Transferability  .  Prior to vesting and delivery of the Shares, neither the mPRSUs, nor the Shares or any beneficial interest therein, may be sold, transferred, pledged,  
+  
+   Page   4   of   11 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for U.S. Participants 
+
+assigned, or otherwise alienated at any time.  Any attempt to do so contrary to the provisions hereof shall be null and void.  Notwithstanding the above, distribution can be made pursuant to will, the laws of descent and distribution, and if provided by the Administrator, intra-family transfer instruments, or to an inter vivos trust, or as otherwise provided by the Administrator.  The terms of this Agreement shall be binding upon the executors, administrators, heirs, successors and assigns of the Participant. 
+  7.      Requirements of Law  .  The issuance of Shares upon vesting of the mPRSUs is subject to Sections 9 and 14(b) of the Plan, which generally provides that any such issuance shall be subject to compliance by the Company and the Participant with all applicable requirements of law relating thereto and with all applicable regulations of any stock exchange on which the Shares may be listed for trading at the time of such issuance.  The inability of the Company to obtain approval from any regulatory body having authority deemed by the Company to be necessary to the lawful issuance of any Shares hereby shall relieve the Company of any liability with respect to the non-issuance of the Shares as to which such approval shall not have been obtained.  The Company, however, shall use its reasonable efforts to obtain all such approvals. 
+  8.      Rights as Stockholder  .  The Participant shall not have voting, dividend or any other rights as a stockholder of the Company with respect to the mPRSUs. Upon settlement of the Participant s mPRSUs into Shares (as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company), the Participant will obtain full voting, dividend and other rights as a stockholder of the Company. 
+  9.      No Compensation Deferrals  .  Neither the Plan nor this Agreement is intended to provide for an elective deferral of compensation that would be subject to Section 409A ( Section 409A ) of the Internal Revenue Code of 1986, as amended (the  Code ).  If, notwithstanding the parties  intent in this regard, at the time of the Participant s termination of Service, he or she is determined to be a  specified employee  as defined in Code Section 409A, and one or more of the payments or benefits received or to be received by the Participant pursuant to the mPRSUs would constitute deferred compensation subject to Code Section 409A, no such payment or benefit will be provided under the mPRSUs until the earliest of (A) the date which is six (6) months after the Participant s  separation from service  for any reason, other than death or  disability  (as such terms are used in Section 409A(a)(2) of the Code), (B) the date of the Participant s death or  disability  (as such term is used in Section 409A(a)(2)(C) of the Code), or (C) the effective date of a  change in the ownership or effective control  or a  change in ownership of a substantial portion of the assets  of the Company (as such terms are used in Section 409A(a)(2)(A)(v) of the Code). The provisions of this Section 9 shall only apply to the extent required to avoid the Participant s incurrence of any additional tax or interest under Code Section 409A or any regulations or U.S. Department of the Treasury ( Treasury ) guidance promulgated thereunder.  In addition, if any provision of the mPRSUs would cause the Participant to incur any additional tax or interest under Code Section 409A or any regulations or Treasury guidance promulgated thereunder, the Company reserves the right, to the extent the Company deems necessary or advisable in its sole discretion, to unilaterally amend or modify the Plan and/or this Agreement to conform it to the maximum extent practicable to the original intent of the applicable provision without violating the provisions of Code Section 409A, including  
+  
+   Page   5   of   11 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for U.S. Participants 
+
+without limitation to limit payment or distribution of any amount of benefit hereunder in connection with a Triggering Event to a transaction meeting the definitions referred to in clause (C) above, or in connection with any disability to a  disability  as referred to in (B) above; provided however that the Company makes no representation that these Performance Restricted Stock Units are not subject to Section 409A nor makes any undertaking to preclude Section 409A from applying to these mPRSUs.  In addition, to the extent the Company determines it appropriate to accelerate any vesting conditions applicable to this award, then to the extent necessary to avoid the Participant s incurring any additional tax or interest as a result of such vesting acceleration under Code Section 409A or any regulations or Treasury guidance promulgated thereunder, and notwithstanding Section 4 above, the Company may as a condition to extending such acceleration benefits provide for the Shares to be issued upon settlement of the mPRSUs to be issued on the earliest date (the  Permitted Distribution Date ) that would obviate application of such additional tax or interest rather than issuing them upon the date on which such vesting is effective as would otherwise be required under Section 2 (or as soon as practicable after such Permitted Distribution Date and in no event later than that last day of the grace period following such date permitted under Code Section 409A).   
+  10.      Administration  .  The Administrator shall have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation, and application of the Plan as are consistent therewith and to interpret or revoke any such rules.  All actions taken and all interpretations and determinations made by the Administrator shall be final and binding upon the Participant, the Company, and all other interested persons.  No Administrator shall be personally liable for any action, determination, or interpretation made in good faith with respect to the Plan or this Agreement. 
+  11.      Effect on Other Employee Benefit Plans  .  The value of the mPRSUs granted pursuant to this Agreement shall not be included as compensation, earnings, salaries, or other similar terms used when calculating the Participant s benefits under any employee benefit plan sponsored by the Company or any Related Entity, except as such plan otherwise expressly provides.  The Company expressly reserves its rights to amend, modify, or terminate any of the Company s or any Related Entity s employee benefit plans. 
+  12.      No Employment Rights  .  The award of the mPRSUs pursuant to this Agreement shall not give the Participant any right to continued Service with the Company or a Related Entity and shall not interfere with the ability of the Employer to terminate the Participant s Service with the Company at any time with or without cause. 
+  13.      Nature of the Grant  .  In accepting the mPRSUs, the Participant acknowledges that:  
+  (a)  the Plan is established voluntarily by the Company, it is discretionary in nature and may be modified, amended, suspended or terminated by the Company at any time, unless otherwise provided in the Plan and this Agreement;  
+  
+   Page   6   of   11 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for U.S. Participants 
+
+(b)  the grant of mPRSUs is voluntary and occasional and does not create any contractual or other right to receive future awards of mPRSUs, or benefits in lieu of mPRSUs even if mPRSUs have been awarded repeatedly in the past;  
+  (c)  all decisions with respect to future grants of mPRSUs, if any, will be at the sole discretion of the Company;  
+  (d)  the Participant s participation in the Plan is voluntary;  
+  (e)  the mPRSUs are outside the scope of the Participant s employment contract, if any;  
+  (f)  the mPRSUs are not part of normal or expected compensation or salary for any purpose, including, but not limited to, calculation of any overtime, severance, resignation, termination, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments; 
+  (g)  in the event that the Participant is not an employee of the Company, the grant of the mPRSUs will not be interpreted to form an employment contract or relationship with the Company; and furthermore, the grant of the mPRSUs will not be interpreted to form an employment contract with the Employer or any Related Entity;  
+  (h)  the future value of the underlying Shares is unknown and cannot be predicted with certainty;  
+  (i)  if the Participant receives Shares upon vesting of the mPRSUs, the value of such Shares may increase or decrease in value;  
+  (j)  in consideration of the grant of the mPRSUs, no claim or entitlement to compensation or damages arises from termination of the mPRSUs or diminution in value of the mPRSUs or Shares received upon vesting of mPRSUs resulting from termination of the Participant s Service to the Company or the Employer (for any reason whatsoever and whether or not in breach of local labor laws) and the Participant irrevocably releases the Company and the Employer from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by signing this Agreement, the Participant shall be deemed irrevocably to have waived his or her entitlement to pursue such claim.  
+  14.      Amendment of Agreement  .  This Agreement may be amended only by a writing which specifically states that it amends this Agreement. Notwithstanding the foregoing, this Agreement may be amended unilaterally by the Committee by a writing which specifically states that it is amending this Agreement, so long as a copy of such amendment is delivered to the Participant, and provided that no such amendment adversely affects the rights of the Participant.  Limiting the foregoing, the Committee reserves the right to change, by written notice to the Participant, the provisions of the mPRSUs or this Agreement in any way it may deem necessary or advisable to carry out the purpose of the grant as a result of any change in applicable laws or  
+  
+   Page   7   of   11 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for U.S. Participants 
+
+regulations or any future law, regulation, ruling, or judicial decision, or, to the extent permissible under the Plan (including, but not limited to, Sections 10, 11 and 13 of the Plan).   
+  15.      Notices  .  Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company in care of its Stock Administrator. Any notice to be given to the Participant shall be addressed to the Participant at the address listed in the Employer s records.  By a notice given pursuant to this Section, either party may designate a different address for notices.  Any notice shall have been deemed given when actually delivered. 
+  16.      Severability  .  The provisions of this Agreement are severable and if all or any part of this Agreement or the Plan is declared by any court or governmental authority to be unlawful or invalid, such unlawfulness or invalidity shall not invalidate any portion of this Agreement or the Plan not declared to be unlawful or invalid.  Any Section of this Agreement (or part of such a Section) so declared to be unlawful or invalid shall, if possible, be construed in a manner which will give effect to the terms of such Section or part of a Section to the fullest extent possible while remaining lawful and valid. 
+  17.      Construction  .  The mPRSUs are being issued pursuant to the Plan and are subject to the terms of the Plan. A copy of the Plan is available upon request during normal business hours at the principal executive offices of the Company.  To the extent that any provision of this Agreement violates or is inconsistent with a provision of the Plan, the Plan provision shall govern and any inconsistent provision in this Agreement shall be of no force or effect. 
+  18.      Electronic Delivery  .  The Company may, in its sole discretion, decide to deliver any documents related to the mPRSUs granted under the Plan and participation in the Plan or future mPRSUs that may be granted under the Plan by electronic means or to request the Participant s consent to participate in the Plan by electronic means.  The Participant hereby consents to receive such documents by electronic delivery and, if requested, to agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or another third party designated by the Company. 
+  19.      Entire Agreement  .  The Plan is incorporated herein by reference.  The Plan and this Agreement constitute the entire agreement of the Company and the Participant with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and the Participant with respect to the subject matter hereof. 
+  20.      Miscellaneous  . 
+  (a)    The Company has established the Plan voluntarily, it is discretionary in nature and the Board may terminate, amend, or modify the Plan at any time; provided, however, that no such termination, amendment, or modification of the Plan may in any way adversely affect the Participant s rights under this Agreement, without the Participant s written approval unless such termination, amendment, or modification of the Plan is necessary in order to comply with any change in applicable laws or regulations or any future law, regulation, ruling, or judicial decision or as otherwise permissible under the Plan (including, but not limited to, Sections 10, 11 and 13 of the Plan). 
+  
+   Page   8   of   11 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for U.S. Participants 
+
+(b)    All obligations of the Company under the Plan and this Agreement in a Triggering Event shall be governed by the Plan and this Agreement, other than as set forth in Section 3(a) above. 
+  (c)        By signing this Agreement, the Participant acknowledges that his or her personal employment or Service information regarding participation in the Plan and information necessary to determine and pay, if applicable, benefits under the Plan must be shared with other entities, including companies related to the Company and persons responsible for certain acts in the administration of the Plan.  By signing this Agreement, the Participant consents to such transmission of personal data as the Company believes is appropriate to administer the Plan. 
+  (d)    To the extent not preempted by federal law, this Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to its principles of conflict of laws. 
+  21.      Acceptance of Terms and Conditions  .  By accepting the terms and conditions of this Agreement, the Participant agrees to abide by all of the governing terms and provisions of the Plan and this Agreement.  Additionally, the Participant acknowledges having read and understood the terms and conditions of the Plan and this Agreement and has had an opportunity to obtain the advice of counsel prior to accepting this Agreement.    The Participant must acknowledge his or her agreement to abide by the terms and conditions of the Plan and Agreement by executing this Agreement electronically or, if otherwise instructed by the Company, by printing and signing a paper copy of this Agreement and returning it to the appropriate Company representative.  In addition, the transfer or sale of the shares obtained at vesting by the Participant shall be considered an additional acknowledgment of the terms and conditions contained in the Plan and Agreement.   
+    
+  *    *    *   *   * 
+                 PARTICIPANT SIGNATURE 
+    [Electronic Signature] 
+      PRINTED NAME 
+    [Participant Name] 
+      DATE    
+    [Acceptance Date] 
+
+Page   9   of   11 
+
+LAM RESEARCH CORPORATION 
+  2015 Stock Incentive Plan  Market-Based Performance Restricted Stock Unit Award Agreement 
+  EXHIBIT A 
+  ([___________] Vesting) 
+
+Participant (Name   Employee Number):    
+    
+  Grant Date:    
+    
+  Target Number of mPRSUs  :    
+    
+  Performance Vesting Date:    
+    
+  Payout Range:   0% to 150% of Target Number of mPRSUs 
+    
+  Performance Period:                             to                                 . 
+    
+  Performance Criteria: 
+
+Index    
+     PHLX Semiconductor Sector Index, a global index traded on the NASDAQ OMX PHLX with a trading symbol of  SOX  
+
+Vesting Formula 
+     Target Number of mPRSUs x (100% + ((LRCX TSR %   Index TSR %) x 2)) = mPRSUs vested (subject to the maximum in the Payout Range) 
+
+Target Number of mPRSUs is vested if the LRCX TSR % equals the Index TSR % 
+                
+    Number of mPRSUs vested increases by 2% of target for each 1% that the LRCX TSR % exceeds the Index TSR % 
+                
+    Number of mPRSUs vested decreases by 2% of target for each 1% that the LRCX TSR % trails the Index TSR % 
+                
+    The result of the Vesting Formula is rounded down to the nearest whole number 
+
+LRCX TSR % 
+     (LRCX 50-trading day average closing price as of the last trading day of the Performance Period   LRCX 50-trading day average closing price on the trading day immediately prior to the beginning of the Performance Period)   (LRCX 50-trading day average closing price on the trading day immediately prior to the beginning of the Performance Period) x 100 
+
+Index TSR % 
+     
+   Page   10   of   11 
+
+    Exhibit A   Market-Based Performance Restricted Stock Unit Award Agreement 
+
+(Index 50-trading day average closing price as of the last trading day of the Performance Period   Index 50-trading day average closing price on the trading day immediately prior to the beginning of the Performance Period)   (Index 50-trading day average closing price on the trading day immediately prior to the beginning of the Performance Period) x 100 
+
+Notes:  
+
+The LRCX TSR % calculation excludes any dividends paid on the Company s common stock.  
+                
+    All Index TSR % calculations are based on the companies traded on the Index as of the applicable dates 
+              o 
+    E.g., The Index is used as of the applicable dates even if companies are added / removed from the Index during the Performance Period. 
+                
+    The Company s relative performance is determined using calculations based on the 50-trading day average closing price methodology for all TSR calculations. 
+                
+    In the event of a Triggering Event, the closing price of the Company s common stock as of the closing date of the Triggering Event is used to convert the sum of the  performance pro rata  and  target pro rata  number of Shares into the Cash Award. 
+                
+    If the Index is no longer traded / calculated, the Company s relative performance is determined using calculations based on the companies included in the Index at the time trading / calculation last occurred.  The Compensation Committee will calculate the Index TSR % in the manner that most closely approximates the Index in its sole discretion. 
+       
+  Leave of Absence:    31st day (or 91st day if reemployment guaranteed by statute or contract) 
+
+Page   11   of   11 
+
+</EX-10.1>
+
+<EX-10.2>
+ 3
+ lrcxq12019exhibit10220.htm
+ EXHIBIT 10.2
+
+Exhibit 
+
+Exhibit 10.2 
+  LAM RESEARCH CORPORATION   2015 Stock Incentive Plan 
+  Market-Based Performance Restricted Stock Unit Award Agreement 
+  (International Participants) 
+    
+  Pursuant to the terms of the 2015 Stock Incentive Plan (the  Plan ) Lam Research Corporation, a Delaware corporation (the  Company ), hereby awards market-based performance restricted stock units ( mPRSUs ) to the Grantee (the  Participant ) on the terms and conditions as set forth in this Market-Based Performance Restricted Stock Unit Award Agreement (including the attached Exhibit A) (the  Agreement ) and the Plan.  Capitalized terms used but not defined in this Agreement shall have the meaning specified in the Plan.  This Agreement is effective as of the Grant Date. 
+  NOW, THEREFORE  , it is hereby agreed as follows: 
+  1.  Award of mPRSUs  .  Subject to the terms and conditions of this Agreement and the Plan (the terms of which are incorporated herein by reference) and effective as of the date set forth above, the Company hereby grants to the Participant a Target Number of mPRSUs as set forth in Exhibit A.  Subject to the Company s attainment of the relative performance set forth in the attached Exhibit A (the  Performance Criteria ), the Participant may vest in the mPRSUs in a designated Payout Range as set forth in Exhibit A.  The mPRSUs represent an unfunded, unsecured promise by the Company to deliver Shares subject to the terms and conditions of this Agreement.   
+  2.      Vesting  .   
+  (a)     Subject to the terms and conditions of this Agreement, the mPRSUs shall vest and become payable in Shares on the Performance Vesting Date set forth in the attached Exhibit A.  The number of mPRSUs that vest shall be determined by the Company s performance under the Vesting Formula during the Performance Period, as set forth in the attached Exhibit A.  Except as otherwise provided herein, the Participant s right to receive Shares subject to the mPRSUs is contingent upon the Participant continuing to provide Service (as defined in Section 3 below) to the Company (or any Related Entity) through the Performance Vesting Date. 
+  (b)    Notwithstanding the provisions above, in the event of a Corporate Transaction or a Change in Control   1    (defined hereinafter as  Triggering Event ) prior to the Performance Vesting Date in Section 2(a), a portion of the mPRSUs shall convert into a cash award (the  Cash Award ).  The number of mPRSUs that convert into a Cash Award shall be the sum of the  performance pro rata  number of Shares and the  target pro rata  number of Shares.  This sum shall be multiplied by the closing price of the Company s common stock as of the closing date of the Triggering Event to determine the dollar amount of the Cash Award.  The Cash Award will vest on the Performance Vesting Date, contingent upon the Participant continuing to provide Service (as defined in Section 3 below) to the Company (or any Affiliate) through the Performance Vesting Date.  Any remaining portion of the mPRSUs that are not converted into a Cash Award shall be cancelled. 
+  (i)      Performance Pro Rata  .  The Target Number of mPRSUs (as set forth in the attached Exhibit A) shall be multiplied by the total number of days from the first day of the  
+  
+   _____________________________ 
+   1    A  s may be defined by any applicable Employment or Change in Control Agreement. 
+    
+  Page   1   of   17 
+
+    2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+Performance Period until the earlier of the closing date of the  Triggering Event or the last day of the Performance Period divided by the number of days in the Performance Period ( Elapsed Target Shares ).  The Company s performance under the Vesting Formula (as set forth in the attached Exhibit A) from the first day of the Performance Period until the closing date of the Triggering Event shall be applied to the Elapsed Target Shares to determine the  performance pro rata  number of Shares. 
+  (ii)      Target Pro Rata  .  The Target Number of mPRSUs (as set forth in the attached Exhibit A) shall be multiplied by the total number of days from the day following the closing date of the Triggering Event until the last day of the Performance Period (but not less than zero) divided by the number of days in the Performance Period to determine the  target pro rata  number of Shares. 
+  3.      Effect of Termination of Service or Leave of Absence  . 
+  (a)    For purposes of this Agreement,  Service  shall mean the performance of services for the Company (or any Related Entity) in the capacity of an Employee and shall be considered terminated on the last day the Participant is on payroll.  In the event of termination of the Participant s Service by the Participant or by the Company or a Related Entity for any reason, excluding Participant s death or Disability before the mPRSUs have vested, the unvested mPRSUs shall be cancelled by the Company (subject to the terms of any applicable Employment or Change in Control Agreement).   
+  (b)    In the event of termination of the Participant s Service due to death prior to the Performance Vesting Date, a portion of the mPRSUs granted to the Participant shall vest on the date of death.  To determine the applicable number of Shares, the Target Number of mPRSUs (as set forth in the attached Exhibit A) shall be multiplied by the total number of days from the first day of the Performance Period until the earlier of the date of death or the last day of the Performance Period, divided by the number of days in the Performance Period to determine the  death pro rata  target number of Shares.  The Company s performance under the Vesting Formula (as set forth in the attached Exhibit A) from the first day of the Performance Period until the earlier of the date of death or the last day of the Performance Period shall be applied to the greater of: (i) the  death pro rata  target number of Shares or (ii) 50% of the original Target Number of mPRSUs (as set forth in the attached Exhibit A), to determine the number of Shares which shall vest on the date of death (the  Death Vesting Date ).  Any remaining unvested portion of the mPRSUs shall be cancelled. 
+  (c)    In the event of termination of the Participant s Service due to Disability prior to the Performance Vesting Date, a portion of the mPRSUs granted to the Participant shall vest on the date the Disability is incurred.  To determine the applicable number of Shares, the Target Number of mPRSUs (as set forth in the attached Exhibit A) shall be multiplied by the total number of days from the first day of the Performance Period until the earlier of the date the Disability is incurred or the last day of the Performance Period, divided by the number of days in the Performance Period to determine the  disability pro rata  target number of Shares.  The Company s performance under the Vesting Formula (as set forth in the attached Exhibit A) from the first day of the Performance Period until the earlier of the date the Disability is incurred or the last day of the Performance Period shall be applied to the greater of: (i) the  disability pro rata  target number of Shares or (ii) 50% of the original Target Number of mPRSUs (as set forth in the attached Exhibit A) to determine the number of Shares which shall vest on the date the Disability is incurred (the  Disability Vesting Date , and collectively with  Performance Vesting Date , and the  Death Vesting Date , the  Vesting Date ).  Any remaining unvested portion of the mPRSUs shall be cancelled. 
+  
+   Page   2   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+(d)    Vesting of the mPRSUs will be suspended and vesting credit will no longer accrue as of the day of the Leave of Absence as set forth in Exhibit A, unless otherwise determined by the Administrator or required by contract, statute or applicable local law.  If the Participant returns to Service immediately after the end of an approved Leave of Absence, vesting credit shall continue to accrue from that date of continued Service. 
+      
+  4.      Form and Timing of Payment.     
+  (a)    Subject to Section 5 of this Agreement and provided that the Participant has satisfied the vesting requirements of Section 2 or 3 of this Agreement, on each Vesting Date, as applicable, the mPRSUs shall automatically be converted into unrestricted Shares.  Such Shares will be issued to the Participant (as evidenced by the appropriate entry in the books of the Company or a duly authorized transfer agent of the Company) on the applicable Vesting Date (or as soon as practicable)  ,   but in any event, within the period ending on the later to occur of the date that is 2   months after the end of (i) the Participant s tax year that includes the applicable Vesting Date, or (ii) the Company s tax year that includes the applicable Vesting Date.   
+  (b)    Shares issued in respect of mPRSUs shall be deemed to be issued in consideration of past services actually rendered by the Participant to the Company or a Related Entity or for its benefit for which the Participant has not previously been compensated or for future services to be rendered, as the case may be, which the Company deems to have a value at least equal to the aggregate par value of the Shares subject to the mPRSUs. 
+  5.  Tax Withholding Obligations  .  Regardless of any action the Company or the Participant s employer (the  Employer ) takes with respect to any or all income tax (including federal, state and local taxes), social insurance, payroll tax, payment on account or other tax-related withholding ( Tax-Related Items ), the Participant acknowledges that the ultimate liability for all Tax-Related Items legally due by the Participant is and remains the Participant s responsibility and that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the mPRSUs, including the grant of the mPRSUs, the vesting of the mPRSUs, or the receipt of an equivalent cash payment, the subsequent sale of any Shares acquired at vesting and the receipt of any dividends; and (ii) do not commit to structure the terms of the grant or any aspect of the mPRSUs to reduce or eliminate the Participant s liability for Tax-Related Items or achieve any particular tax result. 
+    
+  Prior to the issuance of Shares upon vesting of the mPRSUs (or any other tax or withholding event), the Participant shall pay, or make arrangements satisfactory to the Company (in the Company s sole discretion) to satisfy all withholding (and payment on account, where applicable) obligations.  In those cases where a prior arrangement has not been made (or where the amount of money provided under the prior arrangement is insufficient to satisfy the obligations for Tax-Related Items), the Company shall withhold a number of whole Shares otherwise deliverable at vesting having a Fair Market Value sufficient to satisfy the statutory minimum (or such higher amount as is allowable without adverse accounting consequences) of the Participant s estimated obligations for Tax-Related Items applicable to the mPRSUs; such withholding will result in the issuance to the participant of a lower number of Shares.   
+  
+   Page   3   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+The Company and/or the Employer may also, in lieu of or in addition to the foregoing, at the Company s sole discretion as authorized herein by the Participant, withhold all applicable Tax-Related Items legally payable by the Participant from the Participant s wages or other cash compensation or to withhold in one of the following ways, as determined by the Company: (i) require the Participant to deposit with the Company an amount of cash sufficient to meet his or her obligation for Tax-Related Items, and/or (ii) sell or arrange for the sale of Shares to be issued on the vesting of the mPRSUs to satisfy the withholding (or payment on account, when applicable) obligation.  If the Participant s obligation for Tax-Related Items is satisfied as described in (ii) of this section, the Company will endeavor to sell only the number of Shares required to satisfy the Participant s obligations for Tax-Related Items; however, the Participant agrees that the Company may sell more Shares than necessary to cover the Tax-Related Items and that in such event, the Company will reimburse the Participant for the excess amount withheld, in cash and without interest.  The Participant shall pay to the Employer any amount of Tax-Related Items that the Employer may be required to withhold as a result of the Participant s receipt of the mPRSUs, the vesting of the mPRSUs that cannot be satisfied by the means previously described.  The Company may refuse to deliver Shares to the Participant if the Participant fails to comply with his or her obligation in connection with the Tax-Related Items as described herein.  The Participant hereby consents to any action reasonably taken by the Company and/or the Employer to meet his or her obligation for Tax-Related Items.   
+  Further, in consideration of the grant of the mPRSUs, no claim or entitlement to compensation or damages arises if, in satisfying the Participant s (and/or the Employer s) obligation for Tax-Related Items, the Company and/or the Employer withholds an amount in excess of the amount legally required to be withheld, the Participant irrevocably releases the Company and the Employer from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by signing this Agreement, the Participant shall be deemed irrevocably to have waived his or her entitlement to pursue such claim or damages. 
+  6.  Restriction on Transferability  .  Prior to vesting and delivery of the Shares, neither the mPRSUs, nor the Shares or any beneficial interest therein, may be sold, transferred, pledged, assigned, or otherwise alienated at any time.  Any attempt to do so contrary to the provisions hereof shall be null and void.  Notwithstanding the above, distribution can be made pursuant to will, the laws of descent and distribution, and if provided by the Administrator, intra-family transfer instruments, or to an inter vivos trust, or as otherwise provided by the Administrator.  The terms of this Agreement shall be binding upon the executors, administrators, heirs, successors and assigns of the Participant. 
+  7.  Requirements of Law  .  The issuance of Shares upon vesting of the mPRSUs is subject to Sections 9 and 14(b) of the Plan, which generally provides that any such issuance shall be subject to compliance by the Company and the Participant with all applicable requirements of law relating thereto and with all applicable regulations of any stock exchange on which the Shares may be listed for trading at the time of such issuance.  The inability of the Company to obtain approval from any regulatory body having authority deemed by the Company to be necessary to the lawful issuance of any Shares hereby shall relieve the Company of any liability with respect to the non-issuance of the Shares as to which such approval shall not have been obtained.  The Company, however, shall use its reasonable efforts to obtain all such approvals. 
+  
+   Page   4   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+8.  Rights as Stockholder  .  The Participant shall not have voting, dividend or any other rights as a stockholder of the Company with respect to the mPRSUs. Upon settlement of the Participant s mPRSUs into Shares (as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company), the Participant will obtain full voting, dividend and other rights as a stockholder of the Company. 
+  9.  No Compensation Deferrals  .  Neither the Plan nor this Agreement is intended to provide for an elective deferral of compensation that would be subject to Section 409A ( Section 409A ) of the Internal Revenue Code of 1986, as amended (the  Code ).  If, notwithstanding the parties  intent in this regard, at the time of the Participant s termination of Service, he or she is determined to be a  specified employee  as defined in Code Section 409A, and one or more of the payments or benefits received or to be received by the Participant pursuant to the mPRSUs would constitute deferred compensation subject to Code Section 409A, no such payment or benefit will be provided under the mPRSUs until the earliest of (A) the date which is six (6) months after the Participant s  separation from service  for any reason, other than death or  disability  (as such terms are used in Section 409A(a)(2) of the Code), (B) the date of the Participant s death or  disability  (as such term is used in Section 409A(a)(2)(C) of the Code), or (C) the effective date of a  change in the ownership or effective control  or a  change in ownership of a substantial portion of the assets  of the Company (as such terms are used in Section 409A(a)(2)(A)(v) of the Code). The provisions of this Section 9 shall only apply to the extent required to avoid the Participant s incurrence of any additional tax or interest under Code Section 409A or any regulations or U.S. Department of the Treasury ( Treasury ) guidance promulgated thereunder.  In addition, if any provision of the mPRSUs would cause the Participant to incur any additional tax or interest under Code Section 409A or any regulations or Treasury guidance promulgated thereunder, the Company reserves the right, to the extent the Company deems necessary or advisable in its sole discretion, to unilaterally amend or modify the Plan and/or this Agreement to conform it to the maximum extent practicable to the original intent of the applicable provision without violating the provisions of Code Section 409A, including without limitation to limit payment or distribution of any amount of benefit hereunder in connection with a Triggering Event to a transaction meeting the definitions referred to in clause (C) above, or in connection with any disability to a  disability  as referred to in (B) above; provided however that the Company makes no representation that these Performance Restricted Stock Units are not subject to Section 409A nor makes any undertaking to preclude Section 409A from applying to these mPRSUs.  In addition, to the extent the Company determines it appropriate to accelerate any vesting conditions applicable to this award, then to the extent necessary to avoid the Participant s incurring any additional tax or interest as a result of such vesting acceleration under Code Section 409A or any regulations or Treasury guidance promulgated thereunder, and notwithstanding Section 4 above, the Company may as a condition to extending such acceleration benefits provide for the Shares to be issued upon settlement of the mPRSUs to be issued on the earliest date (the  Permitted Distribution Date ) that would obviate application of such additional tax or interest rather than issuing them upon the date on which such vesting is effective as would otherwise be required under Section 2 (or as soon as practicable after such Permitted Distribution Date and in no event later than that last day of the grace period following such date permitted under Code Section 409A).   
+  10.  Administration  .  The Administrator shall have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation, and application of the Plan as are consistent therewith and to interpret or revoke any such rules.  All actions taken and all  
+  
+   Page   5   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+interpretations and determinations made by the Administrator shall be final and binding upon the Participant, the Company, and all other interested persons.  No Administrator shall be personally liable for any action, determination, or interpretation made in good faith with respect to the Plan or this Agreement. 
+  11.  Effect on Other Employee Benefit Plans  .  The value of the mPRSUs granted pursuant to this Agreement shall not be included as compensation, earnings, salaries, or other similar terms used when calculating the Participant s benefits under any employee benefit plan sponsored by the Company or any Related Entity, except as such plan otherwise expressly provides.  The Company expressly reserves its rights to amend, modify, or terminate any of the Company s or any Related Entity s employee benefit plans. 
+  12.  No Employment Rights  .  The award of the mPRSUs pursuant to this Agreement shall not give the Participant any right to continued Service with the Company or a Related Entity and shall not interfere with the ability of the Employer to terminate the Participant s Service with the Company at any time with or without cause.  
+  13.  Nature of the Grant  .  In accepting the mPRSUs, the Participant acknowledges that:  
+  (a)  the Plan is established voluntarily by the Company, it is discretionary in nature and may be modified, amended, suspended or terminated by the Company at any time, unless otherwise provided in the Plan and this Agreement;  
+  (b)  the grant of mPRSUs is voluntary and occasional and does not create any contractual or other right to receive future awards of mPRSUs, or benefits in lieu of mPRSUs even if mPRSUs have been awarded repeatedly in the past;  
+  (c)  all decisions with respect to future grants of mPRSUs, if any, will be at the sole discretion of the Company;  
+  (d)  the Participant s participation in the Plan is voluntary;  
+  (e)  the mPRSUs are outside the scope of the Participant s employment contract, if any;  
+  (f)  the mPRSUs are not part of normal or expected compensation or salary for any purpose, including, but not limited to, calculation of any overtime, severance, resignation, termination, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments; 
+  (g)  in the event that the Participant is not an employee of the Company, the grant of the mPRSUs will not be interpreted to form an employment contract or relationship with the Company; and furthermore, the grant of the mPRSUs will not be interpreted to form an employment contract with the Employer or any Related Entity;  
+  (h)  the future value of the underlying Shares is unknown and cannot be predicted with certainty;  
+  
+   Page   6   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+(i)  if the Participant receives Shares upon vesting of the mPRSUs, the value of such Shares may increase or decrease in value;  
+  (j)  in consideration of the grant of the mPRSUs, no claim or entitlement to compensation or damages arises from termination of the mPRSUs or diminution in value of the mPRSUs or Shares received upon vesting of mPRSUs resulting from termination of the Participant s Service to the Company or the Employer (for any reason whatsoever and whether or not in breach of local labor laws) and the Participant irrevocably releases the Company and the Employer from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by signing this Agreement, the Participant shall be deemed irrevocably to have waived his or her entitlement to pursue such claim.  
+  14.  Data Privacy Notice and Consent  .   The Participant hereby explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of his or her personal data as described in this Agreement by and among, as applicable, the Employer, the Company and its Related Entities for the exclusive purpose of implementing, administering and managing the Participant s participation in the Plan. 
+    
+  The Participant understands that the Company and the Employer may hold certain personal information about the Participant, including, but not limited to, the Participant s name, home address and telephone number, date of birth, social insurance number or other identification number, salary, nationality, job title, any shares of stock or directorships held in the Company, details of all mPRSUs or any other entitlement to shares awarded, canceled, vested, unvested or outstanding in the Participant s favor, for the purpose of implementing, administering and managing the Plan ( Data ).   
+  The Participant understands that Data may be transferred to any third parties assisting in the implementation, administration and management of the Plan, that these recipients may be located in the Participant s country, or elsewhere, and that the recipient s country may have different data privacy laws and protections than the Participant s country.  The Participant understands that the Participant may request a list with the names and addresses of any potential recipients of the Data by contacting his or her local human resources representative.  The Participant authorizes the recipients to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing his or her participation in the Plan, including any requisite transfer of such Data as may be required to a broker, escrow agent or other third party with whom the shares received upon vesting of the mPRSUs may be deposited.  The Participant understands that Data will be held only as long as is necessary to implement, administer and manage his or her participation in the Plan.  The Participant understands that he or she may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing his or her local human resources representative.  The Participant understands, however,  that refusal or withdrawal of consent may affect his or her ability to participate in the Plan.  For more information on the consequences of his or her refusal to consent or withdrawal of consent, the Participant understands that he or she may contact his or her local human resources representative. 
+  
+   Page   7   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+15.  Amendment of Agreement  .  This Agreement may be amended only by a writing which specifically states that it amends this Agreement.  Notwithstanding the foregoing, this Agreement may be amended unilaterally by the Committee by a writing which specifically states that it is amending this Agreement, so long as a copy of such amendment is delivered to the Participant, and provided that no such amendment adversely affects the rights of the Participant.  Limiting the foregoing, the Committee reserves the right to change, by written notice to the Participant, the provisions of the mPRSUs or this Agreement in any way it may deem necessary or advisable to carry out the purpose of the grant as a result of any change in applicable laws or regulations or any future law, regulation, ruling, or judicial decision, or, to the extent permissible under the Plan (including, but not limited to, Sections 10, 11 and 13 of the Plan).   
+  16.  Notices  .  Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company in care of its Stock Administrator.  Any notice to be given to the Participant shall be addressed to the Participant at the address listed in the Employer s records.  By a notice given pursuant to this Section, either party may designate a different address for notices.  Any notice shall have been deemed given when actually delivered. 
+  17.  Severability  .  The provisions of this Agreement are severable and if all or any part of this Agreement or the Plan is declared by any court or governmental authority to be unlawful or invalid, such unlawfulness or invalidity shall not invalidate any portion of this Agreement or the Plan not declared to be unlawful or invalid.  Any Section of this Agreement (or part of such a Section) so declared to be unlawful or invalid shall, if possible, be construed in a manner which will give effect to the terms of such Section or part of a Section to the fullest extent possible while remaining lawful and valid. 
+  18.  Construction  .  The mPRSUs are being issued pursuant to the Plan and are subject to the terms of the Plan. A copy of the Plan is available upon request during normal business hours at the principal executive offices of the Company.  To the extent that any provision of this Agreement violates or is inconsistent with a provision of the Plan, the Plan provision shall govern and any inconsistent provision in this Agreement shall be of no force or effect. 
+  19.  Electronic Delivery  .  The Company may, in its sole discretion, decide to deliver any documents related to the mPRSUs granted under the Plan and participation in the Plan or future mPRSUs that may be granted under the Plan by electronic means or to request the Participant s consent to participate in the Plan by electronic means.  The Participant hereby consents to receive such documents by electronic delivery and, if requested, to agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or another third party designated by the Company.   
+  20.  Entire Agreement  .  The Plan is incorporated herein by reference.  The Plan and this Agreement constitute the entire agreement of the Company and the Participant with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and the Participant with respect to the subject matter hereof. 
+  21.  Language  .  If the Participant has received this Agreement or any other document related to the Plan translated into a language other than English and if the translated version is different than the English version, the English version will control. 
+  
+   Page   8   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+22.  Miscellaneous  . 
+  (a)        The Company has established the Plan voluntarily, it is discretionary in nature and the Board may terminate, amend, or modify the Plan at any time; provided, however, that no such termination, amendment, or modification of the Plan may in any way adversely affect the Participant s rights under this Agreement, without the Participant s written approval unless such termination, amendment, or modification of the Plan is necessary in order to comply with any change in applicable laws or regulations or any future law, regulation, ruling, or judicial decision or as otherwise permissible under the Plan (including, but not limited to, Sections 10, 11 and 13 of the Plan). 
+  (b)        All obligations of the Company under the Plan and this Agreement in a Triggering Event shall be governed by the Plan and this Agreement, other than as set forth in Section 3(a) above. 
+    
+  (c)    To the extent not preempted by United States federal law, this Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to its principles of conflict of laws. 
+  23.  Country Specific Terms  .  Appendix A contains additional terms and conditions of the Agreement applicable to Participants residing in those countries.  In addition, Appendix A also contains information and notices of exchange control and certain other issues of which the Participant should be aware. 
+  24.  Acceptance of Terms and Conditions  .  By accepting the terms and conditions of this Agreement, the Participant agrees to abide by all of the governing terms and provisions of the Plan and this Agreement.  Additionally, the Participant acknowledges having read and understood the terms and conditions of the Plan and this Agreement and has had an opportunity to obtain the advice of counsel prior to accepting this Agreement.    The Participant must acknowledge his or her agreement to abide by the terms and conditions of the Plan and Agreement by executing this Agreement electronically or, if otherwise instructed by the Company, by printing and signing a paper copy of this Agreement and returning it to the appropriate Company representative.  In addition, the transfer or sale of the shares obtained at vesting by the Participant shall be considered an additional acknowledgment of the terms and conditions contained in the Plan and Agreement.   
+    
+  *    *    *   *   * 
+
+Page   9   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+PARTICIPANT SIGNATURE 
+    [Electronic Signature] 
+      PRINTED NAME 
+    [Participant Name] 
+      DATE    
+    [Acceptance Date] 
+
+Page   10   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+APPENDIX A 
+  TERMS AND CONDITIONS 
+  This Appendix A, which is part of the Agreement, contains additional terms and conditions of the Agreement that will apply to the Participant if he or she resides in one of the countries listed below.  Capitalized terms used but not defined herein shall have the same meanings assigned to them in the Plan and/or the Agreement.  
+  NOTIFICATIONS 
+  This Appendix A also includes information regarding exchange control and certain other issues of which the Participant should be aware with respect to his or her participation in the Plan.  The information is based on the securities, exchange control and other laws in effect in the respective countries as of November 2015.  Such laws are often complex and change frequently.  The Company therefore strongly recommends that the Participant not rely on the information as the only source of information relating to the consequences of his or her participation in the Plan because such information may be outdated when the Participant vests in the mPRSUs and/or sells any Shares acquired pursuant to the mPRSUs. 
+  AUSTRIA 
+  Exchange Control Information  .  If the Participant holds Shares acquired under the Plan outside of Austria, the Participant must submit a report to the Austrian National Bank.  An exemption applies if the value of the Shares as of any given quarter does not exceed  30,000,000 or as of December 31 does not exceed  5,000,000.  If the former threshold is exceeded, quarterly obligations are imposed; whereas, if the latter threshold is exceeded, annual reports must be provided.  The annual reporting date is December 31 and the deadline for filing the annual report is March 31 of the following year. 
+  When the Participant sells Shares acquired under the Plan, there may be exchange control obligations if the cash proceeds are held outside of Austria.  If the transaction volume of all accounts abroad exceeds  3,000,000 the movements and balances of all accounts must be reported monthly, as of the last day of the month, on or before the fifteenth day of the following month. 
+  BELGIUM 
+  Tax Reporting Information  .  You are required to report any bank accounts opened and maintained outside Belgium on your annual tax return.  As a Belgian tax resident, Participant is required to inform the Central Point of Contact (CPC) of the National Bank of Belgium of overseas income (which includes any Shares received in connection with participation in the Plan) by registering any foreign accounts with the CPC before filing Participant s annual tax return with the Belgian tax authorities.  If Participant has previously reported overseas income, Participant will receive a letter from the tax authorities about this requirement and will have two months from the receipt of such letter to report the accounts to the CPC.  If Participant has not previously reported overseas income, Participant will not receive a letter and must proactively report the required information to the CPC.  
+  
+   Page   11   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+CHINA (PRC) 
+  Exchange Control Restrictions  .  The Participant agrees to comply with any requirements that may be imposed by the Company in the future in order to facilitate compliance with exchange control requirements in China.  These requirements may include, but are not limited to, immediate repatriation to China of the sale proceeds, an immediate sale of the mPRSUs at vesting, and/or repatriation of the cash proceeds through a special exchange control account.   
+  FRANCE 
+  Exchange Control Information  . If the Participant imports or exports cash (e.g., sales proceeds received under the Plan) with a value equal to or exceeding  10,000 and does not use a financial institution to do so, he or she must submit a report to the customs and excise authorities. If the Participant maintains a foreign bank account, he or she is required to report such account to the French tax authorities when filing his or her annual tax return.  
+  GERMANY 
+  Exchange Control Information  . Cross-border payments in excess of  12,500 must be reported monthly to the German Federal Bank. If the Participant uses a German bank to transfer a cross-border payment in excess of  12,500 under the Plan, the bank will make the report for the Participant.  In addition, the Participant must report any receivables or payables or debts in foreign currency exceeding an amount of  5,000,000 on a monthly basis.  
+  IRELAND 
+  Director Notification Requirement  . If the Participant is a director, shadow director or secretary of an Irish Subsidiary or Related Entity of the Company who owns more than a 1% interest in the Company, pursuant to Section 53 of the Irish Company Act 1990, he or she must notify the Irish Subsidiary or Related Entity of the Company in writing within five (5) business days of receiving or disposing of an interest in the Company (e.g., mPRSUs, Shares, etc.), or within five (5) business days of becoming aware of the event giving rise to the notification requirement, or within five (5) days of becoming a director, shadow director or secretary if such an interest exists at that time. This notification requirement also applies with respect to the interests of a spouse or minor child, whose interests will be attributed to the director, shadow director or secretary.  
+  ISRAEL  
+  No additional provisions apply. 
+  ITALY 
+  Plan Document Acknowledgment  .  By accepting the terms and conditions of the mPRSUs, the Participant acknowledges that he or she has received a copy of the Plan and the Agreement and has  
+  
+   Page   12   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+reviewed the Plan and the Agreement, including this Appendix A, in their entirety and fully understands and accepts all provisions of the Plan and the Agreement. 
+  Data Privacy  .  In addition to the data privacy provision that is set forth in the Agreement, the Participant also consents to the following additional data privacy-related terms: 
+  I am aware that providing the Company and my Employer with Data is necessary for participation in the Plan and that my refusal to provide such Data may affect my ability to participate in the Plan.  The Controller of personal data processing is the Company with registered offices at 4650 Cushing Parkway, Fremont, California, 94538, United States and, pursuant to D.lgs 196/2003, its representatives in Italy are Lam Research S.r.l., with registered offices in Centro Direzionale Colleoni, Palazzo Sirio 3-Ing, 20041 Agrate Brianza-MI, Italy. 
+  I understand that I may at any time exercise the rights acknowledged by Section 7 of Legislative Decree June 30, 2003 n.196, including, but not limited to, the right to access, delete, update, request the rectification of my Data and cease, for legitimate reasons, the data processing.  Furthermore, I am aware that my Data will not be used for direct marketing purposes. 
+  Exchange Control Information  .  By September 30th of each year, Participants are required to report on their annual tax return (Form RW) any foreign investments (including proceeds from the sale of Shares) held outside of Italy if the investment may give rise to income in Italy.  However, deposits and bank accounts held outside of Italy only need to be disclosed if the value of the assets exceeds  10,000 during any part of the tax year.   
+  With respect to Shares received, the Participants must report (i) the value of the Shares at the beginning of the year or on the day the Participant acquired the Shares, whichever is later; and (ii) the value of the Shares when sold, or if the Participant still owns the Shares at the end of the year, the value of the Shares at the end of the year.  The value to be reported is the fair market value of the Shares on the applicable dates mentioned above.   
+  JAPAN 
+  Exchange Control Information  .  If the Participant acquired Shares valued at more than  100,000,000 in a single transaction, the Participant must file a Securities Acquisition Report with the Ministry of Finance through the Bank of Japan within 20 days of the purchase of Shares.     In addition, Japanese permanent residents will be required to report, by March 15 of each year, overseas assets that exceed  50,000,000 (approximately US$500,000) at year end. 
+  KOREA 
+  Exchange Control Information  .  If the Participant receives US$500,000 or more from the sale of Shares, Korean exchange control laws require the Participant to repatriate the proceeds to Korea within 36 months of the sale. 
+  
+   Page   13   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+MALAYSIA 
+  Director Notification Requirement  .  If the Participant is a Director of the local Subsidiary, he or she must notify the local Subsidiary of the grant and also provide notice of any change in his or her interest in the mPRSUs (e.g. vesting or the sale of Shares). 
+  Exchange Control Information  .  Because exchange control regulations change frequently and without notice, you should consult your legal advisor before selling shares to ensure compliance with current regulations.  It is Participant s responsibility to comply with exchange control laws in Malaysia, and neither the Company nor your employer will be liable for any fines or penalties resulting from a failure to comply with applicable laws.  For purposes of compiling balance of payment statistics on the inflow and outflow of funds from Malaysia, the Bank Negara Malaysia must be notified of any remittance of funds between residents and non-residents of an amount equal to RM200,001 or greater from Malaysia.   
+  NETHERLANDS 
+  Insider-Trading Notification  .  The Participant should be aware of the Dutch insider-trading rules, which may impact the sale of Shares acquired at vesting of the mPRSUs.  In particular, the Participant may be prohibited from effectuating certain transactions involving Shares if the Participant has inside information about the Company.  If the Participant is uncertain whether the insider-trading rules apply to him or her, the Participant should consult his or her personal legal advisor.  By accepting the Agreement and participating in the Plan, the Participant acknowledges having read and understood this notification and acknowledges that it is the Participant s responsibility to comply with the following Dutch insider-trading rules. 
+  SINGAPORE 
+  Director Notification Obligation  .  Directors of a Singapore Subsidiary or Affiliate are subject to certain notification requirements under the Singapore Companies Act.  Directors must notify the Singapore Subsidiary or Affiliate in writing of an interest (e.g., Shares, etc.) in the Company or any related companies within two (2) days of (i) its acquisition or disposal, (ii) any change in a previously disclosed interest (e.g., when the Shares are sold), or (iii) becoming a director. 
+  Securities Law Information  . The grant is being made on a private basis and is, therefore, exempt from registration in Singapore. 
+  SLOVAKIA 
+  Exchange Control Information  .  It is the Participant s obligation to comply with exchange control requirements in the Slovakia Republic, including any notification requirements applicable to opening or maintaining any foreign bank or brokerage accounts. 
+  SLOVENIA 
+  No additional provisions apply. 
+  
+   Page   14   of   17 
+
+2015 Stock Incentive Plan Market-Based Performance Restricted Stock Unit Award Agreement for International Participants 
+
+SWITZERLAND 
+  Securities Law Information  .  The offer of the mPRSUs is considered a private offering in Switzerland and is therefore not subject to securities registration in Switzerland. 
+  TAIWAN 
+  Exchange Control Information  .  The Participant may acquire and remit foreign currency (including funds for the purchase of Shares and proceeds from the sale of Shares) up to US$5,000,000 per year without prior approval. 
+  If the transaction amount is NTD500,000 or more in a single transaction, the Participant must submit a Foreign Exchange Transaction Form.  If the transaction amount is US$500,000 or more in a single transaction, the Participant must also provide supporting documentation to the satisfaction of the remitting bank. 
+  UNITED KINGDOM 
+  Securities Requirement  .  Due to legal requirements, all mPRSUs at the time of vesting will be settled in Shares. 
+
+Page   15   of   17 
+
+LAM RESEARCH CORPORATION 
+  2015 Stock Incentive Plan  Market-Based Performance Restricted Stock Unit Award Agreement 
+  EXHIBIT A 
+  ([___________] Vesting) 
+
+Participant (Name   Employee Number):    
+    
+  Grant Date:    
+    
+  Target Number of mPRSUs  :    
+    
+  Performance Vesting Date:    
+    
+  Payout Range:   0% to 150% of Target Number of mPRSUs 
+    
+  Performance Period:                             to                                 . 
+    
+  Performance Criteria: 
+
+Index    
+     PHLX Semiconductor Sector Index, a global index traded on the NASDAQ OMX PHLX with a trading symbol of  SOX  
+
+Vesting Formula 
+     Target Number of mPRSUs x (100% + ((LRCX TSR %   Index TSR %) x 2)) = mPRSUs vested (subject to the maximum in the Payout Range) 
+
+Target Number of mPRSUs is vested if the LRCX TSR % equals the Index TSR % 
+                
+    Number of mPRSUs vested increases by 2% of target for each 1% that the LRCX TSR % exceeds the Index TSR % 
+                
+    Number of mPRSUs vested decreases by 2% of target for each 1% that the LRCX TSR % trails the Index TSR % 
+                
+    The result of the Vesting Formula is rounded down to the nearest whole number 
+
+LRCX TSR % 
+     (LRCX 50-trading day average closing price as of the last trading day of the Performance Period   LRCX 50-trading day average closing price on the trading day immediately prior to the beginning of the Performance Period)   (LRCX 50-trading day average closing price on the trading day immediately prior to the beginning of the Performance Period) x 100 
+
+Index TSR % 
+     
+   Page    16   of   17 
+
+    Exhibit A   Market-Based Performance Restricted Stock Unit Award Agreement 
+
+(Index 50-trading day average closing price as of the last trading day of the Performance Period   Index 50-trading day average closing price on the trading day immediately prior to the beginning of the Performance Period)   (Index 50-trading day average closing price on the trading day immediately prior to the beginning of the Performance Period) x 100 
+
+Notes:  
+
+The LRCX TSR % calculation excludes any dividends paid on the Company s common stock.  
+                
+    All Index TSR % calculations are based on the companies traded on the Index as of the applicable dates 
+              o 
+    E.g., The Index is used as of the applicable dates even if companies are added / removed from the Index during the Performance Period. 
+                
+    The Company s relative performance is determined using calculations based on the 50-trading day average closing price methodology for all TSR calculations. 
+                
+    In the event of a Triggering Event, the closing price of the Company s common stock as of the closing date of the Triggering Event is used to convert the sum of the  performance pro rata  and  target pro rata  number of Shares into the Cash Award. 
+                
+    If the Index is no longer traded / calculated, the Company s relative performance is determined using calculations based on the companies included in the Index at the time trading / calculation last occurred.  The Compensation Committee will calculate the Index TSR % in the manner that most closely approximates the Index in its sole discretion. 
+       
+  Leave of Absence:    31st day (or 91st day if reemployment guaranteed by statute or contract) 
+
+Page    17   of   17 
+
+</EX-10.2>
+
+<EX-31.1>
+ 4
+ lrcx1q2019exhibit311.htm
+ EXHIBIT 31.1
+
+Exhibit 
+
+Exhibit 31.1 
+  RULE 13a-14(a)/15d-14(a) CERTIFICATION (PRINCIPAL EXECUTIVE OFFICER) 
+  I, Martin B. Anstice, certify that: 
+  1. I have reviewed this quarterly report on Form 10-Q of Lam Research Corporation; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+  a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+  b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+  d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+  5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+  a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+  b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+  October 23, 2018    
+
+/s/ Martin B. Anstice 
+        
+    Martin B. Anstice 
+        
+    Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ lrcx1q2019exhibit312.htm
+ EXHIBIT 31.2
+
+Exhibit 
+
+Exhibit 31.2 
+  RULE 13a-14(a)/15d-14(a) CERTIFICATION (PRINCIPAL FINANCIAL OFFICER) 
+  I, Douglas R. Bettinger, certify that: 
+  1. I have reviewed this quarterly report on Form 10-Q of Lam Research Corporation; 
+  2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+  3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+  4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+  a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+  b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+  c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+  d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+  5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+  a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+  b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+  October 23, 2018    
+
+/s/ Douglas R. Bettinger 
+        
+    Douglas R. Bettinger 
+        
+    Executive Vice President, Chief Financial Officer 
+        
+    (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ lrcx1q2019exhibit321.htm
+ EXHIBIT 32.1
+
+Exhibit 
+
+Exhibit 32.1 
+  SECTION 1350 CERTIFICATION (PRINCIPAL EXECUTIVE OFFICER) 
+  In connection with the Quarterly Report of Lam Research Corporation (the  Company ) on Form 10-Q for the fiscal period ending   September 23, 2018   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Martin B. Anstice, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to my knowledge, that: 
+  (1) The Report fully complies with the requirements of section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934; and 
+  (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+  October 23, 2018    
+
+/s/ Martin B. Anstice 
+        
+    Martin B. Anstice 
+        
+    Chief Executive Officer 
+
+The foregoing certification is being furnished solely pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, and will not be deemed  filed  for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the  Exchange Act ) or otherwise subject to the liability of that section. Such certification will not be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except to the extent that the Company specifically incorporates it by reference. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ lrcx1q2019exhibit322.htm
+ EXHIBIT 32.2
+
+Exhibit 
+
+Exhibit 32.2 
+  SECTION 1350 CERTIFICATION (PRINCIPAL FINANCIAL OFFICER) 
+  In connection with the Quarterly Report of Lam Research Corporation (the  Company ) on Form 10-Q for the fiscal period ending   September 23, 2018   as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, Douglas R. Bettinger, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to my knowledge, that: 
+  (1) The Report fully complies with the requirements of section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934; and 
+  (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+  October 23, 2018    
+
+/s/ Douglas R. Bettinger 
+        
+    Douglas R. Bettinger 
+        
+    Executive Vice President, Chief Financial Officer 
+        
+    (Principal Financial Officer and Principal Accounting Officer) 
+
+The foregoing certification is being furnished solely pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, and will not be deemed  filed  for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the  Exchange Act ) or otherwise subject to the liability of that section. Such certification will not be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act, except to the extent that the Company specifically incorporates it by reference. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ lrcx-20180923.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ lrcx-20180923_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ lrcx-20180923_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ lrcx-20180923_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ lrcx-20180923_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
