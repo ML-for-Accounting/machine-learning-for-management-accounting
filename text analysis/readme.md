@@ -1,0 +1,1 @@
+The additional python file gensim_lda_library.py contains several helper algorithms. If you want to experiment with the examples in this folder, you need to copy the python file to your environment. The algorithms mainly combine different pre-processing task into one convenient function.
