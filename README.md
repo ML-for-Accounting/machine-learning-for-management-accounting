@@ -1,5 +1,5 @@
 # Machine learning for management accounting
-Here you can find the code for the examples provided in the research article *Machine learning in management accounting research: Literature review and pathways for the future*.
+Here you can find the code for the examples provided in the research article *Machine learning in management accounting research: Literature review and pathways for the future*. The article is forthcoming in European Accounting Review, but the working paper version can be downloaded from https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3822650
 
 The folder *explainable AI* contains the example for Section 5.1. It also includes a dataset that can be used to experiment with the example. **However, the dataset is a randomized version of the original dataset used in the paper**. Thus, it cannot be used for research.
 
