@@ -92,21 +92,6 @@ def return_fixed_levels(SHAP_values_df,x_df,variable,no_bins):
     highs = bins1[1:]
     return means,lows,highs
 
-# Calcultes shap values with automatic optimisation using cross-validation.
-def boot_shap(sample_df,x_variables,y_variable,param,metrics,esr,b_rounds):
-    y_df = sample_df[y_variable]
-    x_df = sample_df[x_variables]
-    dtrain = xgb.DMatrix(x_df, label=y_df, nthread = -1)
-    if not b_rounds:
-        cv_results = xgb.cv(param,dtrain,num_boost_round=1000,nfold=5,early_stopping_rounds=esr,seed=None,metrics=metrics)
-        b_rounds = len(cv_results)
-        print("Optimal number of trees: " + str(b_rounds), end = '\r', flush=True)
-    bst = xgb.train(param,dtrain,num_boost_round=b_rounds)
-    explainerXGB = shap.TreeExplainer(bst)
-    shap_values_np = explainerXGB.shap_values(x_df,y_df,check_additivity=False)
-    shap_values_df = pd.DataFrame(shap_values_np,columns = x_df.columns)
-    return shap_values_df
-
 # Bootstrap average levels for Fixed bins. If you are using block-sampling, the sample-variation makes it difficult to use adaptive bins.
 def bootstrap_fixed_bins(bootstrap_shaps_df,bootstrap_samples_df,nobs,variable, no_bins ,conf_limit=0.05):
     rounds = int(len(bootstrap_shaps_df)/nobs)
@@ -125,18 +110,6 @@ def bootstrap_fixed_bins(bootstrap_shaps_df,bootstrap_samples_df,nobs,variable, 
     samples_levels_df['Lows'] = lows
     samples_levels_df['Highs'] = highs
     return samples_levels_df
-
-# Calcultes bootstrap. Returns x-values dataframe and shap-dataframe.
-def calculate_bootstrap(original_df,x_variables,y_variable,param,block_variable,n_values,metrics,num_trees=False,boot_rounds=50, esr=50):
-    bootstrap_shaps_df = pd.DataFrame()
-    bootstrap_samples_df = pd.DataFrame()
-    for i in range(boot_rounds):
-        sample_df = block_sampler(original_df,block_variable,n_values=n_values)
-#        sample_df = random_sampler(original_df,n_values=n_values)
-        bootstrap_samples_df = bootstrap_samples_df.append(sample_df[x_variables])
-        print('Round: ' + str(i), end = '\r',flush=True)
-        bootstrap_shaps_df = bootstrap_shaps_df.append(boot_shap(sample_df,x_variables,y_variable,param, esr = esr,metrics=metrics,b_rounds=num_trees))
-    return bootstrap_samples_df,bootstrap_shaps_df
 
 # Plot ALL bootstrap shap values with a mean value and conf intervals
 def plot_bootstrarp_shaps(bootstrap_samples_df,bootstrap_shaps_df,x_vars, nobs, no_bins, plot_arr,
